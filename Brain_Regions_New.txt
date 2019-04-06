@@ -34,14 +34,14 @@ Metencephalon
 Pons
 Pontine nuclei
 Pontine cranial nerve nuclei
-chief nucleus of the trigeminal nerve sensory nucleus (V)
-pontine nucleus of the trigeminal nerve sensory nucleus (V)
-Motor nucleus for the trigeminal nerve (V)
-Abducens nucleus (VI)
-Facial nerve nucleus (VII)
-vestibulocochlear nuclei (VIII)
-vestibular nuclei (VIII)
-cochlear nuclei (VIII)
+chief nucleus of the trigeminal nerve sensory nucleus 
+pontine nucleus of the trigeminal nerve sensory nucleus
+Motor nucleus for the trigeminal nerve
+Abducens nucleus
+Facial nerve nucleus
+vestibulocochlear nuclei
+vestibular nuclei
+cochlear nuclei 
 Superior salivatory nucleus
 Pontine tegmentum
 Pontine micturition center 
@@ -107,9 +107,9 @@ Interpeduncular nucleus
 Cerebral peduncle
 Crus cerebri
 Mesencephalic cranial nerve nuclei
-Oculomotor nucleus (III)
+Oculomotor nucleus
 Edinger-Westphal nucleus
-Trochlear nucleus (IV)
+Trochlear nucleus 
 Mesencephalic duct 
 cerebral aqueduct 
 aqueduct of Sylvius
@@ -204,10 +204,10 @@ Hippocampus 
 Medial Temporal Lobe
 Dentate gyrus
 Cornu ammonis 
-Cornu ammonis area 1 (CA1)
-Cornu ammonis area 2 (CA2)
-Cornu ammonis area 3 (CA3)
-Cornu ammonis area 4 (CA4)
+Cornu ammonis area 1 
+Cornu ammonis area 2 
+Cornu ammonis area 3
+Cornu ammonis area 4
 Amygdala
 Central nucleus 
 Medial nucleus 
@@ -261,8 +261,8 @@ Superior frontal gyrus
 Middle frontal gyrus
 Inferior frontal gyrus
 Parietal lobe
-Primary somatosensory cortex (S1)
-Secondary somatosensory cortex (S2)
+Primary somatosensory cortex 
+Secondary somatosensory cortex 
 Posterior parietal cortex
 Postcentral gyrus 
 Primary somesthetic area
@@ -278,8 +278,8 @@ V5/MT
 Lateral occipital gyrus
 Cuneus
 Temporal lobe
-Primary auditory cortex (A1)
-secondary auditory cortex (A2)
+Primary auditory cortex 
+secondary auditory cortex 
 Inferior temporal cortex
 Posterior inferior temporal cortex
 Superior temporal gyrus
@@ -289,7 +289,7 @@ Entorhinal cortex
 Perirhinal cortex
 Parahippocampal gyrus
 Fusiform gyrus
-Medial superior temporal area (MST)
+Medial superior temporal area 
 Insular cortex
 Cingulate cortex
 Anterior cingulate
