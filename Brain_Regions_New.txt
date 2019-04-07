@@ -20,28 +20,28 @@ Gigantocellular reticular nucleus
 Parafacial zone
 Cuneate nucleus
 Gracile nucleus
-Perihypoglossal nuclei
+Perihypoglossal nucleus
 Intercalated nucleus
 Prepositus nucleus
 Sublingual nucleus
 Area postrema
-Medullary cranial nerve nuclei
+Medullary cranial nerve nucleus
 Inferior salivatory nucleus
 Nucleus ambiguus
 Dorsal nucleus of vagus nerve
 Hypoglossal nucleus
 Metencephalon
 Pons
-Pontine nuclei
-Pontine cranial nerve nuclei
+Pontine nucleus
+Pontine cranial nerve nucleus
 chief nucleus of the trigeminal nerve sensory nucleus 
 pontine nucleus of the trigeminal nerve sensory nucleus
 Motor nucleus for the trigeminal nerve
 Abducens nucleus
 Facial nerve nucleus
-vestibulocochlear nuclei
-vestibular nuclei
-cochlear nuclei 
+vestibulocochlear nucleus
+vestibular nucleus
+cochlear nucleus 
 Superior salivatory nucleus
 Pontine tegmentum
 Pontine micturition center 
@@ -74,7 +74,7 @@ Cerebellar hemispheres
 Anterior lobe
 Posterior lobe
 Flocculonodular lobe
-Cerebellar nuclei
+Cerebellar nucleus
 Fastigial nucleus
 Interposed nucleus
 Globose nucleus
@@ -106,7 +106,7 @@ Pars reticulata
 Interpeduncular nucleus
 Cerebral peduncle
 Crus cerebri
-Mesencephalic cranial nerve nuclei
+Mesencephalic cranial nerve nucleus
 Oculomotor nucleus
 Edinger-Westphal nucleus
 Trochlear nucleus 
@@ -118,7 +118,7 @@ prosencephalon
 Diencephalon
 Epithalamus
 Pineal body
-Habenular nuclei
+Habenular nucleus
 Stria medullaris
 Taenia thalami
 Third ventricle
@@ -171,9 +171,9 @@ Dorsomedial hypothalamic nucleus
 Ventromedial nucleus
 Arcuate nucleus
 Tuberal part of Lateral nucleus
-Lateral tuberal nuclei
+Lateral tuberal nucleus
 Posterior
-Mammillary nuclei 
+Mammillary nucleus 
 mammillary bodies
 Posterior nucleus
 Lateral nucleus
@@ -211,10 +211,10 @@ Cornu ammonis area 4
 Amygdala
 Central nucleus 
 Medial nucleus 
-Cortical nuclei
-basomedial nuclei 
-Lateral nuclei
-basolateral nuclei
+Cortical nucleus
+basomedial nucleus 
+Lateral nucleus
+basolateral nucleus
 Stria terminalis
 Bed nucleus of the stria terminalis
 Claustrum
@@ -236,8 +236,8 @@ Anterior perforated substance
 Substantia innominata
 Nucleus basalis
 Diagonal band of Broca
-Septal nuclei
-Medial septal nuclei
+Septal nucleus
+Medial septal nucleus
 Lamina terminalis
 Vascular organ of lamina terminalis
 Rhinencephalon
@@ -255,6 +255,7 @@ Precentral gyrus
 Supplementary motor cortex
 Premotor cortex
 Prefrontal cortex
+Pre-frontal cortex
 Orbitofrontal cortex
 Dorsolateral prefrontal cortex
 Superior frontal gyrus
@@ -320,10 +321,10 @@ Mesocortical pathway
 Mesolimbic pathway
 Nigrostriatal pathway
 Tuberoinfundibular pathway
-Raphe Nuclei
+Raphe nucleus
 Locus coeruleus  
 adrenergic cell groups
-mesopontine nuclei
+mesopontine nucleus
 Extrapyramidal system
 Pyramidal tract
 Corticospinal tract 
