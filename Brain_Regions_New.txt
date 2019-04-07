@@ -210,11 +210,17 @@ Cornu ammonis area 3
 Cornu ammonis area 4
 Amygdala
 Central amygdala 
+Central amygdaloid 
 Medial amygdala 
+Medial amygdaloid 
 Cortical amygdala
+Cortical amygdaloid
 basomedial amygdala 
+basomedial amygdaloid 
 Lateral amygdala
+Lateral amygdaloid
 basolateral amygdala
+basolateral amygdaloid
 Stria terminalis
 Bed nucleus of the stria terminalis
 Claustrum
