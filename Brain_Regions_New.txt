@@ -10,7 +10,7 @@ Dorsal respiratory group
 Ventral respiratory group 
 Apneustic centre
 Pre-Bötzinger complex
-Botzinger complex
+Bötzinger complex
 Retrotrapezoid nucleus
 Nucleus retrofacialis
 Nucleus retroambiguus
