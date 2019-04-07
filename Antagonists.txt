@@ -205,7 +205,8 @@ EGIS-12233 
 Idalopirdine 
 Lu AE58054
 Intepirdine 
-SB-742,457/RVT-101 
+SB-742,457
+RVT-101 
 Landipirdine 
 RO-5025181
 SYN-120
