@@ -209,12 +209,12 @@ Cornu ammonis area 2
 Cornu ammonis area 3
 Cornu ammonis area 4
 Amygdala
-Central nucleus 
-Medial nucleus 
-Cortical nucleus
-basomedial nucleus 
-Lateral nucleus
-basolateral nucleus
+Central amygdala 
+Medial amygdala 
+Cortical amygdala
+basomedial amygdala 
+Lateral amygdala
+basolateral amygdala
 Stria terminalis
 Bed nucleus of the stria terminalis
 Claustrum
