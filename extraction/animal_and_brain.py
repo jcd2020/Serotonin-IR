@@ -54,12 +54,12 @@ def get_regex(name):
     py_file.write("#!/usr/bin/python\n# -*- coding: utf-8 -*-\n")
     varname ="pats=["
     for l in f:
-        pattern = "u\"(?i)"
+        pattern = "ur\"(?i)" + r"\b"
         wrds = re.compile("-|\s").split(l)
 #         print(wrds)
-        pattern += "(-|\s+)?".join(list(map(lambda x : "(" + p.plural(x.lower()) + "|" + x.lower() + ")", wrds))) + "\""
+        pattern += "(-|\s+)?".join(list(map(lambda x : "(" + p.plural(x.lower()) + "|" + x.lower() + ")", wrds))) + r"\b" + "\""
         pat = create_umlaut_variants(pattern)
-        if len(pat) <= 10 or pat in ptrns:
+        if len(pat) <= 15 or pat in ptrns:
             continue   
         ptrns.add(pat)
         varname += pat + ",\n"
