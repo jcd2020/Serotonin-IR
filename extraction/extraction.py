@@ -44,6 +44,36 @@ def get_sub(suff):
         if(re.search(v,suff)):
             return k
     return ReceptorSubtype.NONE
+def extract_receptor(doc):
+    recepts = set()
+    pre = re.compile(ReceptorPrefix._5HT.value)
+    for x in pre.finditer(doc):
+        suffix = doc[x.end():(x.end()+10)]
+        suffixes = re.split(",|/",suffix.replace("(", "").replace(")", "").replace("-", ""))
+        pre_family = ReceptorFamily.NONE
+        for suff in suffixes:
+            recept = Receptor()
+            recept.pre = ReceptorPrefix._5HT
+            
+            suff = suff.strip()
+            match = pre.search(suff)
+            if match and match.start() == 0:
+                continue
+            if len(suff) > 0:
+                suff_fam,end = get_family(suff[0])
+                if suff[end] == 'h':
+                    continue
+                if suff_fam == ReceptorFamily.NONE:
+                    suff_fam = pre_family
+                pre_family = suff_fam
+                recept.fam = suff_fam
+                suff = suff[end:].strip()
+                if len(suff) > 0:
+                    sub = get_sub(suff[0])
+                    recept.sub = sub
+            if recept.fam != ReceptorFamily.NONE:
+                recepts.add(str(recept))
+    return recepts
 def extract_agonists(doc):
     compiled = list(map(lambda x : re.compile(x), ag.strs))
     found = set()
@@ -69,32 +99,7 @@ def extract_antagonists(doc):
         for st in ls:
             found.add(st)
     return found
-def extract_receptor(doc):
-    recepts = set()
-    pre = re.compile(ReceptorPrefix._5HT.value)
-    for x in pre.finditer(doc):
-        suffix = doc[x.end():(x.end()+10)]
-        suffixes = re.split(",|/",suffix.replace("(", "").replace(")", "").replace("-", ""))
-        pre_family = ReceptorFamily.NONE
-        for suff in suffixes:
-            recept = Receptor()
-            recept.pre = ReceptorPrefix._5HT
-            suff = suff.strip()
-            if len(suff) > 0:
-                suff_fam,end = get_family(suff[0])
-                if suff[end] == 'h':
-                    continue
-                if suff_fam == ReceptorFamily.NONE:
-                    suff_fam = pre_family
-                pre_family = suff_fam
-                recept.fam = suff_fam
-                suff = suff[end:].strip()
-                if len(suff) > 0:
-                    sub = get_sub(suff[0])
-                    recept.sub = sub
-            if recept.fam != ReceptorFamily.NONE:
-                recepts.add(str(recept))
-    return recepts
+
 def extract_regions(doc):
     compiled = list(map(lambda x : re.compile(x), br.pats))
     count = 0
