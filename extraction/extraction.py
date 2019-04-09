@@ -82,6 +82,8 @@ def extract_receptor(doc):
             suff = suff.strip()
             if len(suff) > 0:
                 suff_fam,end = get_family(suff[0])
+                if suff[end] == 'h':
+                    continue
                 if suff_fam == ReceptorFamily.NONE:
                     suff_fam = pre_family
                 pre_family = suff_fam
