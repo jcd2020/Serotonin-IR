@@ -1,0 +1,4 @@
+Jenck, F., et al. (1989). "Opposite control mediated by central 5-HT1A and non-5-HT1A (5-HT1B or 5-HT1C) receptors on periaqueductal gray aversion." Eur J Pharmacol 161(2-3): 219-221.
+
+	8-OH-DPAT, a selective 5-HT1A agonist, and mCPP, which has preferential affinity for 5-HT1B and 5-HT1C receptors, were studied for their effects on aversive brain stimulation in rats. Opposite effects were found with these two agonists: D, L-8-hydroxy-N,N-dipropyl-2-aminotetralin HBr (8-OH-DPAT; 0.1-1.0 mg/kg i.p.) dose dependently decreased the threshold for neurostimulation-induced escape behaviour while mCPP (0.1-1.0 mg/kg i.p.) dose dependently increased the threshold. The proaversive effect of 8-OH-DPAT and the antiaversive effect of mCPP suggest that 5-HT1A and non-5-HT1a (5-HT1B or 5-HT1C) receptors play distinct roles in mechanisms of aversion, perhaps at different locations in the CNS.
+

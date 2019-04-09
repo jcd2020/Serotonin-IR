@@ -1,0 +1,4 @@
+Rosier, A., et al. (1996). "Visualisation of loss of 5-HT2A receptors with age in healthy volunteers using F-18 altanserin and positron emission tomographic imaging." Psychiatry Research-Neuroimaging 68(1): 11-22.
+
+	We used [F-18]altanserin and positron emission tomography (PET) to image serotonin 5-HT2A receptors in humans. The highest [F-18]altanserin uptake is found in the cerebral cortex, with specific-to-nonspecific binding ratios varying from 0.53 to 1.91 in humans between 24 and 48 years of age. In all neocortical regions studied, [F-18]altanserin uptake correlates negatively with age. No correlations were found between age and uptake in the cerebellum, the regional cerebral blood flow, or the time course of metabolization of [F-18]altanserin. The reduction in cerebral 5-HT2A receptor binding thus directly reflects the loss of specific 5-HT2A receptors with age. Copyright (C) 1996 Elsevier Science Ireland Ltd.
+

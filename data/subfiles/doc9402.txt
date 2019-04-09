@@ -1,0 +1,4 @@
+Nics, L., et al. (2012). "Quantification of the radio-metabolites of the serotonin-1A receptor radioligand carbonyl-C-11 WAY-100635 in human plasma: An HPLC-assay which enables measurement of two patients in parallel." Applied Radiation and Isotopes 70(12): 2730-2736.
+
+	[Carbonyl-C-11]WAY-100635 is a potent and effective antagonist for the 5-HT1A receptor subtype. We aimed to assess the status of [carbonyl-C-11]WAY-100635 and its main radio-metabolites, [carbonyl-C-11]desmethyl-WAY-100635 and [carbonyl-C-11]cyclohexanecarboxylic acid, on the basis of an improved radio-HPLC method. Common methods were characterized by preparative HPLC columns with long runtimes and/or high flow rates. Considering the short half-life of C-11, we developed a more rapid and solvent saving HPLC assay, allowing a fast, efficient and reliable quantification of these major metabolites. (C) 2012 Elsevier Ltd. All rights reserved.
+

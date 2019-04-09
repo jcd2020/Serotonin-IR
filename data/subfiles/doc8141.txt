@@ -1,0 +1,4 @@
+Masuda, Y., et al. (2001). "Alpha 2-adrenoceptor activity induces the antidepressant-like glycolipid in mouse forced swimming." Methods Find Exp Clin Pharmacol 23(1): 19-21.
+
+	Antidepressants show an antidepressive-like behavioral effect on mouse forced swimming via induction of GalNAc alpha 1-3GalNAc-lipid. In order to detect the mechanisms of the neuron receptor activities on the effect, the glycolipid reactivities in the serum induced by tandospirone, a specific 5-HT1A receptor agonist, and clonidine, a specific alpha 2-adrenoceptor agonist, were investigated. Both of these agonists showed dose-dependent behavioral effects which were decreased by pretreatment with yohimbine, a specific alpha 2-adrenoceptor antagonist. The glycolipid reactivities corresponded with the effects. These present findings strongly suggest that alpha 2-adrenoceptor activity in the brain mediates the induction of the antidepressant glycolipid in the forced swimming test.
+

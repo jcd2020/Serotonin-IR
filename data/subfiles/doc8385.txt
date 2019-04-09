@@ -1,0 +1,4 @@
+Meijer, O. C. and E. R. de Kloet (1994). "Corticosterone suppresses the expression of 5-HT1A receptor mRNA in rat dentate gyrus." Eur J Pharmacol 266(3): 255-261.
+
+	The effect of corticosterone on 5-HT1A receptor mRNA expression in different hippocampal cell fields was studied by in situ hybridisation. One week after adrenalectomy or chronic corticosterone treatment, the 5-HT1A receptor mRNA showed a negative, but not linear, correlation with plasma corticosterone levels over a wide concentration range, specifically in the dentate gyrus. The data suggest an involvement of the mineralocorticoid receptor in the regulation of the 5-HT1A receptor mRNA and a possible synergistic effect of additional glucocorticoid receptor activation.
+

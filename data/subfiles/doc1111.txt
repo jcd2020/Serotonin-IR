@@ -1,0 +1,4 @@
+Bilsky, E. J. and L. D. Reid (1991). "MDL72222, A SEROTONIN 5-HT3 RECEPTOR ANTAGONIST, BLOCKS MDMAS ABILITY TO ESTABLISH A CONDITIONED PLACE PREFERENCE." Pharmacology Biochemistry and Behavior 39(2): 509-512.
+
+	Methylenedioxymethamphetamine (MDMA) has previously been shown to produce a positive conditioned place preference (CPP) among rats. Here the effects of doses of a specific 5-HT3 antagonist, MDL72222, on MDMA's ability to produce a CPP were assessed. A dose of MDL72222 (0.03 mg/kg) blocked the establishment of a MDMA CPP. These results support the suggestions that compounds affecting the 5-HT3 receptor may be of particular interest in studying the pharmacology of self-administered drugs.
+

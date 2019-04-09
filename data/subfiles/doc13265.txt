@@ -1,0 +1,4 @@
+Waeber, C., et al. (1993). "[3H]-GR113808 labels 5-HT4 receptors in the human and guinea-pig brain." Neuroreport 4(11): 1239-1242.
+
+	A tritiated specific and highly potent 5-HT4 antagonist: [3H]-GR113808 was used to label specific binding sites in human brain and for comparison in guinea-pig brain. [3H]-GR113808 association and dissociation were rapid, the binding was saturable and displaced by various serotoninergic agents with an affinity corresponding to their previously reported 5-HT4 receptor mediated effects. In vitro ligand binding autoradiography was used to investigate the distribution of [3H]-GR113808 recognition sites on human brain sections. The highest density was observed in the striato-nigral system. Low densities of binding sites were also found in hippocampus, neocortex and colliculus. This distribution of [3H]-GR113808 binding sites is similar to that found in the guinea-pig brain.
+

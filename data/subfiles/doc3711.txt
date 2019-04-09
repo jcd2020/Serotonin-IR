@@ -1,0 +1,4 @@
+Feuerstein, T. J., et al. (1996). "5-HT1D-like receptors inhibit the release of endogenously formed [3H]GABA in human, but not in rabbit, neocortex." Neurosci Lett 209(3): 210-214.
+
+	Both human and rabbit brain contain the 5-hydroxytryptamine (5-HT)1D subtype of 5-HT1 receptors. We studied the effects of 5-HT1D receptor stimulation on neocortical [3H] gamma-aminobutyric acid (GABA) release from GABAergic neurons in these species. The 5-HT1D receptor agonist sumatriptan depressed [3H]GABA release in human neocortex and the 5-HT1 receptor antagonist metitepin prevented this depression with potencies suggesting mediation by 5-HT1D-like receptors. In rabbit neocortex, however, 5-HT1D agonists did not affect the release of [3H]GABA. Since 5-HT and GABA seem to function antagonistically in anxiety disorders their neocortical interaction may be (patho)physiologically relevant.
+

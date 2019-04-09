@@ -1,0 +1,4 @@
+Schoeffter, P. and D. Hoyer (1991). "Interaction of the alpha-adrenoceptor agonist oxymetazoline with serotonin 5-HT1A, 5-HT1B, 5-HT1C and 5-HT1D receptors." Eur J Pharmacol 196(2): 213-216.
+
+	Oxymetazoline was recognized with nanomolar affinity by 5-HT1A, 5-HT1B and 5-HT1D binding sites and mimicked the effects of 5-hydroxytryptamine with about the same potency and intrinsic activity as the endogenous amine in the corresponding functional tests. At 5-HT1C receptors, oxymetazoline behaved as a mixed agonist-antagonist. Clonidine had minimal activity. Methiothepin antagonized the effects of oxymetazoline (7.4 less than pKB less than 8.8). Thus, oxymetazoline is a full and potent agonist at 5-HT1A, 5-HT1B and 5-HT1D receptors and a partial agonist at 5-HT1C receptors.
+

@@ -1,0 +1,4 @@
+Sugita, S., et al. (1992). "5-hydroxytryptamine is a fast excitatory transmitter at 5-HT3 receptors in rat amygdala." Neuron 8(1): 199-203.
+
+	A fast excitatory synaptic potential mediated by 5-hydroxytryptamine (5-HT) was recorded in rat lateral amygdala neurons in brain slices. The synaptic potential has brief duration (tens of milliseconds), is mimicked by 5-HT, is potentiated by a 5-HT uptake inhibitor, and is blocked by selective 5-HT3 receptor antagonists. The underlying synaptic current reversed polarity at about 0 mV. This is an example of fast neurotransmission in the mammalian brain mediated by an amine rather than an amino acid. The antiemetic, anxiolytic, and perhaps antipsychotic actions of 5-HT3 antagonists might result from blockade of such synapses.
+

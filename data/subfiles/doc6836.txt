@@ -1,0 +1,4 @@
+Kriem, B., et al. (1995). "Involvement of 5-HT3 receptor in the pressure-induced increase in striatal and accumbens dopamine release and the occurrence of behavioral disorders in free-moving rats." Neurosci Lett 197(1): 57-60.
+
+	Rats exposed to high pressure developed locomotor and motor activity (LMA) that correlated with an increase of DA release in both the nucleus accumbens and the caudate-putamen. We investigated the effects of the 5-HT3 receptor antagonist MDL 72222 on these pressure-induced neurochemical and behavioral disorders. MDL 72222 totally blocked the pressure-induced increase in accumbens DA release and the development of LMA, whereas it only reduced the increase in striatal DA release. This suggest that both LMA and the increase of DA release in the nucleus accumbens, but not in the caudate-putamen, could specifically result from a 5-HT3 receptor activation in rats exposed to high pressure.
+

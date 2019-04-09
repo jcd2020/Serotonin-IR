@@ -1,0 +1,4 @@
+Cumberbatch, M. J., et al. (1997). "Rizatriptan has central antinociceptive effects against durally evoked responses." Eur J Pharmacol 328(1): 37-40.
+
+	The 5-HT1B/1D receptor agonist rizatriptan constricts intracranial, extracerebral blood vessels, inhibits neurogenic vasodilation and extravasation in the meninges and is effective clinically against migraine. The present study has investigated whether rizatriptan may also have activity at 5-HT1B/1D receptors within the central nervous system (CNS) that contributes to its antimigraine effects. Action potentials evoked by electrical stimulation of the dura-mater were recorded extracellularly from single neurones in the trigeminal nucleus caudalis in anaesthetized rats. Rizatriptan dose dependently inhibited these nociceptive dural responses by up to 63 +/- 9% after 3 mg/kg, i.v. Rizatriptan therefore has central activity which may contribute to its efficacy against migraine headache.
+

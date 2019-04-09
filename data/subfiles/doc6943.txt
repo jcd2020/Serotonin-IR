@@ -1,0 +1,4 @@
+Kuroki, T., et al. (1996). "R(+)-8-OH-DPAT, a 5-HT1A receptor agonist, inhibits amphetamine-induced serotonin and dopamine release in rat medial prefrontal cortex." Brain Res 743(1-2): 357-361.
+
+	Pretreatment with R(+)-8-OH-DPAT, a selective serotonin (5-HT)1A receptor agonist (50 micrograms/kg, s.c.), inhibited D-amphetamine sulfate (1.0 mg/kg, s.c.)-induced increases in extracellular levels of both 5-HT and dopamine (DA) in rat medial prefrontal cortex, as determined by in vivo microdialysis. The inhibitory effect of R(+)-8-OH-DPAT was completely reversed by the selective 5-HT1A receptor antagonist WAY 100,635 (100 micrograms/kg s.c.) administered 5 min prior to R(+)-8-OH-DPAT. These results suggest that stimulation of 5-HT1A receptors may inhibit amphetamine-induced release of 5-HT and DA in the medial prefrontal cortex.
+

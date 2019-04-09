@@ -1,0 +1,4 @@
+Chilmonczyk, Z. (2000). "Ligand-5-HT1A receptor interaction." Farmaco 55(3): 191-193.
+
+	In the present paper the general structure and pharmacophore of some 5-HT1A receptor ligands are described, For several compounds (similar to 15)the intrinsic activity in lower lip retraction (postsynaptic, rat) and hypothermia (presynaptic, mice) tests was determined. For the identified functional presynaptic agonists and antagonists the influence on the brain serotonin level was examined. No direct correlation between the functional intrinsic activity and the influence on the level was observed. Molecular modelling revealed the possibility of the existence of different binding sites for different examined compounds. (C) 2000 Elsevier Science S.A. All rights reserved.
+

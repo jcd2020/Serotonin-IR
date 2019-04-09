@@ -1,0 +1,4 @@
+Castan, F., et al. (1996). "New arylpiperazine derivatives with high affinity for 5-HT3 receptor sites." Medicinal Chemistry Research 6(2): 81-101.
+
+	The synthesis and 5-HT3 affinities of 3- and 4-substituted -2-(1-piperazinyl) or -(4-methyl-1-piperazinyl)quinoline are reported. These compounds display higher affinities than derivatives from the same chemical family, such as quipazine or 7-(4-methyl-1-piperazinyl)-6H-[1] benzopyrano[3,4-c]quinoline 3c. For a better understanding of the conformational behavior of these new arylpiperazine derivatives in their interaction with the 5-HT3 recognition sites, a computational study is presented, which shows the importance of steric hindrance at the 3-position of the quinoline ring.
+

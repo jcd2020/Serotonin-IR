@@ -1,0 +1,4 @@
+Heidenreich, B. A. and T. C. Napier (2000). "Effects of serotonergic 5-HT1A and 5-HT1B ligands on ventral pallidal neuronal activity." Neuroreport 11(13): 2849-2853.
+
+	To clarify the role of the 5-HT system in limbic outputs, the present study compared the effects of the 5-HT1A agonist 8-OH-DPAT and the 5-HT1B agonist CP-94253 with the non-selective 5-HT agonist TFMPP on the firing rate of ventral pallidal (VP) neurons recorded in chloral hydrate-anesthetized rats. 8-OH-DPAT (0.25-256 microg/kg i.v.) dose-dependently enhanced (9/26 neurons) or suppressed (8/26) activity, and the 5-HT1A antagonist (+)WAY-100135 often attenuated these responses. TFMPP (0.011-1.453 mg/kg i.v.) dose-dependently reduced the firing rate of 7/8 VP neurons tested. In contrast, CP-94253 (0.013-12.8 mg/kg i.v.) had little or no effect. In sum, these data suggest that the 5-HT1A receptor appears to be particularly important in influencing limbic outputs mediated via the VP.
+

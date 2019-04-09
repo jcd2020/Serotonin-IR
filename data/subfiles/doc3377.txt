@@ -1,0 +1,4 @@
+Eglen, R. M., et al. (1997). "Cloned and native guinea pig 5-ht7 receptors. Characterization using an integrated approach." Ann N Y Acad Sci 812: 216-217.
+
+	Structural criteria, i.e., primary sequence homology, indicates a unique 5-HT subtype. Operational criteria suggest that this is also true, although no selective agonist or antagonist is available to fully define the receptor, and thus its function in vivo. Transductional data provide perhaps the weakest criterion to define the receptor, since at least two other subtypes (5-HT4 and 5-ht6) signal via the same second messenger. These criteria, taken together, suggest that the cloned sequence represents an endogenously expressed 5-HT receptor and should be referred to as "5-HT7" receptors, rather than "5-ht7".
+

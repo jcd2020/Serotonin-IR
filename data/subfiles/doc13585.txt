@@ -1,0 +1,4 @@
+Wong, D. T., et al. (1989). "Specific [3H]LY278584 binding to 5-HT3 recognition sites in rat cerebral cortex." Eur J Pharmacol 166(1): 107-110.
+
+	Binding of [3H]LY278584 a 1-methyl-indazole-carboxamide, to putative 5-HT3 recognition sites in membranes isolated from cerebral cortex of rat brain, is examined. Specific binding of [3H]LY278584 accounts for 83-93% of total binding. The unlabelled LY278584 has 500 times greater affinity for [3H]LY278584 recognition sites than its 2-methyl analogue (LY278989), and their potencies parallel their antagonism of the peripheral 5-HT3 receptors. Moreover, the order of potencies of other known antagonists of 5-HT3 receptors supports the conclusion that [3H]LY278584 binds to putative 5-HT3 receptors in cortical membranes.
+

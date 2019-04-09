@@ -1,0 +1,4 @@
+Niitsu, Y., et al. (1995). "Regulation of synapse density by 5-HT2A receptor agonist and antagonist in the spinal cord of chicken embryo." Neurosci Lett 195(3): 159-162.
+
+	Identification of mechanisms that regulate the number of synapses in the brain has been a key issue for understanding the mechanism of plasticity. Here, we report that the density of synapses can be changed using an antagonist and/or an agonist of serotonin (5-HT) type 2A receptors in the chicken spinal cord. Because of the widespread distribution pattern of 5-HT fibers and 5-HT2A receptors in the central nervous system, 5-HT is thought to play a role in the formation and maintenance of synapses that are involved in normal brain function and mechanism of plasticity.
+

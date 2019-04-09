@@ -1,0 +1,4 @@
+Consolo, S., et al. (1996). "A critical role for D1 receptors in the 5-HT1A-mediated facilitation of in vivo acetylcholine release in rat frontal cortex." Brain Res 707(2): 320-323.
+
+	Subcutaneous administration of 8-OH-DPAT dose-dependently increased acetylcholine (ACh) output in frontal cortex of awake rats. The maximal effect of 8-OH-DPAT (0.5 mg/kg, s.c.) was prevented by the 5-HT1A antagonist WAY 100635 (1 mg/kg, s.c.) and by the D1 antagonists SCH 23390 or SCH 39166 (both 0.3 mg/kg, s.c.) but not seven days after chemical lesion of the raphe serotoninergic neurons. It is postulated that the 8-OH-DPAT activation of postsynaptic 5-HT1A receptors enhances the release of dopamine which, by acting at D1 receptors, stimulates the release of ACh in the frontal cortex.
+

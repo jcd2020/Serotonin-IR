@@ -1,0 +1,4 @@
+Cappellini, C., et al. (1999). "Characterization of a cloned xenopus laevis serotonin 5-HT1A receptor expressed in the NIH-3T3 cell line." Brain Res Mol Brain Res 63(2): 380-383.
+
+	In a previous work we isolated a Xenopus 5-HT1A receptor gene and now report the characterization of this receptor. The HindIII-XbaI fragment of this gene was cloned into the pcDNA I NEO vector and stably transfected into eukaryotic cells (NIH-3T3). To determine the specific 5-HT1A receptor binding, [3H]8-OH-DPAT was used as radioligand. The selective 5-HT1A receptor agonist bound only a single class of saturable high-affinity binding sites with pharmacological characteristics similar to those of the mammalian 5-HT1A receptor. The effects of X5-HT1A receptor activation on cell growth were also investigated in stably transfected NIH-3T3 cells. The 5-HT1A agonist 8-OH-DPAT was found to increase DNA synthesis and accelerated cell growth.
+

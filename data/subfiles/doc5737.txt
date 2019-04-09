@@ -1,0 +1,4 @@
+Ichikawa, J. and H. Y. Meltzer (1999). "Valproate and carbamazepine increase prefrontal dopamine release by 5-HT1A receptor activation." Eur J Pharmacol 380(1): R1-3.
+
+	The anticonvulsant mood stabilizers valproic acid (250, 500 but not 50 mg/kg) and carbamazepine (6, 12.5 but not 3 mg/kg) were found to increase extracellular dopamine levels in rat medial prefrontal cortex, but not nucleus accumbens. Increased prefrontal dopamine was completely abolished by the selective 5-HT1A receptor antagonist N-[2-[4-(2-methoxyphenyl)-1-piperazinyl]ethyl]-N-2-pyridinylcyclohexa necarboxamide (WAY100635, 0.05 mg/kg). Anticonvulsants and clozapine may share a common mood stabilizing mechanism since clozapine is reported to have mood stabilizing effects and increase prefrontal dopamine by 5-HT1A receptor activation.
+

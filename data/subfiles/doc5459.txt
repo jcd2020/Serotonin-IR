@@ -1,0 +1,4 @@
+Hoerr, R. and M. Noeldner (2002). "Ensaculin (KA-672 center dot HCl): A multitransmitter approach to dementia treatment." CNS Drug Rev 8(2): 143-158.
+
+	Ensaculin, a novel benzopyranone substituted with a piperazine moiety, showed memory-enhancing effects in paradigms of passive and conditioned avoidance in both normal and artificially amnesic rodents. It exhibited neuroprotective activities in an NMDA toxicity model and neurotrophic effects in primary cultured rat brain cells. The compound could be characterized as a weak NMDA receptor-operated channel blocker. In receptor-binding studies, ensaculin was found to have high affinities to serotonergic 5-HT1A and 5-HT7 receptors, adrenergic alpha(1), and dopaminergic D-2 and D-3 receptors. Due to its unique pharmacodynamic profile, ensaculin may have potential as an antidementia agent acting on various transmitter systems.
+

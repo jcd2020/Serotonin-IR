@@ -1,0 +1,4 @@
+Keck, B. J. and J. M. Lakoski (1996). "Age-related assessment of central 5-HT1A receptors following irreversible inactivation by N-ethoxycarbonyl-2-ethoxy-1,2-dihydroquinoline (EEDQ)." Brain Res 728(1): 130-134.
+
+	Age-dependent differences in the ability of N-ethoxycarbonyl-2-ethoxy- 1,2-dihydroquinoline (EEDQ) to irreversibly inactivate 5-HT1A receptors were investigated in female Fischer 344 rats (ages 3 and 22 months). In the hippocampus, frontal cortex and amygdala, EEDQ reduced 5-HT1A receptor density (33-70%) and drug affinity (2.3-6.2 fold) as determined by Scatchard analyses using [H-3]8-hydroxy-2-(di-N-propylamino)tetral In the frontal cortex, the reduction in B-max values was significantly greater in 3 months vs. 22 months groups. These region-specific and age-dependent alterations in 5-HT1A receptors may be of pathophysiological significance in age-related cognitive decline and Alzheimer's disease.
+

@@ -1,0 +1,4 @@
+Watanabe, M. and Y. Hagino (1999). "The atypical antipsychotic sertindole enhances efflux of dopamine and its metabolites in the rat cortex and striatum." Eur J Pharmacol 367(1): 19-23.
+
+	Previous studies have shown that sertindole (1-[2-[4-[5-chloro-1-(4-fluorophenyl)-1H-indol-3-yl]-1-piperidinyl]ethyl ]-2 imidazolidinone), an atypical antipsychotic drug that is a potent 5-HT2A and dopamine D2 receptor antagonist, preferentially affects mesocorticolimbic rather than mesostriatal dopamine neurons. Using in vivo microdialysis in conscious rats, we investigated the effects of sertindole on dopamine release and metabolism in the striatum and the medial prefrontal cortex. Systemic administration of sertindole dose dependently enhanced dopamine release in the medial prefrontal cortex and the striatum to the same extent.
+

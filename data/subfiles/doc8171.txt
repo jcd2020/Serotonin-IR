@@ -1,0 +1,4 @@
+Matsubara, T., et al. (1991). "CP-93,129, A POTENT AND SELECTIVE 5-HT1B RECEPTOR AGONIST BLOCKS NEUROGENIC PLASMA EXTRAVASATION WITHIN RAT BUT NOT GUINEA-PIG DURA-MATER." Br J Pharmacol 104(1): 3-4.
+
+	Pretreatment with CP-93,129 blocked plasma extravasation in rat dura mater induced by electrical trigeminal ganglion stimulation when administered at greater-than-or-equal-to 140 nmol kg-1, i.v. but did not affect plasma leakage in guinea-pig at 460 or 1400 nmol kg-1. Sumatriptan, a 5-HT1D-like receptor agonist, blocked plasma extravasation in the guinea-pig model when administered at 7 nmol kg-1. In as much as CP-93,129 binds with micromolar affinities to 5-HT1A, 5-HT1c, 5-HT1D, and 5-HT2 recognition sites, and with nanomolar affinity to the 5-HT1B receptor subtype, blockade of plasma extravasation in the rat dura mater may be mediated by 5-HT1B receptors whereas the 5-HT1D receptor may be more relevant to the guinea-pig.
+

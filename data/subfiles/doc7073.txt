@@ -1,0 +1,4 @@
+Langlois, M., et al. (1993). "SYNTHESIS OF NEW DERIVATIVES OF 8-OH-DPAT - INFLUENCE OF SUBSTITUTION ON THE AROMATIC RING ON THE PHARMACOLOGICAL PROFILE." Bioorg Med Chem Lett 3(10): 2035-2038.
+
+	Several new derivatives of 8-OH-DPAT were prepared by a new synthetic route using the Curtius degradation of 2-tetralin carboxylic acid derivatives. Their affinity for 5-HT1A and 5-HT1B receptors was evaluated in binding essays with mt hippocampus and striatum respectively. The results emphasized the favorable effect of the substitution on the phenyl ring of a homocyclic ring fused in positions [6,7] or [6,5] to obtain specific ligands for the 5-HT1B receptor. Methyl substitution in position 5 gave a compound with good affinity for the 5-HT1A receptor and preliminary pharmacological assays suggested an antagonist profile for this compound.
+

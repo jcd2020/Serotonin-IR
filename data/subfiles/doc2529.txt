@@ -1,0 +1,4 @@
+Craven, R., et al. (1994). "WAY-100635 and GR127935: effects on 5-hydroxytryptamine-containing neurones." Eur J Pharmacol 271(1): R1-3.
+
+	N-[2-[4-(2-methoxyphenyl)-1-piperazinyl]ethyl]-N-(2- pyridinyl)cyclohexanecarboxamide trihydrochloride (WAY-100635) is a potent and selective 5-HT1A receptor antagonist in a slice preparation of the guinea pig dorsal raphe nucleus: the inhibitory actions on 5-HT neuronal firing of 5-hydroxytryptamine (5-HT, serotonin), 5-carboxamidotryptamine (5-CT) and 8-hydroxy-2-(di-n-propylamino)tetralin (8-OH-DPAT), but not those of baclofen, were abolished by 30 nM WAY-100635. The selective 5-HT1D receptor antagonist N-[4-methoxy-3-(4-methyl-1-piperazinyl)phenyl]-2'- methyl-4'-(5-methyl-1,2,4-oxadiazol-3-yl) [1,1-biphenyl]-4-carboxamide (GR127935, 300 nM) did not attenuate the 5-HT induced inhibition, indicating that 5-HT1D receptors do not contribute to the inhibitory action of exogenous 5-HT on 5-HT neurones.
+

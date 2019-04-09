@@ -1,0 +1,4 @@
+Wirtshafter, D. and D. F. Cook (1998). "Serotonin-1B agonists induce compartmentally organized striatal Fos expression in rats." Neuroreport 9(6): 1217-1221.
+
+	The 5HT1B agonist RU24969 (2.5-5.0 mg/kg) and anpirtoline (2.0 mg/kg) induced a striking increase in striatal Fos-like immunoreactivity in rats. In the rostral and dorsal regions of the striatum staining was dense and relatively homogeneous. In the ventral region of the striatum at more caudal levels, however, both drugs induced staining in patches which were in register with the opiate receptor rich striosomes. The effects of RU24969 could not be antagonized by the selective 5HT1A antagonist p-MPPI and little or no striatal Fos expression could be observed after injections of the selective 5HT1A agonist 8-OHDPAT or the selective 5HT3 antagonist MDL-72222.
+

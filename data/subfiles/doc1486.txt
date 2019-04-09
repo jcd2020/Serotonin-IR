@@ -1,0 +1,4 @@
+Bradley, G., et al. (1992). "NOVEL ANTAGONISTS OF THE 5-HT3 RECEPTOR - SYNTHESIS AND STRUCTURE-ACTIVITY-RELATIONSHIPS OF (2-ALKOXYBENZOYL) UREAS." J Med Chem 35(9): 1515-1520.
+
+	A series of benzoylureas derived from bicycle amines were prepared and evaluated for 5-HT3 antagonist activity on the rat isolated vagus nerve. From among these compounds, those analogues which were ortho substituted by an alkoxy group on the benzoyl function were shown to be potent 5-HT3 antagonists with similar or greater potency than the standard agent ondansetron. NMR and X-ray crystallography studies showed these o-alkoxy compounds to exist as a planar, hydrogen-bonded, tricyclic ring system. In molecular modeling studies on endo-N-[[(8-methyl-8-azabicyclo [3.2.1]octan-3-yl)amino]carbonyl]-2-(cyclopropylmethoxy)benzamide (30) the central hydrogen-bonded ring was able to mimic an aromatic ring present in previously reported 5-HT3 antagonists.
+

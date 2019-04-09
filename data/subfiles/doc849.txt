@@ -1,0 +1,4 @@
+Beck, S. G., et al. (1995). "Baclofen concentration-response curves differ between hippocampal subfields." Neuroreport 6(2): 310-312.
+
+	The hippocampus contains interneurons that release gamma-aminobutyric acid (GABA). GABA hyperpolarizes hippocampal CA1 and CA3 pyramidal cells through activation of GABAB postsynaptic receptors. GABAB and 5-hydroxytryptamine1A (5-HT1A) receptors share effector mechanism(s). Agonist potency and the maximal hyperpolarization produced by 5-HT1A receptor activation is different between the CA1 and CA3 subfields. We determined that baclofen, a selective GABAB agonist, was more potent and produced a greater maximal response in area CA3 than in CA1. The larger magnitude of the response can be attributed partly to the larger input resistance of CA3 neurons. GABAB receptor-effector coupling differences between area CA1 and CA3 are proposed as the mechanism underlying the baclofen response incongruities.
+

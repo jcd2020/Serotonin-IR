@@ -1,0 +1,4 @@
+Stahl, S. M. (2015). "Modes and nodes explain the mechanism of action of vortioxetine, a multimodal agent (MMA): blocking 5HT3 receptors enhances release of serotonin, norepinephrine, and acetylcholine." CNS Spectr 20(5): 455-459.
+
+	Vortioxetine is an antidepressant with multiple pharmacologic modes of action at targets where serotonin neurons connect with other neurons. 5HT3 receptor antagonism is one of these actions, and this leads to increased release of norepinephrine (NE), acetylcholine (ACh), and serotonin (5HT) within various brain circuits.
+

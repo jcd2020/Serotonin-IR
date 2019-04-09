@@ -1,0 +1,4 @@
+Lacivita, E., et al. (2013). "Novel highly potent serotonin 5-HT7 receptor ligands: Structural modifications to improve pharmacokinetic properties." Bioorg Med Chem Lett 23(22): 6083-6086.
+
+	Here we report the synthesis, pharmacological and pharmacokinetic evaluation of a pilot set of compounds structurally related to the potent and selective 5-HT7 ligand LP-211. Among the studied compounds, N-pyridin-3-ylmethyl-3-[4-[2-(4-methoxyphenyl)phenyl]piperazin-1-yl]ethoxy]propanamide (4b) showed high affinity for 5-HT7 receptors (K-i = 23.8 nM), selectivity over 5-HT1A receptors (>50-fold), in vitro metabolic stability (82%) and weak interaction with P-glycoprotein (BA/AB = 3.3). Compound 4b was injected ip in mice to preliminarily evaluate its distribution between blood and brain. (c) 2013 Elsevier Ltd. All rights reserved.
+

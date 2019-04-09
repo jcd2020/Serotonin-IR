@@ -1,0 +1,4 @@
+Childers, W. E., et al. (2005). "Synthesis and biological evaluation of benzodioxanylpiperazine derivatives as potent serotonin 5-HT1A antagonists: The discovery of lecozotan." J Med Chem 48(10): 3467-3470.
+
+	A series of benzodioxanylpiperazine derivatives possessing a 4-aryl amide substituent was prepared and evaluated for 5-HT1A affinity and functional antagonist activity in vitro and in vivo. All of the compounds in this series possessed high affinity for the human 5-HT1A receptor and many displayed potent antagonist activity in vitro and varying degrees of intrinsic activity in vivo. Compound 11c (Lecozotan) was selected for further development and is currently in clinical trials.
+

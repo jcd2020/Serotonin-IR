@@ -1,0 +1,4 @@
+Lothe, A., et al. (2012). "5-HT1A receptor binding changes in patients with major depressive disorder before and after antidepressant treatment: A pilot F-18 MPPF positron emission tomography study." Psychiatry Research-Neuroimaging 203(1): 103-104.
+
+	This is the first [F-18]MPPF PET study in positron emission tomography study in depressed patients, both before and after treatment with a selective serotonin reuptake inhibitor (SSRI). Dynamic changes in [F-18] MPPF binding potential were observed primarily in the medial orbital regions from baseline to 30 days of treatment, suggesting SSRI-mediated serotoninergic adaptative mechanisms. (C) 2011 Elsevier Ireland Ltd. All rights reserved.
+

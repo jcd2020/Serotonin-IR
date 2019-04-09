@@ -1,0 +1,4 @@
+Marcinkiewicz, M., et al. (1984). "Autoradiographic evidence for the heterogeneity of 5-HT1 sites in the rat brain." Brain Res 291(1): 159-163.
+
+	The distribution of the binding sites of a new, potent agonist of serotonin (5-HT), 8-OH-N,N-dipropyl-2-aminotetralin (PAT), was studied in the rat brain with the quantitative autoradiographic technique utilizing tritium-sensitive LKB film. The localization of [3H]PAT binding sites was very similar to that of [3H]5-HT binding sites, except in some discrete regions (choroid plexus, striatum, area preoptica lateralis, subiculum, and substantia nigra), which exhibited very low levels of labeling with [3H]PAT and high levels with [3H]5-HT. These results indicate that 5-HT1 receptors are heterogeneous, and that [3H]PAT recognizes only a 5-HT1 subclass (called 5-HT1A).
+

@@ -1,0 +1,4 @@
+Arborelius, L., et al. (1994). "The 5-HT1A receptor antagonist (S)-UH-301 blocks the qR)-8-OH-DPAT-induced inhibition of serotonergic dorsal raphe cell firing in the rat." J Neural Transm Gen Sect 96(3): 179-186.
+
+	(S)-UH-301 [(S)-5-fluoro-8-hydroxy-2-(dipropylamino)-tetralin, 0.5-4.0 mg/kg i.v.] did not significantly alter the firing rate of 5-hydroxytryptamine (5-HT) containing neurons in the dorsal raphe nucleus (DRN) as a group, although some individual cells were activated whereas others were depressed. However, (S)-UH-301 (2.0 mg/kg i.v.) consistently reversed the inhibition of DRN-5-HT cells produced by the selective 5-HT1A receptor agonist (R)-8-OH-DPAT (0.5 microgram/kg i.v.) and the dose-response curve for this effect of (R)-8-OH-DPAT was markedly shifted to the right by pretreatment with (S)-UH-301 (1.0 mg/kg i.v.). These results support the notion that (S)-UH-301 acts as an antagonist at central 5-HT1A receptors.
+

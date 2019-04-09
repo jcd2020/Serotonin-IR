@@ -1,0 +1,4 @@
+Hamamura, T., et al. (1997). "Serotonin1A receptor agonists induce Fos protein expression in the locus coeruleus of the conscious rat." Brain Res 759(1): 156-159.
+
+	The azapirones, which are partial agonists of the serotonin (5-HT)1A receptor, possess anxiolytic activity. These agents may act at the pre- or postsynaptic 5-HT1A receptors, and involve the noradrenergic system. To determine whether these drugs activate noradrenergic neurons via 5-HT1A receptors, we have evaluated the expression of the immediate early gene c-fos in the locus coeruleus. Tandospirone and ipsapirone each induced expression of Fos protein in the noradrenergic neurons of the locus coeruleus of conscious rats. This effect was reversed by pretreatment with (+)-WAY100135, a specific 5-HT1A antagonist. These results clearly demonstrate that azapirones activate noradrenergic neurons via 5-HT1A receptors.
+

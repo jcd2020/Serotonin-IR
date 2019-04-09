@@ -1,0 +1,4 @@
+Klancnik, J. M., et al. (1989). "Increased population spike amplitude in the dentate gyrus following systemic administration of 5-hydroxytryptophan or 8-hydroxy-2-(di-n-propylamino)tetralin." Brain Res 505(1): 145-148.
+
+	This study investigated the effects of the serotonin (5-HT)precursor 5-hydroxytryptophan (5-HTP) and the 5-HT1A receptor agonist 8-hydroxy-2-(di-n-propylamino)tetralin (8-OH-DPAT) on population responses in the dentate gyrus evoked by perforant path stimulation. Intraperitoneal injections of either compound into urethane anesthetized rats produced a substantial increase in the amplitude of the population spike, without affecting the granular layer population EPSP. These data suggest that enhanced serotonergic tone facilitates synaptic transmission between the entorhinal cortex and dentate gyrus in vivo, and that this facilitation may be mediated by a 5-HT1A receptor.
+

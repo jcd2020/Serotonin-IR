@@ -1,0 +1,4 @@
+Wozniak, K. M., et al. (1990). "Antagonism of 5-HT3 receptors attenuates the effects of ethanol on extracellular dopamine." Eur J Pharmacol 187(2): 287-289.
+
+	The effect of a 5-HT3 antagonist, ICS 205-930, on ethanol-induced changes in extracellular dopamine, was investigated with in vivo microdialysis. Pretreatment of rats with ICS 205-930 effectively attenuated the subsequent increases in dopamine, in both the nucleus accumbens and corpus striatum. This suggests that 5-HT may be involved in the effects of ethanol on dopaminergic systems.
+

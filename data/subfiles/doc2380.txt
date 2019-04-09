@@ -1,0 +1,4 @@
+Collin, T. (1998). "Serotonin induces an increase in D-myo-inositol (1,4,5)-trisphosphate 3-kinase activity in rat brainstem slices." Neurosci Lett 255(2): 67-70.
+
+	Serotonin robustly potentiated the activity of the InsP3 3-kinase in rat brainstem slices. This potentiation was mediated through activation of 5-HT2 receptors since it was only retrieved with the selective 5-HT2 agonist DOI but not with the 5-HT1A agonist 8OHDPAT. The enhancement of the InsP3 3-kinase activity by serotonin is positively modulated by pretreatment of the slices with the phosphatase inhibitor okadaic acid. Moreover, the specific CaMKII antagonists KN-62 and KN-93 dramatically reduced the serotonin-evoked increase in the InsP3 3-kinase activity. It is thus concluded that InsP3 3-kinase up-regulation occurs through activation of PLC-coupled serotoninergic receptors and requires the phosphorylation of the enzyme by the ubiquitous multimeric protein kinase CaMKII.
+

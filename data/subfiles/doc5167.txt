@@ -1,0 +1,4 @@
+Heisler, L. K., et al. (2007). "Serotonin 5-HT(2C) receptors regulate anxiety-like behavior." Genes Brain Behav 6(5): 491-496.
+
+	Central serotonin (5-hydroxytryptamine, 5-HT) systems have been implicated in the pathophysiology and treatment of anxiety disorders, which are among the world's most prevalent psychiatric conditions. Here, we report that the 5-HT(2C) receptor (5-HT(2C)R) subtype is critically involved in regulating behaviors characteristic of anxiety using male 5-HT(2C)R knockout (KO) mice. Specific neural substrates underlying the 5-HT(2C)R KO anxiolytic phenotype were investigated, and we report that 5-HT(2C)R KO mice display a selective blunting of extended amygdala corticotropin-releasing hormone neuronal activation in response to anxiety stimuli. These findings illustrate a mechanism through which 5-HT(2C)Rs affect anxiety-related behavior and provide insight into the neural circuitry mediating the complex psychological process of anxiety.
+

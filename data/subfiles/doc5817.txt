@@ -1,0 +1,4 @@
+Iriepa, I., et al. (2002). "Synthesis and pharmacology of isoquinuclidine derivatives as 5-HT3 ligands." Bioorg Med Chem Lett 12(2): 189-192.
+
+	A series of 4-amino-5-chloro-2-methoxybenzoates and benzamides containing the 5- and 6-isoquinuclidinyl system was synthesised and evaluated for binding to 5-HT3, 5-HT4 and D-2 receptors. In general, the isoquinuclidine derivatives at the 5-position have shown to be more potent as 5-HT3 ligands but they also possess 5-HT4 and D-2 properties. However, the results show that the derivatives at the 6-position afforded the most promising compounds in terms of both receptor affinity and selectivity. (C) 2002 Elsevier Science Ltd. All rights reserved.
+

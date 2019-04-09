@@ -1,0 +1,4 @@
+Sikich, L., et al. (1990). "5-HT1A receptors control neurite branching during development." Brain Res Dev Brain Res 56(2): 269-274.
+
+	Serotonin (5-HT) is known to affect the motility and structure of responsive growth cones and to influence synaptic density in vitro. Whether these effects are produced via membrane bound serotonin receptors or another mechanism has been unknown. We demonstrate that high-affinity 5-HT receptors, present prenatally in rat brain, are asymmetrically distributed among cultured cortical neurons. Stimulation of the 5-HT1A receptors of these neurons in vitro specifically decreases the branching of neurites by 70% and reduces total neuritic length by more than half. These results are compatible with subtypes of serotonin receptors having important roles in mammalian neurodevelopment.
+

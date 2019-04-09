@@ -1,0 +1,4 @@
+Claustre, Y., et al. (1988). "5-HT1A receptor agonists inhibit carbachol-induced stimulation of phosphoinositide turnover in the rat hippocampus." Eur J Pharmacol 149(1-2): 149-153.
+
+	The selective 5-HT1A agonists, 8-hydroxy-2-(di-n-dipropylamino)tetralin (8-OH-DPAT) and ipsapirone, and the 5-HT1A/5-HT1B agonist, 1-(m-trifluoromethylphenyl)piperazine, partially inhibited the carbachol-stimulated [3H]inositol phosphate formation in rat hippocampal slices. The effect of 8-OH-DPAT was antagonized by cyanopindolol. Selective 5-HT1B, 5-HT2 and 5-HT3 agonists were inactive. 8-OH-DPAT failed to affect the phosphoinositide turnover stimulated by KCl, quisqualate or noradrenaline in hippocampal slices and by carbachol in striatal or cortical slices. These results suggest that 5-HT1A receptors are negatively coupled to phosphoinositide phosphodiesterase in the hippocampus.
+

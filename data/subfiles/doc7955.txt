@@ -1,0 +1,4 @@
+Marchand, F., et al. (2004). "Blockade of supraspinal 5-HT1A receptors potentiates the inhibitory effect of venlafaxine on wind-up activity in mononeuropathic rats." Brain Res 1008(2): 288-292.
+
+	In mononeuropathic rats submitted to a C-fiber reflex responses paradigm, repeated administration (five successive injections every half-life) of 10 mg/kg, s.c. of venlafaxine, but not of 2.5 mg/kg, s.c., a mixed monoamine reuptake inhibitor with preferential inhibitory activity in 5-HT reuptake, induced a progressive reduction of spinal wind-up. Repeated co-administration of the selective 5-HT1A receptor antagonist WAY 100,635 i.c.v. (50 microg/injection) significantly increased the effect of venlafaxine s.c., indicating that venlafaxine-induced inhibition of spinal wind-up in mononeuropathic rats is potentiated by blockade of central 5-HT1A receptors.
+

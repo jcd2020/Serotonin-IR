@@ -1,0 +1,4 @@
+Kawamata, T., et al. (2003). "The activation of 5-HT(3) receptors evokes GABA release in the spinal cord." Brain Res 978(1-2): 250-255.
+
+	We carried out experiments using a microdialysis method to determine whether activation of 5-HT(3) receptors increases the concentration of GABA in the dorsal horn of the spinal cord. Intrathecal perfusion of a selective 5-HT(3) receptor agonist, 1-phenylbiguanide (0.3, 1.0, and 3.0 mM) dose-dependently, increased GABA concentration, while concentrations of glutamate and glycine were not changed. The concentration of aspartate was increased only by 3.0 mM of 1-phenylbiguanide. Our results have provided direct evidence that activation of 5-HT(3) receptors evokes GABA release in the spinal dorsal horn, possibly producing analgesia.
+

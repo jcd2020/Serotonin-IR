@@ -1,0 +1,4 @@
+De Lucchini, S., et al. (2003). "Expression of 5-HT2B and 5-HT2C receptor genes is associated with proliferative regions of Xenopus developing brain and eye." Brain Res Mol Brain Res 115(2): 196-201.
+
+	Here we clone the Xenopus 5-HT2B receptor cDNA and describe its spatio-temporal mRNA expression within the developing larval brain and visual system. Expression of the 5-HT2B transcripts is compared to that of 5-HT2C as well as proliferation and neurogenic markers. In developing brain and retina, 5-HT2B and 2C mRNAs are mainly expressed in proliferative regions. We suggest that these receptors may play a role in the larval secondary neurogenesis by mediating mitogenic effects of serotonin.
+

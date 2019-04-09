@@ -1,0 +1,4 @@
+Middlemiss, D. N., et al. (2002). "Serotonergic targets in depression." Current Opinion in Pharmacology 2(1): 18-22.
+
+	Serotonin reuptake inhibitors have proved to be a very effective treatment for depression and have strengthened the hypothesis that impaired 5-hydroxytryptamine (5-HT) neurotransmission may contribute to the underlying cause of depressive disorders. Extensive research has been carried out to investigate other 5-HT targets associated with the disease and studies involving combination treatments with selective serotonin reuptake inhibitors and 5-HT1A receptor ligands are currently being carried out in the clinic. Whether other 5-HT receptor subtypes are involved in the aetiology of depression remains to be seen.
+

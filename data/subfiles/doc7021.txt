@@ -1,0 +1,4 @@
+Lalut, J., et al. (2016). "Synthesis and evaluation of novel serotonin 4 receptor radiotracers for single photon emission computed tomography." Eur J Med Chem 116: 90-101.
+
+	Despite its implication in several physiological and pathological processes the serotonin subtype-4 receptor (5-HT4R) has seen limited effort for the development of radiolabeling agent especially concerning single photon emission computed tomography (SPECT). Bearing an ester function, the available ligands are rapidly susceptible to hydrolysis which limits their use in vivo. In this study the synthesis of iodinated benzamide and ketone analogs were described. Their affinity for the 5-HT4R and their lipophilicity were evaluated and the most promising derivatives were evaluated ex vivo for their binding to the receptor and for their ability to displace the reference ligand [I-125]-SB207710. (C) 2016 Elsevier Masson SAS. All rights reserved.
+

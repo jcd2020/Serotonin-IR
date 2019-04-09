@@ -1,0 +1,4 @@
+Ahmed, A., et al. (2009). "Identification of novel serotonin 2C receptor ligands by sequential virtual screening." Bioorg Med Chem 17(13): 4559-4568.
+
+	Pharmacophore modelling, docking and virtual screening have become important tool in drug discovery process. Serotonin 2C (5-HT2C) receptor ligands have got major attention for their therapeutic uses as antidepressant and anorectic agents. Two step pharmacophore and docking based virtual screening was done using 5-HT2C agonists. Two common feature pharmacophore directed virtual hits had submicromolar activity. Refined pharmacophore with excluded volumes was constructed and combined with homology model based docking. Best hit from this virtual screening showed IC50 of 20.1 nM. Similarity search of this hit compound resulted more active ligand with 7.8 nM activity. (C) 2009 Elsevier Ltd. All rights reserved.
+

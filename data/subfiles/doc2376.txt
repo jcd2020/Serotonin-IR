@@ -1,0 +1,4 @@
+Collier, R., et al. (2012). Serotonin 5-HT1A Receptor Agonists in Oxidative Stress and Retinal Disease. Studies on Retinal and Choroidal Disorders. R. D. Stratton, W. W. Hauswirth and T. W. Gardner: 457-478.
+
+	Pharmacologic agents known as neuroprotectants aim to prevent neuronal death by upregulating endogenous protective pathways or inhibiting death mechanisms, and are being evaluated as potential therapeutics for several diseases of the brain and retina. Agonists of the serotonin 5-HT1A receptor have been shown to be neuroprotective in several in vitro and in vivo CNS systems, and also in the retina. These agents protect against oxidative insults at least in part by upregulating endogenous antioxidant defenses. A 5-HT1A agonist, AL-8309B, is currently being evaluated in the clinic as a therapy to prevent the progression of geographic atrophy (GA), the severe advanced form of dry Age-related Macular Degeneration (AMD).
+

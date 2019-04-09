@@ -1,0 +1,4 @@
+Lothe, A., et al. (2012). "5-HT(1A) receptor binding changes in patients with major depressive disorder before and after antidepressant treatment: a pilot [(1)(8)F]MPPF positron emission tomography study." Psychiatry Res 203(1): 103-104.
+
+	This is the first [(1)(8)F]MPPF PET study in positron emission tomography study in depressed patients, both before and after treatment with a selective serotonin reuptake inhibitor (SSRI). Dynamic changes in [(1)(8)F]MPPF binding potential were observed primarily in the medial orbital regions from baseline to 30 days of treatment, suggesting SSRI-mediated serotoninergic adaptative mechanisms.
+

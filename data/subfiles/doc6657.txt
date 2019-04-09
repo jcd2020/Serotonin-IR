@@ -1,0 +1,4 @@
+Koe, B. K., et al. (1992). "BIOCHEMICAL AND BEHAVIORAL-STUDIES OF THE 5-HT(1B) RECEPTOR AGONIST, CP-94,253." Drug Development Research 26(3): 241-250.
+
+	CP-94,253, 3-(1,2;5,6-tetrahydro-4-pyridyl)-5-propoxypyrrolo[3,2-b]pyridine, a new serotonergic ligand, was found to exhibit significantly greater binding affinity at 5-HT1B receptors than at 5-HT1A or 5-HT1C receptors. Saturation studies showed CP-94,253 to be a competitive inhibitor of [I-125]iodocyanopindolol binding to 5-HT1B sites. Its competition curve with this radioligand was shifted to the right (decreased affinity) in the presence of Gpp(NH)p, indicating an agonist function for CP-94,253. Oral administration of CP-94,253 to rats caused inhibition of food intake, decrease in body weight gain, and hyperlocomotion, effects apparently elicited via activation of 5-HT1B receptors.
+

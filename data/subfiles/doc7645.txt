@@ -1,0 +1,4 @@
+Lotto, B., et al. (1999). "Serotonin receptor activation enhances neurite outgrowth of thalamic neurones in rodents." Neurosci Lett 269(2): 87-90.
+
+	Serotonin (5-HT) has been shown to influence the development of the rodent barrel field by affecting the patterning of thalamic axons in the somatic sensory cortex. To determine whether this is a direct effect on thalamocortical neurones, we analyzed primary thalamic cultures taken from E15 mouse embryos. We show that 5-HT enhances neurite outgrowth of thalamic neurones. The sodium channel blocker, TTX, blocks these effects, whereas the selective 5-HT1B agonist CGS-12066A maleate reproduced 5-HT's effect. Using PCR and immunocytochemistry, we found that 5-HT1B receptors are already expressed by thalamic neurones at E15, and that this expression is maintained in vitro. These results suggest that 5-HT-1B receptor activation directly affects the growth of thalamocortical axons.
+

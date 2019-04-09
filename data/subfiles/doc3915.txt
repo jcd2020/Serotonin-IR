@@ -1,0 +1,4 @@
+Franchini, S., et al. (2018). "Synthesis and biological evaluation of 1,3-dioxolane-based 5-HT1A receptor agonists for CNS disorders and neuropathic pain." Future Med Chem 10(18): 2137-2154.
+
+	AIM: Targeting 5-HT1A receptor (5-HT1AR) as a strategy for CNS disorders and pain control. METHODOLOGY: A series of 1,3-dioxolane-based 2-heteroaryl-phenoxyethylamines was synthesized by a convergent approach and evaluated at alpha1-adrenoceptors and 5-HT1AR by binding and functional experiments. Absorption, distribution, metabolism, excretion and toxicity prediction studies were performed to explore the drug-likeness of the compounds. RESULTS & CONCLUSION: The most promising compound, the pyridin-4-yl derivative, emerged as a potent and selective 5-HT1AR agonist (pKi = 9.2; pD2 = 8.83; 5-HT1A/alpha1 = 135). In vitro it was able to permeate by passive diffusion MDCKII-MDR1 monolayer mimicking the blood-brain barrier and showed promising neuroprotective activity.
+

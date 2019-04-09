@@ -1,0 +1,4 @@
+Bertrand, F., et al. (2000). "Intraseptal infusions of 8-OH-DPAT in the rat impairs water-maze performances: effects on memory or anxiety?" Neurosci Lett 279(1): 45-48.
+
+	In the rat, 5-HT1A receptors are found on medial septal cholinergic neurons. The effects of intraseptal infusions of the 5-HT1A receptor agonist 8-OH-DPAT (8-hydroxy-2-(di-n-propyl-amino)-tertralin) were assessed on reference memory performances in a water maze. Compared with vehicle infusions, 0.5 and 4 microg of 8-OH-DPAT significantly impaired (but did not prevent) acquisition of the task and probe-trial performances. The results suggest that activation of 5-TH1A receptors in the (medial) septal area impairs spatial learning, perhaps directly by reducing the hippocampal cholinergic tonus, or indirectly by an effect on anxiety.
+

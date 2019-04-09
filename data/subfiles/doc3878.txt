@@ -1,0 +1,4 @@
+Fornal, C. A., et al. (1999). "Pindolol increases extracellular 5-HT while inhibiting serotonergic neuronal activity." Eur J Pharmacol 377(2-3): 187-191.
+
+	The effects of pindolol, a beta-adrenoceptor blocker/putative 5-hydroxytryptamine (5-HT)1A/1B antagonist, on both the single-unit activity of serotonergic neurons in the dorsal raphe nucleus (DRN) and extracellular 5-HT levels in the caudate nucleus, were examined in freely moving cats. Administration of (+)-pindolol (1 and 10 mg/kg, s.c.) decreased neuronal activity and increased 5-HT levels in a dose- and time-dependent manner. The subsequent administration of WAY-100635 [N-[2-[4-(2-methoxyphenyl)-1-piperazinyl]ethyl]-N-(2-pyridinyl)cycloh exanecarboxamide] (0.2 mg/kg, s.c.), a selective 5-HT1A receptor antagonist, blocked pindolol-induced neuronal suppression and potentiated 5-HT output. These results indicate that pindolol may be acting at the level of the nerve terminal to increase 5-HT.
+

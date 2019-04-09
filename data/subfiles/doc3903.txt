@@ -1,0 +1,4 @@
+Fox, S. and J. Brotchie (1996). "Normethylclozapine potentiates the action of quinpirole in the 6-hydroxydopamine lesioned rat." Eur J Pharmacol 301(1-3): 27-30.
+
+	Systemic administration of the 5-HT2c receptor antagonist, normethylclozapine, to previously untreated unilaterally 6-hydroxydopamine-lesioned rats elicits rotations contraversive to the lesion when given with a subthreshold dose of the dopamine D-2 receptor agonist, quinpirole. Normethylclozapine alone does not possess any anti-parkinsonian action. In animals which have previously received dopamine replacement therapy, i.e. primed, normethylclozapine potentiates the contraversive rotations induced by quinpirole. We speculate that these actions may result from reduced excitation of the output regions of the basal ganglia. 5-HT2c receptor antagonists may have potential as treatment for Parkinson's disease in combination with dopamine receptor agonists.
+

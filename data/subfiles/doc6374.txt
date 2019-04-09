@@ -1,0 +1,4 @@
+Kawai, N., et al. (1994). "Inhibitory effect of idazoxan on forskolin-stimulated adenylate cyclase activity through 5-hydroxytryptamine1A receptors." Arzneimittelforschung 44(1): 1-3.
+
+	The binding affinity of the alpha 2-adrenoceptor antagonist idazoxan (CAS 79944-56-2) to 5-hydroxytryptamine1A (5-HT1A) receptors and its effect on the forskolin-stimulated adenylate cyclase activity in the rat hippocampus were examined. Idazoxan had moderate affinity for the 5-HT1A receptors. It inhibited the forskolin-stimulated adenylate cyclase activity to the same extent as 5-HT. The 5-HT1A receptor antagonist spiperone shifted the concentration-response curve of idazoxan to the right in a parallel manner. These results indicate that idazoxan is a 5-HT1A agonist.
+

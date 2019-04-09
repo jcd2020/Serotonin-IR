@@ -1,0 +1,4 @@
+Remy, S. M., et al. (1996). "Somatodendritic 5-HT1A receptors are critically involved in the anxiolytic effects of 8-OH-DPAT." Psychopharmacology (Berl) 125(1): 89-91.
+
+	In the rat shock-induced ultrasonic vocalization test, the anxiolytic effects of the 5-HT1A receptor agonist 8-hydroxy-2-(di-n-propylamino)tetralin (8-OH-DPAT) obtained after systemic (IP) and intracerebral injection into the dorsal raphe nucleus (DRN) were selectively abolished by pretreatment with the 5-HT1A receptor antagonist WAY-100635 [N-[2-[4-(2-methoxyphenyl)-1-piperazinyl]ethyl]-N-(2-pyridinyl) cyclo-hexane-carboxamide trihydrochloride]. This blockade was demonstrated both after systemic and DRN application of WAY-100635. Therefore, it is concluded that the anxiolytic effects of 8-OH-DPAT are mediated by activation of somatodendritic 5-HT1A receptors.
+

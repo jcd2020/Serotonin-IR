@@ -1,0 +1,4 @@
+Eglen, R. M., et al. (1995). "CENTRAL 5-HT4 RECEPTORS." Trends Pharmacol Sci 16(11): 391-398.
+
+	Activation of the 5-HT4 receptor mediates widespread effects in central and peripheral nervous systems. Recent developments, such as the identification of novel, selective agonists and antagonists, as well the cloning of the receptor, have provided insights into the physiological role of the receptor. In this article, Richard Eglen and colleagues assess the emerging evidence relating to the function of the 5-HT4 receptor in the brain. The cerebral distribution of the receptor, along with neurochemical and electrophysiological data, suggests a role in cognition. The role of the receptor in modulation of dopamine transmission and anxiolysis is also addressed.
+

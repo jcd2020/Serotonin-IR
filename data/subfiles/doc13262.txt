@@ -1,0 +1,4 @@
+Waeber, C., et al. (1990). "The (S)-isomer of [3H]zacopride labels 5-HT3 receptors with high affinity in rat brain." Eur J Pharmacol 181(3): 283-287.
+
+	The distribution of 5-HT3 receptor sites was examined in rat brain by autoradiography using 3H-enantiomers of zacopride. The (S)-3H-isomer labelled high densities of binding sites in the hippocampus, amygdala and cortex. The (R)-3H-isomer labelled considerably fewer sites than the (S)-isomer in nuclei of the lower medulla and did not exhibit any specific binding in the forebrain. These differences confirm that the (S)-isomer is specific for 5-HT3 binding sites and that it has a higher affinity than the (R)-isomer at these sites. These results are not consistent with the notion that 5-HT3 antagonist activity explains the anxiolytic effects of zacopride.
+

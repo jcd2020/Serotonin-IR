@@ -1,0 +1,4 @@
+Hayat, F., et al. (2013). "Design and synthesis of novel series of 5-HT6 receptor ligands having indole, a central aromatic core and 1-amino-4 methyl piperazine as a positive ionizable group." Bioorg Med Chem 21(17): 5573-5582.
+
+	The exclusive distribution of 5-HT6 receptor in the brain regions and high affinity for antipsychotic and antidepressant drugs makes 5-HT6 receptor a promising target in treatment of CNS diseases. Based on a pharmacophore model reported in the literature, we designed and synthesized a novel series of 5-HT6 receptor ligands having indole as a central aromatic core and 1-amino-4-methyl piperazine as positive ionizable group. Out of 32 compounds we have successfully identified 10 new compounds as 5-HT6 receptor antagonists. The structure-activity relationship (SAR) studies have been carried out by mapping the compounds with the 3D QSAR model.
+

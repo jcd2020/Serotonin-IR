@@ -1,0 +1,4 @@
+Orus, L., et al. (2002). "New 3- 4-(aryl)piperazin-1-yl -1-(benzo b thiophen-2-yl)propane derivatives with dual action at 5-HT1A serotonin receptors and serotonin transporter as a new class of antidepressants." Pharmazie 57(6): 355-357.
+
+	Some benzo[b]thiophene derivatives with different substituents in positions 3 and 5 have been synthesized in order to obtain new dual antidepressant drugs. Compounds derived from 2-acetyl-3-methylbenzo[b]thiophene or 2-acetyl-3,5-dimethylbenzo[b]thiophene were prepared with two different phenylpiperazines (2-methoxy and 2-hydroxyphenylpiperazine) and evaluated for in vitro 5-HT1A receptor affinity and serotonin reuptake inhibition by radiohgand assays. Compound 1-(3,5-dimethylbenzo[b]thiophen-2-yl)-3-[4-(2-methoxyphenyl)piperazin-1-yl]propan-1-ol (II.2.a) shows good values (nM) for both activities: K-i = 85 for 5-HT1A receptor and K-i = 120 for serotonin transporter.
+

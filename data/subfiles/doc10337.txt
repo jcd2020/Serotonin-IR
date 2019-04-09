@@ -1,0 +1,4 @@
+Prabhakaran, J., et al. (2017). "In vivo evaluation of [(18)F]FECIMBI-36, an agonist 5-HT2A/2C receptor PET radioligand in nonhuman primate." Bioorg Med Chem Lett 27(1): 21-23.
+
+	We recently reported the radiosynthesis and in vitro evaluation of [(18)F]-2-(4-bromo-2,5-dimethoxyphenyl)-N-(2-(2-fluoroethoxy)benzyl)ethanamine, ([(18)F]FECIMBI-36) or ([(18)F]1), an agonist radioligand for 5HT2A/2C receptors in postmortem samples of human brain. Herein we describe the in vivo evaluation of [(18)F]FECIMBI-36 in vervet/African green monkeys by PET imaging. PET images show that [(18)F]FECIMBI-36 penetrates the blood-brain barrier and a low retention of radioactivity is observed in monkey brain. Although the time activity curves indicate a somehow heterogeneous distribution of the radioligand in the brain, the low level of [(18)F]FECIMBI-36 in brain may limit the use of this tracer for quantification of 5-HT2A/2C receptors by PET.
+

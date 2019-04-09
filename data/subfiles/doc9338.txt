@@ -1,0 +1,4 @@
+Newman, M. E. (1992). "Serotonin inhibits adenylate cyclase in human platelet membranes." Eur J Pharmacol 226(4): 281-285.
+
+	Serotonin (5-HT), the non-specific 5-HT1 receptor agonist methysergide, and the 5-HT1B receptor agonist CGS 12066 dose-dependently inhibited forskolin-stimulated adenylate cyclase activity in membranes derived from human platelets. Buspirone and ipsapirone showed partial agonist activity. The effect of 5-HT to inhibit forskolin-stimulated activity was partially antagonised by spiperone, yohimbine and pindolol, with each of these compounds showing some partial agonist activity. It is concluded that human platelet membranes possess receptors for 5-HT coupled negatively to adenylate cyclase. The relationship of these receptors to other binding sites which have been shown for 5-HT on platelet membranes remains to be finally elucidated.
+

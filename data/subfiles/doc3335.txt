@@ -1,0 +1,4 @@
+Edagawa, Y., et al. (1998). "5-HT1A receptor-mediated inhibition of long-term potentiation in rat visual cortex." Eur J Pharmacol 349(2-3): 221-224.
+
+	We investigated the effect of 8-hydroxy-2-(N,N-dipropylamino)tetralin (8-OH-DPAT), a 5-HT1A receptor agonist, on the induction of long-term potentiation in rat visual cortex slices. Perfusion of 8-OH-DPAT (0.1-10 microM) did not affect layer II/III field potentials evoked by test stimulation of layer IV, but significantly reduced long-term potentiation induced by tetanic stimulation. The inhibitory effect of 8-OH-DPAT was blocked by the 5-HT1A receptor antagonist, pindolol (10 microM), but not by the 5-HT2,7 receptor antagonist, ritanserin (100 microM), nor by the 5-HT3,4 receptor antagonist, MDL72222 (100 microM). These results suggest that the rat visual cortex long-term potentiation is inhibited by 5-HT1A receptor stimulation.
+

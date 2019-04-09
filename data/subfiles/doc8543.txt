@@ -1,0 +1,4 @@
+Meyerson, L. R. and H. Park (1991). "UNUSUAL BINDING OF H-3 MDL 72222 IN GUINEA-PIG HIPPOCAMPUS." Drug Development Research 23(1): 27-33.
+
+	[H-3] MDL 72222 labeled a non-homogeneous population of sites in guinea pig hippocampal membranes (K(d1) = 1 nM; K(d2) = 60 nM). The binding was not sodium dependent. Competition studies with a variety of characterizing agents showed displacement of [H-3] MDL 72222 binding by 5-HT uptake inhibitors. [H-3] MDL 72222 binding was not effectively displaced by established 5-HT3 antagonists. MDL 72222, fluoxetine, fluvoxamine and citalopram competitively inhibited the uptake of [H-3] 5-HT into guinea pig hippocampal synaptosomes with K(i) values of 1.97, 0.02, 0.023, 0.049-mu-M, respectively. The results demonstrate that [H-3] MDL 72222 labels a non-homogeneous population of sites in guinea pig brain, as well as inhibiting 5-HT uptake into synaptosomal preparations.
+

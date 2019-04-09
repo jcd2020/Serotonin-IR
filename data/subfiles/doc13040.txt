@@ -1,0 +1,4 @@
+Vansteen, B. J., et al. (1995). "A SERIES OF N4-IMIDOETHYL DERIVATIVES OF 1-(2,3-DIHYDRO-1,4-BENZODIOXIN-5-YL)PIPERAZINE AS 5-HT1A RECEPTOR LIGANDS - SYNTHESIS AND STRUCTURE-AFFINITY RELATIONSHIPS." J Med Chem 38(21): 4303-4308.
+
+	A series of unsubstituted and substituted succinimido, maleimido, and glutarimidoethyl derivatives of eltoprazine (3) was synthesized and tested for affinity for the 5-HT1A receptor in rat brain homogenates. The unsubstituted compounds have a moderate affinity for the receptor, while the affinity considerably increases by substitution at or enlargement of these cyclic ring systems. A good correlation was found between the inhibition constant K-i (expressed as pK(i)) and the lipophilicity (clogP). No correlation was observed between the pK(i) or pK(i)(+) (local. inhibition constant) and the basicity of the N4-nitrogen atom.
+

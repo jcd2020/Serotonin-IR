@@ -1,0 +1,4 @@
+Aiello-Zaldivar, M., et al. (1992). "5,7-DHT facilitated lordosis: effects of 5-HT agonists." Neuroreport 3(6): 542-544.
+
+	The role of 5-HT (serotonin) in regulating lordosis was investigated by combining peripheral administration of the 5-HT agonists 8-OH-DPAT (8-hydroxy-2-[di-N-propylamino]tetralin) or TFMPP (1-[m-trifluoromethylphenyl]piperazine), with intrahypothalamic application of the 5-HT neurotoxin 5,7-DHT (5,7-dihydroxytryptamine). The 5-HT1A agonist, 8-OH-DPAT, significantly inhibited lordosis in 5,7-DHT-treated and non-treated rats. TFMPP, an agonist at 5-HT1B and 5-HT1C receptors, significantly facilitated lordosis in 5,7-DHT-treated and non-treated rats. Our results show that both inhibitory and facilitatory influences of hypothalamic 5-HT on lordosis, are modulated via postsynaptic receptors.
+

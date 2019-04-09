@@ -1,0 +1,4 @@
+Odagaki, Y. and K. Fuxe (1995). "5-HT1A receptor-mediated activation of high-affinity GTPase in rat hippocampal membranes." Eur J Pharmacol 288(3): 385-388.
+
+	GTP hydrolyzing activity was assayed by measuring the amount of 32P(i) released from 0.3 microM [gamma-32P]GTP in the membranes prepared from rat brain. 5-Hydroxytryptamine (5-HT) stimulated the high-affinity GTPase activity in hippocampus, but not in striatum, in a concentration-dependent manner with an EC50 value of 18 nM and maximal percent stimulation of 13.9%. This response was mimicked by (+/-)-8-hydroxy-2-(di-n-propylamino)tetralin [(+/-)-8-OH-DPAT], but not by (+/-)-1-(2,5-dimethoxy-4-iodophyenyl)-2-aminopropane [(+/-)-DOI]. These results suggest that 5-HT-stimulated high-affinity GTPase activity of the GTP-binding protein(s) is mediated via 5-HT1A receptor subtype in the rat hippocampus.
+

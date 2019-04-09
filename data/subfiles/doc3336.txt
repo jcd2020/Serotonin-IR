@@ -1,0 +1,4 @@
+Edagawa, Y., et al. (1999). "Stimulation of the 5-HT1A receptor selectively suppresses NMDA receptor-mediated synaptic excitation in the rat visual cortex." Brain Res 827(1-2): 225-228.
+
+	We have previously found that stimulation of serotonin 5-HT1A receptors inhibits the induction of long-term potentiation (LTP) in the rat visual cortex. In the present study, the selective 5-HT1A receptor agonist 8-hydroxy-2-(N,N-dipropylamino)tetralin (8-OH-DPAT) significantly reduced N-methyl-d-aspartate (NMDA) receptor-mediated synaptic responses recorded in Mg2+-free medium in rat visual cortical slices. In addition, there was good correlation between the inhibitory effects of 8-OH-DPAT on NMDA responses and LTP. These results suggest that 5-HT1A receptor stimulation inhibits the induction of LTP by suppressing NMDA receptor-mediated synaptic excitation in the rat visual cortex.
+

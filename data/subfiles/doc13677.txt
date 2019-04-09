@@ -1,0 +1,4 @@
+Xu, W., et al. (1994). "Spinal serotonin IA and IC/2 receptors mediate supraspinal mu opioid-induced analgesia." Neuroreport 5(18): 2665-2668.
+
+	Intracerebroventricular (i.c.v.) injection of highly selective mu opioid receptor agonist ohmefentanyl (OMF) to rats produced dose-dependent antinociception as assessed with the tail flick test. This analgesia could be blocked by intrathecal (i.t.) injection of the 5-HT1A receptor antagonist spiperone or the 5-HT1C/2 receptor antagonist mianserin, but not by the 5-HT2 receptor antagonist 1-NP or the 5-HT3 receptor antagonist ICS 205-930. The results suggest that the descending 5-HT system is involved in mediating spinal mu opioid analgesia via spinal 5-HT1A and 5-HT1C/2 receptors.
+

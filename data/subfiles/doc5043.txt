@@ -1,0 +1,4 @@
+Hasegawa, Y. and H. Ono (1996). "Effects of 8-OH-DPAT, a 5-HT1A receptor agonist, and DOI, a 5-HT2A/2C agonist, on monosynaptic transmission in spinalized rats." Brain Res 738(1): 158-161.
+
+	We investigated the effect of 5-HT1A receptor agonist (-/+)-8-hydroxy-2-(di-N-propylamino)tetraline (8-OH-DPAT) and the 5-HT2A/2C receptor agonist (-/+)-1-(2,5-dimethoxy-4-iodophenyl)-2-aminopropane (DOI) on monosynaptic transmission in spinalized rats. 8-OH-DPAT significantly inhibited the excitation of alpha-motoneurons evoked by monosynaptic transmission without a direct effect on alpha-motoneuron excitation. DOI potentiated the excitation of alpha-motoneurons by both direct stimulation and monosynaptic transmission. These results indicate that activation of 5-HT1A receptors inhibits monosynaptic transmission, whereas activation of 5-HT2A/2C receptors enhances it.
+

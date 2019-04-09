@@ -1,0 +1,4 @@
+Costall, B., et al. (1990). "5-HT3 receptor antagonists attenuate dopamine-induced hyperactivity in the rat." Neuroreport 1(1): 77-80.
+
+	The 5-HT3 receptor antagonists, ICS205-930, granisetron and zacopride, at low doses, inhibited the hyperactivity caused by a 13 day mesolimbic dopamine infusion in the rat. The antagonism decreased with the use of higher doses of the 5-HT3 receptor antagonists. The ability of low doses of the 5-HT3 receptor antagonists to inhibit dopamine-induced behavioural changes is similar to the inhibitory profile of known antipsychotic agents. It is suggested that 5-HT3 receptor antagonists may represent a new class of atypical antipsychotic agents.
+

@@ -1,0 +1,4 @@
+Corradetti, R., et al. (1996). "Electrophysiological effects of WAY 100635, a new 5-HT1A receptor antagonist, on dorsal raphe nucleus serotoninergic neurones and CA1 pyramidal cells in vitro." Acta Physiol Hung 84(4): 407-409.
+
+	The novel 5-HT1A receptor antagonist WAY 100635 [(N-(2-(-4(2-metoxyphenyl)-1-piperazinyl)ethyl)-N-(2-pyridinyl)cyc lohexane carboxamide)] has been tested on 5-HT1A receptor-mediated inhibition of firing and intracellularly recorded hyperpolarisation of serotoninergic cells of the dorsal raphe nucleus (DRN) and on hyperpolarisation of hippocampal CA1 pyramidal cells. WAY 100635 selectively blocked 5-HT1A receptor-mediated responses of 5-HT, 8-OH-DPAT, lesopitron and 5-CT. The antagonism of the hyperpolarisation elicited by 5-CT was competitive in the DRN and non competitive in CA1, probably because of the existence of a 5-HT1A receptor reserve in serotoninergic cells of DRN.
+

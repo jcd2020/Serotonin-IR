@@ -1,0 +1,4 @@
+Hansen, J. B., et al. (1995). "DERIVATIVES OF PHENYLUREA AS ANTAGONISTS OF MICE, RAT, GUINEA-PIG, AND RABBIT 5-HT3 RECEPTORS." Medicinal Chemistry Research 5(4): 308-315.
+
+	1,2,4-Oxadiazolyl- and O-alkyloximinomethyl-substituted phenylureas equipotently bind to 5-HT3 receptors from different species in vitro in contrast to the normal 10-100 fold lower affinity for guinea pig ileal receptors. Compared to the in vitro receptor affinities, several of the compounds inhibit 5-HT induced contraction of guinea pig ileum more strongly than e.g. tropisetron. The most potent compounds inhibit cisplatin induced emesis in ferrets.
+

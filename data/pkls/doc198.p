@@ -1,0 +1,93 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'antagonists'
+p2
+c__builtin__
+set
+p3
+((lp4
+S"(209, u'\\\\btfmpp')"
+p5
+atp6
+Rp7
+sS'methods'
+p8
+g3
+((lp9
+S'Method.ANTAGONIST'
+p10
+aS'Method.AGONIST'
+p11
+atp12
+Rp13
+sS'topics'
+p14
+g3
+((lp15
+tp16
+Rp17
+sS'receptors'
+p18
+g3
+((lp19
+S'5ht1b'
+p20
+aS'5ht1a'
+p21
+aS'5ht2'
+p22
+aS'5ht1'
+p23
+atp24
+Rp25
+sS'regions'
+p26
+g3
+((lp27
+S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+p28
+aS"(34, u'(?i)(pon|pons)')"
+p29
+atp30
+Rp31
+sS'year'
+p32
+V1994
+p33
+sS'agonists'
+p34
+g3
+((lp35
+S"(92, u'\\\\b8 ?oh ?dpat')"
+p36
+aS"(5, u'\\\\b5 ?ct')"
+p37
+aS"(183, u'\\\\btfmpp')"
+p38
+atp39
+Rp40
+sS'species'
+p41
+g3
+((lp42
+S"(5958, u'(?i)(rats|rat)')"
+p43
+aS"(468, u'(?i)(oxen|ox)')"
+p44
+aS"(1055, u'(?i)(men|man)')"
+p45
+aS"(5743, u'(?i)(bots|bot)')"
+p46
+aS"(6249, u'(?i)(ants|ant)')"
+p47
+aS"(3812, u'(?i)(studs|stud)')"
+p48
+aS"(6391, u'(?i)(asses|ass)')"
+p49
+aS"(6356, u'(?i)(ais|ai)')"
+p50
+atp51
+Rp52
+sb.

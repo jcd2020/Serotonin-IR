@@ -1,0 +1,4 @@
+Hostetler, G., et al. (2014). "Lactam and oxazolidinone derived potent 5-hydroxytryptamine 6 receptor antagonists." Bioorg Med Chem Lett 24(9): 2094-2097.
+
+	Lactam and oxazolidinone derived potent 5-hydroxytryptamine 6 (5-HT6) receptor antagonists have been disclosed. One potent member from the lactam series, racemic compound 14 (Ki of 2.6 nM in binding assay, IC50 of 15 nM in functional cAMP antagonism assay) was separated into corresponding enantiomers that displayed the effect of chirality on binding potency (Ki of 1.6 nM and 3000 nM, respectively). The potent enantiomer displayed an IC50 of 8 nM in cAMP antagonism assay, selectivity against a number of family members as well as brain permeability in rats after 6h post oral administration.
+

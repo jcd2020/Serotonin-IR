@@ -1,0 +1,4 @@
+Langlois, M., et al. (1992). "DERIVATIVES OF NAPHTHALIMIDE - NEW POTENT CONFORMATIONALLY RESTRICTED ANTAGONISTS OF 5-HT3 RECEPTORS." Bioorg Med Chem Lett 2(7): 691-694.
+
+	New potent 5-HT3 antagonists were synthesized from naphthalic anhydride and racemic or (R) and (S) 3-aminoquinuclidines. In contrast to zacopride, the activity resided essentially in the (R) enantiomer. Conformational studies demonstrated the presence of a locked structure. The reduction of one carbonyl function yielded equipotent compounds with a loss of enantioselectivity.
+

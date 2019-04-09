@@ -1,0 +1,4 @@
+Papagiannopoulou, D., et al. (2002). "Oxotechnetium (TcO)-Tc-99m SN(R)S S complexes as potential 5-HT1A receptor imaging agents." Nucl Med Biol 29(8): 825-832.
+
+	A series of (TcO)-Tc-99m[SN(R)S][S] complexes carrying the 1-(2-methoxyphenyl)piperazine moiety on the tridentate ligand [SN(R)S] was synthesized. For structural characterization and for in vitro binding assays the analogous oxorhenium complexes were prepared. As demonstrated by appropriate competition binding tests in rat hippocampal preparations, all oxorhenium analogues showed affinity for the 5-HT1A receptor binding sites with IC50 values at the nanomolar range (IC50 = 5.8-103 nM). All (TcO)-Tc-99m[SN(R)S]/[S] complexes showed significant brain uptake in rats at 2 min p.i. (0.24-1.31% ID). However, a clear correlation between distribution of radioactivity in the brain and distribution of 5-HT1A receptors could not be established. (C) 2002 Elsevier Science Inc. All rights reserved.
+

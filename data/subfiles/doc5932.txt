@@ -1,0 +1,4 @@
+Jacobshagen, M., et al. (2014). "The serotonin 6 receptor controls neuronal migration during corticogenesis via a ligand-independent Cdk5-dependent mechanism." Development 141(17): 3370-3377.
+
+	The formation of a laminar structure such as the mammalian neocortex relies on the coordinated migration of different subtypes of excitatory pyramidal neurons in specific layers. Cyclin-dependent kinase 5 (Cdk5) is a master regulator of pyramidal neuron migration. Recently, we have shown that Cdk5 binds to the serotonin 6 receptor (5-HT6R), a G protein-coupled receptor (GPCR). Here, we investigated the role of 5-HT6R in the positioning and migration of pyramidal neurons during mouse corticogenesis. We report that constitutive expression of 5-HT6R controls pyramidal neuron migration through an agonist-independent mechanism that requires Cdk5 activity. These data provide the first in vivo evidence of a role for constitutive activity at a GPCR in neocortical radial migration.
+

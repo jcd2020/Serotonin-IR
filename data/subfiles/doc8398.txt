@@ -1,0 +1,4 @@
+Meller, E. (2007). "5-HT1A receptor-mediated apoptosis: Death by JNK?" Biochimica Et Biophysica Acta-Molecular Cell Research 1773(6): 691-693.
+
+	There is growing interest in the potential use of 5-HT1A receptor agonists as neuroprotective agents in stroke and tramautic brain injury. However, a new study using a recombinant 5-HT1A receptor cell line suggests that these agonists may promote as well as inhibit apoptotic responses. Because heterologously expressed receptors may couple promiscuously to inappropriate signal transduction pathways, the results should be interpreted with caution. (c) 2007 Elsevier B.V. All rights reserved.
+

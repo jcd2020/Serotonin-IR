@@ -1,0 +1,4 @@
+Hoplight, B. J., et al. (2007). "Cocaine increases 5-HT1B mRNA in rat nucleus accumbens shell neurons." Neuropharmacology 52(2): 444-449.
+
+	Serotonin 5-HT(1B) receptors modulate behavioral responses to cocaine, but the effects of cocaine on endogenous 5-HT(1B) receptor expression are not known. Therefore, we examined the effect of binge cocaine administration on 5-HT1B mRNA expression in rat brain. We found that chronic, but not acute, binge cocaine exposure increased 5-HT(1B) mRNA by approximately 80% in nucleus accumbens shell and dorsal striatum. Surprisingly, 5-HT(1B) mRNA was increased in nucleus accumbens shell after chronic vehicle treatment as well, but this effect was driven by animals that were housed with cocaine-treated animals. Thus, 5-HT(1B) mRNA is upregulated by repeated exposure to cocaine and perhaps by social stress as well; both of these factors are relevant to the risk for relapse in cocaine addiction.
+

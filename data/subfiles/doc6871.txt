@@ -1,0 +1,4 @@
+Kulikov, A. V. (2004). "Hereditary catalepsy: Genetic and molecular mechanisms of catalepsy in mice." Russian Journal of Genetics 40(6): 631-637.
+
+	The results of experiments on the inheritance and neurobiological mechanism of high predisposition to tonic immobility (catalepsy) in CBA mice are discussed. Genetic analysis has demonstrated a monogenic inheritance of the predisposition to catalepsy. A set of polymorphic microsatellite markers has been used to demonstrate that the predisposition to catalepsy is linked to the distal fragment of mouse chromosome 13, which contains the gene of the 5-HT1A serotonin receptor. Pharmacological and biochemical evidence for the association between hereditary catalepsy and 5-HT1A receptor dysfunction are presented. The use of CBA mice for studying the mechanisms of depression and the effects of antidepressants is discussed.
+

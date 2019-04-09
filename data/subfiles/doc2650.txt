@@ -1,0 +1,4 @@
+da Silva, A. O., et al. (2007). "5-HT2A serotoninergic receptor in the locus coeruleus participates in the first phase of lipopolysaccharide-induced fever." Can J Physiol Pharmacol 85(5): 497-501.
+
+	This study was aimed at testing the hypothesis that serotoninergic receptors in the locus coeruleus (LC) play a role in bacterial lipopolysaccharide-induced fever. To this end, 5-HT1A (WAY-100635; 3 microg/100 nL) and 5-HT2A (ketanserin; 2 microg/100 nL) antagonists were microinjected into the LC and body temperature was monitored by biotelemetry. Intra-LC microinjections of ketanserin or WAY-100635 caused no change in body temperature of euthermic animals. 5-HT2A antagonism abolished the first phase of the lipopolysaccharide-induced fever. Taken together, these results indicate that serotonin acting on 5-HT2A receptors in the LC mediates the first phase of the febrile response, whereas 5-HT1A receptors are not involved in the lipopolysaccharide-induced fever.
+

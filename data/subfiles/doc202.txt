@@ -1,0 +1,4 @@
+Alkondon, M., et al. (1998). "alpha-bungarotoxin- and methyllycaconitine-sensitive nicotinic receptors mediate fast synaptic transmission in interneurons of rat hippocampal slices." Brain Res 810(1-2): 257-263.
+
+	This study demonstrates for the first time that alpha7 nicotinic receptors (nAChRs) mediate fast synaptic transmission in conventional hippocampal slices. In the presence of antagonists of muscarinic, AMPA, NMDA, GABAA, ATP, and 5-HT3 receptors, spontaneous and evoked postsynaptic currents (PSCs) recorded from CA1 interneurons were blocked by the alpha7 nAChR antagonists methyllycaconitine and alpha-bungarotoxin and by a desensitizing concentration of the alpha7 nAChR agonist choline. Spontaneous nicotinic PSCs were also accompanied by Na+ transients, indicating that alpha7 nAChR-mediated transmission serves as an excitatory signal to the CA1 interneurons in the hippocampus.
+

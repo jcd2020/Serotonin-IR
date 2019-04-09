@@ -1,0 +1,4 @@
+Park, C. M., et al. (2011). "1-(Arylsulfonyl)-2,3-dihydro-1H-quinolin-4-one derivatives as 5-HT6 serotonin receptor ligands." Bioorg Med Chem Lett 21(2): 698-703.
+
+	Piperazinyl derivatives of 1-(arylsulfonyl)-2,3-dihydro-1H-quinolin-4-ones have been identified with high binding affinities for 5-HT6 receptor. In particular, 2-methyl-5-(N-methyl-piperazin-1-yl)-1-(naphthalene-2-sulfonyl)-2,3-dihydro-1H-quinolin-4-one (8g) exhibits high binding affinity toward 5-HT6 (IC50 = 8 nM) receptor with good selectivity over other serotonin and dopamine receptors. (C) 2010 Elsevier Ltd. All rights reserved.
+

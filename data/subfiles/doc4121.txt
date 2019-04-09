@@ -1,0 +1,4 @@
+Garcia, G., et al. (2014). "N-(4-[(18)F]-fluoropyridin-2-yl)-N-{2-[4-(2-methoxyphenyl)piperazin-1-yl]ethyl}ca rboxamides as analogs of WAY100635. New PET tracers of serotonin 5-HT(1A) receptors." Eur J Med Chem 85: 795-806.
+
+	N-(4-[(18)F]-Fluoropyridin-2-yl)-N-{2-[4-(2-methoxyphenyl)piperazin-1-yl]ethyl}-c arboxamides were prepared by labeling their 4-nitropyridin-2-yl precursors through nitro substitution by the (18)F anion. In vitro and in vivo tests showed that the cyclohexanecarboxamide derivative is a reversible, selective and high affinity 5-HT1A receptor antagonist (IC50 = 0.29 nM, ki = 0.18 nM) with high brain uptake, slow brain clearance and stability to defluorination when compared with conventional standards. This PET radioligand is a promising candidate for an improved in vivo quantification of 5-HT1A receptors in neuropsychiatric disorders.
+

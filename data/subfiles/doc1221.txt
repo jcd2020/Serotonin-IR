@@ -1,0 +1,4 @@
+Bockaert, J., et al. (2004). "5-HT4 receptors." Curr Drug Targets CNS Neurol Disord 3(1): 39-51.
+
+	Serotonin 4 receptors (5-HT(4)Rs) were discovered 15 years ago. They are coded by a very complex gene (700Kb, 38 exons) which generates eight carboxy-terminal variants (a, b, c, d, e, f, g, n). Their sequences differ after position L(358). Another variant is characterized by a 14 residue insertion within the extracellular loop 2. Highly selective potent 5-HT(4) receptor antagonists and partial agonists which cross the blood-brain barrier have been synthesized, but a specific full agonist for brain studies is still missing. Based on physiological and behavioral experiments, 5-HT(4)Rs may be targets to treat cognitive deficits, abdominal pain and feeding disorders. One 5-HT(4)R-directed drug (SL65.0155) is already in phase II to treat patients suffering from memory deficits or dementia.
+

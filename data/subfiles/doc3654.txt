@@ -1,0 +1,4 @@
+Ferguson, S. A. and D. J. Kennaway (2000). "The ontogeny of induction of c-fos in the rat SCN by a 5-HT(2A/2C) agonist." Brain Res Dev Brain Res 121(2): 229-231.
+
+	The induction of c-fos in the suprachiasmatic nucleus (SCN) by the 5-HT(2A/2C) agonist, DOI was studied at mid-dark in neonatal rats. The number of cells expressing c-FOS immunoreactivity following DOI was low 3 days after birth, but increased rapidly over the next 3 days. By contrast, light exposure stimulated cells throughout this period. These results are consistent with the arrival of serotonergic afferents at the SCN and their role in the entrainment of rhythms.
+

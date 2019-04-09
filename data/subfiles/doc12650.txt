@@ -1,0 +1,4 @@
+Tohda, M. and H. Watanabe (1996). "Imipramine-induced increase in 5-HT2C receptor mRNA level in the rat brain." Neurosci Res 24(2): 189-193.
+
+	Repeated oral administration of 20 mg/kg imipramine elevated the level of 5-HT2C mRNA in the rat brain. Hybridization signals in nearly all regions stained by digoxigenin-labeled antisense cRNA probe, such as the hippocampus, choroid plexus, habenular nucleus, and dorsomedial hypothalamic nucleus, were more intense following imipramine treatment. These results suggest that long-term treatment with imipramine stimulates 5-HT2C receptor gene expression.
+

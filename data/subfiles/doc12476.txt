@@ -1,0 +1,4 @@
+Tanda, G., et al. (1995). "Local 5HT3 receptors mediate fluoxetine but not desipramine-induced increase of extracellular dopamine in the prefrontal cortex." Psychopharmacology (Berl) 119(1): 15-19.
+
+	Fluoxetine and desipramine, two antidepressants that block selectively the serotonin and the noradrenaline carrier, increase extracellular dopamine concentrations in the prefrontal cortex of freely-moving rats. This effect is calcium dependent and is prevented, in the case of fluoxetine but not desipramine, by systemic pretreatment with low doses or by low concentrations in the dialyzing Ringer of the potent 5-HT3 antagonist ICS 205930. Fluoxetine, but not desipramine, increases extracellular serotonin concentrations in the prefrontal cortex. The results indicate that selective serotonin reuptake blockers increase extracellular dopamine in the prefrontal cortex by stimulating local 5-HT3 receptors.
+

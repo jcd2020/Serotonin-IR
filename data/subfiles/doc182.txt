@@ -1,0 +1,4 @@
+Alessandri, B., et al. (1999). "The neuroprotective effect of a new serotonin receptor agonist, BAY X3702, upon focal ischemic brain damage caused by acute subdural hematoma in the rat." Brain Res 845(2): 232-235.
+
+	We tested the neuroprotective effect of a novel, high affinity serotonin (5-HT1A) agonist, BAY X3702, in a rat model of acute subdural hematoma (ASDH). Animals were treated with 0.01 mg/kg (n=8), 0.003 mg/kg (n=8) BAY X3702 or vehicle (n=4) 15 min before (i.v.) and after (continuous infusion) injection of 400 microl of autologous blood into the subdural space. The ischemic brain damage at 4 h after ASDH was 59.01+/-39 and 60.8+/-49 mm(3) for the low- and high-dose BAY X3702 group, respectively, which was significantly smaller compared to the vehicle-treated ASDH group (106.2+/-33 mm(3)). The result indicates that this novel, high affinity 5-HT(1A) agonist, BAY X3702, is neuroprotective in this model.
+

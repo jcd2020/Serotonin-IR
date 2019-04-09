@@ -1,0 +1,4 @@
+Monk, S. A., et al. (2001). "Generation of a selective 5-HT3B subunit-recognising polyclonal antibody; identification of immunoreactive cells in rat hippocampus." Neuropharmacology 41(8): 1013-1016.
+
+	The present study generated a polyclonal antibody (AP86/3) that recognises a peptide sequence of the h5-HT(3B) receptor subunit. Western blot analysis of homogenates prepared from cell lines expressing either homomeric (h5-HT(3A)) or heteromeric (h5-HT(3A/3B)) receptors, as well as immunocytochemical studies with the same cell lines, indicated that AP86/3 recognised, selectively, the 5-HT(3B) subunit. Immunohistochemical labelling was also apparent in cells in the rat hippocampus that displayed the distribution and morphology of interneurones.
+

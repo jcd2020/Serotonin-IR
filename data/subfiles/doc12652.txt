@@ -1,0 +1,4 @@
+Tohda, M. and H. Watanabe (1998). "Enhancement of serotonin 2C receptor mRNA expression by antidepressants possessing the receptor-blocking activity in the rat brain." Jpn J Pharmacol 78(4): 515-517.
+
+	The effects of repeated oral administration of antidepressants on the serotonin 2C receptor subtype (5-HT2CR) mRNA level in the rat brain were examined. Imipramine (20 mg/kg, p.o.) enhanced the hybridization signal in a time (days)-dependent manner, reaching a maximum at day 4 and maintaining a high level until day 14. Desipramine and mianserin, which have 5-HT2CR antagonistic activity, also stimulated the mRNA expression to about same extents as imipramine, but nomifensine, which has no effect on 5-HT2CR, was ineffective. These results suggest that long-term treatment with antidepressants, which act as 5-HT2CR antagonists, stimulates 5-HT2CR mRNA expression.
+

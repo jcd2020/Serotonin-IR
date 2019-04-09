@@ -1,0 +1,4 @@
+Petersen, I. N., et al. (2017). "(18)F-Labelling of electron rich iodonium ylides: application to the radiosynthesis of potential 5-HT2A receptor PET ligands." Org Biomol Chem 15(20): 4351-4358.
+
+	(18)F-Labelling of aromatic moieties was limited to electron deficient aromatic systems for many years but recent developments have provided access to the direct labelling of electron rich aromatic systems. Herein we report the synthesis and (18)F-labelling of iodonium ylide precursors in the pursuit of (18)F-labelled 5-HT2A receptor agonist PET-ligands. Subsequent evaluation in pigs showed high brain uptake of the PET ligands but a blocking dose of ketanserin did not significantly reduce the signal in relevant brain regions - indicating that the ligands do not interact specifically with the 5-HT2A receptor in vivo.
+

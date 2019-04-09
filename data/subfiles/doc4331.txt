@@ -1,0 +1,4 @@
+Giordano, J. (1997). "Antinociceptive effects of intrathecally administered 2-methylserotonin in developing rats." Brain Res Dev Brain Res 98(1): 142-144.
+
+	The present study examined developmental patterns of antinociception mediated by the spinal 5-HT3 receptor system in the neonatal rat. Intrathecally administered 2-methylserotonin (25-100 micrograms) first produced antinociception against formalin-induced acute inflammatory pain at 10 days postnatally, with effect only at the peak dose (100 micrograms). Intrathecal 2-methylserotonin produced dose-dependent antinociception at 14 and 28 days of age that was attenuated by i.t. pretreatment with the 5-HT3 receptor antagonist MDL-72222 (10 micrograms).
+

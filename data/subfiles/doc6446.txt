@@ -1,0 +1,4 @@
+Khaitan, L., et al. (1994). "EFFECTS OF CHRONIC TREATMENT WITH VALPROATE ON SEROTONIN-1A RECEPTOR-BINDING AND FUNCTION." Psychopharmacology (Berl) 113(3-4): 539-542.
+
+	Valproate is effective in treating bipolar disorder characterized by rapid cycling or acute mania, although the mechanism of action is unclear. In contrast to other treatments for depression, 21 days of treatment in rats with valproate (100, 200 or 400 mg/kg) did not significantly alter the hypothermia induced by 8-hydroxy-2-(di-n-propyl)aminotetralin (8-OH-DPAT), an agonist at serotonin-1A receptors. Treatment with valproate also had no effect on radioligand binding to serotonin-1A, serotonin-2 or beta-adrenergic receptors. Based on these animal studies in frontal cortex and hippocampus, the therapeutic benefit of valproate in mood disorders does not appear to involve adaptive changes in serotonin-1A, serotonin-2 or beta-adrenergic receptor number.
+

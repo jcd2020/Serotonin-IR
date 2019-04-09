@@ -1,0 +1,4 @@
+Perez, M., et al. (1998). "Dimerization of sumatriptan as an efficient way to design a potent, centrally and orally active 5-HT1B agonist." Bioorg Med Chem Lett 8(6): 675-680.
+
+	A new bivalent ligand of formula 3 which results from the covalent coupling of two sumatriptan molecules with a p-xylyl spacer at the level of the sulfonamide nitrogen has been prepared and evaluated as a 5-HT1B/1D receptors agonist. In vitro experiments at 5-HT1B human cloned receptors (Ki = 0.64 nM; EC50 = 0.58 nM) and at the level of the contraction of the New Zealand white rabbit saphenous vein (pD2 = 6.6) demonstrate the superior potency of dimer 3 as a 5-HT1B receptor agonist when compared to sumatriptan or zolmitriptan. Interestingly enough, the new bivalent agonist 3 was found to induce hypothermia in the guineapig upon oral administration suggesting good oral activity and access to the brain.
+

@@ -1,0 +1,4 @@
+Sjogren, B., et al. (2008). "Cholesterol reduction attenuates 5-HT1A receptor-mediated signaling in human primary neuronal cultures." Naunyn-Schmiedebergs Archives of Pharmacology 378(4): 441-446.
+
+	Lipid rafts regulate functions of various G protein-coupled receptors and signaling proteins. We show that human primary neuronal cultures contain high levels of 5-HT(1A) receptors. Stimulation with the 5-HT(1A/7) receptor agonist, 8-OH-DPAT, reduced P-T(185)/Y(187)-ERK2. This reduction could be blocked by the 5-HT(1A) receptor antagonist, WAY100635. Pretreatment with the cholesterol sequestering agent, methyl-beta-cyclodextrin, before adding 8-OH-DPAT, significantly counteracted the inhibitory influence of 8-OH-DPAT on P-T(185)/Y(187)-ERK2 and P-S(133)-CREB. These data indicate that reduction of cholesterol levels significantly influence signaling via 5-HT(1A) receptors in intact neurons.
+

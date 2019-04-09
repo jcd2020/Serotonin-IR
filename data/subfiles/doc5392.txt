@@ -1,0 +1,4 @@
+Hirokawa, Y., et al. (1998). "A novel series of N-(hexahydro-1,4-diazepin-6-yl) and N-(hexahydroazepin- 3-yl)benzamides with high affinity for 5-HT3 and dopamine D2 receptors." Bioorg Med Chem Lett 8(6): 619-624.
+
+	A novel series of benzamides with a hexahydro-1,4-diazepine or hexahydroazepine ring in the amine moiety were prepared, and their binding affinities for 5-HT3 and dopamine D2 receptors were evaluated. The R isomer of the 1-ethyl-4-methylhexahydro-1,4-diazepinylbenzamide (R)-22 had potent affinity for both receptors. The R-enantiomer of the corresponding 1-ethylhexahydroazepinylbenzamide 28 showed potent affinity for dopamine D2 receptors with reduced affinity for 5-HT3 receptors, while the S isomer was found to be a potent and selective 5-HT3 receptor antagonist.
+

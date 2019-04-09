@@ -1,0 +1,4 @@
+Riemer, C., et al. (2003). "Influence of the 5-HT6 receptor on acetylcholine release in the cortex: pharmacological characterization of 4-(2-bromo-6-pyrrolidin-1-ylpyridine-4-sulfonyl)phenylamine, a potent and selective 5-HT6 receptor antagonist." J Med Chem 46(7): 1273-1276.
+
+	A small series of aryl pyridyl sulfones has been prepared and investigated for its 5-HT(6) receptor binding properties. Thereof, pyrrolidinyl derivative 11 proved to be a very potent (pK(i) 9) and selective 5-HT(6) receptor antagonist. By means of in vivo microdialysis in the frontal cortex and a passive avoidance paradigm, where 11 reversed a scopolamine induced retention deficit, a functional correlation between 5-HT(6) receptors and cholinergic neurotransmission could be shown, supporting the therapeutic potential of 5-HT(6) receptors in the treatment of cognitive deficits.
+

@@ -1,0 +1,4 @@
+Yoshida, S., et al. (2005). "Orally active benzoxazole derivative as 5-HT3 receptor partial agonist for treatment of diarrhea-predominant irritable bowel syndrome." J Med Chem 48(22): 7075-7079.
+
+	During our search for therapeutic agents to treat diarrhea-predominant IBS, we found that 2-substituted benzoxazole derivatives have a characteristic 5-HT(3) receptor partial agonist activity with high affinity. Some of these compounds showed high in vitro metabolical stability, and 6g showed marked antidiarrhetic activity with little side effect of constipation in in vivo tests. Our results indicate that 5-HT(3) receptor partial agonists might be superior as therapeutic agents to the drugs currently used for IBS treatment.
+

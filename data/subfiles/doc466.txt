@@ -1,0 +1,4 @@
+Ashby, C. R., Jr., et al. (1989). "Characterization of 5-hydroxytryptamine3 receptors in the medial prefrontal cortex: a microiontophoretic study." Eur J Pharmacol 173(2-3): 193-196.
+
+	The microiontophoretic application of the selective 5-hydroxytryptamine3 (5-HT3) agonist 2-methylserotonin suppresses medial prefrontal cortex cell firing. This effect is blocked by the 5-HT3 antagonists BRL 43694 and ICS205930, but not by metergoline or (+/-)-pindolol. Continuous microiontophoretic administration of magnesium chloride or the gamma-aminobutyric acidA antagonist SR 95103 did not alter 2-methylserotonin's suppressant action, suggesting that this effect is direct. Our results suggest that 5-HT3 receptors have a functional role in the medial prefrontal cortex.
+

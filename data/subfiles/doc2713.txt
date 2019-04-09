@@ -1,0 +1,4 @@
+Darrow, E., et al. (1991). "Extracellular magnesium concentration alters Purkinje cell responsiveness to serotonin and analogues." Eur J Pharmacol 209(1-2): 19-25.
+
+	Binding studies have shown that divalent cations increase the affinity of 5-hydroxytryptamine 1A (5-HT1A) receptors for ligands. The present study compared the effects of magnesium (Mg2+) at physiologic (1.15 mM) and low (0.56 mM) concentrations on firing rate responses of cerebellar Purkinje cells induced by 5-HT and selective 5-HT1 agonists applied by superfusion or iontophoresis. In low Mg2+ concentrations, the inhibitory actions of 5-HT and 8-hydroxy-2-(di-n-propylamino) tetralin (8-OH-DPAT) but not meta-trifluoromethyl phenyl piperazine (TFMPP) on Purkinje cells were significantly reduced; whereas the excitatory actions to the physiologic agonist 5-HT were enhanced. This report demonstrates a functional role for Mg2+ in the operation of the 5-HT1A receptor located on Purkinje cells.
+

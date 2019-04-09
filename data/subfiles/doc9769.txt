@@ -1,0 +1,4 @@
+Oshima, K., et al. (2006). "Tooth-pulp-evoked rostral spinal trigeminal neuronal excitation is attenuated by the activation of 5-HT3 receptors via GABAergic interneurons in the rat." Brain Res 1109(1): 70-73.
+
+	The effect of iontophoretic application of the 5-HT3 receptor agonist, phenylbiguanide (PBG), on the excitation of the trigeminal spinal nucleus oralis (TSNO) neurons to tooth-pulp (TP) stimulation was examined. The PBG application inhibited the TP-evoked TSNO neuronal excitation, and this inhibition was completely blocked by co-application of a GABAA receptor antagonist, bicuculline. The results suggest that the activation of 5-HT3 receptors elicits GABA release in the TSNO.
+

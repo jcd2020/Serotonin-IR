@@ -1,0 +1,4 @@
+Jorand-Lebrun, C., et al. (1997). "Arylpiperazide derivatives of phenylpiperazines as a new class of potent and selective 5-HT1B receptor antagonists." Bioorg Med Chem Lett 7(24): 3183-3188.
+
+	A new series of arylpiperazide derivatives of phenylpiperazines of general formula 4 has been prepared and evaluated as 5-HT1B receptor antagonists. In vitro experiments at human cloned 5-HT1B receptors show that these derivatives are potent and selective 5-HT1B receptor, antagonists. Among them, compound 4f was found to be orally active, to gain access to the CNS and more importantly to induce an increase in extracellular brain 5-HT upon systemic administration. (C) 1997 Elsevier Science Ltd.
+

@@ -1,0 +1,4 @@
+Kuroda, Y., et al. (1994). "Effects of adrenalectomy and type I or type II glucocorticoid receptor activation on 5-HT1A and 5-HT2 receptor binding and 5-HT transporter mRNA expression in rat brain." Brain Res 648(1): 157-161.
+
+	We evaluated the effects of adrenalectomy (ADX) and replacement with glucocorticoid receptor agonists on serotonin (5-HT) 5-HT1A and 5-HT2 receptor binding in rat brain. 5-HT1A receptor binding was increased in the CA2-CA4 and the dentate gyrus of the hippocampus 1 week after ADX. This effect was prevented by the systemic administration of aldosterone (10 micrograms/microliters/h) but not by RU28362 (10 micrograms/microliters/h). No significant effect was observed on 5-HT2 receptor binding in rat cortex. The expression of 5-HT transporter mRNA was unchanged in the raphe nucleus as measured by in situ hybridization.
+

@@ -1,0 +1,4 @@
+Herth, M. M., et al. (2015). "Evaluation of 3-Ethyl-3-(phenylpiperazinylbutyl)oxindoles as PET Ligands for the Serotonin 5-HT(7) Receptor: Synthesis, Pharmacology, Radiolabeling, and in Vivo Brain Imaging in Pigs." J Med Chem 58(8): 3631-3636.
+
+	We have investigated several oxindole derivatives in the pursuit of a 5-HT7 receptor PET ligand. Herein the synthesis, chiral separation, and pharmacological profiling of two possible PET candidates toward a wide selection of CNS-targets are detailed. Subsequent (11)C-labeling and in vivo evaluation in Danish landrace pigs showed that both ligands displayed high brain uptake. However, neither of the radioligands could be displaced by the 5-HT7 receptor selective inverse agonist SB-269970.
+

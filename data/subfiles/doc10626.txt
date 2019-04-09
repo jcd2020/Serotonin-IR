@@ -1,0 +1,4 @@
+Rasmussen, H., et al. (2016). "Low frontal serotonin 2A receptor binding is a state marker for schizophrenia?" Eur Neuropsychopharmacol 26(7): 1248-1250.
+
+	Here we imaged serotonin 2A receptor (5-HT2AR) binding in a very rare population of monozygotic twins discordant for schizophrenia to provide insight into trait and state components in brain 5-HT2AR patterns. In four twin pairs not medicated with drugs that target 5-HT2AR, frontal 5-HT2AR binding was consistently lower (33%) in schizophrenic- relative to their healthy co-twins. Our results strongly imply low frontal 5-HT2AR availability as a state feature of schizophrenia. If replicated, ideally in a larger sample also including dizygotic twin pairs and drug-naive patients, this finding critically advance our understanding of the complex pathophysiology of schizophrenia.
+

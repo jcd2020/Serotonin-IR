@@ -1,0 +1,4 @@
+Benaliouad, F., et al. (2011). "Evidence that the reward attenuating effect of the D1-like antagonist, SCH-23390, is not mediated by its agonist action at the 5-HT2c receptors." Behav Brain Res 217(2): 467-471.
+
+	This study investigated the effect of the 5-HT2c receptor antagonist, SB-242,084, on the attenuation of brain stimulation reward by SCH-23390. An additional experiment determined the effectiveness of SB-242,084 at blocking the reward attenuating effect of 5-HT2c agonist, CP-809,101. Results show that SB-242,084 blocked the reward attenuating effect of CP-809,101 but failed to alter that of SCH-23390. These findings provide evidence that the agonist action of SCH-23390 at the 5-HT2c receptors does not contribute to its attenuating effect on reward.
+

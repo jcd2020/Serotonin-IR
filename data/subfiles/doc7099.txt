@@ -1,0 +1,4 @@
+Laplante, P., et al. (2002). "Serotonin regulates hippocampal glucocorticoid receptor expression via a 5-HT7 receptor." Brain Res Dev Brain Res 139(2): 199-203.
+
+	Glucocorticoid receptor expression in primary hippocampal cell cultures was significantly increased with either 10 mM 8-bromo cAMP, 50 nM 5-carboxamidotryptamine (5-CT), a potent 5-HT7 receptor agonist, or 100 nM 5-HT. The effect of 5-HT or 5-CT was blocked with methiothepin or by a protein kinase A inhibitor, but not pindolol. These results suggest that the effects of 5-HT on hippocampal GR expression is mediated by a 5-HT7 receptor.
+

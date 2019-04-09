@@ -1,0 +1,4 @@
+Perez-Leon, J. A., et al. (2004). "Distribution of 5-hydroxytriptamine2C receptor mRNA in rat retina." Brain Res Mol Brain Res 125(1-2): 140-142.
+
+	There are several factors that suggest serotonin [5-hydroxytryptamine (5-HT)] plays a role as a neurotransmitter/neuromodulator within the retina. The presence of mRNAs encoding 5-HT receptors (5-HTR) of the types 5-HT2CR and 5-HT5AR within the rat retina was investigated using in situ hybridization of digoxigenin-labeled probes. The 5HT5AR probe produced no labeling, whereas the 5HT2CR probe hybridized in cells scattered in the inner nuclear and ganglion cell layers. Thus, the 5HT2CR gene is expressed by retinal neurons, some of which represent third-order neurons, either amacrine or ganglion cells. This suggests that 5-HT may modulate the outgoing signal from the retina.
+

@@ -1,0 +1,4 @@
+Leopoldo, M., et al. (2004). "Studies on 1-arylpiperazine derivatives with affinity for rat 5-HT7 and 5-HT1A receptors." J Pharm Pharmacol 56(2): 247-255.
+
+	Several 1-aryl-4-(2-arylethyl)piperazine derivatives were synthesized and tested in-vitro for their binding affinity for 5-HT(7) and 5-HT(1A) receptors. These compounds displayed 5-HT(7 )receptor affinity ranging between K(i) = 474 nM and K(i) = 8.2 nM, besides high affinity for the 5-HT(1A) receptor. Intrinsic activity of the most potent compounds was assessed. 4-[2-(3-Methoxyphenyl)ethyl]-1-(2-methoxyphenyl)piperazine (16) and 1-(1,2-benzisoxazol-3-yl)-4-[2-(3-methoxyphenyl)ethyl]piperazine (20) (K(i) = 24.5 and 8.2 nM, respectively) behaved as partial agonist and full agonist, respectively, when tested for 5-HT(7) receptor-mediated relaxation of substance P-induced guinea-pig ileum contraction.
+

@@ -1,0 +1,4 @@
+Harikumar, K. G. and A. Chattopadhyay (1998). "Modulation of agonist and antagonist interactions in serotonin 1A receptors by alcohols." FEBS Lett 438(1-2): 96-100.
+
+	The serotonin type IA (5-HT1A) receptors are members of a superfamily of seven transmembrane domain receptors that couple to GTP binding regulatory proteins (G-proteins). Serotonergic signalling has been shown to play an important role in alcohol tolerance and dependence. We have studied the effects of alcohols on ligand (agonist and antagonist) binding to bovine hippocampal 5-HT1A receptor in native as well as solubilized membranes. Our results show that alcohols inhibit the specific binding of the agonist OH-DPAT and the antagonist p-MPPF to 5-HT1A receptors in a concentration-dependent manner.
+

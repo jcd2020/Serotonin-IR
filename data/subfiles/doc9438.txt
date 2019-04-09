@@ -1,0 +1,4 @@
+Nirogi, R. V. S., et al. (2012). "N,N-Dimethyl- 9-(arylsulfonyl)-2,3,4,9-tetrahydro-1H-carbazol-3-yl amine s as novel, potent and selective 5-HT6 receptor antagonists." Bioorg Med Chem Lett 22(22): 6980-6985.
+
+	The design, synthesis and SAR of novel tetrahydrocarbazole derivatives having 5-HT6 receptor antagonist activity is presented. The racemic compound 15e was found to possess desirable pharmacokinetic properties, adequate brain penetration and activity in animal models of cognition. (C) 2012 Elsevier Ltd. All rights reserved.
+

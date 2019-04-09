@@ -1,0 +1,4 @@
+Lacroix, L. P., et al. (2004). "5-HT6 receptor antagonist SB-271046 enhances extracellular levels of monoamines in the rat medial prefrontal cortex." Synapse 51(2): 158-164.
+
+	The present study investigated the neurochemical effects of the selective 5-HT(6) receptor antagonist SB-271046 in the rat medial prefrontal cortex (mPFC). The effect of SB-271046 on extracellular levels of dopamine (DA), norepinephrine (NE), and serotonin (5-HT) in the mPFC was examined using in vivo microdialysis in the freely moving rat. SB-271046 (10 mg/kg, p.o.) produced a significant increase in extracellular levels of both DA and NE without altering 5-HT neurotransmission. These results further support the rationale for the use of 5-HT(6) receptor antagonists in the treatment of cognitive dysfunction associated with psychiatric diseases.
+

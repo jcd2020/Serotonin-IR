@@ -1,0 +1,4 @@
+Raffa, R. B. and E. E. Codd (1996). "Lack of binding of acetaminophen to 5-HT receptor or uptake sites (or eleven other binding/uptake assays)." Life Sci 59(2): PL37-PL40.
+
+	The mechanism of analgesic action of acetaminophen (paracetamol) remains unknown. However, a central component distinct from that of the NSAIDs (non-steroidal antiinflammatory drugs) seems likely. A recent report (NeuroReport 6:1546-1548, 1995) suggests the involvement of 5-HT3 receptors. In the present study, we measured the affinity of acetaminophen at 5-HT3, as well as 5-HT1A, 5-HT1B, 5-HT1D, 5-HT2, 5-HT2C, 5-HT4, 5-HT6, 5-HT7 and eleven other receptor sites and at serotonin and norepinephrine reuptake sites. At 10 mu M, acetaminophen inhibited less than 10% specific radioligand binding at any site. These findings: (i) suggest that acetaminophen's effect on serotonergic pathways is indirect, and (ii) circumscribe acetaminophen's possible central analgesic mechanism(s).
+

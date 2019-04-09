@@ -1,0 +1,4 @@
+Siniscalchi, A., et al. (1990). "Different effects of 8-OH-DPAT, a 5-HT1A receptor agonist, on cortical acetylcholine release, electrocortigram and body temperature in guinea pigs and rats." Eur J Pharmacol 175(2): 219-223.
+
+	8-Hydroxy-2-(di-n-propylamino)tetralin (8-OH-DPAT) dose dependently increased cortical acetylcholine (ACh) release and the body temperature of freely moving guinea pigs. Moreover, it evoked an electroencephalographic (EEG) arousal reaction in phenobarbital-pretreated animals. 8-OH-DPAT was about 10 times less effective in increasing cortical ACh release in the rat than in the guinea pig, and did not modify the phenobarbital-synchronized EEG but dose dependently decreased body temperature. The possibility that 5-HT1A receptors play different roles, depending on the animal species, is discussed.
+

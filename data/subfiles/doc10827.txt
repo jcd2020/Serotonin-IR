@@ -1,0 +1,4 @@
+Rioux, A., et al. (1999). "Adaptive changes of serotonin 5-HT2A receptors in mice lacking the serotonin transporter." Neurosci Lett 262(2): 113-116.
+
+	The serotonin transporter (5-HTT) plays a key-role in the control of serotoninergic neurotransmission and is the target of some antidepressants. Possible adaptive changes in brain 5-HT2A receptors were investigated in knock-out mice that do not express the 5-HTT. Autoradiographic labeling of these receptors by the selective antagonist [3H]MDL 100,907 and saturation experiments with cortical membranes revealed: (1) a new localization of these receptors in the external field of striatum (possibly in striosomes); (2) regional variations in adaptive changes in the density of 5-HT2A receptors in 5-HT(-/-) mutants (-30-40% in the claustrum, cerebral cortex and lateral striatum; no significant change in the striatum core) as compared to wild-type mice.
+

@@ -1,0 +1,4 @@
+Pinkus, L. M., et al. (1990). "Antagonism of [3H]zacopride binding to 5-HT3 recognition sites by its (R) and (S) enantiomers." Eur J Pharmacol 179(1-2): 231-235.
+
+	[3H]Zacopride exhibits high affinity (Kd less than or equal to 1 nM) for 5-HT3 binding sites (inhibited by ICS 205-930) in rabbit intestinal muscularis and vagus nerve, human jejunum, rat intestinal muscularis and rat brain cortex. Its binding was inhibited by several 5-HT3 antagonists that displayed similar rank orders of potency in the tissues examined. Zacopride's (S) enantiomer was significantly more potent than its (R) enantiomer (21- to 42-fold in rabbit and human; 8- to 12-fold in rat) as an inhibitor of [3H]zacopride binding. These studies indicate that the utility of [3H]zacopride as a high affinity 5-HT3 ligand resides with the (S) enantiomer.
+

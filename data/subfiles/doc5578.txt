@@ -1,0 +1,4 @@
+Howard, H. R., et al. (1996). "3-Benzisothiazolylpiperazine derivatives as potential atypical antipsychotic agents." J Med Chem 39(1): 143-148.
+
+	A series of substituted phenethyl derivatives of 3-benzisothiazolylpiperazine incorporating potent D2 and 5-HT2A antagonist activity was investigated as an approach to a novel atypical antipsychotic agent. The in vitro profile of 8e from this series is a combination of D2 receptor affinity comparable to the typical antipsychotic agent haloperidol and a 5-HT2A/D2 ratio comparable to the atypical agent clozapine. In vivo 8e possesses activity consistent with an efficacious antipsychotic agent with less tendency to induce extrapyramidal side effects in man.
+

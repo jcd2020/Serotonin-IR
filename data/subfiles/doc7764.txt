@@ -1,0 +1,4 @@
+Mach, R. H., et al. (1999). "The analgesic tropane analogue (+/-)-SM 21 has a high affinity for sigma2 receptors." Life Sci 64(10): Pl131-137.
+
+	The analgesic properties of the tropane analogue (+/-)-SM 21 have been attributed to the antagonism of presynaptic m2 receptors resulting in a potentiation of acetylcholine release. However, drugs targeting a number of other neurotransmitter receptors have been shown to enhance acetylcholine release. In the current study, in vitro studies were conducted in order to determine the affinity of (+/-)-SM 21 for serotonin 5-HT3, 5-HT4, and sigma receptors. Our results indicate that (+/-)-SM 21, and its structural congeners, have a relatively high affinity for sigma2 receptors relative to their reported affinity for muscarinic receptors. The higher affinity for sigma2 versus sigma1 receptors indicates that (+/-)-SM 21 may be a suitable lead compound for developing sigma2-selective ligands.
+

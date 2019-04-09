@@ -1,0 +1,4 @@
+Owen, J. C. and P. S. Whitton (2003). "Reboxetine modulates norepinephrine efflux in the frontal cortex of the freely moving rat: the involvement of alpha 2 and 5-HT1A receptors." Neurosci Lett 348(3): 171-174.
+
+	The effect of reboxetine on norepinephrine (NE) efflux in the frontal cortex of freely moving rats has been studied using in vivo microdialysis. Reboxetine was administered either by injection (10 and 30 mg/kg i.p.) or directly to the frontal cortex via the dialysis probe (10 and 100 microM). To further elucidate the mechanism of action of reboxetine in this region yohimbine (10 microM) was co-infused with reboxetine via the frontal cortex probe. Both routes of administration of reboxetine resulted in a drug-induced, dose-dependent decrease in frontal cortex NE efflux. This effect was reversed following co-infusion of yohimbine, which has been shown to possess both alpha(2)-adrenoceptor antagonist and 5-HT(1A) agonist properties.
+

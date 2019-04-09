@@ -1,0 +1,4 @@
+Devegowda, V. N., et al. (2013). "Synthesis and the 5-HT6 receptor antagonistic effect of 3-arylsulfonylamino-5,6-dihydro-6-substituted pyrazolo[3,4]pyridinones for neuropathic pain treatment." Bioorg Med Chem Lett 23(16): 4696-4700.
+
+	A novel series of 3-arylsulfonylamino-5,6-dihydro-6-substituted-1H-pyrazolo[3,4-c]pyridine-7-ones was designed and synthesized as 5-HT6 ligands. Among the derivatives synthesized, the lead compound, 12b, having piperidine functionality at the 6-position and (1-naphthyl)sulfonamino at the 3-position of the core structure showed the most potent 5-HT6 inhibitory activity in vitro, good stability without CYP liability, and good neuropathic pain alleviation activity in a rat animal model.
+

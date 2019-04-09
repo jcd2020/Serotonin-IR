@@ -1,0 +1,4 @@
+Butini, S., et al. (2009). "Novel, potent, and selective quinoxaline-based 5-HT(3) receptor ligands. 1. Further structure-activity relationships and pharmacological characterization." J Med Chem 52(21): 6946-6950.
+
+	We investigated the pharmacological profile of a novel series of quinoxaline-based 5-HT(3) receptor ligands bearing an extra basic moiety on the piperazine N-4. High affinity and selectivity were dependent on the electronic properties of the substituents, and at cardiac level 3a and 3c modulated chronotropy but not inotropy. In von Bezold-Jarisch reflex test 3a-c were partial agonists while 3i was a full agonist. Preliminary pharmacokinetic studies indicated that 3a is a brain penetrating agent.
+

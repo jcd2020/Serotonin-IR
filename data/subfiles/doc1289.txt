@@ -1,0 +1,4 @@
+Bonanno, G., et al. (1986). "Pharmacological characterization of release-regulating serotonin autoreceptors in rat cerebellum." Eur J Pharmacol 126(3): 317-321.
+
+	The release of [3H]5-hydroxytryptamine ([3H]5-HT) evoked by 15 mM KCl in superfused rat cerebellum synaptosomes was inhibited by 5-HT (pEC30 = 8.73). Methiothepin antagonized 5-HT (pA2 = 9.28); ketanserin, methysergide, cinanserin and spiperone were ineffective. The receptors involved were activated (pEC30 = 8.90) by the 5-HT1 agonist 5-methoxy-3-[1,2,3,6-tetrahydropyridin-4-yl]-1H-indole (RU 24969) X (-)Propranolol shifted to the right (pA2 = 8.05) the dose-response curve of 5-HT. The 5-HT1A agonist 8-hydroxy-2-(di-n-propylamino)tetralin (8-OH-DPAT) was ineffective. In conclusion, autoreceptors are present on 5-HT nerve endings in rat cerebellum and appear to belong to the 5-HT1B subtype.
+

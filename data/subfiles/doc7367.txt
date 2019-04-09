@@ -1,0 +1,4 @@
+Li, Q., et al. (1997). "Fluoxetine gradually increases [125I]DOI-labelled 5-HT2A/2C receptors in the hypothalamus without changing the levels of Gq- and G11-proteins." Brain Res 775(1-2): 225-228.
+
+	The time course of fluoxetine-induced supersensitivity of hypothalamic 5-HT2A/2C receptors was examined. Daily injections of fluoxetine (7 or 14 days) significantly increased agonist ([125I]DOI)-labeled high-affinity-state 5-HT2A/2C receptors in the hypothalamus, but not frontal cortex. No change was observed in the density of [3H]ketanscrin-labeled 5-HT2A receptors in either brain region. The levels of Gq- and G11- proteins in the hypothalamus and cortex were not altered by fluoxetine. These results suggest that fluoxetine gradually increases the G-protein coupling of 5-HT2A/2C receptors without altering the levels of Gq- or G11-proteins.
+

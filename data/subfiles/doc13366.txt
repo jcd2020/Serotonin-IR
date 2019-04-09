@@ -1,0 +1,4 @@
+Ward, S. E., et al. (2005). "Discovery of the first potent, selective 5-hydroxytryptamine(1D) receptor antagonist." J Med Chem 48(10): 3478-3480.
+
+	A series of 5-(piperidinylethyloxy)quinoline 5-hydroxytryptamine(1D) (5-HT1D) receptor antagonists have been discovered from elaboration of the series of dual 5-hydroxy-tryptamine(1) -selective serotonin reuptake inhibitors (5HT(1)-SSRIs) reported previously. This is the first report of highly potent, selective antagonists for the 5-HT1D receptor, which represents an extremely useful set of pharmacological tools for further understanding the roles of the 5-HT1 receptor subtypes.
+

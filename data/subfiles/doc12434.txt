@@ -1,0 +1,4 @@
+Takeuchi, K., et al. (2006). "Advances toward new antidepressants beyond SSRIs: 1-aryloxy-3-piperidinylpropan-2-ols with dual 5-HT1A receptor antagonism/SSRI activities. Part 5." Bioorg Med Chem Lett 16(9): 2347-2351.
+
+	A series of 1-aryloxy-3-piperidinylpropan-2-ols possessing potent dual 5-HT1A receptor antagonism and serotonin reuptake inhibition was discovered. 1-(1H-Indol-4-yloxy)-3-(4-benzo[b]thiophen-2-ylpiperidinyl)propan-2-ols exhibited selective and high affinities at the 5-HT1A receptor and serotonin reuptake site in vitro. In vivo evaluation of this series of compounds demonstrated elevated extracellular serotonin levels from the basal and quick recovery of neuron firing that was presumably suppressed by the initial acute activation of 5-HT1A somatodendritic autoreceptors.
+

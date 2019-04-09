@@ -1,0 +1,4 @@
+Liao, B. L., et al. (1993). "LOSS OF 5-HT(1A) RECEPTOR MESSENGER-RNA IN THE DENTATE GYRUS OF THE LONG-TERM ADRENALECTOMIZED RATS AND RAPID REVERSAL BY DEXAMETHASONE." Molecular Brain Research 19(4): 328-332.
+
+	Two months after bilateral adrenalectomy, 5-HT1A receptor mRNA labelling was decreased in the granular cell layer of the dentate gyrus but not in the pyramidal cell layer of Ammon's horn. Two month adrenalectomized rats given dexamethasone (10 mug/ml saline) 24 or 72 h before perfusion showed a progressive recovery in 5-HT1A mRNA labelling in the dentate gyrus. 5-HT1A expression may underlie hippocampal neuronal plasticity after long-term adrenalectomy.
+

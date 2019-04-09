@@ -1,0 +1,4 @@
+Imperato, A., et al. (1990). "Stress activation of limbic and cortical dopamine release is prevented by ICS 205-930 but not by diazepam." Eur J Pharmacol 175(2): 211-214.
+
+	Systemic administration of the 5-HT3 receptor antagonist ICS 205-930, but not of the benzodiazepine diazepam, was able to prevent the stimulation of dopamine release in the nucleus accumbens and prefrontal cortex induced by restraint stress. These findings suggest that stress is not simply co-extensive with anxiety and that 5-HT3 receptors could regulate the dopaminergic response to stress.
+

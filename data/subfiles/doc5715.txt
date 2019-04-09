@@ -1,0 +1,4 @@
+Hutson, P. H., et al. (1989). "Hippocampal 5-HT synthesis and release in vivo is decreased by infusion of 8-OHDPAT into the nucleus raphe dorsalis." Neurosci Lett 100(1-3): 276-280.
+
+	Infusion of the serotonin-1A (5-HT1A) agonist, 8-hydroxy-2-di(n-propylamino)tetralin (8-OHDPAT) (0.5, 1.0 and 2.0 micrograms) into the dorsal raphe, decreased extracellular 5-HT as measured by dialysis in the ventral hippocampus and also decreased 5-HT synthesis in both the hippocampus and the rest of the brain as measured by 5-hydroxytryptophan (5-HTP) accumulation following decarboxylase inhibition by NSD 1015.
+

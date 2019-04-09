@@ -1,0 +1,4 @@
+Nirogi, R., et al. (2013). "Synthesis and Structure Activity Relationship of Rigidized Indolyl Pyrrolidine Derivatives as 5-HT6 Receptor Ligands." Asian Journal of Chemistry 25(16): 9293-9298.
+
+	A novel series of rigidized indolyl pyrrolidine derivatives have been designed by constraining the tryptamine nitrogen through alpha and beta carbons. All the synthesized derivatives have shown moderate affinities at 5-HT6R when tested in in vitro binding assay. Synthesis, structure activity relationship (SAR), pharmacokinetic profile and in vivo efficacy of a selected compound is the subject matter of this communication.
+

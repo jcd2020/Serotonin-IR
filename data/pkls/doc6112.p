@@ -1,0 +1,75 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'antagonists'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'methods'
+p7
+g3
+((lp8
+tp9
+Rp10
+sS'topics'
+p11
+g3
+((lp12
+tp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+S'5ht3'
+p17
+atp18
+Rp19
+sS'regions'
+p20
+g3
+((lp21
+tp22
+Rp23
+sS'year'
+p24
+V1995
+p25
+sS'agonists'
+p26
+g3
+((lp27
+tp28
+Rp29
+sS'species'
+p30
+g3
+((lp31
+S"(2323, u'(?i)(bees|bee)')"
+p32
+aS"(5958, u'(?i)(rats|rat)')"
+p33
+aS"(6753, u'(?i)(da|das)')"
+p34
+aS"(1266, u'(?i)(embryos|embryo)')"
+p35
+aS"(6682, u'(?i)(tera|teras)')"
+p36
+aS"(1055, u'(?i)(men|man)')"
+p37
+aS"(4979, u'(?i)(cats|cat)')"
+p38
+aS"(3550, u'(?i)(anis|ani)')"
+p39
+aS"(3812, u'(?i)(studs|stud)')"
+p40
+aS"(2621, u'(?i)(vertebrates|vertebrate)')"
+p41
+atp42
+Rp43
+sb.

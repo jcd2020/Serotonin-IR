@@ -1,0 +1,4 @@
+Compan, V., et al. (2004). "[Feeding disorders in 5-HT4 receptor knockout mice]." J Soc Biol 198(1): 37-49.
+
+	To study the functional contributions of the 5-HT4 receptor subtype of serotonin (5-HT), we have generated knockout mice lacking the 5-HT4 receptor gene. The male mutant mice exhibit a hyposensitivity to anorexic stress. Our recent data indicate that the pharmacological inactivation, using a systemic injection of the 5-HT4 receptor antagonist RS39604 (0.5 mg/kg), suppressed restraint stress-induced anorexia in wild-type female mice. In parallel, the same treatment reduced the 3,4-N-methylenedioxymethamphetamine (" ecstasy", 10 mg/kg)-induced anorexia in male wild-type mice. Our neurochemical analyses suggest that the mechanisms underlying feeding disorders in 5-HT4 receptor knockout mice are related to a lesser efficacy of 5-HT (hypothalamus, nucleus accumbens), leptin and the cocaine-amphetamine related transcript to reduce food intake following stress.
+

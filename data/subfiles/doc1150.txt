@@ -1,0 +1,4 @@
+Blanckaert, P., et al. (2005). "Synthesis, radiosynthesis and in vivo evaluation in mice of I-123 -(4-fluorophenyl) {1- 2-(4-iodophenyl)ethyl piperidin-4-yl}methanone for visualization of the 5-HT2A receptor with SPECT." Applied Radiation and Isotopes 62(5): 737-743.
+
+	This work reports the synthesis, radiolabelling and preliminary in vivo evaluation of [I-123]-(4-fluorophenyl){1-[2-(4-iodophenyl)ethyl]piperidin-4-yl}methanone. The tributylstannylprecursor was synthesized with a yield of 30%. Radiolabelling was performed using an electrophilic iododestannylation. Tracer yield was 80%, radiochemical purity was > 95% and specific activity was at least 55Ci/mu mol. Log P was 1.5. The tracer showed uptake in mice brain (2.72% ID/g tissue at 5min p.i.) and therefore will be evaluated further by regional brain biodistribution and displacement studies in rabbits. (c) 2004 Elsevier Ltd. All rights reserved.
+

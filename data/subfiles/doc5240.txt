@@ -1,0 +1,4 @@
+Hernandez, A., et al. (2004). "Venlafaxine-induced depression of wind-up activity in mononeuropathic rats is potentiated by inhibition of brain 5-HT1A receptor expression in vivo." International Journal of Neuroscience 114(2): 229-242.
+
+	Antinociceptive effects of inhibiting 5-HT1A receptor expression by intracerebroventricular administration of an antisense oligodeoxynucleotide were studied in mononeuropathic rats. A 7-day period of treatment with the antisense produced: (i) reduction of mechanical hyperalgesia in the neuropathic hindlimb starting from day 5 of treatment, (ii) decrease of the hypothermic effect of 8-OH-DPAT challenge on day 6 of treatment, and (iii) potentiation of the inhibitory effect of velafaxine on spinal wind-up activity on day 7 of treatment. Results suggest a counteracting role of somatodendritic 5-HT1A receptors of raphe nuclei neurons in the antinociceptive efficacy of antidepressants with serotonergic spectrum in neuropathic pain.
+

@@ -1,0 +1,4 @@
+Sprouse, J. S. and G. K. Aghajanian (1986). "(-)-Propranolol blocks the inhibition of serotonergic dorsal raphe cell firing by 5-HT1A selective agonists." Eur J Pharmacol 128(3): 295-298.
+
+	The ability of the beta-adrenoceptor antagonist propranolol to block the effects of serotonin (5-HT) and 5-HT1A-selective agonists on the spontaneous firing of serotonergic dorsal raphe neurons was assessed. During microiontophoretic application, (-)- but not (+)-propranolol rapidly and reversibly blocked the suppressant effects of the 5-HT1A-selective agonists ipsapirone (TVX Q 7821) and 8-hydroxy-2-(di-n-propylamino)tetralin (8-OH-DPAT). However, (-)-propranolol was a relatively weak antagonist of 5-HT itself, suggesting that the endogenous neurotransmitter may have actions on dorsal raphe neurons in addition to those mediated by 5-HT1A receptors.
+

@@ -1,0 +1,4 @@
+Dubayle, D., et al. (2005). "Evidence for serotonin influencing the thalamic infiltration of mast cells in rat." J Neuroimmunol 159(1-2): 20-30.
+
+	Serotonin (5-HT) is involved in neuroimmunomodulation. We analyzed the effects of sumatriptan, a 5-HT(1B/1D) receptor agonist, and ondansetron, a 5-HT(3) receptor antagonist, on thalamic mast cell (TMC) population, the only immunocytes known to infiltrate the brain in physiological conditions. Only sumatriptan was effective, significantly increasing TMC numbers versus controls, and especially those containing 5-HT. 5-HT(1B) receptors are concentrated in the median eminence on non-serotonergic axonal endings, probably hypothalamic terminal fibers, involved in hypothalamic-pituitary neuroendocrine modulating processes. TMC variations could reflect serotonergic actions on these fibers. TMCs would thus be cellular interfaces mediating immune action in the nervous system in relation with the hormonal status of the organism.
+

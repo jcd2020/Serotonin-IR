@@ -1,0 +1,4 @@
+Blomqvist, O., et al. (1994). "5-HT1A RECEPTOR AGONISTS REDUCE ETHANOL-INDUCED LOCOMOTOR-ACTIVITY IN MICE." Alcohol 11(2): 157-161.
+
+	Animal studies as well as clinical studies have suggested that the brain 5-HT system is important for the regulation of voluntary ethanol intake and preference. Previous studies have suggested that 5-HT1A receptor agonists may reduce ethanol preference in rats. In the present study on mice, the 5-HT1A receptor agonists (8-OH-DPAT), ipsapirone, and buspirone all antagonized the locomotor activity (LMA) stimulatory effect of ethanol (2.5 g/kg). The present results provide further support for the notion that the LMA-increasing effect of ethanol may be homologous to its reinforcing properties and that 5-HT1A receptor agonists may counteract these properties as well.
+

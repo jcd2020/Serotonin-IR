@@ -1,0 +1,4 @@
+Kung, H. F., et al. (1994). "A potential 5-HT1A receptor antagonist: p-MPPI." Life Sci 55(19): 1459-1462.
+
+	A potential 5-HT1A receptor antagonist, p-MPPI, 4-(2'-methoxy-)phenyl-1-[2'-(n-2"-pyridinyl)-p-iodobenzamido-]ethy l- piperazine, was developed. The [125I]p-MPPI demonstrated high affinity and selectivity toward 5-HT1A receptors; Kd = 0.36 nM and Bmax = 264 fmol/mg of protein in rat hippocampal membrane homogenates. The binding is not sensitive to GTP (300 microM) or Gpp(NH)p (100 microM). In forskolin-stimulated adenylyl cyclase assay using rat hippocampus, p-MPPI (up to 10 microM) showed no agonist activity as compared to that of (+/-)-8-OH-DPAT. At 100 nM it completely antagonized the inhibition of forskolin-stimulated adenylyl cyclase activity produced by 100 nM of (+/-)-8-OH-DPAT. This potential 5-HT1A antagonist may provide a powerful tool for studies of the pharmacology of the 5-HT1A receptor system.
+

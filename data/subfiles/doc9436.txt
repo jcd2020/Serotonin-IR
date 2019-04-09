@@ -1,0 +1,4 @@
+Nirogi, R. V. S., et al. (2012). "Synthesis and structure-activity relationship of novel conformationally restricted analogues of serotonin as 5-HT6 receptor ligands." Journal of Enzyme Inhibition and Medicinal Chemistry 27(3): 443-450.
+
+	5-Hydroxytryptamine 6 receptors (5-HT6R) are being perceived as the possible target for treatment of cognitive disorders as well as obesity. The present article deals with the design, synthesis, in vitro binding and structure-activity relationship of a novel series of tetracyclic tryptamines with the rigidized N-arylsulphonyl, N-arylcarbonyl and N-benzyl substituents as 5-HT6 receptor ligands. The chiral sulphonyl derivatives 15a and 17a showed high affinity at 5-HT6R with the K-i of 23.4 and 20.5 nM, respectively. The lead compound from the series 15a has acceptable ADME properties, adequate brain penetration and is active in animal models of cognition like Novel Object Recognition Task (NORT) and water maze.
+

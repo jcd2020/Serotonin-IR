@@ -1,0 +1,4 @@
+Yoo, E., et al. (2012). "Synthesis and biological evaluation of benzoisothiazole derivatives possessing N,N-dimethylformimidamide group as 5-HT6 receptor antagonists." Bioorg Med Chem 20(8): 2707-2712.
+
+	A series of novel N,N-dimethyl-N'-(5-(Ar-sulfonamido) benzo[d]isothiazol-3-yl)formimidamides was designed and synthesized as 5-HT6 ligands. Here N,N-dimethyl formimidamides was used as a replacement for an aminoethyl moiety. In vitro functional assays demonstrated compounds 9b and 9i significantly inhibited the 5-HT-induced Ca2+ increases (9b; IC50 = 0.36 mu M and 9i; IC50 = 0.44 mu M), indicating that 9b and 9i were potent 5-HT6 receptor antagonists. Compounds 9i also showed good selectivity on the 5-HT6 over 5-HT4 and 5-HT7 receptors. (C) 2012 Elsevier Ltd. All rights reserved.
+

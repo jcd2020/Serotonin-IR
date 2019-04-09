@@ -1,0 +1,4 @@
+Pettersson, M., et al. (2011). "Design, synthesis, and pharmacological evaluation of azetedine and pyrrolidine derivatives as dual norepinephrine reuptake inhibitors and 5-HT(1A) partial agonists." Bioorg Med Chem Lett 21(2): 865-868.
+
+	Compounds with combined norepinephrine reuptake inhibitor (NRI) and serotonin 1A (5-HT(1A)) partial agonist pharmacology may offer a new therapeutic approach for treating symptoms of neuropsychiatric disorders including ADHD, depression, and anxiety. Herein we describe the design and optimization of novel chemical matter that exhibits favorable dual NRI and 5-HT(1A) partial agonist activity. Lead compounds in this series were found to be devoid of activity at the dopamine transporter and were shown to be brain penetrant with high receptor occupancy.
+

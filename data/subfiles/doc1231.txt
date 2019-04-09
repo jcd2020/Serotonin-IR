@@ -1,0 +1,4 @@
+Bodnar, A. L., et al. (2005). "Discovery and structure-activity relationship of quinuclidine benzamides as agonists of alpha7 nicotinic acetylcholine receptors." J Med Chem 48(4): 905-908.
+
+	A library of benzamides was tested for alpha7 nicotinic acetylcholine receptor (nAChR) agonist activity using a chimeric receptor in a functional, cell-based, high-throughput assay. From this library, quinuclidine benzamides were found to have alpha7 nAChR agonist activity. The SAR diverged from the activity of this compound class verses the 5-HT(3) receptor, a structural homologue of the alpha7 nAChR. PNU-282987, the most potent compound from this series, was also shown to open native alpha7 nAChRs in cultured rat neurons and to reverse an amphetamine-induced gating deficit in rats.
+

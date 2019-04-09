@@ -1,0 +1,4 @@
+Langlois, M., et al. (1994). "N-CHLOROMETHYL QUINUCLIDINIUM DERIVATIVES - A NEW CLASS OF IRREVERSIBLE LIGANDS FOR 5-HT3 RECEPTORS." Bioorg Med Chem Lett 4(7): 945-948.
+
+	The quinuclidine ring of potent 5-HT3 receptor antagonists such os zacopride and the 1,8-naphthalimide derivatives 3 reacts with methylene chloride at room temperature to produce the corresponding chloromethyl quaternary derivatives. The compounds derived from (S)-zacopride and (R)-3 are potent ligands for 5-HT3 receptor as evaluated in binding assays. incubated with entorhinal cortex membranes, they produced a dose-dependent decrease in the B-max value for [H-3]-BRL-43694 which was inhibited by zacopride or GR 38032F. The quaternary derivative of (R)-3 is a promising tool for studying 5-HT3 receptors due to its high affinity and fluorescent properties.
+

@@ -1,0 +1,4 @@
+Koe, B. K., et al. (1992). "BINDING AND UPTAKE STUDIES WITH H-3 CP-93,129, A RADIOLABELED SELECTIVE 5-HT1B RECEPTOR LIGAND." Drug Development Research 25(1): 67-74.
+
+	3-(1,2,5,6-Tetrahydro-4-pyridyl)-5-pyrrolo[3,2-b]pyridone, CP-93,129, is a selective agonist ligand for 5-HT1B receptors. High affinity binding sites of [H-3]CP-93,129 were found in rat whole brain membranes, which showed K(D) and B(max) values similar to those for 5-HT1B sites labeled by [H-3]5-HT. Uptake of [H-3]CP-93,129 in crude rat synaptosomes was also observed, which was potently inhibited by 5-HT uptake blockers and 5-HT but not by desipramine (NE uptake blocker) or tametraline (NE and DA uptake blocker). Because of this sensitivity to 5-HT uptake inhibitors and the structural similarity of CP-93,129 to serotonin, [H-3]CP-93,129 uptake probably occurred in 5-HT neurons.
+

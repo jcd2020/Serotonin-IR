@@ -1,0 +1,4 @@
+Nutt, D. (1997). "Mirtazapine: Pharmacology in relation to adverse effects." Acta Psychiatrica Scandinavica 96: 31-37.
+
+	Mirtazapine is a new antidepressant that falls into the general class of receptor-blocking drugs rather than being an uptake or enzyme inhibitor. It can be described as a noradrenergic and specific serotonergic antidepressant (NaSSA). The unique pharmacology of mirtazapine means that it has a very different side effect profile from the tricyclic antidepressants, producing less a, adrenergic and muscarinic blockade, and the selective serotonin reuptake inhibitors (SSRIs) and the serotonin-noradrenaline reuptake inhibitors (SNRIs), causing much less nausea and sexual dysfunction by virtue of its blockade of 5-HT2 and 5-HT3 receptors.
+

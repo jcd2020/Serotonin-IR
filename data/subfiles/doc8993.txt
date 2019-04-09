@@ -1,0 +1,4 @@
+Moskowitz, M. A. and C. Waeber (1996). "Migraine enters the molecular era." Neuroscientist 2(3): 191-200.
+
+	Migraine headache is the first neurological condition treatable by a drug targeted to a specific receptor binding site. Originally viewed as a disorder of brain blood vessels, migraine may have as its biological basis a disturbance in brain function. Regarding therapy, recent molecular data document that 5-HT1D receptors on primary afferent fibers are coupled to inhibition of neuropeptide release, blockade of neurogenic inflammation, and c-fos expression within the trigeminal nucleus caudalis after noxious meningeal stimulation in experimental animals. The 5-HT1D alpha receptor subtype (as opposed to the 5-HT1D beta receptor) has emerged as an important therapeutic target aimed at blocking trigeminal nerve fibers without constricting vascular smooth muscle.
+

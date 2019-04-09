@@ -1,0 +1,4 @@
+Ikemoto, K., et al. (2000). "Human midbrain dopamine neurons express serotonin 2A receptor: an immunohistochemical demonstration." Brain Res 853(2): 377-380.
+
+	We demonstrated intense serotonin (5-HT) 2A receptor immunoreactivity in the human ventral tegmental area (VTA) using by a recently raised antibody against 5-HT2A receptor. The substantia nigra (SN) neurons also showed 5-HT2A receptor immunoreactivity. Double immunohistochemistry of 5-HT2A receptor and tyrosine hydroxylase (TH) revealed many neurons doubly labeled by 5-HT2A receptor and TH in the VTA and SN. It is suggested that activity of human midbrain dopaminergic neurons might be strongly regulated via 5-HT2A receptors at the level of their originating nuclei.
+

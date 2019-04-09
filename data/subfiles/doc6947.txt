@@ -1,0 +1,4 @@
+Kuroki, T., et al. (2003). "5-HT 2A receptor stimulation by DOI, a 5-HT 2A/2C receptor agonist, potentiates amphetamine-induced dopamine release in rat medial prefrontal cortex and nucleus accumbens." Brain Res 972(1-2): 216-221.
+
+	(+/-)-([1-(2,5-Dimethoxy-4-iodophenyl)-aminopropane]-hydrochloride) (DOI) (2.5 mg/kg), a 5-HT(2A/2C) agonist, significantly potentiated D-amphetamine (AMPH) (1 mg/kg)-induced dopamine (DA) release in rat medial prefrontal cortex (mPFC) and nucleus accumbens (NAC). This effect of DOI was completely prevented by M100907 (1 mg/kg), a selective 5-HT(2A) antagonist, which by itself had no effect on basal and AMPH-induced DA release in either region. Thus, 5-HT(2A) receptor agonism potentiates AMPH-induced DA release in the mPFC and NAC.
+

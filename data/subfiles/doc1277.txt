@@ -1,0 +1,4 @@
+BolanosJimenez, F., et al. (1997). "Preferential expression of 5-HT1D over 5-HT1B receptors during early embryogenesis." Neuroreport 8(17): 3655-3660.
+
+	THE cloning and pharmacological characterization of mouse 5-HT1D receptors as well as the comparative analysis of its embryonic expression vs that of 5-HT1B receptors are reported. High densities of both S-HT1D receptors mRNA and specific 5-HT1D binding sites were detected at 8, 9.5, 10.5 and 13.5 days of prenatal development. In contrast, no specific 5-HT1B binding sites could be detected until 13.5 days of development, when they were present at lower levels than 5-HT1D receptors. This differs markedly from the situation in the adult brain, in which 5-HT1B receptors are present at a much higher density than the 5-HT1D subtype. These data suggest the involvement of 5-HT1D receptors in the mitogenic and proliferative effects of serotonin during early embryonic development.
+

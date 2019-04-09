@@ -1,0 +1,4 @@
+Suzuki, M., et al. (1995). "EFFECTS OF SEROTONIN(1A) AGONISTS ON ANOXIA-INDUCED IMPAIRMENT OF PROTEIN-SYNTHESIS IN RAT-BRAIN SLICES." Jpn J Pharmacol 67(4): 403-405.
+
+	Earlier in vivo experiments suggest that serotonin(1A) (5-HT1A) agonists are new tools for the treatment of experimental cerebral ischemia. The present study examined this idea in an in vitro system. Incubation of rat brain slices under anoxic conditions for 30 min decreased protein synthesis that was assayed in a normoxic medium by measuring the incorporation of [C-14]lysine into trichloroacetic acid-insoluble tissue extracts. The 5-HT1A agonists 8-hydroxy-2-(di-n-propylamino) tetralin (10-100 mu M) and buspirone (50 mu M) attenuated the anoxia-induced decrease in protein synthesis in the slices. Although the degree of the effect is small, it may be relevant to the neuroprotective effect in the in vivo experiments.
+

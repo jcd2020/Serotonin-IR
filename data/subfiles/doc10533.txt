@@ -1,0 +1,4 @@
+Racz, I., et al. (2008). "Anandamide effects on 5-HT(3) receptors in vivo." Eur J Pharmacol 596(1-3): 98-101.
+
+	Studies in knockout mouse strains have shown that some cannabimimetic effects persist in animals lacking cannabinoid CB(1) and CB(2) receptors. These residual effects are thought to result, in part, from a cannabinoid-modulation of ion channels. This study investigates the role of 5-HT(3) receptors as a potential in vivo target for cannabinoids. Mice deficient in CB(1) and CB(2) receptors were treated with Delta(9)-tetrahydrocannabinol and anandamide, in the presence of the 5-HT(3) antagonist ondansetron. We show that the cannabinoid receptor-independent anandamide analgesia, but not catalepsy, is completely blocked by ondansetron. Thus, 5-HT(3) receptors seem to be involved in cannabinoid analgesia.
+

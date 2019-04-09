@@ -1,0 +1,4 @@
+Macor, J. E., et al. (2001). "The 5-HT3 antagonist tropisetron (ICS 205-930) is a potent and selective alpha7 nicotinic receptor partial agonist." Bioorg Med Chem Lett 11(3): 319-321.
+
+	The 5-HT3 receptor antagonist tropisetron (ICS 205-930) was found to be a potent and selective partial agonist at alpha7 nicotinic receptors. Two other 5-HT3 receptor antagonists, ondansetron and LY-278,584, were found to lack high affinity at the alpha7 nicotinic receptor. Quinuclidine analogues (1 and 2) of tropisetron were also found to be potent and selective partial agonists at alpha7 nicotinic receptors.
+

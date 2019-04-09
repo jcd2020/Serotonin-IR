@@ -1,0 +1,4 @@
+Devivo, M. and S. Maayani (1985). "Inhibition of forskolin-stimulated adenylate cyclase activity by 5-HT receptor agonists." Eur J Pharmacol 119(3): 231-234.
+
+	We measured the inhibition of forskolin-stimulated adenylate cyclase activity in guinea pig hippocampal membranes by 5-HT, 5-carboxamidotryptamine (CAT) and 8-hydroxy-2-(di-n-propylamino) tetralin (PAT). Low concentrations of these agonists inhibited forskolin-stimulated adenylate cyclase activity in a concentration-dependent and saturable manner. The antagonist spiperone shifted the concentration-response curve to CAT to the right in a parallel manner. The EC50 values of CAT, PAT and 5-HT and the KB of spiperone suggest that this receptor may correspond to the 5-HT1A binding site.
+

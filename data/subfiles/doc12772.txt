@@ -1,0 +1,4 @@
+Tsai, Y. C., et al. (2000). "N-1-(benzenesulfonyl)tryptamines as novel 5-HT6 antagonists." Bioorg Med Chem Lett 10(20): 2295-2299.
+
+	N-1-Benzenesulfonyl-5-methoxy-N,N-dimethyltryptamine (BS/5-OMe DMT; 5) was shown to bind at human 5-HT6 serotonin receptors with high affinity (K-i = 2.3 nM) relative to serotonin (K-i = 78 nM). Structural variation failed to result in significantly enhanced affinity. BS/5-OMe DMT acts as an antagonist of 5-HT-stimulated adenylate cyclase (pA(2) = 8.88 nM) and may represent the first member of a novel class of 5-HT6 antagonists. (C) 2000 Elsevier Science Ltd. All rights reserved.
+

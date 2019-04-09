@@ -1,0 +1,4 @@
+Kjorsvik, A., et al. (2001). "Activation of spinal serotonin(2A/2C) receptors augments nociceptive responses in the rat." Brain Res 910(1-2): 179-181.
+
+	The role of spinal 5-HT(2A/2C) receptors in the regulation of spinal nociceptive transmission was studied. The 5-HT(2A/2C) agonist (+/-)-1-(2,5-dimethoxy-4-iodophenyl)-2-aminopropane (DOI) and the antagonist ketanserin tartrate were administered intrathecally immediately before the formalin test. Activation of spinal 5-HT(2A/2C) receptors increased the pain-like behavioural response in both the early and late phases. The findings support the hypothesis that spinal 5-HT(2A/2C) receptors augment the spinal afferent nociceptive impulses induced by peripheral inflammation.
+

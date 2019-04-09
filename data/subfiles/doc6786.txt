@@ -1,0 +1,4 @@
+Koulu, M., et al. (1990). "5-HT3 receptor antagonist ondansetron does not alter effects of amphetamine on DA metabolism." Neuroreport 1(2): 126-128.
+
+	The present study was carried out to elucidate the effect of ondansetron, a selective 5-HT3 receptor antagonist, on amphetamine-induced changes in monoamine metabolism in major ascending dopamine (DA) neurons. Amphetamine (2 mg kg-1 s.c.) significantly decreased the concentrations of 3,4-dihydroxyphenylacetic acid (DOPAC) and homovanillic acid (HVA) in nucleus caudatus and nucleus accumbens. Pretreatment with ondansetron (0.1 mg kg-1 and 1 mg kg-1 s.c., 15 min before amphetamine) failed to modify the effects of amphetamine. It is concluded that acute blockade of central 5-HT3 receptors by ondansetron does not prevent amphetamine-induced changes in monoamine metabolism in nigrostriatal or mesolimbic dopaminergic areas.
+

@@ -1,0 +1,4 @@
+Shimizu, N., et al. (2000). "The 5-HT1A receptor agonist, 8-OH-DPAT, attenuates stress-induced anorexia in conjunction with the suppression of hypothalamic serotonin release in rats." Brain Res 887(1): 178-182.
+
+	The effect of the selective 5-HT1A receptor agonist 8-hydroxy-2-(di-n-propylamino) tetralin (8-OH-DPAT) on stress-induced anorexia and serotonin (5-HT) release in the rat hypothalamus was studied with brain microdialysis. Subcutaneous injection of 8-OH-DPAT (1 mg/kg) significantly attenuated the immobilization-induced anorexia for 3 h, but had no effect during the following 9 h. Injection of 8-OH-DPAT itself had no effect on basal release of 5-HT, while it significantly blocked the immobilization-induced 5-HT release in the lateral hypothalamus. The results suggest that 8-OH-DPAT attenuated the stress-induced anorexia through the activation of 5-HT1A autoreceptors in dorsal raphe nucleus. (C) 2000 Elsevier Science B.V. All rights reserved.
+

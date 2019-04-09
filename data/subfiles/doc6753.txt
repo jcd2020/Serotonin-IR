@@ -1,0 +1,4 @@
+Korte, S. M., et al. (1991). "Involvement of hypothalamic serotonin in activation of the sympathoadrenomedullary system and hypothalamo-pituitary-adrenocortical axis in male Wistar rats." Eur J Pharmacol 197(2-3): 225-228.
+
+	Infusion of the 5-HT1A receptor agonist, 8-hydroxy-2-(di-n-propylamino)tetralin (8-OH-DPAT) (2.5-20 micrograms in 1 microliter during 15 min), into the paraventricular nucleus of the hypothalamus (PVN) in the rat dose dependently increased plasma adrenaline and corticosterone concentrations, without affecting plasma noradrenaline concentrations. The highest dose also increased plasma glucose levels significantly. The results suggest that both the sympathoadrenomedullary system and the hypothalamo-pituitary-adrenocortical axis are activated after stimulation of 5-HT1A receptors in the PVN.
+

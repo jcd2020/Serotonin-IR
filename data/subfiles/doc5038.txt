@@ -1,0 +1,4 @@
+Hasebe, S., et al. (2015). "Role of the 5-HT1A autoreceptor in the enhancement of fluvoxamine-induced increases in prefrontal dopamine release by adrenalectomy/castration in mice." J Pharmacol Sci 127(2): 232-235.
+
+	We have found that fluvoxamine-induced increases in prefrontal dopamine release are enhanced by adrenalectomy/castration and 5-HT1A receptors are involved in the enhancement. This study examined which 5-HT1A autoreceptors or postsynaptic receptor play a key role in the enhancement in mice. Adrenalectomy/castration-induced enhancement of fluvoxamine-induced increase in the dopamine release was not blocked by local perfusion with the 5-HT1A receptor antagonist WAY100635 (10 muM), while it was blocked by systemic administration of WAY100635 at low dose (0.1 mg/kg) which blocked preferentially autoreceptor-mediated responses. These finding suggests that 5-HT1A autoreceptors play a key role in the enhancement of prefrontal dopamine release.
+

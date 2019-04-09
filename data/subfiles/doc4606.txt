@@ -1,0 +1,4 @@
+Grignaschi, G., et al. (1996). "Stimulation of 5-HT2A receptors in the paraventricular hypothalamus attenuates neuropeptide Y-induced hyperphagia through activation of corticotropin releasing factor." Brain Res 708(1-2): 173-176.
+
+	The effect of 5-HT1 and 5-HT2 receptor agonists administered into the paraventricular hypothalamus was studied on the hyperphagia caused by neuropeptide Y (NPY) injected into the same area. The 5-HT2A/2C receptor agonist DOI (10-20 nmol/0.5 microliter) significantly reduced NPY overeating while the 5-HT1A/1B receptor agonist RU 24969 (3.5-14 nmol/0.5 microliter) and the 5-HT1B/2C receptor agonist mCPP (5-20 nmol/0.5 microliter) had no such effect. The 5-HT2A receptor antagonist spiperone (5 microgram/0.5 microliter) and the corticotropin releasing factor antagonist alpha-helical-CRF9-41 (0.5-1 micrograms/0.5 microliter) completely antagonized the effect of 10 nmol DOI.
+

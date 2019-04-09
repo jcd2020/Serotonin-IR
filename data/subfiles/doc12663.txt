@@ -1,0 +1,4 @@
+Tokarski, K., et al. (1996). "Prolonged treatment with antidepressants increases the 5-HT1A-mediated inhibition of hippocampal neurons without changing the 5-HT1A receptor binding." Acta Physiol Hung 84(3): 343-344.
+
+	The effect of repeated treatment with antidepressant drugs imipramine, (+)oxaprotiline and paroxetine on neuronal responsiveness to 5-HT and the 5-HT1A receptor agonist 8-OH-DPAT was examined in the hippocampal slice preparation from the rat. 5-HT and 8-OH-DPAT decreased the amplitude of population spikes evoked in the CA1 cell layer by electrical stimulation of the stratum radiatum. The antidepressant drugs, administered for 2 weeks, produced a significant increase in the inhibitory effect of 5-HT and 8-OH-DPAT. Repeated treatment with imipramine did not change the density of 5-HT1A receptors in the hippocampus suggesting that the increase in 5-HT1A responsivity may not involve an increase in the receptor density.
+

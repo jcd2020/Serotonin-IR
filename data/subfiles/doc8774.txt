@@ -1,0 +1,4 @@
+Mokrosz, J. L., et al. (1994). "Structure-activity relationship studies of central nervous system agents. 13. 4-[3-(Benzotriazol-1-yl)propyl]-1-(2-methoxyphenyl)piperazine, a new putative 5-HT1A receptor antagonist, and its analogs." J Med Chem 37(17): 2754-2760.
+
+	A new set of 4-alkyl-1-(o-methoxyphenyl)piperazines containing a terminal benzotriazole fragment were synthesized, and their 5-HT1A and 5-HT2 affinity was determined. It was shown that the benzotriazole moiety contributes to both the 5-HT1A and 5-HT2 receptor affinity. It was demonstrated in several behavioral models that 4-[3-(benzotriazol-1- yl)propyl]-1-(2-methoxyphenyl)piperazine (11) is a new, potent presynaptic and postsynaptic 5-HT1A receptor antagonist. However, it is not selective for 5-HT1A versus alpha 1 receptors.
+

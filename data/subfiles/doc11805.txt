@@ -1,0 +1,4 @@
+Silverstone, P. H., et al. (1992). "DOES ONDANSETRON ATTENUATE AMPHETAMINE-INDUCED BEHAVIOR IN HUMAN VOLUNTEERS." Psychopharmacology (Berl) 107(1): 140-141.
+
+	The effect of the 5-HT3 receptor antagonist, ondansetron, on the decrease in hunger produced by amphetamine was assessed in nine male volunteers using a double-blind cross-over design. Amphetamine (15 mg orally) produced a significant decrease in self-ratings of hunger 2.5 h after administration. This effect was significantly attenuated by pre-treatment with ondansetron (12 mg orally over 24 h). These findings in humans are consistent with data from animal studies suggesting that ondansetron can attenuate certain catecholamins-mediated behaviours produced by amphetamine. However, explanations founded on pharmacokinetic factors cannot be presently excluded.
+

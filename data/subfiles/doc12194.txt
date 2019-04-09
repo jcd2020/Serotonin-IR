@@ -1,0 +1,4 @@
+Stjernlof, P., et al. (1993). "(S)-8-CDI-N-PROPYLAMINO)-6,7,8,9-TETRAHYDRO-3H-BENZ E INDOLE-1-CARBALOEH YDE AND (R)-8-(DI-N-PROPYLAMINO)-6,7,8,9-TETRAHYDRO-3H-BENZ E INDOLE-1-CARBALDEH YDE - A NEW CLASS OF ORALLY-ACTIVE 5-HT1A-RECEPTOR AGONISTS." J Med Chem 36(15): 2059-2065.
+
+	The enantiomers of 6,7,8,9-tetrahydro-N,N-di-n-propyl-3H-benz[e]indol-8-amine (S-(-)-2b and R-(+)-2b) and their corresponding 1-formyl analogs (S-(-)-6 and R-(+)-6) were prepared and evaluated pharmacologically for serotonergic and dopaminergic activity. The introduction of a formyl group in the 1-position shifted the pharmacological profile of 2b from a mixed D2/5-HT1A agonists to a selective 5-HT1A agonist (6). The enantiomers of 6 were agonists with full intrinsic activity and had an affinity comparable to that of 8-hydroxy-2-(di-n-propylamino)tetrahydronaphthalene (8-OH-DPAT). In contrast to 8-OH-DPAT, the enantiomers of compound 6 were found to have good oral availability.
+

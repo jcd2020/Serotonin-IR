@@ -1,0 +1,4 @@
+Khateb, A., et al. (1993). "Pharmacological and immunohistochemical evidence for serotonergic modulation of cholinergic nucleus basalis neurons." Eur J Neurosci 5(5): 541-547.
+
+	Identified electrophysiologically by low threshold bursts and transient outward rectification, cholinergic nucleus basalis neurons were recorded and labelled intracellularly in guinea-pig basal forebrain slices. By means of a triple labelling immunofluorescent technique, serotonin-immunoreactive fibres were visualized in close proximity to the soma and dendrites of the biocytin-labelled, choline acetyl transferase (ChAT)-immunoreactive cells. By bath application, 5-hydroxytryptamine (5-HT) produced a direct hyperpolarization of the identified cells which was mimicked by 5-HT1A receptor agonists, suggesting that it may inhibit the tonic firing but also modulate the low threshold bursting of the cholinergic nucleus basalis neurons.
+

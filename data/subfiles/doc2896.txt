@@ -1,0 +1,4 @@
+de Vin, F., et al. (2011). "In-vitro acetylcholine release is not a straightforward model to study hippocampal 5-HT(4) receptors." Neuroreport 22(17): 892-896.
+
+	5-HT(4) receptor (5-HT(4)R) activation induces procognitive effects. This might be related to stimulation of hippocampal acetylcholine release, which has been shown for 5-HT(4)R agonists in in-vivo models. We investigated the influence of the 5-HT(4)R agonists, prucalopride and BIMU-8, on acetylcholine release in rat hippocampal brain slices. In contrast to the report by Siniscalchi et al., no facilitating effect of 5-HT(4)R agonists on electrically evoked acetylcholine could be shown. The in our hands absence of an effect by 5-HT(4)R agonists illustrates that an in-vitro evaluation of 5-HT(4)R agonists on hippocampal acetylcholine release is not a straightforward model to study the relationship between hippocampal 5-HT(4)Rs and hippocampal acetylcholine release.
+

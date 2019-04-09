@@ -1,0 +1,4 @@
+Currie, P. J. and D. V. Coscina (1995). "Effect of the CCKA antagonist devazepide on eating stimulated by raphe injection of 8-OH-DPAT." Neuroreport 7(1): 253-256.
+
+	Several recent studies have suggested that feeding suppression is mediated jointly by enhanced neurotransmission of cholecystokinin (CCK) and serotonergic (5-HT) systems. In the present study the CCKA receptor antagonist devazepide (50-200 micrograms kg-1, s.c.) was found reliably to potentiate the feeding response elicited by dorsal or median raphe injection of the 5-HT1A agonist 8-OH-DPAT (0.2-0.8 nmol). This effect was evident following co-administration of both feeding threshold and subthreshold doses of either compound, suggesting that the simultaneous suppression of CCK and 5-HT function may interact as joint effectors of overeating.
+

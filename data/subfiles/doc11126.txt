@@ -1,0 +1,4 @@
+Rutter, J. J., et al. (1994). "Increase in extracellular serotonin produced by uptake inhibitors is enhanced after chronic treatment with fluoxetine." Neurosci Lett 171(1-2): 183-186.
+
+	The effect of prolonged uptake inhibition with fluoxetine (10 mg/kg/day i.p. x 14 days) on extracellular serotonin (5-HT) in the rat diencephalon was monitored using in vivo microdialysis. The increase in extracellular 5-HT after repeated administration of fluoxetine was significantly greater than the increase produced by a single injection of this uptake blocker. This difference may have been due to a decrease in somatodendritic autoreceptor sensitivity, since the response to a low dose of the 5-HT1A agonist 8-OH-DPAT (25 micrograms/kg i.v.) was abolished in the chronic rats, while the response to a high dose (100 micrograms/kg i.v.) was attenuated as compared to animals injected once with fluoxetine.
+

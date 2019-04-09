@@ -1,0 +1,4 @@
+Sari, Y., et al. (1997). "Light and electron microscopic immunocytochemical visualization of 5-HT1B receptors in the rat brain." Brain Res 760(1-2): 281-286.
+
+	Specific antipeptide antibodies were used for the immunohistochemical visualization of 5-HT1B receptors in the rat brain. A dense, specific 5-HT1B receptor-like immunoreactivity was found in the globus pallidus, the dorsal subiculum and the substantia nigra. At the light microscope level, immunostaining was diffuse within the neuropil but absent from cell bodies. Observations at the electron microscope level in the substantia nigra showed immunoperoxidase staining in fine unmyelinated axons and nerve terminals.
+

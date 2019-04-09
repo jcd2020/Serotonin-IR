@@ -1,0 +1,4 @@
+Park, C. M., et al. (2010). "Synthesis and SAR of (piperazin-1-yl-phenyl)-arylsulfonamides: A novel series of atypical antipsychotic agents." Bioorg Med Chem Lett 20(17): 5221-5224.
+
+	(Piperazin-1-yl-phenyl)-arylsulfonamides were synthesized and identified to show high affinities for both 5-HT(2C) and 5-HT(6) receptors. Among them, naphthalene-2-sulfonic acid isopropyl-[3-(4-methyl-piperazin- 1-yl)-phenyl]-amide (6b) exhibits the highest affinity towards both 5-HT(2C) (IC(50) = 4 nM) and 5-HT(6) receptors (IC(50) = 3 nM) with good selectivity over other serotonin (5-HT(1A), 5-HT(2A), and 5-HT(7)) and dopamine (D(2)-D(4)) receptor subtypes. In 5-HT(2C) and 5-HT(6) receptor functional assays, this compound showed considerable antagonistic activity for both receptors. (C) 2010 Elsevier Ltd. All rights reserved.
+

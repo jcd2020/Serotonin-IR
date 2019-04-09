@@ -1,0 +1,4 @@
+Fancelli, D., et al. (1996). "Serotoninergic 5-HT3 and 5-HT4 receptor activities of dihydrobenzofuran carboxylic acid derivatives." Bioorg Med Chem Lett 6(3): 263-266.
+
+	Structure-activity relationships in a series of dihydrobenzofuran derivatives related structurally to the 5-HT3 antagonist and 5-ET(4) agonist ADR 932 (1) were investigated. Members of this series, such as (18) and (23), were found to be 5-HT4 agonists or partial agonists endowed with remarkably high affinity and selectivity.
+

@@ -1,0 +1,4 @@
+Clarke, W. P. and S. Maayani (1990). "Estrogen effects on 5-HT1A receptors in hippocampal membranes from ovariectomized rats: functional and binding studies." Brain Res 518(1-2): 287-291.
+
+	Chronic treatment (4 days) of ovariectomized rats with estrogen produced a two-fold shift to the left (with no change in the maximal percent inhibition) in the concentration response curve for the inhibition of adenylyl cyclase activity by 5-HT, but did not alter curves for R-PIA (adenosine A1 agonist) or Gpp(NH)p (to activate Gi). Furthermore, estrogen treatment had no effect on the number or affinity of 5-HT1A binding sites labeled with [3H]8-OH-DPAT. These data, when considered with the results of previous studies, suggest that estrogen treatment may selectively enhance 5-HT1A-mediated responses in rat hippocampus.
+

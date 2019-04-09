@@ -1,0 +1,4 @@
+Weber, J. T., et al. (1997). "Activity of Parthenolide at 5HT2A receptors." J Nat Prod 60(6): 651-653.
+
+	Parthenolide displaces [3H]ketanserin from 5HT2A receptors from rat and rabbit brain and cloned 5HT2A receptors. Ki's are in the 100-250 microM range. These results suggest that parthenolide may be a low-affinity antagonist at 5HT receptors; it is unlikely that the entire mechanism of action can be explained by its modest 5HT2A receptor affinity.
+

@@ -1,0 +1,4 @@
+Osborne, N. N. and H. Ghazi (1991). "5-HT1A RECEPTORS POSITIVELY COUPLED TO CAMP FORMATION IN THE RABBIT RETINA." Neurochem Int 19(4): 407-411.
+
+	Serotonin, 8-OH-DPAT, buspirone, ipsapirone, RU-24969, dopamine and isoproterenol all stimulate C-AMP production in rabbit retinal homogenates. The dopamine and isoproterenol responses are specifically antagonized by haloperidol and propranolol, respectively. In contrast the effects produced by the other substances are specifically nullified by spiroxatrine, a known 5-HT1a antagonist. Since 5-HT2 antagonists (methysergide, kentanserin), 5-HT1b antagonist (propranolol), 5-HT4 antagonist (ICS-205930), 5-HT3 antagonist (MDL-72222, ICS-205930) or the primarily alpha-2-antagonist mianserin, had no influence on the stimulation of C-AMP caused by serotonin or 8-OH-DPAT, it is concluded that 5-HT1a receptors, positively coupled to C-AMP production exist in the retina.
+

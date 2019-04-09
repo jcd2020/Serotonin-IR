@@ -1,0 +1,4 @@
+Zhang, H., et al. (2011). "Identification of N-propylnoraporphin-11-yl 5-(1,2-dithiolan-3-yl)pentanoate as a new anti-Parkinson's agent possessing a dopamine D2 and serotonin 5-HT1A dual-agonist profile." J Med Chem 54(13): 4324-4338.
+
+	A series of new aporphine analogues (aporlogues) were synthesized bearing a C-, N-, or O-linkage at the C11 position. Lipoic ester (-)-15 was identified as a full agonist at the dopamine D(2) and serotonin 5-HT(1A) receptors with K(i) values of 174 and 66 nM, respectively. It elicited antiparkinsonian action on Parkinsin's disease (PD) rats with minor dyskinesia. Chronic use of (-)-15 reduced L-DOPA-induced dyskinesia (LID) without attenuating the antiparkinsonian effect. These results suggest that 5-HT(1A) and D(2) dual-receptor agonist (-)-15 may present a novel candidate drug in the treatment of PD and LID.
+

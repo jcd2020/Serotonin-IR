@@ -1,0 +1,4 @@
+Tanaka, E. and R. A. North (1993). "COCAINE ENHANCEMENT OF THE ACTION OF 5-HYDROXYTRYPTAMINE IN RAT CINGULATE CORTEX IN-VITRO." Neurosci Lett 163(1): 50-52.
+
+	Intracellular recordings were made in vitro from pyramidal neurons in layer V of the anterior cingulate cortex of the rat. 5-Hydroxytryptamine (5-HT) reduced the amplitude of the excitatory postsynaptic potential; receptor-selective agonists and antagonists indicated that this resulted from activation of the 5-HT1B receptor. The action of 5-HT was enhanced by cocaine (300 nM-3 mu M); 1 mu M cocaine increased sensitivity to 5-HT about 10-fold. The results suggest that cocaine is similarly effective to potentiate the action of 5-HT in the prefrontal cortex as in other brain regions. This may contribute to its overall in vivo effects.
+

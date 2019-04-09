@@ -1,0 +1,4 @@
+Comoy, C., et al. (1996). "Synthesis and biological activity of a pyridinic isostere of MDL 72832 and its enantiomers as serotoninergic 5-HT1A ligands." Medicinal Chemistry Research 6(6): 392-399.
+
+	Racemic and chiral synthesis of 8-[N-(2,3-dihydro-1,4-dioxino[2,3-b]pyridine-3-ylmethyl)-4-aminobutyl]-8-azaspiro[4.5]decane-7,9-dione are described and their biological activity as potential 5-HT1A ligand are reported.
+

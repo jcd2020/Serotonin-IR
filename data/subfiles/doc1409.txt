@@ -1,0 +1,4 @@
+Bos, M., et al. (2001). "5-HT6 receptor antagonists: lead optimisation and biological evaluation of N-aryl and N-heteroaryl 4-amino-benzene sulfonamides." Eur J Med Chem 36(2): 165-178.
+
+	RO-04-6790 (6a) has been identified in a random screen for 5-HT6 receptor antagonists. In a medicinal chemistry optimisation program a series of analogs comprising N-heteroaryl- and N-arylbenzenesulfonamides have been synthesised and investigated for their binding affinity. Compounds with a log D profile indicative of brain penetration have been subjected to in vivo testing for reversal of a scopolamine-induced retention deficit in a passive avoidance paradigm. (C) 2001 Editions scientifiques et medicales Elsevier SAS.
+

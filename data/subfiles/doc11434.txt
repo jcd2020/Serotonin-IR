@@ -1,0 +1,4 @@
+Schmidt, A. W., et al. (2001). "Ziprasidone: a novel antipsychotic agent with a unique human receptor binding profile." Eur J Pharmacol 425(3): 197-201.
+
+	Ziprasidone is a novel antipsychotic agent with a unique combination of pharmacological activities at human receptors. Ziprasidone has high affinity for human 5-HT receptors and for human dopamine D-2 receptors. Ziprasidone is a 5-HT1A receptor agonist and an antagonist at 5-HT2A, 5-HT2C and 5-HT1B/1D receptors. Additionally, ziprasidone inhibits neuronal uptake of 5-HT and norepinephrine comparable to the antidepressant imipramine. This unique pharmacological profile of ziprasidone may be related to its clinical effectiveness as a treatment for the positive, negative and affective symptoms of schizophrenia with a low propensity for extrapyramidal side effects, cognitive deficits and weight gain. (C) 2001 Published by Elsevier Science B.V.
+

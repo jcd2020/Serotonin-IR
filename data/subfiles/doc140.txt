@@ -1,0 +1,4 @@
+Akbari, H. M., et al. (1994). "Prenatal cocaine decreases the trophic factor S-100 beta and induced microcephaly: reversal by postnatal 5-HT1A receptor agonist." Neurosci Lett 170(1): 141-144.
+
+	In utero exposure to cocaine results in neurobehavioral abnormalities in both clinical and laboratory studies. Cocaine administration from embryonic day 13 to parturition disrupts the distribution of S-100-positive astrocytes in the hippocampus and subplate region of the cortex in cocaine-exposed animals. Postnatal treatment with ipsapirone, a 5-HT1A agonist, shown to stimulate glial release of S-100, alleviated the cellular disruptions and growth retardation caused by prenatal cocaine exposure.
+

@@ -1,0 +1,4 @@
+Hayrapetyan, V., et al. (2005). "Co-expression of the 5-HT(3B) subunit with the 5-HT(3A) receptor reduces alcohol sensitivity." Brain Res Mol Brain Res 142(2): 146-150.
+
+	Allosteric modulation of mouse 5-Hydroxytryptamine(3A) (5-HT(3A)) and 5-HT(3A/B) receptor function by ethanol and trichloroethanol (TCEt) was assessed in HEK293 cells with whole cell patch-clamp electrophysiological recordings. Ethanol enhanced 5-HT(3A) receptor function, but had no effect on mouse 5-HT(3A/B) receptor mediated currents. The enhancing action of trichloroethanol (TCEt) on mouse 5-HT(3A/B) receptor function was much less than that observed in the mouse 5-HT(3A) receptor. Where alcohol-induced increases in peak amplitude were observed, the slope of the 20-80% rising phase of current onset was also enhanced, suggesting that increases in activation rate may be one mechanism through which alcohols enhance function of the 5-HT(3) receptors.
+

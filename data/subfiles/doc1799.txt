@@ -1,0 +1,4 @@
+Cannon, J. G., et al. (1991). "Enantiomers of 11-hydroxy-10-methylaporphine having opposing pharmacological effects at 5-HT1A receptors." Chirality 3(1): 19-23.
+
+	The two enantiomers of the title compound have been prepared by different synthetic routes. Both bind strongly to 5-HT1A receptors from rat forebrain membrane tissue. However, in a guinea pig ileum preparation, the (R)-enantiomer exhibits properties consistent with its being an agonist, whereas the (S)-enantiomer shows no agonist effect, but it blocks the actions of the (R)-enantiomer and of 8-hydroxy-2-di-n-propylaminotetralin (8-OH-DPAT), a 5-HT1A agonist. These data are presented as a rare example of enantiomers which demonstrate opposite pharmacological effects at the same receptor.
+

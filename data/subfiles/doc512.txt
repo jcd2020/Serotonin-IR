@@ -1,0 +1,4 @@
+Atkinson, P. J., et al. (2005). "3,4-dihydro-2H-benzoxazinones are 5-HT1A receptor antagonists with potent 5-HT reuptake inhibitory activity." Bioorg Med Chem Lett 15(3): 737-741.
+
+	Starting from a high throughput screening hit, a series of 3,4-dihydro-2H-benzoxazinones has been identified with both high affinity for the 5-HT1A receptor and potent 5-HT reuptake inhibitory activity. The 5-(2-methyl)quinolinyloxy derivative combined high 5-HT1A/1B/1D receptor affinities with low intrinsic activity and potent inhibition of the 5-HT reuptake site (pK(i) 8.2). This compound also had good oral bioavailability and brain penetration in the rat. (C) 2004 Elsevier Ltd. All rights reserved.
+

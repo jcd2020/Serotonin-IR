@@ -1,0 +1,4 @@
+Boylan, C. B., et al. (2000). "The cortical vibrissae representation is normal in transgenic mice lacking the 5-HT(1B) receptor." Brain Res Dev Brain Res 120(1): 91-93.
+
+	Recent studies have suggested that 5-HT may modulate thalamocortical development in somatosensory cortex (S-I) of rats and mice, and that the 5-HT(1B) receptor may play a critical role in this process. Analysis of CO-stained sections through lamina IV of S-I in perinatal and adult 5-HT(1B) knockout mice revealed a normal vibrissae-related pattern, indicating that activation of the 5-HT(1B) receptor is not necessary for the normal development of the vibrissae representation in S-I.
+

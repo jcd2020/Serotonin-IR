@@ -1,0 +1,4 @@
+Javadekar-Subhedar, V. and A. Chattopadhyay (2004). "Temperature-dependent interaction of the bovine hippocampal serotonin(1A) receptor with G-proteins." Mol Membr Biol 21(2): 119-123.
+
+	The ligand binding and G-protein coupling of the bovine hippocampal 5-HT1A receptor as a function of temperature was monitored. There is an almost complete and irreversible loss in agonist binding at 50 degrees C. However, the antagonist binding is reduced only by 50%, and this could be reversed if the temperature is lowered to 25 degrees C. Interestingly, the agonist binding of the 5-HT1A receptor in membranes exposed to 50 degrees C is inhibited to a much lesser extent by GTP-gamma-S, a non-hydrolysable analogue of GTP, indicating uncoupling of the 5-HT1A receptor to G-proteins at 50 degrees C. We propose that high temperature selectively and irreversibly inactivates G-proteins thereby affecting G-protein-receptor interaction and agonist binding of the 5-HT1A receptor.
+

@@ -1,0 +1,4 @@
+Brenchat, A., et al. (2011). "Potentiation of morphine analgesia by adjuvant activation of 5-HT7 receptors." J Pharmacol Sci 116(4): 388-391.
+
+	Spinal blockade of 5-HT7 receptors has been reported to inhibit the antinociceptive effect of opioids. In this study, we found that subcutaneous administration of the selective 5-HT7 receptor agonist E-55888 (10 mg/kg) or the antagonist SB-258719 (5 mg/kg) exerted no effect on the tail-flick test in mice. However, E-55888, but not SB-258719, increased (2.6-fold) the analgesic potency of oral morphine. The potentiating effect exerted by E-55888 was prevented by SB-258719. A pharmacokinetic interaction was discarded as morphine plasma and brain concentrations were not significantly modified when co-administered with E-55888. These results reinforce the involvement of 5-HT7 receptors in opioid analgesia and point to a potential use of 5-HT7 receptor agonists as adjuvants of opioid analgesia.
+

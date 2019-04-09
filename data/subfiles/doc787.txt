@@ -1,0 +1,4 @@
+Bartoszyk, G. D., et al. (2003). "EMD 281014, a new selective serotonin 5-HT2A receptor antagonist." Eur J Pharmacol 473(2-3): 229-230.
+
+	The 5-HT2A receptor ligand 7-[4-[2-(4-fluoro-phenyl)-ethyl]-piperazine-1-carbonyl]-1H-indole-3-carbonitrile HCl (EMD 281014) selectively binds to human (h) and rat 5-HT2A receptors (IC50 values 0.35 and 1 nM, respectively; vs. 1334 nM for h5-HT2C) and inhibited 5-HT-stimulated [35S]guanosine 5'-O-3-thiotriphosphate (GTPgammaS)-accumulation in h5-HT2A transfected Chinese hamster ovary cells (IC50 9.3 nM). EMD 28014 counteracted the N-ethoxycarbonyl-2-ethoxy-1,2-dihydroquinoline (EEDQ)-induced decrease of [3H]ketanserin binding in rat frontal cortex (ID50 0.4 mg/kg p.o.) and R-(-)-1-(2,5-dimethoxy-4-iodophenyl)-aminopropane (DOI)-induced head-twitch behaviour in mice (ID50 0.01 mg/kg s.c., 0.06 mg/kg p.o.), demonstrating unique selectivity and efficacy.
+

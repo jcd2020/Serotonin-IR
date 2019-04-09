@@ -1,0 +1,4 @@
+Ormandy, G. C. (1993). "Increased cyclic AMP reduces 5-HT1D receptor-mediated inhibition of [3H]5-hydroxytryptamine release from guinea-pig cortical slices." Eur J Pharmacol 244(2): 189-192.
+
+	This study investigated the role of cyclic AMP in the inhibition of [3H]5-hydroxytryptamine ([3H]5-HT) release mediated through the 5-HT1D autoreceptor using slices of guinea-pig cerebral cortex. Forskolin, dibutyryl-cyclic AMP and rolipram, which increase intracellular cyclic AMP by different mechanisms, all attenuated the inhibitory effect of the autoreceptor agonist 5-carboxamidotryptamine. These results indicate that modulation of cyclic AMP production affects 5-HT1D autoreceptor function.
+

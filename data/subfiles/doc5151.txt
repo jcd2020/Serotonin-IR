@@ -1,0 +1,4 @@
+Heightman, T. D., et al. (2005). "8-Piperazinyl-2,3-dihydropyrrolo[3,2-g]isoquinolines: potent, selective, orally bioavailable 5-HT1 receptor ligands." Bioorg Med Chem Lett 15(19): 4370-4374.
+
+	The novel 8-piperazinyl-2,3-dihydropyrroloisoquinoline template was synthesized in nine steps. The template was N-substituted to give a series of compounds showing binding to human cloned 5-HT1A, 5-HT1B and 5-HT1D receptors with pKi's greater than 9 and selectivities up to 1000-fold against other serotonin, dopamine and adrenergic receptors. Several compounds were shown to possess weak partial agonist activity in cloned receptors, which translated to antagonism in in vitro studies.
+

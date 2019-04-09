@@ -1,0 +1,4 @@
+Ashby, C. R., Jr., et al. (1990). "Chronic BRL 43694, a selective 5-HT3 receptor antagonist, fails to alter the number of spontaneously active midbrain dopamine neurons." Eur J Pharmacol 175(3): 347-350.
+
+	In this study, we examined the effect of chronic administration of the selective 5-HT3 receptor antagonist BRL 43694 on the number of spontaneously active A9 (substantia nigra pars compacta) and A10 (ventral tegmental area) dopamine (DA) cells using the technique of extracellular single unit recording. Overall, chronic BRL 43694 (21 days, 5 mg/kg per day or 2.5 mg/kg q.i.d) failed to alter the number of spontaneously active DA cells in either area compared to saline-injected controls. Furthermore, the acute i.v. administration of BRL 43694 did not change A10 DA cell baseline firing rate. These data suggest that if BRL 43694 possesses antipsychotic activity, it is not the result of its action on midbrain DA neurons.
+

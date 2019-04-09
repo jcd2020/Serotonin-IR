@@ -1,0 +1,4 @@
+Claeysen, S., et al. (1998). 5-HT4 receptors: Cloning and expression of new splice variants. Advances in Serotonin Receptor Research: Molecular Biology, Signal Transduction, and Therapeutics. G. R. Martin, R. M. Eglen, D. Hoyer, M. W. Hamblin and F. Yocca. New York, New York Acad Sciences. 861: 49-56.
+
+	On the basis of differences in the potencies and intrinsic activity of 5-HT4 receptor agonists in different biological models it has been suggested that there is heterogeneity among 5-HT4 receptors. Here, we report the molecular cloning of several 5-HT4 receptor splice variants in mouse, rat, and human brain. Our data suggest that the differences in efficacy of 5-HT4 ligands on 5-HT4 receptor-mediated responses in several tis sues is due to differences in coupling efficiency rather than to the presence of different 5-HT4 receptor isoforms.
+

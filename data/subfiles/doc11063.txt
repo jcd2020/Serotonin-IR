@@ -1,0 +1,4 @@
+Rowan, M. J. and R. Anwyl (1986). "Neurophysiological effects of buspirone and isapirone in the hippocampus: comparison with 5-hydroxytryptamine." Eur J Pharmacol 132(1): 93-96.
+
+	The neurophysiological effects of two novel anxiolytic compounds, buspirone and isapirone (TVX Q 7821), were compared with those of 5-hydroxytryptamine (5-HT) on the population spike in the CA1 region of the rat hippocampal slice. Micromolar concentrations of the two drugs mimicked the inhibitory effect of 5-HT but unlike 5-HT they did not produce any significant excitation. In slices in which 5-HT was purely excitatory, there was a marked reduction in the inhibitory response to these agents. The effect of isapirone was antagonised by spiperone. These results suggest that buspirone and isapirone are agonists for 5-HT1A receptors in the hippocampus.
+

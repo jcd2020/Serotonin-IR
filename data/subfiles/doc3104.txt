@@ -1,0 +1,4 @@
+Diouf, O., et al. (1995). "SYNTHESIS AND EVALUATION OF NEW 2-PIPERAZINYLBENZOTHIAZOLES WITH HIGH 5-HT1A AND 5-HT3 AFFINITIES." Eur J Med Chem 30(9): 715-719.
+
+	Original 2-piperazinylbenzothiazole derivatives were synthesized and studied as mixed ligands for serotoninergic 5-HT1A and 5-HT3 receptors. The studied compounds exhibited significant affinities for these two serotoninergic receptor subtypes. The pharmacological profile of these ligands was agonist for 5-HT1A receptors and antagonist for 5-HT3 receptor subsites. Compounds with such a pharmacological profile are of clinical relevance in the treatment of psychotropic diseases (eg, anxiety, depression and schizophrenia). The present paper reports the chemistry and the in vitro pharmacological evaluation of these ligands.
+

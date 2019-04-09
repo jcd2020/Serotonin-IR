@@ -1,0 +1,4 @@
+Rudolph, D. A., et al. (2011). "Novel tetrahydropyrido 3,2-c pyrroles as 5-HT7 antagonists." Bioorg Med Chem Lett 21(1): 42-44.
+
+	The synthesis and SAR for a novel series of tetrahydropyrido[3,2-c]pyrroles is described. Optimization of the pendant aryl ring lead to high binding affinity at the 5-HT7 receptor when small lipophilic groups were placed in the para position. Modification of the N-benzyl group and secondary amine were not well tolerated. A representative set of compounds was shown to be functional antagonists of the 5-HT7 receptor. (C) 2010 Elsevier Ltd. All rights reserved.
+

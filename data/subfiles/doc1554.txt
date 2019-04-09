@@ -1,0 +1,4 @@
+Bromidge, S. M., et al. (2002). "Bicyclic piperazinylbenzenesulphonamides are potent and selective 5-HT6 receptor antagonists." Bioorg Med Chem Lett 12(10): 1357-1360.
+
+	The synthesis of novel 3-(octahydropyrido[1,2-a]pyrazin-2-yl)- and 3-(hexahydropyrrolo[1,2-a]pyrazin-2-yl)phenyl-2-benzo[b]thiophene sulphonamide derivatives 3, (S)-4 and (R)-4 is described. The compounds show high affinity for the 5-HT6 receptor, excellent selectivity against a range of other receptors and good brain penetration. (C) 2002 Elsevier Science Ltd. All rights reserved.
+

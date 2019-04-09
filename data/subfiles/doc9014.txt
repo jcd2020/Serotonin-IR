@@ -1,0 +1,4 @@
+Moyanova, S., et al. (2009). "NEURONAL ACTIVITY IN CORTICAL ISCHEMIC PENUMBRA IN CONSCIOUS RATS WITH STROKE AND THE EFFECT OF A 5-HT2A RECEPTOR ANTAGONIST." Comptes Rendus De L Academie Bulgare Des Sciences 62(11): 1417-1422.
+
+	Long-term changes in neuronal multiunit activity (MUA) in the forepaw region of the somatosensory cortex (S1FL) in conscious rats were studied after transient focal ischemia (Endothelin-1 model of occlusion of the middle cerebral artery, EMCAO). EMCAO produced profound and long-lasting suppression of MUA. The serotonin-2A receptor (5-HT2A) antagonist ketanserin when administered in the acute phase of ischemia recovered the EMCAO-induced suppression of MUA frequency later. These findings indicate that ketanserin is able to make cells in penumbra evolve towards recovery.
+

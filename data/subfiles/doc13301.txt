@@ -1,0 +1,4 @@
+Wander, T. J., et al. (1987). "Antagonism by neuroleptics of serotonin 5-HT1A and 5-HT2 receptors of normal human brain in vitro." Eur J Pharmacol 143(2): 279-282.
+
+	Using radioligand binding techniques and human frontal cortex, we determined the equilibrium dissociation constants (KDs) of 17 neuroleptics at the serotonin 5-HT1A and serotonin 5-HT2 receptors with [3H]WB4101 and [3H]ketanserin, respectively. At the serotonin 5-HT1A receptor, the most and least potent neuroleptics were chlorprothixene (KD = 230 nM) and fluphenazine (KD = 40 microM), respectively. At the serotonin 5-HT2 receptor, the most and least potent neuroleptics were spiperone (KD = 0.38 nM) and molindone, (KD = 5 microM), respectively.
+

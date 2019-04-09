@@ -1,0 +1,4 @@
+Engberg, G. (1992). "Citalopram and 8-OH-DPAT attenuate nicotine-induced excitation of central noradrenaline neurons." J Neural Transm Gen Sect 89(3): 149-154.
+
+	Previous electrophysiological studies have demonstrated that nicotine, intravenously administered, excites noradrenergic neurons in the locus coeruleus (LC) indirectly by releasing excitatory amino acids (EAA). In the present study the excitatory action of nicotine was inhibited by treatment with the selective 5-HT re-uptake inhibitor citalopram or the 5-HT1A receptor agonist 8-OH-DPAT. It is proposed that the antagonism between nicotine and citalopram or 8-OH-DPAT reflects an interaction between endogenous EAA, e.g. glutamate, and 5-HT. The results may, on a cellular basis, explain the attributed effectiveness of drugs that facilitate serotonergic neurotransmission in promoting smoking cessation.
+

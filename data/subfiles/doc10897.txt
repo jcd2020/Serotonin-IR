@@ -1,0 +1,4 @@
+Rocha, B. A., et al. (1998). "Increased vulnerability to cocaine in mice lacking the serotonin-1B receptor." Nature 393(6681): 175-178.
+
+	There is increasing evidence that genetic factors can influence individual differences in vulnerability to drugs of abuse. Serotonin (5-hydroxytryptamine, 5-HT), acting through many receptors can modulate the activity of neural reward pathways and thus the effects of various drugs of abuse. Here we examine the effects of cocaine in mice lacking one of the serotonin-receptor subtypes, the 5-HT1B receptor. We show that mice lacking 5-HT1B display increased locomotor responses to cocaine and that they are more motivated to self-administer cocaine. We propose that even drug-naive 5-HT1B-knockout mice are in a behavioural and biochemical state that resembles that of wild-type mice sensitized to cocaine by repeated exposure to the drug. This altered state might be responsible for their increased vulnerability to cocaine.
+

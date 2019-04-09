@@ -1,0 +1,4 @@
+Boksa, J., et al. (1996). "Structure-activity relationship studies of CNS agents. Part 24: New analogs of N-tert.-butyl-3-[4-(2-methoxyphenyl)-1-piperazinyl]-2-phenylpropanamide (WAY-100135)." Pharmazie 51(2): 72-76.
+
+	A series of new N-substituted derivatives of 3-[4-(2-methoxyphenyl)-1-piperazinyl]-2-phenylpropanamide, 6-10, were synthesized and their 5-HT1A, 5-HT2A, and alpha 1 receptor affinities were determined. All the compounds were highly potent 5-HT1A ligands with a moderate or low 5-HT2A and alpha 1 affinity. It was shown that the 5-HT2A affinity of 1 and 6-10 depended crucially on the volume of amide substituents. None of the investigated racemic mixtures 1 and 6-8 antagonized the 8-OH-DPAT-induced lower lip retraction in rats, whereas (+/-)-7 behaved like a weak agonist of 5-HT1A receptors in the model used.
+

@@ -1,0 +1,4 @@
+Akuzawa, S., et al. (1996). "Comparison of H-3 YM060 binding to native and cloned rat 5-HT3 receptors." Eur J Pharmacol 296(2): 227-230.
+
+	We characterized [H-3]YM060 ([methyl-H-3]-(-)-(R)-5-[(methyl-1H-indol-3-yl)carbonyl]-4,5,6,7-tetrahydro-1H-benzimidazole monohydrochloride) binding in membrane homogenates prepared from three different rat tissues (cerebral cortex, ileum and colon), and compared the binding characteristics between the native and cloned rat 5-HT3 receptors. The dissociation constant (K-d) of [H-3]YM060 was similar in all membranes. In competition studies, the affinity of 5-HT3 receptor agonists and antagonists was similar between the native and the cloned rat 5-HT3 receptors. In conclusion, intra-species difference of 5-HT3 receptor was not observed in rats and pharmacological properties of the cloned rat 5-HT3 receptor were nearly identical to that of the native rat 5-HT3 receptor.
+

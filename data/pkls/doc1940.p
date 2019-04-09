@@ -1,0 +1,67 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'antagonists'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'methods'
+p7
+g3
+((lp8
+tp9
+Rp10
+sS'topics'
+p11
+g3
+((lp12
+tp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+S'5ht3a'
+p17
+aS'5ht3'
+p18
+atp19
+Rp20
+sS'regions'
+p21
+g3
+((lp22
+tp23
+Rp24
+sS'year'
+p25
+V1996
+p26
+sS'agonists'
+p27
+g3
+((lp28
+S"(196, u'\\\\bquipazine')"
+p29
+atp30
+Rp31
+sS'species'
+p32
+g3
+((lp33
+S"(3812, u'(?i)(studs|stud)')"
+p34
+aS"(6682, u'(?i)(tera|teras)')"
+p35
+aS"(867, u'(?i)(tits|tit)')"
+p36
+aS"(5783, u'(?i)(hinds|hind)')"
+p37
+atp38
+Rp39
+sb.

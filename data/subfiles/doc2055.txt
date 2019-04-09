@@ -1,0 +1,4 @@
+Chaouloff, F., et al. (1992). "The 5-HT2 receptor agonist 1-(2,5-dimethoxy-4-iodophenyl)2-aminopropane increases brain tryptophan levels in the rat." Eur J Pharmacol 214(1): 101-103.
+
+	Earlier studies have indicated that the sympathoadrenal system and the corticotropic axis control brain levels of tryptophan (Trp), the precursor of 5-hydroxytryptamine (5-HT). We investigated the effects of 5-HT receptor agonists known to activate the sympathoadrenal system and/or the corticotropic axis on plasma and brain Trp levels. Neither the 5-HT1A receptor agonist 8-hydroxy-2-(di-n-propylamino)tetralin (8-OH-DPAT, 0.5 mg/kg s.c.), nor the 5-HT1C receptor agonist 1-(3-chlorophenyl)piperazine (mCPP, 2.5 mg/kg s.c.) affected plasma and brain Trp levels. The 5-HT2 receptor agonist 1-(2,5-dimethoxy-4-iodophenyl)2-aminopropane (DOI, 0.5-2 mg/kg s.c.) increased brain Trp levels, an effect which was significant for the two highest doses used (1.5-2 mg/kg s.c.).
+

@@ -1,0 +1,4 @@
+Rajagopal, S., et al. (1992). "SYNTHESIS OF A C-11 LABELED NOVEL, QUINUCLIDINE BASED LIGAND FOR THE 5-HT(3) RECEPTOR." Applied Radiation and Isotopes 43(11): 1369-1373.
+
+	L-683,877, a high affinity, 5-HT3 selective receptor ligand has been labeled with C-11 for use in PET studies to measure regional brain kinetics of L-683,877 and to determine if [C-11]L-683,877 can be used for serotonin 5-HT3 receptor imaging. [C-11]L-683,877 was prepared by reacting [C-11]methyl iodide with the desmethyl, borane-protected precursor, L-686,472, in DMF in the presence of tetrabutyl ammonium hydroxide. The average specific activity of [C-11]L-683,877 was 2700 Ci/mmol and the average radiochemical yield (decay uncorrected) was 20% at the end of synthesis (22 min from EOB).
+

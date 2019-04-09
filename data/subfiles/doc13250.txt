@@ -1,0 +1,4 @@
+Wadenberg, M. L. and V. Hillegaart (1995). "Stimulation of median, but not dorsal, raphe 5-HT1A autoreceptors by the local application of 8-OH-DPAT reverses raclopride-induced catalepsy in the rat." Neuropharmacology 34(5): 495-499.
+
+	The local application of 8-OH-DPAT (0.5 or 2.5 micrograms/rat, 10 min) into the median, but not the dorsal, raphe nucleus resulted in a reversal of the catalepsy induced by the DA D2 receptor blocking agent raclopride (16 mg kg-1 s.c., 60 min). The local application of 8-OH-DPAT into serotonergic projection areas of the forebrain (dorso-lateral neostriatum, accumbens core; 0.5 or 2.0 micrograms/side) did not affect raclopride-induced catalepsy. Thus, the 5-HT1A autoreceptor in the median raphe nucleus is an important site of action for the reversal of DA D2 receptor antagonist-induced catalepsy by systemic administration of 5-HT1A receptor agonists, in the rat.
+

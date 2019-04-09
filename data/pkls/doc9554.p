@@ -1,0 +1,69 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'antagonists'
+p2
+c__builtin__
+set
+p3
+((lp4
+S"(51, u'\\\\bmirtazapine')"
+p5
+atp6
+Rp7
+sS'methods'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'topics'
+p12
+g3
+((lp13
+S"(32, u'\\\\bnausea')"
+p14
+aS"(29, u'\\\\bsex')"
+p15
+atp16
+Rp17
+sS'receptors'
+p18
+g3
+((lp19
+S'5ht3'
+p20
+aS'5ht2a'
+p21
+atp22
+Rp23
+sS'regions'
+p24
+g3
+((lp25
+tp26
+Rp27
+sS'year'
+p28
+V1997
+p29
+sS'agonists'
+p30
+g3
+((lp31
+tp32
+Rp33
+sS'species'
+p34
+g3
+((lp35
+S"(6391, u'(?i)(asses|ass)')"
+p36
+aS"(5958, u'(?i)(rats|rat)')"
+p37
+aS"(6249, u'(?i)(ants|ant)')"
+p38
+atp39
+Rp40
+sb.

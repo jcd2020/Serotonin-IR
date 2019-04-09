@@ -1,0 +1,4 @@
+Vazquez, M. J., et al. (2003). "A novel ergot alkaloid as a 5-HT1A inhibitor produced by Dicyma sp." J Med Chem 46(24): 5117-5120.
+
+	In the course of a search for small-molecule inhibitors of 5-hydroxytryptamine receptors we have identified a novel ergoline derivative (1) from the fungal culture of Dicyma sp. This compound has a pK(i) of 10.2 versus the 5-hydroxytryptamine(1A) receptor subtype. The structure was elucidated by extensive NMR spectroscopy and mass spectrometry.
+

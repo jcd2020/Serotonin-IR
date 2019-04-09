@@ -1,0 +1,4 @@
+Ichikawa, J., et al. (2001). "DOI, a 5-HT2A/2C receptor agonist, attenuates clozapine-induced cortical dopamine release." Brain Res 907(1-2): 151-155.
+
+	(+/-)-1-(2,5-Dimethoxy-4-iodophenyl)-2-aminopropane hydrochloride (DOI, 1.25, 2.5 and 5 mg/kg), a serotonin (5-HT)2A/2C agonist, produced an inverted U-shaped increase in DA release in rat medial prefrontal cortex (mPFC) with a significant effect only at 2.5 mg/kg. This effect was completely abolished by M100907 (0.1 mg/kg), a 5-HT2A antagonist, and WAY100635 (0.2 mg/kg), a 5-HT1A antagonist, neither of which when given alone affected dopamine release. DOI (2.5 mg/kg), but not the 5-HT2C agonist Ro 60-0175 (3 mg/kg), attenuated clozapine (20 mg/kg)-induced mPFC dopamine release. These results suggest that 5-HT2A receptor stimulation increases basal cortical dopamine release via 5-HT1A receptor stimulation, and inhibits clozapine-induced cortical dopamine release by diminishing 5-HT2A receptor blockade.
+

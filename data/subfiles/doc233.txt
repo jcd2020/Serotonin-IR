@@ -1,0 +1,4 @@
+Alper, R. H. and T. M. Schmitz (1996). "Estrogen increases the bradycardia elicited by central administration of the serotonin1A agonist 8-OH-DPAT in conscious rats." Brain Res 716(1-2): 224-228.
+
+	Studies determined if estradiol modulates cardiovascular responses evoked by administration of 8-hydroxy-2-(di-n-propylamino) tetralin (8-OH-DPAT), a 5-HT1A receptor agonist, into the lateral cerebral ventricle. 8-OH-DPAT (100 nmol) produced equivalent decreases in blood pressure in male and ovariectomized female (OVX) rats with or without estradiol replacement. By contrast, the bradycardia elicited by 8-OH-DPAT (3-100 nmol) was greatest in OVX rats with estradiol. Estradiol did not alter the bradycardia produced by electrical stimulation of the vagus nerve. In summary, estradiol selectively enhanced the bradycardia elicited by 8-OH-DPAT suggesting that estrogen modulates the function of central 5-HT1A receptors regulating heart rate.
+

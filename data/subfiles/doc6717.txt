@@ -1,0 +1,4 @@
+Kondo, M., et al. (2013). "The 5-HT3A receptor is essential for fear extinction." Learn Mem 21(1): 1-4.
+
+	The 5-HT3 receptor, the only ionotropic 5-HT receptor, is expressed in limbic regions, including the hippocampus, amygdala, and cortex. However, it is not known whether it has a role in fear memory processes. Analysis of 5-HT3A receptor knockout mice in fear conditioning paradigms revealed that the 5-HT3A receptor is not required for the acquisition or retention of fear memory but is essential for the extinction of contextual and tone-cued fear. Our data suggest that the 5-HT3A receptor could be a key molecule regulating fear memory processes and a potential therapeutic target for fear disorders.
+

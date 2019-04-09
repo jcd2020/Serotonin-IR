@@ -1,0 +1,4 @@
+Ullmer, C., et al. (1996). "Distribution of 5-HT4 receptor mRNA in the rat brain." Naunyn Schmiedebergs Arch Pharmacol 354(2): 210-212.
+
+	We have analyzed the brain distribution of the rat 5-HT4 receptor mRNA. A receptor specific probe was used for in situ hybridization of rat brain sections. Abundant expression of the 5-HT4 receptor mRNA was observed in the olfactory system, striatum, medial habenula and the hippocampal formation, while faint or no specific signals could be detected in most other areas of the brain. Several brain areas which display strong ligand binding do not contain mRNA, suggesting an axonal localization of the 5-HT4 receptor.
+

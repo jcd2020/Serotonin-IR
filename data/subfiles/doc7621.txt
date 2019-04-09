@@ -1,0 +1,4 @@
+Lopez-Rodriguez, M. L., et al. (2000). "First pharmacophoric hypothesis for 5-HT7 antagonism." Bioorg Med Chem Lett 10(10): 1097-1100.
+
+	In order to make the first contribution to the elucidation of essential structural features for 5-HT7 antagonism, a set of thirty 5-HT7 antagonists were selected from the literature. A pharmacophore model was built using Molecular Modeling studies with Catalyst program. The information contained in this model was validated with new synthesized compounds.
+

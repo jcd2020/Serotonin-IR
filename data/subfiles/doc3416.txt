@@ -1,0 +1,4 @@
+Elias, O., et al. (2014). "Design of novel multiple-acting ligands towards SERT and 5-HT2C receptors." Bioorg Med Chem Lett 24(9): 2118-2122.
+
+	This Letter describes our attempts to elaborate dually acting compounds possessing serotonin re-uptake transporter inhibitor and serotonin 5-HT2C receptor antagonist properties. A novel series of 1,3-diphenylureas and N-phenylbenzamides have thus been prepared and evaluated. Based on its in vitro and in vivo activities, as well as pharmacokinetic profile, compound 16a was identified as a lead compound. The synthesis and structure-activity relationship of this series of compounds is presented herein. (C) 2014 Elsevier Ltd. All rights reserved.
+

@@ -1,0 +1,4 @@
+Cid, J., et al. (2004). "Synthesis and structure-activity relationship of 2-(aminoalkyl)3,3a,8,12b-tetrahydro-2H-dibenzocyclohepta 1,2-b furan derivatives: a novel series of 5-HT2A/2C receptor antagonists." Bioorg Med Chem Lett 14(11): 2765-2771.
+
+	Following the program started at Johnson & Johnson Pharmaceutical Research & Development searching for 5-HT2A/2C antagonists we now report on the synthesis of a series of substituted 2-(aminomethyl)-3,3a,8,12b-tetrahydro-2H-dibenzocyclohepta[1,2-b]furan derivatives. The 5-HT2A, 5-HT2C and H-1 receptor affinities of the described compounds are reported. The mCCP antagonistic activity of a set of selected molecules is also reported. (C) 2004 Elsevier Ltd. All rights reserved.
+

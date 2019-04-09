@@ -1,0 +1,4 @@
+Rollema, H., et al. (1997). "Clozapine increases dopamine release in prefrontal cortex by 5-HT1A receptor activation." Eur J Pharmacol 338(2): R3-5.
+
+	Clozapine (1-10 mg/kg s.c.) produces a selective increase in dopamine release in rat prefrontal cortex which is, in large part (approximately 50%), mediated via activation of 5-HT1A receptors. Clozapine is a moderately potent, partial 5-HT1A receptor agonist and activation of 5-HT1A receptors may contribute to its efficacy against negative symptoms and reduced extrapyramidal side effect liability. Agonist affinity for 5-HT1A receptors could thus be a desirable feature in the design of new antipsychotics.
+

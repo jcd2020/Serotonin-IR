@@ -1,0 +1,81 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'antagonists'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'methods'
+p7
+g3
+((lp8
+S'Method.AGONIST'
+p9
+atp10
+Rp11
+sS'topics'
+p12
+g3
+((lp13
+S"(11, u'\\\\banxiolyt')"
+p14
+atp15
+Rp16
+sS'receptors'
+p17
+g3
+((lp18
+S'5ht1a'
+p19
+atp20
+Rp21
+sS'regions'
+p22
+g3
+((lp23
+S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+p24
+aS"(126, u'(?i)(thalamuses|thalamus)')"
+p25
+aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+p26
+atp27
+Rp28
+sS'year'
+p29
+V2006
+p30
+sS'agonists'
+p31
+g3
+((lp32
+S"(224, u'\\\\b5 ?methoxytryptamine')"
+p33
+atp34
+Rp35
+sS'species'
+p36
+g3
+((lp37
+S"(5958, u'(?i)(rats|rat)')"
+p38
+aS"(479, u'(?i)(lings|ling)')"
+p39
+aS"(5967, u'(?i)(males|male)')"
+p40
+aS"(468, u'(?i)(oxen|ox)')"
+p41
+aS"(6356, u'(?i)(ais|ai)')"
+p42
+aS"(6249, u'(?i)(ants|ant)')"
+p43
+aS"(3812, u'(?i)(studs|stud)')"
+p44
+atp45
+Rp46
+sb.

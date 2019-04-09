@@ -1,0 +1,4 @@
+Kojima, T., et al. (2003). "Fluvoxamine suppresses the long-term potentiation in the hippocampal CA1 field of anesthetized rats: an effect mediated via 5-HT1A receptors." Brain Res 959(1): 165-168.
+
+	A selective 5-HT reuptake inhibitor, fluvoxamine (10 and 30 mg/kg, i.p.) suppressed long-term potentiation (LTP) in the hippocampal CA1 field of anesthetized rats. Fluvoxamine (30 mg/kg, i.p.)-induced suppression of LTP was completely reversed by the 5-HT(1A) receptor antagonist NAN-190 (0.5 mg/kg, i.p), but not by the 5-HT(4) receptor antagonist GR 113808 (20 microg/rat, i.c.v.) and the 5-HT(7) receptor antagonist DR 4004 (10 microg/rat, i.c.v.). These data suggest that the inhibitory effect of fluvoxamine on LTP induction is mediated via 5-HT(1A) receptors.
+

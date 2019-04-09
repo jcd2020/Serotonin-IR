@@ -1,0 +1,4 @@
+Nirogi, R. V. S., et al. (2010). "Novel and Potent 5-Piperazinyl Methyl-N-1-aryl Sulfonyl Indole Derivatives as 5-HT6 Receptor Ligands." ACS Med Chem Lett 1(7): 340-344.
+
+	The exclusive distribution of 5-HT6 receptors in the brain regions associated with learing and memory makes it an ideal target for cognitive disorders. A novel series of 5-piperazinyl methyl-N-1-aryl sulfonyl indoles were designed and synthesized as 5-HT6R ligands. Most of the synthesized compounds are potent when tested by in vitro radiogland binding assay. The lead compound from the series does not have the CYP liabilities and is active in an animal model of cognition.
+

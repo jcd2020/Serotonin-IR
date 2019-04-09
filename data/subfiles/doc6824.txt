@@ -1,0 +1,4 @@
+Kreiss, D. S. and I. Lucki (1992). "DESENSITIZATION OF 5-HT1A AUTORECEPTORS BY CHRONIC ADMINISTRATION OF 8-OH-DPAT." Neuropharmacology 31(10): 1073-1076.
+
+	The function of 5-HT1A autoreceptors was examined by measuring the ability of the 5-HT1A receptor agonist 8-OH-DPAT to reduce 5-HT release in the striatum using in vivo microdialysis. 8-OH-DPAT reduced the release of 5-HT in the striatum. Chronic treatment with 8-OH-DPAT (1.0 mg/kg s.c.) for 7 days, but not 1 day, attenuated the effect of an acute challenge dose of 8-OH-DPAT. The results of the present study indicate that in vivo microdialysis can be used to study the effects of activation of 5-HT1A autoreceptors on 5-HT release and the regulation of 5-HT release by chronic administration of psychoactive drugs.
+

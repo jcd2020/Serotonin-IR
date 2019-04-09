@@ -1,0 +1,4 @@
+Hostetler, G., et al. (2014). "In search of potent 5-HT6 receptor inverse agonists." Chem Biol Drug Des 83(6): 666-669.
+
+	A series of non-sulfonamide/non-sulfone derived potent 5-HT6 receptor inverse agonists has been disclosed. Representative compound 9 (Ki = 14 nm) displayed selectivity against a set of family members as well as brain permeability 6 h post-oral administration. In addition, the separated enantiomers of compound 9 displayed difference in activity indicating the influence of chirality on potency.
+

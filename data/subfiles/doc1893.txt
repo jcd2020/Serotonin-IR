@@ -1,0 +1,4 @@
+Carocci, A., et al. (2010). "Chiral Aryloxyalkylamines: Selective 5-HT1B/1D Activation and Analgesic Activity." ChemMedChem 5(5): 696-704.
+
+	A series of chiral 2,3-dichlorophenoxy and 1-naphthyloxy alkyl, amines were synthesized, and their binding affinities towards 5-HT1D and h5-HT1B receptors were evaluated. In the naphthyloxy series, the (R)-prolinol derivative was the most selective 5-HT1D ligand, while (5)-N-methyl-2-(1-naphthyloxy)propan-1-amine showed the highest selectivity for h5-HT1B. Both compounds performed as 5-HT1D agonists in the isolated guinea pig assay and showed higher analgesic activity than both sumatriptan and the achiral analogue 20b in the mouse hotplate test. Neither ligand displayed any affinity for nicotinic ACh receptors present in mouse brain membranes, thus indicating that their analgesic activity does not arise through interaction with these receptors.
+

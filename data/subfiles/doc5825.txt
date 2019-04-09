@@ -1,0 +1,4 @@
+Isayama, S., et al. (2001). "Effects of histidine on working memory deficits induced by the 5-HT1A-receptor agonist 8-OH-DPAT." Jpn J Pharmacol 86(4): 451-453.
+
+	We investigated the effects of histidine on spatial memory deficits induced by the 5-HT1A-receptor agonist, 8-hydroxy-2-(di-n-propylamino)tetralin (8-OH-DPAT). Working memory deficits were elicited by 8-OH-DPAT without affecting reference memory. Histidine improved the working memory deficit induced by 8-OH-DPAT at doses causing a significant increase in brain histamine content. This finding suggests that the histaminergic system regulates 8-OH-DPAT-induced working memory deficit.
+

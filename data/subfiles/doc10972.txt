@@ -1,0 +1,4 @@
+Romanelli, M. N., et al. (1993). "Synthesis and biological activity of a series of aryl tropanyl esters and amides chemically related to 1H-indole-3-carboxylic acid endo 8-methyl-8-azabicyclo[3.2.1]oct-3-yl ester. Development of a 5-HT4 agonist endowed with potent antinociceptive activity." Arzneimittelforschung 43(8): 913-918.
+
+	A series of aryl tropanyl esters and amides related to 1H-indole-3-carboxylic acid endo 8-methyl-8-azabicyclo[3.2.1]oct-3-yl ester (ICS 205930, CAS 89565-68-4) were synthesized and evaluated for antinociceptive activity using the hot-plate test. Of these, the benzofurane-3-carboxylic ester of tropine (1) was found powerfully to increase the pain threshold, with a cholinergic mechanism of action. Despite the structural similarity with ICS 205930, the analgesia induced by 1 seems not to be due to 5-HT3 receptor interaction, and there is evidence of involvement of the central 5-HT4 receptor.
+

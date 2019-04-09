@@ -1,0 +1,4 @@
+Iwahori, Y., et al. (2002). "Hyperpolarization-activated current I(h) in nucleus of solitary tract neurons: regional difference in serotonergic modulation." Jpn J Pharmacol 88(4): 459-462.
+
+	The nucleus of solitary tract (NTS) contains diverse neural circuits responsible for basic vital functions. We examined the effect of serotonin (5-HT) on hyperpolarization-activated current (I(h)) in neurons acutely isolated from caudal, medial and rostral parts of the NTS. Caudal and medial NTS neurons showed a large amplitude of I(h) compared with rostral neurons. In these neurons, perfusion with 5-HT potentiated Ih amplitude in a concentration-dependent manner. The effect of 5-HT was blocked by NAN-190, a 5-HT1A receptor antagonist. Thus, 5-HT1A receptors may regulate I(h) channel activity in caudal and medial NTS neurons.
+

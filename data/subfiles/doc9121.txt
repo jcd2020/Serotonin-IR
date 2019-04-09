@@ -1,0 +1,4 @@
+Nabeshima, T., et al. (1989). "Effects of metaphit on phencyclidine and serotonin2 receptors." Neurosci Lett 102(2-3): 303-308.
+
+	We have investigated whether metaphit, a derivative of phencyclidine (PCP) which irreversibly binds to a population of PCP receptor sites in rat brain, blocks PCP-induced head-twitch response which is produced through serotonin2 (5-HT2) receptors, and also whether metaphit decreases the capacity of 5-HT2 receptors. Metaphit (1 mumol/rat) had decreased the intensity of PCP-induced head-twitch response and had depleted both PCP and 5-HT2 receptors by 24 h after administration, but it failed to block 5-HT agonist 5-methoxy-N,N-dimethyltryptamine-induced 5-HT1A receptor-dependent behaviors. These results reconfirmed our hypothesis that PCP and 5-HT2 receptors may have very similar binding sites.
+

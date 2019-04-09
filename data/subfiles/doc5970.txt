@@ -1,0 +1,4 @@
+Jankowska, E., et al. (1995). "Alcohol drinking in rats injected ICV with 6-OHDA: effect of 8-OHDPAT and tropisetron (ICS 205930)." Alcohol 12(2): 121-126.
+
+	6-Hydroxydopamine (6-OHDA) was administered ICV to Wistar male rats. Lesioned animals displayed lower preference for ethanol (ETOH) than sham-operated rats. Among 6-OHDA lesioned rats only 9% became high-preferring whereas 20% of sham-operated animals became high-preferring ones. Both tropisetron (the antagonist of 5-HT3 receptors) and 8-OHDPAT (the 5-HT1A receptor agonist) reduced ETOH drinking in high-preferring rats. However, in 6-OHDA lesioned rats the effect of tropisetron was reduced although 8-OHDA retained its effect on ETOH consumption. These results suggest that brain DA neurons are involved in tropisetron action but are not responsible for antipreference effect of 8-OHDPAT.
+

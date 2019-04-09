@@ -1,0 +1,4 @@
+Yan, H. and T. Lewander (1999). "Differential tissue distribution of the enantiomers of racemic pindolol in the rat." Eur Neuropsychopharmacol 10(1): 59-62.
+
+	Racemic pindolol, a beta-adrenoceptor and a 5-HT1A/1B receptor antagonist, has been reported to augment and accelerate the clinical efficacy of antidepressants. The (S)-enantiomer is more potent than the (R)-enantiomer both at the beta-adrenergic and at the 5-HT1A/1B receptors. A chiral HPLC column was used for determination of tissue concentrations of the enantiomers of pindolol at 90 min after 8 mg/kg s.c. of the racemate. The (S)/(R) ratio was found to vary between tissues from 1.74 in brain to 0.82 in plasma. The present findings may be important for understanding the pharmacodynamic actions of racemic pindolol.
+

@@ -1,0 +1,4 @@
+Fletcher, S. R., et al. (2002). "4-(phenylsulfonyl)piperidines: Novel, selective, and bioavailable 5-HT2A receptor antagonists." J Med Chem 45(2): 492-503.
+
+	On the basis of a spirocyclic ether screening lead, a series of acyclic sulfones have been identifed as high-affinity, selective 5-HT2A receptor antagonists. Bioavailability lacking in the parent, 1-(2-(2,4-difluorophenyl)ethyl)-4-(phenylsulfonyl)piperidine (12), was introduced by using stability toward rat liver microsomes as a predictor of bioavailability. By this means, the 4-cyano- and 4-carboxamidophenylsulfonyl derivatives 26 and 31 were identified as orally bioavailable, brain-penetrant analogues suitable for evaluation in animal models. Bioavailability was also attainable by N substitution leading to the N-phenacyl derivative 35. IKr activity detected through counterscreening was reduced to insignificant levels in vivo with the latter compound.
+

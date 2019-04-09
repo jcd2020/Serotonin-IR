@@ -1,0 +1,4 @@
+Mukherjee, J., et al. (2007). "Radiotracers for a multi-target Alzheimer's disease." J Labelled Comp Radiopharm 50(5-6): 375-379.
+
+	Development of beta-amyloid plaques and neurofibrillary tangles is the hallmark of Alzheimer's disease (AD) and progressively affects the overall functioning of the brain. Noninvasive imaging methods aiding early diagnosis will significantly improve benefits provided by treatments and possibly lead to prevention of AD. We report the development of PET radiotracer methods for beta-amyloid plaques and tangles, nicotinic alpha 4 beta 2 receptors, serotonin 5HT1A receptors, dopamine D2/D3 receptors and norepinephrine transporters for the study of AD. This multi-target approach is currently being evaluated in AD transgenic mice models. Copyright (c) 2007 John Wiley & Sons, Ltd.
+

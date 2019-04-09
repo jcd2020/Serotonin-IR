@@ -1,0 +1,4 @@
+Langlois, M., et al. (1993). "DERIVATIVES OF QUINUCLIDINE AS 5-HT3 RECEPTOR ANTAGONISTS - INFLUENCE OF AN ADDITIONAL CARBONYL GROUP ON THE RECOGNITION OF CHIRALITY BY THE RECEPTOR." Bioorg Med Chem Lett 3(8): 1555-1558.
+
+	The influence of the aromatic moiety on the recognition of the (R) or (S) chirality of the quinuclidine framework by 5-HT3 receptors was evaluated in a series of simple o-alkoxy benzamide and naphthalene derivatives. In all the derivatives, the highest potency resided in the (S) isomers, as seen with zacopride, and depended upon the hydrophobic properties of the substituent. It was demonstrated that an intramolecular hydrogen bond as not implicated in the activity and the introduction of an additional carbonyl function, as in 1,2-naphthalimide, brought about an inversion of the enantioselectivity. The existence of a secondary hydrogen donor group in the receptor site as suggested.
+

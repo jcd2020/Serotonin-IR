@@ -1,0 +1,4 @@
+Kamei, K., et al. (2001). "New 5-HT1A receptor agonists possessing 1,4-benzoxazepine scaffold exhibit highly potent anti-ischemic effects." Bioorg Med Chem Lett 11(4): 595-598.
+
+	A series of new 3-substituted-4-(4-aminobutyl)-1,4-benzoxazepin-5(4H)-one derivatives (1-5) which showed a very high affinity for 5-HT1A receptor with good selectivity over dopamine D-2 receptor was synthesized. Among these compounds, 3-chloro4-[4-[4-(2-pyridinyl)-1,2,3,6-tetrahydropyridin-1-yl]butyl]-1,4-benzoxazepin-5(4H)-one (5. SUN N4057) exhibited remarkable neuroprotective activity in a transient middle cerebral artery occlusion (t-MCAO) model. (C) 2001 Elsevier Science Ltd. All rights reserved.
+

@@ -1,0 +1,4 @@
+Imperato, A. and L. Angelucci (1989). "5-HT3 receptors control dopamine release in the nucleus accumbens of freely moving rats." Neurosci Lett 101(2): 214-217.
+
+	ICS 205-930, a selective and potent 5-HT3 receptor antagonist applied either systemically, or locally into the ventral tegmental area, antagonized the stimulation of dopamine release in the nucleus accumbens, induced by the subcutaneous administration of morphine. These findings, obtained by the use of brain microdialysis in awake freely-moving rats, demonstrate in vivo a functional role of 5-HT3 receptors in the brain. Since stimulation of dopamine release in the nucleus accumbens is a prerequisite for the expression of the rewarding properties of morphine, its suppression by ICS 205-930 suggests a possible application of 5-HT3 receptor antagonists in the treatment of addiction.
+

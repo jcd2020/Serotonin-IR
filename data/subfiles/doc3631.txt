@@ -1,0 +1,4 @@
+Feenstra, R. W., et al. (2006). "SAR study of 1-aryl-4-(phenylarylmethyl)piperazines as ligands for both dopamine D2 and serotonin 5-HT1A receptors showing varying degrees of (ant)agonism. Selection of a potential atypical antipsychotic." Chem Pharm Bull (Tokyo) 54(9): 1326-1330.
+
+	The syntheses of several 1-aryl-4-(arylpyridylmethyl)piperazines (4) and their affinities for dopamine D, and serotonin 5-HT1A receptors are described. The compounds were evaluated both in vitro and in vivo, resulting in the identification of the drug candidate SLV313 (4e) with equipotent and full D-2 receptor antagonism and 5-HT1A receptor agonism. Minor structural modifications in SLV313 revealed the possibility of designing compounds possessing varying degrees of partial agonism on one or both target receptors.
+

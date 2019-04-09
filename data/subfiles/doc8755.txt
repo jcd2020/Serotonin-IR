@@ -1,0 +1,4 @@
+Modica, M. N., et al. (2008). "Synthesis and receptor binding of new thieno[2,3-d]-pyrimidines as selective ligands of 5-HT(3) receptors." Arch Pharm (Weinheim) 341(6): 333-343.
+
+	With the aim to develop new potent and selective ligands of 5-HT(3)-type serotonin receptors and to acquire more information on their structure-affinity relationships, new thieno[2,3-d]pyrimidine derivatives 32-39 were synthesized and their binding to 5-HT(3) versus 5-HT(4 )receptors was studied. Some of these new compounds exhibit good affinity for cortical 5-HT(3) receptors, but not for 5-HT(4) receptors. Among these derivatives, 6-ethyl-4-(4-methyl-1-piperazinyl)-2-(methylthio)thieno[2,3-d]pyrimidine 32 is the most potent ligand (K(i) = 67 nM); it behaves as a competitive antagonist of the 5-HT(3) receptor function in the guinea pig colon. Its binding interactions with 5-HT(3A )receptors were analysed by using receptor modelling and comparative docking.
+

@@ -1,0 +1,4 @@
+Tokarski, K., et al. (2003). "5-HT7 receptors increase the excitability of rat hippocampal CA1 pyramidal neurons." Brain Res 993(1-2): 230-234.
+
+	In the CA1 area of rat hippocampal slices, a combined application of 5-CT, a potent 5-HT(1A) and 5-HT(7) receptor agonist, and WAY 100635, a selective 5-HT(1A) receptor antagonist, resulted in a reversible increase of the CA1 extracellular population spike amplitude. In whole-cell recording from identified pyramidal neurons, the effects of 5-CT applied in the presence of WAY 100635 involved a reduction of the slow afterhyperpolarization (sAHP) and the frequency adaptation of action potential firing, which could be blocked by a specific 5-HT(7) receptor antagonist SB 269970. The results indicate that the activation of 5-HT(7) receptors increases the excitability of hippocampal CA1 pyramidal cells.
+

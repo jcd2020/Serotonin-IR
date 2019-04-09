@@ -1,0 +1,4 @@
+Miller, K. J. (2005). "Serotonin 5-HT2C receptor agonists: For the treatment of obesity." Molecular Interventions 5(5): 282-291.
+
+	Obesity continues to be a burgeoning health problem worldwide. Before their removal from the market, fenfluramine and the more active enantiomer dexfenfluramine were considered to be among the most effective of weight loss agents. Much of the weight loss produced by fenfluramine was attributed to the direct activation of serotonin 5-HT2C receptors in the central nervous system via the desmethyl-metabolite of fenfluramine, norfenfluramine. Morfenfluramine, however, is non-selective, activating additional serotonin receptors, such as 5-HT2A and 5-HT2B, which likely mediated the heart valve hypertrophy seen in many patients. Development of highly selective 5-HT2C agonists may recapitulate the clinical anti-obesity properties observed with fenfluramine while avoiding the significant cardiovascular and pulmonary side effects.
+

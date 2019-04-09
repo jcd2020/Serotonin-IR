@@ -1,0 +1,4 @@
+Peruzzi, D. and A. Dut (2004). "GABA, serotonin and serotonin receptors in the rat inferior colliculus." Brain Res 998(2): 247-250.
+
+	GABA and serotonin in the mammalian inferior colliculus both have a restrictive effect on fearful and aversive behavior. Immunohistochemical techniques were used to study the relationship between GABA and serotonin receptors in the central nucleus of the rat inferior colliculus. Neurons positive for 5HT1B are more numerous than those displaying 5HT1A receptors. Approximately two-thirds of GABA-positive neurons are associated with serotonin receptors.
+

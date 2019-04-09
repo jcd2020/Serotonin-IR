@@ -1,0 +1,4 @@
+Wikstrom, H., et al. (1992). "6-Hydroxy-3-n-propyl-2,3,4,5-tetrahydro-1H-3-benzazepine and analogs: new centrally acting 5-HT1A receptor agonists." J Med Chem 35(22): 3984-3990.
+
+	The ring-closed phenylethylamine analogue 6-hydroxy-3-n-propyl-2,3,4,5-tetrahydro-1H-3-benzazepine (1) is a 5-HT1A receptor agonist of moderate potency, according to both in vivo biochemical data and in vitro binding data. The active compounds of this series also induce the 5-HT behavioral syndrome. Molecular modeling studies were performed with molecular mechanics calculations, and a tentative explanation for the relatively low potency of these serotonergic benzazepines is provided.
+
