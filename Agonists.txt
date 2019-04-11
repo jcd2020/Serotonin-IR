@@ -2,10 +2,7 @@
 2C-E
 2C-T-2
 4C-T-2
-5-CT
-5-MT
 5-MeO-DiPT
-5-MeO-DMT
 5-MeO-MiPT
 5-MeO-TMT
 6-F-DMT
@@ -13,7 +10,6 @@ Adatanserin
 αET
 Amphetamine
 αMT
-Aripiprazole
 Asenapine
 Bacoside
 Bay R 1531
@@ -30,7 +26,6 @@ Dihydroergotamine
 Dimethyltryptamine
 DiPT
 DOET
-DOI
 DPT
 Ebalzotan
 Eltoprazine
@@ -49,11 +44,9 @@ Haloperidol
 Lamotrigine
 Ipsapirone
 Limonene
-Lisuride
 Lurasidone
 LY-301,317
 Lysergic acid diethylamide 
-LSD
 Mescaline
 3,4-Methylenedioxyamphetamine
 Methylphenidate
@@ -90,18 +83,14 @@ Yohimbine
 Zalospirone
 Ziprasidone
 8-OH-DPAT
-Alnespirone
-Buspirone 
-Befiradol
+Alnespirone 
 Eptapirone
 F-15,599
 Lesopitron
 MKC-242
-LY-293,284
-Osemozotan 
+LY-293,284 
 Repinotan
 U-92,016-A
-Flibanserin
 Vortioxetine
 Ergotamine 
 Oxymetazoline
@@ -117,12 +106,8 @@ RU-24969
 Dextromethorphan 
 Ziprasidone 
 Asenapine 
-Vortioxetine 
-Dextromethorphan 
-5-(Nonyloxy)tryptamine
-Sumatriptan 
-5-Carboxamidotryptamine 
-5-CT
+Vortioxetine  
+5-(Nonyloxy)tryptamine 
 5-(t-Butyl)-N-methyltryptamine
 CP-135,807
 CP-286,601
@@ -177,50 +162,36 @@ Aminorex
 mCPP
 Bromo-dragonfly
 DMT
-5-MeO-DMT
-LSD 
-psilocin 
+LSD  
 A-372,159
 AL-38022A
 CP-809,101
 CPD-1 
 Fenfluramine
-Lisuride
 Lorcaserin
 Mesulergine
 MK-212
 Naphthylisopropylamine
-Norfenfluramine
 Org 12,962
 ORG-37,684
 Oxaflozane
 PNU-22394
 PNU-181731
 Lysergamides
-LSD
 Phenethylamines
-2C-B
 DOI
 DOM
-Mescaline
 Piperazines 
-mCPP
 TFMPP
 5-MeO-DMT
-Bufotenin
-DMT
-Psilocin
-Ro60-0175
 Vabicaserin
 WAY-629
 WAY-161,503
 WAY-163,909
 YM-348
-Aripiprazole
 Cereulide
 2-methyl-5-HT
 Alpha-Methyltryptamine
-Bufotenin
 Chlorophenylbiguanide
 Ethanol
 Ibogaine
@@ -244,7 +215,6 @@ Tegaserod
 Zacopride
 Metoclopramide
 Sulpiride
-LSD:(+)-lysergic acid 
 Valerenic acid 
 Olanzapine 
 2-Ethyl-5-methoxy-N,N-dimethyltryptamine 
@@ -253,10 +223,8 @@ WAY-181,187
 WAY-208,466
 N-(inden-5-yl)imidazothiazole-5-sulfonamide (43) 
 E-6837 
-E-6801
-E-6837 
-EMD-386,088
-5-Carboxamidotryptamine 
+E-6801 
+EMD-386,088 
 5-CT
 5-methoxytryptamine 
 5-MT
@@ -280,4 +248,4 @@ AGH-107 
 AH-494 
 (3-(1-ethyl-1H-imidazol-5-yl)-1H-indole-5-carboxamide)  
 AGH-192 
-
+TEST
