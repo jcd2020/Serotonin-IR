@@ -40,56 +40,28 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
+S"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2007
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp35
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p36
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(4301, u'(?i)(hydras|hydra)')"
-p38
-aS"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(2942, u'(?i)(daws|daw)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(5967, u'(?i)(males|male)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(821, u'(?i)(lice|louse)')"
-p51
-atp52
-Rp53
+atp38
+Rp39
 sb.

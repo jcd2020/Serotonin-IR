@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(51, u'\\\\basenapine')"
 p5
-aS"(60, u'\\\\basenapine')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -36,70 +36,50 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht2d'
+S'5ht1a'
 p22
-aS'5ht1a'
+aS'5ht2d'
 p23
-aS'5ht5'
-p24
 aS'5ht1'
-p25
+p24
 aS'5ht2a'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+((lp29
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p30
+aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p31
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p32
-aS"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p33
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'year'
-p37
+p36
 V2009
-p38
+p37
 sS'agonists'
-p39
+p38
 g3
-((lp40
-S"(33, u'\\\\bdoi')"
+((lp39
+S"(13, u'\\\\basenapine')"
+p40
+aS"(175, u'\\\\bdoi')"
 p41
-aS"(17, u'\\\\basenapine')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(5537, u'(?i)(hippos|hippo)')"
-p47
-aS"(2568, u'(?i)(hens|hen)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(5176, u'(?i)(tegs|teg)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(1414, u'(?i)(chars|char)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-atp57
-Rp58
+((lp45
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

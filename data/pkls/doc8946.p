@@ -40,66 +40,28 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p25
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V1993
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2323, u'(?i)(bees|bee)')"
-p38
-aS"(5537, u'(?i)(hippos|hippo)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(6857, u'(?i)(ormers|ormer)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(3726, u'(?i)(mates|mate)')"
-p47
-aS"(853, u'(?i)(minas|mina)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(7094, u'(?i)(curs|cur)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+((lp36
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

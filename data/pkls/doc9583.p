@@ -8,82 +8,56 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(59, u'\\\\brisperidone')"
+aS"(113, u'\\\\brisperidone')"
 p6
-aS"(123, u'\\\\bclozapine')"
-p7
-aS"(56, u'\\\\bclozapine')"
-p8
-atp9
-Rp10
+atp7
+Rp8
 sS'methods'
-p11
+p9
 g3
-((lp12
+((lp10
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p11
+atp12
+Rp13
 sS'topics'
-p16
+p14
 g3
-((lp17
-tp18
-Rp19
+((lp15
+tp16
+Rp17
 sS'receptors'
+p18
+g3
+((lp19
+S'5ht2a'
 p20
-g3
-((lp21
-S'5ht5'
-p22
-aS'5ht2a'
-p23
-atp24
-Rp25
+atp21
+Rp22
 sS'regions'
-p26
+p23
 g3
-((lp27
-tp28
-Rp29
+((lp24
+tp25
+Rp26
 sS'year'
-p30
+p27
 V2014
-p31
+p28
 sS'agonists'
-p32
+p29
 g3
-((lp33
-S"(27, u'\\\\bclozapine')"
-p34
-atp35
-Rp36
+((lp30
+S"(23, u'\\\\bclozapine')"
+p31
+atp32
+Rp33
 sS'species'
-p37
+p34
 g3
-((lp38
-S"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(5131, u'(?i)(hags|hag)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-atp49
-Rp50
+((lp35
+tp36
+Rp37
 sb.

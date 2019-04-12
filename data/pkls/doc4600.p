@@ -10,90 +10,68 @@ p3
 ((lp4
 S"(5, u'\\\\bcyanopindolol')"
 p5
-aS"(53, u'\\\\bketanserin')"
+aS"(115, u'\\\\bcinanserin')"
 p6
-aS"(130, u'\\\\britanserin')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(128, u'\\\\bketanserin')"
+aS"(119, u'\\\\britanserin')"
 p8
-aS"(54, u'\\\\britanserin')"
-p9
-aS"(126, u'\\\\bcinanserin')"
-p10
-atp11
-Rp12
+atp9
+Rp10
 sS'methods'
-p13
+p11
 g3
-((lp14
+((lp12
 S'Method.ANTAGONIST'
-p15
+p13
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p14
+atp15
+Rp16
 sS'topics'
-p19
+p17
 g3
-((lp20
+((lp18
 S"(35, u'\\\\bstress')"
-p21
-atp22
-Rp23
+p19
+atp20
+Rp21
 sS'receptors'
-p24
+p22
 g3
-((lp25
+((lp23
 S'5ht1b'
-p26
+p24
 aS'5ht1a'
-p27
+p25
 aS'5ht2'
-p28
-atp29
-Rp30
+p26
+atp27
+Rp28
 sS'regions'
+p29
+g3
+((lp30
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-g3
-((lp32
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
-p33
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p34
-atp35
-Rp36
+atp32
+Rp33
 sS'year'
-p37
+p34
 V1993
-p38
+p35
 sS'agonists'
-p39
+p36
 g3
-((lp40
-tp41
-Rp42
+((lp37
+tp38
+Rp39
 sS'species'
-p43
+p40
 g3
-((lp44
-S"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1349, u'(?i)(rams|ram)')"
-p47
-aS"(5131, u'(?i)(hags|hag)')"
-p48
-aS"(3592, u'(?i)(ravens|raven)')"
-p49
-aS"(4964, u'(?i)(serins|serin)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(3522, u'(?i)(tetras|tetra)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+((lp41
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

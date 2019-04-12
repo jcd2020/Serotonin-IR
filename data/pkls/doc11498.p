@@ -38,58 +38,26 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2005
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(121, u'\\\\bl ?694247')"
-p31
-atp32
-Rp33
+((lp29
+S"(114, u'\\\\bl ?694247')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(6753, u'(?i)(da|das)')"
-p36
-aS"(81, u'(?i)(asps|asp)')"
-p37
-aS"(7609, u'(?i)(erns|ern)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(5176, u'(?i)(tegs|teg)')"
-p40
-aS"(1725, u'(?i)(clams|clam)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(1538, u'(?i)(preys|prey)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(2223, u'(?i)(lampreys|lamprey)')"
-p49
-aS"(1683, u'(?i)(terns|tern)')"
-p50
-aS"(7552, u'(?i)(bats|bat)')"
-p51
-atp52
-Rp53
+((lp34
+S"(2223, u'(?i)\\\\b(lampreys|lamprey)\\\\b')"
+p35
+atp36
+Rp37
 sb.

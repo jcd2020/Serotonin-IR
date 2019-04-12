@@ -44,64 +44,32 @@ aS'5ht1a'
 p24
 aS'5ht4a'
 p25
-aS'5ht5'
-p26
 aS'5ht2a'
-p27
-atp28
-Rp29
+p26
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'year'
-p34
+p33
 V2016
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-tp38
-Rp39
+((lp36
+tp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(1070, u'(?i)(pets|pet)')"
-p42
-aS"(4624, u'(?i)(apes|ape)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(702, u'(?i)(genets|genet)')"
-p45
-aS"(867, u'(?i)(tits|tit)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(5131, u'(?i)(hags|hag)')"
-p49
-aS"(5176, u'(?i)(tegs|teg)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(7094, u'(?i)(curs|cur)')"
-p52
-aS"(5229, u'(?i)(moles|mole)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+((lp40
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+p41
+atp42
+Rp43
 sb.

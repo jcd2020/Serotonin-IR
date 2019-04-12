@@ -8,92 +8,64 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(54, u'\\\\britanserin')"
+aS"(31, u'\\\\bway ?100635')"
 p6
-aS"(130, u'\\\\britanserin')"
+aS"(119, u'\\\\britanserin')"
 p7
-aS"(135, u'\\\\bondansetron')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(9, u'\\\\bdepress')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1a'
-p23
+p22
 aS'5ht3'
-p24
+p23
 aS'5ht2'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp28
+tp29
+Rp30
 sS'year'
-p33
+p31
 V2010
-p34
+p32
 sS'agonists'
-p35
+p33
 g3
-((lp36
-tp37
-Rp38
+((lp34
+tp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(6753, u'(?i)(da|das)')"
-p41
-aS"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(4964, u'(?i)(serins|serin)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+((lp38
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p39
+atp40
+Rp41
 sb.

@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(104, u'\\\\bzolmitriptan')"
+S"(97, u'\\\\bzolmitriptan')"
 p30
 atp31
 Rp32
@@ -56,36 +56,14 @@ sS'species'
 p33
 g3
 ((lp34
-S"(1070, u'(?i)(pets|pet)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p35
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p36
-aS"(3767, u'(?i)(olms|olm)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p37
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(1885, u'(?i)(apars|apar)')"
-p39
-aS"(5967, u'(?i)(males|male)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(1057, u'(?i)(humans|human)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(3196, u'(?i)(human|humans)')"
-p48
-aS"(2809, u'(?i)(toms|tom)')"
-p49
-atp50
-Rp51
+atp39
+Rp40
 sb.

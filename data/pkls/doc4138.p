@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -42,9 +42,9 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
 atp28
 Rp29
@@ -62,46 +62,14 @@ sS'species'
 p36
 g3
 ((lp37
-S"(7058, u'(?i)(does|doe)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p38
-aS"(5967, u'(?i)(males|male)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(867, u'(?i)(tits|tit)')"
-p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(4091, u'(?i)(adults|adult)')"
-p45
-aS"(4371, u'(?i)(lizas|liza)')"
-p46
-aS"(2183, u'(?i)(gars|gar)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(7094, u'(?i)(curs|cur)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(5917, u'(?i)(roaches|roach)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+atp42
+Rp43
 sb.

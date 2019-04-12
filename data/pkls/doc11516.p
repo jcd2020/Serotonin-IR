@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
 atp6
 Rp7
@@ -56,32 +56,12 @@ sS'species'
 p33
 g3
 ((lp34
-S"(4624, u'(?i)(apes|ape)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p35
-aS"(6753, u'(?i)(da|das)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(163, u'(?i)(mice|mouse)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(6981, u'(?i)(moths|moth)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(7058, u'(?i)(does|doe)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(5783, u'(?i)(hinds|hind)')"
-p47
-atp48
-Rp49
+atp38
+Rp39
 sb.

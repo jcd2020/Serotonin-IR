@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(194, u'\\\\bmethysergide')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
 atp7
 Rp8
@@ -38,64 +38,40 @@ sS'receptors'
 p21
 g3
 ((lp22
-S'5ht5'
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+((lp26
+S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p27
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'year'
-p33
+p31
 V2014
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(53, u'\\\\bmethysergide')"
 p35
-g3
-((lp36
-S"(48, u'\\\\bhaloperidol')"
-p37
-aS"(60, u'\\\\bmethysergide')"
-p38
-atp39
-Rp40
+aS"(43, u'\\\\bhaloperidol')"
+p36
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(2323, u'(?i)(bees|bee)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(163, u'(?i)(mice|mouse)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+((lp40
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p41
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p42
+atp43
+Rp44
 sb.

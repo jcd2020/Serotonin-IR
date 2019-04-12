@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(136, u'\\\\btropisetron')"
+S"(125, u'\\\\btropisetron')"
 p5
 atp6
 Rp7
@@ -42,72 +42,32 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(157, u'(?i)(limbics|limbic)(-|\\\\s+)?(systems|system)')"
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p26
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p27
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
 p28
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'year'
-p33
+p31
 V2007
-p34
+p32
 sS'agonists'
-p35
+p33
 g3
-((lp36
-tp37
-Rp38
+((lp34
+tp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(4624, u'(?i)(apes|ape)')"
-p41
-aS"(5537, u'(?i)(hippos|hippo)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p44
-aS"(6878, u'(?i)(guans|guan)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(2665, u'(?i)(rays|ray)')"
-p51
-aS"(6215, u'(?i)(racers|racer)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(5838, u'(?i)(cubs|cub)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(7094, u'(?i)(curs|cur)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(6391, u'(?i)(asses|ass)')"
-p58
-aS"(4177, u'(?i)(grays|gray)')"
-p59
-aS"(7552, u'(?i)(bats|bat)')"
-p60
-atp61
-Rp62
+((lp38
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p39
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

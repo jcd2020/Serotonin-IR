@@ -34,74 +34,46 @@ g3
 ((lp19
 S'5ht1b'
 p20
-aS'5ht5'
+aS'5ht1a'
 p21
 aS'5ht2c'
 p22
-aS'5ht2a'
-p23
-aS'5ht1a'
-p24
 aS'5ht2'
-p25
-atp26
-Rp27
+p23
+aS'5ht2a'
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+((lp28
+S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
+p29
+aS"(396, u'(?i)\\\\b(subventriculars|subventricular)(-|\\\\s+)?(zones|zone)\\\\b')"
 p30
-aS"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p31
-aS"(396, u'(?i)(subventriculars|subventricular)(-|\\\\s+)?(zones|zone)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2004
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-tp39
-Rp40
+((lp37
+tp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(2323, u'(?i)(bees|bee)')"
+((lp41
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p42
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p43
-aS"(5537, u'(?i)(hippos|hippo)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(4163, u'(?i)(ermines|ermine)')"
-p48
-aS"(4091, u'(?i)(adults|adult)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(3152, u'(?i)(layers|layer)')"
-p51
-aS"(853, u'(?i)(minas|mina)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+atp44
+Rp45
 sb.

@@ -56,42 +56,8 @@ sS'species'
 p33
 g3
 ((lp34
-S"(1438, u'(?i)(ceroes|cero)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p35
-aS"(6249, u'(?i)(ants|ant)')"
-p36
-aS"(7170, u'(?i)(toys|toy)')"
-p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(479, u'(?i)(lings|ling)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(3642, u'(?i)(lambs|lamb)')"
-p41
-aS"(7094, u'(?i)(curs|cur)')"
-p42
-aS"(6580, u'(?i)(dams|dam)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(3522, u'(?i)(tetras|tetra)')"
-p46
-aS"(3426, u'(?i)(hares|hare)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(7058, u'(?i)(does|doe)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-atp53
-Rp54
+atp36
+Rp37
 sb.

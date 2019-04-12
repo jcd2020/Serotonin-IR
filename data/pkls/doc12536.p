@@ -52,11 +52,11 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(176, u'\\\\bdom')"
 p32
-aS"(181, u'\\\\bdom')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p33
-aS"(33, u'\\\\bdoi')"
+aS"(175, u'\\\\bdoi')"
 p34
 atp35
 Rp36
@@ -64,48 +64,14 @@ sS'species'
 p37
 g3
 ((lp38
-S"(6249, u'(?i)(ants|ant)')"
+S"(1395, u'(?i)\\\\b(frogs|frog)\\\\b')"
 p39
-aS"(5967, u'(?i)(males|male)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p40
-aS"(1395, u'(?i)(frogs|frog)')"
+aS"(1266, u'(?i)\\\\b(embryos|embryo)\\\\b')"
 p41
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(2611, u'(?i)\\\\b(amphibians|amphibian)\\\\b')"
 p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(7609, u'(?i)(erns|ern)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(4371, u'(?i)(lizas|liza)')"
-p48
-aS"(2183, u'(?i)(gars|gar)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(4163, u'(?i)(ermines|ermine)')"
-p51
-aS"(2611, u'(?i)(amphibians|amphibian)')"
-p52
-aS"(853, u'(?i)(minas|mina)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(1266, u'(?i)(embryos|embryo)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(4247, u'(?i)(tatus|tatu)')"
-p57
-aS"(391, u'(?i)(alli|allis)')"
-p58
-aS"(1683, u'(?i)(terns|tern)')"
-p59
-atp60
-Rp61
+atp43
+Rp44
 sb.

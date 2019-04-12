@@ -52,11 +52,11 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(163, u'\\\\bdmt')"
+S"(63, u'\\\\bpsilocybin')"
 p32
-aS"(30, u'\\\\bdimethyltryptamine')"
+aS"(157, u'\\\\bdmt')"
 p33
-aS"(70, u'\\\\bpsilocybin')"
+aS"(26, u'\\\\bdimethyltryptamine')"
 p34
 atp35
 Rp36
@@ -64,34 +64,10 @@ sS'species'
 p37
 g3
 ((lp38
-S"(1688, u'(?i)(ounces|ounce)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(479, u'(?i)(lings|ling)')"
-p42
-aS"(81, u'(?i)(asps|asp)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(3726, u'(?i)(mates|mate)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(1057, u'(?i)(humans|human)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+atp41
+Rp42
 sb.

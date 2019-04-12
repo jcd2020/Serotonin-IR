@@ -32,70 +32,44 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht1a'
 p20
-aS'5ht1a'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p26
-atp27
-Rp28
+((lp24
+S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2004
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(76, u'\\\\bsarizotan')"
-p33
-atp34
-Rp35
+((lp31
+S"(69, u'\\\\bsarizotan')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(6753, u'(?i)(da|das)')"
+((lp36
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p40
-aS"(4201, u'(?i)(kines|kine)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(3051, u'(?i)(pigs|pig)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1349, u'(?i)(rams|ram)')"
-p47
-aS"(3062, u'(?i)(guineas|guinea)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(5917, u'(?i)(roaches|roach)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-atp55
-Rp56
+atp42
+Rp43
 sb.

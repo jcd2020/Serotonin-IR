@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(45, u'\\\\bgr ?127935')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -48,13 +48,13 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p31
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p32
 atp33
 Rp34
@@ -72,28 +72,12 @@ sS'species'
 p41
 g3
 ((lp42
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p44
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p45
-aS"(4163, u'(?i)(ermines|ermine)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3062, u'(?i)(guineas|guinea)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+atp46
+Rp47
 sb.

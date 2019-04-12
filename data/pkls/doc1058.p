@@ -32,60 +32,38 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht3a'
 p20
-aS'5ht3a'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
-p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+((lp24
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p30
+p28
 V2004
-p31
+p29
 sS'agonists'
-p32
+p30
 g3
-((lp33
-tp34
-Rp35
+((lp31
+tp32
+Rp33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(2323, u'(?i)(bees|bee)')"
+((lp35
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p36
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p37
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p38
-aS"(5967, u'(?i)(males|male)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(6125, u'(?i)(females|female)')"
-p41
-aS"(163, u'(?i)(mice|mouse)')"
-p42
-aS"(4663, u'(?i)(nags|nag)')"
-p43
-aS"(2183, u'(?i)(gars|gar)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(1414, u'(?i)(chars|char)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-atp50
-Rp51
+atp39
+Rp40
 sb.

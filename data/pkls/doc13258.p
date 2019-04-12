@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(17, u'\\\\bnan ?190')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(45, u'\\\\bgr ?127935')"
+aS"(17, u'\\\\bnan ?190')"
 p6
 atp7
 Rp8
@@ -46,78 +46,52 @@ aS'5ht1f'
 p25
 aS'5ht1d'
 p26
-aS'5ht5'
-p27
 aS'5ht4a'
-p28
+p27
 aS'5ht2'
-p29
-atp30
-Rp31
+p28
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p34
-atp35
-Rp36
+((lp32
+S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p33
+atp34
+Rp35
 sS'year'
-p37
+p36
 V1997
-p38
+p37
 sS'agonists'
-p39
+p38
 g3
-((lp40
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
+((lp39
+S"(20, u'\\\\bbuspirone')"
+p40
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p41
-aS"(24, u'\\\\bbuspirone')"
+aS"(105, u'\\\\b5 ?nonyloxytryptamine')"
 p42
-aS"(112, u'\\\\b5 ?nonyloxytryptamine')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sS'species'
-p46
+p45
 g3
-((lp47
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp46
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p47
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p48
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p49
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p50
-aS"(6857, u'(?i)(ormers|ormer)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p51
-aS"(6753, u'(?i)(da|das)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p52
-aS"(479, u'(?i)(lings|ling)')"
-p53
-aS"(3051, u'(?i)(pigs|pig)')"
-p54
-aS"(468, u'(?i)(oxen|ox)')"
-p55
-aS"(3062, u'(?i)(guineas|guinea)')"
-p56
-aS"(3726, u'(?i)(mates|mate)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-aS"(3522, u'(?i)(tetras|tetra)')"
-p60
-aS"(3812, u'(?i)(studs|stud)')"
-p61
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p62
-aS"(6878, u'(?i)(guans|guan)')"
-p63
-aS"(7058, u'(?i)(does|doe)')"
-p64
-aS"(6682, u'(?i)(tera|teras)')"
-p65
-atp66
-Rp67
+atp53
+Rp54
 sb.

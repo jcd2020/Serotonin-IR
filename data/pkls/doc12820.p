@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -42,66 +42,44 @@ g3
 ((lp23
 S'5ht1a'
 p24
-aS'5ht5'
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp28
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p29
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p31
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(307, u'(?i)\\\\b(fornixes|fornix)\\\\b')"
 p32
-aS"(307, u'(?i)(fornixes|fornix)')"
-p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'year'
-p37
+p35
 V2019
-p38
+p36
 sS'agonists'
-p39
+p37
 g3
-((lp40
-tp41
-Rp42
+((lp38
+tp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp42
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p43
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p44
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p45
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p46
-aS"(163, u'(?i)(mice|mouse)')"
-p47
-aS"(4091, u'(?i)(adults|adult)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(1057, u'(?i)(humans|human)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(3196, u'(?i)(human|humans)')"
-p57
-atp58
-Rp59
+atp47
+Rp48
 sb.

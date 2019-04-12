@@ -12,17 +12,17 @@ S"(6, u'\\\\bcyproheptadine')"
 p5
 aS"(17, u'\\\\bnan ?190')"
 p6
-aS"(153, u'\\\\bgr ?113808')"
+aS"(144, u'\\\\bgr ?113808')"
 p7
-aS"(62, u'\\\\bcyproheptadine')"
+aS"(174, u'\\\\bsb ?258585')"
 p8
-aS"(204, u'\\\\bsb ?269970')"
+aS"(198, u'\\\\bsb ?269970')"
 p9
-aS"(182, u'\\\\bsb ?258585')"
+aS"(53, u'\\\\bcyproheptadine')"
 p10
-aS"(134, u'\\\\bgranisetron')"
+aS"(157, u'\\\\bsb ?699551')"
 p11
-aS"(165, u'\\\\bsb ?699551')"
+aS"(123, u'\\\\bgranisetron')"
 p12
 atp13
 Rp14
@@ -88,28 +88,10 @@ sS'species'
 p49
 g3
 ((lp50
-S"(2568, u'(?i)(hens|hen)')"
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p51
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-aS"(3051, u'(?i)(pigs|pig)')"
-p54
-aS"(468, u'(?i)(oxen|ox)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(3550, u'(?i)(anis|ani)')"
-p59
-aS"(1961, u'(?i)(pens|pen)')"
-p60
-aS"(3812, u'(?i)(studs|stud)')"
-p61
-atp62
-Rp63
+atp53
+Rp54
 sb.

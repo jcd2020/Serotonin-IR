@@ -34,56 +34,22 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(271, u'(?i)(v2s|v2)')"
-p22
-atp23
-Rp24
+tp22
+Rp23
 sS'year'
-p25
+p24
 V2016
-p26
+p25
 sS'agonists'
-p27
+p26
 g3
-((lp28
-tp29
-Rp30
+((lp27
+tp28
+Rp29
 sS'species'
-p31
+p30
 g3
-((lp32
-S"(2323, u'(?i)(bees|bee)')"
-p33
-aS"(2568, u'(?i)(hens|hen)')"
-p34
-aS"(1667, u'(?i)(polyps|polyp)')"
-p35
-aS"(702, u'(?i)(genets|genet)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(3726, u'(?i)(mates|mate)')"
-p41
-aS"(6580, u'(?i)(dams|dam)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(1414, u'(?i)(chars|char)')"
-p45
-aS"(7609, u'(?i)(erns|ern)')"
-p46
-aS"(1628, u'(?i)(cod|cod)')"
-p47
-aS"(1683, u'(?i)(terns|tern)')"
-p48
-atp49
-Rp50
+((lp31
+tp32
+Rp33
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -40,46 +40,28 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V1999
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
+((lp35
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p36
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(1961, u'(?i)(pens|pen)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(7058, u'(?i)(does|doe)')"
-p46
-atp47
-Rp48
+atp38
+Rp39
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -52,9 +52,9 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(16, u'\\\\bbefiradol')"
 p32
-aS"(20, u'\\\\bbefiradol')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p33
 atp34
 Rp35
@@ -62,54 +62,22 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2401, u'(?i)(primates|primate)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p38
-aS"(1846, u'(?i)(robins|robin)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p39
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p40
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1055, u'(?i)\\\\b(men|man)\\\\b')"
 p42
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p43
-aS"(3196, u'(?i)(human|humans)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(1070, u'(?i)(pets|pet)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p45
-aS"(479, u'(?i)(lings|ling)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(7609, u'(?i)(erns|ern)')"
-p49
-aS"(867, u'(?i)(tits|tit)')"
-p50
-aS"(4201, u'(?i)(kines|kine)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6215, u'(?i)(racers|racer)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(1057, u'(?i)(humans|human)')"
-p55
-aS"(1414, u'(?i)(chars|char)')"
-p56
-aS"(5949, u'(?i)(dogs|dog)')"
-p57
-aS"(5799, u'(?i)(rodents|rodent)')"
-p58
-aS"(6753, u'(?i)(da|das)')"
-p59
-aS"(3726, u'(?i)(mates|mate)')"
-p60
-aS"(1683, u'(?i)(terns|tern)')"
-p61
-atp62
-Rp63
+atp46
+Rp47
 sb.

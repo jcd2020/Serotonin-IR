@@ -30,64 +30,40 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht1a'
 p19
-aS'5ht1a'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p25
-atp26
-Rp27
+((lp23
+tp24
+Rp25
 sS'year'
-p28
+p26
 V1996
-p29
+p27
 sS'agonists'
+p28
+g3
+((lp29
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p30
-g3
-((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p32
-aS"(169, u'\\\\bfenfluramine')"
-p33
-atp34
-Rp35
+aS"(163, u'\\\\bfenfluramine')"
+p31
+atp32
+Rp33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(1070, u'(?i)(pets|pet)')"
+((lp35
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p36
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(2323, u'(?i)(bees|bee)')"
-p39
-aS"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(867, u'(?i)(tits|tit)')"
-p41
-aS"(4091, u'(?i)(adults|adult)')"
-p42
-aS"(5967, u'(?i)(males|male)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(3592, u'(?i)(ravens|raven)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp39
+Rp40
 sb.

@@ -30,58 +30,36 @@ g3
 ((lp17
 S'5ht1a'
 p18
-aS'5ht5'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(364, u'(?i)(middles|middle)(-|\\\\s+)?(cerebrals|cerebral)(-|\\\\s+)?(arteries|artery)')"
+((lp22
+S"(364, u'(?i)\\\\b(middles|middle)(-|\\\\s+)?(cerebrals|cerebral)(-|\\\\s+)?(arteries|artery)\\\\b')"
+p23
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p24
-aS"(220, u'(?i)(striatums|striatum)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2004
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(1070, u'(?i)(pets|pet)')"
+((lp34
+S"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
+p35
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(6580, u'(?i)(dams|dam)')"
-p39
-aS"(1349, u'(?i)(rams|ram)')"
-p40
-aS"(3592, u'(?i)(ravens|raven)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(2809, u'(?i)(toms|tom)')"
-p46
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p47
-atp48
-Rp49
+atp37
+Rp38
 sb.

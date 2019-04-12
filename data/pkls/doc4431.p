@@ -38,52 +38,32 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p24
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V1990
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp30
+S"(45, u'\\\\bipsapirone')"
+p31
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p32
-aS"(50, u'\\\\bipsapirone')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp36
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(5967, u'(?i)(males|male)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1054, u'(?i)(homoes|homo)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-atp49
-Rp50
+atp39
+Rp40
 sb.

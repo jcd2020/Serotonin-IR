@@ -8,104 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(52, u'\\\\bmetergoline')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(34, u'\\\\bmetergoline')"
 p6
-aS"(35, u'\\\\bmetergoline')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht1b'
-p22
+p21
 aS'5ht1d'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-tp28
-Rp29
+((lp26
+tp27
+Rp28
 sS'year'
-p30
+p29
 V1989
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(74, u'\\\\bru ?24969')"
+((lp32
+S"(163, u'\\\\bfenfluramine')"
+p33
+aS"(11, u'\\\\bamphetamine')"
 p34
-aS"(196, u'\\\\bquipazine')"
+aS"(192, u'\\\\bquipazine')"
 p35
-aS"(169, u'\\\\bfenfluramine')"
+aS"(67, u'\\\\bru ?24969')"
 p36
-aS"(14, u'\\\\bamphetamine')"
+aS"(152, u'\\\\bnorfenfluramine')"
 p37
-aS"(158, u'\\\\bnorfenfluramine')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(2323, u'(?i)(bees|bee)')"
+((lp41
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+p42
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p43
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(2183, u'(?i)(gars|gar)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(853, u'(?i)(minas|mina)')"
-p52
-aS"(7094, u'(?i)(curs|cur)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(6682, u'(?i)(tera|teras)')"
-p55
-aS"(1057, u'(?i)(humans|human)')"
-p56
-aS"(1414, u'(?i)(chars|char)')"
-p57
-aS"(3196, u'(?i)(human|humans)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-atp60
-Rp61
+atp46
+Rp47
 sb.

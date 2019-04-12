@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(142, u'\\\\bm1')"
+S"(131, u'\\\\bm1')"
 p5
 atp6
 Rp7
@@ -42,17 +42,17 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(236, u'(?i)(septals|septal)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(236, u'(?i)\\\\b(septals|septal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p27
-aS"(290, u'(?i)(insulars|insular)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(290, u'(?i)\\\\b(insulars|insular)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(244, u'(?i)(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p30
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(244, u'(?i)\\\\b(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p31
 atp32
 Rp33
@@ -70,34 +70,12 @@ sS'species'
 p40
 g3
 ((lp41
-S"(5799, u'(?i)(rodents|rodent)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p42
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(81, u'(?i)(asps|asp)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(3592, u'(?i)(ravens|raven)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(6325, u'(?i)(caudates|caudate)')"
-p55
-atp56
-Rp57
+atp45
+Rp46
 sb.

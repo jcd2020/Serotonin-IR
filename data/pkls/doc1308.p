@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(140, u'\\\\brenzapride')"
+S"(129, u'\\\\brenzapride')"
 p5
-aS"(153, u'\\\\bgr ?113808')"
+aS"(150, u'\\\\bsb ?204070')"
 p6
-aS"(159, u'\\\\bsb ?204070')"
+aS"(144, u'\\\\bgr ?113808')"
 p7
 atp8
 Rp9
@@ -54,13 +54,13 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(207, u'\\\\brenzapride')"
+S"(198, u'\\\\bcisapride')"
 p33
-aS"(5, u'\\\\b5 ?ct')"
+aS"(203, u'\\\\brenzapride')"
 p34
-aS"(202, u'\\\\bcisapride')"
+aS"(149, u'\\\\bmem')"
 p35
-aS"(155, u'\\\\bmem')"
+aS"(219, u'\\\\b5 ?ct')"
 p36
 atp37
 Rp38
@@ -68,42 +68,14 @@ sS'species'
 p39
 g3
 ((lp40
-S"(1070, u'(?i)(pets|pet)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p42
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p43
-aS"(867, u'(?i)(tits|tit)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(3051, u'(?i)(pigs|pig)')"
-p46
-aS"(4163, u'(?i)(ermines|ermine)')"
-p47
-aS"(3062, u'(?i)(guineas|guinea)')"
-p48
-aS"(5131, u'(?i)(hags|hag)')"
-p49
-aS"(3404, u'(?i)(titis|titi)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(1414, u'(?i)(chars|char)')"
-p55
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p56
-aS"(821, u'(?i)(lice|louse)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-atp59
-Rp60
+atp45
+Rp46
 sb.

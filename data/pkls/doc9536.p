@@ -32,72 +32,44 @@ aS'5ht2c'
 p18
 aS'5ht1a'
 p19
-aS'5ht5a'
-p20
 aS'5ht2a'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(220, u'(?i)(striatums|striatum)')"
+((lp24
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p25
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p26
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp27
+Rp28
 sS'year'
-p31
+p29
 V2016
-p32
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(5, u'\\\\b5 ?meo ?dipt')"
 p33
-g3
-((lp34
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p35
-aS"(7, u'\\\\b5 ?meo ?dipt')"
-p36
-atp37
-Rp38
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p34
+atp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(2054, u'(?i)(heads|head)')"
+((lp38
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p39
+aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+p40
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3726, u'(?i)(mates|mate)')"
-p48
-aS"(6580, u'(?i)(dams|dam)')"
-p49
-aS"(2334, u'(?i)(eels|eel)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(5686, u'(?i)(foxes|fox)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+atp42
+Rp43
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(200, u'\\\\bmesulergine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(193, u'\\\\bmesulergine')"
 p6
 atp7
 Rp8
@@ -68,17 +68,17 @@ sS'agonists'
 p38
 g3
 ((lp39
-S"(33, u'\\\\bdoi')"
+S"(149, u'\\\\bmem')"
 p40
-aS"(171, u'\\\\bmesulergine')"
+aS"(165, u'\\\\bmesulergine')"
 p41
-aS"(209, u'\\\\brs ?67333')"
+aS"(175, u'\\\\bdoi')"
 p42
-aS"(161, u'\\\\bmcpp')"
+aS"(205, u'\\\\brs ?67333')"
 p43
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(155, u'\\\\bmcpp')"
 p44
-aS"(155, u'\\\\bmem')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p45
 atp46
 Rp47
@@ -86,28 +86,8 @@ sS'species'
 p48
 g3
 ((lp49
-S"(2054, u'(?i)(heads|head)')"
+S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(6857, u'(?i)(ormers|ormer)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(4163, u'(?i)(ermines|ermine)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-aS"(3550, u'(?i)(anis|ani)')"
-p58
-aS"(1961, u'(?i)(pens|pen)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-atp61
-Rp62
+atp51
+Rp52
 sb.

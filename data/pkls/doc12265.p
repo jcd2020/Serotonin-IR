@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p24
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,38 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(1070, u'(?i)(pets|pet)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p36
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p37
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p38
-aS"(6125, u'(?i)(females|female)')"
-p39
-aS"(702, u'(?i)(genets|genet)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(5967, u'(?i)(males|male)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(2809, u'(?i)(toms|tom)')"
-p51
-atp52
-Rp53
+atp39
+Rp40
 sb.

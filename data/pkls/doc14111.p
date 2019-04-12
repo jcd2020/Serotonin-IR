@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -38,54 +38,36 @@ g3
 ((lp21
 S'5ht1a'
 p22
-aS'5ht5'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+((lp26
+tp27
+Rp28
 sS'year'
-p31
+p29
 V2018
-p32
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(37, u'\\\\bf ?13714')"
 p33
-g3
-((lp34
-S"(95, u'\\\\bf ?15599')"
-p35
-aS"(42, u'\\\\bf ?13714')"
-p36
-atp37
-Rp38
+aS"(88, u'\\\\bf ?15599')"
+p34
+atp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(5967, u'(?i)(males|male)')"
-p42
-aS"(4163, u'(?i)(ermines|ermine)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(7094, u'(?i)(curs|cur)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+((lp38
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p39
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

@@ -52,11 +52,11 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(195, u'\\\\bphenylbiguanide')"
+S"(149, u'\\\\bmem')"
 p32
-aS"(196, u'\\\\bquipazine')"
+aS"(192, u'\\\\bquipazine')"
 p33
-aS"(155, u'\\\\bmem')"
+aS"(191, u'\\\\bphenylbiguanide')"
 p34
 atp35
 Rp36
@@ -64,42 +64,12 @@ sS'species'
 p37
 g3
 ((lp38
-S"(6753, u'(?i)(da|das)')"
+S"(7003, u'(?i)\\\\b(murines|murine)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(3137, u'(?i)(iguanids|iguanid)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(867, u'(?i)(tits|tit)')"
-p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(7003, u'(?i)(murines|murine)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(1054, u'(?i)(homoes|homo)')"
-p48
-aS"(853, u'(?i)(minas|mina)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6878, u'(?i)(guans|guan)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+atp42
+Rp43
 sb.

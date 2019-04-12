@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(95, u'\\\\bsb ?206553')"
+S"(84, u'\\\\bsb ?206553')"
 p5
 atp6
 Rp7
@@ -36,56 +36,38 @@ g3
 ((lp20
 S'5ht1b'
 p21
-aS'5ht5'
-p22
 aS'5ht2b'
-p23
+p22
 aS'5ht2c'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(54, u'(?i)(medials|medial)(-|\\\\s+)?(parabrachials|parabrachial)(-|\\\\s+)?(nuclei|nucleus)')"
-p29
-atp30
-Rp31
+((lp27
+S"(54, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(parabrachials|parabrachial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2006
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(161, u'\\\\bmcpp')"
-p36
-atp37
-Rp38
+((lp34
+S"(155, u'\\\\bmcpp')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(2670, u'(?i)(arabs|arab)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-atp50
-Rp51
+((lp39
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(58, u'\\\\bhaloperidol')"
 p5
 atp6
 Rp7
@@ -42,40 +42,26 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V1997
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp31
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p32
+aS"(43, u'\\\\bhaloperidol')"
 p33
-aS"(48, u'\\\\bhaloperidol')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-atp45
-Rp46
+((lp37
+tp38
+Rp39
 sb.

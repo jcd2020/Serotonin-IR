@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(100, u'\\\\beltoprazine')"
+S"(89, u'\\\\beltoprazine')"
 p5
 atp6
 Rp7
@@ -40,13 +40,13 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(105, u'(?i)(par|pars)(-|\\\\s+)?(reticulatas|reticulata)')"
+S"(105, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(reticulatas|reticulata)\\\\b')"
 p25
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p26
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p27
-aS"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p28
 atp29
 Rp30
@@ -58,7 +58,7 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(36, u'\\\\beltoprazine')"
+S"(31, u'\\\\beltoprazine')"
 p35
 atp36
 Rp37
@@ -66,30 +66,8 @@ sS'species'
 p38
 g3
 ((lp39
-S"(6753, u'(?i)(da|das)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(4201, u'(?i)(kines|kine)')"
-p44
-aS"(6682, u'(?i)(tera|teras)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(853, u'(?i)(minas|mina)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-atp52
-Rp53
+atp41
+Rp42
 sb.

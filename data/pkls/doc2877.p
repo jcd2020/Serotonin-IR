@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\byohimbine')"
+S"(33, u'\\\\byohimbine')"
 p5
 aS"(17, u'\\\\bnan ?190')"
 p6
@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(89, u'\\\\byohimbine')"
+S"(82, u'\\\\byohimbine')"
 p34
 atp35
 Rp36
@@ -64,36 +64,10 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(163, u'(?i)(mice|mouse)')"
-p42
-aS"(5967, u'(?i)(males|male)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(3191, u'(?i)(worlds|world)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(2809, u'(?i)(toms|tom)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+atp41
+Rp42
 sb.

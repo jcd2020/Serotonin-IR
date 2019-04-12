@@ -34,11 +34,11 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p22
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p23
-aS"(118, u'(?i)(diencephalons|diencephalon)')"
+aS"(118, u'(?i)\\\\b(diencephalons|diencephalon)\\\\b')"
 p24
 atp25
 Rp26
@@ -56,28 +56,8 @@ sS'species'
 p33
 g3
 ((lp34
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(7609, u'(?i)(erns|ern)')"
-p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(1961, u'(?i)(pens|pen)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-aS"(1683, u'(?i)(terns|tern)')"
-p45
-atp46
-Rp47
+atp36
+Rp37
 sb.

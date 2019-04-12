@@ -42,60 +42,32 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2013
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
+((lp35
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+p36
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p37
-aS"(6125, u'(?i)(females|female)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p38
-aS"(5743, u'(?i)(bots|bot)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p39
-aS"(479, u'(?i)(lings|ling)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(5967, u'(?i)(males|male)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(1057, u'(?i)(humans|human)')"
-p48
-aS"(5917, u'(?i)(roaches|roach)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(3196, u'(?i)(human|humans)')"
-p52
-aS"(3569, u'(?i)(constrictors|constrictor)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+atp41
+Rp42
 sb.

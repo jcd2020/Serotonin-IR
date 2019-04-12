@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(39, u'\\\\bsb ?224289')"
+S"(38, u'\\\\bsb ?224289')"
 p5
 atp6
 Rp7
@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,9 +54,9 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(103, u'\\\\bsumatriptan')"
+S"(96, u'\\\\bsumatriptan')"
 p33
-aS"(107, u'\\\\bcp ?93129')"
+aS"(100, u'\\\\bcp ?93129')"
 p34
 atp35
 Rp36
@@ -64,32 +64,12 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p39
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6642, u'(?i)(lions|lion)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+atp42
+Rp43
 sb.

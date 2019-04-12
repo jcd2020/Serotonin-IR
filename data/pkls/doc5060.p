@@ -38,54 +38,28 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(126, u'(?i)(thalamuses|thalamus)')"
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p24
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
-p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+atp25
+Rp26
 sS'year'
-p29
+p27
 V2005
-p30
+p28
 sS'agonists'
-p31
+p29
 g3
-((lp32
-tp33
-Rp34
+((lp30
+tp31
+Rp32
 sS'species'
-p35
+p33
 g3
-((lp36
-S"(2323, u'(?i)(bees|bee)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(4201, u'(?i)(kines|kine)')"
-p39
-aS"(4177, u'(?i)(grays|gray)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(2665, u'(?i)(rays|ray)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(107, u'(?i)(stags|stag)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(2809, u'(?i)(toms|tom)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+((lp34
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p35
+aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

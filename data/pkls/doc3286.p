@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -42,9 +42,9 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(220, u'(?i)(striatums|striatum)')"
+S"(310, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)\\\\b')"
 p26
-aS"(310, u'(?i)(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p34
 atp35
 Rp36
@@ -64,32 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(6753, u'(?i)(da|das)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(4201, u'(?i)(kines|kine)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-atp52
-Rp53
+atp40
+Rp41
 sb.

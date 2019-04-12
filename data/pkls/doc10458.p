@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(55, u'\\\\bnefazodone')"
+S"(49, u'\\\\bnefazodone')"
 p5
-aS"(64, u'\\\\bly ?367265')"
+aS"(55, u'\\\\bly ?367265')"
 p6
 atp7
 Rp8
@@ -58,7 +58,7 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(63, u'\\\\bnefazodone')"
+S"(56, u'\\\\bnefazodone')"
 p35
 atp36
 Rp37
@@ -66,30 +66,14 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p41
-aS"(5743, u'(?i)(bots|bot)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p42
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(3062, u'(?i)(guineas|guinea)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p50
-aS"(821, u'(?i)(lice|louse)')"
-p51
-atp52
-Rp53
+atp44
+Rp45
 sb.

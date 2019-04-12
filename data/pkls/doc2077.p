@@ -8,114 +8,80 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(54, u'\\\\britanserin')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(52, u'\\\\bmdl ?100907')"
 p7
-aS"(130, u'\\\\britanserin')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(14, u'\\\\bpsychosis')"
-p18
+p17
 aS"(4, u'\\\\blocomot')"
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
-S'5ht5'
-p24
-aS'5ht2'
-p25
+((lp22
+S'5ht2'
+p23
 aS'5ht2a'
-p26
-atp27
-Rp28
+p24
+atp25
+Rp26
 sS'regions'
+p27
+g3
+((lp28
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p29
-g3
-((lp30
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p30
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p31
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p32
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-aS"(220, u'(?i)(striatums|striatum)')"
-p35
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p36
-atp37
-Rp38
+atp34
+Rp35
 sS'year'
-p39
+p36
 V2015
-p40
+p37
 sS'agonists'
+p38
+g3
+((lp39
+S"(11, u'\\\\bamphetamine')"
+p40
+aS"(43, u'\\\\bhaloperidol')"
 p41
-g3
-((lp42
-S"(48, u'\\\\bhaloperidol')"
-p43
-aS"(14, u'\\\\bamphetamine')"
-p44
-atp45
-Rp46
+atp42
+Rp43
 sS'species'
-p47
+p44
 g3
-((lp48
-S"(6753, u'(?i)(da|das)')"
-p49
-aS"(2568, u'(?i)(hens|hen)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(1415, u'(?i)(charrs|charr)')"
-p55
-aS"(1054, u'(?i)(homoes|homo)')"
-p56
-aS"(4964, u'(?i)(serins|serin)')"
-p57
-aS"(3550, u'(?i)(anis|ani)')"
-p58
-aS"(1961, u'(?i)(pens|pen)')"
-p59
-aS"(1414, u'(?i)(chars|char)')"
-p60
-aS"(6391, u'(?i)(asses|ass)')"
-p61
-aS"(6325, u'(?i)(caudates|caudate)')"
-p62
-aS"(5743, u'(?i)(bots|bot)')"
-p63
-aS"(6356, u'(?i)(ais|ai)')"
-p64
-atp65
-Rp66
+((lp45
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p46
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

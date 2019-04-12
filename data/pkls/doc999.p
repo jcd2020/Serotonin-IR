@@ -38,60 +38,36 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2006
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p32
-atp33
-Rp34
+((lp30
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(1688, u'(?i)(ounces|ounce)')"
+((lp35
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p36
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p38
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(702, u'(?i)(genets|genet)')"
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(2054, u'(?i)(heads|head)')"
-p42
-aS"(5967, u'(?i)(males|male)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(3152, u'(?i)(layers|layer)')"
-p45
-aS"(1054, u'(?i)(homoes|homo)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(2395, u'(?i)(mutants|mutant)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(1683, u'(?i)(terns|tern)')"
-p52
-atp53
-Rp54
+atp41
+Rp42
 sb.

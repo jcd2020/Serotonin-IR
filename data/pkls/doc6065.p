@@ -8,100 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(130, u'\\\\britanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(8, u'\\\\blearning')"
-p17
+p16
 aS"(35, u'\\\\bstress')"
-p18
+p17
 aS"(7, u'\\\\bmemory')"
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
-S'5ht5'
-p24
-aS'5ht2a'
-p25
-atp26
-Rp27
+((lp22
+S'5ht2a'
+p23
+atp24
+Rp25
 sS'regions'
+p26
+g3
+((lp27
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-g3
-((lp29
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(231, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(forebrains|forebrain)\\\\b')"
+p29
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p31
-aS"(231, u'(?i)(basals|basal)(-|\\\\s+)?(forebrains|forebrain)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp31
+Rp32
 sS'year'
-p36
+p33
 V2007
-p37
+p34
 sS'agonists'
-p38
+p35
 g3
-((lp39
-S"(155, u'\\\\bmem')"
-p40
-atp41
-Rp42
+((lp36
+S"(149, u'\\\\bmem')"
+p37
+atp38
+Rp39
 sS'species'
-p43
+p40
 g3
-((lp44
-S"(2323, u'(?i)(bees|bee)')"
-p45
-aS"(6635, u'(?i)(bigs|big)(-|\\\\s+)?(browns|brown)(-|\\\\s+)?(bats|bat)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(2802, u'(?i)(browns|brown)(-|\\\\s+)?(bats|bat)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(4964, u'(?i)(serins|serin)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(7552, u'(?i)(bats|bat)')"
-p57
-atp58
-Rp59
+((lp41
+S"(6635, u'(?i)\\\\b(bigs|big)(-|\\\\s+)?(browns|brown)(-|\\\\s+)?(bats|bat)\\\\b')"
+p42
+aS"(2802, u'(?i)\\\\b(browns|brown)(-|\\\\s+)?(bats|bat)\\\\b')"
+p43
+aS"(7552, u'(?i)\\\\b(bats|bat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

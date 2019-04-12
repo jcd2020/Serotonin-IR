@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(302, u'(?i)(corpuses|corpus)(-|\\\\s+)?(callosums|callosum)')"
+S"(302, u'(?i)\\\\b(corpuses|corpus)(-|\\\\s+)?(callosums|callosum)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,30 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(2670, u'(?i)(arabs|arab)')"
+aS"(2942, u'(?i)\\\\b(daws|daw)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(1049, u'(?i)(elands|eland)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(4163, u'(?i)(ermines|ermine)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(2942, u'(?i)(daws|daw)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-atp48
-Rp49
+atp38
+Rp39
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(126, u'\\\\bcinanserin')"
+S"(115, u'\\\\bcinanserin')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
 atp7
 Rp8
@@ -46,58 +46,32 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p28
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2006
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-tp36
-Rp37
+((lp34
+tp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp38
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p39
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p40
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(5967, u'(?i)(males|male)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(2942, u'(?i)(daws|daw)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(4964, u'(?i)(serins|serin)')"
-p55
-atp56
-Rp57
+atp43
+Rp44
 sb.

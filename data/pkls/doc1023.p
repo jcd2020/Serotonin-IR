@@ -38,42 +38,26 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2011
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(2323, u'(?i)(bees|bee)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(1961, u'(?i)(pens|pen)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-atp44
-Rp45
+((lp35
+tp36
+Rp37
 sb.

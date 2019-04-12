@@ -8,100 +8,64 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(119, u'\\\\britanserin')"
 p6
-aS"(54, u'\\\\britanserin')"
-p7
-aS"(130, u'\\\\britanserin')"
-p8
-atp9
-Rp10
+atp7
+Rp8
 sS'methods'
-p11
+p9
 g3
-((lp12
+((lp10
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p11
+atp12
+Rp13
 sS'topics'
-p16
+p14
 g3
-((lp17
+((lp15
 S"(4, u'\\\\blocomot')"
-p18
-atp19
-Rp20
+p16
+atp17
+Rp18
 sS'receptors'
-p21
+p19
 g3
-((lp22
+((lp20
 S'5ht2a'
-p23
-atp24
-Rp25
+p21
+atp22
+Rp23
 sS'regions'
-p26
+p24
 g3
-((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+((lp25
+tp26
+Rp27
 sS'year'
-p31
+p28
 V1995
-p32
+p29
 sS'agonists'
-p33
+p30
 g3
-((lp34
-tp35
-Rp36
+((lp31
+tp32
+Rp33
 sS'species'
-p37
+p34
 g3
-((lp38
-S"(2323, u'(?i)(bees|bee)')"
+((lp35
+S"(5150, u'(?i)\\\\b(gerbils|gerbil)\\\\b')"
+p36
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+aS"(3569, u'(?i)\\\\b(constrictors|constrictor)\\\\b')"
 p39
-aS"(5537, u'(?i)(hippos|hippo)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(5150, u'(?i)(gerbils|gerbil)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6580, u'(?i)(dams|dam)')"
-p48
-aS"(853, u'(?i)(minas|mina)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(3048, u'(?i)(hogs|hog)')"
-p54
-aS"(3569, u'(?i)(constrictors|constrictor)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-aS"(4964, u'(?i)(serins|serin)')"
-p57
-atp58
-Rp59
+atp40
+Rp41
 sb.

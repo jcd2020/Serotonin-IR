@@ -8,118 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(27, u'\\\\bspiperone')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(123, u'\\\\bclozapine')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
-aS"(56, u'\\\\bclozapine')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(220, u'(?i)(striatums|striatum)')"
+((lp26
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p27
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p28
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p30
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
-p31
-atp32
-Rp33
+atp30
+Rp31
 sS'year'
-p34
+p32
 V2004
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(23, u'\\\\bclozapine')"
 p36
-g3
-((lp37
-S"(48, u'\\\\bhaloperidol')"
+aS"(149, u'\\\\bmem')"
+p37
+aS"(43, u'\\\\bhaloperidol')"
 p38
-aS"(155, u'\\\\bmem')"
-p39
-aS"(27, u'\\\\bclozapine')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(4163, u'(?i)(ermines|ermine)')"
+((lp42
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p43
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(3196, u'(?i)(human|humans)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(1070, u'(?i)(pets|pet)')"
-p53
-aS"(1049, u'(?i)(elands|eland)')"
-p54
-aS"(3404, u'(?i)(titis|titi)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(5537, u'(?i)(hippos|hippo)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(867, u'(?i)(tits|tit)')"
-p59
-aS"(1055, u'(?i)(men|man)')"
-p60
-aS"(6753, u'(?i)(da|das)')"
-p61
-aS"(1057, u'(?i)(humans|human)')"
-p62
-aS"(4371, u'(?i)(lizas|liza)')"
-p63
-aS"(1414, u'(?i)(chars|char)')"
-p64
-aS"(2568, u'(?i)(hens|hen)')"
-p65
-aS"(4979, u'(?i)(cats|cat)')"
-p66
-atp67
-Rp68
+atp47
+Rp48
 sb.

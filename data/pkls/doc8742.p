@@ -44,64 +44,30 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2017
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
-p36
-atp37
-Rp38
+((lp34
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(2323, u'(?i)(bees|bee)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(3601, u'(?i)(efts|eft)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(3726, u'(?i)(mates|mate)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(7094, u'(?i)(curs|cur)')"
-p53
-aS"(1414, u'(?i)(chars|char)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(4979, u'(?i)(cats|cat)')"
-p57
-atp58
-Rp59
+((lp39
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+atp41
+Rp42
 sb.

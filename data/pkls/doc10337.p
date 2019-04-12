@@ -56,44 +56,22 @@ sS'species'
 p33
 g3
 ((lp34
-S"(1070, u'(?i)(pets|pet)')"
+S"(6393, u'(?i)\\\\b(africans|african)(-|\\\\s+)?(greens|green)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p35
-aS"(6392, u'(?i)(greens|green)(-|\\\\s+)?(monkeys|monkey)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p36
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p37
-aS"(6393, u'(?i)(africans|african)(-|\\\\s+)?(greens|green)(-|\\\\s+)?(monkeys|monkey)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p38
-aS"(2401, u'(?i)(primates|primate)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p39
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p40
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(6392, u'(?i)\\\\b(greens|green)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p41
-aS"(1055, u'(?i)(men|man)')"
+aS"(699, u'(?i)\\\\b(vervets|vervet)\\\\b')"
 p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(6215, u'(?i)(racers|racer)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(1057, u'(?i)(humans|human)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p52
-aS"(699, u'(?i)(vervets|vervet)')"
-p53
-atp54
-Rp55
+atp43
+Rp44
 sb.

@@ -8,96 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(130, u'\\\\bzacopride')"
 p5
 aS"(6, u'\\\\bcyproheptadine')"
 p6
-aS"(34, u'\\\\byohimbine')"
+aS"(133, u'\\\\bmianserin')"
 p7
-aS"(141, u'\\\\bzacopride')"
+aS"(53, u'\\\\bcyproheptadine')"
 p8
-aS"(62, u'\\\\bcyproheptadine')"
+aS"(117, u'\\\\bketanserin')"
 p9
-aS"(128, u'\\\\bketanserin')"
+aS"(33, u'\\\\byohimbine')"
 p10
-aS"(117, u'\\\\bmianserin')"
-p11
-atp12
-Rp13
+atp11
+Rp12
 sS'methods'
-p14
+p13
 g3
-((lp15
+((lp14
 S'Method.ANTAGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
-tp21
-Rp22
+((lp19
+tp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht1c'
-p25
+p24
 aS'5ht4'
-p26
+p25
 aS'5ht3a'
-p27
+p26
 aS'5ht2'
-p28
-atp29
-Rp30
+p27
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'year'
-p35
+p34
 V1997
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(89, u'\\\\byohimbine')"
+((lp37
+S"(208, u'\\\\bzacopride')"
+p38
+aS"(82, u'\\\\byohimbine')"
 p39
-aS"(212, u'\\\\bzacopride')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(6753, u'(?i)(da|das)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(163, u'(?i)(mice|mouse)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(4964, u'(?i)(serins|serin)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+((lp43
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p44
+atp45
+Rp46
 sb.

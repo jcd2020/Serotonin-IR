@@ -40,60 +40,34 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1994
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp30
+S"(20, u'\\\\bbuspirone')"
+p31
+aS"(45, u'\\\\bipsapirone')"
 p32
-aS"(24, u'\\\\bbuspirone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p33
-aS"(50, u'\\\\bipsapirone')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp37
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p38
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p39
-aS"(1688, u'(?i)(ounces|ounce)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(81, u'(?i)(asps|asp)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(3062, u'(?i)(guineas|guinea)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(3051, u'(?i)(pigs|pig)')"
-p47
-aS"(853, u'(?i)(minas|mina)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p53
-atp54
-Rp55
+atp41
+Rp42
 sb.

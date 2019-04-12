@@ -26,84 +26,52 @@ sS'receptors'
 p15
 g3
 ((lp16
-S'5ht5'
+S'5ht4'
 p17
-aS'5ht4'
-p18
-atp19
-Rp20
+atp18
+Rp19
 sS'regions'
-p21
+p20
 g3
-((lp22
-S"(224, u'(?i)(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp21
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p22
+aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p23
-aS"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p24
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p25
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p26
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p27
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2000
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(155, u'\\\\bmem')"
-p35
-atp36
-Rp37
+((lp33
+S"(149, u'\\\\bmem')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp38
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p39
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
+aS"(5863, u'(?i)\\\\b(entires|entire)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(7488, u'(?i)(molas|mola)')"
-p47
-aS"(1054, u'(?i)(homoes|homo)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1057, u'(?i)(humans|human)')"
-p51
-aS"(4371, u'(?i)(lizas|liza)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(3196, u'(?i)(human|humans)')"
-p54
-aS"(391, u'(?i)(alli|allis)')"
-p55
-aS"(2809, u'(?i)(toms|tom)')"
-p56
-aS"(6325, u'(?i)(caudates|caudate)')"
-p57
-aS"(5863, u'(?i)(entires|entire)')"
-p58
-atp59
-Rp60
+atp43
+Rp44
 sb.

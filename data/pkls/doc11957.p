@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bgranisetron')"
+S"(123, u'\\\\bgranisetron')"
 p5
 atp6
 Rp7
@@ -32,66 +32,40 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht3'
 p20
-aS'5ht3'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(374, u'(?i)(duras|dura)(-|\\\\s+)?(maters|mater)')"
+((lp24
+S"(374, u'(?i)\\\\b(duras|dura)(-|\\\\s+)?(maters|mater)\\\\b')"
+p25
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p26
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp27
+Rp28
 sS'year'
-p31
+p29
 V2018
-p32
+p30
 sS'agonists'
-p33
+p31
 g3
-((lp34
-tp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(6249, u'(?i)(ants|ant)')"
+((lp36
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p37
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5626, u'(?i)(posters|poster)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(5967, u'(?i)(males|male)')"
-p44
-aS"(3592, u'(?i)(ravens|raven)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(853, u'(?i)(minas|mina)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(7058, u'(?i)(does|doe)')"
-p52
-atp53
-Rp54
+atp40
+Rp41
 sb.

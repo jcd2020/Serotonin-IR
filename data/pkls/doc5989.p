@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -40,68 +40,40 @@ sS'receptors'
 p22
 g3
 ((lp23
-S'5ht5'
+S'5ht1a'
 p24
-aS'5ht1a'
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'year'
-p32
+p31
 V2018
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp34
+S"(20, u'\\\\bbuspirone')"
+p35
+aS"(37, u'\\\\bf ?13714')"
 p36
-aS"(42, u'\\\\bf ?13714')"
+aS"(88, u'\\\\bf ?15599')"
 p37
-aS"(24, u'\\\\bbuspirone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p38
-aS"(95, u'\\\\bf ?15599')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
-p44
-aS"(1688, u'(?i)(ounces|ounce)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(867, u'(?i)(tits|tit)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(479, u'(?i)(lings|ling)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(1414, u'(?i)(chars|char)')"
-p54
-aS"(4624, u'(?i)(apes|ape)')"
-p55
-aS"(1795, u'(?i)(mounts|mount)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+((lp42
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

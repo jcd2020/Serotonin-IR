@@ -46,7 +46,7 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p28
 atp29
 Rp30
@@ -58,7 +58,7 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p35
 atp36
 Rp37
@@ -66,40 +66,8 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2323, u'(?i)(bees|bee)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(4371, u'(?i)(lizas|liza)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(853, u'(?i)(minas|mina)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(5863, u'(?i)(entires|entire)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(1795, u'(?i)(mounts|mount)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-atp57
-Rp58
+atp41
+Rp42
 sb.

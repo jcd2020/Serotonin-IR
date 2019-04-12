@@ -58,40 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(4301, u'(?i)(hydras|hydra)')"
+S"(3381, u'(?i)\\\\b(flies|fly)\\\\b')"
 p36
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3671, u'(?i)\\\\b(drosophilas|drosophila)\\\\b')"
 p38
-aS"(5743, u'(?i)(bots|bot)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(5967, u'(?i)(males|male)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(3381, u'(?i)(flies|fly)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(3671, u'(?i)(drosophilas|drosophila)')"
-p52
-atp53
-Rp54
+atp39
+Rp40
 sb.

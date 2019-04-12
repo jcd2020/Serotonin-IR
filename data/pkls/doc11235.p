@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -44,50 +44,30 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+tp27
+Rp28
 sS'year'
-p30
+p29
 V1994
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp32
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p33
+aS"(163, u'\\\\bfenfluramine')"
 p34
-aS"(169, u'\\\\bfenfluramine')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(2568, u'(?i)(hens|hen)')"
+((lp38
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p39
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(5967, u'(?i)(males|male)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1349, u'(?i)(rams|ram)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(3522, u'(?i)(tetras|tetra)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-atp51
-Rp52
+atp41
+Rp42
 sb.

@@ -44,7 +44,7 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(234, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(basali|basalis)')"
+S"(234, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(basali|basalis)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p34
 atp35
 Rp36
@@ -64,32 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(2389, u'(?i)(spats|spat)')"
-p42
-aS"(1885, u'(?i)(apars|apar)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(5176, u'(?i)(tegs|teg)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+atp40
+Rp41
 sb.

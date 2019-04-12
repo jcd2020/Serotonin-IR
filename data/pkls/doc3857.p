@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p32
 atp33
 Rp34
@@ -60,36 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(2401, u'(?i)(primates|primate)')"
-p39
-aS"(7539, u'(?i)(mammals|mammal)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(3726, u'(?i)(mates|mate)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(7094, u'(?i)(curs|cur)')"
-p48
-aS"(4371, u'(?i)(lizas|liza)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+atp39
+Rp40
 sb.

@@ -52,10 +52,6 @@ sS'species'
 p31
 g3
 ((lp32
-S"(7604, u'(?i)(cyclop|cyclops)')"
-p33
-aS"(6249, u'(?i)(ants|ant)')"
-p34
-atp35
-Rp36
+tp33
+Rp34
 sb.

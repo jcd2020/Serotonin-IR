@@ -8,88 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.PET'
-p11
+p10
 aS'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(15, u'\\\\bschizophreni')"
-p18
+p17
 aS"(9, u'\\\\bdepress')"
-p19
+p18
 aS"(33, u'\\\\balzheimers')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'year'
-p32
+p31
 V2016
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(137, u'\\\\bcimbi ?36')"
-p36
-atp37
-Rp38
+((lp34
+S"(130, u'\\\\bcimbi ?36')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(1070, u'(?i)(pets|pet)')"
+((lp39
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p40
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p41
-aS"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(3051, u'(?i)(pigs|pig)')"
-p44
-aS"(3592, u'(?i)(ravens|raven)')"
-p45
-aS"(4964, u'(?i)(serins|serin)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(5917, u'(?i)(roaches|roach)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+atp42
+Rp43
 sb.

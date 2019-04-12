@@ -36,64 +36,42 @@ g3
 ((lp20
 S'5ht4a'
 p21
-aS'5ht5'
-p22
 aS'5ht4'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-tp28
-Rp29
+((lp26
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2013
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(206, u'\\\\bprucalopride')"
-p34
-atp35
-Rp36
+((lp32
+S"(202, u'\\\\bprucalopride')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(1070, u'(?i)(pets|pet)')"
+((lp37
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p39
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(4201, u'(?i)(kines|kine)')"
-p43
-aS"(5967, u'(?i)(males|male)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(1057, u'(?i)(humans|human)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(2809, u'(?i)(toms|tom)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+atp43
+Rp44
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(142, u'\\\\bm1')"
+S"(131, u'\\\\bm1')"
 p5
 atp6
 Rp7
@@ -40,62 +40,30 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2003
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(56, u'\\\\blsd')"
+((lp30
+S"(158, u'\\\\blsd')"
+p31
+aS"(49, u'\\\\blysergic acid diethylamide')"
 p32
-aS"(55, u'\\\\blysergic acid diethylamide')"
+aS"(176, u'\\\\bdom')"
 p33
-aS"(181, u'\\\\bdom')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(6753, u'(?i)(da|das)')"
-p39
-aS"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(3527, u'(?i)(permits|permit)')"
-p41
-aS"(867, u'(?i)(tits|tit)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(4371, u'(?i)(lizas|liza)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+((lp37
+S"(3527, u'(?i)\\\\b(permits|permit)\\\\b')"
+p38
+atp39
+Rp40
 sb.

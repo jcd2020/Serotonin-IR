@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(81, u'\\\\bagomelatine')"
+S"(72, u'\\\\bagomelatine')"
 p5
-aS"(213, u'\\\\bpaliperidone')"
+aS"(207, u'\\\\bpaliperidone')"
 p6
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(52, u'\\\\bmdl ?100907')"
 p7
 atp8
 Rp9
@@ -36,76 +36,48 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht5'
+S'5ht1a'
 p22
-aS'5ht1a'
-p23
 aS'5ht2c'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp28
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p30
-aS"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p31
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p32
-aS"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
-p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'year'
-p37
+p35
 V2013
-p38
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(175, u'\\\\bdoi')"
 p39
-g3
-((lp40
-S"(33, u'\\\\bdoi')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(5537, u'(?i)(hippos|hippo)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(2568, u'(?i)(hens|hen)')"
-p48
-aS"(5176, u'(?i)(tegs|teg)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(7094, u'(?i)(curs|cur)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(6391, u'(?i)(asses|ass)')"
-p58
-aS"(4133, u'(?i)(pikes|pike)')"
-p59
-atp60
-Rp61
+((lp43
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

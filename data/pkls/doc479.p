@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
 atp6
 Rp7
@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(2, u'(?i)(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)')"
+S"(2, u'(?i)\\\\b(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(195, u'\\\\bphenylbiguanide')"
+S"(191, u'\\\\bphenylbiguanide')"
 p32
 atp33
 Rp34
@@ -60,30 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(6249, u'(?i)(ants|ant)')"
+S"(81, u'(?i)\\\\b(asps|asp)\\\\b')"
 p37
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(81, u'(?i)(asps|asp)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(6215, u'(?i)(racers|racer)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(6878, u'(?i)(guans|guan)')"
-p47
-aS"(5949, u'(?i)(dogs|dog)')"
-p48
-atp49
-Rp50
+atp39
+Rp40
 sb.

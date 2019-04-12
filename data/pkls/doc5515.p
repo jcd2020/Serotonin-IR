@@ -22,27 +22,27 @@ sS'topics'
 p12
 g3
 ((lp13
-S"(10, u'\\\\banxiety')"
+S"(36, u'\\\\bcompulsiv')"
 p14
-aS"(4, u'\\\\blocomot')"
+aS"(10, u'\\\\banxiety')"
 p15
-atp16
-Rp17
+aS"(4, u'\\\\blocomot')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
+((lp20
 S'5ht1a'
-p20
-atp21
-Rp22
+p21
+atp22
+Rp23
 sS'regions'
-p23
+p24
 g3
-((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
+((lp25
+tp26
 Rp27
 sS'year'
 p28
@@ -58,34 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(4624, u'(?i)(apes|ape)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(867, u'(?i)(tits|tit)')"
-p39
-aS"(163, u'(?i)(mice|mouse)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(7094, u'(?i)(curs|cur)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(1414, u'(?i)(chars|char)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+atp38
+Rp39
 sb.

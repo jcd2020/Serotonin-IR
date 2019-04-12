@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(136, u'\\\\btropisetron')"
+S"(6, u'\\\\bcyproheptadine')"
 p5
-aS"(6, u'\\\\bcyproheptadine')"
+aS"(53, u'\\\\bcyproheptadine')"
 p6
-aS"(135, u'\\\\bondansetron')"
+aS"(124, u'\\\\bondansetron')"
 p7
-aS"(62, u'\\\\bcyproheptadine')"
+aS"(125, u'\\\\btropisetron')"
 p8
 atp9
 Rp10
@@ -62,30 +62,8 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2568, u'(?i)(hens|hen)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(867, u'(?i)(tits|tit)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+atp39
+Rp40
 sb.

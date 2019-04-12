@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bsb ?242084')"
+S"(99, u'\\\\bsb ?242084')"
 p5
 atp6
 Rp7
@@ -34,68 +34,40 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht2c'
 p21
-aS'5ht2c'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+((lp25
+tp26
+Rp27
 sS'year'
-p30
+p28
 V2013
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(141, u'\\\\bro60 ?0175')"
 p32
-g3
-((lp33
-S"(14, u'\\\\bamphetamine')"
-p34
-aS"(147, u'\\\\bro60 ?0175')"
-p35
-atp36
-Rp37
+aS"(11, u'\\\\bamphetamine')"
+p33
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(2568, u'(?i)(hens|hen)')"
+((lp37
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p38
+aS"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p39
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(702, u'(?i)(genets|genet)')"
-p41
-aS"(163, u'(?i)(mice|mouse)')"
-p42
-aS"(81, u'(?i)(asps|asp)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1054, u'(?i)(homoes|homo)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(2395, u'(?i)(mutants|mutant)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(7058, u'(?i)(does|doe)')"
-p53
-aS"(7552, u'(?i)(bats|bat)')"
-p54
-atp55
-Rp56
+atp41
+Rp42
 sb.

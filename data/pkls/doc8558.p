@@ -44,11 +44,11 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p27
-aS"(224, u'(?i)(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p29
 atp30
 Rp31
@@ -66,42 +66,12 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2323, u'(?i)(bees|bee)')"
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(702, u'(?i)(genets|genet)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(2665, u'(?i)(rays|ray)')"
-p47
-aS"(6215, u'(?i)(racers|racer)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(1057, u'(?i)(humans|human)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(3196, u'(?i)(human|humans)')"
-p54
-aS"(2809, u'(?i)(toms|tom)')"
-p55
-aS"(6325, u'(?i)(caudates|caudate)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+atp43
+Rp44
 sb.

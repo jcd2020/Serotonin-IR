@@ -38,66 +38,34 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V1991
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(195, u'\\\\bphenylbiguanide')"
+((lp30
+S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+p31
+aS"(192, u'\\\\bquipazine')"
 p32
-aS"(196, u'\\\\bquipazine')"
+aS"(191, u'\\\\bphenylbiguanide')"
 p33
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(1070, u'(?i)(pets|pet)')"
+((lp37
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(1688, u'(?i)(ounces|ounce)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(3726, u'(?i)(mates|mate)')"
-p47
-aS"(1054, u'(?i)(homoes|homo)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(7094, u'(?i)(curs|cur)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(6878, u'(?i)(guans|guan)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-atp56
-Rp57
+atp40
+Rp41
 sb.

@@ -8,106 +8,80 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(203, u'\\\\btfmpp')"
 p7
-aS"(209, u'\\\\btfmpp')"
+aS"(117, u'\\\\bketanserin')"
 p8
-aS"(102, u'\\\\bfluoxetine')"
+aS"(194, u'\\\\bmethysergide')"
 p9
-aS"(27, u'\\\\bspiperone')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
+((lp18
 S"(9, u'\\\\bdepress')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht1c'
-p25
+p24
 aS'5ht1b'
-p26
+p25
 aS'5ht1a'
-p27
+p26
 aS'5ht1'
-p28
-atp29
-Rp30
+p27
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-S"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+((lp31
+tp32
+Rp33
 sS'year'
-p36
+p34
 V1991
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(178, u'\\\\btfmpp')"
 p38
-g3
-((lp39
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(53, u'\\\\bmethysergide')"
+p39
+aS"(149, u'\\\\bmem')"
 p40
-aS"(5, u'\\\\b5 ?ct')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p41
-aS"(155, u'\\\\bmem')"
+aS"(219, u'\\\\b5 ?ct')"
 p42
-aS"(60, u'\\\\bmethysergide')"
-p43
-aS"(183, u'\\\\btfmpp')"
-p44
-atp45
-Rp46
+atp43
+Rp44
 sS'species'
-p47
+p45
 g3
-((lp48
-S"(6753, u'(?i)(da|das)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(3726, u'(?i)(mates|mate)')"
-p54
-aS"(4964, u'(?i)(serins|serin)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(6391, u'(?i)(asses|ass)')"
-p58
-aS"(821, u'(?i)(lice|louse)')"
-p59
-aS"(4133, u'(?i)(pikes|pike)')"
-p60
-atp61
-Rp62
+((lp46
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

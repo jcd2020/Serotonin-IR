@@ -30,52 +30,36 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht2b'
 p19
-aS'5ht2b'
-p20
 aS'5ht2'
-p21
+p20
 aS'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-tp27
-Rp28
+((lp25
+tp26
+Rp27
 sS'year'
-p29
+p28
 V1991
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(24, u'\\\\bbuspirone')"
-p33
-atp34
-Rp35
+((lp31
+S"(20, u'\\\\bbuspirone')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2323, u'(?i)(bees|bee)')"
-p38
-aS"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-atp45
-Rp46
+((lp36
+tp37
+Rp38
 sb.

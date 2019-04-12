@@ -8,90 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(133, u'\\\\bmianserin')"
 p5
-aS"(27, u'\\\\bspiperone')"
+aS"(26, u'\\\\bspiperone')"
 p6
-aS"(130, u'\\\\britanserin')"
+aS"(119, u'\\\\britanserin')"
 p7
-aS"(117, u'\\\\bmianserin')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1c'
-p23
-aS'5ht5'
-p24
+p22
 aS'5ht1a'
-p25
+p23
 aS'5ht2a'
-p26
-atp27
-Rp28
+p24
+atp25
+Rp26
 sS'regions'
-p29
+p27
 g3
-((lp30
-S"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+((lp28
+tp29
+Rp30
 sS'year'
-p34
+p31
 V1990
-p35
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(158, u'\\\\blsd')"
+p35
+aS"(49, u'\\\\blysergic acid diethylamide')"
 p36
-g3
-((lp37
-S"(56, u'\\\\blsd')"
-p38
-aS"(55, u'\\\\blysergic acid diethylamide')"
-p39
-aS"(172, u'\\\\bmk ?212')"
-p40
-atp41
-Rp42
+aS"(166, u'\\\\bmk ?212')"
+p37
+atp38
+Rp39
 sS'species'
-p43
+p40
 g3
-((lp44
-S"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(4163, u'(?i)(ermines|ermine)')"
-p47
-aS"(4964, u'(?i)(serins|serin)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+((lp41
+tp42
+Rp43
 sb.

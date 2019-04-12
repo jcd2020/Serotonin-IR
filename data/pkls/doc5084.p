@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(141, u'\\\\bzacopride')"
+S"(130, u'\\\\bzacopride')"
 p5
 atp6
 Rp7
@@ -42,9 +42,9 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p26
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,9 +56,9 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(212, u'\\\\bzacopride')"
+S"(208, u'\\\\bzacopride')"
 p34
-aS"(193, u'\\\\bethanol')"
+aS"(189, u'\\\\bethanol')"
 p35
 atp36
 Rp37
@@ -66,36 +66,10 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(5626, u'(?i)(posters|poster)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(949, u'(?i)(cohoes|coho)')"
-p43
-aS"(6125, u'(?i)(females|female)')"
-p44
-aS"(5176, u'(?i)(tegs|teg)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(5967, u'(?i)(males|male)')"
-p47
-aS"(4163, u'(?i)(ermines|ermine)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(7094, u'(?i)(curs|cur)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-atp55
-Rp56
+atp42
+Rp43
 sb.

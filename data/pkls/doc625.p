@@ -32,68 +32,38 @@ g3
 ((lp18
 S'5ht7'
 p19
-aS'5ht5'
+aS'5ht1a'
 p20
 aS'5ht3a'
 p21
-aS'5ht1a'
-p22
 aS'5ht2c'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-tp28
-Rp29
+((lp26
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2007
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2323, u'(?i)(bees|bee)')"
+((lp36
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p37
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(3550, u'(?i)(anis|ani)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(163, u'(?i)(mice|mouse)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(2395, u'(?i)(mutants|mutant)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(3048, u'(?i)(hogs|hog)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(5949, u'(?i)(dogs|dog)')"
-p53
-atp54
-Rp55
+atp39
+Rp40
 sb.

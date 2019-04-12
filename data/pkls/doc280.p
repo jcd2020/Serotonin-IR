@@ -50,54 +50,28 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+tp30
+Rp31
 sS'year'
-p33
+p32
 V2018
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(155, u'\\\\bmem')"
+((lp35
+S"(149, u'\\\\bmem')"
+p36
+aS"(218, u'\\\\bemd ?386088')"
 p37
-aS"(223, u'\\\\bemd ?386088')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(4624, u'(?i)(apes|ape)')"
-p43
-aS"(2670, u'(?i)(arabs|arab)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(163, u'(?i)(mice|mouse)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(7609, u'(?i)(erns|ern)')"
-p54
-aS"(1683, u'(?i)(terns|tern)')"
-p55
-atp56
-Rp57
+((lp41
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p42
+atp43
+Rp44
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(50, u'\\\\btrazodone')"
+S"(48, u'\\\\btrazodone')"
 p5
 atp6
 Rp7
@@ -44,44 +44,24 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2009
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(82, u'\\\\btrazodone')"
-p34
-atp35
-Rp36
+((lp32
+S"(75, u'\\\\btrazodone')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(7609, u'(?i)(erns|ern)')"
-p40
-aS"(7610, u'(?i)(ernes|erne)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(5917, u'(?i)(roaches|roach)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(2809, u'(?i)(toms|tom)')"
-p47
-atp48
-Rp49
+((lp37
+tp38
+Rp39
 sb.

@@ -8,82 +8,64 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(6, u'\\\\bcyproheptadine')"
 p5
-aS"(6, u'\\\\bcyproheptadine')"
+aS"(53, u'\\\\bcyproheptadine')"
 p6
-aS"(62, u'\\\\bcyproheptadine')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(128, u'\\\\bketanserin')"
+aS"(119, u'\\\\britanserin')"
 p8
-aS"(54, u'\\\\britanserin')"
-p9
-aS"(130, u'\\\\britanserin')"
-p10
-atp11
-Rp12
+atp9
+Rp10
 sS'methods'
-p13
+p11
 g3
-((lp14
+((lp12
 S'Method.ANTAGONIST'
-p15
-atp16
-Rp17
+p13
+atp14
+Rp15
 sS'topics'
-p18
+p16
 g3
-((lp19
-tp20
-Rp21
+((lp17
+tp18
+Rp19
 sS'receptors'
-p22
+p20
 g3
-((lp23
+((lp21
 S'5ht2a'
-p24
-atp25
-Rp26
+p22
+atp23
+Rp24
 sS'regions'
+p25
+g3
+((lp26
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p27
-g3
-((lp28
-S"(220, u'(?i)(striatums|striatum)')"
-p29
-atp30
-Rp31
+atp28
+Rp29
 sS'year'
-p32
+p30
 V1995
-p33
+p31
 sS'agonists'
-p34
+p32
 g3
-((lp35
-tp36
-Rp37
+((lp33
+tp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(2323, u'(?i)(bees|bee)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(4964, u'(?i)(serins|serin)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-atp49
-Rp50
+((lp37
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

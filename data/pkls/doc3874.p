@@ -8,104 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(54, u'\\\\britanserin')"
+aS"(119, u'\\\\britanserin')"
 p6
-aS"(27, u'\\\\bspiperone')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
-aS"(130, u'\\\\britanserin')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(3, u'\\\\bsleep')"
-p19
+p18
 aS"(16, u'\\\\bfeed')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht1a'
-p25
+p24
 aS'5ht2a'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp29
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p30
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V1994
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(20, u'\\\\bbuspirone')"
 p38
-g3
-((lp39
-S"(48, u'\\\\bhaloperidol')"
+aS"(45, u'\\\\bipsapirone')"
+p39
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p40
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(43, u'\\\\bhaloperidol')"
 p41
-aS"(24, u'\\\\bbuspirone')"
-p42
-aS"(50, u'\\\\bipsapirone')"
-p43
-atp44
-Rp45
+atp42
+Rp43
 sS'species'
-p46
+p44
 g3
-((lp47
-S"(2568, u'(?i)(hens|hen)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(3726, u'(?i)(mates|mate)')"
-p54
-aS"(1349, u'(?i)(rams|ram)')"
-p55
-aS"(4964, u'(?i)(serins|serin)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(3522, u'(?i)(tetras|tetra)')"
-p58
-aS"(1961, u'(?i)(pens|pen)')"
-p59
-atp60
-Rp61
+((lp45
+S"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

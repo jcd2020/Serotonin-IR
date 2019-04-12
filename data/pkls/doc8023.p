@@ -38,70 +38,48 @@ aS'5ht1a'
 p21
 aS'5ht2b'
 p22
-aS'5ht2c'
-p23
-aS'5ht5'
-p24
 aS'5ht2'
-p25
-atp26
-Rp27
+p23
+aS'5ht2c'
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'year'
-p32
+p31
 V1986
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(74, u'\\\\bru ?24969')"
+((lp34
+S"(220, u'\\\\b5 ?methoxytryptamine')"
+p35
+aS"(149, u'\\\\bmem')"
 p36
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(67, u'\\\\bru ?24969')"
 p37
-aS"(5, u'\\\\b5 ?ct')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p38
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p39
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(219, u'\\\\b5 ?ct')"
 p40
-aS"(155, u'\\\\bmem')"
-p41
-atp42
-Rp43
+atp41
+Rp42
 sS'species'
-p44
+p43
 g3
-((lp45
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp44
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p45
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(3051, u'(?i)(pigs|pig)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(1054, u'(?i)(homoes|homo)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(3522, u'(?i)(tetras|tetra)')"
-p55
-aS"(1414, u'(?i)(chars|char)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-atp58
-Rp59
+atp47
+Rp48
 sb.

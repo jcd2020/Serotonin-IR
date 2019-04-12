@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(45, u'\\\\bgr ?127935')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
 atp7
 Rp8
@@ -44,46 +44,26 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p27
-atp28
-Rp29
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2000
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p34
-atp35
-Rp36
+((lp32
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(2323, u'(?i)(bees|bee)')"
-p39
-aS"(5537, u'(?i)(hippos|hippo)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(3522, u'(?i)(tetras|tetra)')"
-p48
-atp49
-Rp50
+((lp37
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

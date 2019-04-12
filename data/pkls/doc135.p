@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(136, u'\\\\btropisetron')"
+S"(125, u'\\\\btropisetron')"
 p5
 atp6
 Rp7
@@ -40,36 +40,24 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1999
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(6682, u'(?i)(tera|teras)')"
-p38
-aS"(7094, u'(?i)(curs|cur)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-atp42
-Rp43
+((lp34
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

@@ -40,60 +40,34 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(104, u'(?i)(par|pars)(-|\\\\s+)?(compactas|compacta)')"
+S"(195, u'(?i)\\\\b(telencephalons|telencephalon)\\\\b')"
 p25
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(190, u'(?i)\\\\b(zonas|zona)(-|\\\\s+)?(incertas|incerta)\\\\b')"
 p26
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p27
-aS"(195, u'(?i)(telencephalons|telencephalon)')"
+aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
 p28
-aS"(190, u'(?i)(zonas|zona)(-|\\\\s+)?(incertas|incerta)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V1991
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(155, u'\\\\bmem')"
-p36
-atp37
-Rp38
+((lp34
+S"(149, u'\\\\bmem')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(3592, u'(?i)(ravens|raven)')"
-p47
-aS"(3726, u'(?i)(mates|mate)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(3522, u'(?i)(tetras|tetra)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+((lp39
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

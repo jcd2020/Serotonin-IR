@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(81, u'\\\\bagomelatine')"
+S"(131, u'\\\\bm1')"
 p5
-aS"(142, u'\\\\bm1')"
+aS"(72, u'\\\\bagomelatine')"
 p6
 atp7
 Rp8
@@ -58,30 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(4624, u'(?i)(apes|ape)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(702, u'(?i)(genets|genet)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(5967, u'(?i)(males|male)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(1414, u'(?i)(chars|char)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(4133, u'(?i)(pikes|pike)')"
-p47
-atp48
-Rp49
+atp38
+Rp39
 sb.

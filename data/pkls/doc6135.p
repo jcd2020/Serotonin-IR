@@ -8,88 +8,62 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
-aS"(54, u'\\\\britanserin')"
-p7
-aS"(130, u'\\\\britanserin')"
-p8
 aS"(20, u'\\\\bpindobind')"
-p9
-atp10
-Rp11
+p6
+aS"(119, u'\\\\britanserin')"
+p7
+atp8
+Rp9
 sS'methods'
-p12
+p10
 g3
-((lp13
-tp14
-Rp15
+((lp11
+tp12
+Rp13
 sS'topics'
-p16
+p14
 g3
-((lp17
-tp18
-Rp19
+((lp15
+tp16
+Rp17
 sS'receptors'
-p20
+p18
 g3
-((lp21
+((lp19
 S'5ht1a'
-p22
+p20
 aS'5ht2'
-p23
-atp24
-Rp25
+p21
+atp22
+Rp23
 sS'regions'
+p24
+g3
+((lp25
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p26
-g3
-((lp27
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
-p28
-aS"(43, u'(?i)(vestibulars|vestibular)(-|\\\\s+)?(nuclei|nucleus)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+aS"(43, u'(?i)\\\\b(vestibulars|vestibular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p33
+p30
 V1993
-p34
+p31
 sS'agonists'
-p35
+p32
 g3
-((lp36
-tp37
-Rp38
+((lp33
+tp34
+Rp35
 sS'species'
-p39
+p36
 g3
-((lp40
-S"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(4964, u'(?i)(serins|serin)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(3522, u'(?i)(tetras|tetra)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-aS"(821, u'(?i)(lice|louse)')"
-p51
-atp52
-Rp53
+((lp37
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

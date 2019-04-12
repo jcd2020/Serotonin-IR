@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(96, u'\\\\bsb ?215505')"
+S"(85, u'\\\\bsb ?215505')"
 p5
 atp6
 Rp7
@@ -58,38 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(2568, u'(?i)(hens|hen)')"
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p36
-aS"(3601, u'(?i)(efts|eft)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(5743, u'(?i)(bots|bot)')"
-p39
-aS"(479, u'(?i)(lings|ling)')"
-p40
-aS"(4091, u'(?i)(adults|adult)')"
-p41
-aS"(1266, u'(?i)(embryos|embryo)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(5838, u'(?i)(cubs|cub)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(7552, u'(?i)(bats|bat)')"
-p51
-atp52
-Rp53
+atp38
+Rp39
 sb.

@@ -40,54 +40,30 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1999
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(193, u'\\\\bethanol')"
-p32
-atp33
-Rp34
+((lp30
+S"(189, u'\\\\bethanol')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(2323, u'(?i)(bees|bee)')"
+((lp35
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+p36
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p37
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(949, u'(?i)(cohoes|coho)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(1057, u'(?i)(humans|human)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(1414, u'(?i)(chars|char)')"
-p47
-aS"(3196, u'(?i)(human|humans)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(3426, u'(?i)(hares|hare)')"
-p50
-atp51
-Rp52
+atp39
+Rp40
 sb.

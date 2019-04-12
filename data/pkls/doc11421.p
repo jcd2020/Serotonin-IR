@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(136, u'\\\\btropisetron')"
+S"(125, u'\\\\btropisetron')"
 p5
 atp6
 Rp7
@@ -42,72 +42,34 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V1994
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(72, u'\\\\brauwolscine')"
+((lp31
+S"(65, u'\\\\brauwolscine')"
+p32
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p33
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p34
-aS"(5, u'\\\\b5 ?ct')"
+aS"(219, u'\\\\b5 ?ct')"
 p35
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(2568, u'(?i)(hens|hen)')"
+((lp39
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p40
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(163, u'(?i)(mice|mouse)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(7552, u'(?i)(bats|bat)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(5838, u'(?i)(cubs|cub)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(3522, u'(?i)(tetras|tetra)')"
-p55
-aS"(7058, u'(?i)(does|doe)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(6878, u'(?i)(guans|guan)')"
-p58
-aS"(821, u'(?i)(lice|louse)')"
-p59
-aS"(5949, u'(?i)(dogs|dog)')"
-p60
-atp61
-Rp62
+atp42
+Rp43
 sb.

@@ -8,94 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(203, u'\\\\btfmpp')"
 p5
-aS"(52, u'\\\\bmetergoline')"
+aS"(34, u'\\\\bmetergoline')"
 p6
-aS"(35, u'\\\\bmetergoline')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht1b'
-p22
+p21
 aS'5ht1a'
-p23
+p22
 aS'5ht1'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+((lp27
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+p28
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p29
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V1989
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(183, u'\\\\btfmpp')"
-p37
-atp38
-Rp39
+((lp35
+S"(178, u'\\\\btfmpp')"
+p36
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(6857, u'(?i)(ormers|ormer)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(6682, u'(?i)(tera|teras)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(5176, u'(?i)(tegs|teg)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(3522, u'(?i)(tetras|tetra)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(391, u'(?i)(alli|allis)')"
-p54
-atp55
-Rp56
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

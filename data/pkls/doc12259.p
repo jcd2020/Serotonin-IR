@@ -40,9 +40,9 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(214, u'(?i)(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+S"(214, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
 p25
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,26 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(6249, u'(?i)(ants|ant)')"
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p37
-aS"(7539, u'(?i)(mammals|mammal)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(7094, u'(?i)(curs|cur)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(821, u'(?i)(lice|louse)')"
-p46
-atp47
-Rp48
+atp39
+Rp40
 sb.

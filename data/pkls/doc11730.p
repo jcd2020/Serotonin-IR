@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(112, u'\\\\bamitriptyline')"
+S"(102, u'\\\\bamitriptyline')"
 p5
 atp6
 Rp7
@@ -54,24 +54,6 @@ sS'species'
 p32
 g3
 ((lp33
-S"(5958, u'(?i)(rats|rat)')"
-p34
-aS"(6753, u'(?i)(da|das)')"
-p35
-aS"(468, u'(?i)(oxen|ox)')"
-p36
-aS"(1055, u'(?i)(men|man)')"
-p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(1961, u'(?i)(pens|pen)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(2809, u'(?i)(toms|tom)')"
-p42
-atp43
-Rp44
+tp34
+Rp35
 sb.

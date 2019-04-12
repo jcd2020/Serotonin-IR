@@ -8,112 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(99, u'\\\\bsb ?242084')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(110, u'\\\\bsb ?242084')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.STIMULATION'
-p12
+p11
 aS'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1a'
-p23
+p22
 aS'5ht2c'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
-p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+((lp28
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p34
+p32
 V2011
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(155, u'\\\\bmcpp')"
 p36
-g3
-((lp37
-S"(161, u'\\\\bmcpp')"
+aS"(149, u'\\\\bmem')"
+p37
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p38
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(175, u'\\\\bdoi')"
 p39
-aS"(155, u'\\\\bmem')"
-p40
-aS"(33, u'\\\\bdoi')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(2323, u'(?i)(bees|bee)')"
-p46
-aS"(4624, u'(?i)(apes|ape)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(7609, u'(?i)(erns|ern)')"
-p50
-aS"(7610, u'(?i)(ernes|erne)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(6857, u'(?i)(ormers|ormer)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(2665, u'(?i)(rays|ray)')"
-p56
-aS"(4964, u'(?i)(serins|serin)')"
-p57
-aS"(3550, u'(?i)(anis|ani)')"
-p58
-aS"(5229, u'(?i)(moles|mole)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-aS"(6391, u'(?i)(asses|ass)')"
-p61
-aS"(4177, u'(?i)(grays|gray)')"
-p62
-aS"(1683, u'(?i)(terns|tern)')"
-p63
-atp64
-Rp65
+((lp43
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

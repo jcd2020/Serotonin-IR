@@ -28,56 +28,36 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht2a'
 p18
-aS'5ht2a'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-tp24
-Rp25
+((lp22
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2004
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-S"(155, u'\\\\bmem')"
-p30
-atp31
-Rp32
+((lp28
+S"(149, u'\\\\bmem')"
+p29
+atp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(5958, u'(?i)(rats|rat)')"
+((lp33
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p34
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(5743, u'(?i)(bots|bot)')"
-p36
-aS"(479, u'(?i)(lings|ling)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(4177, u'(?i)(grays|gray)')"
-p39
-aS"(853, u'(?i)(minas|mina)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(4371, u'(?i)(lizas|liza)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(2665, u'(?i)(rays|ray)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-atp46
-Rp47
+atp36
+Rp37
 sb.

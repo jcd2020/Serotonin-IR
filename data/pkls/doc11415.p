@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(100, u'\\\\beltoprazine')"
+S"(89, u'\\\\beltoprazine')"
 p5
 atp6
 Rp7
@@ -38,68 +38,42 @@ S'5ht1c'
 p21
 aS'5ht1b'
 p22
-aS'5ht5'
-p23
 aS'5ht1a'
-p24
+p23
 aS'5ht1'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(220, u'(?i)(striatums|striatum)')"
-p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+((lp28
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p34
+p32
 V1990
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(31, u'\\\\beltoprazine')"
 p36
-g3
-((lp37
-S"(36, u'\\\\beltoprazine')"
-p38
-atp39
-Rp40
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(4624, u'(?i)(apes|ape)')"
+((lp40
+S"(1928, u'(?i)\\\\b(bears|bear)\\\\b')"
+p41
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(5537, u'(?i)(hippos|hippo)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(1928, u'(?i)(bears|bear)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(3051, u'(?i)(pigs|pig)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(4371, u'(?i)(lizas|liza)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(821, u'(?i)(lice|louse)')"
-p56
-atp57
-Rp58
+atp44
+Rp45
 sb.

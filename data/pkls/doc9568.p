@@ -48,74 +48,40 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V1992
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(103, u'\\\\bsumatriptan')"
+((lp37
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p38
+aS"(45, u'\\\\bipsapirone')"
 p39
-aS"(74, u'\\\\bru ?24969')"
+aS"(96, u'\\\\bsumatriptan')"
 p40
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p41
-aS"(50, u'\\\\bipsapirone')"
+aS"(67, u'\\\\bru ?24969')"
 p42
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sS'species'
-p46
+p45
 g3
-((lp47
-S"(1070, u'(?i)(pets|pet)')"
-p48
-aS"(2568, u'(?i)(hens|hen)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(867, u'(?i)(tits|tit)')"
-p51
-aS"(5743, u'(?i)(bots|bot)')"
-p52
-aS"(1885, u'(?i)(apars|apar)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(3404, u'(?i)(titis|titi)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(5958, u'(?i)(rats|rat)')"
-p58
-aS"(3522, u'(?i)(tetras|tetra)')"
-p59
-aS"(7127, u'(?i)(monitors|monitor)')"
-p60
-aS"(1961, u'(?i)(pens|pen)')"
-p61
-aS"(1414, u'(?i)(chars|char)')"
-p62
-aS"(821, u'(?i)(lice|louse)')"
-p63
-aS"(5949, u'(?i)(dogs|dog)')"
-p64
-atp65
-Rp66
+((lp46
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

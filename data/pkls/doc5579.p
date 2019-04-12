@@ -8,126 +8,92 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(6, u'\\\\bcyproheptadine')"
 p5
-aS"(6, u'\\\\bcyproheptadine')"
+aS"(53, u'\\\\bcyproheptadine')"
 p6
-aS"(62, u'\\\\bcyproheptadine')"
+aS"(125, u'\\\\btropisetron')"
 p7
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p8
-aS"(113, u'\\\\bclomipramine')"
+aS"(91, u'\\\\bfluoxetine')"
 p9
-aS"(136, u'\\\\btropisetron')"
+aS"(103, u'\\\\bclomipramine')"
 p10
-aS"(102, u'\\\\bfluoxetine')"
-p11
-atp12
-Rp13
+atp11
+Rp12
 sS'methods'
-p14
+p13
 g3
-((lp15
+((lp14
 S'Method.ANTAGONIST'
-p16
+p15
 aS'Method.AGONIST'
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'topics'
-p20
+p19
 g3
-((lp21
-tp22
-Rp23
+((lp20
+tp21
+Rp22
 sS'receptors'
-p24
+p23
 g3
-((lp25
+((lp24
 S'5ht7a'
-p26
+p25
 aS'5ht6a'
-p27
+p26
 aS'5ht2b'
-p28
+p27
 aS'5ht2'
-p29
+p28
 aS'5ht2a'
-p30
-atp31
-Rp32
+p29
+atp30
+Rp31
 sS'regions'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+tp34
+Rp35
 sS'year'
-p37
+p36
 V2002
-p38
+p37
 sS'agonists'
-p39
+p38
 g3
-((lp40
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
+((lp39
+S"(220, u'\\\\b5 ?methoxytryptamine')"
+p40
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p41
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p42
-aS"(225, u'\\\\b5 ?meot')"
+aS"(222, u'\\\\b5 ?meot')"
 p43
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
-p44
-atp45
-Rp46
+atp44
+Rp45
 sS'species'
-p47
+p46
 g3
-((lp48
-S"(3404, u'(?i)(titis|titi)')"
+((lp47
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p48
+aS"(3671, u'(?i)\\\\b(drosophilas|drosophila)\\\\b')"
 p49
-aS"(3671, u'(?i)(drosophilas|drosophila)')"
+aS"(6490, u'(?i)\\\\b(lepidopterans|lepidopteran)\\\\b')"
 p50
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(1253, u'(?i)\\\\b(insects|insect)\\\\b')"
 p51
-aS"(1070, u'(?i)(pets|pet)')"
+aS"(2081, u'(?i)\\\\b(spodopteras|spodoptera)(-|\\\\s+)?(frugiperdas|frugiperda)\\\\b')"
 p52
-aS"(7539, u'(?i)(mammals|mammal)')"
+aS"(6845, u'(?i)\\\\b(caterpillars|caterpillar)\\\\b')"
 p53
-aS"(6845, u'(?i)(caterpillars|caterpillar)')"
-p54
-aS"(468, u'(?i)(oxen|ox)')"
-p55
-aS"(1349, u'(?i)(rams|ram)')"
-p56
-aS"(5838, u'(?i)(cubs|cub)')"
-p57
-aS"(2081, u'(?i)(spodopteras|spodoptera)(-|\\\\s+)?(frugiperdas|frugiperda)')"
-p58
-aS"(6753, u'(?i)(da|das)')"
-p59
-aS"(6249, u'(?i)(ants|ant)')"
-p60
-aS"(867, u'(?i)(tits|tit)')"
-p61
-aS"(6682, u'(?i)(tera|teras)')"
-p62
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p63
-aS"(6490, u'(?i)(lepidopterans|lepidopteran)')"
-p64
-aS"(1961, u'(?i)(pens|pen)')"
-p65
-aS"(1414, u'(?i)(chars|char)')"
-p66
-aS"(4979, u'(?i)(cats|cat)')"
-p67
-aS"(4964, u'(?i)(serins|serin)')"
-p68
-aS"(7552, u'(?i)(bats|bat)')"
-p69
-aS"(1253, u'(?i)(insects|insect)')"
-p70
-atp71
-Rp72
+atp54
+Rp55
 sb.

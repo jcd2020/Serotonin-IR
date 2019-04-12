@@ -20,66 +20,40 @@ sS'topics'
 p11
 g3
 ((lp12
-tp13
-Rp14
+S"(36, u'\\\\bcompulsiv')"
+p13
+atp14
+Rp15
 sS'receptors'
-p15
+p16
 g3
-((lp16
+((lp17
 S'5ht3'
-p17
-atp18
-Rp19
+p18
+atp19
+Rp20
 sS'regions'
-p20
+p21
 g3
-((lp21
-tp22
-Rp23
+((lp22
+tp23
+Rp24
 sS'year'
-p24
-V2016
 p25
-sS'agonists'
+V2016
 p26
+sS'agonists'
+p27
 g3
-((lp27
-tp28
-Rp29
+((lp28
+tp29
+Rp30
 sS'species'
-p30
+p31
 g3
-((lp31
-S"(5967, u'(?i)(males|male)')"
-p32
-aS"(949, u'(?i)(cohoes|coho)')"
+((lp32
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p33
-aS"(702, u'(?i)(genets|genet)')"
-p34
-aS"(3051, u'(?i)(pigs|pig)')"
-p35
-aS"(468, u'(?i)(oxen|ox)')"
-p36
-aS"(1055, u'(?i)(men|man)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(853, u'(?i)(minas|mina)')"
-p39
-aS"(3550, u'(?i)(anis|ani)')"
-p40
-aS"(7094, u'(?i)(curs|cur)')"
-p41
-aS"(1961, u'(?i)(pens|pen)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-aS"(1628, u'(?i)(cod|cod)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-atp47
-Rp48
+atp34
+Rp35
 sb.

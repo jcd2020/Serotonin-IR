@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(21, u'\\\\bpindolol')"
 p5
-aS"(21, u'\\\\bpindolol')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -44,50 +44,28 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2011
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+tp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(2323, u'(?i)(bees|bee)')"
+((lp37
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(4624, u'(?i)(apes|ape)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(2665, u'(?i)(rays|ray)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(4177, u'(?i)(grays|gray)')"
-p50
-atp51
-Rp52
+atp40
+Rp41
 sb.

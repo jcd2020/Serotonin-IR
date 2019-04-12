@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(61, u'\\\\bmdl ?100907')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(52, u'\\\\bmdl ?100907')"
 p6
 atp7
 Rp8
@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,28 +60,8 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2568, u'(?i)(hens|hen)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(1291, u'(?i)(ratels|ratel)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-atp48
-Rp49
+atp38
+Rp39
 sb.

@@ -38,56 +38,32 @@ sS'receptors'
 p21
 g3
 ((lp22
-S'5ht5'
+S'5ht2c'
 p23
-aS'5ht2c'
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-tp29
-Rp30
+((lp27
+tp28
+Rp29
 sS'year'
-p31
+p30
 V2013
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+tp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(1070, u'(?i)(pets|pet)')"
-p39
-aS"(2323, u'(?i)(bees|bee)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(7094, u'(?i)(curs|cur)')"
-p44
-aS"(6215, u'(?i)(racers|racer)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-atp51
-Rp52
+((lp37
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+p38
+atp39
+Rp40
 sb.

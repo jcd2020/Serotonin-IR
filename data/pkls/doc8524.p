@@ -8,104 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(21, u'\\\\bpindolol')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(21, u'\\\\bpindolol')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht1b'
-p22
+p21
 aS'5ht1a'
-p23
+p22
 aS'5ht2'
-p24
+p23
 aS'5ht1'
-p25
+p24
 aS'5ht2a'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp29
+S"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
+p30
+aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p32
-aS"(165, u'(?i)(preoptics|preoptic)(-|\\\\s+)?(areas|area)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V1992
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(192, u'\\\\bquipazine')"
 p38
-g3
-((lp39
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p40
-aS"(196, u'\\\\bquipazine')"
-p41
-atp42
-Rp43
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p39
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(5958, u'(?i)(rats|rat)')"
+((lp43
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+p45
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p46
-aS"(6125, u'(?i)(females|female)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(479, u'(?i)(lings|ling)')"
-p49
-aS"(5967, u'(?i)(males|male)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(1349, u'(?i)(rams|ram)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(3522, u'(?i)(tetras|tetra)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-aS"(4074, u'(?i)(bulls|bull)')"
-p59
-atp60
-Rp61
+atp47
+Rp48
 sb.

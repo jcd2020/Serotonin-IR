@@ -8,104 +8,66 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(13, u'\\\\bpsychedel')"
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+((lp25
+tp26
+Rp27
 sS'year'
-p30
+p28
 V2016
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(157, u'\\\\bdmt')"
 p32
-g3
-((lp33
-S"(163, u'\\\\bdmt')"
-p34
-aS"(237, u'\\\\bnn ?dimethyltryptamine')"
-p35
-atp36
-Rp37
+aS"(235, u'\\\\bnn ?dimethyltryptamine')"
+p33
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(2323, u'(?i)(bees|bee)')"
+((lp37
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p38
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+p39
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6125, u'(?i)(females|female)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(5944, u'(?i)(soles|sole)')"
-p49
-aS"(4964, u'(?i)(serins|serin)')"
-p50
-aS"(7094, u'(?i)(curs|cur)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(1057, u'(?i)(humans|human)')"
-p53
-aS"(5229, u'(?i)(moles|mole)')"
-p54
-aS"(3196, u'(?i)(human|humans)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(664, u'(?i)(amazons|amazon)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-atp60
-Rp61
+atp41
+Rp42
 sb.

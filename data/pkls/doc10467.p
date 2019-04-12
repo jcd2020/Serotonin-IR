@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -44,62 +44,32 @@ aS'5ht1a'
 p24
 aS'5ht3'
 p25
-aS'5ht5'
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'year'
-p34
+p32
 V2018
-p35
+p33
 sS'agonists'
-p36
+p34
 g3
-((lp37
-tp38
-Rp39
+((lp35
+tp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(4624, u'(?i)(apes|ape)')"
-p42
-aS"(5537, u'(?i)(hippos|hippo)')"
-p43
-aS"(5799, u'(?i)(rodents|rodent)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(163, u'(?i)(mice|mouse)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(4201, u'(?i)(kines|kine)')"
-p48
-aS"(4163, u'(?i)(ermines|ermine)')"
-p49
-aS"(3592, u'(?i)(ravens|raven)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(5743, u'(?i)(bots|bot)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(6682, u'(?i)(tera|teras)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+((lp39
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p40
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p41
+atp42
+Rp43
 sb.

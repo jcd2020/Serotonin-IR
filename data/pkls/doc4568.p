@@ -46,76 +46,42 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(214, u'(?i)(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+S"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
 p28
-aS"(215, u'(?i)(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+aS"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
 p29
-aS"(221, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p30
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p31
-aS"(220, u'(?i)(striatums|striatum)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2012
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(167, u'\\\\bcp ?809101')"
-p39
-atp40
-Rp41
+((lp37
+S"(161, u'\\\\bcp ?809101')"
+p38
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(4624, u'(?i)(apes|ape)')"
+((lp42
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p43
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p44
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p45
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
-aS"(5743, u'(?i)(bots|bot)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(4163, u'(?i)(ermines|ermine)')"
-p49
-aS"(4091, u'(?i)(adults|adult)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(2334, u'(?i)(eels|eel)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-aS"(7094, u'(?i)(curs|cur)')"
-p57
-aS"(3550, u'(?i)(anis|ani)')"
-p58
-aS"(6682, u'(?i)(tera|teras)')"
-p59
-aS"(1057, u'(?i)(humans|human)')"
-p60
-aS"(4247, u'(?i)(tatus|tatu)')"
-p61
-aS"(3812, u'(?i)(studs|stud)')"
-p62
-aS"(3196, u'(?i)(human|humans)')"
-p63
-aS"(6356, u'(?i)(ais|ai)')"
-p64
-atp65
-Rp66
+atp48
+Rp49
 sb.

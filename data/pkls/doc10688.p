@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(99, u'\\\\bsb ?242084')"
 p5
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(31, u'\\\\bway ?100635')"
 p6
-aS"(110, u'\\\\bsb ?242084')"
+aS"(52, u'\\\\bmdl ?100907')"
 p7
 atp8
 Rp9
@@ -60,7 +60,7 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(181, u'\\\\bdom')"
+S"(176, u'\\\\bdom')"
 p36
 atp37
 Rp38
@@ -68,32 +68,8 @@ sS'species'
 p39
 g3
 ((lp40
-S"(2568, u'(?i)(hens|hen)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(81, u'(?i)(asps|asp)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(1414, u'(?i)(chars|char)')"
-p51
-aS"(6878, u'(?i)(guans|guan)')"
-p52
-aS"(821, u'(?i)(lice|louse)')"
-p53
-atp54
-Rp55
+atp42
+Rp43
 sb.

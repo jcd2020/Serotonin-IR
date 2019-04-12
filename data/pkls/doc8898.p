@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(113, u'\\\\bclomipramine')"
+S"(103, u'\\\\bclomipramine')"
 p5
 atp6
 Rp7
@@ -32,74 +32,50 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht2b'
+S'5ht1a'
 p20
-aS'5ht5'
+aS'5ht2b'
 p21
 aS'5ht2c'
 p22
-aS'5ht1a'
-p23
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
-p29
-atp30
-Rp31
+((lp27
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2005
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp34
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p35
+aS"(175, u'\\\\bdoi')"
 p36
-aS"(33, u'\\\\bdoi')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(6753, u'(?i)(da|das)')"
+((lp40
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p41
+aS"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p43
-aS"(6744, u'(?i)(maras|mara)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(6682, u'(?i)(tera|teras)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(2665, u'(?i)(rays|ray)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(4176, u'(?i)(greys|grey)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(1349, u'(?i)(rams|ram)')"
-p55
-aS"(4177, u'(?i)(grays|gray)')"
-p56
-atp57
-Rp58
+atp45
+Rp46
 sb.

@@ -38,58 +38,30 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2018
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(206, u'\\\\bprucalopride')"
-p31
-atp32
-Rp33
+((lp29
+S"(202, u'\\\\bprucalopride')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(4979, u'(?i)(cats|cat)')"
+((lp34
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p35
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p37
-aS"(7609, u'(?i)(erns|ern)')"
-p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(5131, u'(?i)(hags|hag)')"
-p43
-aS"(6580, u'(?i)(dams|dam)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(1057, u'(?i)(humans|human)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(3196, u'(?i)(human|humans)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(1683, u'(?i)(terns|tern)')"
-p51
-atp52
-Rp53
+atp38
+Rp39
 sb.

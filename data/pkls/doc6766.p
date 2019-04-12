@@ -38,42 +38,26 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V1993
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(193, u'\\\\bethanol')"
-p31
-atp32
-Rp33
+((lp29
+S"(189, u'\\\\bethanol')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(949, u'(?i)(cohoes|coho)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(3726, u'(?i)(mates|mate)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(3550, u'(?i)(anis|ani)')"
-p41
-aS"(1961, u'(?i)(pens|pen)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-atp44
-Rp45
+((lp34
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

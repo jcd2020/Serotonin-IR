@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(212, u'\\\\bbromocriptine')"
+S"(76, u'\\\\blisuride')"
 p5
-aS"(85, u'\\\\blisuride')"
+aS"(206, u'\\\\bbromocriptine')"
 p6
 atp7
 Rp8
@@ -46,54 +46,38 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p28
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V1991
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp35
+S"(179, u'\\\\b5 ?meo ?dmt')"
+p36
+aS"(137, u'\\\\blisuride')"
 p37
-aS"(8, u'\\\\b5 ?meo ?dmt')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p38
-aS"(52, u'\\\\blisuride')"
+aS"(150, u'\\\\bpergolide')"
 p39
-aS"(156, u'\\\\bpergolide')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp43
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(1488, u'(?i)(yaks|yak)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-atp54
-Rp55
+atp46
+Rp47
 sb.

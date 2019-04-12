@@ -50,11 +50,11 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(20, u'\\\\bbuspirone')"
 p31
-aS"(24, u'\\\\bbuspirone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p32
-aS"(93, u'\\\\balnespirone')"
+aS"(86, u'\\\\balnespirone')"
 p33
 atp34
 Rp35
@@ -62,36 +62,12 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2323, u'(?i)(bees|bee)')"
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p38
-aS"(6215, u'(?i)(racers|racer)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1054, u'(?i)(homoes|homo)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(3522, u'(?i)(tetras|tetra)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+atp41
+Rp42
 sb.

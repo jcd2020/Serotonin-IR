@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(136, u'\\\\btropisetron')"
+S"(125, u'\\\\btropisetron')"
 p5
 atp6
 Rp7
@@ -42,62 +42,38 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+S"(316, u'(?i)\\\\b(nigrostriatals|nigrostriatal)(-|\\\\s+)?(pathways|pathway)\\\\b')"
 p26
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
+aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
 p29
-aS"(104, u'(?i)(par|pars)(-|\\\\s+)?(compactas|compacta)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
-aS"(316, u'(?i)(nigrostriatals|nigrostriatal)(-|\\\\s+)?(pathways|pathway)')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
-p34
+p33
 V2011
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(198, u'\\\\bsr ?57227')"
-p38
-atp39
-Rp40
+((lp36
+S"(194, u'\\\\bsr ?57227')"
+p37
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(5799, u'(?i)(rodents|rodent)')"
+((lp41
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(2568, u'(?i)(hens|hen)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(7610, u'(?i)(ernes|erne)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(7609, u'(?i)(erns|ern)')"
-p54
-aS"(1683, u'(?i)(terns|tern)')"
-p55
-atp56
-Rp57
+atp44
+Rp45
 sb.

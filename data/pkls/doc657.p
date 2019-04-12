@@ -40,84 +40,38 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(256, u'(?i)(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(293, u'(?i)\\\\b(posteriors|posterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p26
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p27
-aS"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(293, u'(?i)(posteriors|posterior)(-|\\\\s+)?(cingulates|cingulate)')"
+aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p29
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
-p34
+p33
 V2014
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-tp38
-Rp39
+((lp36
+tp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(6356, u'(?i)(ais|ai)')"
+((lp40
+S"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+p41
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(3048, u'(?i)(hogs|hog)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(1070, u'(?i)(pets|pet)')"
-p47
-aS"(5626, u'(?i)(posters|poster)')"
-p48
-aS"(6125, u'(?i)(females|female)')"
-p49
-aS"(702, u'(?i)(genets|genet)')"
-p50
-aS"(5967, u'(?i)(males|male)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(2809, u'(?i)(toms|tom)')"
-p54
-aS"(5537, u'(?i)(hippos|hippo)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(867, u'(?i)(tits|tit)')"
-p57
-aS"(6682, u'(?i)(tera|teras)')"
-p58
-aS"(1055, u'(?i)(men|man)')"
-p59
-aS"(4979, u'(?i)(cats|cat)')"
-p60
-aS"(2323, u'(?i)(bees|bee)')"
-p61
-aS"(1628, u'(?i)(cod|cod)')"
-p62
-aS"(6753, u'(?i)(da|das)')"
-p63
-aS"(2665, u'(?i)(rays|ray)')"
-p64
-aS"(1054, u'(?i)(homoes|homo)')"
-p65
-atp66
-Rp67
+atp43
+Rp44
 sb.

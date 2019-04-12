@@ -32,52 +32,32 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2a'
 p20
-aS'5ht2a'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-tp26
-Rp27
+((lp24
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2010
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(6682, u'(?i)(tera|teras)')"
-p38
-aS"(4663, u'(?i)(nags|nag)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-atp46
-Rp47
+((lp34
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

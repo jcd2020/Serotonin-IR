@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -40,66 +40,38 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2001
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(169, u'\\\\bfenfluramine')"
-p34
-atp35
-Rp36
+((lp32
+S"(163, u'\\\\bfenfluramine')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(1070, u'(?i)(pets|pet)')"
+((lp37
+S"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
+p38
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p39
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p41
-aS"(5743, u'(?i)(bots|bot)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(7127, u'(?i)(monitors|monitor)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(1057, u'(?i)(humans|human)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(3196, u'(?i)(human|humans)')"
-p53
-aS"(2809, u'(?i)(toms|tom)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(5949, u'(?i)(dogs|dog)')"
-p56
-atp57
-Rp58
+atp43
+Rp44
 sb.

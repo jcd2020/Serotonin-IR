@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(203, u'\\\\btfmpp')"
 p5
 atp6
 Rp7
@@ -54,13 +54,13 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(195, u'\\\\bphenylbiguanide')"
+S"(178, u'\\\\btfmpp')"
 p33
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(191, u'\\\\bphenylbiguanide')"
 p34
-aS"(169, u'\\\\bfenfluramine')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p35
-aS"(183, u'\\\\btfmpp')"
+aS"(163, u'\\\\bfenfluramine')"
 p36
 atp37
 Rp38
@@ -68,40 +68,10 @@ sS'species'
 p39
 g3
 ((lp40
-S"(6753, u'(?i)(da|das)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p42
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(3722, u'(?i)(pups|pup)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(6878, u'(?i)(guans|guan)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-atp58
-Rp59
+atp43
+Rp44
 sb.

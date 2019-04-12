@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -46,9 +46,9 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
 atp30
 Rp31
@@ -60,7 +60,7 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(66, u'\\\\bperospirone')"
+S"(59, u'\\\\bperospirone')"
 p36
 atp37
 Rp38
@@ -68,14 +68,8 @@ sS'species'
 p39
 g3
 ((lp40
-S"(5958, u'(?i)(rats|rat)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-atp45
-Rp46
+atp42
+Rp43
 sb.

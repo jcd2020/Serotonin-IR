@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -38,80 +38,42 @@ sS'receptors'
 p21
 g3
 ((lp22
-S'5ht5'
+S'5ht1a'
 p23
 aS'5ht4'
 p24
-aS'5ht1a'
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+((lp28
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p31
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+atp32
+Rp33
 sS'year'
-p37
+p34
 V2006
-p38
+p35
 sS'agonists'
-p39
+p36
 g3
-((lp40
-S"(155, u'\\\\bmem')"
-p41
-atp42
-Rp43
+((lp37
+S"(149, u'\\\\bmem')"
+p38
+atp39
+Rp40
 sS'species'
-p44
+p41
 g3
-((lp45
-S"(5537, u'(?i)(hippos|hippo)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(2568, u'(?i)(hens|hen)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(163, u'(?i)(mice|mouse)')"
-p50
-aS"(4163, u'(?i)(ermines|ermine)')"
-p51
-aS"(81, u'(?i)(asps|asp)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1349, u'(?i)(rams|ram)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-aS"(3550, u'(?i)(anis|ani)')"
-p58
-aS"(7094, u'(?i)(curs|cur)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-aS"(6391, u'(?i)(asses|ass)')"
-p61
-aS"(1628, u'(?i)(cod|cod)')"
-p62
-atp63
-Rp64
+((lp42
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p43
+atp44
+Rp45
 sb.

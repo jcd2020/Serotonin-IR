@@ -38,54 +38,28 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2008
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p31
-atp32
-Rp33
+((lp29
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5799, u'(?i)(rodents|rodent)')"
+((lp34
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p35
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(2183, u'(?i)(gars|gar)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(5131, u'(?i)(hags|hag)')"
-p42
-aS"(2334, u'(?i)(eels|eel)')"
-p43
-aS"(853, u'(?i)(minas|mina)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(3522, u'(?i)(tetras|tetra)')"
-p46
-aS"(7127, u'(?i)(monitors|monitor)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-atp50
-Rp51
+atp37
+Rp38
 sb.

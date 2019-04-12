@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -46,7 +46,7 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(209, u'(?i)(amygdalas|amygdala)')"
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p28
 atp29
 Rp30
@@ -58,7 +58,7 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p35
 atp36
 Rp37
@@ -66,36 +66,10 @@ sS'species'
 p38
 g3
 ((lp39
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p40
-aS"(2054, u'(?i)(heads|head)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(163, u'(?i)(mice|mouse)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(3522, u'(?i)(tetras|tetra)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(2809, u'(?i)(toms|tom)')"
-p52
-aS"(1345, u'(?i)(boas|boa)')"
-p53
-aS"(1085, u'(?i)(boars|boar)')"
-p54
-atp55
-Rp56
+atp42
+Rp43
 sb.

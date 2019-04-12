@@ -40,62 +40,42 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
 p25
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p26
-aS"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(222, u'(?i)\\\\b(neostriatums|neostriatum)\\\\b')"
 p28
-aS"(222, u'(?i)(neostriatums|neostriatum)')"
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p29
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p30
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
-p34
+p33
 V1991
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p38
-atp39
-Rp40
+((lp36
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p37
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(5626, u'(?i)(posters|poster)')"
+((lp41
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p42
+aS"(1795, u'(?i)\\\\b(mounts|mount)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(1795, u'(?i)(mounts|mount)')"
-p54
-atp55
-Rp56
+atp45
+Rp46
 sb.

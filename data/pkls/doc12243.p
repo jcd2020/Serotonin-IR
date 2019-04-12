@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p24
 atp25
 Rp26
@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p31
 atp32
 Rp33
@@ -58,40 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4749, u'(?i)\\\\b(blues|blue)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(2389, u'(?i)(spats|spat)')"
-p39
-aS"(479, u'(?i)(lings|ling)')"
-p40
-aS"(5967, u'(?i)(males|male)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(4749, u'(?i)(blues|blue)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(1345, u'(?i)(boas|boa)')"
-p51
-aS"(1085, u'(?i)(boars|boar)')"
-p52
-atp53
-Rp54
+atp39
+Rp40
 sb.

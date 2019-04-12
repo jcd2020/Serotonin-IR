@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bsb ?242084')"
+S"(99, u'\\\\bsb ?242084')"
 p5
 atp6
 Rp7
@@ -32,70 +32,50 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2c'
 p20
-aS'5ht2c'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(310, u'(?i)(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)')"
-p26
-atp27
-Rp28
+((lp24
+S"(310, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2015
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(153, u'\\\\bmdma')"
+((lp31
+S"(147, u'\\\\bmdma')"
+p32
+aS"(11, u'\\\\bamphetamine')"
 p33
-aS"(14, u'\\\\bamphetamine')"
+aS"(163, u'\\\\bfenfluramine')"
 p34
-aS"(169, u'\\\\bfenfluramine')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(6249, u'(?i)(ants|ant)')"
+((lp38
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p39
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p42
-aS"(4091, u'(?i)(adults|adult)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(5967, u'(?i)(males|male)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(4604, u'(?i)(mites|mite)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(2942, u'(?i)(daws|daw)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(1057, u'(?i)(humans|human)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(3196, u'(?i)(human|humans)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+atp45
+Rp46
 sb.

@@ -34,94 +34,56 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht3'
 p21
-aS'5ht3'
-p22
-aS'5ht2'
-p23
-aS'5ht2a'
-p24
 aS'5ht1a'
-p25
+p22
 aS'5ht3a'
-p26
-atp27
-Rp28
+p23
+aS'5ht2'
+p24
+aS'5ht2a'
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'year'
-p34
+p32
 V1998
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(192, u'\\\\bquipazine')"
 p36
-g3
-((lp37
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p38
-aS"(196, u'\\\\bquipazine')"
-p39
-atp40
-Rp41
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p37
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(949, u'(?i)(cohoes|coho)')"
+((lp41
+S"(3953, u'(?i)\\\\b(anoli|anolis)(-|\\\\s+)?(carolinenses|carolinensis)\\\\b')"
+p42
+aS"(3952, u'(?i)\\\\b(anoles|anole)\\\\b')"
+p43
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p44
-aS"(3951, u'(?i)(americans|american)(-|\\\\s+)?(chameleons|chameleon)')"
+aS"(4599, u'(?i)\\\\b(chameleons|chameleon)\\\\b')"
 p45
-aS"(5333, u'(?i)(reptiles|reptile)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p46
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(3951, u'(?i)\\\\b(americans|american)(-|\\\\s+)?(chameleons|chameleon)\\\\b')"
 p47
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(5333, u'(?i)\\\\b(reptiles|reptile)\\\\b')"
 p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(6878, u'(?i)(guans|guan)')"
-p50
-aS"(3601, u'(?i)(efts|eft)')"
-p51
-aS"(4091, u'(?i)(adults|adult)')"
-p52
-aS"(5967, u'(?i)(males|male)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(3522, u'(?i)(tetras|tetra)')"
-p57
-aS"(5958, u'(?i)(rats|rat)')"
-p58
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p59
-aS"(4599, u'(?i)(chameleons|chameleon)')"
-p60
-aS"(6682, u'(?i)(tera|teras)')"
-p61
-aS"(1055, u'(?i)(men|man)')"
-p62
-aS"(4979, u'(?i)(cats|cat)')"
-p63
-aS"(2568, u'(?i)(hens|hen)')"
-p64
-aS"(853, u'(?i)(minas|mina)')"
-p65
-aS"(3953, u'(?i)(anoli|anolis)(-|\\\\s+)?(carolinenses|carolinensis)')"
-p66
-aS"(3952, u'(?i)(anoles|anole)')"
-p67
-atp68
-Rp69
+atp49
+Rp50
 sb.

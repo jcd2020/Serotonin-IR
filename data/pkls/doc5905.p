@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(61, u'\\\\bmdl ?100907')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(45, u'\\\\bgr ?127935')"
+aS"(52, u'\\\\bmdl ?100907')"
 p6
 atp7
 Rp8
@@ -40,74 +40,48 @@ g3
 ((lp22
 S'5ht1b'
 p23
-aS'5ht5'
+aS'5ht1d'
 p24
 aS'5ht3a'
 p25
 aS'5ht2c'
 p26
-aS'5ht1d'
-p27
 aS'5ht2a'
-p28
-atp29
-Rp30
+p27
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-S"(220, u'(?i)(striatums|striatum)')"
+((lp31
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p32
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p33
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p34
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p35
-aS"(34, u'(?i)(pon|pons)')"
-p36
-atp37
-Rp38
+atp35
+Rp36
 sS'year'
-p39
+p37
 V1996
-p40
+p38
 sS'agonists'
+p39
+g3
+((lp40
+S"(101, u'\\\\bcp ?94253')"
 p41
-g3
-((lp42
-S"(108, u'\\\\bcp ?94253')"
-p43
-aS"(107, u'\\\\bcp ?93129')"
-p44
-atp45
-Rp46
+aS"(100, u'\\\\bcp ?93129')"
+p42
+atp43
+Rp44
 sS'species'
-p47
+p45
 g3
-((lp48
-S"(2568, u'(?i)(hens|hen)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(4163, u'(?i)(ermines|ermine)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(3522, u'(?i)(tetras|tetra)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(1414, u'(?i)(chars|char)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-aS"(6682, u'(?i)(tera|teras)')"
-p60
-atp61
-Rp62
+((lp46
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p47
+atp48
+Rp49
 sb.

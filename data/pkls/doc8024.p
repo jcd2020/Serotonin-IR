@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(200, u'\\\\bmesulergine')"
+S"(149, u'\\\\bsb ?203186')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(31, u'\\\\bway ?100635')"
 p6
-aS"(158, u'\\\\bsb ?203186')"
+aS"(193, u'\\\\bmesulergine')"
 p7
 atp8
 Rp9
@@ -50,56 +50,38 @@ aS'5ht2a'
 p27
 aS'5ht7a'
 p28
-aS'5ht5'
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'year'
-p36
+p35
 V1999
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp38
+S"(165, u'\\\\bmesulergine')"
+p39
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p40
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p41
-aS"(5, u'\\\\b5 ?ct')"
+aS"(219, u'\\\\b5 ?ct')"
 p42
-aS"(171, u'\\\\bmesulergine')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sS'species'
-p46
+p45
 g3
-((lp47
-S"(5537, u'(?i)(hippos|hippo)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(7094, u'(?i)(curs|cur)')"
-p52
-aS"(1054, u'(?i)(homoes|homo)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(1414, u'(?i)(chars|char)')"
-p56
-atp57
-Rp58
+((lp46
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

@@ -58,9 +58,9 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(74, u'\\\\bru ?24969')"
+S"(192, u'\\\\bquipazine')"
 p35
-aS"(196, u'\\\\bquipazine')"
+aS"(67, u'\\\\bru ?24969')"
 p36
 atp37
 Rp38
@@ -68,20 +68,8 @@ sS'species'
 p39
 g3
 ((lp40
-S"(6249, u'(?i)(ants|ant)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(3522, u'(?i)(tetras|tetra)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(821, u'(?i)(lice|louse)')"
-p47
-atp48
-Rp49
+atp42
+Rp43
 sb.

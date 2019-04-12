@@ -28,66 +28,44 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht1a'
 p18
-aS'5ht1a'
-p19
 aS'5ht1'
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp23
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p24
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2004
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(103, u'\\\\bsumatriptan')"
+((lp31
+S"(96, u'\\\\bsumatriptan')"
+p32
+aS"(97, u'\\\\bzolmitriptan')"
 p33
-aS"(104, u'\\\\bzolmitriptan')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(6753, u'(?i)(da|das)')"
+((lp37
+S"(607, u'(?i)\\\\b(dobsons|dobson)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(867, u'(?i)(tits|tit)')"
-p41
-aS"(3767, u'(?i)(olms|olm)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(3726, u'(?i)(mates|mate)')"
-p45
-aS"(607, u'(?i)(dobsons|dobson)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp40
+Rp41
 sb.

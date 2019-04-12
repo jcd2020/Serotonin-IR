@@ -8,15 +8,15 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
 aS"(14, u'\\\\bmethiothepin')"
 p6
 aS"(17, u'\\\\bnan ?190')"
 p7
-aS"(105, u'\\\\bmethysergide')"
+aS"(194, u'\\\\bmethysergide')"
 p8
-aS"(117, u'\\\\bmianserin')"
+aS"(133, u'\\\\bmianserin')"
 p9
 atp10
 Rp11
@@ -54,56 +54,36 @@ aS'5ht2a'
 p29
 aS'5ht1d'
 p30
-aS'5ht5'
-p31
 aS'5ht3a'
-p32
-atp33
-Rp34
+p31
+atp32
+Rp33
 sS'regions'
-p35
+p34
 g3
-((lp36
-S"(34, u'(?i)(pon|pons)')"
-p37
-atp38
-Rp39
+((lp35
+tp36
+Rp37
 sS'year'
-p40
+p38
 V2004
-p41
+p39
 sS'agonists'
+p40
+g3
+((lp41
+S"(53, u'\\\\bmethysergide')"
 p42
-g3
-((lp43
-S"(60, u'\\\\bmethysergide')"
-p44
-atp45
-Rp46
+atp43
+Rp44
 sS'species'
-p47
+p45
 g3
-((lp48
-S"(6753, u'(?i)(da|das)')"
-p49
-aS"(2568, u'(?i)(hens|hen)')"
-p50
-aS"(163, u'(?i)(mice|mouse)')"
-p51
-aS"(5967, u'(?i)(males|male)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(4964, u'(?i)(serins|serin)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(4979, u'(?i)(cats|cat)')"
-p58
-atp59
-Rp60
+((lp46
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p47
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p48
+atp49
+Rp50
 sb.

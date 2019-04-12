@@ -34,72 +34,38 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
 p22
-aS"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
+aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p23
-aS"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p24
-aS"(225, u'(?i)(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)')"
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
+aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
 p26
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p27
-aS"(223, u'(?i)(putamens|putamen)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V1996
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+tp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp37
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(853, u'(?i)(minas|mina)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(1683, u'(?i)(terns|tern)')"
-p48
-aS"(4371, u'(?i)(lizas|liza)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(7609, u'(?i)(erns|ern)')"
-p51
-aS"(391, u'(?i)(alli|allis)')"
-p52
-aS"(1628, u'(?i)(cod|cod)')"
-p53
-aS"(6325, u'(?i)(caudates|caudate)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(821, u'(?i)(lice|louse)')"
-p56
-atp57
-Rp58
+atp40
+Rp41
 sb.

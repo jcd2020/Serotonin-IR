@@ -8,106 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(131, u'\\\\bm1')"
 p6
-aS"(142, u'\\\\bm1')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
-aS"(56, u'\\\\bclozapine')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(15, u'\\\\bschizophreni')"
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht2c'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp28
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p29
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
-p34
+p33
 V2008
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(33, u'\\\\bdoi')"
+((lp36
+S"(175, u'\\\\bdoi')"
+p37
+aS"(23, u'\\\\bclozapine')"
 p38
-aS"(48, u'\\\\bhaloperidol')"
+aS"(43, u'\\\\bhaloperidol')"
 p39
-aS"(27, u'\\\\bclozapine')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(6753, u'(?i)(da|das)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(6580, u'(?i)(dams|dam)')"
-p49
-aS"(3592, u'(?i)(ravens|raven)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(7094, u'(?i)(curs|cur)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(1414, u'(?i)(chars|char)')"
-p57
-aS"(1349, u'(?i)(rams|ram)')"
-p58
-aS"(2809, u'(?i)(toms|tom)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-atp61
-Rp62
+((lp43
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

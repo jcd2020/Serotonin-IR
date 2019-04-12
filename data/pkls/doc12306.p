@@ -42,58 +42,36 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(95, u'(?i)\\\\b(reds|red)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(121, u'(?i)(habenulars|habenular)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p27
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p28
-aS"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+aS"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
 p29
-aS"(34, u'(?i)(pon|pons)')"
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p30
-aS"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+aS"(121, u'(?i)\\\\b(habenulars|habenular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(95, u'(?i)(reds|red)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2014
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-tp39
-Rp40
+((lp37
+tp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(2323, u'(?i)(bees|bee)')"
-p43
-aS"(2670, u'(?i)(arabs|arab)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(3431, u'(?i)(roans|roan)')"
-p52
-aS"(5537, u'(?i)(hippos|hippo)')"
-p53
-atp54
-Rp55
+((lp41
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

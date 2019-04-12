@@ -32,68 +32,46 @@ g3
 ((lp18
 S'5ht7'
 p19
-aS'5ht5'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(235, u'(?i)(diagonals|diagonal)(-|\\\\s+)?(bands|band)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(brocas|broca)')"
+((lp23
+S"(235, u'(?i)\\\\b(diagonals|diagonal)(-|\\\\s+)?(bands|band)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(brocas|broca)\\\\b')"
+p24
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
+aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p26
-aS"(231, u'(?i)(basals|basal)(-|\\\\s+)?(forebrains|forebrain)')"
+aS"(231, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(forebrains|forebrain)\\\\b')"
 p27
-aS"(34, u'(?i)(pon|pons)')"
+aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(51, u'(?i)\\\\b(laterodorsals|laterodorsal)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(51, u'(?i)(laterodorsals|laterodorsal)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(nuclei|nucleus)')"
-p30
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p31
-atp32
-Rp33
+atp30
+Rp31
 sS'year'
-p34
+p32
 V2014
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(231, u'\\\\blp ?211')"
 p36
-g3
-((lp37
-S"(233, u'\\\\blp ?211')"
-p38
-atp39
-Rp40
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(4624, u'(?i)(apes|ape)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(5176, u'(?i)(tegs|teg)')"
-p46
-aS"(4091, u'(?i)(adults|adult)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+((lp40
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

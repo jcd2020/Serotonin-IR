@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(124, u'\\\\bondansetron')"
 p6
 atp7
 Rp8
@@ -60,36 +60,8 @@ sS'species'
 p35
 g3
 ((lp36
-S"(4624, u'(?i)(apes|ape)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(163, u'(?i)(mice|mouse)')"
-p40
-aS"(4163, u'(?i)(ermines|ermine)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(2809, u'(?i)(toms|tom)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(7552, u'(?i)(bats|bat)')"
-p51
-atp52
-Rp53
+atp38
+Rp39
 sb.

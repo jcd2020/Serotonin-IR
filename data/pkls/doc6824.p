@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p23
 atp24
 Rp25
@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p30
 atp31
 Rp32
@@ -56,16 +56,6 @@ sS'species'
 p33
 g3
 ((lp34
-S"(3812, u'(?i)(studs|stud)')"
-p35
-aS"(4979, u'(?i)(cats|cat)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-atp40
-Rp41
+tp35
+Rp36
 sb.

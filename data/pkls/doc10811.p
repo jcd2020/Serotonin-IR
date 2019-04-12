@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p30
 atp31
 Rp32
@@ -56,32 +56,8 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2568, u'(?i)(hens|hen)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p35
-aS"(6753, u'(?i)(da|das)')"
-p36
-aS"(468, u'(?i)(oxen|ox)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(7094, u'(?i)(curs|cur)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(3550, u'(?i)(anis|ani)')"
-p41
-aS"(3522, u'(?i)(tetras|tetra)')"
-p42
-aS"(5229, u'(?i)(moles|mole)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(1628, u'(?i)(cod|cod)')"
-p45
-aS"(7058, u'(?i)(does|doe)')"
-p46
-aS"(5783, u'(?i)(hinds|hind)')"
-p47
-atp48
-Rp49
+atp36
+Rp37
 sb.

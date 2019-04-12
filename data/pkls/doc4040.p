@@ -8,88 +8,66 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(14, u'\\\\bmethiothepin')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(14, u'\\\\bmethiothepin')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(9, u'\\\\bdepress')"
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht1a'
-p22
+p21
 aS'5ht3a'
-p23
+p22
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V1998
-p33
+p31
 sS'agonists'
-p34
+p32
 g3
-((lp35
-tp36
-Rp37
+((lp33
+tp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(1725, u'(?i)(clams|clam)')"
+((lp37
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p38
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p39
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(3051, u'(?i)(pigs|pig)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(3062, u'(?i)(guineas|guinea)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(4964, u'(?i)(serins|serin)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(7094, u'(?i)(curs|cur)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p51
-atp52
-Rp53
+atp41
+Rp42
 sb.

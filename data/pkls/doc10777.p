@@ -32,74 +32,38 @@ g3
 ((lp18
 S'5ht6'
 p19
-aS'5ht5'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p25
-atp26
-Rp27
+((lp23
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p24
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2009
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(6753, u'(?i)(da|das)')"
+((lp34
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p35
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(7609, u'(?i)(erns|ern)')"
-p39
-aS"(702, u'(?i)(genets|genet)')"
-p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(1266, u'(?i)(embryos|embryo)')"
-p42
-aS"(4091, u'(?i)(adults|adult)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(645, u'(?i)(migrators|migrator)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(1057, u'(?i)(humans|human)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(3196, u'(?i)(human|humans)')"
-p52
-aS"(7610, u'(?i)(ernes|erne)')"
-p53
-aS"(1683, u'(?i)(terns|tern)')"
-p54
-aS"(821, u'(?i)(lice|louse)')"
-p55
-aS"(7127, u'(?i)(monitors|monitor)')"
-p56
-atp57
-Rp58
+atp39
+Rp40
 sb.

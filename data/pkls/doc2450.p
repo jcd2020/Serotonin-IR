@@ -8,110 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
-aS"(56, u'\\\\bclozapine')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(11, u'\\\\banxiolyt')"
-p18
+p17
 aS"(4, u'\\\\blocomot')"
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht1a'
-p24
-aS'5ht5'
-p25
-atp26
-Rp27
+p23
+atp24
+Rp25
 sS'regions'
-p28
+p26
 g3
-((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp27
+tp28
+Rp29
 sS'year'
-p33
+p30
 V2000
-p34
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(23, u'\\\\bclozapine')"
+p34
+aS"(11, u'\\\\bamphetamine')"
 p35
-g3
-((lp36
-S"(48, u'\\\\bhaloperidol')"
-p37
-aS"(14, u'\\\\bamphetamine')"
-p38
-aS"(27, u'\\\\bclozapine')"
-p39
-atp40
-Rp41
+aS"(43, u'\\\\bhaloperidol')"
+p36
+atp37
+Rp38
 sS'species'
-p42
+p39
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
+((lp40
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p41
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p42
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
+p43
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p44
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(2418, u'(?i)\\\\b(squirrels|squirrel)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p45
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p46
-aS"(6771, u'(?i)(squirrels|squirrel)')"
+aS"(6771, u'(?i)\\\\b(squirrels|squirrel)\\\\b')"
 p47
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(2401, u'(?i)(primates|primate)')"
-p50
-aS"(1349, u'(?i)(rams|ram)')"
-p51
-aS"(3726, u'(?i)(mates|mate)')"
-p52
-aS"(2418, u'(?i)(squirrels|squirrel)(-|\\\\s+)?(monkeys|monkey)')"
-p53
-aS"(2334, u'(?i)(eels|eel)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-aS"(5958, u'(?i)(rats|rat)')"
-p56
-aS"(1553, u'(?i)(mews|mew)')"
-p57
-aS"(7094, u'(?i)(curs|cur)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-aS"(6249, u'(?i)(ants|ant)')"
-p62
-atp63
-Rp64
+atp49
+Rp50
 sb.

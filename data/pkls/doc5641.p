@@ -52,18 +52,8 @@ sS'species'
 p31
 g3
 ((lp32
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p33
-aS"(163, u'(?i)(mice|mouse)')"
-p34
-aS"(479, u'(?i)(lings|ling)')"
-p35
-aS"(1349, u'(?i)(rams|ram)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(821, u'(?i)(lice|louse)')"
-p38
-atp39
-Rp40
+atp34
+Rp35
 sb.

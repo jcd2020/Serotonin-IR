@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(39, u'\\\\bsb ?224289')"
+S"(38, u'\\\\bsb ?224289')"
 p5
 atp6
 Rp7
@@ -56,9 +56,9 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(6, u'\\\\b5 ?mt')"
+S"(221, u'\\\\b5 ?mt')"
 p34
-aS"(121, u'\\\\bl ?694247')"
+aS"(114, u'\\\\bl ?694247')"
 p35
 atp36
 Rp37
@@ -66,32 +66,10 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2323, u'(?i)(bees|bee)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p40
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p41
-aS"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(3522, u'(?i)(tetras|tetra)')"
-p47
-aS"(1057, u'(?i)(humans|human)')"
-p48
-aS"(5917, u'(?i)(roaches|roach)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(5949, u'(?i)(dogs|dog)')"
-p52
-atp53
-Rp54
+atp42
+Rp43
 sb.

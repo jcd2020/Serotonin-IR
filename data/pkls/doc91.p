@@ -8,96 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(130, u'\\\\britanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(18, u'\\\\bpsychostim')"
-p17
+p16
 aS"(14, u'\\\\bpsychosis')"
-p18
+p17
 aS"(4, u'\\\\blocomot')"
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
-S'5ht5'
-p24
+((lp22
+S'5ht1a'
+p23
 aS'5ht3'
-p25
-aS'5ht1a'
-p26
+p24
 aS'5ht2'
-p27
-atp28
-Rp29
+p25
+atp26
+Rp27
 sS'regions'
+p28
+g3
+((lp29
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
-g3
-((lp31
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
-p32
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p33
-atp34
-Rp35
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p31
+atp32
+Rp33
 sS'year'
-p36
+p34
 V2008
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(58, u'\\\\bosemozotan')"
 p38
-g3
-((lp39
-S"(65, u'\\\\bosemozotan')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(4624, u'(?i)(apes|ape)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(163, u'(?i)(mice|mouse)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(4964, u'(?i)(serins|serin)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+((lp42
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p43
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p44
+atp45
+Rp46
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(129, u'\\\\bly ?53857')"
+S"(118, u'\\\\bly ?53857')"
 p5
 atp6
 Rp7
@@ -48,60 +48,34 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(126, u'(?i)(thalamuses|thalamus)')"
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p29
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
-p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+atp30
+Rp31
 sS'year'
-p34
+p32
 V2003
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-g3
-((lp37
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p38
-aS"(33, u'\\\\bdoi')"
-p39
-atp40
-Rp41
+aS"(175, u'\\\\bdoi')"
+p37
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(5958, u'(?i)(rats|rat)')"
+((lp41
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p42
+aS"(4952, u'(?i)\\\\b(felines|feline)\\\\b')"
+p43
+aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
 p44
-aS"(4952, u'(?i)(felines|feline)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(4163, u'(?i)(ermines|ermine)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(4177, u'(?i)(grays|gray)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(2665, u'(?i)(rays|ray)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+atp45
+Rp46
 sb.

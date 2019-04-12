@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(182, u'\\\\bsb ?258585')"
+S"(174, u'\\\\bsb ?258585')"
 p5
 atp6
 Rp7
@@ -40,52 +40,32 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p25
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2011
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(218, u'\\\\bway ?181187')"
-p35
-atp36
-Rp37
+((lp33
+S"(213, u'\\\\bway ?181187')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(1725, u'(?i)(clams|clam)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(3152, u'(?i)(layers|layer)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-atp50
-Rp51
+((lp38
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p39
+atp40
+Rp41
 sb.

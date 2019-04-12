@@ -52,30 +52,8 @@ sS'species'
 p31
 g3
 ((lp32
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5150, u'(?i)\\\\b(gerbils|gerbil)\\\\b')"
 p33
-aS"(6753, u'(?i)(da|das)')"
-p34
-aS"(5958, u'(?i)(rats|rat)')"
-p35
-aS"(7609, u'(?i)(erns|ern)')"
-p36
-aS"(5150, u'(?i)(gerbils|gerbil)')"
-p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(1349, u'(?i)(rams|ram)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-aS"(6580, u'(?i)(dams|dam)')"
-p43
-aS"(1683, u'(?i)(terns|tern)')"
-p44
-atp45
-Rp46
+atp34
+Rp35
 sb.

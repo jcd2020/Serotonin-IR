@@ -38,58 +38,34 @@ g3
 ((lp21
 S'5ht1b'
 p22
-aS'5ht5'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-tp28
-Rp29
+((lp26
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2015
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(155, u'\\\\bmem')"
-p34
-atp35
-Rp36
+((lp32
+S"(149, u'\\\\bmem')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(1070, u'(?i)(pets|pet)')"
+((lp37
+S"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
+p38
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p39
-aS"(2323, u'(?i)(bees|bee)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(931, u'(?i)(divers|diver)')"
-p42
-aS"(7609, u'(?i)(erns|ern)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(4176, u'(?i)(greys|grey)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-aS"(1683, u'(?i)(terns|tern)')"
-p51
-atp52
-Rp53
+atp40
+Rp41
 sb.

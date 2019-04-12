@@ -8,78 +8,62 @@ c__builtin__
 set
 p3
 ((lp4
-S"(57, u'\\\\bolanzapine')"
+S"(111, u'\\\\bolanzapine')"
 p5
-aS"(124, u'\\\\bolanzapine')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+p10
+atp11
+Rp12
 sS'topics'
-p14
+p13
 g3
-((lp15
+((lp14
 S"(3, u'\\\\bsleep')"
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
+((lp19
 S'5ht2c'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-tp26
-Rp27
+((lp24
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2000
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(64, u'\\\\bolanzapine')"
-p32
-atp33
-Rp34
+((lp30
+S"(57, u'\\\\bolanzapine')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(4624, u'(?i)(apes|ape)')"
+((lp35
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p36
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p37
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(5967, u'(?i)(males|male)')"
-p39
-aS"(4163, u'(?i)(ermines|ermine)')"
-p40
-aS"(1349, u'(?i)(rams|ram)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(1057, u'(?i)(humans|human)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(3196, u'(?i)(human|humans)')"
-p46
-atp47
-Rp48
+atp39
+Rp40
 sb.

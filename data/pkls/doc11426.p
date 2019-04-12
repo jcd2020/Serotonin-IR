@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(6, u'\\\\bcyproheptadine')"
+S"(104, u'\\\\bimipramine')"
 p5
-aS"(62, u'\\\\bcyproheptadine')"
+aS"(6, u'\\\\bcyproheptadine')"
 p6
-aS"(114, u'\\\\bimipramine')"
+aS"(53, u'\\\\bcyproheptadine')"
 p7
 aS"(22, u'\\\\bpropranolol')"
 p8
@@ -52,76 +52,36 @@ sS'regions'
 p29
 g3
 ((lp30
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V1992
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(83, u'\\\\btrifluoromethylphenylpiperazine')"
+((lp37
+S"(76, u'\\\\btrifluoromethylphenylpiperazine')"
+p38
+aS"(149, u'\\\\bmem')"
 p39
-aS"(155, u'\\\\bmem')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(7094, u'(?i)(curs|cur)')"
+((lp43
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p46
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1349, u'(?i)(rams|ram)')"
-p51
-aS"(5743, u'(?i)(bots|bot)')"
-p52
-aS"(5838, u'(?i)(cubs|cub)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(821, u'(?i)(lice|louse)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(867, u'(?i)(tits|tit)')"
-p57
-aS"(163, u'(?i)(mice|mouse)')"
-p58
-aS"(1055, u'(?i)(men|man)')"
-p59
-aS"(6753, u'(?i)(da|das)')"
-p60
-aS"(1961, u'(?i)(pens|pen)')"
-p61
-aS"(1414, u'(?i)(chars|char)')"
-p62
-aS"(5799, u'(?i)(rodents|rodent)')"
-p63
-aS"(2568, u'(?i)(hens|hen)')"
-p64
-aS"(3051, u'(?i)(pigs|pig)')"
-p65
-aS"(1054, u'(?i)(homoes|homo)')"
-p66
-aS"(7552, u'(?i)(bats|bat)')"
-p67
-atp68
-Rp69
+atp48
+Rp49
 sb.

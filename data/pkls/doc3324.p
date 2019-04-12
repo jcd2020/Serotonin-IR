@@ -26,82 +26,50 @@ sS'receptors'
 p15
 g3
 ((lp16
-S'5ht5'
+S'5ht2c'
 p17
-aS'5ht2c'
-p18
-atp19
-Rp20
+atp18
+Rp19
 sS'regions'
-p21
+p20
 g3
-((lp22
-S"(157, u'(?i)(limbics|limbic)(-|\\\\s+)?(systems|system)')"
+((lp21
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p22
+aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
 p23
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p24
-aS"(105, u'(?i)(par|pars)(-|\\\\s+)?(reticulatas|reticulata)')"
+aS"(222, u'(?i)\\\\b(neostriatums|neostriatum)\\\\b')"
 p25
-aS"(222, u'(?i)(neostriatums|neostriatum)')"
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p26
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(105, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(reticulatas|reticulata)\\\\b')"
 p27
-aS"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p28
-aS"(220, u'(?i)(striatums|striatum)')"
-p29
-aS"(104, u'(?i)(par|pars)(-|\\\\s+)?(compactas|compacta)')"
-p30
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p31
-atp32
-Rp33
+atp29
+Rp30
 sS'year'
-p34
+p31
 V1997
-p35
+p32
 sS'agonists'
-p36
+p33
 g3
-((lp37
-tp38
-Rp39
+((lp34
+tp35
+Rp36
 sS'species'
-p40
+p37
 g3
-((lp41
-S"(4404, u'(?i)(duns|dun)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(7609, u'(?i)(erns|ern)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(4091, u'(?i)(adults|adult)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-aS"(391, u'(?i)(alli|allis)')"
-p54
-aS"(6094, u'(?i)(emus|emu)')"
-p55
-aS"(6325, u'(?i)(caudates|caudate)')"
-p56
-aS"(1683, u'(?i)(terns|tern)')"
-p57
-atp58
-Rp59
+((lp38
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p39
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p40
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

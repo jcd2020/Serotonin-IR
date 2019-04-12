@@ -8,94 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(21, u'\\\\bpindolol')"
 p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(128, u'\\\\bketanserin')"
-p7
 aS"(17, u'\\\\bnan ?190')"
+p6
+aS"(117, u'\\\\bketanserin')"
+p7
+aS"(194, u'\\\\bmethysergide')"
 p8
-aS"(105, u'\\\\bmethysergide')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(24, u'\\\\banalgesi')"
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
-S'5ht5'
-p24
+((lp22
+S'5ht1a'
+p23
 aS'5ht2e'
-p25
+p24
 aS'5ht3'
-p26
+p25
 aS'5ht1'
-p27
+p26
 aS'5ht1e'
-p28
+p27
 aS'5ht2a'
-p29
-aS'5ht1a'
-p30
+p28
 aS'5ht2'
-p31
-atp32
-Rp33
+p29
+atp30
+Rp31
 sS'regions'
-p34
+p32
 g3
-((lp35
-S"(34, u'(?i)(pon|pons)')"
-p36
-atp37
-Rp38
+((lp33
+tp34
+Rp35
 sS'year'
-p39
+p36
 V1998
-p40
+p37
 sS'agonists'
-p41
+p38
 g3
-((lp42
-S"(60, u'\\\\bmethysergide')"
-p43
-atp44
-Rp45
+((lp39
+S"(53, u'\\\\bmethysergide')"
+p40
+atp41
+Rp42
 sS'species'
-p46
+p43
 g3
-((lp47
-S"(6753, u'(?i)(da|das)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(4964, u'(?i)(serins|serin)')"
-p50
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p51
-aS"(3592, u'(?i)(ravens|raven)')"
-p52
-aS"(853, u'(?i)(minas|mina)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+((lp44
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+p45
+atp46
+Rp47
 sb.

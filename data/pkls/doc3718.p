@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(226, u'\\\\bas ?19')"
+S"(224, u'\\\\bas ?19')"
 p30
 atp31
 Rp32
@@ -56,30 +56,10 @@ sS'species'
 p33
 g3
 ((lp34
-S"(4624, u'(?i)(apes|ape)')"
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p35
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(931, u'(?i)(divers|diver)')"
-p37
-aS"(7539, u'(?i)(mammals|mammal)')"
-p38
-aS"(479, u'(?i)(lings|ling)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(3550, u'(?i)(anis|ani)')"
-p42
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p43
-aS"(5229, u'(?i)(moles|mole)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-atp47
-Rp48
+atp37
+Rp38
 sb.

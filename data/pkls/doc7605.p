@@ -26,76 +26,48 @@ sS'receptors'
 p15
 g3
 ((lp16
-S'5ht5'
+S'5ht2a'
 p17
-aS'5ht2a'
-p18
-atp19
-Rp20
+atp18
+Rp19
 sS'regions'
-p21
+p20
 g3
-((lp22
-S"(220, u'(?i)(striatums|striatum)')"
+((lp21
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p22
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p23
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p24
-aS"(223, u'(?i)(putamens|putamen)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2001
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(6753, u'(?i)(da|das)')"
+((lp34
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p35
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p36
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p38
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p39
-aS"(2401, u'(?i)(primates|primate)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(3152, u'(?i)(layers|layer)')"
-p44
-aS"(4964, u'(?i)(serins|serin)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1057, u'(?i)(humans|human)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(3196, u'(?i)(human|humans)')"
-p49
-aS"(6325, u'(?i)(caudates|caudate)')"
-p50
-aS"(2809, u'(?i)(toms|tom)')"
-p51
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(1683, u'(?i)(terns|tern)')"
-p54
-atp55
-Rp56
+atp41
+Rp42
 sb.

@@ -36,23 +36,23 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(218, u'(?i)(claustrums|claustrum)')"
+S"(187, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p23
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
 p24
-aS"(187, u'(?i)(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(140, u'(?i)\\\\b(parafasciculars|parafascicular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(175, u'(?i)(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p26
-aS"(140, u'(?i)(parafasciculars|parafascicular)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p27
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(175, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)\\\\b')"
 p28
-aS"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p29
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p30
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(218, u'(?i)\\\\b(claustrums|claustrum)\\\\b')"
 p31
 atp32
 Rp33
@@ -64,7 +64,7 @@ sS'agonists'
 p36
 g3
 ((lp37
-S"(126, u'\\\\bly334370')"
+S"(119, u'\\\\bly334370')"
 p38
 atp39
 Rp40
@@ -72,44 +72,28 @@ sS'species'
 p41
 g3
 ((lp42
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
 p44
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p45
-aS"(6753, u'(?i)(da|das)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p46
-aS"(479, u'(?i)(lings|ling)')"
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p47
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p48
-aS"(1055, u'(?i)(men|man)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p49
-aS"(3062, u'(?i)(guineas|guinea)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p50
-aS"(853, u'(?i)(minas|mina)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p51
-aS"(1057, u'(?i)(humans|human)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p52
-aS"(4597, u'(?i)(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p53
-aS"(4371, u'(?i)(lizas|liza)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(3196, u'(?i)(human|humans)')"
-p56
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p57
-aS"(3152, u'(?i)(layers|layer)')"
-p58
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p59
-aS"(4596, u'(?i)(rhesuses|rhesus)')"
-p60
-aS"(6325, u'(?i)(caudates|caudate)')"
-p61
-atp62
-Rp63
+atp54
+Rp55
 sb.

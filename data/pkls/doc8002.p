@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(194, u'\\\\bmethysergide')"
 p6
 atp7
 Rp8
@@ -56,52 +56,28 @@ sS'regions'
 p31
 g3
 ((lp32
-S"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+tp33
+Rp34
 sS'year'
-p36
+p35
 V1989
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(196, u'\\\\bquipazine')"
+((lp38
+S"(53, u'\\\\bmethysergide')"
+p39
+aS"(192, u'\\\\bquipazine')"
 p40
-aS"(60, u'\\\\bmethysergide')"
-p41
-atp42
-Rp43
+atp41
+Rp42
 sS'species'
-p44
+p43
 g3
-((lp45
-S"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(7094, u'(?i)(curs|cur)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(3522, u'(?i)(tetras|tetra)')"
-p54
-aS"(6331, u'(?i)(mares|mare)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-atp58
-Rp59
+((lp44
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

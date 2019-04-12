@@ -8,98 +8,70 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(6, u'\\\\bcognit')"
-p17
+p16
 aS"(13, u'\\\\bpsychedel')"
-p18
+p17
 aS"(7, u'\\\\bmemory')"
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht2'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp28
+tp29
+Rp30
 sS'year'
-p33
+p31
 V2018
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(158, u'\\\\blsd')"
 p35
-g3
-((lp36
-S"(56, u'\\\\blsd')"
+aS"(49, u'\\\\blysergic acid diethylamide')"
+p36
+aS"(149, u'\\\\bmem')"
 p37
-aS"(55, u'\\\\blysergic acid diethylamide')"
-p38
-aS"(155, u'\\\\bmem')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(479, u'(?i)(lings|ling)')"
-p46
-aS"(4091, u'(?i)(adults|adult)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(4964, u'(?i)(serins|serin)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(7094, u'(?i)(curs|cur)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-atp57
-Rp58
+((lp41
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p42
+atp43
+Rp44
 sb.

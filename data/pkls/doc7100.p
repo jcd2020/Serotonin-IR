@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(35, u'\\\\baripiprazole')"
 p5
-aS"(36, u'\\\\baripiprazole')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -46,11 +46,11 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
 atp31
 Rp32
@@ -62,9 +62,9 @@ sS'agonists'
 p35
 g3
 ((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(223, u'\\\\baripiprazole')"
 p37
-aS"(16, u'\\\\baripiprazole')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p38
 atp39
 Rp40
@@ -72,30 +72,10 @@ sS'species'
 p41
 g3
 ((lp42
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p43
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(5967, u'(?i)(males|male)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(2942, u'(?i)(daws|daw)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+atp45
+Rp46
 sb.

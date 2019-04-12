@@ -32,86 +32,38 @@ g3
 ((lp18
 S'5ht1b'
 p19
-aS'5ht5'
-p20
 aS'5ht1d'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-tp26
-Rp27
+((lp24
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1999
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(103, u'\\\\bsumatriptan')"
+((lp30
+S"(96, u'\\\\bsumatriptan')"
+p31
+aS"(97, u'\\\\bzolmitriptan')"
 p32
-aS"(104, u'\\\\bzolmitriptan')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(3812, u'(?i)(studs|stud)')"
+((lp36
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(1070, u'(?i)(pets|pet)')"
-p41
-aS"(479, u'(?i)(lings|ling)')"
-p42
-aS"(4091, u'(?i)(adults|adult)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(3404, u'(?i)(titis|titi)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(5838, u'(?i)(cubs|cub)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(391, u'(?i)(alli|allis)')"
-p49
-aS"(821, u'(?i)(lice|louse)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(867, u'(?i)(tits|tit)')"
-p53
-aS"(3767, u'(?i)(olms|olm)')"
-p54
-aS"(6682, u'(?i)(tera|teras)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(853, u'(?i)(minas|mina)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(2568, u'(?i)(hens|hen)')"
-p59
-aS"(4979, u'(?i)(cats|cat)')"
-p60
-aS"(3726, u'(?i)(mates|mate)')"
-p61
-aS"(7552, u'(?i)(bats|bat)')"
-p62
-atp63
-Rp64
+atp39
+Rp40
 sb.

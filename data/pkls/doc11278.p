@@ -8,110 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(99, u'\\\\bsb ?242084')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(52, u'\\\\bmdl ?100907')"
 p7
-aS"(110, u'\\\\bsb ?242084')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(6, u'\\\\bcognit')"
-p18
+p17
 aS"(35, u'\\\\bstress')"
-p19
+p18
 aS"(7, u'\\\\bmemory')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht2c'
-p25
+p24
 aS'5ht2a'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+((lp29
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p30
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p31
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V2011
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(149, u'\\\\bmem')"
 p38
-g3
-((lp39
-S"(155, u'\\\\bmem')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(4624, u'(?i)(apes|ape)')"
-p45
-aS"(5537, u'(?i)(hippos|hippo)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(163, u'(?i)(mice|mouse)')"
-p49
-aS"(4163, u'(?i)(ermines|ermine)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(3726, u'(?i)(mates|mate)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(6682, u'(?i)(tera|teras)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(1414, u'(?i)(chars|char)')"
-p59
-aS"(6391, u'(?i)(asses|ass)')"
-p60
-aS"(4979, u'(?i)(cats|cat)')"
-p61
-aS"(4964, u'(?i)(serins|serin)')"
-p62
-atp63
-Rp64
+((lp42
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p43
+atp44
+Rp45
 sb.

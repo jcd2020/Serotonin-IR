@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bsb ?242084')"
+S"(99, u'\\\\bsb ?242084')"
 p5
 atp6
 Rp7
@@ -32,70 +32,42 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2c'
 p20
-aS'5ht2c'
-p21
 aS'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp25
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p26
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V2009
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-tp37
-Rp38
+((lp35
+tp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(5537, u'(?i)(hippos|hippo)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(7609, u'(?i)(erns|ern)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(6682, u'(?i)(tera|teras)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(1349, u'(?i)(rams|ram)')"
-p47
-aS"(853, u'(?i)(minas|mina)')"
-p48
-aS"(3050, u'(?i)(hoggs|hogg)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(3048, u'(?i)(hogs|hog)')"
-p53
-aS"(1683, u'(?i)(terns|tern)')"
-p54
-atp55
-Rp56
+((lp39
+S"(3050, u'(?i)\\\\b(hoggs|hogg)\\\\b')"
+p40
+atp41
+Rp42
 sb.

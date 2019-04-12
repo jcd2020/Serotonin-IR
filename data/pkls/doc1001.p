@@ -58,7 +58,7 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p35
 atp36
 Rp37
@@ -66,38 +66,12 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2323, u'(?i)(bees|bee)')"
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
 p40
-aS"(3550, u'(?i)(anis|ani)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(702, u'(?i)(genets|genet)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(3152, u'(?i)(layers|layer)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(2395, u'(?i)(mutants|mutant)')"
-p49
-aS"(5917, u'(?i)(roaches|roach)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(7609, u'(?i)(erns|ern)')"
-p52
-aS"(5537, u'(?i)(hippos|hippo)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(1683, u'(?i)(terns|tern)')"
-p55
-atp56
-Rp57
+atp43
+Rp44
 sb.

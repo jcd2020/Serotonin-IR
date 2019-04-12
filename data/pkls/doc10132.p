@@ -22,19 +22,19 @@ sS'topics'
 p12
 g3
 ((lp13
-S"(10, u'\\\\banxiety')"
+S"(36, u'\\\\bcompulsiv')"
 p14
-aS"(1, u'\\\\bmood')"
+aS"(10, u'\\\\banxiety')"
 p15
-atp16
-Rp17
+aS"(1, u'\\\\bmood')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
-S'5ht5'
-p20
-aS'5ht1d'
+((lp20
+S'5ht1d'
 p21
 atp22
 Rp23
@@ -52,11 +52,11 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(103, u'\\\\bsumatriptan')"
+S"(166, u'\\\\bmk ?212')"
 p32
-aS"(161, u'\\\\bmcpp')"
+aS"(96, u'\\\\bsumatriptan')"
 p33
-aS"(172, u'\\\\bmk ?212')"
+aS"(155, u'\\\\bmcpp')"
 p34
 atp35
 Rp36
@@ -64,30 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(2323, u'(?i)(bees|bee)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(7552, u'(?i)(bats|bat)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(7058, u'(?i)(does|doe)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(2809, u'(?i)(toms|tom)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp40
+Rp41
 sb.

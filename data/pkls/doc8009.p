@@ -30,74 +30,42 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht1a'
 p19
-aS'5ht1a'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(189, u'(?i)(subthalamics|subthalamic)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp23
+S"(189, u'(?i)\\\\b(subthalamics|subthalamic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p24
+aS"(316, u'(?i)\\\\b(nigrostriatals|nigrostriatal)(-|\\\\s+)?(pathways|pathway)\\\\b')"
 p25
-aS"(316, u'(?i)(nigrostriatals|nigrostriatal)(-|\\\\s+)?(pathways|pathway)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2009
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(76, u'\\\\bsarizotan')"
-p33
-atp34
-Rp35
+((lp31
+S"(69, u'\\\\bsarizotan')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(6249, u'(?i)(ants|ant)')"
+((lp36
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p37
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(7609, u'(?i)(erns|ern)')"
-p42
-aS"(4201, u'(?i)(kines|kine)')"
-p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(5967, u'(?i)(males|male)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3726, u'(?i)(mates|mate)')"
-p48
-aS"(2942, u'(?i)(daws|daw)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(1683, u'(?i)(terns|tern)')"
-p55
-atp56
-Rp57
+atp40
+Rp41
 sb.

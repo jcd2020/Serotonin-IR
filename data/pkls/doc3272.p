@@ -40,78 +40,44 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+S"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-aS"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2007
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp32
+S"(149, u'\\\\bmem')"
+p33
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p34
-aS"(155, u'\\\\bmem')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(4404, u'(?i)(duns|dun)')"
+((lp38
+S"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+p39
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p40
-aS"(3592, u'(?i)(ravens|raven)')"
+aS"(2665, u'(?i)\\\\b(rays|ray)\\\\b')"
 p41
-aS"(1349, u'(?i)(rams|ram)')"
+aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
 p42
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p43
-aS"(4099, u'(?i)(hamsters|hamster)')"
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p44
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
 p45
-aS"(3247, u'(?i)(youngs|young)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(7539, u'(?i)(mammals|mammal)')"
-p48
-aS"(479, u'(?i)(lings|ling)')"
-p49
-aS"(5967, u'(?i)(males|male)')"
-p50
-aS"(5217, u'(?i)(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)')"
-p51
-aS"(5743, u'(?i)(bots|bot)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(2809, u'(?i)(toms|tom)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(6682, u'(?i)(tera|teras)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(6753, u'(?i)(da|das)')"
-p58
-aS"(4371, u'(?i)(lizas|liza)')"
-p59
-aS"(1949, u'(?i)(pacemakers|pacemaker)')"
-p60
-aS"(1628, u'(?i)(cod|cod)')"
-p61
-aS"(2665, u'(?i)(rays|ray)')"
-p62
-atp63
-Rp64
+atp46
+Rp47
 sb.

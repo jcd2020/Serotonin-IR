@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -32,74 +32,44 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht1a'
 p20
-aS'5ht1a'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(235, u'(?i)(diagonals|diagonal)(-|\\\\s+)?(bands|band)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(brocas|broca)')"
+((lp24
+S"(235, u'(?i)\\\\b(diagonals|diagonal)(-|\\\\s+)?(bands|band)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(brocas|broca)\\\\b')"
+p25
+aS"(307, u'(?i)\\\\b(fornixes|fornix)\\\\b')"
 p26
-aS"(307, u'(?i)(fornixes|fornix)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V1999
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp32
+S"(100, u'\\\\bcp ?93129')"
+p33
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p34
-aS"(107, u'\\\\bcp ?93129')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp38
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p40
-aS"(5967, u'(?i)(males|male)')"
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6125, u'(?i)(females|female)')"
-p43
-aS"(7552, u'(?i)(bats|bat)')"
-p44
-aS"(81, u'(?i)(asps|asp)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(5838, u'(?i)(cubs|cub)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(1795, u'(?i)(mounts|mount)')"
-p54
-aS"(4074, u'(?i)(bulls|bull)')"
-p55
-aS"(821, u'(?i)(lice|louse)')"
-p56
-atp57
-Rp58
+atp42
+Rp43
 sb.

@@ -8,94 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(207, u'\\\\bsertindole')"
+S"(111, u'\\\\bolanzapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(188, u'\\\\bsertindole')"
+aS"(201, u'\\\\bsertindole')"
 p7
-aS"(57, u'\\\\bolanzapine')"
+aS"(180, u'\\\\bsertindole')"
 p8
-aS"(56, u'\\\\bclozapine')"
+aS"(58, u'\\\\bhaloperidol')"
 p9
-aS"(124, u'\\\\bolanzapine')"
-p10
-aS"(67, u'\\\\bhaloperidol')"
-p11
-atp12
-Rp13
+atp10
+Rp11
 sS'methods'
-p14
+p12
 g3
-((lp15
+((lp13
 S'Method.ANTAGONIST'
-p16
-atp17
-Rp18
+p14
+atp15
+Rp16
 sS'topics'
-p19
+p17
 g3
-((lp20
-tp21
-Rp22
+((lp18
+tp19
+Rp20
 sS'receptors'
+p21
+g3
+((lp22
+S'5ht2a'
 p23
-g3
-((lp24
-S'5ht5'
-p25
-aS'5ht2a'
-p26
-atp27
-Rp28
+atp24
+Rp25
 sS'regions'
-p29
+p26
 g3
-((lp30
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
-p31
-atp32
-Rp33
+((lp27
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p34
+p31
 V2006
-p35
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(57, u'\\\\bolanzapine')"
+p35
+aS"(23, u'\\\\bclozapine')"
 p36
-g3
-((lp37
-S"(64, u'\\\\bolanzapine')"
+aS"(11, u'\\\\bamphetamine')"
+p37
+aS"(43, u'\\\\bhaloperidol')"
 p38
-aS"(48, u'\\\\bhaloperidol')"
-p39
-aS"(14, u'\\\\bamphetamine')"
-p40
-aS"(27, u'\\\\bclozapine')"
-p41
-atp42
-Rp43
+atp39
+Rp40
 sS'species'
-p44
+p41
 g3
-((lp45
-S"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(5176, u'(?i)(tegs|teg)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(3426, u'(?i)(hares|hare)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-atp55
-Rp56
+((lp42
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

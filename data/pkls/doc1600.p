@@ -8,126 +8,86 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(200, u'\\\\bmesulergine')"
+aS"(193, u'\\\\bmesulergine')"
 p6
-aS"(123, u'\\\\bclozapine')"
+aS"(110, u'\\\\bclozapine')"
 p7
-aS"(56, u'\\\\bclozapine')"
+aS"(113, u'\\\\brisperidone')"
 p8
-aS"(204, u'\\\\bsb ?269970')"
-p9
-aS"(59, u'\\\\brisperidone')"
-p10
-atp11
-Rp12
+atp9
+Rp10
 sS'methods'
-p13
+p11
 g3
-((lp14
+((lp12
 S'Method.ANTAGONIST'
-p15
+p13
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p14
+atp15
+Rp16
 sS'topics'
-p19
+p17
 g3
-((lp20
+((lp18
 S"(3, u'\\\\bsleep')"
-p21
-atp22
-Rp23
+p19
+atp20
+Rp21
 sS'receptors'
-p24
+p22
 g3
-((lp25
+((lp23
 S'5ht7a'
-p26
+p24
 aS'5ht7'
-p27
+p25
 aS'5ht5'
-p28
+p26
 aS'5ht5c'
-p29
-atp30
-Rp31
+p27
+atp28
+Rp29
 sS'regions'
-p32
+p30
 g3
-((lp33
-S"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+((lp31
+tp32
+Rp33
 sS'year'
-p37
+p34
 V2005
-p38
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(96, u'\\\\bsumatriptan')"
+p38
+aS"(149, u'\\\\bmem')"
 p39
-g3
-((lp40
-S"(103, u'\\\\bsumatriptan')"
+aS"(165, u'\\\\bmesulergine')"
+p40
+aS"(67, u'\\\\bru ?24969')"
 p41
-aS"(74, u'\\\\bru ?24969')"
+aS"(23, u'\\\\bclozapine')"
 p42
-aS"(5, u'\\\\b5 ?ct')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p43
-aS"(27, u'\\\\bclozapine')"
+aS"(219, u'\\\\b5 ?ct')"
 p44
-aS"(171, u'\\\\bmesulergine')"
-p45
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p46
-aS"(155, u'\\\\bmem')"
-p47
-atp48
-Rp49
+atp45
+Rp46
 sS'species'
-p50
+p47
 g3
-((lp51
-S"(1070, u'(?i)(pets|pet)')"
-p52
-aS"(4163, u'(?i)(ermines|ermine)')"
-p53
-aS"(2568, u'(?i)(hens|hen)')"
-p54
-aS"(867, u'(?i)(tits|tit)')"
-p55
-aS"(1266, u'(?i)(embryos|embryo)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(468, u'(?i)(oxen|ox)')"
-p58
-aS"(1055, u'(?i)(men|man)')"
-p59
-aS"(937, u'(?i)(kids|kid)')"
-p60
-aS"(3404, u'(?i)(titis|titi)')"
-p61
-aS"(5743, u'(?i)(bots|bot)')"
-p62
-aS"(7094, u'(?i)(curs|cur)')"
-p63
-aS"(5958, u'(?i)(rats|rat)')"
-p64
-aS"(3522, u'(?i)(tetras|tetra)')"
-p65
-aS"(1057, u'(?i)(humans|human)')"
-p66
-aS"(6391, u'(?i)(asses|ass)')"
-p67
-aS"(3812, u'(?i)(studs|stud)')"
-p68
-aS"(3196, u'(?i)(human|humans)')"
-p69
-aS"(6356, u'(?i)(ais|ai)')"
-p70
-atp71
-Rp72
+((lp48
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p49
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p50
+atp51
+Rp52
 sb.

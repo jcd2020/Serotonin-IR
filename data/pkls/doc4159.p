@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(185, u'\\\\bsb ?399885')"
+S"(177, u'\\\\bsb ?399885')"
 p5
 atp6
 Rp7
@@ -44,64 +44,30 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
-aS"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p29
-aS"(34, u'(?i)(pon|pons)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p31
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'year'
-p35
+p33
 V2014
-p36
+p34
 sS'agonists'
-p37
+p35
 g3
-((lp38
-tp39
-Rp40
+((lp36
+tp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(1070, u'(?i)(pets|pet)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(867, u'(?i)(tits|tit)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(2183, u'(?i)(gars|gar)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(5131, u'(?i)(hags|hag)')"
-p50
-aS"(3404, u'(?i)(titis|titi)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(3592, u'(?i)(ravens|raven)')"
-p55
-aS"(3431, u'(?i)(roans|roan)')"
-p56
-aS"(2809, u'(?i)(toms|tom)')"
-p57
-atp58
-Rp59
+((lp40
+tp41
+Rp42
 sb.

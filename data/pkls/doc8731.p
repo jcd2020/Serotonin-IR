@@ -8,94 +8,58 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(130, u'\\\\britanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+p10
+atp11
+Rp12
 sS'topics'
-p14
+p13
 g3
-((lp15
-tp16
-Rp17
+((lp14
+tp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht5'
-p20
-aS'5ht2'
-p21
+((lp18
+S'5ht2'
+p19
 aS'5ht2a'
-p22
-atp23
-Rp24
+p20
+atp21
+Rp22
 sS'regions'
+p23
+g3
+((lp24
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-g3
-((lp26
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p27
-atp28
-Rp29
+atp26
+Rp27
 sS'year'
-p30
+p28
 V2018
-p31
+p29
 sS'agonists'
-p32
+p30
 g3
-((lp33
-tp34
-Rp35
+((lp31
+tp32
+Rp33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(2323, u'(?i)(bees|bee)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(7609, u'(?i)(erns|ern)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(4964, u'(?i)(serins|serin)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(5229, u'(?i)(moles|mole)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(391, u'(?i)(alli|allis)')"
-p53
-aS"(1683, u'(?i)(terns|tern)')"
-p54
-atp55
-Rp56
+((lp35
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

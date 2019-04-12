@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -38,32 +38,22 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2001
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(6356, u'(?i)(ais|ai)')"
-p35
-aS"(6249, u'(?i)(ants|ant)')"
-p36
-aS"(468, u'(?i)(oxen|ox)')"
-p37
-aS"(867, u'(?i)(tits|tit)')"
-p38
-atp39
-Rp40
+((lp33
+tp34
+Rp35
 sb.

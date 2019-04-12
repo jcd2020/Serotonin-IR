@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(35, u'\\\\baripiprazole')"
 p5
-aS"(41, u'\\\\bziprasidone')"
+aS"(114, u'\\\\bziprasidone')"
 p6
-aS"(36, u'\\\\baripiprazole')"
+aS"(31, u'\\\\bway ?100635')"
 p7
 atp8
 Rp9
@@ -62,13 +62,13 @@ sS'agonists'
 p35
 g3
 ((lp36
-S"(91, u'\\\\bziprasidone')"
+S"(20, u'\\\\bbuspirone')"
 p37
-aS"(16, u'\\\\baripiprazole')"
+aS"(223, u'\\\\baripiprazole')"
 p38
-aS"(24, u'\\\\bbuspirone')"
+aS"(149, u'\\\\bmem')"
 p39
-aS"(155, u'\\\\bmem')"
+aS"(84, u'\\\\bziprasidone')"
 p40
 atp41
 Rp42
@@ -76,36 +76,12 @@ sS'species'
 p43
 g3
 ((lp44
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p45
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(3726, u'(?i)(mates|mate)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(7094, u'(?i)(curs|cur)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(1057, u'(?i)(humans|human)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(3196, u'(?i)(human|humans)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-atp60
-Rp61
+atp48
+Rp49
 sb.

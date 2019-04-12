@@ -38,56 +38,32 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(386, u'(?i)(cisternas|cisterna)(-|\\\\s+)?(magnas|magna)')"
+S"(367, u'(?i)\\\\b(vertebrals|vertebral)(-|\\\\s+)?(arteries|artery)\\\\b')"
 p24
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(386, u'(?i)\\\\b(cisternas|cisterna)(-|\\\\s+)?(magnas|magna)\\\\b')"
 p25
-aS"(367, u'(?i)(vertebrals|vertebral)(-|\\\\s+)?(arteries|artery)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V1989
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p34
-atp35
-Rp36
+((lp32
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(1349, u'(?i)(rams|ram)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(1414, u'(?i)(chars|char)')"
-p47
-aS"(7609, u'(?i)(erns|ern)')"
-p48
-aS"(1683, u'(?i)(terns|tern)')"
-p49
-aS"(5949, u'(?i)(dogs|dog)')"
-p50
-atp51
-Rp52
+((lp37
+S"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
+p38
+atp39
+Rp40
 sb.

@@ -34,62 +34,32 @@ S'5ht1c'
 p19
 aS'5ht1a'
 p20
-aS'5ht5'
-p21
 aS'5ht2'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-tp27
-Rp28
+((lp25
+tp26
+Rp27
 sS'year'
-p29
+p28
 V1991
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(1070, u'(?i)(pets|pet)')"
-p37
-aS"(2323, u'(?i)(bees|bee)')"
-p38
-aS"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(6682, u'(?i)(tera|teras)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(3534, u'(?i)(scads|scad)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(6580, u'(?i)(dams|dam)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(3522, u'(?i)(tetras|tetra)')"
-p48
-aS"(4749, u'(?i)(blues|blue)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+((lp35
+S"(4749, u'(?i)\\\\b(blues|blue)\\\\b')"
+p36
+atp37
+Rp38
 sb.

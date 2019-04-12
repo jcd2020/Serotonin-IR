@@ -8,84 +8,70 @@ c__builtin__
 set
 p3
 ((lp4
-S"(188, u'\\\\bsertindole')"
+S"(112, u'\\\\bquetiapine')"
 p5
-aS"(57, u'\\\\bolanzapine')"
+aS"(131, u'\\\\bm1')"
 p6
-aS"(207, u'\\\\bsertindole')"
+aS"(50, u'\\\\bquetiapine')"
 p7
-aS"(142, u'\\\\bm1')"
+aS"(111, u'\\\\bolanzapine')"
 p8
-aS"(124, u'\\\\bolanzapine')"
+aS"(201, u'\\\\bsertindole')"
 p9
-aS"(125, u'\\\\bquetiapine')"
+aS"(180, u'\\\\bsertindole')"
 p10
-aS"(58, u'\\\\bquetiapine')"
-p11
-atp12
-Rp13
+atp11
+Rp12
 sS'methods'
-p14
+p13
 g3
-((lp15
+((lp14
 S'Method.ANTAGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
-tp21
-Rp22
+((lp19
+tp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p30
-atp31
-Rp32
+((lp28
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p33
+p32
 V2000
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(71, u'\\\\bquetiapine')"
+((lp35
+S"(57, u'\\\\bolanzapine')"
+p36
+aS"(64, u'\\\\bquetiapine')"
 p37
-aS"(64, u'\\\\bolanzapine')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(1688, u'(?i)(ounces|ounce)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(3592, u'(?i)(ravens|raven)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-atp50
-Rp51
+((lp41
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

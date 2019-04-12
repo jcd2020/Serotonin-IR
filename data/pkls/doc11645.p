@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
 atp6
 Rp7
@@ -36,74 +36,50 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht5'
+S'5ht3'
 p22
-aS'5ht3'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+((lp26
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p27
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p28
-aS"(70, u'(?i)(fourths|fourth)(-|\\\\s+)?(ventricles|ventricle)')"
+aS"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
 p29
-aS"(224, u'(?i)(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(70, u'(?i)\\\\b(fourths|fourth)(-|\\\\s+)?(ventricles|ventricle)\\\\b')"
 p31
-aS"(389, u'(?i)(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2015
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-tp39
-Rp40
+((lp37
+tp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp41
+S"(4749, u'(?i)\\\\b(blues|blue)\\\\b')"
+p42
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p44
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(4091, u'(?i)(adults|adult)')"
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(6580, u'(?i)(dams|dam)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(4749, u'(?i)(blues|blue)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(3247, u'(?i)(youngs|young)')"
-p55
-aS"(6325, u'(?i)(caudates|caudate)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(7552, u'(?i)(bats|bat)')"
-p58
-atp59
-Rp60
+atp47
+Rp48
 sb.

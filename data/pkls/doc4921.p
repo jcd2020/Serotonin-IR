@@ -38,11 +38,11 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p24
-aS"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p25
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(181, u'\\\\bdom')"
+S"(176, u'\\\\bdom')"
 p33
 atp34
 Rp35
@@ -62,40 +62,18 @@ sS'species'
 p36
 g3
 ((lp37
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p39
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(7424, u'(?i)\\\\b(rattuses|rattus)(-|\\\\s+)?(norvegicuses|norvegicus)\\\\b')"
 p40
-aS"(5743, u'(?i)(bots|bot)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p41
-aS"(479, u'(?i)(lings|ling)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(4091, u'(?i)(adults|adult)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p43
-aS"(5967, u'(?i)(males|male)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3522, u'(?i)(tetras|tetra)')"
-p49
-aS"(1057, u'(?i)(humans|human)')"
-p50
-aS"(7424, u'(?i)(rattuses|rattus)(-|\\\\s+)?(norvegicuses|norvegicus)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(3196, u'(?i)(human|humans)')"
-p53
-aS"(1683, u'(?i)(terns|tern)')"
-p54
-atp55
-Rp56
+atp44
+Rp45
 sb.

@@ -34,58 +34,44 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht1a'
 p21
-aS'5ht1a'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(220, u'(?i)(striatums|striatum)')"
-p27
-atp28
-Rp29
+((lp25
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p26
+atp27
+Rp28
 sS'year'
-p30
+p29
 V1996
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(47, u'\\\\bgepirone')"
+((lp32
+S"(20, u'\\\\bbuspirone')"
+p33
+aS"(210, u'\\\\bsulpiride')"
 p34
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(45, u'\\\\bipsapirone')"
 p35
-aS"(24, u'\\\\bbuspirone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-aS"(50, u'\\\\bipsapirone')"
+aS"(42, u'\\\\bgepirone')"
 p37
-aS"(214, u'\\\\bsulpiride')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(2323, u'(?i)(bees|bee)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(853, u'(?i)(minas|mina)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(1291, u'(?i)(ratels|ratel)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+((lp41
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(29, u'\\\\bspiroxatrine')"
+S"(28, u'\\\\bspiroxatrine')"
 p5
 atp6
 Rp7
@@ -40,44 +40,28 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1994
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5958, u'(?i)(rats|rat)')"
+((lp34
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p35
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(4091, u'(?i)(adults|adult)')"
-p38
-aS"(5967, u'(?i)(males|male)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(5743, u'(?i)(bots|bot)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(3522, u'(?i)(tetras|tetra)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-atp46
-Rp47
+atp38
+Rp39
 sb.

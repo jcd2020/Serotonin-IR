@@ -8,104 +8,70 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(67, u'\\\\bhaloperidol')"
+aS"(113, u'\\\\brisperidone')"
 p6
-aS"(54, u'\\\\britanserin')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
-aS"(59, u'\\\\brisperidone')"
-p8
-aS"(130, u'\\\\britanserin')"
-p9
-atp10
-Rp11
+atp8
+Rp9
 sS'methods'
-p12
+p10
 g3
-((lp13
+((lp11
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p12
+atp13
+Rp14
 sS'topics'
-p17
+p15
 g3
-((lp18
-tp19
-Rp20
+((lp16
+tp17
+Rp18
 sS'receptors'
+p19
+g3
+((lp20
+S'5ht2c'
 p21
-g3
-((lp22
-S'5ht5'
-p23
-aS'5ht2c'
-p24
 aS'5ht2a'
-p25
-atp26
-Rp27
+p22
+atp23
+Rp24
 sS'regions'
+p25
+g3
+((lp26
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p27
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p28
-g3
-((lp29
-S"(220, u'(?i)(striatums|striatum)')"
-p30
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p31
-aS"(223, u'(?i)(putamens|putamen)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p36
+p32
 V1998
-p37
+p33
 sS'agonists'
-p38
+p34
 g3
-((lp39
-S"(48, u'\\\\bhaloperidol')"
-p40
-atp41
-Rp42
+((lp35
+S"(43, u'\\\\bhaloperidol')"
+p36
+atp37
+Rp38
 sS'species'
-p43
+p39
 g3
-((lp44
-S"(2670, u'(?i)(arabs|arab)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(867, u'(?i)(tits|tit)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(4163, u'(?i)(ermines|ermine)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(4964, u'(?i)(serins|serin)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(7094, u'(?i)(curs|cur)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(6325, u'(?i)(caudates|caudate)')"
-p57
-aS"(5743, u'(?i)(bots|bot)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-atp60
-Rp61
+((lp40
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

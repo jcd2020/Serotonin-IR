@@ -46,54 +46,30 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2001
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p36
-atp37
-Rp38
+((lp34
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(5958, u'(?i)(rats|rat)')"
+((lp39
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p40
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(5967, u'(?i)(males|male)')"
-p43
-aS"(6580, u'(?i)(dams|dam)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(4177, u'(?i)(grays|gray)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(2665, u'(?i)(rays|ray)')"
-p53
-atp54
-Rp55
+atp42
+Rp43
 sb.

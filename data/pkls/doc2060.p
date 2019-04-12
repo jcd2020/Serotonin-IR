@@ -8,94 +8,66 @@ c__builtin__
 set
 p3
 ((lp4
-S"(129, u'\\\\bly ?53857')"
+S"(34, u'\\\\bmetergoline')"
 p5
-aS"(52, u'\\\\bmetergoline')"
+aS"(118, u'\\\\bly ?53857')"
 p6
-aS"(35, u'\\\\bmetergoline')"
-p7
 aS"(22, u'\\\\bpropranolol')"
-p8
-atp9
-Rp10
+p7
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(35, u'\\\\bstress')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1c'
-p23
+p22
 aS'5ht1a'
-p24
-aS'5ht5'
-p25
+p23
 aS'5ht2'
-p26
+p24
 aS'5ht1'
-p27
-atp28
-Rp29
+p25
+atp26
+Rp27
 sS'regions'
-p30
+p28
 g3
-((lp31
-S"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+((lp29
+tp30
+Rp31
 sS'year'
-p35
+p32
 V1991
-p36
+p33
 sS'agonists'
-p37
+p34
 g3
-((lp38
-tp39
-Rp40
+((lp35
+tp36
+Rp37
 sS'species'
-p41
+p38
 g3
-((lp42
-S"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(7609, u'(?i)(erns|ern)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(1928, u'(?i)(bears|bear)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3592, u'(?i)(ravens|raven)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+((lp39
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

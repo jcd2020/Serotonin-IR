@@ -54,54 +54,16 @@ sS'species'
 p32
 g3
 ((lp33
-S"(3248, u'(?i)(offspring|offspring)')"
+S"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
 p34
-aS"(1961, u'(?i)(pens|pen)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p35
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-aS"(6981, u'(?i)(moths|moth)')"
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p38
-aS"(3722, u'(?i)(pups|pup)')"
-p39
-aS"(6391, u'(?i)(asses|ass)')"
-p40
-aS"(6125, u'(?i)(females|female)')"
-p41
-aS"(702, u'(?i)(genets|genet)')"
-p42
-aS"(4091, u'(?i)(adults|adult)')"
-p43
-aS"(5967, u'(?i)(males|male)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(7609, u'(?i)(erns|ern)')"
-p48
-aS"(163, u'(?i)(mice|mouse)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(4604, u'(?i)(mites|mite)')"
-p51
-aS"(6753, u'(?i)(da|das)')"
-p52
-aS"(4371, u'(?i)(lizas|liza)')"
-p53
-aS"(2323, u'(?i)(bees|bee)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-aS"(3726, u'(?i)(mates|mate)')"
-p56
-aS"(1683, u'(?i)(terns|tern)')"
-p57
-atp58
-Rp59
+atp39
+Rp40
 sb.

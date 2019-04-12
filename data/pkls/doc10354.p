@@ -34,7 +34,7 @@ S'5ht1c'
 p19
 aS'5ht1b'
 p20
-aS'5ht5'
+aS'5ht1a'
 p21
 aS'5ht2b'
 p22
@@ -44,64 +44,38 @@ aS'5ht1e'
 p24
 aS'5ht1d'
 p25
-aS'5ht1a'
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
-p31
-atp32
-Rp33
+((lp29
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p34
+p33
 V1993
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-tp38
-Rp39
+((lp36
+tp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(1070, u'(?i)(pets|pet)')"
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p42
-aS"(3404, u'(?i)(titis|titi)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p44
-aS"(867, u'(?i)(tits|tit)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(3051, u'(?i)(pigs|pig)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(4604, u'(?i)(mites|mite)')"
-p51
-aS"(3062, u'(?i)(guineas|guinea)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p56
-aS"(5674, u'(?i)(ewes|ewe)')"
-p57
-atp58
-Rp59
+atp45
+Rp46
 sb.

@@ -40,54 +40,34 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(270, u'(?i)(v1s|v1)')"
+S"(270, u'(?i)\\\\b(v1s|v1)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2009
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
+((lp35
+S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
+p36
+aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
 p37
-aS"(2401, u'(?i)(primates|primate)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p38
-aS"(4091, u'(?i)(adults|adult)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p39
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(3726, u'(?i)(mates|mate)')"
-p42
-aS"(3152, u'(?i)(layers|layer)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(5229, u'(?i)(moles|mole)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6521, u'(?i)(macaques|macaque)')"
-p49
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p50
-atp51
-Rp52
+atp41
+Rp42
 sb.

@@ -30,92 +30,54 @@ S'5ht1a'
 p17
 aS'5ht2c'
 p18
-aS'5ht5'
-p19
 aS'5ht2a'
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(165, u'(?i)(preoptics|preoptic)(-|\\\\s+)?(areas|area)')"
+((lp23
+S"(187, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p24
+aS"(171, u'(?i)\\\\b(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(187, u'(?i)(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(170, u'(?i)\\\\b(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(175, u'(?i)(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)')"
+aS"(175, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)\\\\b')"
 p27
-aS"(185, u'(?i)(tuberomammillaries|tuberomammillary)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
 p28
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(185, u'(?i)\\\\b(tuberomammillaries|tuberomammillary)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p30
-aS"(170, u'(?i)(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(199, u'(?i)\\\\b(externals|external)(-|\\\\s+)?(capsules|capsule)\\\\b')"
 p31
-aS"(199, u'(?i)(externals|external)(-|\\\\s+)?(capsules|capsule)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p32
-aS"(171, u'(?i)(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'year'
-p36
+p35
 V1999
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-tp40
-Rp41
+((lp38
+tp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(5626, u'(?i)(posters|poster)')"
+((lp42
+S"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
+p43
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p44
-aS"(6753, u'(?i)(da|das)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6125, u'(?i)(females|female)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(3051, u'(?i)(pigs|pig)')"
-p50
-aS"(4163, u'(?i)(ermines|ermine)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(1349, u'(?i)(rams|ram)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(5967, u'(?i)(males|male)')"
-p57
-aS"(3592, u'(?i)(ravens|raven)')"
-p58
-aS"(7609, u'(?i)(erns|ern)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-aS"(2809, u'(?i)(toms|tom)')"
-p61
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p62
-aS"(6521, u'(?i)(macaques|macaque)')"
-p63
-aS"(1683, u'(?i)(terns|tern)')"
-p64
-atp65
-Rp66
+atp46
+Rp47
 sb.

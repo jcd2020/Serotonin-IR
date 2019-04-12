@@ -38,54 +38,38 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2011
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(163, u'\\\\bdmt')"
+((lp29
+S"(49, u'\\\\blysergic acid diethylamide')"
+p30
+aS"(157, u'\\\\bdmt')"
 p31
-aS"(181, u'\\\\bdom')"
+aS"(27, u'\\\\bdipt')"
 p32
-aS"(153, u'\\\\bmdma')"
+aS"(147, u'\\\\bmdma')"
 p33
-aS"(30, u'\\\\bdimethyltryptamine')"
+aS"(158, u'\\\\blsd')"
 p34
-aS"(56, u'\\\\blsd')"
+aS"(26, u'\\\\bdimethyltryptamine')"
 p35
-aS"(31, u'\\\\bdipt')"
+aS"(176, u'\\\\bdom')"
 p36
-aS"(55, u'\\\\blysergic acid diethylamide')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(4624, u'(?i)(apes|ape)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(867, u'(?i)(tits|tit)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

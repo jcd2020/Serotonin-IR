@@ -36,72 +36,30 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2003
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-S"(13, u'\\\\baet')"
-p30
-atp31
-Rp32
+((lp28
+S"(10, u'\\\\baet')"
+p29
+atp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(5454, u'(?i)(brills|brill)')"
+((lp33
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p34
+aS"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
 p35
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p36
-aS"(6580, u'(?i)(dams|dam)')"
-p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(3196, u'(?i)(human|humans)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(6391, u'(?i)(asses|ass)')"
-p42
-aS"(1795, u'(?i)(mounts|mount)')"
-p43
-aS"(1628, u'(?i)(cod|cod)')"
-p44
-aS"(4582, u'(?i)(kobs|kob)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(4176, u'(?i)(greys|grey)')"
-p48
-aS"(2809, u'(?i)(toms|tom)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1928, u'(?i)(bears|bear)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6753, u'(?i)(da|das)')"
-p54
-aS"(1057, u'(?i)(humans|human)')"
-p55
-aS"(2568, u'(?i)(hens|hen)')"
-p56
-aS"(1054, u'(?i)(homoes|homo)')"
-p57
-atp58
-Rp59
+atp37
+Rp38
 sb.

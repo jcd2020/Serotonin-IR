@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(155, u'\\\\bgr ?125487')"
+S"(146, u'\\\\bgr ?125487')"
 p5
 atp6
 Rp7
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p32
 atp33
 Rp34
@@ -60,28 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(4624, u'(?i)(apes|ape)')"
+S"(2340, u'(?i)\\\\b(wethers|wether)\\\\b')"
 p37
-aS"(2340, u'(?i)(wethers|wether)')"
+aS"(3636, u'(?i)\\\\b(martins|martin)\\\\b')"
 p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(3636, u'(?i)(martins|martin)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(4371, u'(?i)(lizas|liza)')"
-p42
-aS"(853, u'(?i)(minas|mina)')"
-p43
-aS"(5229, u'(?i)(moles|mole)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(821, u'(?i)(lice|louse)')"
-p47
-atp48
-Rp49
+atp39
+Rp40
 sb.

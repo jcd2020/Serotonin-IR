@@ -20,68 +20,48 @@ sS'topics'
 p11
 g3
 ((lp12
-tp13
-Rp14
+S"(36, u'\\\\bcompulsiv')"
+p13
+aS"(37, u'\\\\baddict')"
+p14
+atp15
+Rp16
 sS'receptors'
-p15
-g3
-((lp16
-S'5ht1a'
 p17
+g3
+((lp18
+S'5ht1a'
+p19
 aS'5ht2a'
-p18
-atp19
-Rp20
+p20
+atp21
+Rp22
 sS'regions'
-p21
-g3
-((lp22
-S"(256, u'(?i)(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)')"
 p23
-atp24
-Rp25
+g3
+((lp24
+S"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p26
-V2017
-p27
-sS'agonists'
 p28
+V2017
+p29
+sS'agonists'
+p30
 g3
-((lp29
-tp30
-Rp31
+((lp31
+tp32
+Rp33
 sS'species'
-p32
-g3
-((lp33
-S"(5958, u'(?i)(rats|rat)')"
 p34
-aS"(6356, u'(?i)(ais|ai)')"
-p35
-aS"(6753, u'(?i)(da|das)')"
+g3
+((lp35
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p36
-aS"(479, u'(?i)(lings|ling)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(1349, u'(?i)(rams|ram)')"
-p39
-aS"(3726, u'(?i)(mates|mate)')"
-p40
-aS"(3152, u'(?i)(layers|layer)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(7094, u'(?i)(curs|cur)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(821, u'(?i)(lice|louse)')"
-p47
-atp48
-Rp49
+atp38
+Rp39
 sb.

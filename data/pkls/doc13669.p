@@ -8,92 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(133, u'\\\\bmianserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(117, u'\\\\bmianserin')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht5'
-p22
+p21
 aS'5ht1a'
-p23
+p22
 aS'5ht2'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(71, u'(?i)(cerebellums|cerebellum)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp27
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p33
+p31
 V1987
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(220, u'\\\\b5 ?methoxytryptamine')"
 p35
-g3
-((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(166, u'\\\\bmk ?212')"
+p36
+aS"(192, u'\\\\bquipazine')"
 p37
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p38
-aS"(196, u'\\\\bquipazine')"
-p39
-aS"(172, u'\\\\bmk ?212')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(2323, u'(?i)(bees|bee)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(4964, u'(?i)(serins|serin)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-atp54
-Rp55
+((lp42
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

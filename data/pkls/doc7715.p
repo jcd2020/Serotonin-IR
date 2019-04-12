@@ -40,50 +40,30 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2009
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p32
-atp33
-Rp34
+((lp30
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(2568, u'(?i)(hens|hen)')"
+((lp35
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p36
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p37
-aS"(5217, u'(?i)(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)')"
+aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
 p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(2334, u'(?i)(eels|eel)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(7058, u'(?i)(does|doe)')"
-p44
-aS"(5229, u'(?i)(moles|mole)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-atp49
-Rp50
+atp39
+Rp40
 sb.

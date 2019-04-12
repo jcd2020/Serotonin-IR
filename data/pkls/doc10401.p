@@ -8,92 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(52, u'\\\\bmetergoline')"
+S"(34, u'\\\\bmetergoline')"
 p5
-aS"(120, u'\\\\bfluphenazine')"
+aS"(108, u'\\\\bfluphenazine')"
 p6
-aS"(35, u'\\\\bmetergoline')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht7'
-p22
+p21
 aS'5ht1a'
-p23
+p22
 aS'5ht2'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-tp29
-Rp30
+((lp27
+tp28
+Rp29
 sS'year'
-p31
+p30
 V2014
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
+((lp33
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(2568, u'(?i)(hens|hen)')"
+((lp38
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p39
+aS"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p40
-aS"(931, u'(?i)(divers|diver)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(163, u'(?i)(mice|mouse)')"
-p42
-aS"(7539, u'(?i)(mammals|mammal)')"
-p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p46
-aS"(3726, u'(?i)(mates|mate)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(7058, u'(?i)(does|doe)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(7609, u'(?i)(erns|ern)')"
-p52
-aS"(1683, u'(?i)(terns|tern)')"
-p53
-atp54
-Rp55
+atp42
+Rp43
 sb.

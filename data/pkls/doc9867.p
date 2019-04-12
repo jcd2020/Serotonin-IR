@@ -40,66 +40,26 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2013
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(6753, u'(?i)(da|das)')"
+((lp34
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p35
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p36
-aS"(2568, u'(?i)(hens|hen)')"
-p37
-aS"(867, u'(?i)(tits|tit)')"
-p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(6391, u'(?i)(asses|ass)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(2665, u'(?i)(rays|ray)')"
-p45
-aS"(853, u'(?i)(minas|mina)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(3152, u'(?i)(layers|layer)')"
-p48
-aS"(1057, u'(?i)(humans|human)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(1414, u'(?i)(chars|char)')"
-p51
-aS"(3196, u'(?i)(human|humans)')"
-p52
-aS"(1628, u'(?i)(cod|cod)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(6682, u'(?i)(tera|teras)')"
-p56
-atp57
-Rp58
+atp37
+Rp38
 sb.

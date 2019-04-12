@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bgranisetron')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(135, u'\\\\bondansetron')"
+aS"(123, u'\\\\bgranisetron')"
 p6
-aS"(141, u'\\\\bzacopride')"
+aS"(130, u'\\\\bzacopride')"
 p7
 atp8
 Rp9
@@ -46,7 +46,7 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
 atp29
 Rp30
@@ -58,7 +58,7 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(212, u'\\\\bzacopride')"
+S"(208, u'\\\\bzacopride')"
 p35
 atp36
 Rp37
@@ -66,36 +66,16 @@ sS'species'
 p38
 g3
 ((lp39
-S"(6753, u'(?i)(da|das)')"
+S"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(3636, u'(?i)(martins|martin)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p42
-aS"(5743, u'(?i)(bots|bot)')"
+aS"(3636, u'(?i)\\\\b(martins|martin)\\\\b')"
 p43
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p44
-aS"(3051, u'(?i)(pigs|pig)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3062, u'(?i)(guineas|guinea)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(1553, u'(?i)(mews|mew)')"
-p52
-aS"(3592, u'(?i)(ravens|raven)')"
-p53
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p54
-atp55
-Rp56
+atp45
+Rp46
 sb.

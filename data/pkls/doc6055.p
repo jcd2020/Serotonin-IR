@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100135')"
+S"(30, u'\\\\bway ?100135')"
 p5
 atp6
 Rp7
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(25, u'\\\\bcannabidiol')"
+S"(21, u'\\\\bcannabidiol')"
 p32
 atp33
 Rp34
@@ -60,34 +60,12 @@ sS'species'
 p35
 g3
 ((lp36
-S"(4624, u'(?i)(apes|ape)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p37
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(4091, u'(?i)(adults|adult)')"
-p41
-aS"(5967, u'(?i)(males|male)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(391, u'(?i)(alli|allis)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-atp51
-Rp52
+atp40
+Rp41
 sb.

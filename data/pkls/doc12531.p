@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(80, u'\\\\bvolinanserin')"
+S"(71, u'\\\\bvolinanserin')"
 p5
-aS"(75, u'\\\\bapd ?125')"
+aS"(67, u'\\\\beplivanserin')"
 p6
-aS"(78, u'\\\\bpimavanserin')"
+aS"(66, u'\\\\bapd ?125')"
 p7
-aS"(76, u'\\\\beplivanserin')"
+aS"(69, u'\\\\bpimavanserin')"
 p8
 atp9
 Rp10
@@ -66,30 +66,8 @@ sS'species'
 p38
 g3
 ((lp39
-S"(4624, u'(?i)(apes|ape)')"
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(4091, u'(?i)(adults|adult)')"
-p42
-aS"(2183, u'(?i)(gars|gar)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(7094, u'(?i)(curs|cur)')"
-p45
-aS"(107, u'(?i)(stags|stag)')"
-p46
-aS"(4964, u'(?i)(serins|serin)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(5917, u'(?i)(roaches|roach)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(2809, u'(?i)(toms|tom)')"
-p51
-atp52
-Rp53
+atp41
+Rp42
 sb.

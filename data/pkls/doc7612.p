@@ -38,11 +38,11 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p25
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(224, u'\\\\b5 ?methoxytryptamine')"
+S"(220, u'\\\\b5 ?methoxytryptamine')"
 p33
 atp34
 Rp35
@@ -62,20 +62,10 @@ sS'species'
 p36
 g3
 ((lp37
-S"(5958, u'(?i)(rats|rat)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p38
-aS"(479, u'(?i)(lings|ling)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5967, u'(?i)(males|male)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-atp45
-Rp46
+atp40
+Rp41
 sb.

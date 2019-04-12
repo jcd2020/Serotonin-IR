@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bsdz ?216525')"
+S"(30, u'\\\\bway ?100135')"
 p5
-aS"(31, u'\\\\bway ?100135')"
+aS"(25, u'\\\\bsdz ?216525')"
 p6
 atp7
 Rp8
@@ -42,9 +42,9 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p34
 atp35
 Rp36
@@ -64,28 +64,12 @@ sS'species'
 p37
 g3
 ((lp38
-S"(2568, u'(?i)(hens|hen)')"
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p39
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p40
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p41
-aS"(3062, u'(?i)(guineas|guinea)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(1349, u'(?i)(rams|ram)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(3522, u'(?i)(tetras|tetra)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p49
-atp50
-Rp51
+atp42
+Rp43
 sb.

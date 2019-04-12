@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -42,46 +42,30 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2001
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p34
-atp35
-Rp36
+((lp32
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(5958, u'(?i)(rats|rat)')"
+((lp37
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(3522, u'(?i)(tetras|tetra)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-atp48
-Rp49
+atp40
+Rp41
 sb.

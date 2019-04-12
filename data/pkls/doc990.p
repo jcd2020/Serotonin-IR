@@ -30,58 +30,36 @@ g3
 ((lp17
 S'5ht1a'
 p18
-aS'5ht5'
-p19
 aS'5ht2a'
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(287, u'(?i)(parahippocampals|parahippocampal)(-|\\\\s+)?(gyruses|gyrus)')"
+((lp23
+S"(287, u'(?i)\\\\b(parahippocampals|parahippocampal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+p24
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p25
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp26
+Rp27
 sS'year'
-p30
+p28
 V2014
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(63, u'\\\\bpsilocybin')"
 p32
-g3
-((lp33
-S"(70, u'\\\\bpsilocybin')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(5537, u'(?i)(hippos|hippo)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(7609, u'(?i)(erns|ern)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(2389, u'(?i)(spats|spat)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-atp48
-Rp49
+((lp36
+tp37
+Rp38
 sb.

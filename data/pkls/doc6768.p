@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p24
 atp25
 Rp26
@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(24, u'\\\\bbuspirone')"
+S"(20, u'\\\\bbuspirone')"
 p31
 atp32
 Rp33
@@ -58,20 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(1349, u'(?i)(rams|ram)')"
-p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(4979, u'(?i)(cats|cat)')"
-p40
-aS"(3550, u'(?i)(anis|ani)')"
-p41
-aS"(1961, u'(?i)(pens|pen)')"
-p42
-atp43
-Rp44
+atp37
+Rp38
 sb.

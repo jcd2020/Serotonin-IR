@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -42,64 +42,36 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p26
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
 p27
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p28
-aS"(221, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V1998
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(93, u'\\\\balnespirone')"
-p37
-atp38
-Rp39
+((lp35
+S"(86, u'\\\\balnespirone')"
+p36
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(4624, u'(?i)(apes|ape)')"
+((lp40
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(2568, u'(?i)(hens|hen)')"
-p44
-aS"(5176, u'(?i)(tegs|teg)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(7058, u'(?i)(does|doe)')"
-p56
-atp57
-Rp58
+atp43
+Rp44
 sb.

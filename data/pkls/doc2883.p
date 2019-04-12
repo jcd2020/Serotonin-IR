@@ -32,78 +32,54 @@ g3
 ((lp18
 S'5ht1a'
 p19
-aS'5ht5'
-p20
 aS'5ht2'
-p21
+p20
 aS'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+((lp25
+S"(195, u'(?i)\\\\b(telencephalons|telencephalon)\\\\b')"
+p26
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p27
-aS"(118, u'(?i)(diencephalons|diencephalon)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p28
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(118, u'(?i)\\\\b(diencephalons|diencephalon)\\\\b')"
 p29
-aS"(195, u'(?i)(telencephalons|telencephalon)')"
-p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+atp30
+Rp31
 sS'year'
-p34
+p32
 V2016
-p35
+p33
 sS'agonists'
-p36
+p34
 g3
-((lp37
-tp38
-Rp39
+((lp35
+tp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(5626, u'(?i)(posters|poster)')"
+((lp39
+S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+p40
+aS"(5156, u'(?i)\\\\b(invertebrates|invertebrate)\\\\b')"
+p41
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
+aS"(2621, u'(?i)\\\\b(vertebrates|vertebrate)\\\\b')"
 p43
-aS"(2621, u'(?i)(vertebrates|vertebrate)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p45
-aS"(5156, u'(?i)(invertebrates|invertebrate)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p46
-aS"(3051, u'(?i)(pigs|pig)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(3062, u'(?i)(guineas|guinea)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(1057, u'(?i)(humans|human)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(3196, u'(?i)(human|humans)')"
-p56
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-atp59
-Rp60
+atp47
+Rp48
 sb.

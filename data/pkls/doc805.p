@@ -8,90 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(130, u'\\\\britanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+p10
+atp11
+Rp12
 sS'topics'
-p14
+p13
 g3
-((lp15
-tp16
-Rp17
+((lp14
+tp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht5'
-p20
-aS'5ht2c'
-p21
+((lp18
+S'5ht2c'
+p19
 aS'5ht2'
-p22
+p20
 aS'5ht2a'
-p23
-atp24
-Rp25
+p21
+atp22
+Rp23
 sS'regions'
+p24
+g3
+((lp25
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p26
-g3
-((lp27
-S"(220, u'(?i)(striatums|striatum)')"
-p28
-aS"(174, u'(?i)(posteriors|posterior)')"
-p29
-atp30
-Rp31
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p32
+p30
 V2000
-p33
+p31
 sS'agonists'
-p34
+p32
 g3
-((lp35
-tp36
-Rp37
+((lp33
+tp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(5626, u'(?i)(posters|poster)')"
+((lp37
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p38
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p39
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(4964, u'(?i)(serins|serin)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(4091, u'(?i)(adults|adult)')"
-p46
-aS"(4163, u'(?i)(ermines|ermine)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(2942, u'(?i)(daws|daw)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(3247, u'(?i)(youngs|young)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-atp53
-Rp54
+atp42
+Rp43
 sb.

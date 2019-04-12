@@ -8,114 +8,80 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(204, u'\\\\bsb ?269970')"
+aS"(31, u'\\\\bway ?100635')"
 p7
-aS"(128, u'\\\\bketanserin')"
+aS"(58, u'\\\\bhaloperidol')"
 p8
-aS"(67, u'\\\\bhaloperidol')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
+p13
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
+((lp18
 S"(15, u'\\\\bschizophreni')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht7'
-p25
+p24
 aS'5ht5'
-p26
+p25
 aS'5ht2c'
-p27
+p26
 aS'5ht2a'
-p28
+p27
 aS'5ht1a'
-p29
+p28
 aS'5ht2'
-p30
-atp31
-Rp32
+p29
+atp30
+Rp31
 sS'regions'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+tp34
+Rp35
 sS'year'
-p37
+p36
 V2010
-p38
+p37
 sS'agonists'
-p39
+p38
 g3
-((lp40
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp39
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p40
+aS"(43, u'\\\\bhaloperidol')"
 p41
-aS"(48, u'\\\\bhaloperidol')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(4624, u'(?i)(apes|ape)')"
+((lp45
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(2568, u'(?i)(hens|hen)')"
-p49
-aS"(6125, u'(?i)(females|female)')"
-p50
-aS"(4964, u'(?i)(serins|serin)')"
-p51
-aS"(5967, u'(?i)(males|male)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(3726, u'(?i)(mates|mate)')"
-p55
-aS"(2942, u'(?i)(daws|daw)')"
-p56
-aS"(5958, u'(?i)(rats|rat)')"
-p57
-aS"(3522, u'(?i)(tetras|tetra)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(6391, u'(?i)(asses|ass)')"
-p60
-aS"(2809, u'(?i)(toms|tom)')"
-p61
-aS"(5743, u'(?i)(bots|bot)')"
-p62
-aS"(6356, u'(?i)(ais|ai)')"
-p63
-aS"(6249, u'(?i)(ants|ant)')"
-p64
-atp65
-Rp66
+atp48
+Rp49
 sb.

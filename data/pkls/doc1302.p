@@ -8,110 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.AGONIST'
-p11
-atp12
-Rp13
+p10
+atp11
+Rp12
 sS'topics'
-p14
+p13
 g3
-((lp15
-tp16
-Rp17
+((lp14
+tp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
+((lp18
 S'5ht1b'
-p20
-aS'5ht5'
-p21
+p19
 aS'5ht1d'
-p22
-atp23
-Rp24
+p20
+atp21
+Rp22
 sS'regions'
+p23
+g3
+((lp24
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p25
-g3
-((lp26
-S"(224, u'(?i)(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p26
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p27
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p28
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p31
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p32
-atp33
-Rp34
+atp30
+Rp31
 sS'year'
-p35
+p32
 V1997
-p36
+p33
 sS'agonists'
-p37
+p34
 g3
-((lp38
-S"(103, u'\\\\bsumatriptan')"
-p39
-atp40
-Rp41
+((lp35
+S"(96, u'\\\\bsumatriptan')"
+p36
+atp37
+Rp38
 sS'species'
-p42
+p39
 g3
-((lp43
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp40
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p41
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p42
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p43
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(867, u'(?i)(tits|tit)')"
-p48
-aS"(4964, u'(?i)(serins|serin)')"
-p49
-aS"(479, u'(?i)(lings|ling)')"
-p50
-aS"(4177, u'(?i)(grays|gray)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(2665, u'(?i)(rays|ray)')"
-p53
-aS"(853, u'(?i)(minas|mina)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(1057, u'(?i)(humans|human)')"
-p56
-aS"(1414, u'(?i)(chars|char)')"
-p57
-aS"(3196, u'(?i)(human|humans)')"
-p58
-aS"(391, u'(?i)(alli|allis)')"
-p59
-aS"(2809, u'(?i)(toms|tom)')"
-p60
-aS"(6325, u'(?i)(caudates|caudate)')"
-p61
-aS"(4979, u'(?i)(cats|cat)')"
-p62
-atp63
-Rp64
+atp45
+Rp46
 sb.

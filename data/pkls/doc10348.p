@@ -36,11 +36,11 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p23
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p24
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(74, u'\\\\bru ?24969')"
+S"(67, u'\\\\bru ?24969')"
 p32
 atp33
 Rp34
@@ -60,34 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(1070, u'(?i)(pets|pet)')"
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p37
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(867, u'(?i)(tits|tit)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(4091, u'(?i)(adults|adult)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(3404, u'(?i)(titis|titi)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp39
+Rp40
 sb.

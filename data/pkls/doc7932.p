@@ -36,50 +36,30 @@ S'5ht1b'
 p20
 aS'5ht1a'
 p21
-aS'5ht5'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-tp27
-Rp28
+((lp25
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2011
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(4624, u'(?i)(apes|ape)')"
-p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(3522, u'(?i)(tetras|tetra)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-atp47
-Rp48
+((lp35
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p36
+atp37
+Rp38
 sb.

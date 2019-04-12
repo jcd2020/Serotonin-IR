@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
 atp6
 Rp7
@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(193, u'\\\\bethanol')"
+S"(189, u'\\\\bethanol')"
 p31
 atp32
 Rp33
@@ -58,36 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5967, u'(?i)(males|male)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(4201, u'(?i)(kines|kine)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(1349, u'(?i)(rams|ram)')"
-p43
-aS"(4604, u'(?i)(mites|mite)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(2809, u'(?i)(toms|tom)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp39
+Rp40
 sb.

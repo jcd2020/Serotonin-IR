@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bsb ?242084')"
+S"(99, u'\\\\bsb ?242084')"
 p5
 atp6
 Rp7
@@ -40,78 +40,34 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
 p25
-aS"(389, u'(?i)(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2012
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(33, u'\\\\bdoi')"
-p34
-atp35
-Rp36
+((lp32
+S"(175, u'\\\\bdoi')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(7094, u'(?i)(curs|cur)')"
+((lp37
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p38
+aS"(4749, u'(?i)\\\\b(blues|blue)\\\\b')"
 p39
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(5229, u'(?i)(moles|mole)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(3152, u'(?i)(layers|layer)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(5838, u'(?i)(cubs|cub)')"
-p48
-aS"(4749, u'(?i)(blues|blue)')"
-p49
-aS"(821, u'(?i)(lice|louse)')"
-p50
-aS"(5537, u'(?i)(hippos|hippo)')"
-p51
-aS"(4301, u'(?i)(hydras|hydra)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(6753, u'(?i)(da|das)')"
-p55
-aS"(5949, u'(?i)(dogs|dog)')"
-p56
-aS"(2323, u'(?i)(bees|bee)')"
-p57
-aS"(2568, u'(?i)(hens|hen)')"
-p58
-aS"(2389, u'(?i)(spats|spat)')"
-p59
-aS"(3726, u'(?i)(mates|mate)')"
-p60
-aS"(2665, u'(?i)(rays|ray)')"
-p61
-aS"(7552, u'(?i)(bats|bat)')"
-p62
-atp63
-Rp64
+atp41
+Rp42
 sb.

@@ -54,60 +54,30 @@ aS'5ht2'
 p29
 aS'5ht1d'
 p30
-aS'5ht5'
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'regions'
-p34
+p33
 g3
-((lp35
-tp36
-Rp37
+((lp34
+tp35
+Rp36
 sS'year'
-p38
+p37
 V1991
-p39
+p38
 sS'agonists'
-p40
+p39
 g3
-((lp41
-S"(155, u'\\\\bmem')"
-p42
-atp43
-Rp44
+((lp40
+S"(149, u'\\\\bmem')"
+p41
+atp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(2323, u'(?i)(bees|bee)')"
-p47
-aS"(4624, u'(?i)(apes|ape)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(3601, u'(?i)(efts|eft)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(853, u'(?i)(minas|mina)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(7094, u'(?i)(curs|cur)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-aS"(6391, u'(?i)(asses|ass)')"
-p60
-atp61
-Rp62
+((lp45
+tp46
+Rp47
 sb.

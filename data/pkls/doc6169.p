@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -34,7 +34,7 @@ g3
 ((lp19
 S'5ht1b'
 p20
-aS'5ht5'
+aS'5ht1a'
 p21
 aS'5ht3'
 p22
@@ -42,56 +42,40 @@ aS'5ht2c'
 p23
 aS'5ht2a'
 p24
-aS'5ht1a'
-p25
 aS'5ht2'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(164, u'(?i)(supraoptics|supraoptic)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp29
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p30
+aS"(164, u'(?i)\\\\b(supraoptics|supraoptic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V2003
-p37
+p35
 sS'agonists'
-p38
+p36
 g3
-((lp39
-tp40
-Rp41
+((lp37
+tp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(5958, u'(?i)(rats|rat)')"
+((lp41
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p42
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p43
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(5967, u'(?i)(males|male)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(7094, u'(?i)(curs|cur)')"
-p48
-aS"(3592, u'(?i)(ravens|raven)')"
-p49
-aS"(6215, u'(?i)(racers|racer)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(7058, u'(?i)(does|doe)')"
-p52
-atp53
-Rp54
+atp45
+Rp46
 sb.

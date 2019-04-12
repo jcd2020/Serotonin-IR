@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(27, u'\\\\bspiperone')"
+S"(26, u'\\\\bspiperone')"
 p5
 atp6
 Rp7
@@ -70,34 +70,8 @@ sS'species'
 p40
 g3
 ((lp41
-S"(1070, u'(?i)(pets|pet)')"
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p42
-aS"(2323, u'(?i)(bees|bee)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(931, u'(?i)(divers|diver)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6215, u'(?i)(racers|racer)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(5229, u'(?i)(moles|mole)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-aS"(2809, u'(?i)(toms|tom)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+atp43
+Rp44
 sb.

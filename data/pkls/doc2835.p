@@ -8,106 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(96, u'\\\\brs ?102221')"
 p5
-aS"(108, u'\\\\brs ?102221')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(194, u'\\\\bmethysergide')"
 p7
-aS"(105, u'\\\\bmethysergide')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(21, u'\\\\bpain')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht2c'
-p23
+p22
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+((lp27
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+p28
+aS"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p29
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
-p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+atp30
+Rp31
 sS'year'
-p34
+p32
 V2014
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(53, u'\\\\bmethysergide')"
 p36
-g3
-((lp37
-S"(60, u'\\\\bmethysergide')"
-p38
-atp39
-Rp40
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(2323, u'(?i)(bees|bee)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(4177, u'(?i)(grays|gray)')"
-p48
-aS"(2183, u'(?i)(gars|gar)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(1349, u'(?i)(rams|ram)')"
-p51
-aS"(4964, u'(?i)(serins|serin)')"
-p52
-aS"(3858, u'(?i)(cobs|cob)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(3522, u'(?i)(tetras|tetra)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(2665, u'(?i)(rays|ray)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-aS"(6682, u'(?i)(tera|teras)')"
-p60
-atp61
-Rp62
+((lp40
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p41
+atp42
+Rp43
 sb.

@@ -38,42 +38,30 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2006
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(24, u'\\\\bbuspirone')"
-p31
-atp32
-Rp33
+((lp29
+S"(20, u'\\\\bbuspirone')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp34
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p35
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p36
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(4091, u'(?i)(adults|adult)')"
-p38
-aS"(5967, u'(?i)(males|male)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(1961, u'(?i)(pens|pen)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-atp44
-Rp45
+atp38
+Rp39
 sb.

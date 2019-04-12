@@ -8,104 +8,70 @@ c__builtin__
 set
 p3
 ((lp4
-S"(200, u'\\\\bmesulergine')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(204, u'\\\\bsb ?269970')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(123, u'\\\\bclozapine')"
+aS"(193, u'\\\\bmesulergine')"
 p7
-aS"(56, u'\\\\bclozapine')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht7'
-p23
-aS'5ht5'
-p24
+p22
 aS'5ht1a'
-p25
-atp26
-Rp27
+p23
+atp24
+Rp25
 sS'regions'
-p28
+p26
 g3
-((lp29
-tp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V2018
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(165, u'\\\\bmesulergine')"
 p34
-g3
-((lp35
-S"(171, u'\\\\bmesulergine')"
+aS"(23, u'\\\\bclozapine')"
+p35
+aS"(219, u'\\\\b5 ?ct')"
 p36
-aS"(5, u'\\\\b5 ?ct')"
-p37
-aS"(27, u'\\\\bclozapine')"
-p38
-atp39
-Rp40
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(1070, u'(?i)(pets|pet)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(867, u'(?i)(tits|tit)')"
-p46
-aS"(4201, u'(?i)(kines|kine)')"
-p47
-aS"(479, u'(?i)(lings|ling)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(3404, u'(?i)(titis|titi)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(1057, u'(?i)(humans|human)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(3196, u'(?i)(human|humans)')"
-p58
-aS"(7488, u'(?i)(molas|mola)')"
-p59
-atp60
-Rp61
+((lp40
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p41
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p42
+atp43
+Rp44
 sb.

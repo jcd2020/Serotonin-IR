@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(63, u'\\\\bpizotifen')"
+S"(54, u'\\\\bpizotifen')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(131, u'\\\\bm1')"
 p6
-aS"(142, u'\\\\bm1')"
+aS"(194, u'\\\\bmethysergide')"
 p7
 atp8
 Rp9
@@ -34,76 +34,54 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht1a'
 p21
 aS'5ht2b'
 p22
 aS'5ht2c'
 p23
-aS'5ht2a'
-p24
-aS'5ht1a'
-p25
 aS'5ht2'
-p26
-atp27
-Rp28
+p24
+aS'5ht2a'
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'year'
-p33
+p32
 V2015
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(161, u'\\\\bmcpp')"
+((lp35
+S"(140, u'\\\\bbw ?723c86')"
+p36
+aS"(53, u'\\\\bmethysergide')"
 p37
-aS"(146, u'\\\\bbw ?723c86')"
+aS"(155, u'\\\\bmcpp')"
 p38
-aS"(60, u'\\\\bmethysergide')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
+((lp42
+S"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p43
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p44
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p45
-aS"(479, u'(?i)(lings|ling)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p46
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(3062, u'(?i)(guineas|guinea)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(3522, u'(?i)(tetras|tetra)')"
-p53
-aS"(1057, u'(?i)(humans|human)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(3196, u'(?i)(human|humans)')"
-p57
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p58
-atp59
-Rp60
+atp48
+Rp49
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(112, u'\\\\bamitriptyline')"
+S"(102, u'\\\\bamitriptyline')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
 atp7
 Rp8
@@ -44,42 +44,24 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+tp27
+Rp28
 sS'year'
-p30
+p29
 V1991
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(50, u'\\\\bipsapirone')"
-p34
-atp35
-Rp36
+((lp32
+S"(45, u'\\\\bipsapirone')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(6682, u'(?i)(tera|teras)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-atp47
-Rp48
+((lp37
+tp38
+Rp39
 sb.

@@ -22,68 +22,50 @@ sS'topics'
 p12
 g3
 ((lp13
-tp14
-Rp15
+S"(37, u'\\\\baddict')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
+((lp18
 S'5ht1a'
-p18
-atp19
-Rp20
+p19
+atp20
+Rp21
 sS'regions'
-p21
+p22
 g3
-((lp22
-S"(220, u'(?i)(striatums|striatum)')"
-p23
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp23
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p25
-atp26
-Rp27
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p26
+atp27
+Rp28
 sS'year'
-p28
-V2008
 p29
-sS'agonists'
+V2008
 p30
+sS'agonists'
+p31
 g3
-((lp31
-S"(50, u'\\\\bipsapirone')"
-p32
-aS"(193, u'\\\\bethanol')"
+((lp32
+S"(45, u'\\\\bipsapirone')"
 p33
-atp34
-Rp35
+aS"(189, u'\\\\bethanol')"
+p34
+atp35
+Rp36
 sS'species'
-p36
+p37
 g3
-((lp37
-S"(2323, u'(?i)(bees|bee)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
+((lp38
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(949, u'(?i)(cohoes|coho)')"
-p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(5917, u'(?i)(roaches|roach)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-atp49
-Rp50
+atp40
+Rp41
 sb.

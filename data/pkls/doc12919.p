@@ -28,50 +28,34 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht1a'
 p18
-aS'5ht1a'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-tp24
-Rp25
+((lp22
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2007
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-S"(80, u'\\\\btandospirone')"
-p30
-atp31
-Rp32
+((lp28
+S"(73, u'\\\\btandospirone')"
+p29
+atp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(6249, u'(?i)(ants|ant)')"
-p35
-aS"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(7094, u'(?i)(curs|cur)')"
-p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(3550, u'(?i)(anis|ani)')"
-p40
-aS"(1961, u'(?i)(pens|pen)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-atp43
-Rp44
+((lp33
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
 sb.

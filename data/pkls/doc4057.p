@@ -32,64 +32,46 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2c'
 p20
-aS'5ht2c'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
-p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+((lp24
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p30
+p28
 V2016
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(166, u'\\\\bmk ?212')"
 p32
-g3
-((lp33
-S"(172, u'\\\\bmk ?212')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(6753, u'(?i)(da|das)')"
+((lp36
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p37
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p38
+aS"(6115, u'(?i)\\\\b(predators|predator)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(7170, u'(?i)\\\\b(toys|toy)\\\\b')"
 p41
-aS"(5551, u'(?i)(owls|owl)')"
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(2665, u'(?i)(rays|ray)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(7170, u'(?i)(toys|toy)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6115, u'(?i)(predators|predator)')"
-p49
-aS"(4177, u'(?i)(grays|gray)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+atp43
+Rp44
 sb.

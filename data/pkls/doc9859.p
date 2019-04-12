@@ -30,60 +30,38 @@ g3
 ((lp17
 S'5ht1a'
 p18
-aS'5ht5'
-p19
 aS'5ht2'
-p20
+p19
 aS'5ht2a'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p26
-atp27
-Rp28
+((lp24
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p29
+p28
 V1992
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(193, u'\\\\bethanol')"
-p33
-atp34
-Rp35
+((lp31
+S"(189, u'\\\\bethanol')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(4163, u'(?i)(ermines|ermine)')"
-p38
-aS"(949, u'(?i)(cohoes|coho)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(3522, u'(?i)(tetras|tetra)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-atp49
-Rp50
+((lp36
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

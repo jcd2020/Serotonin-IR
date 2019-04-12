@@ -50,18 +50,6 @@ sS'species'
 p30
 g3
 ((lp31
-S"(5958, u'(?i)(rats|rat)')"
-p32
-aS"(81, u'(?i)(asps|asp)')"
-p33
-aS"(1055, u'(?i)(men|man)')"
-p34
-aS"(7094, u'(?i)(curs|cur)')"
-p35
-aS"(6356, u'(?i)(ais|ai)')"
-p36
-aS"(4247, u'(?i)(tatus|tatu)')"
-p37
-atp38
-Rp39
+tp32
+Rp33
 sb.

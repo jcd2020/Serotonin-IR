@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(99, u'\\\\brepinotan')"
+S"(92, u'\\\\brepinotan')"
 p30
 atp31
 Rp32
@@ -56,26 +56,6 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2323, u'(?i)(bees|bee)')"
-p35
-aS"(6753, u'(?i)(da|das)')"
-p36
-aS"(5510, u'(?i)(bays|bay)')"
-p37
-aS"(4979, u'(?i)(cats|cat)')"
-p38
-aS"(479, u'(?i)(lings|ling)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(7094, u'(?i)(curs|cur)')"
-p41
-aS"(5743, u'(?i)(bots|bot)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(6642, u'(?i)(lions|lion)')"
-p44
-atp45
-Rp46
+tp35
+Rp36
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(141, u'\\\\bzacopride')"
+S"(130, u'\\\\bzacopride')"
 p5
 atp6
 Rp7
@@ -40,66 +40,36 @@ aS'5ht1a'
 p22
 aS'5ht4'
 p23
-aS'5ht5'
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
-p29
-atp30
-Rp31
+((lp27
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2006
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp34
+S"(208, u'\\\\bzacopride')"
+p35
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-aS"(212, u'\\\\bzacopride')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(2323, u'(?i)(bees|bee)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(2568, u'(?i)(hens|hen)')"
-p44
-aS"(5176, u'(?i)(tegs|teg)')"
-p45
-aS"(4371, u'(?i)(lizas|liza)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(3522, u'(?i)(tetras|tetra)')"
-p52
-aS"(2438, u'(?i)(goats|goat)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+((lp40
+S"(2438, u'(?i)\\\\b(goats|goat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

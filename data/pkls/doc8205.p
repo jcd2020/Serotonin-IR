@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(209, u'(?i)(amygdalas|amygdala)')"
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p24
 atp25
 Rp26
@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p31
 atp32
 Rp33
@@ -58,30 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(6682, u'(?i)(tera|teras)')"
-p38
-aS"(4091, u'(?i)(adults|adult)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(3522, u'(?i)(tetras|tetra)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-atp48
-Rp49
+atp38
+Rp39
 sb.

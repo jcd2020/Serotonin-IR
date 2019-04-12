@@ -40,72 +40,38 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(187, u'(?i)(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p25
-aS"(175, u'(?i)(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)')"
+aS"(185, u'(?i)\\\\b(tuberomammillaries|tuberomammillary)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(185, u'(?i)(tuberomammillaries|tuberomammillary)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p27
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p28
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p29
-aS"(223, u'(?i)(putamens|putamen)')"
-p30
-aS"(220, u'(?i)(striatums|striatum)')"
-p31
-atp32
-Rp33
+atp29
+Rp30
 sS'year'
-p34
+p31
 V2008
-p35
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(101, u'\\\\bcp ?94253')"
+p35
+aS"(147, u'\\\\bmdma')"
 p36
-g3
-((lp37
-S"(153, u'\\\\bmdma')"
-p38
-aS"(108, u'\\\\bcp ?94253')"
-p39
-atp40
-Rp41
+atp37
+Rp38
 sS'species'
-p42
+p39
 g3
-((lp43
-S"(5626, u'(?i)(posters|poster)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(1349, u'(?i)(rams|ram)')"
-p51
-aS"(2334, u'(?i)(eels|eel)')"
-p52
-aS"(853, u'(?i)(minas|mina)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(3522, u'(?i)(tetras|tetra)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(6580, u'(?i)(dams|dam)')"
-p58
-aS"(6325, u'(?i)(caudates|caudate)')"
-p59
-atp60
-Rp61
+((lp40
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -38,72 +38,46 @@ g3
 ((lp21
 S'5ht1a'
 p22
-aS'5ht5'
+aS'5ht2'
 p23
 aS'5ht1'
 p24
-aS'5ht2'
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp28
+tp29
+Rp30
 sS'year'
-p33
+p31
 V2008
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(220, u'\\\\b5 ?methoxytryptamine')"
 p35
-g3
-((lp36
-S"(6, u'\\\\b5 ?mt')"
-p37
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
-p38
-atp39
-Rp40
+aS"(221, u'\\\\b5 ?mt')"
+p36
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(6753, u'(?i)(da|das)')"
+((lp40
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p41
+aS"(6580, u'(?i)\\\\b(dams|dam)\\\\b')"
+p42
+aS"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
 p43
-aS"(3248, u'(?i)(offspring|offspring)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(6580, u'(?i)(dams|dam)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(7058, u'(?i)(does|doe)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(1414, u'(?i)(chars|char)')"
-p55
-aS"(3722, u'(?i)(pups|pup)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+atp46
+Rp47
 sb.

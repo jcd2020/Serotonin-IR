@@ -8,104 +8,80 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(124, u'\\\\bondansetron')"
 p6
-aS"(135, u'\\\\bondansetron')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(139, u'\\\\bmetoclopramide')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht2d'
-p22
+p21
 aS'5ht1a'
-p23
+p22
 aS'5ht3'
-p24
-aS'5ht5'
-p25
+p23
 aS'5ht2'
-p26
-atp27
-Rp28
+p24
+atp25
+Rp26
 sS'regions'
+p27
+g3
+((lp28
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-g3
-((lp30
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp30
+Rp31
 sS'year'
-p35
+p32
 V1992
-p36
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(209, u'\\\\bmetoclopramide')"
+p36
+aS"(149, u'\\\\bmem')"
 p37
-g3
-((lp38
-S"(190, u'\\\\b2 ?methyl ?5 ?ht')"
-p39
-aS"(155, u'\\\\bmem')"
-p40
-aS"(213, u'\\\\bmetoclopramide')"
-p41
-atp42
-Rp43
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+p38
+atp39
+Rp40
 sS'species'
-p44
+p41
 g3
-((lp45
-S"(4624, u'(?i)(apes|ape)')"
+((lp42
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+p43
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p45
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p46
-aS"(6753, u'(?i)(da|das)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p47
-aS"(3051, u'(?i)(pigs|pig)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(3062, u'(?i)(guineas|guinea)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(1349, u'(?i)(rams|ram)')"
-p54
-aS"(4964, u'(?i)(serins|serin)')"
-p55
-aS"(5958, u'(?i)(rats|rat)')"
-p56
-aS"(7094, u'(?i)(curs|cur)')"
-p57
-aS"(6391, u'(?i)(asses|ass)')"
-p58
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p59
-atp60
-Rp61
+atp48
+Rp49
 sb.

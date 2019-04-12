@@ -34,60 +34,36 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht2a'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-tp27
-Rp28
+((lp25
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2019
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(33, u'\\\\bdoi')"
-p33
-atp34
-Rp35
+((lp31
+S"(175, u'\\\\bdoi')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(5958, u'(?i)(rats|rat)')"
+((lp36
+S"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(4163, u'(?i)(ermines|ermine)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6215, u'(?i)(racers|racer)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(6682, u'(?i)(tera|teras)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(5568, u'(?i)(hakes|hake)')"
-p49
-aS"(5949, u'(?i)(dogs|dog)')"
-p50
-atp51
-Rp52
+atp39
+Rp40
 sb.

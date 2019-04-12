@@ -8,92 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(14, u'\\\\bmethiothepin')"
 p5
-aS"(29, u'\\\\bspiroxatrine')"
-p6
-aS"(14, u'\\\\bmethiothepin')"
-p7
 aS"(21, u'\\\\bpindolol')"
+p6
+aS"(117, u'\\\\bketanserin')"
+p7
+aS"(28, u'\\\\bspiroxatrine')"
 p8
-aS"(128, u'\\\\bketanserin')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(26, u'\\\\bcardiovascular')"
-p19
+p18
 aS"(9, u'\\\\bdepress')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht1b'
-p25
+p24
 aS'5ht5'
-p26
+p25
 aS'5ht1a'
-p27
+p26
 aS'5ht1'
-p28
+p27
 aS'5ht2'
-p29
-atp30
-Rp31
+p28
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-S"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
-p34
-atp35
-Rp36
+((lp32
+S"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
+p33
+atp34
+Rp35
 sS'year'
-p37
+p36
 V1995
-p38
+p37
 sS'agonists'
-p39
+p38
 g3
-((lp40
-tp41
-Rp42
+((lp39
+tp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(6753, u'(?i)(da|das)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(4964, u'(?i)(serins|serin)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+((lp43
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

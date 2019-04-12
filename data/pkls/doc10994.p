@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bgranisetron')"
+S"(123, u'\\\\bgranisetron')"
 p5
 atp6
 Rp7
@@ -38,52 +38,24 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V1995
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(2568, u'(?i)(hens|hen)')"
-p36
-aS"(867, u'(?i)(tits|tit)')"
-p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(5176, u'(?i)(tegs|teg)')"
-p43
-aS"(7094, u'(?i)(curs|cur)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-atp49
-Rp50
+((lp34
+tp35
+Rp36
 sb.

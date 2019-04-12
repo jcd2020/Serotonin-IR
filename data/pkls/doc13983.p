@@ -8,102 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(123, u'\\\\bgranisetron')"
 p6
-aS"(135, u'\\\\bondansetron')"
+aS"(125, u'\\\\btropisetron')"
 p7
-aS"(134, u'\\\\bgranisetron')"
+aS"(117, u'\\\\bketanserin')"
 p8
-aS"(136, u'\\\\btropisetron')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
+p13
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
-tp20
-Rp21
+((lp18
+tp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht3'
-p24
+p23
 aS'5ht2'
-p25
+p24
 aS'5ht1'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
-p31
-atp32
-Rp33
+((lp29
+S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p34
+p33
 V1994
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(190, u'\\\\b2 ?methyl ?5 ?ht')"
-p38
-atp39
-Rp40
+((lp36
+S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+p37
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(6753, u'(?i)(da|das)')"
+((lp41
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(2568, u'(?i)(hens|hen)')"
-p44
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(4964, u'(?i)(serins|serin)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(6878, u'(?i)(guans|guan)')"
-p56
-aS"(821, u'(?i)(lice|louse)')"
-p57
-aS"(5949, u'(?i)(dogs|dog)')"
-p58
-atp59
-Rp60
+atp44
+Rp45
 sb.

@@ -8,102 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(123, u'\\\\bclozapine')"
-p7
-aS"(56, u'\\\\bclozapine')"
-p8
-atp9
-Rp10
+atp7
+Rp8
 sS'methods'
-p11
+p9
 g3
-((lp12
+((lp10
 S'Method.KNOCKOUT'
-p13
+p11
 aS'Method.ANTAGONIST'
-p14
+p12
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p13
+atp14
+Rp15
 sS'topics'
-p18
+p16
 g3
-((lp19
+((lp17
 S"(17, u'\\\\bgroom')"
-p20
+p18
 aS"(20, u'\\\\baggressi')"
-p21
+p19
 aS"(4, u'\\\\blocomot')"
-p22
-atp23
-Rp24
+p20
+atp21
+Rp22
 sS'receptors'
+p23
+g3
+((lp24
+S'5ht2c'
 p25
-g3
-((lp26
-S'5ht5'
-p27
-aS'5ht2c'
-p28
 aS'5ht2a'
-p29
-atp30
-Rp31
+p26
+atp27
+Rp28
 sS'regions'
-p32
+p29
 g3
-((lp33
-S"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+((lp30
+tp31
+Rp32
 sS'year'
-p37
+p33
 V2013
-p38
+p34
 sS'agonists'
-p39
+p35
 g3
-((lp40
-S"(33, u'\\\\bdoi')"
-p41
-aS"(27, u'\\\\bclozapine')"
-p42
-atp43
-Rp44
+((lp36
+S"(23, u'\\\\bclozapine')"
+p37
+aS"(175, u'\\\\bdoi')"
+p38
+atp39
+Rp40
 sS'species'
-p45
+p41
 g3
-((lp46
-S"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(163, u'(?i)(mice|mouse)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1054, u'(?i)(homoes|homo)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(7094, u'(?i)(curs|cur)')"
-p55
-aS"(1414, u'(?i)(chars|char)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(4964, u'(?i)(serins|serin)')"
-p58
-atp59
-Rp60
+((lp42
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p43
+atp44
+Rp45
 sb.

@@ -46,64 +46,38 @@ aS'5ht2'
 p25
 aS'5ht1d'
 p26
-aS'5ht5'
-p27
 aS'5ht4b'
-p28
+p27
 aS'5ht3'
-p29
-atp30
-Rp31
+p28
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'year'
-p36
+p35
 V1993
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(56, u'\\\\blsd')"
+((lp38
+S"(63, u'\\\\bpsilocybin')"
+p39
+aS"(235, u'\\\\bnn ?dimethyltryptamine')"
 p40
-aS"(237, u'\\\\bnn ?dimethyltryptamine')"
+aS"(158, u'\\\\blsd')"
 p41
-aS"(70, u'\\\\bpsilocybin')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(2809, u'(?i)(toms|tom)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+((lp45
+tp46
+Rp47
 sb.

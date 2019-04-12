@@ -34,80 +34,46 @@ g3
 ((lp19
 S'5ht1a'
 p20
-aS'5ht5'
-p21
 aS'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp25
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p26
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(165, u'(?i)(preoptics|preoptic)(-|\\\\s+)?(areas|area)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
 p29
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+atp30
+Rp31
 sS'year'
-p34
+p32
 V2010
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(40, u'\\\\bflibanserin')"
 p36
-g3
-((lp37
-S"(45, u'\\\\bflibanserin')"
-p38
-atp39
-Rp40
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(4624, u'(?i)(apes|ape)')"
+((lp40
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(6125, u'(?i)(females|female)')"
-p46
-aS"(2933, u'(?i)(sires|sire)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(5967, u'(?i)(males|male)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(3726, u'(?i)(mates|mate)')"
-p52
-aS"(2334, u'(?i)(eels|eel)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(7094, u'(?i)(curs|cur)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(6391, u'(?i)(asses|ass)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-aS"(6249, u'(?i)(ants|ant)')"
-p60
-atp61
-Rp62
+atp44
+Rp45
 sb.

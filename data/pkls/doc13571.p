@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(61, u'\\\\bmdl ?100907')"
+S"(84, u'\\\\bsb ?206553')"
 p5
-aS"(95, u'\\\\bsb ?206553')"
+aS"(52, u'\\\\bmdl ?100907')"
 p6
 atp7
 Rp8
@@ -48,66 +48,36 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(170, u'(?i)(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(170, u'(?i)\\\\b(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+atp30
+Rp31
 sS'year'
-p34
+p32
 V1999
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(175, u'\\\\bdoi')"
 p36
-g3
-((lp37
-S"(33, u'\\\\bdoi')"
-p38
-atp39
-Rp40
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(6249, u'(?i)(ants|ant)')"
+((lp40
+S"(6282, u'(?i)\\\\b(wolves|wolf)\\\\b')"
+p41
+aS"(1795, u'(?i)\\\\b(mounts|mount)\\\\b')"
+p42
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p43
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(6125, u'(?i)(females|female)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p45
-aS"(4163, u'(?i)(ermines|ermine)')"
-p46
-aS"(4091, u'(?i)(adults|adult)')"
-p47
-aS"(5967, u'(?i)(males|male)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(4604, u'(?i)(mites|mite)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(6282, u'(?i)(wolves|wolf)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(3522, u'(?i)(tetras|tetra)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-aS"(1795, u'(?i)(mounts|mount)')"
-p59
-aS"(6682, u'(?i)(tera|teras)')"
-p60
-atp61
-Rp62
+atp46
+Rp47
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(142, u'\\\\bm1')"
+S"(131, u'\\\\bm1')"
 p5
 atp6
 Rp7
@@ -30,70 +30,48 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht2a'
 p19
-aS'5ht2a'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+((lp23
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p24
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(243, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(olfactories|olfactory)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p27
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p28
-aS"(243, u'(?i)(anteriors|anterior)(-|\\\\s+)?(olfactories|olfactory)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p29
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V2012
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-tp37
-Rp38
+((lp35
+tp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(4624, u'(?i)(apes|ape)')"
+((lp39
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p40
+aS"(5863, u'(?i)\\\\b(entires|entire)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(4694, u'(?i)(gnus|gnu)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(391, u'(?i)(alli|allis)')"
-p50
-aS"(6325, u'(?i)(caudates|caudate)')"
-p51
-aS"(4074, u'(?i)(bulls|bull)')"
-p52
-aS"(5863, u'(?i)(entires|entire)')"
-p53
-atp54
-Rp55
+atp43
+Rp44
 sb.

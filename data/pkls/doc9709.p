@@ -32,62 +32,34 @@ g3
 ((lp18
 S'5ht1b'
 p19
-aS'5ht5'
-p20
 aS'5ht1a'
-p21
+p20
 aS'5ht2c'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-tp27
-Rp28
+((lp25
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2008
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(931, u'(?i)(divers|diver)')"
-p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(782, u'(?i)(springers|springer)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(81, u'(?i)(asps|asp)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(4371, u'(?i)(lizas|liza)')"
-p45
-aS"(853, u'(?i)(minas|mina)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+((lp35
+S"(782, u'(?i)\\\\b(springers|springer)\\\\b')"
+p36
+atp37
+Rp38
 sb.

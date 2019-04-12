@@ -28,78 +28,48 @@ g3
 ((lp16
 S'5ht6'
 p17
-aS'5ht5'
-p18
-atp19
-Rp20
+atp18
+Rp19
 sS'regions'
-p21
+p20
 g3
-((lp22
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp21
+S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
+p22
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p23
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p24
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-aS"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p27
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p29
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p30
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p31
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'year'
-p35
+p33
 V1996
-p36
+p34
 sS'agonists'
-p37
+p35
 g3
-((lp38
-tp39
-Rp40
+((lp36
+tp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(1070, u'(?i)(pets|pet)')"
-p43
-aS"(5537, u'(?i)(hippos|hippo)')"
-p44
-aS"(5176, u'(?i)(tegs|teg)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(867, u'(?i)(tits|tit)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(3404, u'(?i)(titis|titi)')"
-p52
-aS"(6215, u'(?i)(racers|racer)')"
-p53
-aS"(853, u'(?i)(minas|mina)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

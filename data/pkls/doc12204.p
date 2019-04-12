@@ -30,56 +30,32 @@ g3
 ((lp17
 S'5ht1b'
 p18
-aS'5ht5'
-p19
 aS'5ht1a'
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+((lp23
+tp24
+Rp25
 sS'year'
-p28
+p26
 V2005
-p29
+p27
 sS'agonists'
-p30
+p28
 g3
-((lp31
-tp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'species'
-p34
+p32
 g3
-((lp35
-S"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(702, u'(?i)(genets|genet)')"
-p37
-aS"(4979, u'(?i)(cats|cat)')"
-p38
-aS"(81, u'(?i)(asps|asp)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(1349, u'(?i)(rams|ram)')"
-p41
-aS"(853, u'(?i)(minas|mina)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(1795, u'(?i)(mounts|mount)')"
-p46
-atp47
-Rp48
+((lp33
+S"(702, u'(?i)\\\\b(genets|genet)\\\\b')"
+p34
+atp35
+Rp36
 sb.

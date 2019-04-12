@@ -8,98 +8,66 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(27, u'\\\\bspiperone')"
+aS"(31, u'\\\\bway ?100635')"
 p7
-aS"(128, u'\\\\bketanserin')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht1a'
-p22
+p21
 aS'5ht3'
-p23
+p22
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V1999
-p33
+p31
 sS'agonists'
-p34
+p32
 g3
-((lp35
-tp36
-Rp37
+((lp33
+tp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(4979, u'(?i)(cats|cat)')"
+((lp37
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p38
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p39
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(4964, u'(?i)(serins|serin)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1349, u'(?i)(rams|ram)')"
-p47
-aS"(3726, u'(?i)(mates|mate)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(1057, u'(?i)(humans|human)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-aS"(3196, u'(?i)(human|humans)')"
-p54
-aS"(3152, u'(?i)(layers|layer)')"
-p55
-aS"(821, u'(?i)(lice|louse)')"
-p56
-atp57
-Rp58
+atp41
+Rp42
 sb.

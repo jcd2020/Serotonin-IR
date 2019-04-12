@@ -30,78 +30,42 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht2a'
 p19
-aS'5ht2a'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+((lp23
+tp24
+Rp25
 sS'year'
-p28
+p26
 V2008
-p29
+p27
 sS'agonists'
+p28
+g3
+((lp29
+S"(63, u'\\\\bpsilocybin')"
 p30
-g3
-((lp31
-S"(55, u'\\\\blysergic acid diethylamide')"
+aS"(49, u'\\\\blysergic acid diethylamide')"
+p31
+aS"(176, u'\\\\bdom')"
 p32
-aS"(181, u'\\\\bdom')"
+aS"(149, u'\\\\bmem')"
 p33
-aS"(70, u'\\\\bpsilocybin')"
-p34
-aS"(155, u'\\\\bmem')"
-p35
-atp36
-Rp37
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(7609, u'(?i)(erns|ern)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3726, u'(?i)(mates|mate)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(1057, u'(?i)(humans|human)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-aS"(3196, u'(?i)(human|humans)')"
-p54
-aS"(391, u'(?i)(alli|allis)')"
-p55
-aS"(2809, u'(?i)(toms|tom)')"
-p56
-aS"(1683, u'(?i)(terns|tern)')"
-p57
-atp58
-Rp59
+((lp37
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p38
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p39
+atp40
+Rp41
 sb.

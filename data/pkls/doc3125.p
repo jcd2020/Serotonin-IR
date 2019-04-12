@@ -8,98 +8,70 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(34, u'\\\\bmetergoline')"
 p6
-aS"(52, u'\\\\bmetergoline')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(204, u'\\\\bsb ?269970')"
+aS"(31, u'\\\\bway ?100635')"
 p8
-aS"(128, u'\\\\bketanserin')"
-p9
-aS"(35, u'\\\\bmetergoline')"
-p10
-atp11
-Rp12
+atp9
+Rp10
 sS'methods'
-p13
+p11
 g3
-((lp14
+((lp12
 S'Method.ANTAGONIST'
-p15
-atp16
-Rp17
+p13
+atp14
+Rp15
 sS'topics'
-p18
+p16
 g3
-((lp19
+((lp17
 S"(24, u'\\\\banalgesi')"
-p20
-atp21
-Rp22
+p18
+atp19
+Rp20
 sS'receptors'
-p23
+p21
 g3
-((lp24
+((lp22
 S'5ht7'
-p25
+p23
 aS'5ht1a'
-p26
+p24
 aS'5ht2'
-p27
+p25
 aS'5ht1'
-p28
+p26
 aS'5ht2a'
-p29
+p27
 aS'5ht7b'
-p30
-atp31
-Rp32
+p28
+atp29
+Rp30
 sS'regions'
-p33
+p31
 g3
-((lp34
-tp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'year'
-p37
+p35
 V2006
-p38
+p36
 sS'agonists'
-p39
+p37
 g3
-((lp40
-tp41
-Rp42
+((lp38
+tp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(2323, u'(?i)(bees|bee)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(4964, u'(?i)(serins|serin)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(5917, u'(?i)(roaches|roach)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(1414, u'(?i)(chars|char)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(5949, u'(?i)(dogs|dog)')"
-p56
-atp57
-Rp58
+((lp42
+tp43
+Rp44
 sb.

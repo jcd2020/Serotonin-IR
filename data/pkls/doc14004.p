@@ -10,9 +10,9 @@ p3
 ((lp4
 S"(5, u'\\\\bcyanopindolol')"
 p5
-aS"(14, u'\\\\bmethiothepin')"
+aS"(43, u'\\\\bgr ?127935')"
 p6
-aS"(45, u'\\\\bgr ?127935')"
+aS"(14, u'\\\\bmethiothepin')"
 p7
 atp8
 Rp9
@@ -50,74 +50,32 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+tp30
+Rp31
 sS'year'
-p33
+p32
 V1998
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(6, u'\\\\b5 ?mt')"
+((lp35
+S"(221, u'\\\\b5 ?mt')"
+p36
+aS"(100, u'\\\\bcp ?93129')"
 p37
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p38
-aS"(107, u'\\\\bcp ?93129')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(4163, u'(?i)(ermines|ermine)')"
+((lp42
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p43
+aS"(5721, u'(?i)\\\\b(opossums|opossum)\\\\b')"
 p44
-aS"(937, u'(?i)(kids|kid)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(1070, u'(?i)(pets|pet)')"
-p49
-aS"(5721, u'(?i)(opossums|opossum)')"
-p50
-aS"(479, u'(?i)(lings|ling)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(3404, u'(?i)(titis|titi)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(2670, u'(?i)(arabs|arab)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(867, u'(?i)(tits|tit)')"
-p58
-aS"(1055, u'(?i)(men|man)')"
-p59
-aS"(5722, u'(?i)(possums|possum)')"
-p60
-aS"(4979, u'(?i)(cats|cat)')"
-p61
-aS"(1961, u'(?i)(pens|pen)')"
-p62
-aS"(5949, u'(?i)(dogs|dog)')"
-p63
-aS"(2323, u'(?i)(bees|bee)')"
-p64
-aS"(5799, u'(?i)(rodents|rodent)')"
-p65
-atp66
-Rp67
+atp45
+Rp46
 sb.

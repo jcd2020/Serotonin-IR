@@ -40,50 +40,22 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2016
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(2323, u'(?i)(bees|bee)')"
-p36
-aS"(4624, u'(?i)(apes|ape)')"
-p37
-aS"(4301, u'(?i)(hydras|hydra)')"
-p38
-aS"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(867, u'(?i)(tits|tit)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(81, u'(?i)(asps|asp)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(204, u'(?i)(moas|moa)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-atp49
-Rp50
+((lp34
+tp35
+Rp36
 sb.

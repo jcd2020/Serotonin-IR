@@ -8,88 +8,62 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.PET'
-p11
-atp12
-Rp13
+p10
+atp11
+Rp12
 sS'topics'
-p14
+p13
 g3
-((lp15
-tp16
-Rp17
+((lp14
+tp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
+((lp18
 S'5ht2a'
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(220, u'(?i)(striatums|striatum)')"
-p25
-atp26
-Rp27
+((lp23
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p24
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2010
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(33, u'\\\\bdoi')"
-p32
-atp33
-Rp34
+((lp30
+S"(175, u'\\\\bdoi')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(1070, u'(?i)(pets|pet)')"
+((lp35
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p36
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(4964, u'(?i)(serins|serin)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3592, u'(?i)(ravens|raven)')"
-p43
-aS"(853, u'(?i)(minas|mina)')"
-p44
-aS"(3522, u'(?i)(tetras|tetra)')"
-p45
-aS"(1057, u'(?i)(humans|human)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(3196, u'(?i)(human|humans)')"
-p48
-aS"(2809, u'(?i)(toms|tom)')"
-p49
-aS"(1795, u'(?i)(mounts|mount)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-atp52
-Rp53
+atp39
+Rp40
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -42,58 +42,38 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(216, u'(?i)(strias|stria)(-|\\\\s+)?(terminali|terminalis)')"
+S"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
 p26
-aS"(217, u'(?i)(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)')"
+aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
 p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2011
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(25, u'\\\\bcannabidiol')"
-p35
-atp36
-Rp37
+((lp33
+S"(21, u'\\\\bcannabidiol')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(5799, u'(?i)(rodents|rodent)')"
+((lp38
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p39
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(5743, u'(?i)(bots|bot)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(5967, u'(?i)(males|male)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(853, u'(?i)(minas|mina)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(1057, u'(?i)(humans|human)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(2809, u'(?i)(toms|tom)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+atp44
+Rp45
 sb.

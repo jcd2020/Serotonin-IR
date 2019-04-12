@@ -30,52 +30,32 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht1a'
 p19
-aS'5ht1a'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
-p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+((lp23
+S"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
+p24
+atp25
+Rp26
 sS'year'
-p29
+p27
 V2002
-p30
+p28
 sS'agonists'
-p31
+p29
 g3
-((lp32
-tp33
-Rp34
+((lp30
+tp31
+Rp32
 sS'species'
-p35
+p33
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(931, u'(?i)(divers|diver)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(7094, u'(?i)(curs|cur)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(1961, u'(?i)(pens|pen)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-atp45
-Rp46
+((lp34
+tp35
+Rp36
 sb.

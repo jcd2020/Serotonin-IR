@@ -8,31 +8,31 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(6, u'\\\\bcyproheptadine')"
 p5
-aS"(6, u'\\\\bcyproheptadine')"
+aS"(38, u'\\\\bsb ?224289')"
 p6
-aS"(93, u'\\\\bsb ?200646')"
+aS"(146, u'\\\\bgr ?125487')"
 p7
-aS"(62, u'\\\\bcyproheptadine')"
+aS"(31, u'\\\\bway ?100635')"
 p8
-aS"(204, u'\\\\bsb ?269970')"
+aS"(52, u'\\\\bmdl ?100907')"
 p9
-aS"(135, u'\\\\bondansetron')"
+aS"(178, u'\\\\bro 04 ?6790')"
 p10
-aS"(184, u'\\\\bsb ?357134')"
+aS"(53, u'\\\\bcyproheptadine')"
 p11
-aS"(185, u'\\\\bsb ?399885')"
+aS"(176, u'\\\\bsb ?357134')"
 p12
-aS"(155, u'\\\\bgr ?125487')"
+aS"(198, u'\\\\bsb ?269970')"
 p13
-aS"(186, u'\\\\bro 04 ?6790')"
+aS"(124, u'\\\\bondansetron')"
 p14
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(177, u'\\\\bsb ?399885')"
 p15
-aS"(39, u'\\\\bsb ?224289')"
+aS"(43, u'\\\\bgr ?127935')"
 p16
-aS"(45, u'\\\\bgr ?127935')"
+aS"(97, u'\\\\bsb ?200646')"
 p17
 atp18
 Rp19
@@ -96,7 +96,7 @@ sS'agonists'
 p52
 g3
 ((lp53
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p54
 atp55
 Rp56
@@ -104,38 +104,12 @@ sS'species'
 p57
 g3
 ((lp58
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p59
-aS"(6753, u'(?i)(da|das)')"
+aS"(5156, u'(?i)\\\\b(invertebrates|invertebrate)\\\\b')"
 p60
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p61
-aS"(5156, u'(?i)(invertebrates|invertebrate)')"
-p62
-aS"(468, u'(?i)(oxen|ox)')"
-p63
-aS"(1055, u'(?i)(men|man)')"
-p64
-aS"(3726, u'(?i)(mates|mate)')"
-p65
-aS"(4979, u'(?i)(cats|cat)')"
-p66
-aS"(6249, u'(?i)(ants|ant)')"
-p67
-aS"(1057, u'(?i)(humans|human)')"
-p68
-aS"(1961, u'(?i)(pens|pen)')"
-p69
-aS"(3812, u'(?i)(studs|stud)')"
-p70
-aS"(3196, u'(?i)(human|humans)')"
-p71
-aS"(2621, u'(?i)(vertebrates|vertebrate)')"
-p72
-aS"(5743, u'(?i)(bots|bot)')"
-p73
-aS"(6356, u'(?i)(ais|ai)')"
-p74
-atp75
-Rp76
+atp62
+Rp63
 sb.

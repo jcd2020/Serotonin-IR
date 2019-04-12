@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(41, u'\\\\bziprasidone')"
+S"(114, u'\\\\bziprasidone')"
 p5
 atp6
 Rp7
@@ -48,7 +48,7 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
 atp30
 Rp31
@@ -60,9 +60,9 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(91, u'\\\\bziprasidone')"
+S"(39, u'\\\\bflesinoxan')"
 p36
-aS"(44, u'\\\\bflesinoxan')"
+aS"(84, u'\\\\bziprasidone')"
 p37
 atp38
 Rp39
@@ -70,32 +70,10 @@ sS'species'
 p40
 g3
 ((lp41
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
 p42
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(867, u'(?i)(tits|tit)')"
-p44
-aS"(6179, u'(?i)(ticks|tick)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(3726, u'(?i)(mates|mate)')"
-p49
-aS"(3592, u'(?i)(ravens|raven)')"
-p50
-aS"(6215, u'(?i)(racers|racer)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(2809, u'(?i)(toms|tom)')"
-p54
-atp55
-Rp56
+atp44
+Rp45
 sb.

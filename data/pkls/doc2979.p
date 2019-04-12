@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(13, u'\\\\baet')"
+S"(10, u'\\\\baet')"
 p31
 atp32
 Rp33
@@ -58,14 +58,6 @@ sS'species'
 p34
 g3
 ((lp35
-S"(4624, u'(?i)(apes|ape)')"
-p36
-aS"(2809, u'(?i)(toms|tom)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-atp40
-Rp41
+tp36
+Rp37
 sb.

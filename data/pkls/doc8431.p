@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(197, u'\\\\blurasidone')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(67, u'\\\\bhaloperidol')"
+aS"(190, u'\\\\blurasidone')"
 p6
-aS"(204, u'\\\\bsb ?269970')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
 atp8
 Rp9
@@ -44,86 +44,50 @@ g3
 ((lp24
 S'5ht7a'
 p25
-aS'5ht5'
-p26
 aS'5ht1a'
-p27
+p26
 aS'5ht2a'
-p28
-atp29
-Rp30
+p27
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'year'
-p35
+p34
 V2013
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(80, u'\\\\btandospirone')"
+((lp37
+S"(47, u'\\\\blurasidone')"
+p38
+aS"(176, u'\\\\bdom')"
 p39
-aS"(53, u'\\\\blurasidone')"
+aS"(149, u'\\\\bmem')"
 p40
-aS"(48, u'\\\\bhaloperidol')"
+aS"(73, u'\\\\btandospirone')"
 p41
-aS"(181, u'\\\\bdom')"
+aS"(43, u'\\\\bhaloperidol')"
 p42
-aS"(155, u'\\\\bmem')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sS'species'
-p46
+p45
 g3
-((lp47
-S"(2323, u'(?i)(bees|bee)')"
+((lp46
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p47
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p48
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p49
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p50
-aS"(2568, u'(?i)(hens|hen)')"
-p51
-aS"(7609, u'(?i)(erns|ern)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(2401, u'(?i)(primates|primate)')"
-p54
-aS"(6753, u'(?i)(da|das)')"
-p55
-aS"(81, u'(?i)(asps|asp)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(3726, u'(?i)(mates|mate)')"
-p58
-aS"(5743, u'(?i)(bots|bot)')"
-p59
-aS"(7094, u'(?i)(curs|cur)')"
-p60
-aS"(3550, u'(?i)(anis|ani)')"
-p61
-aS"(4604, u'(?i)(mites|mite)')"
-p62
-aS"(1057, u'(?i)(humans|human)')"
-p63
-aS"(6356, u'(?i)(ais|ai)')"
-p64
-aS"(3196, u'(?i)(human|humans)')"
-p65
-aS"(7610, u'(?i)(ernes|erne)')"
-p66
-aS"(1683, u'(?i)(terns|tern)')"
-p67
-aS"(6249, u'(?i)(ants|ant)')"
-p68
-atp69
-Rp70
+atp51
+Rp52
 sb.

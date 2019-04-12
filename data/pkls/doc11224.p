@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(81, u'\\\\bagomelatine')"
+S"(72, u'\\\\bagomelatine')"
 p5
 atp6
 Rp7
@@ -36,60 +36,34 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht5'
+S'5ht2c'
 p22
-aS'5ht2c'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-tp28
-Rp29
+((lp26
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2008
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2323, u'(?i)(bees|bee)')"
+((lp36
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p37
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(2670, u'(?i)(arabs|arab)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(7609, u'(?i)(erns|ern)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(1057, u'(?i)(humans|human)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(3196, u'(?i)(human|humans)')"
-p50
-aS"(1683, u'(?i)(terns|tern)')"
-p51
-atp52
-Rp53
+atp39
+Rp40
 sb.

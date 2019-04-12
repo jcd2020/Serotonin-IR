@@ -54,16 +54,6 @@ sS'species'
 p32
 g3
 ((lp33
-S"(1414, u'(?i)(chars|char)')"
-p34
-aS"(2323, u'(?i)(bees|bee)')"
-p35
-aS"(468, u'(?i)(oxen|ox)')"
-p36
-aS"(3812, u'(?i)(studs|stud)')"
-p37
-aS"(6682, u'(?i)(tera|teras)')"
-p38
-atp39
-Rp40
+tp34
+Rp35
 sb.

@@ -56,40 +56,14 @@ sS'species'
 p33
 g3
 ((lp34
-S"(1070, u'(?i)(pets|pet)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p35
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(4177, u'(?i)(grays|gray)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(2665, u'(?i)(rays|ray)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(1057, u'(?i)(humans|human)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(3196, u'(?i)(human|humans)')"
-p48
-aS"(2809, u'(?i)(toms|tom)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(5783, u'(?i)(hinds|hind)')"
-p51
-atp52
-Rp53
+atp39
+Rp40
 sb.

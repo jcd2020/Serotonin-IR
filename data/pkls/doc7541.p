@@ -36,58 +36,36 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(30, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(ambiguuses|ambiguus)\\\\b')"
 p23
-aS"(32, u'(?i)(hypoglossals|hypoglossal)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(21, u'(?i)\\\\b(cuneates|cuneate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(30, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(ambiguuses|ambiguus)')"
+aS"(12, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(b(\\xf6|oe|[a-z])tzingers|b(\\xf6|oe|[a-z])tzinger)(-|\\\\s+)?(complexes|complex)\\\\b')"
 p25
-aS"(13, u'(?i)(b(\\xf6|oe|[a-z])tzingers|b(\\xf6|oe|[a-z])tzinger)(-|\\\\s+)?(complexes|complex)')"
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p26
-aS"(21, u'(?i)(cuneates|cuneate)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(13, u'(?i)\\\\b(b(\\xf6|oe|[a-z])tzingers|b(\\xf6|oe|[a-z])tzinger)(-|\\\\s+)?(complexes|complex)\\\\b')"
 p27
-aS"(12, u'(?i)(pres|pre)(-|\\\\s+)?(b(\\xf6|oe|[a-z])tzingers|b(\\xf6|oe|[a-z])tzinger)(-|\\\\s+)?(complexes|complex)')"
+aS"(32, u'(?i)\\\\b(hypoglossals|hypoglossal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2008
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-tp36
-Rp37
+((lp34
+tp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(6753, u'(?i)(da|das)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(867, u'(?i)(tits|tit)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+((lp38
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

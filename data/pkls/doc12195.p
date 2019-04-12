@@ -42,44 +42,26 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(256, u'(?i)(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2009
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(949, u'(?i)(cohoes|coho)')"
-p38
-aS"(3601, u'(?i)(efts|eft)')"
-p39
-aS"(479, u'(?i)(lings|ling)')"
-p40
-aS"(3152, u'(?i)(layers|layer)')"
-p41
-aS"(5743, u'(?i)(bots|bot)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(5301, u'(?i)(stocks|stock)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-atp47
-Rp48
+((lp36
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p37
+atp38
+Rp39
 sb.

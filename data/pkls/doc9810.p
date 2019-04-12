@@ -36,48 +36,26 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2010
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(4624, u'(?i)(apes|ape)')"
+((lp32
+S"(4362, u'(?i)\\\\b(nematodes|nematode)\\\\b')"
+p33
+aS"(5156, u'(?i)\\\\b(invertebrates|invertebrate)\\\\b')"
 p34
-aS"(4362, u'(?i)(nematodes|nematode)')"
-p35
-aS"(5156, u'(?i)(invertebrates|invertebrate)')"
-p36
-aS"(468, u'(?i)(oxen|ox)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(1349, u'(?i)(rams|ram)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(1961, u'(?i)(pens|pen)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-aS"(2621, u'(?i)(vertebrates|vertebrate)')"
-p45
-atp46
-Rp47
+atp35
+Rp36
 sb.

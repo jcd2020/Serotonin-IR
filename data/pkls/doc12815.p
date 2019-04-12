@@ -42,48 +42,26 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V1991
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(24, u'\\\\bbuspirone')"
-p34
-atp35
-Rp36
+((lp32
+S"(20, u'\\\\bbuspirone')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(2323, u'(?i)(bees|bee)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(6682, u'(?i)(tera|teras)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(3426, u'(?i)(hares|hare)')"
-p46
-aS"(5229, u'(?i)(moles|mole)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-atp49
-Rp50
+((lp37
+tp38
+Rp39
 sb.

@@ -8,98 +8,70 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(130, u'\\\\britanserin')"
+aS"(38, u'\\\\bsb ?224289')"
 p6
-aS"(54, u'\\\\britanserin')"
+aS"(146, u'\\\\bgr ?125487')"
 p7
-aS"(155, u'\\\\bgr ?125487')"
+aS"(31, u'\\\\bway ?100635')"
 p8
-aS"(102, u'\\\\bfluoxetine')"
+aS"(119, u'\\\\britanserin')"
 p9
-aS"(39, u'\\\\bsb ?224289')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.ANTAGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
-tp20
-Rp21
+((lp18
+tp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht1b'
+p23
+aS'5ht1a'
 p24
-aS'5ht5'
+aS'5ht4a'
 p25
 aS'5ht2c'
 p26
 aS'5ht2a'
 p27
-aS'5ht1a'
-p28
-aS'5ht4a'
-p29
-atp30
-Rp31
+atp28
+Rp29
 sS'regions'
-p32
+p30
 g3
-((lp33
-S"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+((lp31
+tp32
+Rp33
 sS'year'
-p37
+p34
 V2014
-p38
+p35
 sS'agonists'
-p39
+p36
 g3
-((lp40
-tp41
-Rp42
+((lp37
+tp38
+Rp39
 sS'species'
-p43
+p40
 g3
-((lp44
-S"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(163, u'(?i)(mice|mouse)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(4964, u'(?i)(serins|serin)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-atp57
-Rp58
+((lp41
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p42
+atp43
+Rp44
 sb.

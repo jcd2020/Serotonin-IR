@@ -44,13 +44,13 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(235, u'(?i)(diagonals|diagonal)(-|\\\\s+)?(bands|band)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(brocas|broca)')"
+S"(235, u'(?i)\\\\b(diagonals|diagonal)(-|\\\\s+)?(bands|band)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(brocas|broca)\\\\b')"
 p27
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(310, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)\\\\b')"
 p28
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(310, u'(?i)(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
 atp31
 Rp32
@@ -62,9 +62,9 @@ sS'agonists'
 p35
 g3
 ((lp36
-S"(132, u'\\\\btcb ?2')"
+S"(125, u'\\\\btcb ?2')"
 p37
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p38
 atp39
 Rp40
@@ -72,28 +72,10 @@ sS'species'
 p41
 g3
 ((lp42
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+atp45
+Rp46
 sb.

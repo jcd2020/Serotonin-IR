@@ -8,94 +8,80 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(194, u'\\\\bmethysergide')"
 p5
 aS"(21, u'\\\\bpindolol')"
 p6
-aS"(105, u'\\\\bmethysergide')"
+aS"(119, u'\\\\britanserin')"
 p7
-aS"(130, u'\\\\britanserin')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(35, u'\\\\bstress')"
-p19
+p18
 aS"(24, u'\\\\banalgesi')"
-p20
+p19
 aS"(10, u'\\\\banxiety')"
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'receptors'
-p24
+p23
 g3
-((lp25
+((lp24
 S'5ht1b'
-p26
+p25
 aS'5ht1a'
-p27
+p26
 aS'5ht3'
-p28
+p27
 aS'5ht2'
+p28
+aS'5ht3b'
 p29
 aS'5ht2a'
 p30
-aS'5ht3b'
-p31
-aS'5ht5'
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'regions'
-p35
+p33
 g3
-((lp36
-tp37
-Rp38
+((lp34
+tp35
+Rp36
 sS'year'
-p39
+p37
 V1993
-p40
+p38
 sS'agonists'
+p39
+g3
+((lp40
+S"(20, u'\\\\bbuspirone')"
 p41
-g3
-((lp42
-S"(24, u'\\\\bbuspirone')"
-p43
-aS"(60, u'\\\\bmethysergide')"
-p44
-atp45
-Rp46
+aS"(53, u'\\\\bmethysergide')"
+p42
+atp43
+Rp44
 sS'species'
-p47
+p45
 g3
-((lp48
-S"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(163, u'(?i)(mice|mouse)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(4964, u'(?i)(serins|serin)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-atp55
-Rp56
+((lp46
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p47
+atp48
+Rp49
 sb.

@@ -34,80 +34,46 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht2a'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(220, u'(?i)(striatums|striatum)')"
+((lp25
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p26
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p29
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+atp30
+Rp31
 sS'year'
-p34
+p32
 V2016
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(11, u'\\\\bamphetamine')"
 p36
-g3
-((lp37
-S"(14, u'\\\\bamphetamine')"
-p38
-aS"(33, u'\\\\bdoi')"
-p39
-atp40
-Rp41
+aS"(175, u'\\\\bdoi')"
+p37
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(4624, u'(?i)(apes|ape)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(7609, u'(?i)(erns|ern)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(5551, u'(?i)(owls|owl)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(6682, u'(?i)(tera|teras)')"
-p55
-aS"(5229, u'(?i)(moles|mole)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(5568, u'(?i)(hakes|hake)')"
-p58
-aS"(1683, u'(?i)(terns|tern)')"
-p59
-aS"(5949, u'(?i)(dogs|dog)')"
-p60
-atp61
-Rp62
+((lp41
+S"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

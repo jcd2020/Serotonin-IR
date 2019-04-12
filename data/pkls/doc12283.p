@@ -8,88 +8,66 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(119, u'\\\\britanserin')"
 p6
-aS"(54, u'\\\\britanserin')"
-p7
-aS"(130, u'\\\\britanserin')"
-p8
-atp9
-Rp10
+atp7
+Rp8
 sS'methods'
-p11
+p9
 g3
-((lp12
+((lp10
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p11
+atp12
+Rp13
 sS'topics'
-p16
+p14
 g3
-((lp17
-tp18
-Rp19
+((lp15
+tp16
+Rp17
 sS'receptors'
-p20
+p18
 g3
-((lp21
+((lp19
 S'5ht7'
-p22
+p20
 aS'5ht7b'
-p23
+p21
 aS'5ht2'
-p24
+p22
 aS'5ht2a'
-p25
-atp26
-Rp27
+p23
+atp24
+Rp25
 sS'regions'
-p28
+p26
 g3
-((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp27
+tp28
+Rp29
 sS'year'
-p33
+p30
 V1996
-p34
+p31
 sS'agonists'
-p35
+p32
 g3
-((lp36
-tp37
-Rp38
+((lp33
+tp34
+Rp35
 sS'species'
-p39
+p36
 g3
-((lp40
-S"(6753, u'(?i)(da|das)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(5217, u'(?i)(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(2334, u'(?i)(eels|eel)')"
-p46
-aS"(4964, u'(?i)(serins|serin)')"
-p47
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+((lp37
+S"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p38
+aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
+p39
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

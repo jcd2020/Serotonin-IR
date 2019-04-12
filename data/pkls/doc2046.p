@@ -8,23 +8,23 @@ c__builtin__
 set
 p3
 ((lp4
-S"(112, u'\\\\bamitriptyline')"
+S"(84, u'\\\\bsb ?206553')"
 p5
-aS"(113, u'\\\\bclomipramine')"
+aS"(133, u'\\\\bmianserin')"
 p6
-aS"(110, u'\\\\bsb ?242084')"
+aS"(49, u'\\\\bnefazodone')"
 p7
-aS"(117, u'\\\\bmianserin')"
+aS"(99, u'\\\\bsb ?242084')"
 p8
-aS"(55, u'\\\\bnefazodone')"
+aS"(134, u'\\\\bmirtazapine')"
 p9
-aS"(102, u'\\\\bfluoxetine')"
+aS"(102, u'\\\\bamitriptyline')"
 p10
-aS"(50, u'\\\\btrazodone')"
+aS"(48, u'\\\\btrazodone')"
 p11
-aS"(51, u'\\\\bmirtazapine')"
+aS"(91, u'\\\\bfluoxetine')"
 p12
-aS"(95, u'\\\\bsb ?206553')"
+aS"(103, u'\\\\bclomipramine')"
 p13
 atp14
 Rp15
@@ -68,9 +68,9 @@ sS'agonists'
 p38
 g3
 ((lp39
-S"(63, u'\\\\bnefazodone')"
+S"(75, u'\\\\btrazodone')"
 p40
-aS"(82, u'\\\\btrazodone')"
+aS"(56, u'\\\\bnefazodone')"
 p41
 atp42
 Rp43
@@ -78,48 +78,12 @@ sS'species'
 p44
 g3
 ((lp45
-S"(6753, u'(?i)(da|das)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p46
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p47
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p48
-aS"(867, u'(?i)(tits|tit)')"
-p49
-aS"(163, u'(?i)(mice|mouse)')"
-p50
-aS"(1266, u'(?i)(embryos|embryo)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(937, u'(?i)(kids|kid)')"
-p55
-aS"(1349, u'(?i)(rams|ram)')"
-p56
-aS"(853, u'(?i)(minas|mina)')"
-p57
-aS"(5958, u'(?i)(rats|rat)')"
-p58
-aS"(3522, u'(?i)(tetras|tetra)')"
-p59
-aS"(1057, u'(?i)(humans|human)')"
-p60
-aS"(6391, u'(?i)(asses|ass)')"
-p61
-aS"(1414, u'(?i)(chars|char)')"
-p62
-aS"(3196, u'(?i)(human|humans)')"
-p63
-aS"(5743, u'(?i)(bots|bot)')"
-p64
-aS"(4979, u'(?i)(cats|cat)')"
-p65
-aS"(4964, u'(?i)(serins|serin)')"
-p66
-atp67
-Rp68
+atp49
+Rp50
 sb.

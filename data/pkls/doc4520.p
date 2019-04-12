@@ -8,110 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(130, u'\\\\britanserin')"
-p6
 aS"(22, u'\\\\bpropranolol')"
-p7
-atp8
-Rp9
+p6
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.STIMULATION'
-p12
+p11
 aS'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(12, u'\\\\banxiogen')"
-p19
+p18
 aS"(11, u'\\\\banxiolyt')"
-p20
+p19
 aS"(10, u'\\\\banxiety')"
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'receptors'
-p24
+p23
 g3
-((lp25
+((lp24
 S'5ht1c'
-p26
+p25
 aS'5ht1b'
-p27
+p26
 aS'5ht1a'
-p28
-aS'5ht5'
-p29
+p27
 aS'5ht2'
-p30
-atp31
-Rp32
+p28
+atp29
+Rp30
 sS'regions'
+p31
+g3
+((lp32
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p33
-g3
-((lp34
-S"(209, u'(?i)(amygdalas|amygdala)')"
-p35
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
-p36
-aS"(34, u'(?i)(pon|pons)')"
-p37
-atp38
-Rp39
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p34
+atp35
+Rp36
 sS'year'
-p40
+p37
 V1993
-p41
+p38
 sS'agonists'
-p42
+p39
 g3
-((lp43
-tp44
-Rp45
+((lp40
+tp41
+Rp42
 sS'species'
-p46
+p43
 g3
-((lp47
-S"(6753, u'(?i)(da|das)')"
-p48
-aS"(2568, u'(?i)(hens|hen)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(5176, u'(?i)(tegs|teg)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(2665, u'(?i)(rays|ray)')"
-p54
-aS"(4964, u'(?i)(serins|serin)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(4177, u'(?i)(grays|gray)')"
-p59
-aS"(5743, u'(?i)(bots|bot)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-aS"(5949, u'(?i)(dogs|dog)')"
-p62
-atp63
-Rp64
+((lp44
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p45
+atp46
+Rp47
 sb.

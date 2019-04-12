@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(86, u'\\\\btegaserod')"
+S"(77, u'\\\\btegaserod')"
 p5
 atp6
 Rp7
@@ -40,78 +40,36 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2006
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(211, u'\\\\btegaserod')"
-p32
-atp33
-Rp34
+((lp30
+S"(207, u'\\\\btegaserod')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(2401, u'(?i)(primates|primate)')"
+((lp35
+S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
+p36
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p39
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p40
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p41
-aS"(3196, u'(?i)(human|humans)')"
-p42
-aS"(6125, u'(?i)(females|female)')"
-p43
-aS"(5967, u'(?i)(males|male)')"
-p44
-aS"(5131, u'(?i)(hags|hag)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(2809, u'(?i)(toms|tom)')"
-p48
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(7609, u'(?i)(erns|ern)')"
-p52
-aS"(867, u'(?i)(tits|tit)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(5176, u'(?i)(tegs|teg)')"
-p55
-aS"(1057, u'(?i)(humans|human)')"
-p56
-aS"(4371, u'(?i)(lizas|liza)')"
-p57
-aS"(2323, u'(?i)(bees|bee)')"
-p58
-aS"(2568, u'(?i)(hens|hen)')"
-p59
-aS"(853, u'(?i)(minas|mina)')"
-p60
-aS"(3726, u'(?i)(mates|mate)')"
-p61
-aS"(1683, u'(?i)(terns|tern)')"
-p62
-atp63
-Rp64
+atp42
+Rp43
 sb.

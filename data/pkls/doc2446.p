@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -38,62 +38,40 @@ g3
 ((lp21
 S'5ht1a'
 p22
-aS'5ht5'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp26
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p27
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'year'
-p33
+p31
 V2008
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(39, u'\\\\bflesinoxan')"
 p35
-g3
-((lp36
-S"(44, u'\\\\bflesinoxan')"
-p37
-atp38
-Rp39
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(2568, u'(?i)(hens|hen)')"
+((lp39
+S"(5218, u'(?i)\\\\b(mesocricetuses|mesocricetus)(-|\\\\s+)?(auratuses|auratus)\\\\b')"
+p40
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p41
+aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
 p42
-aS"(5218, u'(?i)(mesocricetuses|mesocricetus)(-|\\\\s+)?(auratuses|auratus)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(5217, u'(?i)(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(1795, u'(?i)(mounts|mount)')"
-p53
-atp54
-Rp55
+atp43
+Rp44
 sb.

@@ -8,134 +8,96 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(130, u'\\\\bzacopride')"
 p5
-aS"(141, u'\\\\bzacopride')"
+aS"(128, u'\\\\bmetoclopramide')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(123, u'\\\\bgranisetron')"
 p7
-aS"(139, u'\\\\bmetoclopramide')"
+aS"(117, u'\\\\bketanserin')"
 p8
-aS"(134, u'\\\\bgranisetron')"
+aS"(129, u'\\\\brenzapride')"
 p9
-aS"(140, u'\\\\brenzapride')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.ANTAGONIST'
-p15
+p14
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
-tp21
-Rp22
+((lp19
+tp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht5'
-p25
+p24
 aS'5ht4'
-p26
+p25
 aS'5ht3'
-p27
+p26
 aS'5ht2'
-p28
+p27
 aS'5ht1'
-p29
-atp30
-Rp31
+p28
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-S"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'year'
-p37
+p35
 V1991
-p38
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(220, u'\\\\b5 ?methoxytryptamine')"
 p39
-g3
-((lp40
-S"(181, u'\\\\bdom')"
+aS"(203, u'\\\\brenzapride')"
+p40
+aS"(198, u'\\\\bcisapride')"
 p41
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(209, u'\\\\bmetoclopramide')"
 p42
-aS"(202, u'\\\\bcisapride')"
+aS"(208, u'\\\\bzacopride')"
 p43
-aS"(213, u'\\\\bmetoclopramide')"
+aS"(176, u'\\\\bdom')"
 p44
-aS"(207, u'\\\\brenzapride')"
-p45
-aS"(212, u'\\\\bzacopride')"
-p46
-atp47
-Rp48
+atp45
+Rp46
 sS'species'
-p49
+p47
 g3
-((lp50
-S"(3592, u'(?i)(ravens|raven)')"
+((lp48
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p49
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+p50
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p51
-aS"(3062, u'(?i)(guineas|guinea)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p52
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p53
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p54
-aS"(3196, u'(?i)(human|humans)')"
+aS"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
 p55
-aS"(6878, u'(?i)(guans|guan)')"
-p56
-aS"(468, u'(?i)(oxen|ox)')"
-p57
-aS"(1349, u'(?i)(rams|ram)')"
-p58
-aS"(3550, u'(?i)(anis|ani)')"
-p59
-aS"(5958, u'(?i)(rats|rat)')"
-p60
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p61
-aS"(867, u'(?i)(tits|tit)')"
-p62
-aS"(163, u'(?i)(mice|mouse)')"
-p63
-aS"(1055, u'(?i)(men|man)')"
-p64
-aS"(6753, u'(?i)(da|das)')"
-p65
-aS"(1057, u'(?i)(humans|human)')"
-p66
-aS"(1961, u'(?i)(pens|pen)')"
-p67
-aS"(1414, u'(?i)(chars|char)')"
-p68
-aS"(1949, u'(?i)(pacemakers|pacemaker)')"
-p69
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p70
-aS"(2323, u'(?i)(bees|bee)')"
-p71
-aS"(2568, u'(?i)(hens|hen)')"
-p72
-aS"(3051, u'(?i)(pigs|pig)')"
-p73
-aS"(4964, u'(?i)(serins|serin)')"
-p74
-atp75
-Rp76
+atp56
+Rp57
 sb.

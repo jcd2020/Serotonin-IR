@@ -8,120 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(203, u'\\\\btfmpp')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
 aS"(17, u'\\\\bnan ?190')"
+p6
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(209, u'\\\\btfmpp')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1b'
-p23
+p22
 aS'5ht5'
-p24
+p23
 aS'5ht2c'
-p25
+p24
 aS'5ht1'
-p26
+p25
 aS'5ht2a'
-p27
+p26
 aS'5ht1a'
-p28
-atp29
-Rp30
+p27
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
-p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+((lp31
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+p32
+atp33
+Rp34
 sS'year'
-p37
+p35
 V1995
-p38
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(178, u'\\\\btfmpp')"
 p39
-g3
-((lp40
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(219, u'\\\\b5 ?ct')"
+p40
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p41
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p42
-aS"(5, u'\\\\b5 ?ct')"
+aS"(175, u'\\\\bdoi')"
 p43
-aS"(183, u'\\\\btfmpp')"
-p44
-aS"(33, u'\\\\bdoi')"
-p45
-atp46
-Rp47
+atp44
+Rp45
 sS'species'
-p48
+p46
 g3
-((lp49
-S"(1070, u'(?i)(pets|pet)')"
-p50
-aS"(5967, u'(?i)(males|male)')"
-p51
-aS"(6753, u'(?i)(da|das)')"
-p52
-aS"(2568, u'(?i)(hens|hen)')"
-p53
-aS"(5510, u'(?i)(bays|bay)')"
-p54
-aS"(867, u'(?i)(tits|tit)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-aS"(1725, u'(?i)(clams|clam)')"
-p57
-aS"(468, u'(?i)(oxen|ox)')"
-p58
-aS"(1055, u'(?i)(men|man)')"
-p59
-aS"(6249, u'(?i)(ants|ant)')"
-p60
-aS"(4964, u'(?i)(serins|serin)')"
-p61
-aS"(5958, u'(?i)(rats|rat)')"
-p62
-aS"(3522, u'(?i)(tetras|tetra)')"
-p63
-aS"(7094, u'(?i)(curs|cur)')"
-p64
-aS"(6356, u'(?i)(ais|ai)')"
-p65
-aS"(5743, u'(?i)(bots|bot)')"
-p66
-aS"(821, u'(?i)(lice|louse)')"
-p67
-atp68
-Rp69
+((lp47
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

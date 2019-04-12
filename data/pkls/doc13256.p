@@ -8,136 +8,98 @@ c__builtin__
 set
 p3
 ((lp4
-S"(27, u'\\\\bspiperone')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(14, u'\\\\bmethiothepin')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(123, u'\\\\bclozapine')"
+aS"(26, u'\\\\bspiperone')"
 p7
-aS"(45, u'\\\\bgr ?127935')"
+aS"(14, u'\\\\bmethiothepin')"
 p8
-aS"(56, u'\\\\bclozapine')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
+p13
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
-tp20
-Rp21
+((lp18
+tp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht7'
-p24
+p23
 aS'5ht1b'
-p25
-aS'5ht5'
-p26
-aS'5ht1'
-p27
-aS'5ht1d'
-p28
+p24
 aS'5ht1a'
-p29
-atp30
-Rp31
+p25
+aS'5ht1'
+p26
+aS'5ht1d'
+p27
+aS'5ht5'
+p28
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+((lp32
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p33
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p34
-aS"(223, u'(?i)(putamens|putamen)')"
-p35
-aS"(34, u'(?i)(pon|pons)')"
-p36
-atp37
-Rp38
+atp35
+Rp36
 sS'year'
-p39
+p37
 V1995
-p40
+p38
 sS'agonists'
+p39
+g3
+((lp40
+S"(25, u'\\\\bdihydroergotamine')"
 p41
-g3
-((lp42
-S"(103, u'\\\\bsumatriptan')"
+aS"(23, u'\\\\bclozapine')"
+p42
+aS"(96, u'\\\\bsumatriptan')"
 p43
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p44
-aS"(109, u'\\\\bcp ?122288')"
+aS"(102, u'\\\\bcp ?122288')"
 p45
-aS"(29, u'\\\\bdihydroergotamine')"
-p46
-aS"(27, u'\\\\bclozapine')"
-p47
-atp48
-Rp49
+atp46
+Rp47
 sS'species'
-p50
+p48
 g3
-((lp51
-S"(3812, u'(?i)(studs|stud)')"
+((lp49
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p50
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p51
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p52
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p53
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p54
-aS"(1070, u'(?i)(pets|pet)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p55
-aS"(479, u'(?i)(lings|ling)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p56
-aS"(468, u'(?i)(oxen|ox)')"
-p57
-aS"(3062, u'(?i)(guineas|guinea)')"
-p58
-aS"(3152, u'(?i)(layers|layer)')"
-p59
-aS"(3522, u'(?i)(tetras|tetra)')"
-p60
-aS"(391, u'(?i)(alli|allis)')"
-p61
-aS"(5537, u'(?i)(hippos|hippo)')"
-p62
-aS"(5958, u'(?i)(rats|rat)')"
-p63
-aS"(7609, u'(?i)(erns|ern)')"
-p64
-aS"(6682, u'(?i)(tera|teras)')"
-p65
-aS"(1055, u'(?i)(men|man)')"
-p66
-aS"(6753, u'(?i)(da|das)')"
-p67
-aS"(1961, u'(?i)(pens|pen)')"
-p68
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p69
-aS"(6325, u'(?i)(caudates|caudate)')"
-p70
-aS"(5799, u'(?i)(rodents|rodent)')"
-p71
-aS"(2389, u'(?i)(spats|spat)')"
-p72
-aS"(3051, u'(?i)(pigs|pig)')"
-p73
-aS"(1054, u'(?i)(homoes|homo)')"
-p74
-aS"(1683, u'(?i)(terns|tern)')"
-p75
-atp76
-Rp77
+atp57
+Rp58
 sb.

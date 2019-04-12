@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(52, u'\\\\bmdl ?100907')"
 p6
 atp7
 Rp8
@@ -40,90 +40,48 @@ g3
 ((lp22
 S'5ht1b'
 p23
-aS'5ht5'
-p24
 aS'5ht1a'
-p25
+p24
 aS'5ht2'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(215, u'(?i)(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+((lp29
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p30
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p31
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
 p32
-aS"(198, u'(?i)(internals|internal)(-|\\\\s+)?(capsules|capsule)')"
+aS"(199, u'(?i)\\\\b(externals|external)(-|\\\\s+)?(capsules|capsule)\\\\b')"
 p33
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(198, u'(?i)\\\\b(internals|internal)(-|\\\\s+)?(capsules|capsule)\\\\b')"
 p34
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p35
-aS"(214, u'(?i)(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)')"
-p36
-aS"(199, u'(?i)(externals|external)(-|\\\\s+)?(capsules|capsule)')"
-p37
-atp38
-Rp39
+atp36
+Rp37
 sS'year'
-p40
+p38
 V2017
-p41
+p39
 sS'agonists'
+p40
+g3
+((lp41
+S"(100, u'\\\\bcp ?93129')"
 p42
-g3
-((lp43
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p44
-aS"(107, u'\\\\bcp ?93129')"
-p45
-atp46
-Rp47
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p43
+atp44
+Rp45
 sS'species'
-p48
+p46
 g3
-((lp49
-S"(2323, u'(?i)(bees|bee)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(7609, u'(?i)(erns|ern)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(6682, u'(?i)(tera|teras)')"
-p56
-aS"(1725, u'(?i)(clams|clam)')"
-p57
-aS"(4163, u'(?i)(ermines|ermine)')"
-p58
-aS"(3726, u'(?i)(mates|mate)')"
-p59
-aS"(4979, u'(?i)(cats|cat)')"
-p60
-aS"(7094, u'(?i)(curs|cur)')"
-p61
-aS"(6249, u'(?i)(ants|ant)')"
-p62
-aS"(821, u'(?i)(lice|louse)')"
-p63
-aS"(1961, u'(?i)(pens|pen)')"
-p64
-aS"(3812, u'(?i)(studs|stud)')"
-p65
-aS"(6391, u'(?i)(asses|ass)')"
-p66
-aS"(1683, u'(?i)(terns|tern)')"
-p67
-aS"(7552, u'(?i)(bats|bat)')"
-p68
-atp69
-Rp70
+((lp47
+tp48
+Rp49
 sb.

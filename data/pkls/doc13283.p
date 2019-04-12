@@ -16,7 +16,7 @@ aS"(21, u'\\\\bpindolol')"
 p7
 aS"(22, u'\\\\bpropranolol')"
 p8
-aS"(209, u'\\\\btfmpp')"
+aS"(203, u'\\\\btfmpp')"
 p9
 aS"(19, u'\\\\boxprenolol')"
 p10
@@ -56,58 +56,36 @@ aS'5ht1'
 p30
 aS'5ht2a'
 p31
-aS'5ht5'
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'regions'
-p35
+p34
 g3
-((lp36
-tp37
-Rp38
+((lp35
+tp36
+Rp37
 sS'year'
-p39
+p38
 V1988
-p40
+p39
 sS'agonists'
-p41
+p40
 g3
-((lp42
-S"(183, u'\\\\btfmpp')"
+((lp41
+S"(178, u'\\\\btfmpp')"
+p42
+aS"(149, u'\\\\bmem')"
 p43
-aS"(155, u'\\\\bmem')"
-p44
-atp45
-Rp46
+atp44
+Rp45
 sS'species'
-p47
+p46
 g3
-((lp48
-S"(2568, u'(?i)(hens|hen)')"
+((lp47
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+p48
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(6391, u'(?i)(asses|ass)')"
-p59
-aS"(821, u'(?i)(lice|louse)')"
-p60
-atp61
-Rp62
+atp50
+Rp51
 sb.

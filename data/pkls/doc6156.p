@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(45, u'\\\\bgr ?127935')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(39, u'\\\\bsb ?224289')"
+aS"(38, u'\\\\bsb ?224289')"
 p6
 atp7
 Rp8
@@ -42,48 +42,26 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2005
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+tp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(5537, u'(?i)(hippos|hippo)')"
-p39
-aS"(2670, u'(?i)(arabs|arab)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-atp49
-Rp50
+((lp37
+tp38
+Rp39
 sb.

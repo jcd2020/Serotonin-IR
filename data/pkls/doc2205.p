@@ -42,60 +42,30 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2004
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(214, u'\\\\bsulpiride')"
-p34
-atp35
-Rp36
+((lp32
+S"(210, u'\\\\bsulpiride')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(2323, u'(?i)(bees|bee)')"
+((lp37
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(1725, u'(?i)(clams|clam)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(2665, u'(?i)(rays|ray)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(577, u'(?i)(orphans|orphan)')"
-p52
-aS"(4177, u'(?i)(grays|gray)')"
-p53
-aS"(821, u'(?i)(lice|louse)')"
-p54
-atp55
-Rp56
+atp40
+Rp41
 sb.

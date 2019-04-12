@@ -10,9 +10,9 @@ p3
 ((lp4
 S"(5, u'\\\\bcyanopindolol')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(37, u'\\\\bsb ?216641')"
 p6
-aS"(38, u'\\\\bsb ?216641')"
+aS"(31, u'\\\\bway ?100635')"
 p7
 atp8
 Rp9
@@ -46,7 +46,7 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p28
 atp29
 Rp30
@@ -58,11 +58,11 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(74, u'\\\\bru ?24969')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p35
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(67, u'\\\\bru ?24969')"
 p36
-aS"(107, u'\\\\bcp ?93129')"
+aS"(100, u'\\\\bcp ?93129')"
 p37
 atp38
 Rp39
@@ -70,28 +70,8 @@ sS'species'
 p40
 g3
 ((lp41
-S"(5958, u'(?i)(rats|rat)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(7552, u'(?i)(bats|bat)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(5176, u'(?i)(tegs|teg)')"
-p47
-aS"(5838, u'(?i)(cubs|cub)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(821, u'(?i)(lice|louse)')"
-p52
-atp53
-Rp54
+atp43
+Rp44
 sb.

@@ -38,58 +38,28 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
-p24
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp24
+Rp25
 sS'year'
-p29
+p26
 V1994
-p30
+p27
 sS'agonists'
-p31
+p28
 g3
-((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p33
-atp34
-Rp35
+((lp29
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p30
+atp31
+Rp32
 sS'species'
-p36
+p33
 g3
-((lp37
-S"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(3522, u'(?i)(tetras|tetra)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-aS"(7058, u'(?i)(does|doe)')"
-p51
-atp52
-Rp53
+((lp34
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p35
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

@@ -28,62 +28,44 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht1a'
 p18
-aS'5ht1a'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+((lp22
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+p23
+aS"(218, u'(?i)\\\\b(claustrums|claustrum)\\\\b')"
 p24
-aS"(236, u'(?i)(septals|septal)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(236, u'(?i)\\\\b(septals|septal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+aS"(176, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(body|bodies)\\\\b')"
 p26
-aS"(218, u'(?i)(claustrums|claustrum)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p27
-aS"(176, u'(?i)(mammillaries|mammillary)(-|\\\\s+)?(body|bodies)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V1994
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
+((lp33
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(4624, u'(?i)(apes|ape)')"
-p40
-aS"(5537, u'(?i)(hippos|hippo)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(7609, u'(?i)(erns|ern)')"
-p43
-aS"(867, u'(?i)(tits|tit)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(1683, u'(?i)(terns|tern)')"
-p48
-atp49
-Rp50
+((lp38
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

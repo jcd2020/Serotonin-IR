@@ -8,92 +8,62 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(59, u'\\\\brisperidone')"
+aS"(113, u'\\\\brisperidone')"
 p6
-aS"(27, u'\\\\bspiperone')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
-tp17
-Rp18
+((lp15
+tp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
+((lp19
 S'5ht2a'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(244, u'(?i)(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)')"
-p26
-atp27
-Rp28
+((lp24
+S"(244, u'(?i)\\\\b(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p29
+p28
 V1996
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(86, u'\\\\burapidil')"
-p33
-atp34
-Rp35
+((lp31
+S"(79, u'\\\\burapidil')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2323, u'(?i)(bees|bee)')"
+((lp36
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(3152, u'(?i)(layers|layer)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(6331, u'(?i)(mares|mare)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(7609, u'(?i)(erns|ern)')"
-p51
-aS"(7610, u'(?i)(ernes|erne)')"
-p52
-aS"(1683, u'(?i)(terns|tern)')"
-p53
-atp54
-Rp55
+atp39
+Rp40
 sb.

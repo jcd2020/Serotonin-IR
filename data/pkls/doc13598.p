@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(186, u'\\\\bro 04 ?6790')"
+S"(178, u'\\\\bro 04 ?6790')"
 p5
 atp6
 Rp7
@@ -58,7 +58,7 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p35
 atp36
 Rp37
@@ -66,32 +66,8 @@ sS'species'
 p38
 g3
 ((lp39
-S"(6753, u'(?i)(da|das)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(2389, u'(?i)(spats|spat)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(6215, u'(?i)(racers|racer)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+atp41
+Rp42
 sb.

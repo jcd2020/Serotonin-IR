@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(277, u'(?i)(temporals|temporal)(-|\\\\s+)?(lobes|lobe)')"
+S"(277, u'(?i)\\\\b(temporals|temporal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
 p23
 atp24
 Rp25
@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(24, u'\\\\bbuspirone')"
+S"(20, u'\\\\bbuspirone')"
 p30
 atp31
 Rp32
@@ -56,46 +56,14 @@ sS'species'
 p33
 g3
 ((lp34
-S"(4624, u'(?i)(apes|ape)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p35
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p36
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(6391, u'(?i)(asses|ass)')"
-p40
-aS"(6682, u'(?i)(tera|teras)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(1249, u'(?i)(carp|carp)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(1057, u'(?i)(humans|human)')"
-p49
-aS"(4247, u'(?i)(tatus|tatu)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(3196, u'(?i)(human|humans)')"
-p52
-aS"(4074, u'(?i)(bulls|bull)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+atp39
+Rp40
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(199, u'\\\\bmaprotiline')"
+S"(192, u'\\\\bmaprotiline')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
 atp7
 Rp8
@@ -32,58 +32,36 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht1a'
 p20
-aS'5ht1a'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-tp26
-Rp27
+((lp24
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1995
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(47, u'\\\\bgepirone')"
+((lp30
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p31
+aS"(42, u'\\\\bgepirone')"
 p32
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(7609, u'(?i)(erns|ern)')"
-p39
-aS"(479, u'(?i)(lings|ling)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(7094, u'(?i)(curs|cur)')"
-p43
-aS"(1349, u'(?i)(rams|ram)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(1683, u'(?i)(terns|tern)')"
-p48
-atp49
-Rp50
+((lp36
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

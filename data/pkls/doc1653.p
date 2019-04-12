@@ -44,7 +44,7 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(171, u'(?i)(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(171, u'(?i)\\\\b(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
 atp28
 Rp29
@@ -62,54 +62,16 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2183, u'(?i)(gars|gar)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p38
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p39
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(1070, u'(?i)(pets|pet)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p41
-aS"(931, u'(?i)(divers|diver)')"
+aS"(7552, u'(?i)\\\\b(bats|bat)\\\\b')"
 p42
-aS"(702, u'(?i)(genets|genet)')"
-p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(5967, u'(?i)(males|male)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1349, u'(?i)(rams|ram)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(7058, u'(?i)(does|doe)')"
-p49
-aS"(821, u'(?i)(lice|louse)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(867, u'(?i)(tits|tit)')"
-p52
-aS"(163, u'(?i)(mice|mouse)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(5176, u'(?i)(tegs|teg)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(6125, u'(?i)(females|female)')"
-p57
-aS"(4979, u'(?i)(cats|cat)')"
-p58
-aS"(6753, u'(?i)(da|das)')"
-p59
-aS"(3726, u'(?i)(mates|mate)')"
-p60
-aS"(7552, u'(?i)(bats|bat)')"
-p61
-atp62
-Rp63
+atp43
+Rp44
 sb.

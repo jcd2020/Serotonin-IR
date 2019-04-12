@@ -8,92 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(56, u'\\\\bclozapine')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(128, u'\\\\bketanserin')"
+aS"(58, u'\\\\bhaloperidol')"
 p8
-aS"(67, u'\\\\bhaloperidol')"
-p9
-aS"(27, u'\\\\bspiperone')"
-p10
-atp11
-Rp12
+atp9
+Rp10
 sS'methods'
-p13
+p11
 g3
-((lp14
+((lp12
 S'Method.ANTAGONIST'
-p15
-atp16
-Rp17
+p13
+atp14
+Rp15
 sS'topics'
-p18
+p16
 g3
-((lp19
-tp20
-Rp21
+((lp17
+tp18
+Rp19
 sS'receptors'
+p20
+g3
+((lp21
+S'5ht2'
 p22
-g3
-((lp23
-S'5ht5'
-p24
-aS'5ht2'
-p25
 aS'5ht2c'
-p26
-atp27
-Rp28
+p23
+atp24
+Rp25
 sS'regions'
-p29
+p26
 g3
-((lp30
-S"(220, u'(?i)(striatums|striatum)')"
-p31
-atp32
-Rp33
+((lp27
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p34
+p31
 V2001
-p35
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(23, u'\\\\bclozapine')"
+p35
+aS"(43, u'\\\\bhaloperidol')"
 p36
-g3
-((lp37
-S"(48, u'\\\\bhaloperidol')"
-p38
-aS"(27, u'\\\\bclozapine')"
-p39
-atp40
-Rp41
+atp37
+Rp38
 sS'species'
-p42
+p39
 g3
-((lp43
-S"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(4163, u'(?i)(ermines|ermine)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(4964, u'(?i)(serins|serin)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

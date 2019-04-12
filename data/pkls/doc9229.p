@@ -34,66 +34,38 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht1a'
 p21
-aS'5ht1a'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(256, u'(?i)(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp25
+S"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p26
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p27
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2008
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+tp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(1070, u'(?i)(pets|pet)')"
+((lp37
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p38
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p39
-aS"(2323, u'(?i)(bees|bee)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(702, u'(?i)(genets|genet)')"
-p43
-aS"(163, u'(?i)(mice|mouse)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6215, u'(?i)(racers|racer)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(2809, u'(?i)(toms|tom)')"
-p51
-aS"(5743, u'(?i)(bots|bot)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+atp40
+Rp41
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
-aS"(67, u'\\\\bhaloperidol')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
 atp7
 Rp8
@@ -36,68 +36,50 @@ S'5ht1a'
 p20
 aS'5ht2a'
 p21
-aS'5ht5'
-p22
 aS'5ht2'
-p23
+p22
 aS'5ht1d'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+((lp27
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p28
+aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p29
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
-p34
+p33
 V2016
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(56, u'\\\\blsd')"
+((lp36
+S"(158, u'\\\\blsd')"
+p37
+aS"(43, u'\\\\bhaloperidol')"
 p38
-aS"(48, u'\\\\bhaloperidol')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2568, u'(?i)(hens|hen)')"
+((lp42
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p43
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p45
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
-aS"(4091, u'(?i)(adults|adult)')"
-p47
-aS"(5967, u'(?i)(males|male)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(5176, u'(?i)(tegs|teg)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-atp56
-Rp57
+atp47
+Rp48
 sb.

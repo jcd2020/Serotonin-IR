@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -52,11 +52,11 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p32
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(149, u'\\\\bmem')"
 p33
-aS"(155, u'\\\\bmem')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p34
 atp35
 Rp36
@@ -64,48 +64,12 @@ sS'species'
 p37
 g3
 ((lp38
-S"(2323, u'(?i)(bees|bee)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p39
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(1266, u'(?i)\\\\b(embryos|embryo)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(7609, u'(?i)(erns|ern)')"
-p42
-aS"(867, u'(?i)(tits|tit)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(4371, u'(?i)(lizas|liza)')"
-p49
-aS"(853, u'(?i)(minas|mina)')"
-p50
-aS"(7094, u'(?i)(curs|cur)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(1266, u'(?i)(embryos|embryo)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(1628, u'(?i)(cod|cod)')"
-p56
-aS"(7058, u'(?i)(does|doe)')"
-p57
-aS"(1683, u'(?i)(terns|tern)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-atp60
-Rp61
+atp42
+Rp43
 sb.

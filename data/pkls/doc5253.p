@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(173, u'\\\\blu ae58054')"
+S"(165, u'\\\\blu ae58054')"
 p5
-aS"(172, u'\\\\bidalopirdine')"
+aS"(164, u'\\\\bidalopirdine')"
 p6
 atp7
 Rp8
@@ -46,58 +46,26 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2016
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-tp36
-Rp37
+((lp34
+tp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(2103, u'(?i)(nesters|nester)')"
-p40
-aS"(5537, u'(?i)(hippos|hippo)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(1628, u'(?i)(cod|cod)')"
-p43
-aS"(4201, u'(?i)(kines|kine)')"
-p44
-aS"(6682, u'(?i)(tera|teras)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(2334, u'(?i)(eels|eel)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(5917, u'(?i)(roaches|roach)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(2809, u'(?i)(toms|tom)')"
-p55
-atp56
-Rp57
+((lp38
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

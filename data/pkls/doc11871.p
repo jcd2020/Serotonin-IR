@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -40,50 +40,28 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2002
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(195, u'\\\\bphenylbiguanide')"
+((lp30
+S"(20, u'\\\\bbuspirone')"
+p31
+aS"(191, u'\\\\bphenylbiguanide')"
 p32
-aS"(24, u'\\\\bbuspirone')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6642, u'(?i)(lions|lion)')"
-p47
-aS"(6878, u'(?i)(guans|guan)')"
-p48
-atp49
-Rp50
+((lp36
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+p37
+atp38
+Rp39
 sb.

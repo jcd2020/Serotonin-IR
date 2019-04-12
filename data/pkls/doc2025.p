@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(44, u'\\\\bvortioxetine')"
+S"(42, u'\\\\bvortioxetine')"
 p5
 atp6
 Rp7
@@ -42,86 +42,52 @@ S'5ht7'
 p23
 aS'5ht1b'
 p24
-aS'5ht5'
+aS'5ht1a'
 p25
 aS'5ht3a'
 p26
 aS'5ht1d'
 p27
-aS'5ht1a'
-p28
 aS'5ht3'
-p29
-atp30
-Rp31
+p28
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-S"(236, u'(?i)(septals|septal)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp32
+S"(236, u'(?i)\\\\b(septals|septal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p33
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p34
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p35
-aS"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p36
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p37
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p38
-aS"(34, u'(?i)(pon|pons)')"
-p39
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sS'year'
-p43
+p41
 V2017
-p44
+p42
 sS'agonists'
+p43
+g3
+((lp44
+S"(94, u'\\\\bvortioxetine')"
 p45
-g3
-((lp46
-S"(101, u'\\\\bvortioxetine')"
-p47
-atp48
-Rp49
+atp46
+Rp47
 sS'species'
-p50
+p48
 g3
-((lp51
-S"(5537, u'(?i)(hippos|hippo)')"
-p52
-aS"(6753, u'(?i)(da|das)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(5176, u'(?i)(tegs|teg)')"
-p55
-aS"(6682, u'(?i)(tera|teras)')"
-p56
-aS"(468, u'(?i)(oxen|ox)')"
-p57
-aS"(1055, u'(?i)(men|man)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-aS"(1349, u'(?i)(rams|ram)')"
-p60
-aS"(4979, u'(?i)(cats|cat)')"
-p61
-aS"(3550, u'(?i)(anis|ani)')"
-p62
-aS"(7094, u'(?i)(curs|cur)')"
-p63
-aS"(1961, u'(?i)(pens|pen)')"
-p64
-aS"(3812, u'(?i)(studs|stud)')"
-p65
-aS"(5743, u'(?i)(bots|bot)')"
-p66
-aS"(4133, u'(?i)(pikes|pike)')"
-p67
-atp68
-Rp69
+((lp49
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

@@ -8,114 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(129, u'\\\\bly ?53857')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(54, u'\\\\britanserin')"
+aS"(118, u'\\\\bly ?53857')"
 p6
-aS"(27, u'\\\\bspiperone')"
+aS"(119, u'\\\\britanserin')"
 p7
-aS"(130, u'\\\\britanserin')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1b'
-p23
-aS'5ht5'
-p24
+p22
 aS'5ht1a'
-p25
+p23
 aS'5ht2c'
-p26
+p24
 aS'5ht2a'
-p27
-atp28
-Rp29
+p25
+atp26
+Rp27
 sS'regions'
+p28
+g3
+((lp29
+S"(170, u'(?i)\\\\b(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-g3
-((lp31
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-aS"(170, u'(?i)(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)')"
-p33
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p34
-aS"(34, u'(?i)(pon|pons)')"
-p35
-atp36
-Rp37
+aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p31
+atp32
+Rp33
 sS'year'
-p38
+p34
 V1994
-p39
+p35
 sS'agonists'
-p40
+p36
 g3
-((lp41
-S"(74, u'\\\\bru ?24969')"
-p42
-atp43
-Rp44
+((lp37
+S"(67, u'\\\\bru ?24969')"
+p38
+atp39
+Rp40
 sS'species'
-p45
+p41
 g3
-((lp46
-S"(2323, u'(?i)(bees|bee)')"
-p47
-aS"(4624, u'(?i)(apes|ape)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(2568, u'(?i)(hens|hen)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(4964, u'(?i)(serins|serin)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(3592, u'(?i)(ravens|raven)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(3550, u'(?i)(anis|ani)')"
-p59
-aS"(3522, u'(?i)(tetras|tetra)')"
-p60
-aS"(1961, u'(?i)(pens|pen)')"
-p61
-aS"(1414, u'(?i)(chars|char)')"
-p62
-aS"(5743, u'(?i)(bots|bot)')"
-p63
-aS"(4979, u'(?i)(cats|cat)')"
-p64
-atp65
-Rp66
+((lp42
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

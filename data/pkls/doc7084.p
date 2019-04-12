@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(139, u'\\\\bmetoclopramide')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
-aS"(136, u'\\\\btropisetron')"
+aS"(131, u'\\\\bm1')"
 p6
-aS"(142, u'\\\\bm1')"
+aS"(125, u'\\\\btropisetron')"
 p7
 atp8
 Rp9
@@ -48,84 +48,44 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+tp29
+Rp30
 sS'year'
-p32
+p31
 V1998
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(181, u'\\\\bdom')"
+((lp34
+S"(209, u'\\\\bmetoclopramide')"
+p35
+aS"(176, u'\\\\bdom')"
 p36
-aS"(213, u'\\\\bmetoclopramide')"
+aS"(149, u'\\\\bmem')"
 p37
-aS"(155, u'\\\\bmem')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(1349, u'(?i)(rams|ram)')"
+((lp41
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p42
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p43
-aS"(5229, u'(?i)(moles|mole)')"
+aS"(7003, u'(?i)\\\\b(murines|murine)\\\\b')"
 p44
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p45
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(1054, u'(?i)\\\\b(homoes|homo)\\\\b')"
 p46
-aS"(3196, u'(?i)(human|humans)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p47
-aS"(6878, u'(?i)(guans|guan)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p48
-aS"(4201, u'(?i)(kines|kine)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p49
-aS"(7003, u'(?i)(murines|murine)')"
-p50
-aS"(1725, u'(?i)(clams|clam)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(3062, u'(?i)(guineas|guinea)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(1628, u'(?i)(cod|cod)')"
-p55
-aS"(821, u'(?i)(lice|louse)')"
-p56
-aS"(6753, u'(?i)(da|das)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p59
-aS"(163, u'(?i)(mice|mouse)')"
-p60
-aS"(1055, u'(?i)(men|man)')"
-p61
-aS"(4979, u'(?i)(cats|cat)')"
-p62
-aS"(1057, u'(?i)(humans|human)')"
-p63
-aS"(1414, u'(?i)(chars|char)')"
-p64
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p65
-aS"(2568, u'(?i)(hens|hen)')"
-p66
-aS"(853, u'(?i)(minas|mina)')"
-p67
-aS"(3051, u'(?i)(pigs|pig)')"
-p68
-aS"(1054, u'(?i)(homoes|homo)')"
-p69
-atp70
-Rp71
+atp50
+Rp51
 sb.

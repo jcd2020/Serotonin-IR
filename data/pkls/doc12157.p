@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -40,46 +40,24 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2002
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(2568, u'(?i)(hens|hen)')"
-p36
-aS"(163, u'(?i)(mice|mouse)')"
-p37
-aS"(6682, u'(?i)(tera|teras)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(853, u'(?i)(minas|mina)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(1961, u'(?i)(pens|pen)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-atp47
-Rp48
+((lp34
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p35
+atp36
+Rp37
 sb.

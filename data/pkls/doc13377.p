@@ -38,56 +38,30 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2006
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(24, u'\\\\bbuspirone')"
-p31
-atp32
-Rp33
+((lp29
+S"(20, u'\\\\bbuspirone')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(6753, u'(?i)(da|das)')"
+((lp34
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p35
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p37
-aS"(4979, u'(?i)(cats|cat)')"
-p38
-aS"(4091, u'(?i)(adults|adult)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(2942, u'(?i)(daws|daw)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(4371, u'(?i)(lizas|liza)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(2809, u'(?i)(toms|tom)')"
-p48
-aS"(4074, u'(?i)(bulls|bull)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp38
+Rp39
 sb.

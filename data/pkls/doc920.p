@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -42,68 +42,38 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2018
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(146, u'\\\\bbw ?723c86')"
+((lp31
+S"(147, u'\\\\bmdma')"
+p32
+aS"(140, u'\\\\bbw ?723c86')"
 p33
-aS"(153, u'\\\\bmdma')"
+aS"(11, u'\\\\bamphetamine')"
 p34
-aS"(14, u'\\\\bamphetamine')"
+aS"(175, u'\\\\bdoi')"
 p35
-aS"(33, u'\\\\bdoi')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(1070, u'(?i)(pets|pet)')"
+((lp39
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p40
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(2054, u'(?i)(heads|head)')"
+aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p43
-aS"(2568, u'(?i)(hens|hen)')"
-p44
-aS"(702, u'(?i)(genets|genet)')"
-p45
-aS"(163, u'(?i)(mice|mouse)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(853, u'(?i)(minas|mina)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(1057, u'(?i)(humans|human)')"
-p54
-aS"(5229, u'(?i)(moles|mole)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(3196, u'(?i)(human|humans)')"
-p57
-aS"(4979, u'(?i)(cats|cat)')"
-p58
-atp59
-Rp60
+atp44
+Rp45
 sb.

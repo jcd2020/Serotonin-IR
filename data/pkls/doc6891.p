@@ -34,58 +34,34 @@ g3
 ((lp19
 S'5ht1a'
 p20
-aS'5ht5'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-tp26
-Rp27
+((lp24
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2012
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(1070, u'(?i)(pets|pet)')"
+((lp34
+S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
+p35
+aS"(4635, u'(?i)\\\\b(baboons|baboon)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(4635, u'(?i)(baboons|baboon)')"
-p39
-aS"(2401, u'(?i)(primates|primate)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(3726, u'(?i)(mates|mate)')"
-p42
-aS"(6215, u'(?i)(racers|racer)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(1057, u'(?i)(humans|human)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(3196, u'(?i)(human|humans)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+atp38
+Rp39
 sb.

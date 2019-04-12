@@ -8,106 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(200, u'\\\\bmesulergine')"
+S"(193, u'\\\\bmesulergine')"
 p5
-aS"(54, u'\\\\britanserin')"
+aS"(119, u'\\\\britanserin')"
 p6
-aS"(130, u'\\\\britanserin')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
-tp17
-Rp18
+((lp15
+tp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
+((lp19
 S'5ht7'
-p21
+p20
 aS'5ht7a'
-p22
+p21
 aS'5ht5a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp26
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p32
+p30
 V2004
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(165, u'\\\\bmesulergine')"
 p34
-g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p36
-aS"(171, u'\\\\bmesulergine')"
-p37
-atp38
-Rp39
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p35
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(2323, u'(?i)(bees|bee)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(2568, u'(?i)(hens|hen)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(7539, u'(?i)(mammals|mammal)')"
-p48
-aS"(479, u'(?i)(lings|ling)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(7552, u'(?i)(bats|bat)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(4964, u'(?i)(serins|serin)')"
-p53
-aS"(5838, u'(?i)(cubs|cub)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(821, u'(?i)(lice|louse)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(7609, u'(?i)(erns|ern)')"
-p58
-aS"(1683, u'(?i)(terns|tern)')"
-p59
-aS"(5949, u'(?i)(dogs|dog)')"
-p60
-atp61
-Rp62
+((lp39
+S"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+p40
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -34,72 +34,48 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht2d'
+S'5ht1a'
 p21
-aS'5ht1a'
+aS'5ht2d'
 p22
-aS'5ht5'
-p23
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(215, u'(?i)(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+((lp27
+S"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
+p28
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p30
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p31
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-aS"(214, u'(?i)(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)')"
-p34
-atp35
-Rp36
+atp32
+Rp33
 sS'year'
-p37
+p34
 V2006
-p38
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(59, u'\\\\bperospirone')"
+p38
+aS"(73, u'\\\\btandospirone')"
 p39
-g3
-((lp40
-S"(80, u'\\\\btandospirone')"
-p41
-aS"(66, u'\\\\bperospirone')"
-p42
-atp43
-Rp44
+atp40
+Rp41
 sS'species'
-p45
+p42
 g3
-((lp46
-S"(2323, u'(?i)(bees|bee)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(4163, u'(?i)(ermines|ermine)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+((lp43
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

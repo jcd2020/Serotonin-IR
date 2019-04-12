@@ -40,66 +40,36 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p25
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2014
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(193, u'\\\\bethanol')"
+((lp32
+S"(149, u'\\\\bmem')"
+p33
+aS"(189, u'\\\\bethanol')"
 p34
-aS"(155, u'\\\\bmem')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp38
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p39
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p40
-aS"(5626, u'(?i)(posters|poster)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p41
-aS"(949, u'(?i)(cohoes|coho)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(3152, u'(?i)(layers|layer)')"
-p44
-aS"(6682, u'(?i)(tera|teras)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(1628, u'(?i)(cod|cod)')"
-p54
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p55
-aS"(7058, u'(?i)(does|doe)')"
-p56
-atp57
-Rp58
+atp42
+Rp43
 sb.

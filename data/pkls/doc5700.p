@@ -34,62 +34,34 @@ S'5ht2f'
 p19
 aS'5ht1b'
 p20
-aS'5ht5'
+aS'5ht1a'
 p21
 aS'5ht2c'
 p22
 aS'5ht1'
 p23
-aS'5ht1a'
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V2006
-p33
+p31
 sS'agonists'
-p34
+p32
 g3
-((lp35
-tp36
-Rp37
+((lp33
+tp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(4624, u'(?i)(apes|ape)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(931, u'(?i)(divers|diver)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(7094, u'(?i)(curs|cur)')"
-p45
-aS"(5176, u'(?i)(tegs|teg)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(7127, u'(?i)(monitors|monitor)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(4133, u'(?i)(pikes|pike)')"
-p51
-atp52
-Rp53
+((lp37
+tp38
+Rp39
 sb.

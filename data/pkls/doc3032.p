@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(78, u'\\\\brs ?127445')"
 p5
-aS"(87, u'\\\\brs ?127445')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
 atp7
 Rp8
@@ -28,27 +28,27 @@ sS'topics'
 p15
 g3
 ((lp16
-tp17
-Rp18
+S"(37, u'\\\\baddict')"
+p17
+atp18
+Rp19
 sS'receptors'
-p19
+p20
 g3
-((lp20
+((lp21
 S'5ht2b'
-p21
-atp22
-Rp23
+p22
+atp23
+Rp24
 sS'regions'
-p24
+p25
 g3
-((lp25
-S"(220, u'(?i)(striatums|striatum)')"
-p26
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+((lp26
+S"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
 p27
-aS"(221, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p29
 atp30
 Rp31
@@ -60,9 +60,9 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(151, u'\\\\bly ?266097')"
+S"(145, u'\\\\bly ?266097')"
 p36
-aS"(48, u'\\\\bhaloperidol')"
+aS"(43, u'\\\\bhaloperidol')"
 p37
 atp38
 Rp39
@@ -70,32 +70,10 @@ sS'species'
 p40
 g3
 ((lp41
-S"(5958, u'(?i)(rats|rat)')"
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(5551, u'(?i)(owls|owl)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(2334, u'(?i)(eels|eel)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+atp44
+Rp45
 sb.

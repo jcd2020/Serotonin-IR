@@ -28,80 +28,50 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht3'
 p18
-aS'5ht3'
-p19
 aS'5ht2c'
-p20
+p19
 aS'5ht2a'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(32, u'(?i)(hypoglossals|hypoglossal)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp24
+S"(19, u'(?i)\\\\b(gigantocellulars|gigantocellular)(-|\\\\s+)?(reticulars|reticular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p25
+aS"(64, u'(?i)\\\\b(parvocellulars|parvocellular)(-|\\\\s+)?(reticulars|reticular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(43, u'(?i)(vestibulars|vestibular)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(2, u'(?i)\\\\b(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)\\\\b')"
 p27
-aS"(8, u'(?i)(solitaries|solitary)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(8, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(64, u'(?i)(parvocellulars|parvocellular)(-|\\\\s+)?(reticulars|reticular)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(43, u'(?i)\\\\b(vestibulars|vestibular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(19, u'(?i)(gigantocellulars|gigantocellular)(-|\\\\s+)?(reticulars|reticular)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(32, u'(?i)\\\\b(hypoglossals|hypoglossal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(2, u'(?i)(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
-p34
+p33
 V2001
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-tp38
-Rp39
+((lp36
+tp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(5958, u'(?i)(rats|rat)')"
+((lp40
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(4177, u'(?i)(grays|gray)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(2665, u'(?i)(rays|ray)')"
-p49
-aS"(853, u'(?i)(minas|mina)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(4371, u'(?i)(lizas|liza)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-aS"(7609, u'(?i)(erns|ern)')"
-p54
-aS"(1628, u'(?i)(cod|cod)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(1683, u'(?i)(terns|tern)')"
-p57
-atp58
-Rp59
+atp43
+Rp44
 sb.

@@ -38,58 +38,30 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p24
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2006
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5626, u'(?i)(posters|poster)')"
+((lp35
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p36
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(949, u'(?i)(cohoes|coho)')"
-p39
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(5176, u'(?i)(tegs|teg)')"
-p42
-aS"(4163, u'(?i)(ermines|ermine)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6878, u'(?i)(guans|guan)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-atp52
-Rp53
+atp38
+Rp39
 sb.

@@ -34,66 +34,40 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p22
-aS"(157, u'(?i)(limbics|limbic)(-|\\\\s+)?(systems|system)')"
+aS"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
 p23
-aS"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'year'
-p27
+p26
 V2004
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(2323, u'(?i)(bees|bee)')"
+((lp33
+S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+p34
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p35
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(5864, u'(?i)\\\\b(fetuses|fetus)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p37
-aS"(6125, u'(?i)(females|female)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p38
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p39
-aS"(4091, u'(?i)(adults|adult)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p40
-aS"(3051, u'(?i)(pigs|pig)')"
-p41
-aS"(3062, u'(?i)(guineas|guinea)')"
-p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(5864, u'(?i)(fetuses|fetus)')"
-p46
-aS"(5967, u'(?i)(males|male)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p51
-aS"(1683, u'(?i)(terns|tern)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-atp54
-Rp55
+atp41
+Rp42
 sb.

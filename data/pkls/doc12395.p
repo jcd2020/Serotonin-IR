@@ -8,118 +8,84 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(190, u'\\\\blurasidone')"
 p6
-aS"(56, u'\\\\bclozapine')"
+aS"(110, u'\\\\bclozapine')"
 p7
-aS"(204, u'\\\\bsb ?269970')"
+aS"(113, u'\\\\brisperidone')"
 p8
-aS"(59, u'\\\\brisperidone')"
-p9
-aS"(197, u'\\\\blurasidone')"
-p10
-atp11
-Rp12
+atp9
+Rp10
 sS'methods'
-p13
+p11
 g3
-((lp14
+((lp12
 S'Method.ANTAGONIST'
-p15
+p13
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p14
+atp15
+Rp16
 sS'topics'
-p19
+p17
 g3
-((lp20
+((lp18
 S"(15, u'\\\\bschizophreni')"
-p21
+p19
 aS"(6, u'\\\\bcognit')"
-p22
+p20
 aS"(9, u'\\\\bdepress')"
-p23
+p21
 aS"(10, u'\\\\banxiety')"
-p24
-atp25
-Rp26
+p22
+atp23
+Rp24
 sS'receptors'
-p27
+p25
 g3
-((lp28
+((lp26
 S'5ht7'
-p29
+p27
 aS'5ht7a'
-p30
-aS'5ht5'
-p31
+p28
 aS'5ht1a'
-p32
-atp33
-Rp34
+p29
+atp30
+Rp31
 sS'regions'
-p35
+p32
 g3
-((lp36
-tp37
-Rp38
+((lp33
+tp34
+Rp35
 sS'year'
-p39
+p36
 V2012
-p40
+p37
 sS'agonists'
+p38
+g3
+((lp39
+S"(224, u'\\\\bas ?19')"
+p40
+aS"(23, u'\\\\bclozapine')"
 p41
-g3
-((lp42
-S"(53, u'\\\\blurasidone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p42
+aS"(47, u'\\\\blurasidone')"
 p43
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p44
-aS"(226, u'\\\\bas ?19')"
-p45
-aS"(27, u'\\\\bclozapine')"
-p46
-atp47
-Rp48
+atp44
+Rp45
 sS'species'
-p49
+p46
 g3
-((lp50
-S"(2323, u'(?i)(bees|bee)')"
-p51
-aS"(4624, u'(?i)(apes|ape)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(1667, u'(?i)(polyps|polyp)')"
-p54
-aS"(163, u'(?i)(mice|mouse)')"
-p55
-aS"(1266, u'(?i)(embryos|embryo)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(1054, u'(?i)(homoes|homo)')"
-p59
-aS"(4979, u'(?i)(cats|cat)')"
-p60
-aS"(2395, u'(?i)(mutants|mutant)')"
-p61
-aS"(5229, u'(?i)(moles|mole)')"
-p62
-aS"(3812, u'(?i)(studs|stud)')"
-p63
-aS"(978, u'(?i)(pacas|paca)')"
-p64
-aS"(5537, u'(?i)(hippos|hippo)')"
-p65
-aS"(6356, u'(?i)(ais|ai)')"
-p66
-atp67
-Rp68
+((lp47
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p48
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p49
+atp50
+Rp51
 sb.

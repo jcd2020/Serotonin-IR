@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(112, u'\\\\bamitriptyline')"
+S"(102, u'\\\\bamitriptyline')"
 p5
-aS"(135, u'\\\\bondansetron')"
+aS"(124, u'\\\\bondansetron')"
 p6
-aS"(34, u'\\\\byohimbine')"
+aS"(106, u'\\\\bdoxepin')"
 p7
-aS"(116, u'\\\\bdoxepin')"
+aS"(33, u'\\\\byohimbine')"
 p8
 atp9
 Rp10
@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(89, u'\\\\byohimbine')"
+S"(82, u'\\\\byohimbine')"
 p34
 atp35
 Rp36
@@ -64,42 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(4624, u'(?i)(apes|ape)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(7609, u'(?i)(erns|ern)')"
-p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(4201, u'(?i)(kines|kine)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(6580, u'(?i)(dams|dam)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(7094, u'(?i)(curs|cur)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(2809, u'(?i)(toms|tom)')"
-p55
-aS"(1683, u'(?i)(terns|tern)')"
-p56
-atp57
-Rp58
+atp40
+Rp41
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(185, u'\\\\bsb ?399885')"
+S"(177, u'\\\\bsb ?399885')"
 p5
 atp6
 Rp7
@@ -50,54 +50,30 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(287, u'(?i)(parahippocampals|parahippocampal)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(287, u'(?i)\\\\b(parahippocampals|parahippocampal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p30
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2011
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-tp39
-Rp40
+((lp37
+tp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(1070, u'(?i)(pets|pet)')"
+((lp41
+S"(4635, u'(?i)\\\\b(baboons|baboon)\\\\b')"
+p42
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p43
-aS"(2323, u'(?i)(bees|bee)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(4635, u'(?i)(baboons|baboon)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(479, u'(?i)(lings|ling)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(5537, u'(?i)(hippos|hippo)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+atp44
+Rp45
 sb.

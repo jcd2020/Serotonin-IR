@@ -32,78 +32,38 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
-p20
-atp21
-Rp22
+tp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(71, u'(?i)(cerebellums|cerebellum)')"
-p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+((lp23
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p24
+atp25
+Rp26
 sS'year'
-p29
+p27
 V2000
-p30
+p28
 sS'agonists'
+p29
+g3
+((lp30
+S"(189, u'\\\\bethanol')"
 p31
-g3
-((lp32
-S"(193, u'\\\\bethanol')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(1070, u'(?i)(pets|pet)')"
+((lp35
+S"(3503, u'(?i)\\\\b(fishers|fisher)\\\\b')"
+p36
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(2323, u'(?i)(bees|bee)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(949, u'(?i)(cohoes|coho)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(4657, u'(?i)(fish|fish)')"
-p43
-aS"(2942, u'(?i)(daws|daw)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(3503, u'(?i)(fishers|fisher)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(3247, u'(?i)(youngs|young)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(5949, u'(?i)(dogs|dog)')"
-p58
-atp59
-Rp60
+atp39
+Rp40
 sb.

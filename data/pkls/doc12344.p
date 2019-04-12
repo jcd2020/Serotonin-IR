@@ -24,66 +24,44 @@ sS'topics'
 p13
 g3
 ((lp14
-S"(18, u'\\\\bpsychostim')"
+S"(37, u'\\\\baddict')"
 p15
-aS"(6, u'\\\\bcognit')"
+aS"(18, u'\\\\bpsychostim')"
 p16
-atp17
-Rp18
+aS"(6, u'\\\\bcognit')"
+p17
+atp18
+Rp19
 sS'receptors'
-p19
+p20
 g3
-((lp20
+((lp21
 S'5ht1a'
-p21
-atp22
-Rp23
+p22
+atp23
+Rp24
 sS'regions'
-p24
+p25
 g3
-((lp25
-tp26
-Rp27
+((lp26
+tp27
+Rp28
 sS'year'
-p28
-V2010
 p29
-sS'agonists'
+V2010
 p30
+sS'agonists'
+p31
 g3
-((lp31
-tp32
-Rp33
+((lp32
+tp33
+Rp34
 sS'species'
-p34
+p35
 g3
-((lp35
-S"(3038, u'(?i)(swans|swan)')"
-p36
-aS"(5537, u'(?i)(hippos|hippo)')"
+((lp36
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(821, u'(?i)(lice|louse)')"
-p48
-atp49
-Rp50
+atp38
+Rp39
 sb.

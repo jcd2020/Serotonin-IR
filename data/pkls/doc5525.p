@@ -28,66 +28,40 @@ g3
 ((lp16
 S'5ht1b'
 p17
-aS'5ht5'
-p18
-atp19
-Rp20
+atp18
+Rp19
 sS'regions'
-p21
+p20
 g3
-((lp22
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p23
-atp24
-Rp25
+((lp21
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p22
+atp23
+Rp24
 sS'year'
-p26
+p25
 V2006
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-S"(193, u'\\\\bethanol')"
-p30
-atp31
-Rp32
+((lp28
+S"(189, u'\\\\bethanol')"
+p29
+atp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(2323, u'(?i)(bees|bee)')"
+((lp33
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p34
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p35
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(949, u'(?i)(cohoes|coho)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(3381, u'(?i)(flies|fly)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(853, u'(?i)(minas|mina)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(1057, u'(?i)(humans|human)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(3196, u'(?i)(human|humans)')"
-p47
-aS"(1795, u'(?i)(mounts|mount)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-atp51
-Rp52
+atp38
+Rp39
 sb.

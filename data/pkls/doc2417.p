@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(155, u'\\\\bgr ?125487')"
+S"(144, u'\\\\bgr ?113808')"
 p5
-aS"(153, u'\\\\bgr ?113808')"
+aS"(146, u'\\\\bgr ?125487')"
 p6
 atp7
 Rp8
@@ -44,7 +44,7 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,9 +56,9 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(155, u'\\\\bmem')"
+S"(197, u'\\\\bbimu ?8')"
 p34
-aS"(201, u'\\\\bbimu ?8')"
+aS"(149, u'\\\\bmem')"
 p35
 atp36
 Rp37
@@ -66,20 +66,8 @@ sS'species'
 p38
 g3
 ((lp39
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(6215, u'(?i)(racers|racer)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(2334, u'(?i)(eels|eel)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-atp47
-Rp48
+atp41
+Rp42
 sb.

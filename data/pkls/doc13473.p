@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(200, u'\\\\bmesulergine')"
+S"(193, u'\\\\bmesulergine')"
 p5
 atp6
 Rp7
@@ -40,54 +40,24 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1996
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(171, u'\\\\bmesulergine')"
-p32
-atp33
-Rp34
+((lp30
+S"(165, u'\\\\bmesulergine')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(2670, u'(?i)(arabs|arab)')"
-p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(867, u'(?i)(tits|tit)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(1795, u'(?i)(mounts|mount)')"
-p50
-atp51
-Rp52
+((lp35
+tp36
+Rp37
 sb.

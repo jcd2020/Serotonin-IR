@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -42,58 +42,40 @@ sS'receptors'
 p23
 g3
 ((lp24
-S'5ht5'
+S'5ht1a'
 p25
-aS'5ht1a'
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp29
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p30
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p31
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p32
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'year'
-p37
+p35
 V2016
-p38
+p36
 sS'agonists'
-p39
+p37
 g3
-((lp40
-tp41
-Rp42
+((lp38
+tp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(4624, u'(?i)(apes|ape)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(4176, u'(?i)(greys|grey)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+((lp42
+S"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
+p43
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

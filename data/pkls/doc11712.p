@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(45, u'\\\\bgr ?127935')"
+S"(43, u'\\\\bgr ?127935')"
 p5
 atp6
 Rp7
@@ -34,66 +34,36 @@ g3
 ((lp19
 S'5ht1b'
 p20
-aS'5ht5'
-p21
 aS'5ht1a'
-p22
+p21
 aS'5ht1'
-p23
+p22
 aS'5ht1d'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp27
+S"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p33
+p31
 V2006
-p34
+p32
 sS'agonists'
-p35
+p33
 g3
-((lp36
-tp37
-Rp38
+((lp34
+tp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(5626, u'(?i)(posters|poster)')"
-p41
-aS"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(3726, u'(?i)(mates|mate)')"
-p47
-aS"(3592, u'(?i)(ravens|raven)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(7082, u'(?i)(sagittas|sagitta)')"
-p52
-aS"(5863, u'(?i)(entires|entire)')"
-p53
-atp54
-Rp55
+((lp38
+tp39
+Rp40
 sb.

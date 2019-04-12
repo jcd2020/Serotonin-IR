@@ -22,94 +22,62 @@ g3
 ((lp12
 S"(6, u'\\\\bcognit')"
 p13
-aS"(4, u'\\\\blocomot')"
+aS"(37, u'\\\\baddict')"
 p14
-aS"(10, u'\\\\banxiety')"
+aS"(4, u'\\\\blocomot')"
 p15
-aS"(1, u'\\\\bmood')"
+aS"(10, u'\\\\banxiety')"
 p16
-atp17
-Rp18
+aS"(1, u'\\\\bmood')"
+p17
+atp18
+Rp19
 sS'receptors'
-p19
+p20
 g3
-((lp20
+((lp21
 S'5ht7'
-p21
-aS'5ht6'
 p22
-aS'5ht6a'
+aS'5ht6'
 p23
-aS'5ht3'
+aS'5ht6a'
 p24
-aS'5ht3e'
+aS'5ht3'
 p25
-atp26
-Rp27
+aS'5ht3e'
+p26
+atp27
+Rp28
 sS'regions'
-p28
+p29
 g3
-((lp29
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
-p30
-aS"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
+((lp30
+S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
 p31
-aS"(157, u'(?i)(limbics|limbic)(-|\\\\s+)?(systems|system)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'year'
-p36
+p35
 V2007
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-tp40
-Rp41
+((lp38
+tp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
+((lp42
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p43
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(7609, u'(?i)(erns|ern)')"
-p47
-aS"(6548, u'(?i)(takins|takin)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(5551, u'(?i)(owls|owl)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(6753, u'(?i)(da|das)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(1057, u'(?i)(humans|human)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(3196, u'(?i)(human|humans)')"
-p59
-aS"(1683, u'(?i)(terns|tern)')"
-p60
-aS"(3426, u'(?i)(hares|hare)')"
-p61
-atp62
-Rp63
+atp46
+Rp47
 sb.

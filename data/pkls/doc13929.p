@@ -34,48 +34,26 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(34, u'(?i)(pon|pons)')"
-p22
-atp23
-Rp24
+tp22
+Rp23
 sS'year'
-p25
+p24
 V2005
-p26
+p25
 sS'agonists'
-p27
+p26
 g3
-((lp28
-tp29
-Rp30
+((lp27
+tp28
+Rp29
 sS'species'
-p31
+p30
 g3
-((lp32
-S"(5958, u'(?i)(rats|rat)')"
+((lp31
+S"(3381, u'(?i)\\\\b(flies|fly)\\\\b')"
+p32
+aS"(3671, u'(?i)\\\\b(drosophilas|drosophila)\\\\b')"
 p33
-aS"(6753, u'(?i)(da|das)')"
-p34
-aS"(479, u'(?i)(lings|ling)')"
-p35
-aS"(6249, u'(?i)(ants|ant)')"
-p36
-aS"(3671, u'(?i)(drosophilas|drosophila)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(5131, u'(?i)(hags|hag)')"
-p39
-aS"(3381, u'(?i)(flies|fly)')"
-p40
-aS"(3550, u'(?i)(anis|ani)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(5229, u'(?i)(moles|mole)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-atp45
-Rp46
+atp34
+Rp35
 sb.

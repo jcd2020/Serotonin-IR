@@ -42,58 +42,30 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p26
-aS"(110, u'(?i)(oculomotors|oculomotor)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(110, u'(?i)\\\\b(oculomotors|oculomotor)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2013
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(181, u'\\\\bdom')"
-p35
-atp36
-Rp37
+((lp33
+S"(176, u'\\\\bdom')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(2323, u'(?i)(bees|bee)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(853, u'(?i)(minas|mina)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(5229, u'(?i)(moles|mole)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(7609, u'(?i)(erns|ern)')"
-p52
-aS"(1683, u'(?i)(terns|tern)')"
-p53
-atp54
-Rp55
+((lp38
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

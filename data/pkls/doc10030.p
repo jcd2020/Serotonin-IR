@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(130, u'\\\\bzacopride')"
 p5
-aS"(141, u'\\\\bzacopride')"
+aS"(124, u'\\\\bondansetron')"
 p6
 atp7
 Rp8
@@ -38,72 +38,40 @@ g3
 ((lp21
 S'5ht3a'
 p22
-aS'5ht5'
-p23
 aS'5ht3'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp27
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p33
+p31
 V1996
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(208, u'\\\\bzacopride')"
 p35
-g3
-((lp36
-S"(195, u'\\\\bphenylbiguanide')"
-p37
-aS"(212, u'\\\\bzacopride')"
-p38
-atp39
-Rp40
+aS"(191, u'\\\\bphenylbiguanide')"
+p36
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p44
-aS"(4694, u'(?i)(gnus|gnu)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(7610, u'(?i)(ernes|erne)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(2665, u'(?i)(rays|ray)')"
-p51
-aS"(6878, u'(?i)(guans|guan)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(7609, u'(?i)(erns|ern)')"
-p56
-aS"(4177, u'(?i)(grays|gray)')"
-p57
-aS"(1683, u'(?i)(terns|tern)')"
-p58
-atp59
-Rp60
+((lp40
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

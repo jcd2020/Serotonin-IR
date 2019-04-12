@@ -28,64 +28,42 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht2a'
 p18
-aS'5ht2a'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(220, u'(?i)(striatums|striatum)')"
+((lp22
+S"(218, u'(?i)\\\\b(claustrums|claustrum)\\\\b')"
+p23
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p24
-aS"(218, u'(?i)(claustrums|claustrum)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V1999
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(155, u'\\\\bmem')"
-p33
-atp34
-Rp35
+((lp31
+S"(149, u'\\\\bmem')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(5958, u'(?i)(rats|rat)')"
+((lp36
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p37
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(7609, u'(?i)(erns|ern)')"
-p39
-aS"(163, u'(?i)(mice|mouse)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(2395, u'(?i)(mutants|mutant)')"
-p46
-aS"(4371, u'(?i)(lizas|liza)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(1683, u'(?i)(terns|tern)')"
-p49
-atp50
-Rp51
+atp39
+Rp40
 sb.

@@ -46,7 +46,7 @@ sS'agonists'
 p27
 g3
 ((lp28
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p29
 atp30
 Rp31
@@ -54,16 +54,6 @@ sS'species'
 p32
 g3
 ((lp33
-S"(3522, u'(?i)(tetras|tetra)')"
-p34
-aS"(6753, u'(?i)(da|das)')"
-p35
-aS"(468, u'(?i)(oxen|ox)')"
-p36
-aS"(7094, u'(?i)(curs|cur)')"
-p37
-aS"(4979, u'(?i)(cats|cat)')"
-p38
-atp39
-Rp40
+tp34
+Rp35
 sb.

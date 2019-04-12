@@ -8,100 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(57, u'\\\\bolanzapine')"
+S"(111, u'\\\\bolanzapine')"
 p5
-aS"(124, u'\\\\bolanzapine')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(15, u'\\\\bschizophreni')"
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht6'
-p22
+p21
 aS'5ht2c'
-p23
+p22
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(220, u'(?i)(striatums|striatum)')"
+((lp27
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p28
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p29
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p30
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp30
+Rp31
 sS'year'
-p35
+p32
 V2005
-p36
+p33
 sS'agonists'
-p37
+p34
 g3
-((lp38
-S"(64, u'\\\\bolanzapine')"
-p39
-atp40
-Rp41
+((lp35
+S"(57, u'\\\\bolanzapine')"
+p36
+atp37
+Rp38
 sS'species'
-p42
+p39
 g3
-((lp43
-S"(2568, u'(?i)(hens|hen)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(1057, u'(?i)(humans|human)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(3196, u'(?i)(human|humans)')"
-p55
-aS"(2809, u'(?i)(toms|tom)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+((lp40
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p43
+atp44
+Rp45
 sb.

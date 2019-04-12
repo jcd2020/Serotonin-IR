@@ -40,19 +40,19 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
 p25
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
+aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p27
-aS"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p28
-aS"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+aS"(243, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(olfactories|olfactory)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(243, u'(?i)(anteriors|anterior)(-|\\\\s+)?(olfactories|olfactory)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p30
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p31
 atp32
 Rp33
@@ -64,7 +64,7 @@ sS'agonists'
 p36
 g3
 ((lp37
-S"(196, u'\\\\bquipazine')"
+S"(192, u'\\\\bquipazine')"
 p38
 atp39
 Rp40
@@ -72,50 +72,10 @@ sS'species'
 p41
 g3
 ((lp42
-S"(6356, u'(?i)(ais|ai)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(6878, u'(?i)(guans|guan)')"
-p46
-aS"(1795, u'(?i)(mounts|mount)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(3152, u'(?i)(layers|layer)')"
-p49
-aS"(5838, u'(?i)(cubs|cub)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(1553, u'(?i)(mews|mew)')"
-p52
-aS"(5537, u'(?i)(hippos|hippo)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p55
-aS"(867, u'(?i)(tits|tit)')"
-p56
-aS"(4201, u'(?i)(kines|kine)')"
-p57
-aS"(1055, u'(?i)(men|man)')"
-p58
-aS"(6753, u'(?i)(da|das)')"
-p59
-aS"(4371, u'(?i)(lizas|liza)')"
-p60
-aS"(2568, u'(?i)(hens|hen)')"
-p61
-aS"(853, u'(?i)(minas|mina)')"
-p62
-aS"(1054, u'(?i)(homoes|homo)')"
-p63
-aS"(7552, u'(?i)(bats|bat)')"
-p64
-atp65
-Rp66
+atp45
+Rp46
 sb.

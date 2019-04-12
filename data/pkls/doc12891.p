@@ -42,60 +42,36 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(174, u'(?i)(posteriors|posterior)')"
+S"(170, u'(?i)\\\\b(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p27
-aS"(170, u'(?i)(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V1992
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp33
+S"(20, u'\\\\bbuspirone')"
+p34
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p35
-aS"(24, u'\\\\bbuspirone')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(4624, u'(?i)(apes|ape)')"
+((lp39
+S"(3726, u'(?i)\\\\b(mates|mate)\\\\b')"
+p40
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(5626, u'(?i)(posters|poster)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6125, u'(?i)(females|female)')"
-p44
-aS"(867, u'(?i)(tits|tit)')"
-p45
-aS"(479, u'(?i)(lings|ling)')"
-p46
-aS"(5967, u'(?i)(males|male)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(3726, u'(?i)(mates|mate)')"
-p50
-aS"(6215, u'(?i)(racers|racer)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(7094, u'(?i)(curs|cur)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-atp55
-Rp56
+atp43
+Rp44
 sb.

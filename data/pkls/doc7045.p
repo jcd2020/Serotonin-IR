@@ -32,64 +32,42 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2a'
 p20
-aS'5ht2a'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+((lp24
+S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
+p25
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p26
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p27
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(34, u'(?i)\\\\b(pon|pons)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2019
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-tp36
-Rp37
+((lp34
+tp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp38
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p39
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p40
-aS"(5799, u'(?i)(rodents|rodent)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(2401, u'(?i)(primates|primate)')"
-p43
-aS"(3051, u'(?i)(pigs|pig)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(3726, u'(?i)(mates|mate)')"
-p47
-aS"(6215, u'(?i)(racers|racer)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(2809, u'(?i)(toms|tom)')"
-p51
-atp52
-Rp53
+atp41
+Rp42
 sb.

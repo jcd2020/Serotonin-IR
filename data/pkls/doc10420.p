@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(38, u'\\\\bsb ?216641')"
+S"(37, u'\\\\bsb ?216641')"
 p5
-aS"(45, u'\\\\bgr ?127935')"
+aS"(43, u'\\\\bgr ?127935')"
 p6
 atp7
 Rp8
@@ -36,56 +36,32 @@ g3
 ((lp20
 S'5ht1b'
 p21
-aS'5ht5'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-tp27
-Rp28
+((lp25
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2008
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(108, u'\\\\bcp ?94253')"
-p33
-atp34
-Rp35
+((lp31
+S"(101, u'\\\\bcp ?94253')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(6753, u'(?i)(da|das)')"
-p38
-aS"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(6548, u'(?i)(takins|takin)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(81, u'(?i)(asps|asp)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-atp50
-Rp51
+((lp36
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

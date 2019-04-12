@@ -34,7 +34,7 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p22
 atp23
 Rp24
@@ -52,16 +52,8 @@ sS'species'
 p31
 g3
 ((lp32
-S"(6753, u'(?i)(da|das)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p33
-aS"(5958, u'(?i)(rats|rat)')"
-p34
-aS"(6682, u'(?i)(tera|teras)')"
-p35
-aS"(6249, u'(?i)(ants|ant)')"
-p36
-aS"(4371, u'(?i)(lizas|liza)')"
-p37
-atp38
-Rp39
+atp34
+Rp35
 sb.

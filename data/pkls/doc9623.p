@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S"(41, u'\\\\bbrl ?15572')"
 p5
-aS"(43, u'\\\\bbrl ?15572')"
+aS"(14, u'\\\\bmethiothepin')"
 p6
-aS"(39, u'\\\\bsb ?224289')"
+aS"(38, u'\\\\bsb ?224289')"
 p7
 atp8
 Rp9
@@ -46,82 +46,32 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+tp28
+Rp29
 sS'year'
-p31
+p30
 V2006
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(155, u'\\\\bmem')"
+((lp33
+S"(149, u'\\\\bmem')"
+p34
+aS"(114, u'\\\\bl ?694247')"
 p35
-aS"(121, u'\\\\bl ?694247')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(4163, u'(?i)(ermines|ermine)')"
+((lp39
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p40
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(3196, u'(?i)(human|humans)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(6878, u'(?i)(guans|guan)')"
-p48
-aS"(1070, u'(?i)(pets|pet)')"
-p49
-aS"(479, u'(?i)(lings|ling)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(3404, u'(?i)(titis|titi)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(3522, u'(?i)(tetras|tetra)')"
-p54
-aS"(7170, u'(?i)(toys|toy)')"
-p55
-aS"(5958, u'(?i)(rats|rat)')"
-p56
-aS"(867, u'(?i)(tits|tit)')"
-p57
-aS"(2183, u'(?i)(gars|gar)')"
-p58
-aS"(6682, u'(?i)(tera|teras)')"
-p59
-aS"(1055, u'(?i)(men|man)')"
-p60
-aS"(4979, u'(?i)(cats|cat)')"
-p61
-aS"(1057, u'(?i)(humans|human)')"
-p62
-aS"(1961, u'(?i)(pens|pen)')"
-p63
-aS"(1414, u'(?i)(chars|char)')"
-p64
-aS"(2323, u'(?i)(bees|bee)')"
-p65
-aS"(2568, u'(?i)(hens|hen)')"
-p66
-aS"(6753, u'(?i)(da|das)')"
-p67
-atp68
-Rp69
+atp43
+Rp44
 sb.

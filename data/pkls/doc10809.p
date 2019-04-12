@@ -8,108 +8,84 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(194, u'\\\\bmethysergide')"
 p5
-aS"(67, u'\\\\bhaloperidol')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(105, u'\\\\bmethysergide')"
-p8
 aS"(22, u'\\\\bpropranolol')"
-p9
-atp10
-Rp11
+p8
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
+p13
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
+((lp18
 S"(15, u'\\\\bschizophreni')"
-p20
+p19
 aS"(14, u'\\\\bpsychosis')"
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'receptors'
-p24
+p23
 g3
-((lp25
+((lp24
 S'5ht1a'
-p26
+p25
 aS'5ht2'
-p27
+p26
 aS'5ht1'
-p28
-atp29
-Rp30
+p27
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'year'
-p35
+p34
 V1992
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(48, u'\\\\bhaloperidol')"
+((lp37
+S"(20, u'\\\\bbuspirone')"
+p38
+aS"(53, u'\\\\bmethysergide')"
 p39
-aS"(47, u'\\\\bgepirone')"
+aS"(42, u'\\\\bgepirone')"
 p40
-aS"(24, u'\\\\bbuspirone')"
+aS"(43, u'\\\\bhaloperidol')"
 p41
-aS"(60, u'\\\\bmethysergide')"
+aS"(45, u'\\\\bipsapirone')"
 p42
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p43
-aS"(50, u'\\\\bipsapirone')"
-p44
-atp45
-Rp46
+atp44
+Rp45
 sS'species'
-p47
+p46
 g3
-((lp48
-S"(2323, u'(?i)(bees|bee)')"
+((lp47
+S"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+p48
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p49
-aS"(4624, u'(?i)(apes|ape)')"
-p50
-aS"(2568, u'(?i)(hens|hen)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(7539, u'(?i)(mammals|mammal)')"
-p54
-aS"(479, u'(?i)(lings|ling)')"
-p55
-aS"(468, u'(?i)(oxen|ox)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(4964, u'(?i)(serins|serin)')"
-p59
-aS"(3550, u'(?i)(anis|ani)')"
-p60
-aS"(3522, u'(?i)(tetras|tetra)')"
-p61
-atp62
-Rp63
+atp50
+Rp51
 sb.

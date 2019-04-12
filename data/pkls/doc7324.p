@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
 atp6
 Rp7
@@ -44,42 +44,28 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p27
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2015
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(198, u'\\\\bsr ?57227')"
-p35
-atp36
-Rp37
+((lp33
+S"(194, u'\\\\bsr ?57227')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(6753, u'(?i)(da|das)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(163, u'(?i)(mice|mouse)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-atp47
-Rp48
+((lp38
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p39
+atp40
+Rp41
 sb.

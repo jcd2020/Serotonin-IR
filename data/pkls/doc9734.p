@@ -38,50 +38,28 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(71, u'(?i)(cerebellums|cerebellum)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2013
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(155, u'\\\\bmem')"
-p32
-atp33
-Rp34
+((lp30
+S"(149, u'\\\\bmem')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(1725, u'(?i)(clams|clam)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(7094, u'(?i)(curs|cur)')"
-p42
-aS"(2334, u'(?i)(eels|eel)')"
-p43
-aS"(853, u'(?i)(minas|mina)')"
-p44
-aS"(1414, u'(?i)(chars|char)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-atp48
-Rp49
+((lp35
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p36
+atp37
+Rp38
 sb.

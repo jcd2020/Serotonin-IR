@@ -8,108 +8,70 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(9, u'\\\\bdepress')"
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
-S'5ht5'
-p22
+((lp20
+S'5ht1a'
+p21
 aS'5ht2'
-p23
-aS'5ht1a'
-p24
+p22
 aS'5ht1'
-p25
+p23
 aS'5ht2a'
-p26
-atp27
-Rp28
+p24
+atp25
+Rp26
 sS'regions'
+p27
+g3
+((lp28
+S"(61, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(superiors|superior)(-|\\\\s+)?(olives|olive)\\\\b')"
 p29
-g3
-((lp30
-S"(61, u'(?i)(laterals|lateral)(-|\\\\s+)?(superiors|superior)(-|\\\\s+)?(olives|olive)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp30
+Rp31
 sS'year'
-p35
+p32
 V1999
-p36
+p33
 sS'agonists'
-p37
+p34
 g3
-((lp38
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
-p39
-atp40
-Rp41
+((lp35
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p36
+atp37
+Rp38
 sS'species'
-p42
+p39
 g3
-((lp43
-S"(5176, u'(?i)(tegs|teg)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(5150, u'(?i)(gerbils|gerbil)')"
-p46
-aS"(4964, u'(?i)(serins|serin)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(1725, u'(?i)(clams|clam)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(7094, u'(?i)(curs|cur)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(4979, u'(?i)(cats|cat)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(3247, u'(?i)(youngs|young)')"
-p59
-aS"(5743, u'(?i)(bots|bot)')"
-p60
-aS"(821, u'(?i)(lice|louse)')"
-p61
-atp62
-Rp63
+((lp40
+S"(5150, u'(?i)\\\\b(gerbils|gerbil)\\\\b')"
+p41
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
+p42
+atp43
+Rp44
 sb.

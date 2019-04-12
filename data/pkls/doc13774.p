@@ -56,46 +56,8 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2103, u'(?i)(nesters|nester)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(5537, u'(?i)(hippos|hippo)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(6356, u'(?i)(ais|ai)')"
-p39
-aS"(4663, u'(?i)(nags|nag)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(81, u'(?i)(asps|asp)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(3726, u'(?i)(mates|mate)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(4604, u'(?i)(mites|mite)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(7609, u'(?i)(erns|ern)')"
-p52
-aS"(1683, u'(?i)(terns|tern)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-atp55
-Rp56
+atp36
+Rp37
 sb.

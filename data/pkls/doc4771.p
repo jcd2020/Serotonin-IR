@@ -38,52 +38,28 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2005
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p31
-atp32
-Rp33
+((lp29
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(2568, u'(?i)(hens|hen)')"
+((lp34
+S"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+p35
+aS"(1312, u'(?i)\\\\b(pigeons|pigeon)\\\\b')"
 p36
-aS"(7539, u'(?i)(mammals|mammal)')"
-p37
-aS"(479, u'(?i)(lings|ling)')"
-p38
-aS"(3051, u'(?i)(pigs|pig)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(4661, u'(?i)(hacks|hack)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(1312, u'(?i)(pigeons|pigeon)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-atp49
-Rp50
+atp37
+Rp38
 sb.

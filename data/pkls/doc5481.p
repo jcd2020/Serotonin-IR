@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(136, u'\\\\btropisetron')"
+S"(30, u'\\\\bway ?100135')"
 p5
-aS"(31, u'\\\\bway ?100135')"
+aS"(38, u'\\\\bsb ?224289')"
 p6
-aS"(105, u'\\\\bmethysergide')"
+aS"(125, u'\\\\btropisetron')"
 p7
-aS"(39, u'\\\\bsb ?224289')"
+aS"(194, u'\\\\bmethysergide')"
 p8
 atp9
 Rp10
@@ -48,60 +48,34 @@ aS'5ht1a'
 p26
 aS'5ht3'
 p27
-aS'5ht5'
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+((lp31
+tp32
+Rp33
 sS'year'
-p37
+p34
 V2005
-p38
+p35
 sS'agonists'
-p39
+p36
 g3
-((lp40
-S"(60, u'\\\\bmethysergide')"
-p41
-atp42
-Rp43
+((lp37
+S"(53, u'\\\\bmethysergide')"
+p38
+atp39
+Rp40
 sS'species'
-p44
+p41
 g3
-((lp45
-S"(6753, u'(?i)(da|das)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(6125, u'(?i)(females|female)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(5967, u'(?i)(males|male)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(2942, u'(?i)(daws|daw)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(7094, u'(?i)(curs|cur)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+((lp42
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+p44
+atp45
+Rp46
 sb.

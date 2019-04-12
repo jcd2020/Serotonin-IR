@@ -32,60 +32,34 @@ g3
 ((lp18
 S'5ht1a'
 p19
-aS'5ht5'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p25
-atp26
-Rp27
+((lp23
+tp24
+Rp25
 sS'year'
-p28
+p26
 V2000
-p29
+p27
 sS'agonists'
+p28
+g3
+((lp29
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p30
-g3
-((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'species'
-p35
+p33
 g3
-((lp36
-S"(2568, u'(?i)(hens|hen)')"
-p37
-aS"(7609, u'(?i)(erns|ern)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(2334, u'(?i)(eels|eel)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(7058, u'(?i)(does|doe)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(1683, u'(?i)(terns|tern)')"
-p49
-atp50
-Rp51
+((lp34
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p35
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
+S"(48, u'\\\\btrazodone')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
-aS"(50, u'\\\\btrazodone')"
+aS"(21, u'\\\\bpindolol')"
 p7
 atp8
 Rp9
@@ -36,58 +36,32 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht5'
+S'5ht1a'
 p22
-aS'5ht1a'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+((lp26
+tp27
+Rp28
 sS'year'
-p31
+p29
 V1996
-p32
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(75, u'\\\\btrazodone')"
 p33
-g3
-((lp34
-S"(82, u'\\\\btrazodone')"
-p35
-atp36
-Rp37
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(2323, u'(?i)(bees|bee)')"
-p40
-aS"(4624, u'(?i)(apes|ape)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(4371, u'(?i)(lizas|liza)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+((lp37
+tp38
+Rp39
 sb.

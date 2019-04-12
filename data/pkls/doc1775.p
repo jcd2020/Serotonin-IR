@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -42,66 +42,32 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2008
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(25, u'\\\\bcannabidiol')"
-p34
-atp35
-Rp36
+((lp32
+S"(21, u'\\\\bcannabidiol')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(2323, u'(?i)(bees|bee)')"
+((lp37
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p39
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(867, u'(?i)(tits|tit)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(4177, u'(?i)(grays|gray)')"
-p45
-aS"(6580, u'(?i)(dams|dam)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3726, u'(?i)(mates|mate)')"
-p48
-aS"(2665, u'(?i)(rays|ray)')"
-p49
-aS"(6744, u'(?i)(maras|mara)')"
-p50
-aS"(7094, u'(?i)(curs|cur)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(5967, u'(?i)(males|male)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(2809, u'(?i)(toms|tom)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-atp58
-Rp59
+atp41
+Rp42
 sb.

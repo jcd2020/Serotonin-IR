@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(124, u'\\\\bondansetron')"
 p6
 atp7
 Rp8
@@ -48,9 +48,9 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
 atp31
 Rp32
@@ -68,34 +68,10 @@ sS'species'
 p39
 g3
 ((lp40
-S"(2323, u'(?i)(bees|bee)')"
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(4091, u'(?i)(adults|adult)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(5229, u'(?i)(moles|mole)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+atp43
+Rp44
 sb.

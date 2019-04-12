@@ -38,50 +38,30 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V1996
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(2323, u'(?i)(bees|bee)')"
+((lp34
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p35
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p36
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
 p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(2334, u'(?i)(eels|eel)')"
-p40
-aS"(853, u'(?i)(minas|mina)')"
-p41
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(1961, u'(?i)(pens|pen)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(1949, u'(?i)(pacemakers|pacemaker)')"
-p46
-aS"(5949, u'(?i)(dogs|dog)')"
-p47
-atp48
-Rp49
+atp38
+Rp39
 sb.

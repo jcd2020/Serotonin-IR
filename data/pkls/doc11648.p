@@ -30,64 +30,36 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht2c'
 p19
-aS'5ht2c'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+((lp23
+tp24
+Rp25
 sS'year'
-p28
+p26
 V2006
-p29
+p27
 sS'agonists'
+p28
+g3
+((lp29
+S"(11, u'\\\\bamphetamine')"
 p30
-g3
-((lp31
-S"(14, u'\\\\bamphetamine')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'species'
-p35
+p33
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(5229, u'(?i)(moles|mole)')"
-p38
-aS"(867, u'(?i)(tits|tit)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6215, u'(?i)(racers|racer)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(4749, u'(?i)(blues|blue)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-atp51
-Rp52
+((lp34
+S"(4749, u'(?i)\\\\b(blues|blue)\\\\b')"
+p35
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

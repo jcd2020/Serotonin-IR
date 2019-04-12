@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p24
 atp25
 Rp26
@@ -56,32 +56,12 @@ sS'species'
 p33
 g3
 ((lp34
-S"(5958, u'(?i)(rats|rat)')"
+S"(2665, u'(?i)\\\\b(rays|ray)\\\\b')"
 p35
-aS"(6682, u'(?i)(tera|teras)')"
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p36
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(2665, u'(?i)(rays|ray)')"
-p38
-aS"(1054, u'(?i)(homoes|homo)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(3522, u'(?i)(tetras|tetra)')"
-p42
-aS"(5917, u'(?i)(roaches|roach)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(5686, u'(?i)(foxes|fox)')"
-p46
-aS"(2809, u'(?i)(toms|tom)')"
-p47
-atp48
-Rp49
+atp38
+Rp39
 sb.

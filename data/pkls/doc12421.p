@@ -40,17 +40,17 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+S"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-aS"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p27
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p28
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p29
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
 atp31
 Rp32
@@ -68,44 +68,16 @@ sS'species'
 p39
 g3
 ((lp40
-S"(1070, u'(?i)(pets|pet)')"
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
 p41
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p42
-aS"(5176, u'(?i)(tegs|teg)')"
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p44
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p45
-aS"(7609, u'(?i)(erns|ern)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6215, u'(?i)(racers|racer)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(1057, u'(?i)(humans|human)')"
-p54
-aS"(3247, u'(?i)(youngs|young)')"
-p55
-aS"(3196, u'(?i)(human|humans)')"
-p56
-aS"(2809, u'(?i)(toms|tom)')"
-p57
-aS"(5743, u'(?i)(bots|bot)')"
-p58
-aS"(1683, u'(?i)(terns|tern)')"
-p59
-atp60
-Rp61
+atp46
+Rp47
 sb.

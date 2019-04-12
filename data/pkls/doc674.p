@@ -42,15 +42,15 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+S"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p27
-aS"(157, u'(?i)(limbics|limbic)(-|\\\\s+)?(systems|system)')"
+aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
 p28
-aS"(256, u'(?i)(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p29
-aS"(225, u'(?i)(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)')"
+aS"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
 p30
 atp31
 Rp32
@@ -68,30 +68,6 @@ sS'species'
 p39
 g3
 ((lp40
-S"(5537, u'(?i)(hippos|hippo)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(3601, u'(?i)(efts|eft)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(6215, u'(?i)(racers|racer)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(2809, u'(?i)(toms|tom)')"
-p52
-atp53
-Rp54
+tp41
+Rp42
 sb.

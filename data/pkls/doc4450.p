@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(114, u'\\\\bimipramine')"
+S"(104, u'\\\\bimipramine')"
 p5
 atp6
 Rp7
@@ -34,60 +34,32 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht1a'
 p21
-aS'5ht1a'
-p22
 aS'5ht1'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+((lp26
+tp27
+Rp28
 sS'year'
-p31
+p29
 V2007
-p32
+p30
 sS'agonists'
-p33
+p31
 g3
-((lp34
-tp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(1349, u'(?i)(rams|ram)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(3522, u'(?i)(tetras|tetra)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-atp51
-Rp52
+((lp36
+tp37
+Rp38
 sb.

@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p24
 atp25
 Rp26
@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(33, u'\\\\bdoi')"
+S"(175, u'\\\\bdoi')"
 p31
 atp32
 Rp33
@@ -58,44 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(6249, u'(?i)(ants|ant)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p36
-aS"(2054, u'(?i)(heads|head)')"
+aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p37
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(3152, u'(?i)(layers|layer)')"
-p40
-aS"(81, u'(?i)(asps|asp)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(3726, u'(?i)(mates|mate)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(6331, u'(?i)(mares|mare)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(2809, u'(?i)(toms|tom)')"
-p53
-aS"(5568, u'(?i)(hakes|hake)')"
-p54
-atp55
-Rp56
+atp39
+Rp40
 sb.

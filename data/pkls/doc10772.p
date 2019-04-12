@@ -34,56 +34,34 @@ g3
 ((lp19
 S'5ht1a'
 p20
-aS'5ht5'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+((lp24
+tp25
+Rp26
 sS'year'
-p30
+p27
 V2006
-p31
+p28
 sS'agonists'
-p32
+p29
 g3
-((lp33
-tp34
-Rp35
+((lp30
+tp31
+Rp32
 sS'species'
-p36
+p33
 g3
-((lp37
-S"(5967, u'(?i)(males|male)')"
-p38
-aS"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(1961, u'(?i)(pens|pen)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(5217, u'(?i)(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(4371, u'(?i)(lizas|liza)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-atp49
-Rp50
+((lp34
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p35
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p36
+aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
+p37
+atp38
+Rp39
 sb.

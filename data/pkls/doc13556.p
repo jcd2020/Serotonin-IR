@@ -8,102 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(139, u'\\\\bmetoclopramide')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
-aS"(67, u'\\\\bhaloperidol')"
+aS"(34, u'\\\\bmetergoline')"
 p6
-aS"(52, u'\\\\bmetergoline')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
-aS"(35, u'\\\\bmetergoline')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.STAINING'
-p13
+p12
 aS'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
-S'5ht5'
-p23
-aS'5ht3a'
-p24
+((lp21
+S'5ht3a'
+p22
 aS'5ht1'
-p25
+p23
 aS'5ht2a'
-p26
-atp27
-Rp28
+p24
+atp25
+Rp26
 sS'regions'
+p27
+g3
+((lp28
+S"(105, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(reticulatas|reticulata)\\\\b')"
 p29
-g3
-((lp30
-S"(105, u'(?i)(par|pars)(-|\\\\s+)?(reticulatas|reticulata)')"
-p31
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p32
-atp33
-Rp34
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p35
+p33
 V1995
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(209, u'\\\\bmetoclopramide')"
 p37
-g3
-((lp38
-S"(48, u'\\\\bhaloperidol')"
-p39
-aS"(213, u'\\\\bmetoclopramide')"
-p40
-atp41
-Rp42
+aS"(43, u'\\\\bhaloperidol')"
+p38
+atp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(1688, u'(?i)(ounces|ounce)')"
-p45
-aS"(4404, u'(?i)(duns|dun)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(853, u'(?i)(minas|mina)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(7094, u'(?i)(curs|cur)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+((lp42
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

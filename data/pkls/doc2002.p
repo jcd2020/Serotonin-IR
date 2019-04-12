@@ -40,9 +40,9 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,9 +54,9 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(210, u'\\\\bsulpiride')"
 p33
-aS"(214, u'\\\\bsulpiride')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p34
 atp35
 Rp36
@@ -64,28 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(2568, u'(?i)(hens|hen)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(867, u'(?i)(tits|tit)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(3522, u'(?i)(tetras|tetra)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-atp50
-Rp51
+atp40
+Rp41
 sb.

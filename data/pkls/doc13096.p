@@ -28,42 +28,30 @@ g3
 ((lp16
 S'5ht7'
 p17
-aS'5ht5'
-p18
-atp19
-Rp20
+atp18
+Rp19
 sS'regions'
-p21
+p20
 g3
-((lp22
-tp23
-Rp24
+((lp21
+tp22
+Rp23
 sS'year'
-p25
+p24
 V1997
-p26
+p25
 sS'agonists'
-p27
+p26
 g3
-((lp28
-tp29
-Rp30
+((lp27
+tp28
+Rp29
 sS'species'
-p31
+p30
 g3
-((lp32
-S"(5958, u'(?i)(rats|rat)')"
-p33
-aS"(6753, u'(?i)(da|das)')"
-p34
-aS"(1055, u'(?i)(men|man)')"
-p35
-aS"(6356, u'(?i)(ais|ai)')"
-p36
-aS"(3550, u'(?i)(anis|ani)')"
-p37
-aS"(3812, u'(?i)(studs|stud)')"
-p38
-atp39
-Rp40
+((lp31
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p32
+atp33
+Rp34
 sb.

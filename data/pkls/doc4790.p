@@ -8,112 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(34, u'\\\\bmetergoline')"
 p5
-aS"(130, u'\\\\britanserin')"
-p6
-aS"(52, u'\\\\bmetergoline')"
-p7
 aS"(21, u'\\\\bpindolol')"
-p8
-aS"(54, u'\\\\britanserin')"
-p9
+p6
+aS"(31, u'\\\\bway ?100635')"
+p7
 aS"(4, u'\\\\bbmy ?7378')"
+p8
+aS"(43, u'\\\\bgr ?127935')"
+p9
+aS"(26, u'\\\\bspiperone')"
 p10
-aS"(35, u'\\\\bmetergoline')"
+aS"(119, u'\\\\britanserin')"
 p11
-aS"(27, u'\\\\bspiperone')"
-p12
-aS"(45, u'\\\\bgr ?127935')"
-p13
-atp14
-Rp15
+atp12
+Rp13
 sS'methods'
-p16
+p14
 g3
-((lp17
+((lp15
 S'Method.ANTAGONIST'
-p18
-atp19
-Rp20
+p16
+atp17
+Rp18
 sS'topics'
-p21
+p19
 g3
-((lp22
-tp23
-Rp24
+((lp20
+tp21
+Rp22
 sS'receptors'
-p25
+p23
 g3
-((lp26
+((lp24
 S'5ht1b'
-p27
+p25
 aS'5ht1a'
-p28
+p26
 aS'5ht3'
-p29
+p27
 aS'5ht2'
-p30
+p28
 aS'5ht2a'
-p31
+p29
 aS'5ht1d'
-p32
-atp33
-Rp34
+p30
+atp31
+Rp32
 sS'regions'
+p33
+g3
+((lp34
+S"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p35
-g3
-((lp36
-S"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
-p37
-aS"(34, u'(?i)(pon|pons)')"
-p38
-atp39
-Rp40
+atp36
+Rp37
 sS'year'
-p41
+p38
 V1997
-p42
+p39
 sS'agonists'
-p43
+p40
 g3
-((lp44
-tp45
-Rp46
+((lp41
+tp42
+Rp43
 sS'species'
-p47
+p44
 g3
-((lp48
-S"(5537, u'(?i)(hippos|hippo)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(2568, u'(?i)(hens|hen)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(4163, u'(?i)(ermines|ermine)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(3592, u'(?i)(ravens|raven)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(4964, u'(?i)(serins|serin)')"
-p58
-aS"(5958, u'(?i)(rats|rat)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-aS"(1349, u'(?i)(rams|ram)')"
-p61
-aS"(5743, u'(?i)(bots|bot)')"
-p62
-aS"(6356, u'(?i)(ais|ai)')"
-p63
-atp64
-Rp65
+((lp45
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

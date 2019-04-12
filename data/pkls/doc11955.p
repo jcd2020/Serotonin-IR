@@ -8,98 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(31, u'\\\\bway ?100635')"
 p6
-aS"(128, u'\\\\bketanserin')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.STIMULATION'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(11, u'\\\\banxiolyt')"
-p18
+p17
 aS"(10, u'\\\\banxiety')"
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht1a'
-p24
+p23
 aS'5ht2'
-p25
+p24
 aS'5ht1'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(214, u'(?i)(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+((lp29
+S"(214, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
+p30
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p31
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p32
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'year'
-p37
+p35
 V2005
-p38
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p39
-g3
-((lp40
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p41
-aS"(33, u'\\\\bdoi')"
-p42
-atp43
-Rp44
+aS"(175, u'\\\\bdoi')"
+p40
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(6753, u'(?i)(da|das)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(4964, u'(?i)(serins|serin)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(4163, u'(?i)(ermines|ermine)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(1414, u'(?i)(chars|char)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+((lp44
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

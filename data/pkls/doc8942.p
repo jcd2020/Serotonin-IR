@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(134, u'\\\\bmirtazapine')"
 p5
-aS"(51, u'\\\\bmirtazapine')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -36,60 +36,38 @@ g3
 ((lp20
 S'5ht1a'
 p21
-aS'5ht5'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp25
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p26
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp28
+Rp29
 sS'year'
-p32
+p30
 V2011
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(59, u'\\\\bperospirone')"
 p34
-g3
-((lp35
-S"(66, u'\\\\bperospirone')"
-p36
-atp37
-Rp38
+atp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(4624, u'(?i)(apes|ape)')"
-p41
-aS"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(5967, u'(?i)(males|male)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(3726, u'(?i)(mates|mate)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-atp52
-Rp53
+((lp38
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p39
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

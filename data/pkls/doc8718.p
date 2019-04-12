@@ -10,11 +10,11 @@ p3
 ((lp4
 S"(5, u'\\\\bcyanopindolol')"
 p5
-aS"(27, u'\\\\bspiperone')"
+aS"(26, u'\\\\bspiperone')"
 p6
 aS"(14, u'\\\\bmethiothepin')"
 p7
-aS"(34, u'\\\\byohimbine')"
+aS"(33, u'\\\\byohimbine')"
 p8
 atp9
 Rp10
@@ -54,70 +54,42 @@ sS'regions'
 p30
 g3
 ((lp31
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'year'
-p36
+p35
 V1999
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(89, u'\\\\byohimbine')"
+((lp38
+S"(149, u'\\\\bmem')"
+p39
+aS"(219, u'\\\\b5 ?ct')"
 p40
-aS"(5, u'\\\\b5 ?ct')"
+aS"(114, u'\\\\bl ?694247')"
 p41
-aS"(155, u'\\\\bmem')"
+aS"(100, u'\\\\bcp ?93129')"
 p42
-aS"(107, u'\\\\bcp ?93129')"
+aS"(82, u'\\\\byohimbine')"
 p43
-aS"(121, u'\\\\bl ?694247')"
-p44
-atp45
-Rp46
+atp44
+Rp45
 sS'species'
-p47
+p46
 g3
-((lp48
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp47
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p49
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p50
-aS"(7552, u'(?i)(bats|bat)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p51
-aS"(4163, u'(?i)(ermines|ermine)')"
-p52
-aS"(3051, u'(?i)(pigs|pig)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(3062, u'(?i)(guineas|guinea)')"
-p55
-aS"(7094, u'(?i)(curs|cur)')"
-p56
-aS"(4979, u'(?i)(cats|cat)')"
-p57
-aS"(5838, u'(?i)(cubs|cub)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-aS"(3522, u'(?i)(tetras|tetra)')"
-p60
-aS"(1961, u'(?i)(pens|pen)')"
-p61
-aS"(3812, u'(?i)(studs|stud)')"
-p62
-aS"(6391, u'(?i)(asses|ass)')"
-p63
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p64
-aS"(6356, u'(?i)(ais|ai)')"
-p65
-atp66
-Rp67
+atp52
+Rp53
 sb.

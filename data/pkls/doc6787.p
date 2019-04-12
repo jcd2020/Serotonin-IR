@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(58, u'\\\\bhaloperidol')"
 p5
 atp6
 Rp7
@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p24
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(48, u'\\\\bhaloperidol')"
+S"(43, u'\\\\bhaloperidol')"
 p32
 atp33
 Rp34
@@ -60,26 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(6249, u'(?i)(ants|ant)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p37
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(853, u'(?i)(minas|mina)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(7058, u'(?i)(does|doe)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(1683, u'(?i)(terns|tern)')"
-p46
-atp47
-Rp48
+atp39
+Rp40
 sb.

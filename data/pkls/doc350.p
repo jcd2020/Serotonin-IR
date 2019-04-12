@@ -40,64 +40,28 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(383, u'(?i)(chiasmatics|chiasmatic)(-|\\\\s+)?(cisterns|cistern)')"
+S"(368, u'(?i)\\\\b(basilars|basilar)(-|\\\\s+)?(arteries|artery)\\\\b')"
 p25
-aS"(368, u'(?i)(basilars|basilar)(-|\\\\s+)?(arteries|artery)')"
-p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp26
+Rp27
 sS'year'
-p30
+p28
 V2007
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p32
-g3
-((lp33
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(7609, u'(?i)(erns|ern)')"
-p40
-aS"(867, u'(?i)(tits|tit)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(4163, u'(?i)(ermines|ermine)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(745, u'(?i)(arachnoids|arachnoid)')"
-p46
-aS"(5131, u'(?i)(hags|hag)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(5229, u'(?i)(moles|mole)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(1683, u'(?i)(terns|tern)')"
-p55
-atp56
-Rp57
+((lp36
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

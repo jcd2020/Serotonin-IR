@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bgranisetron')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(135, u'\\\\bondansetron')"
+aS"(123, u'\\\\bgranisetron')"
 p6
 atp7
 Rp8
@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,30 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5958, u'(?i)(rats|rat)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(7609, u'(?i)(erns|ern)')"
-p37
-aS"(6682, u'(?i)(tera|teras)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(3550, u'(?i)(anis|ani)')"
-p42
-aS"(821, u'(?i)(lice|louse)')"
-p43
-aS"(1961, u'(?i)(pens|pen)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(7610, u'(?i)(ernes|erne)')"
-p46
-aS"(1683, u'(?i)(terns|tern)')"
-p47
-atp48
-Rp49
+atp37
+Rp38
 sb.

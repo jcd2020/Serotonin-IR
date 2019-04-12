@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(149, u'\\\\bmemantine')"
+S"(125, u'\\\\btropisetron')"
 p5
-aS"(136, u'\\\\btropisetron')"
+aS"(140, u'\\\\bmemantine')"
 p6
 atp7
 Rp8
@@ -50,64 +50,32 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+tp30
+Rp31
 sS'year'
-p33
+p32
 V2014
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(155, u'\\\\bmem')"
-p37
-atp38
-Rp39
+((lp35
+S"(149, u'\\\\bmem')"
+p36
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(2323, u'(?i)(bees|bee)')"
+((lp40
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p41
+aS"(7003, u'(?i)\\\\b(murines|murine)\\\\b')"
 p42
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p43
-aS"(6753, u'(?i)(da|das)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(163, u'(?i)(mice|mouse)')"
-p46
-aS"(2389, u'(?i)(spats|spat)')"
-p47
-aS"(7003, u'(?i)(murines|murine)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(1057, u'(?i)(humans|human)')"
-p53
-aS"(5917, u'(?i)(roaches|roach)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(3196, u'(?i)(human|humans)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-aS"(5537, u'(?i)(hippos|hippo)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-atp61
-Rp62
+atp45
+Rp46
 sb.

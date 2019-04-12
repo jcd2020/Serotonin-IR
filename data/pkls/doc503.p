@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -40,11 +40,11 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p25
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(78, u'\\\\bssr ?181507')"
+S"(71, u'\\\\bssr ?181507')"
 p34
 atp35
 Rp36
@@ -64,36 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(5176, u'(?i)(tegs|teg)')"
-p41
-aS"(1291, u'(?i)(ratels|ratel)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(7094, u'(?i)(curs|cur)')"
-p45
-aS"(2334, u'(?i)(eels|eel)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(7604, u'(?i)(cyclop|cyclops)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-atp54
-Rp55
+atp40
+Rp41
 sb.

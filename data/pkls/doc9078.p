@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bmianserin')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
-aS"(27, u'\\\\bspiperone')"
+aS"(26, u'\\\\bspiperone')"
 p6
-aS"(105, u'\\\\bmethysergide')"
+aS"(194, u'\\\\bmethysergide')"
 p7
-aS"(139, u'\\\\bmetoclopramide')"
+aS"(133, u'\\\\bmianserin')"
 p8
 aS"(22, u'\\\\bpropranolol')"
 p9
@@ -64,11 +64,11 @@ sS'agonists'
 p36
 g3
 ((lp37
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(209, u'\\\\bmetoclopramide')"
 p38
-aS"(213, u'\\\\bmetoclopramide')"
+aS"(53, u'\\\\bmethysergide')"
 p39
-aS"(60, u'\\\\bmethysergide')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p40
 atp41
 Rp42
@@ -76,40 +76,8 @@ sS'species'
 p43
 g3
 ((lp44
-S"(1070, u'(?i)(pets|pet)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(5537, u'(?i)(hippos|hippo)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(2568, u'(?i)(hens|hen)')"
-p48
-aS"(867, u'(?i)(tits|tit)')"
-p49
-aS"(4964, u'(?i)(serins|serin)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(3404, u'(?i)(titis|titi)')"
-p54
-aS"(853, u'(?i)(minas|mina)')"
-p55
-aS"(5958, u'(?i)(rats|rat)')"
-p56
-aS"(3522, u'(?i)(tetras|tetra)')"
-p57
-aS"(4979, u'(?i)(cats|cat)')"
-p58
-aS"(1961, u'(?i)(pens|pen)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-aS"(821, u'(?i)(lice|louse)')"
-p61
-atp62
-Rp63
+atp46
+Rp47
 sb.

@@ -34,52 +34,30 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(223, u'(?i)(putamens|putamen)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p22
-aS"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'year'
-p26
+p25
 V1994
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp32
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p33
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p34
-aS"(6753, u'(?i)(da|das)')"
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p35
-aS"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(6356, u'(?i)(ais|ai)')"
-p37
-aS"(867, u'(?i)(tits|tit)')"
-p38
-aS"(4964, u'(?i)(serins|serin)')"
-p39
-aS"(81, u'(?i)(asps|asp)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(3247, u'(?i)(youngs|young)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(1414, u'(?i)(chars|char)')"
-p44
-aS"(6325, u'(?i)(caudates|caudate)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-atp47
-Rp48
+atp36
+Rp37
 sb.

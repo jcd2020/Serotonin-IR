@@ -40,68 +40,38 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+S"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
 p25
-aS"(221, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p27
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
 p28
-aS"(104, u'(?i)(par|pars)(-|\\\\s+)?(compactas|compacta)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p29
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V2009
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(155, u'\\\\bmem')"
-p37
-atp38
-Rp39
+((lp35
+S"(149, u'\\\\bmem')"
+p36
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(2323, u'(?i)(bees|bee)')"
+((lp40
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p41
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(2568, u'(?i)(hens|hen)')"
-p44
-aS"(7609, u'(?i)(erns|ern)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(163, u'(?i)(mice|mouse)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(2395, u'(?i)(mutants|mutant)')"
-p52
-aS"(7094, u'(?i)(curs|cur)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(1683, u'(?i)(terns|tern)')"
-p57
-atp58
-Rp59
+atp43
+Rp44
 sb.

@@ -38,11 +38,11 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p24
-aS"(104, u'(?i)(par|pars)(-|\\\\s+)?(compactas|compacta)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p25
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(99, u'\\\\brepinotan')"
+S"(92, u'\\\\brepinotan')"
 p33
 atp34
 Rp35
@@ -62,38 +62,14 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2568, u'(?i)(hens|hen)')"
+S"(5510, u'(?i)\\\\b(bays|bay)\\\\b')"
 p38
-aS"(5510, u'(?i)(bays|bay)')"
+aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(3522, u'(?i)(tetras|tetra)')"
-p47
-aS"(7094, u'(?i)(curs|cur)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6521, u'(?i)(macaques|macaque)')"
-p50
-aS"(2809, u'(?i)(toms|tom)')"
-p51
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-atp54
-Rp55
+atp42
+Rp43
 sb.

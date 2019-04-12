@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(141, u'\\\\bzacopride')"
+S"(130, u'\\\\bzacopride')"
 p5
 atp6
 Rp7
@@ -38,48 +38,30 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2015
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(212, u'\\\\bzacopride')"
+((lp30
+S"(208, u'\\\\bzacopride')"
+p31
+aS"(189, u'\\\\bethanol')"
 p32
-aS"(193, u'\\\\bethanol')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(949, u'(?i)(cohoes|coho)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(853, u'(?i)(minas|mina)')"
-p41
-aS"(3550, u'(?i)(anis|ani)')"
-p42
-aS"(7094, u'(?i)(curs|cur)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-atp47
-Rp48
+((lp36
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

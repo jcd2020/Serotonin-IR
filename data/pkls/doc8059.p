@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bgranisetron')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(135, u'\\\\bondansetron')"
+aS"(123, u'\\\\bgranisetron')"
 p6
 atp7
 Rp8
@@ -44,7 +44,7 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p27
 atp28
 Rp29
@@ -62,32 +62,12 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2323, u'(?i)(bees|bee)')"
+S"(2665, u'(?i)\\\\b(rays|ray)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
 p39
-aS"(3636, u'(?i)(martins|martin)')"
+aS"(3636, u'(?i)\\\\b(martins|martin)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(2665, u'(?i)(rays|ray)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6521, u'(?i)(macaques|macaque)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp41
+Rp42
 sb.

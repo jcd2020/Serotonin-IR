@@ -22,74 +22,52 @@ sS'topics'
 p12
 g3
 ((lp13
-tp14
-Rp15
+S"(36, u'\\\\bcompulsiv')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
+((lp18
 S'5ht1a'
-p18
-aS'5ht5'
 p19
-atp20
-Rp21
+aS'5ht5'
+p20
+atp21
+Rp22
 sS'regions'
-p22
+p23
 g3
-((lp23
-tp24
-Rp25
+((lp24
+tp25
+Rp26
 sS'year'
-p26
-V1992
 p27
-sS'agonists'
+V1992
 p28
+sS'agonists'
+p29
 g3
-((lp29
-S"(50, u'\\\\bipsapirone')"
-p30
-aS"(155, u'\\\\bmem')"
+((lp30
+S"(45, u'\\\\bipsapirone')"
 p31
-aS"(67, u'\\\\bpyrimidinylpiperazine')"
+aS"(60, u'\\\\bpyrimidinylpiperazine')"
 p32
-atp33
-Rp34
+aS"(149, u'\\\\bmem')"
+p33
+atp34
+Rp35
 sS'species'
-p35
+p36
 g3
-((lp36
-S"(5537, u'(?i)(hippos|hippo)')"
-p37
-aS"(3550, u'(?i)(anis|ani)')"
+((lp37
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(949, u'(?i)(cohoes|coho)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(2183, u'(?i)(gars|gar)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(1057, u'(?i)(humans|human)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(3196, u'(?i)(human|humans)')"
-p50
-aS"(1795, u'(?i)(mounts|mount)')"
-p51
-atp52
-Rp53
+atp41
+Rp42
 sb.

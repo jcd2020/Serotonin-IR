@@ -32,50 +32,32 @@ g3
 ((lp18
 S'5ht1a'
 p19
-aS'5ht5'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+((lp23
+tp24
+Rp25
 sS'year'
-p29
+p26
 V2002
-p30
+p27
 sS'agonists'
-p31
+p28
 g3
-((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p33
-atp34
-Rp35
+((lp29
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p30
+atp31
+Rp32
 sS'species'
-p36
+p33
 g3
-((lp37
-S"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(4163, u'(?i)(ermines|ermine)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(3522, u'(?i)(tetras|tetra)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-atp45
-Rp46
+((lp34
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

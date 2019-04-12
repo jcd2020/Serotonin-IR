@@ -28,58 +28,34 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht4'
 p18
-aS'5ht4'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+((lp22
+tp23
+Rp24
 sS'year'
-p27
+p25
 V2018
-p28
+p26
 sS'agonists'
+p27
+g3
+((lp28
+S"(200, u'\\\\bml ?10302')"
 p29
-g3
-((lp30
-S"(204, u'\\\\bml ?10302')"
-p31
-aS"(209, u'\\\\brs ?67333')"
-p32
-atp33
-Rp34
+aS"(205, u'\\\\brs ?67333')"
+p30
+atp31
+Rp32
 sS'species'
-p35
+p33
 g3
-((lp36
-S"(2568, u'(?i)(hens|hen)')"
-p37
-aS"(867, u'(?i)(tits|tit)')"
-p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(5229, u'(?i)(moles|mole)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(7488, u'(?i)(molas|mola)')"
-p46
-atp47
-Rp48
+((lp34
+tp35
+Rp36
 sb.

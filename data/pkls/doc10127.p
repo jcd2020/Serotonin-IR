@@ -40,58 +40,40 @@ g3
 ((lp22
 S'5ht1a'
 p23
-aS'5ht5'
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-tp29
-Rp30
+((lp27
+tp28
+Rp29
 sS'year'
-p31
+p30
 V2018
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+tp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(6753, u'(?i)(da|das)')"
+((lp37
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p38
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(6125, u'(?i)(females|female)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p42
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p43
-aS"(4091, u'(?i)(adults|adult)')"
-p44
-aS"(5967, u'(?i)(males|male)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(1057, u'(?i)(humans|human)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(3196, u'(?i)(human|humans)')"
-p52
-atp53
-Rp54
+atp44
+Rp45
 sb.

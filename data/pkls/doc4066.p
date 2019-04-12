@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(127, u'\\\\bderamciclane')"
+S"(116, u'\\\\bderamciclane')"
 p5
 atp6
 Rp7
@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(14, u'\\\\bamphetamine')"
+S"(11, u'\\\\bamphetamine')"
 p34
 atp35
 Rp36
@@ -64,40 +64,16 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5799, u'(?i)(rodents|rodent)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p40
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(6682, u'(?i)(tera|teras)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(1057, u'(?i)(humans|human)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(3196, u'(?i)(human|humans)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+atp44
+Rp45
 sb.

@@ -40,19 +40,19 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p25
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(243, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(olfactories|olfactory)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p27
-aS"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p28
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(177, u'(?i)\\\\b(posteriors|posterior)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(177, u'(?i)(posteriors|posterior)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p30
-aS"(243, u'(?i)(anteriors|anterior)(-|\\\\s+)?(olfactories|olfactory)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p31
 atp32
 Rp33
@@ -64,7 +64,7 @@ sS'agonists'
 p36
 g3
 ((lp37
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p38
 atp39
 Rp40
@@ -72,42 +72,22 @@ sS'species'
 p41
 g3
 ((lp42
-S"(2323, u'(?i)(bees|bee)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p43
-aS"(5626, u'(?i)(posters|poster)')"
+aS"(5150, u'(?i)\\\\b(gerbils|gerbil)\\\\b')"
 p44
-aS"(5176, u'(?i)(tegs|teg)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p45
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p46
-aS"(5150, u'(?i)(gerbils|gerbil)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p47
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p48
-aS"(6753, u'(?i)(da|das)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p49
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(3062, u'(?i)(guineas|guinea)')"
-p52
-aS"(1054, u'(?i)(homoes|homo)')"
-p53
-aS"(853, u'(?i)(minas|mina)')"
-p54
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(5799, u'(?i)(rodents|rodent)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-atp61
-Rp62
+atp51
+Rp52
 sb.

@@ -44,38 +44,24 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2003
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+tp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(5743, u'(?i)(bots|bot)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(3592, u'(?i)(ravens|raven)')"
-p41
-aS"(3726, u'(?i)(mates|mate)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-atp45
-Rp46
+((lp37
+tp38
+Rp39
 sb.

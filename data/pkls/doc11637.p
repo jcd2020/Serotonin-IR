@@ -44,60 +44,32 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p27
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp28
+Rp29
 sS'year'
-p32
+p30
 V2017
-p33
+p31
 sS'agonists'
-p34
+p32
 g3
-((lp35
-tp36
-Rp37
+((lp33
+tp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(2568, u'(?i)(hens|hen)')"
+((lp37
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p38
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p39
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p41
-aS"(7539, u'(?i)(mammals|mammal)')"
-p42
-aS"(4091, u'(?i)(adults|adult)')"
-p43
-aS"(5967, u'(?i)(males|male)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(2334, u'(?i)(eels|eel)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-atp56
-Rp57
+atp42
+Rp43
 sb.

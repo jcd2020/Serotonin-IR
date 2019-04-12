@@ -36,9 +36,9 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
+S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
 p23
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p24
 atp25
 Rp26
@@ -56,32 +56,10 @@ sS'species'
 p33
 g3
 ((lp34
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p35
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-aS"(163, u'(?i)(mice|mouse)')"
-p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(4091, u'(?i)(adults|adult)')"
-p39
-aS"(2183, u'(?i)(gars|gar)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(4371, u'(?i)(lizas|liza)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(1683, u'(?i)(terns|tern)')"
-p47
-atp48
-Rp49
+atp37
+Rp38
 sb.

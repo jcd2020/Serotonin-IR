@@ -32,42 +32,30 @@ S'5ht1b'
 p18
 aS'5ht1a'
 p19
-aS'5ht5'
-p20
 aS'5ht2c'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-tp26
-Rp27
+((lp24
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2002
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(4624, u'(?i)(apes|ape)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(4201, u'(?i)(kines|kine)')"
-p40
-atp41
-Rp42
+((lp34
+tp35
+Rp36
 sb.

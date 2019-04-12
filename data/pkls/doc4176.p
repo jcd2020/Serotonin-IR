@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -42,9 +42,9 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p26
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,9 +56,9 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(20, u'\\\\bbuspirone')"
 p34
-aS"(24, u'\\\\bbuspirone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p35
 atp36
 Rp37
@@ -66,36 +66,8 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2568, u'(?i)(hens|hen)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(5454, u'(?i)(brills|brill)')"
-p41
-aS"(163, u'(?i)(mice|mouse)')"
-p42
-aS"(2183, u'(?i)(gars|gar)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(7094, u'(?i)(curs|cur)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(6580, u'(?i)(dams|dam)')"
-p53
-aS"(6682, u'(?i)(tera|teras)')"
-p54
-atp55
-Rp56
+atp41
+Rp42
 sb.

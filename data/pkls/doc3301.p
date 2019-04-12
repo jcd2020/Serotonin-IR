@@ -44,50 +44,32 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2009
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp33
+S"(205, u'\\\\brs ?67333')"
+p34
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p35
-aS"(209, u'\\\\brs ?67333')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(1688, u'(?i)(ounces|ounce)')"
+((lp39
+S"(73, u'(?i)\\\\b(royals|royal)\\\\b')"
+p40
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(73, u'(?i)(royals|royal)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp42
+Rp43
 sb.

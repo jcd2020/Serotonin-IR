@@ -36,19 +36,19 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(55, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(parabrachials|parabrachial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p23
-aS"(55, u'(?i)(laterals|lateral)(-|\\\\s+)?(parabrachials|parabrachial)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p24
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p25
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p26
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p27
-aS"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
+aS"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p28
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p29
 atp30
 Rp31
@@ -66,32 +66,10 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2670, u'(?i)(arabs|arab)')"
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(3592, u'(?i)(ravens|raven)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(2665, u'(?i)(rays|ray)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(4177, u'(?i)(grays|gray)')"
-p52
-atp53
-Rp54
+atp42
+Rp43
 sb.

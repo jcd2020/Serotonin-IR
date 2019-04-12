@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -40,9 +40,9 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
 p25
-aS"(396, u'(?i)(subventriculars|subventricular)(-|\\\\s+)?(zones|zone)')"
+aS"(396, u'(?i)\\\\b(subventriculars|subventricular)(-|\\\\s+)?(zones|zone)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,11 +54,11 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(20, u'\\\\bbuspirone')"
 p33
-aS"(24, u'\\\\bbuspirone')"
+aS"(176, u'\\\\bdom')"
 p34
-aS"(181, u'\\\\bdom')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p35
 atp36
 Rp37
@@ -66,40 +66,14 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2568, u'(?i)(hens|hen)')"
+S"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
 p40
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(4003, u'(?i)\\\\b(crickets|cricket)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
+aS"(5721, u'(?i)\\\\b(opossums|opossum)\\\\b')"
 p43
-aS"(7539, u'(?i)(mammals|mammal)')"
-p44
-aS"(4091, u'(?i)(adults|adult)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(5722, u'(?i)(possums|possum)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(5721, u'(?i)(opossums|opossum)')"
-p51
-aS"(4003, u'(?i)(crickets|cricket)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(7610, u'(?i)(ernes|erne)')"
-p55
-aS"(1683, u'(?i)(terns|tern)')"
-p56
-atp57
-Rp58
+atp44
+Rp45
 sb.

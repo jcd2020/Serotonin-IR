@@ -38,15 +38,15 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
 p24
-aS"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
+aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p25
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p26
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p27
-aS"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
 atp29
 Rp30
@@ -64,34 +64,10 @@ sS'species'
 p37
 g3
 ((lp38
-S"(2323, u'(?i)(bees|bee)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p39
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(867, u'(?i)(tits|tit)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(3152, u'(?i)(layers|layer)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(4371, u'(?i)(lizas|liza)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-aS"(1795, u'(?i)(mounts|mount)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-atp53
-Rp54
+atp41
+Rp42
 sb.

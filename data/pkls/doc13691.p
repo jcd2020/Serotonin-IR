@@ -40,58 +40,32 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p25
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2002
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp36
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(1688, u'(?i)(ounces|ounce)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(6125, u'(?i)(females|female)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(2725, u'(?i)(mokes|moke)')"
-p44
-aS"(5967, u'(?i)(males|male)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(107, u'(?i)(stags|stag)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+atp40
+Rp41
 sb.

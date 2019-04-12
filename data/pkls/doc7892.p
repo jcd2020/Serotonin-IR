@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(37, u'\\\\bsb ?216641')"
 p5
-aS"(38, u'\\\\bsb ?216641')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -46,56 +46,30 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2005
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-tp36
-Rp37
+((lp34
+tp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(4301, u'(?i)(hydras|hydra)')"
+((lp38
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p39
+aS"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(7609, u'(?i)(erns|ern)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(5967, u'(?i)(males|male)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(3592, u'(?i)(ravens|raven)')"
-p47
-aS"(2334, u'(?i)(eels|eel)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(5131, u'(?i)(hags|hag)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(1683, u'(?i)(terns|tern)')"
-p53
-aS"(7127, u'(?i)(monitors|monitor)')"
-p54
-atp55
-Rp56
+atp42
+Rp43
 sb.

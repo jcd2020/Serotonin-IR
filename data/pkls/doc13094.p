@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p24
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,32 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(6249, u'(?i)(ants|ant)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p36
-aS"(5967, u'(?i)(males|male)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p37
-aS"(6125, u'(?i)(females|female)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p38
-aS"(81, u'(?i)(asps|asp)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(3726, u'(?i)(mates|mate)')"
-p41
-aS"(3152, u'(?i)(layers|layer)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(7609, u'(?i)(erns|ern)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(1683, u'(?i)(terns|tern)')"
-p48
-atp49
-Rp50
+atp39
+Rp40
 sb.

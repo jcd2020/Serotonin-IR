@@ -32,60 +32,40 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2c'
 p20
-aS'5ht2c'
-p21
 aS'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-tp27
-Rp28
+((lp25
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2004
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(172, u'\\\\bmk ?212')"
+((lp31
+S"(166, u'\\\\bmk ?212')"
+p32
+aS"(175, u'\\\\bdoi')"
 p33
-aS"(33, u'\\\\bdoi')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(2323, u'(?i)(bees|bee)')"
+((lp37
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(6125, u'(?i)(females|female)')"
-p41
-aS"(5967, u'(?i)(males|male)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(5917, u'(?i)(roaches|roach)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+atp40
+Rp41
 sb.

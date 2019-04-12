@@ -44,11 +44,11 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p27
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p28
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
 atp30
 Rp31
@@ -60,7 +60,7 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p36
 atp37
 Rp38
@@ -68,44 +68,10 @@ sS'species'
 p39
 g3
 ((lp40
-S"(7609, u'(?i)(erns|ern)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p41
-aS"(5967, u'(?i)(males|male)')"
+aS"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
 p42
-aS"(5176, u'(?i)(tegs|teg)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(5229, u'(?i)(moles|mole)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(2389, u'(?i)(spats|spat)')"
-p48
-aS"(81, u'(?i)(asps|asp)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(4604, u'(?i)(mites|mite)')"
-p51
-aS"(6215, u'(?i)(racers|racer)')"
-p52
-aS"(853, u'(?i)(minas|mina)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(4176, u'(?i)(greys|grey)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-aS"(1683, u'(?i)(terns|tern)')"
-p59
-atp60
-Rp61
+atp43
+Rp44
 sb.

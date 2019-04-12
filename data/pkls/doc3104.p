@@ -64,14 +64,6 @@ sS'species'
 p37
 g3
 ((lp38
-S"(3812, u'(?i)(studs|stud)')"
-p39
-aS"(4624, u'(?i)(apes|ape)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-atp43
-Rp44
+tp39
+Rp40
 sb.

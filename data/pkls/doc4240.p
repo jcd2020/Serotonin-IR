@@ -8,92 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(130, u'\\\\britanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(18, u'\\\\bpsychostim')"
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
-S'5ht5'
-p22
-aS'5ht3'
-p23
+((lp20
+S'5ht3'
+p21
 aS'5ht2c'
-p24
+p22
 aS'5ht2a'
-p25
-atp26
-Rp27
+p23
+atp24
+Rp25
 sS'regions'
+p26
+g3
+((lp27
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p28
-g3
-((lp29
-S"(220, u'(?i)(striatums|striatum)')"
-p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+atp29
+Rp30
 sS'year'
-p34
+p31
 V1998
-p35
+p32
 sS'agonists'
-p36
+p33
 g3
-((lp37
-S"(14, u'\\\\bamphetamine')"
-p38
-atp39
-Rp40
+((lp34
+S"(11, u'\\\\bamphetamine')"
+p35
+atp36
+Rp37
 sS'species'
-p41
+p38
 g3
-((lp42
-S"(2323, u'(?i)(bees|bee)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(4964, u'(?i)(serins|serin)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(853, u'(?i)(minas|mina)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+((lp39
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p40
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

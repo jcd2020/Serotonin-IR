@@ -40,60 +40,28 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2014
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(24, u'\\\\bbuspirone')"
-p33
-atp34
-Rp35
+((lp31
+S"(20, u'\\\\bbuspirone')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(6753, u'(?i)(da|das)')"
-p38
-aS"(949, u'(?i)(cohoes|coho)')"
-p39
-aS"(702, u'(?i)(genets|genet)')"
-p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(5967, u'(?i)(males|male)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(4247, u'(?i)(tatus|tatu)')"
-p51
-aS"(391, u'(?i)(alli|allis)')"
-p52
-aS"(2809, u'(?i)(toms|tom)')"
-p53
-atp54
-Rp55
+((lp36
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p37
+atp38
+Rp39
 sb.

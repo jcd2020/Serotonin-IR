@@ -8,110 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(53, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(123, u'\\\\bclozapine')"
+aS"(113, u'\\\\brisperidone')"
 p7
-aS"(56, u'\\\\bclozapine')"
+aS"(111, u'\\\\bolanzapine')"
 p8
-aS"(128, u'\\\\bketanserin')"
+aS"(109, u'\\\\bthioridazine')"
 p9
-aS"(57, u'\\\\bolanzapine')"
+aS"(58, u'\\\\bhaloperidol')"
 p10
-aS"(122, u'\\\\bthioridazine')"
-p11
-aS"(124, u'\\\\bolanzapine')"
-p12
-aS"(59, u'\\\\brisperidone')"
-p13
-aS"(67, u'\\\\bhaloperidol')"
-p14
-atp15
-Rp16
+atp11
+Rp12
 sS'methods'
-p17
+p13
 g3
-((lp18
+((lp14
 S'Method.ANTAGONIST'
-p19
+p15
 aS'Method.AGONIST'
-p20
-atp21
-Rp22
+p16
+atp17
+Rp18
 sS'topics'
+p19
+g3
+((lp20
+tp21
+Rp22
+sS'receptors'
 p23
 g3
 ((lp24
-tp25
-Rp26
-sS'receptors'
-p27
-g3
-((lp28
 S'5ht2a'
-p29
-atp30
-Rp31
+p25
+atp26
+Rp27
 sS'regions'
-p32
+p28
 g3
-((lp33
-S"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+((lp29
+tp30
+Rp31
 sS'year'
-p37
+p32
 V1999
-p38
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(175, u'\\\\bdoi')"
+p36
+aS"(57, u'\\\\bolanzapine')"
+p37
+aS"(210, u'\\\\bsulpiride')"
+p38
+aS"(23, u'\\\\bclozapine')"
 p39
-g3
-((lp40
-S"(64, u'\\\\bolanzapine')"
-p41
-aS"(33, u'\\\\bdoi')"
-p42
-aS"(48, u'\\\\bhaloperidol')"
-p43
-aS"(214, u'\\\\bsulpiride')"
-p44
-aS"(27, u'\\\\bclozapine')"
-p45
-atp46
-Rp47
+aS"(43, u'\\\\bhaloperidol')"
+p40
+atp41
+Rp42
 sS'species'
-p48
+p43
 g3
-((lp49
-S"(2670, u'(?i)(arabs|arab)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(163, u'(?i)(mice|mouse)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(1349, u'(?i)(rams|ram)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(4964, u'(?i)(serins|serin)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(3426, u'(?i)(hares|hare)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-aS"(5743, u'(?i)(bots|bot)')"
-p61
-aS"(7058, u'(?i)(does|doe)')"
-p62
-atp63
-Rp64
+((lp44
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p45
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p46
+atp47
+Rp48
 sb.

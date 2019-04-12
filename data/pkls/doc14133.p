@@ -8,102 +8,66 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(31, u'\\\\bway ?100635')"
 p7
-aS"(102, u'\\\\bfluoxetine')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.STAINING'
-p13
+p12
 aS'Method.IMMUNOHISTOCHEMISTRY'
-p14
+p13
 aS'Method.ANTAGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
+((lp18
 S"(35, u'\\\\bstress')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht1a'
-p25
+p24
 aS'5ht2a'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'year'
-p34
+p32
 V2018
-p35
+p33
 sS'agonists'
-p36
+p34
 g3
-((lp37
-tp38
-Rp39
+((lp35
+tp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(7609, u'(?i)(erns|ern)')"
-p45
-aS"(4657, u'(?i)(fish|fish)')"
-p46
-aS"(163, u'(?i)(mice|mouse)')"
-p47
-aS"(479, u'(?i)(lings|ling)')"
-p48
-aS"(3051, u'(?i)(pigs|pig)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(4964, u'(?i)(serins|serin)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-aS"(1014, u'(?i)(zebras|zebra)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(1683, u'(?i)(terns|tern)')"
-p58
-atp59
-Rp60
+((lp39
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+atp41
+Rp42
 sb.

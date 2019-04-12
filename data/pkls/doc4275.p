@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(50, u'\\\\btrazodone')"
+S"(48, u'\\\\btrazodone')"
 p5
 atp6
 Rp7
@@ -34,68 +34,44 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht1a'
 p21
-aS'5ht1a'
-p22
 aS'5ht2c'
-p23
+p22
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
-p29
-atp30
-Rp31
+((lp27
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2012
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(82, u'\\\\btrazodone')"
+((lp34
+S"(75, u'\\\\btrazodone')"
+p35
+aS"(175, u'\\\\bdoi')"
 p36
-aS"(33, u'\\\\bdoi')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(4624, u'(?i)(apes|ape)')"
+((lp40
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(5537, u'(?i)(hippos|hippo)')"
-p43
-aS"(5176, u'(?i)(tegs|teg)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+atp43
+Rp44
 sb.

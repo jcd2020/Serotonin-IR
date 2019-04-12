@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(135, u'\\\\bondansetron')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
 atp7
 Rp8
@@ -48,11 +48,11 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p31
 atp32
 Rp33
@@ -64,11 +64,11 @@ sS'agonists'
 p36
 g3
 ((lp37
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(11, u'\\\\bamphetamine')"
 p38
-aS"(48, u'\\\\bhaloperidol')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p39
-aS"(14, u'\\\\bamphetamine')"
+aS"(43, u'\\\\bhaloperidol')"
 p40
 atp41
 Rp42
@@ -76,28 +76,10 @@ sS'species'
 p43
 g3
 ((lp44
-S"(2568, u'(?i)(hens|hen)')"
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p45
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(2334, u'(?i)(eels|eel)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(7094, u'(?i)(curs|cur)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-atp56
-Rp57
+atp47
+Rp48
 sb.

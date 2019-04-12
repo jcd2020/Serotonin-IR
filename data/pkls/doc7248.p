@@ -32,60 +32,36 @@ g3
 ((lp18
 S'5ht7'
 p19
-aS'5ht5'
-p20
 aS'5ht1a'
-p21
+p20
 aS'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-tp27
-Rp28
+((lp25
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2007
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(236, u'\\\\bn ?1234 ?tetrahydronaphthalen ?1 ?yl ?4 ?aryl ?1 ?piperazinehexanamides')"
+((lp31
+S"(228, u'\\\\b4 ?2 ?diphenyl ?n ?1234 ?tetrahydronaphthalen ?1 ?yl ?1 ?piperazinehexanamide')"
+p32
+aS"(234, u'\\\\bn ?1234 ?tetrahydronaphthalen ?1 ?yl ?4 ?aryl ?1 ?piperazinehexanamides')"
 p33
-aS"(230, u'\\\\b4 ?2 ?diphenyl ?n ?1234 ?tetrahydronaphthalen ?1 ?yl ?1 ?piperazinehexanamide')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(867, u'(?i)(tits|tit)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(479, u'(?i)(lings|ling)')"
-p42
-aS"(4163, u'(?i)(ermines|ermine)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(3522, u'(?i)(tetras|tetra)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+((lp37
+tp38
+Rp39
 sb.

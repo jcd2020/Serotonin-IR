@@ -8,124 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(27, u'\\\\bspiperone')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht1a'
-p22
+p21
 aS'5ht3'
-p23
+p22
 aS'5ht2'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V1987
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(220, u'\\\\b5 ?methoxytryptamine')"
 p34
-g3
-((lp35
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(19, u'\\\\bbufotenin')"
+p35
+aS"(149, u'\\\\bmem')"
 p36
-aS"(23, u'\\\\bbufotenin')"
+aS"(222, u'\\\\b5 ?meot')"
 p37
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p38
-aS"(225, u'\\\\b5 ?meot')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p39
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p40
-aS"(155, u'\\\\bmem')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(401, u'(?i)(bufos|bufo)')"
+((lp43
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p45
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p46
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p47
-aS"(3404, u'(?i)(titis|titi)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(1070, u'(?i)(pets|pet)')"
-p52
-aS"(4091, u'(?i)(adults|adult)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(3062, u'(?i)(guineas|guinea)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(3522, u'(?i)(tetras|tetra)')"
-p57
-aS"(5537, u'(?i)(hippos|hippo)')"
-p58
-aS"(5958, u'(?i)(rats|rat)')"
-p59
-aS"(867, u'(?i)(tits|tit)')"
-p60
-aS"(853, u'(?i)(minas|mina)')"
-p61
-aS"(1414, u'(?i)(chars|char)')"
-p62
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p63
-aS"(2568, u'(?i)(hens|hen)')"
-p64
-aS"(4979, u'(?i)(cats|cat)')"
-p65
-aS"(3051, u'(?i)(pigs|pig)')"
-p66
-aS"(3726, u'(?i)(mates|mate)')"
-p67
-aS"(1054, u'(?i)(homoes|homo)')"
-p68
-aS"(4964, u'(?i)(serins|serin)')"
-p69
-atp70
-Rp71
+atp49
+Rp50
 sb.

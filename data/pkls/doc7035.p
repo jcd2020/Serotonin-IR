@@ -10,7 +10,7 @@ p3
 ((lp4
 S"(14, u'\\\\bmethiothepin')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(194, u'\\\\bmethysergide')"
 p6
 atp7
 Rp8
@@ -46,50 +46,28 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(389, u'(?i)(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)')"
+S"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V1999
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(60, u'\\\\bmethysergide')"
-p36
-atp37
-Rp38
+((lp34
+S"(53, u'\\\\bmethysergide')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(2323, u'(?i)(bees|bee)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(3642, u'(?i)(lambs|lamb)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(3592, u'(?i)(ravens|raven)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(7082, u'(?i)(sagittas|sagitta)')"
-p51
-atp52
-Rp53
+((lp39
+S"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

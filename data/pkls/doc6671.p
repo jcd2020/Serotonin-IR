@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(45, u'\\\\bgr ?127935')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 aS"(22, u'\\\\bpropranolol')"
 p7
@@ -28,29 +28,29 @@ sS'topics'
 p15
 g3
 ((lp16
-S"(29, u'\\\\bsex')"
+S"(37, u'\\\\baddict')"
 p17
-aS"(35, u'\\\\bstress')"
+aS"(29, u'\\\\bsex')"
 p18
-atp19
-Rp20
+aS"(35, u'\\\\bstress')"
+p19
+atp20
+Rp21
 sS'receptors'
-p21
+p22
 g3
-((lp22
+((lp23
 S'5ht1b'
-p23
-aS'5ht1a'
 p24
-atp25
-Rp26
+aS'5ht1a'
+p25
+atp26
+Rp27
 sS'regions'
-p27
+p28
 g3
-((lp28
-S"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
+((lp29
+S"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p30
 atp31
 Rp32
@@ -68,36 +68,12 @@ sS'species'
 p39
 g3
 ((lp40
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p43
-aS"(6125, u'(?i)(females|female)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(479, u'(?i)(lings|ling)')"
-p46
-aS"(5967, u'(?i)(males|male)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(663, u'(?i)(cocks|cock)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+atp44
+Rp45
 sb.

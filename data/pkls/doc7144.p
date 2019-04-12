@@ -48,9 +48,9 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p30
 atp31
 Rp32
@@ -62,15 +62,15 @@ sS'agonists'
 p35
 g3
 ((lp36
-S"(161, u'\\\\bmcpp')"
+S"(192, u'\\\\bquipazine')"
 p37
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(11, u'\\\\bamphetamine')"
 p38
-aS"(196, u'\\\\bquipazine')"
+aS"(155, u'\\\\bmcpp')"
 p39
-aS"(14, u'\\\\bamphetamine')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p40
-aS"(33, u'\\\\bdoi')"
+aS"(175, u'\\\\bdoi')"
 p41
 atp42
 Rp43
@@ -78,34 +78,12 @@ sS'species'
 p44
 g3
 ((lp45
-S"(1688, u'(?i)(ounces|ounce)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p46
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p47
-aS"(3137, u'(?i)(iguanids|iguanid)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(2054, u'(?i)(heads|head)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(4163, u'(?i)(ermines|ermine)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(3152, u'(?i)(layers|layer)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(1414, u'(?i)(chars|char)')"
-p57
-aS"(6391, u'(?i)(asses|ass)')"
-p58
-aS"(6878, u'(?i)(guans|guan)')"
-p59
-atp60
-Rp61
+atp49
+Rp50
 sb.

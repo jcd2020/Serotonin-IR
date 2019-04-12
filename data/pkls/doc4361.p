@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(203, u'\\\\btfmpp')"
 p5
 aS"(17, u'\\\\bnan ?190')"
 p6
@@ -48,7 +48,7 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(389, u'(?i)(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)')"
+S"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
 p29
 atp30
 Rp31
@@ -60,13 +60,13 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(161, u'\\\\bmcpp')"
+S"(178, u'\\\\btfmpp')"
 p36
-aS"(74, u'\\\\bru ?24969')"
+aS"(155, u'\\\\bmcpp')"
 p37
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p38
-aS"(183, u'\\\\btfmpp')"
+aS"(67, u'\\\\bru ?24969')"
 p39
 atp40
 Rp41
@@ -74,24 +74,8 @@ sS'species'
 p42
 g3
 ((lp43
-S"(2568, u'(?i)(hens|hen)')"
+S"(1312, u'(?i)\\\\b(pigeons|pigeon)\\\\b')"
 p44
-aS"(3051, u'(?i)(pigs|pig)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(1312, u'(?i)(pigeons|pigeon)')"
-p52
-atp53
-Rp54
+atp45
+Rp46
 sb.

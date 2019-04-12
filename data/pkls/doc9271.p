@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(132, u'\\\\bsb ?243213')"
+S"(84, u'\\\\bsb ?206553')"
 p5
-aS"(95, u'\\\\bsb ?206553')"
+aS"(121, u'\\\\bsb ?243213')"
 p6
 atp7
 Rp8
@@ -46,68 +46,36 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p28
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p29
-aS"(189, u'(?i)(subthalamics|subthalamic)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p30
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(189, u'(?i)\\\\b(subthalamics|subthalamic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2013
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(161, u'\\\\bmcpp')"
-p39
-atp40
-Rp41
+((lp37
+S"(155, u'\\\\bmcpp')"
+p38
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(4404, u'(?i)(duns|dun)')"
+((lp42
+S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
+p43
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(2401, u'(?i)(primates|primate)')"
-p47
-aS"(479, u'(?i)(lings|ling)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(2183, u'(?i)(gars|gar)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(3726, u'(?i)(mates|mate)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(6682, u'(?i)(tera|teras)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(7609, u'(?i)(erns|ern)')"
-p58
-aS"(391, u'(?i)(alli|allis)')"
-p59
-aS"(1683, u'(?i)(terns|tern)')"
-p60
-atp61
-Rp62
+atp45
+Rp46
 sb.

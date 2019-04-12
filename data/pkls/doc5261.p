@@ -8,96 +8,70 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(59, u'\\\\brisperidone')"
+aS"(113, u'\\\\brisperidone')"
 p6
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(52, u'\\\\bmdl ?100907')"
 p7
-aS"(45, u'\\\\bgr ?127935')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1b'
-p23
-aS'5ht5'
-p24
+p22
 aS'5ht2a'
-p25
+p23
 aS'5ht1d'
-p26
-atp27
-Rp28
+p24
+atp25
+Rp26
 sS'regions'
+p27
+g3
+((lp28
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-g3
-((lp30
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p31
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-atp33
-Rp34
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p35
+p33
 V2001
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(103, u'\\\\bcp ?135807')"
 p37
-g3
-((lp38
-S"(110, u'\\\\bcp ?135807')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(6753, u'(?i)(da|das)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(2334, u'(?i)(eels|eel)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+((lp41
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

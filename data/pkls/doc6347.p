@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bsb ?242084')"
+S"(99, u'\\\\bsb ?242084')"
 p5
 atp6
 Rp7
@@ -28,17 +28,17 @@ sS'topics'
 p15
 g3
 ((lp16
-S"(18, u'\\\\bpsychostim')"
+S"(37, u'\\\\baddict')"
 p17
-atp18
-Rp19
+aS"(18, u'\\\\bpsychostim')"
+p18
+atp19
+Rp20
 sS'receptors'
-p20
+p21
 g3
-((lp21
-S'5ht5'
-p22
-aS'5ht2c'
+((lp22
+S'5ht2c'
 p23
 aS'5ht2a'
 p24
@@ -48,60 +48,38 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p29
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p31
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'year'
-p36
+p35
 V2011
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(186, u'\\\\bway ?161503')"
+((lp38
+S"(125, u'\\\\btcb ?2')"
+p39
+aS"(182, u'\\\\bway ?161503')"
 p40
-aS"(132, u'\\\\btcb ?2')"
-p41
-atp42
-Rp43
+atp41
+Rp42
 sS'species'
-p44
+p43
 g3
-((lp45
-S"(6753, u'(?i)(da|das)')"
+((lp44
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p45
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(5176, u'(?i)(tegs|teg)')"
-p49
-aS"(5967, u'(?i)(males|male)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(2942, u'(?i)(daws|daw)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(4979, u'(?i)(cats|cat)')"
-p57
-atp58
-Rp59
+atp47
+Rp48
 sb.

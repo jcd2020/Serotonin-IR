@@ -8,110 +8,84 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(114, u'\\\\bziprasidone')"
 p6
-aS"(56, u'\\\\bclozapine')"
+aS"(177, u'\\\\bsb ?399885')"
 p7
-aS"(57, u'\\\\bolanzapine')"
+aS"(113, u'\\\\brisperidone')"
 p8
-aS"(41, u'\\\\bziprasidone')"
+aS"(111, u'\\\\bolanzapine')"
 p9
-aS"(185, u'\\\\bsb ?399885')"
+aS"(58, u'\\\\bhaloperidol')"
 p10
-aS"(124, u'\\\\bolanzapine')"
-p11
-aS"(59, u'\\\\brisperidone')"
-p12
-aS"(67, u'\\\\bhaloperidol')"
-p13
-atp14
-Rp15
+atp11
+Rp12
 sS'methods'
-p16
+p13
 g3
-((lp17
+((lp14
 S'Method.ANTAGONIST'
-p18
-atp19
-Rp20
+p15
+atp16
+Rp17
 sS'topics'
-p21
+p18
 g3
-((lp22
+((lp19
 S"(15, u'\\\\bschizophreni')"
-p23
+p20
 aS"(6, u'\\\\bcognit')"
-p24
-atp25
-Rp26
+p21
+atp22
+Rp23
 sS'receptors'
-p27
+p24
 g3
-((lp28
+((lp25
 S'5ht6'
-p29
+p26
 aS'5ht6a'
-p30
-atp31
-Rp32
+p27
+atp28
+Rp29
 sS'regions'
+p30
+g3
+((lp31
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p32
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p33
-g3
-((lp34
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
-p35
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p36
-aS"(34, u'(?i)(pon|pons)')"
-p37
-atp38
-Rp39
+atp34
+Rp35
 sS'year'
-p40
+p36
 V2007
-p41
+p37
 sS'agonists'
+p38
+g3
+((lp39
+S"(57, u'\\\\bolanzapine')"
+p40
+aS"(23, u'\\\\bclozapine')"
+p41
+aS"(84, u'\\\\bziprasidone')"
 p42
-g3
-((lp43
-S"(91, u'\\\\bziprasidone')"
-p44
-aS"(64, u'\\\\bolanzapine')"
-p45
-aS"(48, u'\\\\bhaloperidol')"
-p46
-aS"(27, u'\\\\bclozapine')"
-p47
-atp48
-Rp49
+aS"(43, u'\\\\bhaloperidol')"
+p43
+atp44
+Rp45
 sS'species'
-p50
+p46
 g3
-((lp51
-S"(2323, u'(?i)(bees|bee)')"
-p52
-aS"(4624, u'(?i)(apes|ape)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(6753, u'(?i)(da|das)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(2334, u'(?i)(eels|eel)')"
-p57
-aS"(5743, u'(?i)(bots|bot)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-aS"(5537, u'(?i)(hippos|hippo)')"
-p61
-aS"(6356, u'(?i)(ais|ai)')"
-p62
-atp63
-Rp64
+((lp47
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p48
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

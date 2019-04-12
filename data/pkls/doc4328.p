@@ -42,60 +42,32 @@ sS'receptors'
 p23
 g3
 ((lp24
-S'5ht5'
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp28
+tp29
+Rp30
 sS'year'
-p33
+p31
 V2003
-p34
+p32
 sS'agonists'
-p35
+p33
 g3
-((lp36
-tp37
-Rp38
+((lp34
+tp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(2323, u'(?i)(bees|bee)')"
-p41
-aS"(5176, u'(?i)(tegs|teg)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(702, u'(?i)(genets|genet)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(4091, u'(?i)(adults|adult)')"
-p46
-aS"(2183, u'(?i)(gars|gar)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+((lp38
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p39
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+atp41
+Rp42
 sb.

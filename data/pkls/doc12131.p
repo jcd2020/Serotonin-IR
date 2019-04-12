@@ -8,102 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(52, u'\\\\bmetergoline')"
+S"(34, u'\\\\bmetergoline')"
 p5
-aS"(35, u'\\\\bmetergoline')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(16, u'\\\\bfeed')"
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht1a'
-p22
+p21
 aS'5ht2'
-p23
+p22
 aS'5ht1'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p29
-aS"(171, u'(?i)(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)')"
-p30
-atp31
-Rp32
+((lp27
+S"(171, u'(?i)\\\\b(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p33
+p31
 V2008
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p35
-g3
-((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p37
-atp38
-Rp39
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6125, u'(?i)(females|female)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(5967, u'(?i)(males|male)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(5131, u'(?i)(hags|hag)')"
-p51
-aS"(107, u'(?i)(stags|stag)')"
-p52
-aS"(853, u'(?i)(minas|mina)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(3522, u'(?i)(tetras|tetra)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+((lp39
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+p41
+atp42
+Rp43
 sb.

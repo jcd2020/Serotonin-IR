@@ -38,98 +38,60 @@ sS'receptors'
 p21
 g3
 ((lp22
-S'5ht5'
+S'5ht1f'
 p23
-aS'5ht1f'
-p24
 aS'5ht1e'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+((lp28
+S"(277, u'(?i)\\\\b(temporals|temporal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
+p29
+aS"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
 p30
-aS"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p31
-aS"(277, u'(?i)(temporals|temporal)(-|\\\\s+)?(lobes|lobe)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2012
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(155, u'\\\\bmem')"
+((lp37
+S"(117, u'\\\\bbrl ?54443')"
+p38
+aS"(149, u'\\\\bmem')"
 p39
-aS"(124, u'\\\\bbrl ?54443')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(1961, u'(?i)(pens|pen)')"
+((lp43
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p44
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p45
-aS"(3062, u'(?i)(guineas|guinea)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p46
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p47
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p48
-aS"(5229, u'(?i)(moles|mole)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p49
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p50
-aS"(3196, u'(?i)(human|humans)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p51
-aS"(7539, u'(?i)(mammals|mammal)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p52
-aS"(3404, u'(?i)(titis|titi)')"
-p53
-aS"(3152, u'(?i)(layers|layer)')"
-p54
-aS"(5537, u'(?i)(hippos|hippo)')"
-p55
-aS"(5958, u'(?i)(rats|rat)')"
-p56
-aS"(7609, u'(?i)(erns|ern)')"
-p57
-aS"(867, u'(?i)(tits|tit)')"
-p58
-aS"(163, u'(?i)(mice|mouse)')"
-p59
-aS"(1055, u'(?i)(men|man)')"
-p60
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p61
-aS"(4979, u'(?i)(cats|cat)')"
-p62
-aS"(1057, u'(?i)(humans|human)')"
-p63
-aS"(4371, u'(?i)(lizas|liza)')"
-p64
-aS"(1414, u'(?i)(chars|char)')"
-p65
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p66
-aS"(2323, u'(?i)(bees|bee)')"
-p67
-aS"(853, u'(?i)(minas|mina)')"
-p68
-aS"(3051, u'(?i)(pigs|pig)')"
-p69
-aS"(5917, u'(?i)(roaches|roach)')"
-p70
-aS"(1683, u'(?i)(terns|tern)')"
-p71
-atp72
-Rp73
+atp53
+Rp54
 sb.

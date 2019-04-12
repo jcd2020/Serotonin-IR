@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -24,76 +24,54 @@ sS'topics'
 p13
 g3
 ((lp14
-S"(18, u'\\\\bpsychostim')"
+S"(37, u'\\\\baddict')"
 p15
-aS"(6, u'\\\\bcognit')"
+aS"(18, u'\\\\bpsychostim')"
 p16
-aS"(4, u'\\\\blocomot')"
+aS"(6, u'\\\\bcognit')"
 p17
-atp18
-Rp19
+aS"(4, u'\\\\blocomot')"
+p18
+atp19
+Rp20
 sS'receptors'
-p20
+p21
 g3
-((lp21
+((lp22
 S'5ht1b'
-p22
-atp23
-Rp24
+p23
+atp24
+Rp25
 sS'regions'
-p25
+p26
 g3
-((lp26
-S"(220, u'(?i)(striatums|striatum)')"
-p27
-atp28
-Rp29
+((lp27
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p30
-V2017
 p31
-sS'agonists'
+V2017
 p32
+sS'agonists'
+p33
 g3
-((lp33
-S"(59, u'\\\\bmethylphenidate')"
-p34
-aS"(108, u'\\\\bcp ?94253')"
+((lp34
+S"(101, u'\\\\bcp ?94253')"
 p35
-atp36
-Rp37
+aS"(52, u'\\\\bmethylphenidate')"
+p36
+atp37
+Rp38
 sS'species'
-p38
+p39
 g3
-((lp39
-S"(6753, u'(?i)(da|das)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
+((lp40
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p41
-aS"(3013, u'(?i)(homers|homer)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(5967, u'(?i)(males|male)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(5229, u'(?i)(moles|mole)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-atp54
-Rp55
+atp43
+Rp44
 sb.

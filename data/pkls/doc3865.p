@@ -60,38 +60,14 @@ sS'species'
 p35
 g3
 ((lp36
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
 p37
-aS"(2670, u'(?i)(arabs|arab)')"
+aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p38
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(4371, u'(?i)(lizas|liza)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(4597, u'(?i)(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)')"
-p44
-aS"(7094, u'(?i)(curs|cur)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(3426, u'(?i)(hares|hare)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(1628, u'(?i)(cod|cod)')"
-p50
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p51
-aS"(4596, u'(?i)(rhesuses|rhesus)')"
-p52
-atp53
-Rp54
+atp41
+Rp42
 sb.

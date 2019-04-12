@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
+S"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p23
 atp24
 Rp25
@@ -54,24 +54,10 @@ sS'species'
 p32
 g3
 ((lp33
-S"(3550, u'(?i)(anis|ani)')"
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
 p34
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p35
-aS"(163, u'(?i)(mice|mouse)')"
-p36
-aS"(1055, u'(?i)(men|man)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(2395, u'(?i)(mutants|mutant)')"
-p40
-aS"(1961, u'(?i)(pens|pen)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-atp43
-Rp44
+atp36
+Rp37
 sb.

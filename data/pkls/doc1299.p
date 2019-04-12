@@ -8,130 +8,86 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(14, u'\\\\bmethiothepin')"
 p5
-aS"(38, u'\\\\bsb ?216641')"
-p6
-aS"(14, u'\\\\bmethiothepin')"
-p7
 aS"(21, u'\\\\bpindolol')"
+p6
+aS"(37, u'\\\\bsb ?216641')"
+p7
+aS"(113, u'\\\\brisperidone')"
 p8
-aS"(204, u'\\\\bsb ?269970')"
+aS"(198, u'\\\\bsb ?269970')"
 p9
-aS"(31, u'\\\\bway ?100135')"
+aS"(30, u'\\\\bway ?100135')"
 p10
-aS"(59, u'\\\\brisperidone')"
-p11
-atp12
-Rp13
+atp11
+Rp12
 sS'methods'
-p14
+p13
 g3
-((lp15
+((lp14
 S'Method.KNOCKOUT'
-p16
+p15
 aS'Method.ANTAGONIST'
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'topics'
-p20
+p19
 g3
-((lp21
-tp22
-Rp23
+((lp20
+tp21
+Rp22
 sS'receptors'
-p24
+p23
 g3
-((lp25
+((lp24
 S'5ht7'
-p26
+p25
 aS'5ht1b'
-p27
+p26
 aS'5ht1a'
-p28
+p27
 aS'5ht7b'
-p29
+p28
 aS'5ht1d'
-p30
-atp31
-Rp32
+p29
+atp30
+Rp31
 sS'regions'
-p33
+p32
 g3
-((lp34
-S"(126, u'(?i)(thalamuses|thalamus)')"
+((lp33
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p34
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p35
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p36
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'year'
-p40
+p39
 V2002
-p41
+p40
 sS'agonists'
-p42
+p41
 g3
-((lp43
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp42
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p43
+aS"(219, u'\\\\b5 ?ct')"
 p44
-aS"(5, u'\\\\b5 ?ct')"
-p45
-atp46
-Rp47
+atp45
+Rp46
 sS'species'
-p48
+p47
 g3
-((lp49
-S"(3812, u'(?i)(studs|stud)')"
+((lp48
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p49
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(2665, u'(?i)(rays|ray)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(1349, u'(?i)(rams|ram)')"
-p55
-aS"(3522, u'(?i)(tetras|tetra)')"
-p56
-aS"(391, u'(?i)(alli|allis)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-aS"(5537, u'(?i)(hippos|hippo)')"
-p59
-aS"(5958, u'(?i)(rats|rat)')"
-p60
-aS"(7609, u'(?i)(erns|ern)')"
-p61
-aS"(163, u'(?i)(mice|mouse)')"
-p62
-aS"(1055, u'(?i)(men|man)')"
-p63
-aS"(6215, u'(?i)(racers|racer)')"
-p64
-aS"(6753, u'(?i)(da|das)')"
-p65
-aS"(4371, u'(?i)(lizas|liza)')"
-p66
-aS"(1414, u'(?i)(chars|char)')"
-p67
-aS"(2323, u'(?i)(bees|bee)')"
-p68
-aS"(2568, u'(?i)(hens|hen)')"
-p69
-aS"(4177, u'(?i)(grays|gray)')"
-p70
-aS"(1054, u'(?i)(homoes|homo)')"
-p71
-aS"(1683, u'(?i)(terns|tern)')"
-p72
-atp73
-Rp74
+atp51
+Rp52
 sb.

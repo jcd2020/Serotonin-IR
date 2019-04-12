@@ -44,60 +44,36 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(209, u'(?i)(amygdalas|amygdala)')"
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p27
-aS"(217, u'(?i)(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p29
-aS"(216, u'(?i)(strias|stria)(-|\\\\s+)?(terminali|terminalis)')"
+aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
 p30
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
 p32
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'year'
-p36
+p35
 V2016
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-tp40
-Rp41
+((lp38
+tp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
-p44
-aS"(5176, u'(?i)(tegs|teg)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(7609, u'(?i)(erns|ern)')"
-p47
-aS"(163, u'(?i)(mice|mouse)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(853, u'(?i)(minas|mina)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-atp56
-Rp57
+((lp42
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p43
+atp44
+Rp45
 sb.

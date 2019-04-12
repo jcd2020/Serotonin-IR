@@ -8,96 +8,66 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
-aS"(56, u'\\\\bclozapine')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
-tp17
-Rp18
+((lp15
+tp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
+((lp19
 S'5ht6'
-p21
-aS'5ht5'
-p22
+p20
 aS'5ht4'
-p23
+p21
 aS'5ht4a'
-p24
+p22
 aS'5ht6a'
-p25
-atp26
-Rp27
+p23
+atp24
+Rp25
 sS'regions'
-p28
+p26
 g3
-((lp29
-tp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V1999
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(23, u'\\\\bclozapine')"
 p34
-g3
-((lp35
-S"(48, u'\\\\bhaloperidol')"
-p36
-aS"(27, u'\\\\bclozapine')"
-p37
-atp38
-Rp39
+aS"(43, u'\\\\bhaloperidol')"
+p35
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(6753, u'(?i)(da|das)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(2942, u'(?i)(daws|daw)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(5229, u'(?i)(moles|mole)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(5949, u'(?i)(dogs|dog)')"
-p55
-atp56
-Rp57
+((lp39
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

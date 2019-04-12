@@ -46,60 +46,28 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(246, u'(?i)(uncuses|uncus)')"
-p28
-atp29
-Rp30
+tp28
+Rp29
 sS'year'
-p31
+p30
 V2018
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+tp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(1070, u'(?i)(pets|pet)')"
+((lp37
+S"(1874, u'(?i)\\\\b(rudds|rudd)\\\\b')"
+p38
+aS"(5085, u'(?i)\\\\b(coppers|copper)\\\\b')"
 p39
-aS"(1350, u'(?i)(tups|tup)')"
+aS"(1280, u'(?i)\\\\b(shrews|shrew)\\\\b')"
 p40
-aS"(1874, u'(?i)(rudds|rudd)')"
-p41
-aS"(1280, u'(?i)(shrews|shrew)')"
-p42
-aS"(867, u'(?i)(tits|tit)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(2568, u'(?i)(hens|hen)')"
-p50
-aS"(6981, u'(?i)(moths|moth)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(5085, u'(?i)(coppers|copper)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+atp41
+Rp42
 sb.

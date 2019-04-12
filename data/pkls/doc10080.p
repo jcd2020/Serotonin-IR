@@ -48,9 +48,9 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(103, u'\\\\bsumatriptan')"
+S"(96, u'\\\\bsumatriptan')"
 p30
-aS"(5, u'\\\\b5 ?ct')"
+aS"(219, u'\\\\b5 ?ct')"
 p31
 atp32
 Rp33
@@ -58,36 +58,16 @@ sS'species'
 p34
 g3
 ((lp35
-S"(1070, u'(?i)(pets|pet)')"
+S"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
 p36
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p37
-aS"(867, u'(?i)(tits|tit)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p39
-aS"(2327, u'(?i)(bovines|bovine)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p40
-aS"(6682, u'(?i)(tera|teras)')"
-p41
-aS"(3051, u'(?i)(pigs|pig)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(3062, u'(?i)(guineas|guinea)')"
-p44
-aS"(3726, u'(?i)(mates|mate)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(3426, u'(?i)(hares|hare)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p49
-aS"(6325, u'(?i)(caudates|caudate)')"
-p50
-atp51
-Rp52
+atp41
+Rp42
 sb.

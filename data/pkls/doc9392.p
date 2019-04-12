@@ -42,58 +42,36 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2003
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(56, u'\\\\blsd')"
+((lp33
+S"(158, u'\\\\blsd')"
+p34
+aS"(49, u'\\\\blysergic acid diethylamide')"
 p35
-aS"(55, u'\\\\blysergic acid diethylamide')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(5958, u'(?i)(rats|rat)')"
+((lp39
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p40
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(81, u'(?i)(asps|asp)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(7094, u'(?i)(curs|cur)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1057, u'(?i)(humans|human)')"
-p47
-aS"(5229, u'(?i)(moles|mole)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(2809, u'(?i)(toms|tom)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+atp43
+Rp44
 sb.

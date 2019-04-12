@@ -8,110 +8,70 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(6, u'\\\\bcyproheptadine')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(53, u'\\\\bcyproheptadine')"
 p6
-aS"(6, u'\\\\bcyproheptadine')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(62, u'\\\\bcyproheptadine')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1b'
-p23
-aS'5ht5'
-p24
+p22
 aS'5ht1a'
-p25
+p23
 aS'5ht2'
-p26
-atp27
-Rp28
+p24
+atp25
+Rp26
 sS'regions'
-p29
+p27
 g3
-((lp30
-S"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+((lp28
+tp29
+Rp30
 sS'year'
-p34
+p31
 V1989
-p35
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(155, u'\\\\bmcpp')"
+p35
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-g3
-((lp37
-S"(161, u'\\\\bmcpp')"
-p38
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p39
-atp40
-Rp41
+atp37
+Rp38
 sS'species'
-p42
+p39
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(479, u'(?i)(lings|ling)')"
-p50
-aS"(4091, u'(?i)(adults|adult)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(1349, u'(?i)(rams|ram)')"
-p55
-aS"(4964, u'(?i)(serins|serin)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(3522, u'(?i)(tetras|tetra)')"
-p58
-aS"(1961, u'(?i)(pens|pen)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-aS"(5743, u'(?i)(bots|bot)')"
-p61
-aS"(5674, u'(?i)(ewes|ewe)')"
-p62
-atp63
-Rp64
+((lp40
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

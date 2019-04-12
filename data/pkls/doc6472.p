@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,9 +54,9 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(155, u'\\\\bmem')"
+S"(205, u'\\\\brs ?67333')"
 p33
-aS"(209, u'\\\\brs ?67333')"
+aS"(149, u'\\\\bmem')"
 p34
 atp35
 Rp36
@@ -64,24 +64,12 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5958, u'(?i)(rats|rat)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p40
-aS"(4091, u'(?i)(adults|adult)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(5967, u'(?i)(males|male)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-atp48
-Rp49
+atp42
+Rp43
 sb.

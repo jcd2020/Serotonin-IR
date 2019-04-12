@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(63, u'\\\\bpizotifen')"
+S"(54, u'\\\\bpizotifen')"
 p5
-aS"(81, u'\\\\bagomelatine')"
+aS"(84, u'\\\\bsb ?206553')"
 p6
-aS"(95, u'\\\\bsb ?206553')"
+aS"(72, u'\\\\bagomelatine')"
 p7
 atp8
 Rp9
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(161, u'\\\\bmcpp')"
+S"(155, u'\\\\bmcpp')"
 p33
 atp34
 Rp35
@@ -62,30 +62,10 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2323, u'(?i)(bees|bee)')"
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p38
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(3051, u'(?i)(pigs|pig)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(5131, u'(?i)(hags|hag)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-atp50
-Rp51
+atp40
+Rp41
 sb.

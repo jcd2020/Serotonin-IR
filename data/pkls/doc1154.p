@@ -10,7 +10,7 @@ p3
 ((lp4
 S"(14, u'\\\\bmethiothepin')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(194, u'\\\\bmethysergide')"
 p6
 atp7
 Rp8
@@ -48,54 +48,34 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V1989
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
+((lp35
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p36
+aS"(53, u'\\\\bmethysergide')"
 p37
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p38
-aS"(60, u'\\\\bmethysergide')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2568, u'(?i)(hens|hen)')"
+((lp42
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p43
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(867, u'(?i)(tits|tit)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(821, u'(?i)(lice|louse)')"
-p53
-aS"(5949, u'(?i)(dogs|dog)')"
-p54
-atp55
-Rp56
+atp45
+Rp46
 sb.

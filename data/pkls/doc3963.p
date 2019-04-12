@@ -56,34 +56,16 @@ sS'species'
 p33
 g3
 ((lp34
-S"(4096, u'(?i)(chows|chow)')"
+S"(4096, u'(?i)\\\\b(chows|chow)\\\\b')"
 p35
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
 p36
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p37
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(3726, u'(?i)(mates|mate)')"
-p41
-aS"(1054, u'(?i)(homoes|homo)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(2395, u'(?i)(mutants|mutant)')"
-p44
-aS"(1057, u'(?i)(humans|human)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(3196, u'(?i)(human|humans)')"
-p48
-atp49
-Rp50
+atp40
+Rp41
 sb.

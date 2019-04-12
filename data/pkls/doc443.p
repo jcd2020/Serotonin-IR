@@ -8,110 +8,80 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(131, u'\\\\bm1')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(142, u'\\\\bm1')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.STIMULATION'
-p12
+p11
 aS'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(6, u'\\\\bcognit')"
-p19
+p18
 aS"(9, u'\\\\bdepress')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht1b'
-p25
-aS'5ht5'
-p26
-aS'5ht3'
-p27
-aS'5ht2c'
-p28
-aS'5ht1d'
-p29
-aS'5ht2a'
-p30
+p24
 aS'5ht1a'
-p31
-atp32
-Rp33
+p25
+aS'5ht3'
+p26
+aS'5ht2c'
+p27
+aS'5ht1d'
+p28
+aS'5ht2a'
+p29
+atp30
+Rp31
 sS'regions'
+p32
+g3
+((lp33
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p34
-g3
-((lp35
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
-p36
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p37
-aS"(34, u'(?i)(pon|pons)')"
-p38
-atp39
-Rp40
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p35
+atp36
+Rp37
 sS'year'
-p41
+p38
 V1999
-p42
+p39
 sS'agonists'
-p43
+p40
 g3
-((lp44
-S"(56, u'\\\\blsd')"
-p45
-atp46
-Rp47
+((lp41
+S"(158, u'\\\\blsd')"
+p42
+atp43
+Rp44
 sS'species'
-p48
+p45
 g3
-((lp49
-S"(6753, u'(?i)(da|das)')"
-p50
-aS"(2568, u'(?i)(hens|hen)')"
-p51
-aS"(5743, u'(?i)(bots|bot)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-aS"(81, u'(?i)(asps|asp)')"
-p54
-aS"(468, u'(?i)(oxen|ox)')"
-p55
-aS"(1349, u'(?i)(rams|ram)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(4964, u'(?i)(serins|serin)')"
-p58
-aS"(5958, u'(?i)(rats|rat)')"
-p59
-aS"(7094, u'(?i)(curs|cur)')"
-p60
-aS"(1961, u'(?i)(pens|pen)')"
-p61
-aS"(821, u'(?i)(lice|louse)')"
-p62
-atp63
-Rp64
+((lp46
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

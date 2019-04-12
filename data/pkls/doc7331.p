@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(94, u'\\\\bsb ?204741')"
+S"(99, u'\\\\bsb ?242084')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
-aS"(142, u'\\\\bm1')"
+aS"(131, u'\\\\bm1')"
 p7
-aS"(110, u'\\\\bsb ?242084')"
+aS"(83, u'\\\\bsb ?204741')"
 p8
 atp9
 Rp10
@@ -66,30 +66,8 @@ sS'species'
 p38
 g3
 ((lp39
-S"(4163, u'(?i)(ermines|ermine)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(7609, u'(?i)(erns|ern)')"
-p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(1683, u'(?i)(terns|tern)')"
-p51
-atp52
-Rp53
+atp41
+Rp42
 sb.

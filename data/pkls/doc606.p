@@ -42,64 +42,36 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(214, u'(?i)(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+S"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
 p26
-aS"(215, u'(?i)(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p27
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp28
+Rp29
 sS'year'
-p32
+p30
 V2014
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(149, u'\\\\bmem')"
 p34
-g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p36
-aS"(155, u'\\\\bmem')"
-p37
-atp38
-Rp39
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p35
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(2323, u'(?i)(bees|bee)')"
+((lp39
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p40
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p41
+aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(479, u'(?i)(lings|ling)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(5217, u'(?i)(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p51
-aS"(7058, u'(?i)(does|doe)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+atp43
+Rp44
 sb.

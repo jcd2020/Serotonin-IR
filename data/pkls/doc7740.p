@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(100, u'\\\\bsdz ser ?082')"
 p5
-aS"(89, u'\\\\bsdz ser ?082')"
+aS"(124, u'\\\\bondansetron')"
 p6
 atp7
 Rp8
@@ -48,7 +48,7 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(209, u'(?i)(amygdalas|amygdala)')"
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p29
 atp30
 Rp31
@@ -60,7 +60,7 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(161, u'\\\\bmcpp')"
+S"(155, u'\\\\bmcpp')"
 p36
 atp37
 Rp38
@@ -68,28 +68,8 @@ sS'species'
 p39
 g3
 ((lp40
-S"(1070, u'(?i)(pets|pet)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(867, u'(?i)(tits|tit)')"
-p44
-aS"(5176, u'(?i)(tegs|teg)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+atp42
+Rp43
 sb.

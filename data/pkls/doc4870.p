@@ -40,60 +40,30 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(126, u'(?i)(thalamuses|thalamus)')"
+S"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
 p25
-aS"(389, u'(?i)(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)')"
-p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp26
+Rp27
 sS'year'
-p30
+p28
 V2009
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p32
-g3
-((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(1070, u'(?i)(pets|pet)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(867, u'(?i)(tits|tit)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(4163, u'(?i)(ermines|ermine)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(2334, u'(?i)(eels|eel)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(7127, u'(?i)(monitors|monitor)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-atp54
-Rp55
+((lp36
+S"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

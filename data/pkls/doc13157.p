@@ -34,98 +34,58 @@ g3
 ((lp19
 S'5ht4a'
 p20
-aS'5ht5'
+aS'5ht4b'
 p21
 aS'5ht4'
 p22
-aS'5ht4b'
-p23
 aS'5ht4e'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+((lp27
+S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
+p28
+aS"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p29
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p30
-aS"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p31
-aS"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+aS"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
 p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-aS"(220, u'(?i)(striatums|striatum)')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'year'
-p37
+p35
 V2005
-p38
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(149, u'\\\\bmem')"
 p39
-g3
-((lp40
-S"(155, u'\\\\bmem')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(4404, u'(?i)(duns|dun)')"
+((lp43
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p44
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+p45
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p46
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p47
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p48
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p49
-aS"(2665, u'(?i)(rays|ray)')"
-p50
-aS"(7539, u'(?i)(mammals|mammal)')"
-p51
-aS"(81, u'(?i)(asps|asp)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(3062, u'(?i)(guineas|guinea)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(1553, u'(?i)(mews|mew)')"
-p56
-aS"(391, u'(?i)(alli|allis)')"
-p57
-aS"(1628, u'(?i)(cod|cod)')"
-p58
-aS"(821, u'(?i)(lice|louse)')"
-p59
-aS"(5537, u'(?i)(hippos|hippo)')"
-p60
-aS"(6753, u'(?i)(da|das)')"
-p61
-aS"(6249, u'(?i)(ants|ant)')"
-p62
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p63
-aS"(4979, u'(?i)(cats|cat)')"
-p64
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p65
-aS"(2323, u'(?i)(bees|bee)')"
-p66
-aS"(853, u'(?i)(minas|mina)')"
-p67
-aS"(3051, u'(?i)(pigs|pig)')"
-p68
-aS"(4177, u'(?i)(grays|gray)')"
-p69
-atp70
-Rp71
+atp50
+Rp51
 sb.

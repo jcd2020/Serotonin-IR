@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -48,50 +48,30 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+tp29
+Rp30
 sS'year'
-p32
+p31
 V2009
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(25, u'\\\\bcannabidiol')"
-p36
-atp37
-Rp38
+((lp34
+S"(21, u'\\\\bcannabidiol')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(5799, u'(?i)(rodents|rodent)')"
+((lp39
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p40
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(5967, u'(?i)(males|male)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(5917, u'(?i)(roaches|roach)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(2809, u'(?i)(toms|tom)')"
-p52
-atp53
-Rp54
+atp43
+Rp44
 sb.

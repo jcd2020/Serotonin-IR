@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -34,64 +34,38 @@ g3
 ((lp19
 S'5ht1a'
 p20
-aS'5ht5'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(71, u'(?i)(cerebellums|cerebellum)')"
-p26
-atp27
-Rp28
+((lp24
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2006
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(169, u'\\\\bfenfluramine')"
-p33
-atp34
-Rp35
+((lp31
+S"(163, u'\\\\bfenfluramine')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp36
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p37
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6215, u'(?i)(racers|racer)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(5949, u'(?i)(dogs|dog)')"
-p52
-atp53
-Rp54
+atp40
+Rp41
 sb.

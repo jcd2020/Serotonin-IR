@@ -52,50 +52,20 @@ sS'species'
 p31
 g3
 ((lp32
-S"(6356, u'(?i)(ais|ai)')"
+S"(3072, u'(?i)\\\\b(piglets|piglet)\\\\b')"
 p33
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p34
-aS"(5229, u'(?i)(moles|mole)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p35
-aS"(3196, u'(?i)(human|humans)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p36
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p37
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p38
-aS"(1070, u'(?i)(pets|pet)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(479, u'(?i)(lings|ling)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(2809, u'(?i)(toms|tom)')"
-p42
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(4201, u'(?i)(kines|kine)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6215, u'(?i)(racers|racer)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(1057, u'(?i)(humans|human)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(2568, u'(?i)(hens|hen)')"
-p51
-aS"(3072, u'(?i)(piglets|piglet)')"
-p52
-aS"(3051, u'(?i)(pigs|pig)')"
-p53
-aS"(3726, u'(?i)(mates|mate)')"
-p54
-atp55
-Rp56
+atp40
+Rp41
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(135, u'\\\\bondansetron')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
 atp7
 Rp8
@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(48, u'\\\\bhaloperidol')"
+S"(43, u'\\\\bhaloperidol')"
 p34
 atp35
 Rp36
@@ -64,26 +64,6 @@ sS'species'
 p37
 g3
 ((lp38
-S"(4624, u'(?i)(apes|ape)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(4163, u'(?i)(ermines|ermine)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(1349, u'(?i)(rams|ram)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(2809, u'(?i)(toms|tom)')"
-p47
-aS"(5674, u'(?i)(ewes|ewe)')"
-p48
-atp49
-Rp50
+tp39
+Rp40
 sb.

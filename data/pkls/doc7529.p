@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(209, u'(?i)(amygdalas|amygdala)')"
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,30 +60,8 @@ sS'species'
 p35
 g3
 ((lp36
-S"(5958, u'(?i)(rats|rat)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(5229, u'(?i)(moles|mole)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(7609, u'(?i)(erns|ern)')"
-p46
-aS"(2809, u'(?i)(toms|tom)')"
-p47
-aS"(1683, u'(?i)(terns|tern)')"
-p48
-atp49
-Rp50
+atp38
+Rp39
 sb.

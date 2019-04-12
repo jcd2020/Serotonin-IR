@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(136, u'\\\\btropisetron')"
+S"(125, u'\\\\btropisetron')"
 p5
 atp6
 Rp7
@@ -36,64 +36,40 @@ g3
 ((lp20
 S'5ht3a'
 p21
-aS'5ht5'
-p22
 aS'5ht3'
-p23
+p22
 aS'5ht3b'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+((lp27
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+p28
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V2002
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(155, u'\\\\bmem')"
-p37
-atp38
-Rp39
+((lp35
+S"(149, u'\\\\bmem')"
+p36
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(7610, u'(?i)(ernes|erne)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(1725, u'(?i)(clams|clam)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(821, u'(?i)(lice|louse)')"
-p50
-aS"(1414, u'(?i)(chars|char)')"
-p51
-aS"(7609, u'(?i)(erns|ern)')"
-p52
-aS"(1683, u'(?i)(terns|tern)')"
-p53
-atp54
-Rp55
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

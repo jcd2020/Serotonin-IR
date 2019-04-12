@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bsb ?242084')"
+S"(84, u'\\\\bsb ?206553')"
 p5
-aS"(95, u'\\\\bsb ?206553')"
+aS"(99, u'\\\\bsb ?242084')"
 p6
 atp7
 Rp8
@@ -28,31 +28,31 @@ sS'topics'
 p15
 g3
 ((lp16
-S"(15, u'\\\\bschizophreni')"
+S"(37, u'\\\\baddict')"
 p17
-aS"(30, u'\\\\bparkinsons')"
+aS"(15, u'\\\\bschizophreni')"
 p18
-atp19
-Rp20
+aS"(30, u'\\\\bparkinsons')"
+p19
+atp20
+Rp21
 sS'receptors'
-p21
+p22
 g3
-((lp22
+((lp23
 S'5ht1a'
-p23
-aS'5ht2c'
 p24
-atp25
-Rp26
+aS'5ht2c'
+p25
+atp26
+Rp27
 sS'regions'
-p27
+p28
 g3
-((lp28
-S"(220, u'(?i)(striatums|striatum)')"
-p29
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+((lp29
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p30
-aS"(34, u'(?i)(pon|pons)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p31
 atp32
 Rp33
@@ -64,7 +64,7 @@ sS'agonists'
 p36
 g3
 ((lp37
-S"(147, u'\\\\bro60 ?0175')"
+S"(141, u'\\\\bro60 ?0175')"
 p38
 atp39
 Rp40
@@ -72,34 +72,12 @@ sS'species'
 p41
 g3
 ((lp42
-S"(4163, u'(?i)(ermines|ermine)')"
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p44
-aS"(867, u'(?i)(tits|tit)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6215, u'(?i)(racers|racer)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(3522, u'(?i)(tetras|tetra)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-atp57
-Rp58
+atp46
+Rp47
 sb.

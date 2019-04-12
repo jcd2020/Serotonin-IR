@@ -56,42 +56,16 @@ sS'species'
 p33
 g3
 ((lp34
-S"(1070, u'(?i)(pets|pet)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p35
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(867, u'(?i)(tits|tit)')"
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p38
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(7539, u'(?i)(mammals|mammal)')"
-p40
-aS"(6682, u'(?i)(tera|teras)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(3404, u'(?i)(titis|titi)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p48
-aS"(4371, u'(?i)(lizas|liza)')"
-p49
-aS"(3722, u'(?i)(pups|pup)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+atp40
+Rp41
 sb.

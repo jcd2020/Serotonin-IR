@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(364, u'(?i)(middles|middle)(-|\\\\s+)?(cerebrals|cerebral)(-|\\\\s+)?(arteries|artery)')"
+S"(364, u'(?i)\\\\b(middles|middle)(-|\\\\s+)?(cerebrals|cerebral)(-|\\\\s+)?(arteries|artery)\\\\b')"
 p23
 atp24
 Rp25
@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(86, u'\\\\burapidil')"
+S"(79, u'\\\\burapidil')"
 p30
 atp31
 Rp32
@@ -56,40 +56,12 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2323, u'(?i)(bees|bee)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p35
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(6580, u'(?i)(dams|dam)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(3522, u'(?i)(tetras|tetra)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-atp52
-Rp53
+atp38
+Rp39
 sb.

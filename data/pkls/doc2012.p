@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(107, u'\\\\bcp ?93129')"
+S"(100, u'\\\\bcp ?93129')"
 p31
 atp32
 Rp33
@@ -58,34 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5799, u'(?i)(rodents|rodent)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p37
-aS"(4201, u'(?i)(kines|kine)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(5967, u'(?i)(males|male)')"
-p40
-aS"(6682, u'(?i)(tera|teras)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(2942, u'(?i)(daws|daw)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(3522, u'(?i)(tetras|tetra)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(391, u'(?i)(alli|allis)')"
-p48
-aS"(821, u'(?i)(lice|louse)')"
-p49
-atp50
-Rp51
+atp39
+Rp40
 sb.

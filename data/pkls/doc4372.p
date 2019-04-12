@@ -46,9 +46,9 @@ sS'agonists'
 p27
 g3
 ((lp28
-S"(111, u'\\\\bdextromethorphan')"
+S"(104, u'\\\\bdextromethorphan')"
 p29
-aS"(194, u'\\\\bibogaine')"
+aS"(190, u'\\\\bibogaine')"
 p30
 atp31
 Rp32
@@ -56,36 +56,6 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2323, u'(?i)(bees|bee)')"
-p35
-aS"(4163, u'(?i)(ermines|ermine)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(5743, u'(?i)(bots|bot)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1725, u'(?i)(clams|clam)')"
-p41
-aS"(2183, u'(?i)(gars|gar)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(5176, u'(?i)(tegs|teg)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(577, u'(?i)(orphans|orphan)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+tp35
+Rp36
 sb.

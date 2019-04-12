@@ -62,34 +62,10 @@ sS'species'
 p36
 g3
 ((lp37
-S"(1070, u'(?i)(pets|pet)')"
+S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(867, u'(?i)(tits|tit)')"
-p41
-aS"(2401, u'(?i)(primates|primate)')"
-p42
-aS"(1928, u'(?i)(bears|bear)')"
-p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+atp40
+Rp41
 sb.

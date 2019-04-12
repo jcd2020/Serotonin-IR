@@ -42,48 +42,28 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2000
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(155, u'\\\\bmem')"
-p33
-atp34
-Rp35
+((lp31
+S"(149, u'\\\\bmem')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(5958, u'(?i)(rats|rat)')"
+((lp36
+S"(523, u'(?i)\\\\b(blackburns|blackburn)\\\\b')"
+p37
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(702, u'(?i)(genets|genet)')"
-p39
-aS"(163, u'(?i)(mice|mouse)')"
-p40
-aS"(6682, u'(?i)(tera|teras)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(523, u'(?i)(blackburns|blackburn)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(5229, u'(?i)(moles|mole)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-atp49
-Rp50
+atp39
+Rp40
 sb.

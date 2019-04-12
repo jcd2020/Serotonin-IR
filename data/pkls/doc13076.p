@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(204, u'\\\\bsb ?269970')"
+S"(198, u'\\\\bsb ?269970')"
 p5
 atp6
 Rp7
@@ -34,56 +34,34 @@ g3
 ((lp19
 S'5ht7'
 p20
-aS'5ht5'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p26
-atp27
-Rp28
+((lp24
+S"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2013
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
+((lp31
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p32
+aS"(219, u'\\\\b5 ?ct')"
 p33
-aS"(5, u'\\\\b5 ?ct')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(5537, u'(?i)(hippos|hippo)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(81, u'(?i)(asps|asp)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(7094, u'(?i)(curs|cur)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(821, u'(?i)(lice|louse)')"
-p48
-atp49
-Rp50
+((lp37
+tp38
+Rp39
 sb.

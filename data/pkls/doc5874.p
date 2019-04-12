@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bgranisetron')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(135, u'\\\\bondansetron')"
+aS"(123, u'\\\\bgranisetron')"
 p6
 atp7
 Rp8
@@ -38,56 +38,38 @@ S'5ht1a'
 p21
 aS'5ht3'
 p22
-aS'5ht5'
-p23
 aS'5ht2'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp27
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p33
+p31
 V1995
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(149, u'\\\\bmem')"
 p35
-g3
-((lp36
-S"(190, u'\\\\b2 ?methyl ?5 ?ht')"
-p37
-aS"(155, u'\\\\bmem')"
-p38
-atp39
-Rp40
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+p36
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-atp51
-Rp52
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

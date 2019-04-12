@@ -38,52 +38,32 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2014
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(181, u'\\\\bdom')"
+((lp29
+S"(176, u'\\\\bdom')"
+p30
+aS"(149, u'\\\\bmem')"
 p31
-aS"(155, u'\\\\bmem')"
+aS"(105, u'\\\\b5 ?nonyloxytryptamine')"
 p32
-aS"(112, u'\\\\b5 ?nonyloxytryptamine')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(5958, u'(?i)(rats|rat)')"
+((lp36
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(4163, u'(?i)(ermines|ermine)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(4462, u'(?i)(monals|monal)')"
-p43
-aS"(1054, u'(?i)(homoes|homo)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(4074, u'(?i)(bulls|bull)')"
-p48
-atp49
-Rp50
+atp39
+Rp40
 sb.

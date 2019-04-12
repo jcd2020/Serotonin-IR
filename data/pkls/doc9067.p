@@ -46,58 +46,30 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+tp28
+Rp29
 sS'year'
-p31
+p30
 V2018
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(103, u'\\\\bsumatriptan')"
-p35
-atp36
-Rp37
+((lp33
+S"(96, u'\\\\bsumatriptan')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(4624, u'(?i)(apes|ape)')"
+((lp38
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p39
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p41
-aS"(6125, u'(?i)(females|female)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(4091, u'(?i)(adults|adult)')"
-p46
-aS"(5967, u'(?i)(males|male)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(853, u'(?i)(minas|mina)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(7094, u'(?i)(curs|cur)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+atp42
+Rp43
 sb.

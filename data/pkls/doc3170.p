@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -50,7 +50,7 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
 atp31
 Rp32
@@ -62,7 +62,7 @@ sS'agonists'
 p35
 g3
 ((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p37
 atp38
 Rp39
@@ -70,26 +70,8 @@ sS'species'
 p40
 g3
 ((lp41
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(4624, u'(?i)(apes|ape)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(5537, u'(?i)(hippos|hippo)')"
-p51
-atp52
-Rp53
+atp43
+Rp44
 sb.

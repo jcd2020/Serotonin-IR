@@ -28,72 +28,46 @@ g3
 ((lp16
 S'5ht1b'
 p17
-aS'5ht5'
-p18
 aS'5ht1'
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+((lp22
+tp23
+Rp24
 sS'year'
-p27
+p25
 V2002
-p28
+p26
 sS'agonists'
+p27
+g3
+((lp28
+S"(189, u'\\\\bethanol')"
 p29
-g3
-((lp30
-S"(193, u'\\\\bethanol')"
-p31
-atp32
-Rp33
+atp30
+Rp31
 sS'species'
-p34
+p32
 g3
-((lp35
-S"(2323, u'(?i)(bees|bee)')"
+((lp33
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p34
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p35
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p36
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(1055, u'(?i)\\\\b(men|man)\\\\b')"
 p37
-aS"(949, u'(?i)(cohoes|coho)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p39
-aS"(702, u'(?i)(genets|genet)')"
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(5743, u'(?i)(bots|bot)')"
-p42
-aS"(5967, u'(?i)(males|male)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(853, u'(?i)(minas|mina)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(1057, u'(?i)(humans|human)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(4074, u'(?i)(bulls|bull)')"
-p53
-atp54
-Rp55
+atp41
+Rp42
 sb.

@@ -8,108 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\byohimbine')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(54, u'\\\\britanserin')"
+aS"(119, u'\\\\britanserin')"
 p6
 aS"(17, u'\\\\bnan ?190')"
 p7
-aS"(130, u'\\\\britanserin')"
+aS"(33, u'\\\\byohimbine')"
 p8
-aS"(135, u'\\\\bondansetron')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(2, u'\\\\bappetite')"
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
-S'5ht3a'
+((lp22
+S'5ht1a'
+p23
+aS'5ht3a'
 p24
-aS'5ht5'
-p25
 aS'5ht2c'
-p26
-aS'5ht1a'
-p27
+p25
 aS'5ht2a'
-p28
-atp29
-Rp30
+p26
+atp27
+Rp28
 sS'regions'
+p29
+g3
+((lp30
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p31
-g3
-((lp32
-S"(220, u'(?i)(striatums|striatum)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V2015
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(210, u'\\\\bsulpiride')"
 p38
-g3
-((lp39
-S"(89, u'\\\\byohimbine')"
-p40
-aS"(214, u'\\\\bsulpiride')"
-p41
-atp42
-Rp43
+aS"(82, u'\\\\byohimbine')"
+p39
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(1070, u'(?i)(pets|pet)')"
-p46
-aS"(2323, u'(?i)(bees|bee)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(7609, u'(?i)(erns|ern)')"
-p51
-aS"(867, u'(?i)(tits|tit)')"
-p52
-aS"(163, u'(?i)(mice|mouse)')"
-p53
-aS"(4163, u'(?i)(ermines|ermine)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(4964, u'(?i)(serins|serin)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(6391, u'(?i)(asses|ass)')"
-p60
-aS"(4979, u'(?i)(cats|cat)')"
-p61
-atp62
-Rp63
+((lp43
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p44
+atp45
+Rp46
 sb.

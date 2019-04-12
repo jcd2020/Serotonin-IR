@@ -8,98 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(130, u'\\\\britanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(9, u'\\\\bdepress')"
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht1b'
-p22
-aS'5ht5'
-p23
-aS'5ht2c'
-p24
+p21
 aS'5ht2a'
-p25
-aS'5ht1d'
-p26
+p22
+aS'5ht2c'
+p23
 aS'5ht2'
-p27
-atp28
-Rp29
+p24
+aS'5ht1d'
+p25
+atp26
+Rp27
 sS'regions'
-p30
+p28
 g3
-((lp31
-tp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'year'
-p34
+p32
 V1998
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(96, u'\\\\bsumatriptan')"
 p36
-g3
-((lp37
-S"(103, u'\\\\bsumatriptan')"
-p38
-atp39
-Rp40
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(5958, u'(?i)(rats|rat)')"
+((lp40
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
 p43
-aS"(4964, u'(?i)(serins|serin)')"
-p44
-aS"(5967, u'(?i)(males|male)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(3592, u'(?i)(ravens|raven)')"
-p47
-aS"(2453, u'(?i)(topis|topi)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(853, u'(?i)(minas|mina)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(3726, u'(?i)(mates|mate)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(1349, u'(?i)(rams|ram)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-atp57
-Rp58
+atp44
+Rp45
 sb.

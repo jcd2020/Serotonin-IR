@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\byohimbine')"
+S"(33, u'\\\\byohimbine')"
 p5
 atp6
 Rp7
@@ -44,64 +44,36 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(216, u'(?i)(strias|stria)(-|\\\\s+)?(terminali|terminalis)')"
+S"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
 p27
-aS"(217, u'(?i)(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)')"
+aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2013
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(89, u'\\\\byohimbine')"
+((lp34
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p35
+aS"(82, u'\\\\byohimbine')"
 p36
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(6249, u'(?i)(ants|ant)')"
+((lp40
+S"(6580, u'(?i)\\\\b(dams|dam)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6125, u'(?i)(females|female)')"
-p45
-aS"(7609, u'(?i)(erns|ern)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(5967, u'(?i)(males|male)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(3726, u'(?i)(mates|mate)')"
-p50
-aS"(6580, u'(?i)(dams|dam)')"
-p51
-aS"(853, u'(?i)(minas|mina)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(6981, u'(?i)(moths|moth)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(1683, u'(?i)(terns|tern)')"
-p57
-atp58
-Rp59
+atp44
+Rp45
 sb.

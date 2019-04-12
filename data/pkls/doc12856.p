@@ -36,52 +36,22 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2004
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(2568, u'(?i)(hens|hen)')"
-p34
-aS"(931, u'(?i)(divers|diver)')"
-p35
-aS"(5551, u'(?i)(owls|owl)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(479, u'(?i)(lings|ling)')"
-p38
-aS"(4371, u'(?i)(lizas|liza)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(7094, u'(?i)(curs|cur)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(1961, u'(?i)(pens|pen)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(978, u'(?i)(pacas|paca)')"
-p46
-aS"(1628, u'(?i)(cod|cod)')"
-p47
-atp48
-Rp49
+((lp32
+tp33
+Rp34
 sb.

@@ -44,66 +44,32 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V1999
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(103, u'\\\\bsumatriptan')"
+((lp33
+S"(96, u'\\\\bsumatriptan')"
+p34
+aS"(97, u'\\\\bzolmitriptan')"
 p35
-aS"(104, u'\\\\bzolmitriptan')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(2323, u'(?i)(bees|bee)')"
+((lp39
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p40
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p41
-aS"(2054, u'(?i)(heads|head)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(2568, u'(?i)(hens|hen)')"
-p44
-aS"(702, u'(?i)(genets|genet)')"
-p45
-aS"(3767, u'(?i)(olms|olm)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(6215, u'(?i)(racers|racer)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(7094, u'(?i)(curs|cur)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(1057, u'(?i)(humans|human)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(3196, u'(?i)(human|humans)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-atp59
-Rp60
+atp42
+Rp43
 sb.

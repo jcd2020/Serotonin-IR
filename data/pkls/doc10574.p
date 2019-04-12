@@ -44,7 +44,7 @@ S'5ht7'
 p24
 aS'5ht6'
 p25
-aS'5ht5'
+aS'5ht1a'
 p26
 aS'5ht2b'
 p27
@@ -52,58 +52,38 @@ aS'5ht2a'
 p28
 aS'5ht6a'
 p29
-aS'5ht1a'
-p30
 aS'5ht1b'
-p31
-atp32
-Rp33
+p30
+atp31
+Rp32
 sS'regions'
-p34
+p33
 g3
-((lp35
-tp36
-Rp37
+((lp34
+tp35
+Rp36
 sS'year'
-p38
+p37
 V2017
-p39
+p38
 sS'agonists'
-p40
+p39
 g3
-((lp41
-S"(14, u'\\\\bamphetamine')"
+((lp40
+S"(11, u'\\\\bamphetamine')"
+p41
+aS"(149, u'\\\\bmem')"
 p42
-aS"(155, u'\\\\bmem')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sS'species'
-p46
+p45
 g3
-((lp47
-S"(6753, u'(?i)(da|das)')"
+((lp46
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p47
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p48
-aS"(2568, u'(?i)(hens|hen)')"
-p49
-aS"(931, u'(?i)(divers|diver)')"
-p50
-aS"(163, u'(?i)(mice|mouse)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+atp49
+Rp50
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(27, u'\\\\bspiperone')"
+S"(26, u'\\\\bspiperone')"
 p5
 aS"(21, u'\\\\bpindolol')"
 p6
@@ -62,9 +62,9 @@ sS'agonists'
 p35
 g3
 ((lp36
-S"(214, u'\\\\bsulpiride')"
+S"(210, u'\\\\bsulpiride')"
 p37
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p38
 atp39
 Rp40
@@ -72,38 +72,8 @@ sS'species'
 p41
 g3
 ((lp42
-S"(6753, u'(?i)(da|das)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p43
-aS"(2568, u'(?i)(hens|hen)')"
-p44
-aS"(7609, u'(?i)(erns|ern)')"
-p45
-aS"(1049, u'(?i)(elands|eland)')"
-p46
-aS"(163, u'(?i)(mice|mouse)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(2809, u'(?i)(toms|tom)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(1683, u'(?i)(terns|tern)')"
-p57
-aS"(7552, u'(?i)(bats|bat)')"
-p58
-atp59
-Rp60
+atp44
+Rp45
 sb.

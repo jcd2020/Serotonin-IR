@@ -8,106 +8,84 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(17, u'\\\\bnan ?190')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(31, u'\\\\bway ?100635')"
 p6
-aS"(17, u'\\\\bnan ?190')"
+aS"(96, u'\\\\brs ?102221')"
 p7
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p8
-aS"(136, u'\\\\btropisetron')"
+aS"(125, u'\\\\btropisetron')"
 p9
-aS"(108, u'\\\\brs ?102221')"
+aS"(33, u'\\\\byohimbine')"
 p10
-aS"(34, u'\\\\byohimbine')"
+aS"(43, u'\\\\bgr ?127935')"
 p11
-aS"(45, u'\\\\bgr ?127935')"
-p12
-atp13
-Rp14
+atp12
+Rp13
 sS'methods'
-p15
+p14
 g3
-((lp16
+((lp15
 S'Method.ANTAGONIST'
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'topics'
-p20
+p19
 g3
-((lp21
+((lp20
 S"(21, u'\\\\bpain')"
-p22
+p21
 aS"(24, u'\\\\banalgesi')"
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'receptors'
-p26
+p25
 g3
-((lp27
+((lp26
 S'5ht1b'
-p28
+p27
 aS'5ht1a'
-p29
+p28
 aS'5ht4'
-p30
+p29
 aS'5ht3'
-p31
+p30
 aS'5ht2c'
-p32
+p31
 aS'5ht2a'
-p33
-atp34
-Rp35
+p32
+atp33
+Rp34
 sS'regions'
-p36
+p35
 g3
-((lp37
-tp38
-Rp39
+((lp36
+tp37
+Rp38
 sS'year'
-p40
+p39
 V2006
-p41
+p40
 sS'agonists'
-p42
+p41
 g3
-((lp43
-S"(89, u'\\\\byohimbine')"
+((lp42
+S"(210, u'\\\\bsulpiride')"
+p43
+aS"(82, u'\\\\byohimbine')"
 p44
-aS"(214, u'\\\\bsulpiride')"
-p45
-atp46
-Rp47
+atp45
+Rp46
 sS'species'
-p48
+p47
 g3
-((lp49
-S"(2323, u'(?i)(bees|bee)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(163, u'(?i)(mice|mouse)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(4964, u'(?i)(serins|serin)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(6391, u'(?i)(asses|ass)')"
-p59
-aS"(5743, u'(?i)(bots|bot)')"
-p60
-atp61
-Rp62
+((lp48
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p49
+atp50
+Rp51
 sb.

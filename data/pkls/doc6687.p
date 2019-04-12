@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(121, u'\\\\bloxapine')"
+S"(189, u'\\\\bloxapine')"
 p5
 atp6
 Rp7
@@ -38,60 +38,28 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(270, u'(?i)(v1s|v1)')"
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2014
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(5, u'\\\\b5 ?ct')"
-p32
-atp33
-Rp34
+((lp30
+S"(219, u'\\\\b5 ?ct')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(7609, u'(?i)(erns|ern)')"
-p38
-aS"(867, u'(?i)(tits|tit)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(1725, u'(?i)(clams|clam)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(3592, u'(?i)(ravens|raven)')"
-p45
-aS"(853, u'(?i)(minas|mina)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(1683, u'(?i)(terns|tern)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(821, u'(?i)(lice|louse)')"
-p51
-aS"(4133, u'(?i)(pikes|pike)')"
-p52
-atp53
-Rp54
+((lp35
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

@@ -30,80 +30,50 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht1a'
 p19
-aS'5ht1a'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+((lp23
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p24
+aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p25
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p26
-aS"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p27
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'year'
-p33
+p31
 V2000
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p35
-g3
-((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p37
-atp38
-Rp39
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(6249, u'(?i)(ants|ant)')"
+((lp39
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p40
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p41
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p42
-aS"(5967, u'(?i)(males|male)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(4301, u'(?i)(hydras|hydra)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(5176, u'(?i)(tegs|teg)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(4091, u'(?i)(adults|adult)')"
-p49
-aS"(81, u'(?i)(asps|asp)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(3726, u'(?i)(mates|mate)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(3522, u'(?i)(tetras|tetra)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(1414, u'(?i)(chars|char)')"
-p58
-atp59
-Rp60
+atp44
+Rp45
 sb.

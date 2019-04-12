@@ -34,72 +34,40 @@ g3
 ((lp19
 S'5ht1b'
 p20
-aS'5ht5'
-p21
 aS'5ht1a'
-p22
+p21
 aS'5ht2'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
-p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp26
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p32
+p30
 V1997
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p34
-g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p36
-aS"(169, u'\\\\bfenfluramine')"
-p37
-atp38
-Rp39
+aS"(163, u'\\\\bfenfluramine')"
+p35
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(1070, u'(?i)(pets|pet)')"
-p42
-aS"(5537, u'(?i)(hippos|hippo)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(7609, u'(?i)(erns|ern)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(853, u'(?i)(minas|mina)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(3426, u'(?i)(hares|hare)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(7610, u'(?i)(ernes|erne)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(1683, u'(?i)(terns|tern)')"
-p55
-aS"(4133, u'(?i)(pikes|pike)')"
-p56
-atp57
-Rp58
+((lp39
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

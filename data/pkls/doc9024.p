@@ -8,96 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(59, u'\\\\bchlorpromazine')"
 p5
 aS"(21, u'\\\\bpindolol')"
 p6
-aS"(68, u'\\\\bchlorpromazine')"
+aS"(119, u'\\\\britanserin')"
 p7
-aS"(130, u'\\\\britanserin')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
-tp13
-Rp14
+((lp11
+tp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
-tp17
-Rp18
+((lp15
+tp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
+((lp19
 S'5ht1c'
-p21
+p20
 aS'5ht1b'
-p22
+p21
 aS'5ht1a'
-p23
+p22
 aS'5ht2'
-p24
+p23
 aS'5ht1'
-p25
-aS'5ht5'
-p26
-atp27
-Rp28
+p24
+atp25
+Rp26
 sS'regions'
-p29
+p27
 g3
-((lp30
-tp31
-Rp32
+((lp28
+tp29
+Rp30
 sS'year'
-p33
+p31
 V1993
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(149, u'\\\\bmem')"
 p35
-g3
-((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p37
-aS"(155, u'\\\\bmem')"
-p38
-atp39
-Rp40
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p36
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(1070, u'(?i)(pets|pet)')"
-p43
-aS"(5537, u'(?i)(hippos|hippo)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(867, u'(?i)(tits|tit)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(3404, u'(?i)(titis|titi)')"
-p50
-aS"(4964, u'(?i)(serins|serin)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(7094, u'(?i)(curs|cur)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

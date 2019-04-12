@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(20, u'\\\\bbefiradol')"
+S"(16, u'\\\\bbefiradol')"
 p32
 atp33
 Rp34
@@ -60,28 +60,12 @@ sS'species'
 p35
 g3
 ((lp36
-S"(5799, u'(?i)(rodents|rodent)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p38
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(4091, u'(?i)(adults|adult)')"
-p41
-aS"(2183, u'(?i)(gars|gar)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(1414, u'(?i)(chars|char)')"
-p46
-aS"(821, u'(?i)(lice|louse)')"
-p47
-atp48
-Rp49
+atp40
+Rp41
 sb.

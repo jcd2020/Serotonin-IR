@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(108, u'\\\\brs ?102221')"
+S"(96, u'\\\\brs ?102221')"
 p5
 atp6
 Rp7
@@ -26,27 +26,27 @@ sS'topics'
 p14
 g3
 ((lp15
-tp16
-Rp17
+S"(37, u'\\\\baddict')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
+((lp20
 S'5ht2c'
-p20
-aS'5ht2'
 p21
-aS'5ht2a'
+aS'5ht2'
 p22
-atp23
-Rp24
+aS'5ht2a'
+p23
+atp24
+Rp25
 sS'regions'
-p25
+p26
 g3
-((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
+((lp27
+tp28
 Rp29
 sS'year'
 p30
@@ -56,11 +56,11 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(153, u'\\\\bmdma')"
+S"(147, u'\\\\bmdma')"
 p34
-aS"(169, u'\\\\bfenfluramine')"
+aS"(155, u'\\\\bmcpp')"
 p35
-aS"(161, u'\\\\bmcpp')"
+aS"(163, u'\\\\bfenfluramine')"
 p36
 atp37
 Rp38
@@ -68,38 +68,8 @@ sS'species'
 p39
 g3
 ((lp40
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(4604, u'(?i)(mites|mite)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+atp42
+Rp43
 sb.

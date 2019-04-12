@@ -38,46 +38,24 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2008
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(107, u'\\\\bcp ?93129')"
-p31
-atp32
-Rp33
+((lp29
+S"(100, u'\\\\bcp ?93129')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(4624, u'(?i)(apes|ape)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(7094, u'(?i)(curs|cur)')"
-p39
-aS"(5176, u'(?i)(tegs|teg)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(1414, u'(?i)(chars|char)')"
-p42
-aS"(7609, u'(?i)(erns|ern)')"
-p43
-aS"(1683, u'(?i)(terns|tern)')"
-p44
-aS"(4133, u'(?i)(pikes|pike)')"
-p45
-atp46
-Rp47
+((lp34
+tp35
+Rp36
 sb.

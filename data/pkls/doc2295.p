@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(140, u'\\\\brenzapride')"
+S"(129, u'\\\\brenzapride')"
 p5
 atp6
 Rp7
@@ -40,50 +40,32 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1997
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(207, u'\\\\brenzapride')"
-p32
-atp33
-Rp34
+((lp30
+S"(203, u'\\\\brenzapride')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
+((lp35
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p36
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(867, u'(?i)(tits|tit)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p39
-aS"(479, u'(?i)(lings|ling)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(1054, u'(?i)(homoes|homo)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(1057, u'(?i)(humans|human)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(3196, u'(?i)(human|humans)')"
-p47
-aS"(1628, u'(?i)(cod|cod)')"
-p48
-atp49
-Rp50
+atp40
+Rp41
 sb.

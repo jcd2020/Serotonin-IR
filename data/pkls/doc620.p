@@ -36,46 +36,28 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p23
-aS"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'year'
-p27
+p26
 V1996
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp29
+S"(45, u'\\\\bipsapirone')"
+p30
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p31
-aS"(50, u'\\\\bipsapirone')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(3592, u'(?i)(ravens|raven)')"
-p39
-aS"(6215, u'(?i)(racers|racer)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(3550, u'(?i)(anis|ani)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-atp45
-Rp46
+((lp35
+tp36
+Rp37
 sb.

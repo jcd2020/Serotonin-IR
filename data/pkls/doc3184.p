@@ -36,56 +36,26 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p23
-aS"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'year'
-p27
+p26
 V2009
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(2323, u'(?i)(bees|bee)')"
-p35
-aS"(2568, u'(?i)(hens|hen)')"
-p36
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(479, u'(?i)(lings|ling)')"
-p40
-aS"(4371, u'(?i)(lizas|liza)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(853, u'(?i)(minas|mina)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6878, u'(?i)(guans|guan)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+((lp33
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
 sb.

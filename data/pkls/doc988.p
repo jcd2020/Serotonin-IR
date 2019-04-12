@@ -30,58 +30,36 @@ g3
 ((lp17
 S'5ht1a'
 p18
-aS'5ht5'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(257, u'(?i)(dorsolaterals|dorsolateral)(-|\\\\s+)?(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp22
+S"(257, u'(?i)\\\\b(dorsolaterals|dorsolateral)(-|\\\\s+)?(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p23
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p24
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp26
+Rp27
 sS'year'
-p30
+p28
 V2015
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(20, u'\\\\bbuspirone')"
 p32
-g3
-((lp33
-S"(24, u'\\\\bbuspirone')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(7609, u'(?i)(erns|ern)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(2389, u'(?i)(spats|spat)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(853, u'(?i)(minas|mina)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(1414, u'(?i)(chars|char)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-atp48
-Rp49
+((lp36
+tp37
+Rp38
 sb.

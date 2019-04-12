@@ -40,70 +40,32 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p25
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp27
+Rp28
 sS'year'
-p31
+p29
 V2005
-p32
+p30
 sS'agonists'
-p33
+p31
 g3
-((lp34
-tp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(6753, u'(?i)(da|das)')"
+((lp36
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(7609, u'(?i)(erns|ern)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(4091, u'(?i)(adults|adult)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(3534, u'(?i)(scads|scad)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(3247, u'(?i)(youngs|young)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(2809, u'(?i)(toms|tom)')"
-p57
-aS"(1683, u'(?i)(terns|tern)')"
-p58
-atp59
-Rp60
+atp40
+Rp41
 sb.

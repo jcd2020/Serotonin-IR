@@ -32,74 +32,40 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht1a'
 p20
-aS'5ht1a'
-p21
 aS'5ht3'
-p22
+p21
 aS'5ht2'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
-p28
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp26
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p33
+p30
 V1996
-p34
+p31
 sS'agonists'
-p35
+p32
 g3
-((lp36
-tp37
-Rp38
+((lp33
+tp34
+Rp35
 sS'species'
-p39
+p36
 g3
-((lp40
-S"(2323, u'(?i)(bees|bee)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(3592, u'(?i)(ravens|raven)')"
-p47
-aS"(853, u'(?i)(minas|mina)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(1057, u'(?i)(humans|human)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(3196, u'(?i)(human|humans)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(3426, u'(?i)(hares|hare)')"
-p56
-atp57
-Rp58
+((lp37
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p38
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p39
+atp40
+Rp41
 sb.

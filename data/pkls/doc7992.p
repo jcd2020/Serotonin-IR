@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(61, u'\\\\bmdl ?100907')"
+S"(52, u'\\\\bmdl ?100907')"
 p5
 atp6
 Rp7
@@ -32,84 +32,50 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2'
 p20
-aS'5ht2'
-p21
 aS'5ht1'
-p22
+p21
 aS'5ht2a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(244, u'(?i)(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)')"
-p28
-atp29
-Rp30
+((lp26
+S"(244, u'(?i)\\\\b(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p31
+p30
 V1996
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(56, u'\\\\blsd')"
+((lp33
+S"(158, u'\\\\blsd')"
+p34
+aS"(49, u'\\\\blysergic acid diethylamide')"
 p35
-aS"(55, u'\\\\blysergic acid diethylamide')"
+aS"(175, u'\\\\bdoi')"
 p36
-aS"(33, u'\\\\bdoi')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(7610, u'(?i)(ernes|erne)')"
+((lp40
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p41
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p42
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p44
-aS"(7609, u'(?i)(erns|ern)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(5674, u'(?i)(ewes|ewe)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(7094, u'(?i)(curs|cur)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(1057, u'(?i)(humans|human)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(3196, u'(?i)(human|humans)')"
-p58
-aS"(3152, u'(?i)(layers|layer)')"
-p59
-aS"(1683, u'(?i)(terns|tern)')"
-p60
-aS"(6331, u'(?i)(mares|mare)')"
-p61
-atp62
-Rp63
+atp45
+Rp46
 sb.

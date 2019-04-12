@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bgranisetron')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(135, u'\\\\bondansetron')"
+aS"(123, u'\\\\bgranisetron')"
 p6
 atp7
 Rp8
@@ -42,42 +42,24 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+tp26
+Rp27
 sS'year'
-p30
+p28
 V1995
-p31
+p29
 sS'agonists'
-p32
+p30
 g3
-((lp33
-tp34
-Rp35
+((lp31
+tp32
+Rp33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-atp46
-Rp47
+((lp35
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(144, u'\\\\bquinine')"
+S"(135, u'\\\\bquinine')"
 p5
 atp6
 Rp7
@@ -40,11 +40,11 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p25
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,9 +56,9 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p34
-aS"(193, u'\\\\bethanol')"
+aS"(189, u'\\\\bethanol')"
 p35
 atp36
 Rp37
@@ -66,36 +66,8 @@ sS'species'
 p38
 g3
 ((lp39
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(5967, u'(?i)(males|male)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(949, u'(?i)(cohoes|coho)')"
-p50
-aS"(3522, u'(?i)(tetras|tetra)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+atp41
+Rp42
 sb.

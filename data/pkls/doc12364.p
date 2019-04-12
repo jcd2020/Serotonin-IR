@@ -42,48 +42,28 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
+S"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2002
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(33, u'\\\\bdoi')"
-p34
-atp35
-Rp36
+((lp32
+S"(175, u'\\\\bdoi')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(3592, u'(?i)(ravens|raven)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-atp49
-Rp50
+((lp37
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

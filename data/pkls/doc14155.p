@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(33, u'\\\\bxylamidine')"
+S"(32, u'\\\\bxylamidine')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(194, u'\\\\bmethysergide')"
 p6
 atp7
 Rp8
@@ -34,60 +34,38 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht3'
 p21
-aS'5ht3'
-p22
 aS'5ht2'
-p23
+p22
 aS'5ht1'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-tp29
-Rp30
+((lp27
+tp28
+Rp29
 sS'year'
-p31
+p30
 V1991
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(60, u'\\\\bmethysergide')"
-p35
-atp36
-Rp37
+((lp33
+S"(53, u'\\\\bmethysergide')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(479, u'(?i)(lings|ling)')"
-p42
-aS"(5035, u'(?i)(harts|hart)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-atp51
-Rp52
+((lp38
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

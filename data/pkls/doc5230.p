@@ -8,90 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(31, u'\\\\bway ?100635')"
 p7
-aS"(102, u'\\\\bfluoxetine')"
+aS"(194, u'\\\\bmethysergide')"
 p8
-aS"(105, u'\\\\bmethysergide')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(4, u'\\\\blocomot')"
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
-S'5ht5'
-p24
+((lp22
+S'5ht1a'
+p23
 aS'5ht2c'
-p25
-aS'5ht1a'
-p26
+p24
 aS'5ht2a'
-p27
-atp28
-Rp29
+p25
+atp26
+Rp27
 sS'regions'
-p30
+p28
 g3
-((lp31
-tp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'year'
-p34
+p32
 V1998
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(53, u'\\\\bmethysergide')"
 p36
-g3
-((lp37
-S"(60, u'\\\\bmethysergide')"
-p38
-atp39
-Rp40
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(2054, u'(?i)(heads|head)')"
+((lp40
+S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6125, u'(?i)(females|female)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(4964, u'(?i)(serins|serin)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+atp44
+Rp45
 sb.

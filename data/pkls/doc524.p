@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(389, u'(?i)(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)')"
+S"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(169, u'\\\\bfenfluramine')"
+S"(163, u'\\\\bfenfluramine')"
 p33
 atp34
 Rp35
@@ -62,26 +62,8 @@ sS'species'
 p36
 g3
 ((lp37
-S"(1070, u'(?i)(pets|pet)')"
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p38
-aS"(2323, u'(?i)(bees|bee)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(1349, u'(?i)(rams|ram)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-atp48
-Rp49
+atp39
+Rp40
 sb.

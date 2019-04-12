@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(95, u'\\\\bsb ?206553')"
+S"(84, u'\\\\bsb ?206553')"
 p5
 atp6
 Rp7
@@ -32,68 +32,44 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2c'
 p20
-aS'5ht2c'
-p21
 aS'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+((lp25
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p26
+atp27
+Rp28
 sS'year'
-p31
+p29
 V2008
-p32
+p30
 sS'agonists'
-p33
+p31
 g3
-((lp34
-tp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(2568, u'(?i)(hens|hen)')"
+((lp36
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p37
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p38
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(7539, u'(?i)(mammals|mammal)')"
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p41
-aS"(479, u'(?i)(lings|ling)')"
-p42
-aS"(4091, u'(?i)(adults|adult)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1349, u'(?i)(rams|ram)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(3247, u'(?i)(youngs|young)')"
-p52
-aS"(3152, u'(?i)(layers|layer)')"
-p53
-atp54
-Rp55
+atp42
+Rp43
 sb.

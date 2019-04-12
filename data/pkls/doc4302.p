@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(109, u'\\\\bsb ?221284')"
+aS"(14, u'\\\\bmethiothepin')"
 p6
-aS"(102, u'\\\\bfluoxetine')"
+aS"(98, u'\\\\bsb ?221284')"
 p7
 atp8
 Rp9
@@ -58,7 +58,7 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p35
 atp36
 Rp37
@@ -66,24 +66,8 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2670, u'(?i)(arabs|arab)')"
+S"(709, u'(?i)\\\\b(chicks|chick)\\\\b')"
 p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(1686, u'(?i)(gibs|gib)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6215, u'(?i)(racers|racer)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(709, u'(?i)(chicks|chick)')"
-p48
-atp49
-Rp50
+atp41
+Rp42
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100135')"
+S"(30, u'\\\\bway ?100135')"
 p5
 atp6
 Rp7
@@ -26,31 +26,31 @@ sS'topics'
 p14
 g3
 ((lp15
-S"(9, u'\\\\bdepress')"
+S"(37, u'\\\\baddict')"
 p16
-aS"(11, u'\\\\banxiolyt')"
+aS"(9, u'\\\\bdepress')"
 p17
-aS"(10, u'\\\\banxiety')"
+aS"(11, u'\\\\banxiolyt')"
 p18
-aS"(12, u'\\\\banxiogen')"
+aS"(10, u'\\\\banxiety')"
 p19
-atp20
-Rp21
+aS"(12, u'\\\\banxiogen')"
+p20
+atp21
+Rp22
 sS'receptors'
-p22
+p23
 g3
-((lp23
+((lp24
 S'5ht1a'
-p24
-atp25
-Rp26
+p25
+atp26
+Rp27
 sS'regions'
-p27
+p28
 g3
-((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
+((lp29
+tp30
 Rp31
 sS'year'
 p32
@@ -66,44 +66,8 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2323, u'(?i)(bees|bee)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(4624, u'(?i)(apes|ape)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(7094, u'(?i)(curs|cur)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(2809, u'(?i)(toms|tom)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(5949, u'(?i)(dogs|dog)')"
-p58
-atp59
-Rp60
+atp41
+Rp42
 sb.

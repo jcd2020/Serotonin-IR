@@ -32,60 +32,44 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2c'
 p20
-aS'5ht2c'
-p21
 aS'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+((lp25
+S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
+p26
+aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p27
-aS"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2003
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(155, u'\\\\bmem')"
-p35
-atp36
-Rp37
+((lp33
+S"(149, u'\\\\bmem')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(5958, u'(?i)(rats|rat)')"
+((lp38
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p39
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(6682, u'(?i)(tera|teras)')"
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p41
-aS"(3534, u'(?i)(scads|scad)')"
-p42
-aS"(7094, u'(?i)(curs|cur)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(4371, u'(?i)(lizas|liza)')"
-p46
-aS"(3722, u'(?i)(pups|pup)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(7058, u'(?i)(does|doe)')"
-p49
-atp50
-Rp51
+atp42
+Rp43
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(113, u'\\\\bclomipramine')"
+S"(103, u'\\\\bclomipramine')"
 p5
 atp6
 Rp7
@@ -32,46 +32,34 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
-p20
-atp21
-Rp22
+tp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p25
-atp26
-Rp27
+((lp23
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p24
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2003
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(1070, u'(?i)(pets|pet)')"
+((lp34
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p36
-aS"(5537, u'(?i)(hippos|hippo)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(1349, u'(?i)(rams|ram)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(6391, u'(?i)(asses|ass)')"
-p42
-atp43
-Rp44
+atp37
+Rp38
 sb.

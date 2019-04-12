@@ -8,100 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(99, u'\\\\bsb ?242084')"
 p5
-aS"(67, u'\\\\bhaloperidol')"
+aS"(131, u'\\\\bm1')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(142, u'\\\\bm1')"
+aS"(58, u'\\\\bhaloperidol')"
 p8
-aS"(110, u'\\\\bsb ?242084')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht2c'
-p23
+p22
 aS'5ht2'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(220, u'(?i)(striatums|striatum)')"
-p30
-atp31
-Rp32
+((lp28
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p33
+p32
 V2011
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(48, u'\\\\bhaloperidol')"
-p37
-atp38
-Rp39
+((lp35
+S"(43, u'\\\\bhaloperidol')"
+p36
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(6753, u'(?i)(da|das)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(4201, u'(?i)(kines|kine)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(4964, u'(?i)(serins|serin)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(5674, u'(?i)(ewes|ewe)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(2809, u'(?i)(toms|tom)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(4979, u'(?i)(cats|cat)')"
-p57
-atp58
-Rp59
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

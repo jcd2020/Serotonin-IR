@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(140, u'\\\\brenzapride')"
+S"(129, u'\\\\brenzapride')"
 p5
-aS"(153, u'\\\\bgr ?113808')"
+aS"(144, u'\\\\bgr ?113808')"
 p6
 atp7
 Rp8
@@ -40,66 +40,44 @@ sS'receptors'
 p22
 g3
 ((lp23
-S'5ht5'
+S'5ht4'
 p24
-aS'5ht4'
-p25
 aS'5ht4e'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'year'
-p33
+p32
 V2001
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(207, u'\\\\brenzapride')"
+((lp35
+S"(203, u'\\\\brenzapride')"
+p36
+aS"(149, u'\\\\bmem')"
 p37
-aS"(206, u'\\\\bprucalopride')"
+aS"(202, u'\\\\bprucalopride')"
 p38
-aS"(155, u'\\\\bmem')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2568, u'(?i)(hens|hen)')"
+((lp42
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p43
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p44
-aS"(1055, u'(?i)(men|man)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1057, u'(?i)(humans|human)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(3196, u'(?i)(human|humans)')"
-p53
-aS"(2809, u'(?i)(toms|tom)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(5949, u'(?i)(dogs|dog)')"
-p56
-atp57
-Rp58
+atp46
+Rp47
 sb.

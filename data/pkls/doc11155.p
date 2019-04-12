@@ -42,13 +42,13 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(2, u'(?i)\\\\b(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)\\\\b')"
 p26
-aS"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p27
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p28
-aS"(2, u'(?i)(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
 atp30
 Rp31
@@ -66,36 +66,8 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(1169, u'(?i)(grades|grade)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(3726, u'(?i)(mates|mate)')"
-p48
-aS"(6215, u'(?i)(racers|racer)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(5674, u'(?i)(ewes|ewe)')"
-p54
-atp55
-Rp56
+atp41
+Rp42
 sb.

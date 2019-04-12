@@ -8,92 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(111, u'\\\\bolanzapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(56, u'\\\\bclozapine')"
+aS"(113, u'\\\\brisperidone')"
 p7
-aS"(57, u'\\\\bolanzapine')"
+aS"(58, u'\\\\bhaloperidol')"
 p8
-aS"(124, u'\\\\bolanzapine')"
-p9
-aS"(59, u'\\\\brisperidone')"
-p10
-aS"(67, u'\\\\bhaloperidol')"
-p11
-atp12
-Rp13
+atp9
+Rp10
 sS'methods'
-p14
+p11
 g3
-((lp15
+((lp12
 S'Method.ANTAGONIST'
-p16
-atp17
-Rp18
+p13
+atp14
+Rp15
 sS'topics'
-p19
+p16
 g3
-((lp20
-tp21
-Rp22
+((lp17
+tp18
+Rp19
 sS'receptors'
-p23
+p20
 g3
-((lp24
+((lp21
 S'5ht5'
-p25
+p22
 aS'5ht2a'
-p26
-atp27
-Rp28
+p23
+atp24
+Rp25
 sS'regions'
+p26
+g3
+((lp27
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p28
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-g3
-((lp30
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
-p31
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p32
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p33
-atp34
-Rp35
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p36
+p33
 V1999
-p37
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(57, u'\\\\bolanzapine')"
+p37
+aS"(23, u'\\\\bclozapine')"
 p38
-g3
-((lp39
-S"(64, u'\\\\bolanzapine')"
-p40
-aS"(48, u'\\\\bhaloperidol')"
-p41
-aS"(27, u'\\\\bclozapine')"
-p42
-atp43
-Rp44
+aS"(43, u'\\\\bhaloperidol')"
+p39
+atp40
+Rp41
 sS'species'
-p45
+p42
 g3
-((lp46
-S"(2670, u'(?i)(arabs|arab)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(2334, u'(?i)(eels|eel)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-atp54
-Rp55
+((lp43
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

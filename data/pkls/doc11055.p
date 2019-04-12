@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100135')"
+S"(30, u'\\\\bway ?100135')"
 p5
 aS"(17, u'\\\\bnan ?190')"
 p6
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(24, u'\\\\bbuspirone')"
+S"(20, u'\\\\bbuspirone')"
 p32
 atp33
 Rp34
@@ -60,24 +60,6 @@ sS'species'
 p35
 g3
 ((lp36
-S"(5537, u'(?i)(hippos|hippo)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(81, u'(?i)(asps|asp)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-atp46
-Rp47
+tp37
+Rp38
 sb.

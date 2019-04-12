@@ -34,78 +34,46 @@ g3
 ((lp19
 S'5ht1b'
 p20
-aS'5ht5'
-p21
 aS'5ht4'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+((lp25
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p26
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p27
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p30
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
-p34
+p33
 V2011
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-tp38
-Rp39
+((lp36
+tp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp40
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p41
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(1049, u'(?i)(elands|eland)')"
-p45
-aS"(163, u'(?i)(mice|mouse)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(3152, u'(?i)(layers|layer)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(5944, u'(?i)(soles|sole)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(5743, u'(?i)(bots|bot)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(5917, u'(?i)(roaches|roach)')"
-p54
-aS"(4371, u'(?i)(lizas|liza)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(2809, u'(?i)(toms|tom)')"
-p57
-aS"(6325, u'(?i)(caudates|caudate)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-atp60
-Rp61
+atp44
+Rp45
 sb.

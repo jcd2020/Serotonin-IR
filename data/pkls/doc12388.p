@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(126, u'(?i)(thalamuses|thalamus)')"
+S"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p24
 atp25
 Rp26
@@ -50,9 +50,9 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(56, u'\\\\blsd')"
+S"(158, u'\\\\blsd')"
 p31
-aS"(55, u'\\\\blysergic acid diethylamide')"
+aS"(49, u'\\\\blysergic acid diethylamide')"
 p32
 atp33
 Rp34
@@ -60,38 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2323, u'(?i)(bees|bee)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(7609, u'(?i)(erns|ern)')"
-p40
-aS"(5176, u'(?i)(tegs|teg)')"
-p41
-aS"(2183, u'(?i)(gars|gar)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(1057, u'(?i)(humans|human)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+atp39
+Rp40
 sb.

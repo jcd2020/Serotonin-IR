@@ -28,62 +28,34 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
-p18
-atp19
-Rp20
+tp18
+Rp19
 sS'regions'
-p21
+p20
 g3
-((lp22
-S"(220, u'(?i)(striatums|striatum)')"
+((lp21
+S"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
+p22
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p23
-aS"(225, u'(?i)(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)')"
-p24
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
-p25
-atp26
-Rp27
+atp24
+Rp25
 sS'year'
-p28
+p26
 V2007
-p29
+p27
 sS'agonists'
-p30
+p28
 g3
-((lp31
-tp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'species'
-p34
+p32
 g3
-((lp35
-S"(1070, u'(?i)(pets|pet)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(931, u'(?i)(divers|diver)')"
-p38
-aS"(4201, u'(?i)(kines|kine)')"
-p39
-aS"(4163, u'(?i)(ermines|ermine)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(3726, u'(?i)(mates|mate)')"
-p42
-aS"(1349, u'(?i)(rams|ram)')"
-p43
-aS"(6215, u'(?i)(racers|racer)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(2809, u'(?i)(toms|tom)')"
-p48
-atp49
-Rp50
+((lp33
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+p34
+atp35
+Rp36
 sb.

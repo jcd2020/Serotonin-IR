@@ -8,106 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(14, u'\\\\bmethiothepin')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(14, u'\\\\bmethiothepin')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(9, u'\\\\bdepress')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht5c'
-p23
+p22
 aS'5ht3'
-p24
+p23
 aS'5ht2'
-p25
+p24
 aS'5ht1'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'year'
-p34
+p32
 V1991
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p36
-g3
-((lp37
-S"(103, u'\\\\bsumatriptan')"
+aS"(96, u'\\\\bsumatriptan')"
+p37
+aS"(219, u'\\\\b5 ?ct')"
 p38
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
-p39
-aS"(5, u'\\\\b5 ?ct')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(2568, u'(?i)(hens|hen)')"
+((lp42
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p43
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p44
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p45
-aS"(867, u'(?i)(tits|tit)')"
-p46
-aS"(4964, u'(?i)(serins|serin)')"
-p47
-aS"(1291, u'(?i)(ratels|ratel)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(107, u'(?i)(stags|stag)')"
-p52
-aS"(3062, u'(?i)(guineas|guinea)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(7094, u'(?i)(curs|cur)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p58
-aS"(5743, u'(?i)(bots|bot)')"
-p59
-aS"(3051, u'(?i)(pigs|pig)')"
-p60
-atp61
-Rp62
+atp46
+Rp47
 sb.

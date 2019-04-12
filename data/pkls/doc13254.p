@@ -8,98 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(27, u'\\\\bspiperone')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(26, u'\\\\bspiperone')"
 p6
-aS"(45, u'\\\\bgr ?127935')"
+aS"(110, u'\\\\bclozapine')"
 p7
-aS"(56, u'\\\\bclozapine')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.KNOCKOUT'
-p13
+p12
 aS'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1b'
-p23
+p22
 aS'5ht5'
-p24
+p23
 aS'5ht5b'
-p25
+p24
 aS'5ht5a'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
-p31
-atp32
-Rp33
+((lp29
+S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p34
+p33
 V1998
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp36
+S"(23, u'\\\\bclozapine')"
+p37
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p38
-aS"(5, u'\\\\b5 ?ct')"
+aS"(219, u'\\\\b5 ?ct')"
 p39
-aS"(27, u'\\\\bclozapine')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(1070, u'(?i)(pets|pet)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(6878, u'(?i)(guans|guan)')"
-p47
-aS"(163, u'(?i)(mice|mouse)')"
-p48
-aS"(479, u'(?i)(lings|ling)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(4371, u'(?i)(lizas|liza)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-aS"(1628, u'(?i)(cod|cod)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+((lp43
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p44
+atp45
+Rp46
 sb.

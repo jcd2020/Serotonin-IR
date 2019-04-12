@@ -34,82 +34,44 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht2a'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp25
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p26
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp28
+Rp29
 sS'year'
-p32
+p30
 V2006
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(158, u'\\\\blsd')"
 p34
-g3
-((lp35
-S"(56, u'\\\\blsd')"
-p36
-aS"(33, u'\\\\bdoi')"
-p37
-atp38
-Rp39
+aS"(175, u'\\\\bdoi')"
+p35
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(2323, u'(?i)(bees|bee)')"
+((lp39
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p40
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(3642, u'(?i)(lambs|lamb)')"
-p46
-aS"(4091, u'(?i)(adults|adult)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(3726, u'(?i)(mates|mate)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(7094, u'(?i)(curs|cur)')"
-p55
-aS"(5229, u'(?i)(moles|mole)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(3152, u'(?i)(layers|layer)')"
-p59
-aS"(821, u'(?i)(lice|louse)')"
-p60
-aS"(7552, u'(?i)(bats|bat)')"
-p61
-atp62
-Rp63
+atp43
+Rp44
 sb.

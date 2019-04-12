@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p30
 atp31
 Rp32
@@ -56,44 +56,16 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2323, u'(?i)(bees|bee)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p35
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p36
-aS"(5176, u'(?i)(tegs|teg)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(867, u'(?i)(tits|tit)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p39
-aS"(163, u'(?i)(mice|mouse)')"
-p40
-aS"(6682, u'(?i)(tera|teras)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(3152, u'(?i)(layers|layer)')"
-p45
-aS"(1054, u'(?i)(homoes|homo)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(1057, u'(?i)(humans|human)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(1628, u'(?i)(cod|cod)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+atp40
+Rp41
 sb.

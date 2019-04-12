@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(37, u'\\\\bsb ?216641')"
 p5
-aS"(43, u'\\\\bbrl ?15572')"
+aS"(41, u'\\\\bbrl ?15572')"
 p6
-aS"(38, u'\\\\bsb ?216641')"
+aS"(31, u'\\\\bway ?100635')"
 p7
 atp8
 Rp9
@@ -48,66 +48,36 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p29
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p30
-aS"(178, u'(?i)(laterals|lateral)(-|\\\\s+)?(nuclei|nucleus)')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
-p34
+p33
 V2005
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(108, u'\\\\bcp ?94253')"
+((lp36
+S"(101, u'\\\\bcp ?94253')"
+p37
+aS"(189, u'\\\\bethanol')"
 p38
-aS"(193, u'\\\\bethanol')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
+((lp42
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p43
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p44
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(5176, u'(?i)(tegs|teg)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(4091, u'(?i)(adults|adult)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(2334, u'(?i)(eels|eel)')"
-p54
-aS"(2942, u'(?i)(daws|daw)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(6391, u'(?i)(asses|ass)')"
-p58
-aS"(5743, u'(?i)(bots|bot)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-atp61
-Rp62
+atp46
+Rp47
 sb.

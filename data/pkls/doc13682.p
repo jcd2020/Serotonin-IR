@@ -52,14 +52,8 @@ sS'species'
 p31
 g3
 ((lp32
-S"(4979, u'(?i)(cats|cat)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p33
-aS"(2568, u'(?i)(hens|hen)')"
-p34
-aS"(6249, u'(?i)(ants|ant)')"
-p35
-aS"(163, u'(?i)(mice|mouse)')"
-p36
-atp37
-Rp38
+atp34
+Rp35
 sb.

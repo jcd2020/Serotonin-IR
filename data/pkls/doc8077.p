@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 aS"(16, u'\\\\bnad ?299')"
 p6
@@ -42,56 +42,28 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V1999
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p33
-atp34
-Rp35
+((lp31
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2670, u'(?i)(arabs|arab)')"
+((lp36
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+aS"(3636, u'(?i)\\\\b(martins|martin)\\\\b')"
 p38
-aS"(4301, u'(?i)(hydras|hydra)')"
-p39
-aS"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(3636, u'(?i)(martins|martin)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(3726, u'(?i)(mates|mate)')"
-p45
-aS"(7488, u'(?i)(molas|mola)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(3522, u'(?i)(tetras|tetra)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-atp53
-Rp54
+atp39
+Rp40
 sb.

@@ -40,9 +40,9 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(71, u'(?i)(cerebellums|cerebellum)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p25
-aS"(2, u'(?i)(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)')"
+aS"(2, u'(?i)\\\\b(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(196, u'\\\\bquipazine')"
+S"(192, u'\\\\bquipazine')"
 p33
 atp34
 Rp35
@@ -62,34 +62,12 @@ sS'species'
 p36
 g3
 ((lp37
-S"(1070, u'(?i)(pets|pet)')"
+S"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p39
-aS"(4201, u'(?i)(kines|kine)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(6215, u'(?i)(racers|racer)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(5917, u'(?i)(roaches|roach)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+atp41
+Rp42
 sb.

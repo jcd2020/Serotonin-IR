@@ -26,68 +26,34 @@ sS'receptors'
 p15
 g3
 ((lp16
-S'5ht5'
+S'5ht3'
 p17
-aS'5ht3'
-p18
-atp19
-Rp20
+atp18
+Rp19
 sS'regions'
-p21
+p20
 g3
-((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+((lp21
+tp22
+Rp23
 sS'year'
-p26
+p24
 V1997
-p27
+p25
 sS'agonists'
-p28
+p26
 g3
-((lp29
-tp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'species'
-p32
+p30
 g3
-((lp33
-S"(2323, u'(?i)(bees|bee)')"
-p34
-aS"(6753, u'(?i)(da|das)')"
-p35
-aS"(3015, u'(?i)(ferrets|ferret)')"
-p36
-aS"(7609, u'(?i)(erns|ern)')"
-p37
-aS"(4979, u'(?i)(cats|cat)')"
-p38
-aS"(479, u'(?i)(lings|ling)')"
-p39
-aS"(1725, u'(?i)(clams|clam)')"
-p40
-aS"(1349, u'(?i)(rams|ram)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(107, u'(?i)(stags|stag)')"
-p43
-aS"(853, u'(?i)(minas|mina)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(7610, u'(?i)(ernes|erne)')"
-p47
-aS"(3152, u'(?i)(layers|layer)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(1683, u'(?i)(terns|tern)')"
-p50
-atp51
-Rp52
+((lp31
+S"(3015, u'(?i)\\\\b(ferrets|ferret)\\\\b')"
+p32
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p33
+atp34
+Rp35
 sb.

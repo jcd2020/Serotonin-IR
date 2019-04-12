@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(156, u'\\\\brs ?39604')"
+S"(147, u'\\\\brs ?39604')"
 p5
 atp6
 Rp7
@@ -32,72 +32,46 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht1a'
 p20
 aS'5ht4'
 p21
 aS'5ht3'
 p22
-aS'5ht1a'
-p23
 aS'5ht1'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V2004
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(204, u'\\\\brs ?67506')"
 p34
-g3
-((lp35
-S"(208, u'\\\\brs ?67506')"
+aS"(205, u'\\\\brs ?67333')"
+p35
+aS"(149, u'\\\\bmem')"
 p36
-aS"(155, u'\\\\bmem')"
-p37
-aS"(209, u'\\\\brs ?67333')"
-p38
-atp39
-Rp40
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(5537, u'(?i)(hippos|hippo)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3247, u'(?i)(youngs|young)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(821, u'(?i)(lice|louse)')"
-p55
-atp56
-Rp57
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
+p42
+atp43
+Rp44
 sb.

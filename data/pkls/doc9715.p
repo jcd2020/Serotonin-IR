@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -48,54 +48,30 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+tp29
+Rp30
 sS'year'
-p32
+p31
 V1998
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-tp36
-Rp37
+((lp34
+tp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(2323, u'(?i)(bees|bee)')"
+((lp38
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p39
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p40
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(3592, u'(?i)\\\\b(ravens|raven)\\\\b')"
 p41
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(5967, u'(?i)(males|male)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3592, u'(?i)(ravens|raven)')"
-p48
-aS"(853, u'(?i)(minas|mina)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(4371, u'(?i)(lizas|liza)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-atp55
-Rp56
+atp43
+Rp44
 sb.

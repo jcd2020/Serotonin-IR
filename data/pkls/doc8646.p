@@ -8,86 +8,70 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(194, u'\\\\bmethysergide')"
 p6
-aS"(105, u'\\\\bmethysergide')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.STIMULATION'
-p12
+p11
 aS'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht1a'
-p22
+p21
 aS'5ht3'
-p23
+p22
 aS'5ht2'
-p24
+p23
 aS'5ht1'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+((lp28
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+p29
+aS"(6, u'(?i)\\\\b(rostrals|rostral)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)\\\\b')"
 p30
-aS"(6, u'(?i)(rostrals|rostral)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'year'
-p35
+p33
 V1989
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(53, u'\\\\bmethysergide')"
 p37
-g3
-((lp38
-S"(60, u'\\\\bmethysergide')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6682, u'(?i)(tera|teras)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(4964, u'(?i)(serins|serin)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+((lp41
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

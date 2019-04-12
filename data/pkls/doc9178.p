@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(198, u'\\\\bsr ?57227')"
+S"(194, u'\\\\bsr ?57227')"
 p32
 atp33
 Rp34
@@ -60,26 +60,12 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2323, u'(?i)(bees|bee)')"
+S"(5685, u'(?i)\\\\b(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)\\\\b')"
 p37
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p38
-aS"(1725, u'(?i)(clams|clam)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(7094, u'(?i)(curs|cur)')"
-p42
-aS"(1057, u'(?i)(humans|human)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(3196, u'(?i)(human|humans)')"
-p45
-aS"(5685, u'(?i)(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)')"
-p46
-atp47
-Rp48
+atp40
+Rp41
 sb.

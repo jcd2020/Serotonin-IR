@@ -28,86 +28,50 @@ g3
 ((lp16
 S'5ht1b'
 p17
-aS'5ht5'
+aS'5ht1a'
 p18
 aS'5ht4'
 p19
-aS'5ht1a'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+((lp23
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p24
+aS"(118, u'(?i)\\\\b(diencephalons|diencephalon)\\\\b')"
 p25
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p27
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p28
-aS"(118, u'(?i)(diencephalons|diencephalon)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p29
-aS"(220, u'(?i)(striatums|striatum)')"
-p30
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p31
-atp32
-Rp33
+atp30
+Rp31
 sS'year'
-p34
+p32
 V1996
-p35
+p33
 sS'agonists'
-p36
+p34
 g3
-((lp37
-tp38
-Rp39
+((lp35
+tp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(4624, u'(?i)(apes|ape)')"
+((lp39
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p40
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(7609, u'(?i)(erns|ern)')"
-p46
-aS"(867, u'(?i)(tits|tit)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(1054, u'(?i)(homoes|homo)')"
-p51
-aS"(853, u'(?i)(minas|mina)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(7058, u'(?i)(does|doe)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(6325, u'(?i)(caudates|caudate)')"
-p58
-aS"(5743, u'(?i)(bots|bot)')"
-p59
-aS"(1683, u'(?i)(terns|tern)')"
-p60
-atp61
-Rp62
+atp43
+Rp44
 sb.

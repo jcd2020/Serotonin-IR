@@ -22,19 +22,19 @@ sS'topics'
 p12
 g3
 ((lp13
-S"(16, u'\\\\bfeed')"
+S"(36, u'\\\\bcompulsiv')"
 p14
-aS"(4, u'\\\\blocomot')"
+aS"(16, u'\\\\bfeed')"
 p15
-atp16
-Rp17
+aS"(4, u'\\\\blocomot')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
-S'5ht5'
-p20
-aS'5ht1a'
+((lp20
+S'5ht1a'
 p21
 atp22
 Rp23
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p32
 atp33
 Rp34
@@ -60,34 +60,12 @@ sS'species'
 p35
 g3
 ((lp36
-S"(1070, u'(?i)(pets|pet)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p38
-aS"(2389, u'(?i)(spats|spat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5967, u'(?i)(males|male)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(3522, u'(?i)(tetras|tetra)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(7058, u'(?i)(does|doe)')"
-p50
-atp51
-Rp52
+atp40
+Rp41
 sb.

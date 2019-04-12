@@ -8,17 +8,17 @@ c__builtin__
 set
 p3
 ((lp4
-S"(49, u'\\\\bly ?456220')"
+S"(44, u'\\\\bly ?310762')"
 p5
-aS"(48, u'\\\\bly ?456219')"
+aS"(46, u'\\\\bly ?456219')"
 p6
-aS"(102, u'\\\\bfluoxetine')"
+aS"(38, u'\\\\bsb ?224289')"
 p7
-aS"(39, u'\\\\bsb ?224289')"
+aS"(45, u'\\\\bly ?367642')"
 p8
-aS"(46, u'\\\\bly ?310762')"
+aS"(91, u'\\\\bfluoxetine')"
 p9
-aS"(47, u'\\\\bly ?367642')"
+aS"(47, u'\\\\bly ?456220')"
 p10
 atp11
 Rp12
@@ -52,7 +52,7 @@ sS'regions'
 p29
 g3
 ((lp30
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p31
 atp32
 Rp33
@@ -64,7 +64,7 @@ sS'agonists'
 p36
 g3
 ((lp37
-S"(123, u'\\\\bl ?772405')"
+S"(116, u'\\\\bl ?772405')"
 p38
 atp39
 Rp40
@@ -72,30 +72,12 @@ sS'species'
 p41
 g3
 ((lp42
-S"(4624, u'(?i)(apes|ape)')"
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p43
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p44
-aS"(6682, u'(?i)(tera|teras)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p45
-aS"(3051, u'(?i)(pigs|pig)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(3062, u'(?i)(guineas|guinea)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(3522, u'(?i)(tetras|tetra)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p53
-aS"(821, u'(?i)(lice|louse)')"
-p54
-atp55
-Rp56
+atp46
+Rp47
 sb.

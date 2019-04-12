@@ -42,44 +42,30 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(7, u'(?i)(caudals|caudal)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)')"
+S"(7, u'(?i)\\\\b(caudals|caudal)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)\\\\b')"
 p26
-aS"(6, u'(?i)(rostrals|rostral)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)')"
+aS"(6, u'(?i)\\\\b(rostrals|rostral)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)\\\\b')"
 p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V1997
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
+((lp33
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(3522, u'(?i)(tetras|tetra)')"
-p46
-atp47
-Rp48
+((lp38
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

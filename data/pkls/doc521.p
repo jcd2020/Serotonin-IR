@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(58, u'\\\\bhaloperidol')"
 p5
 atp6
 Rp7
@@ -42,9 +42,9 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p26
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,11 +56,11 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(151, u'\\\\bly ?266097')"
+S"(145, u'\\\\bly ?266097')"
 p34
-aS"(48, u'\\\\bhaloperidol')"
+aS"(11, u'\\\\bamphetamine')"
 p35
-aS"(14, u'\\\\bamphetamine')"
+aS"(43, u'\\\\bhaloperidol')"
 p36
 atp37
 Rp38
@@ -68,34 +68,12 @@ sS'species'
 p39
 g3
 ((lp40
-S"(2568, u'(?i)(hens|hen)')"
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p41
-aS"(867, u'(?i)(tits|tit)')"
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(7539, u'(?i)(mammals|mammal)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(2183, u'(?i)(gars|gar)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(3522, u'(?i)(tetras|tetra)')"
-p51
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-atp55
-Rp56
+atp44
+Rp45
 sb.

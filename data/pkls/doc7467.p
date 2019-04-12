@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p24
 atp25
 Rp26
@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(24, u'\\\\bbuspirone')"
+S"(20, u'\\\\bbuspirone')"
 p31
 atp32
 Rp33
@@ -58,24 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5958, u'(?i)(rats|rat)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(6125, u'(?i)(females|female)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(5967, u'(?i)(males|male)')"
-p40
-aS"(4163, u'(?i)(ermines|ermine)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-atp45
-Rp46
+atp38
+Rp39
 sb.

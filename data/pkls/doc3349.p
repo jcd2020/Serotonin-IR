@@ -8,112 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\britanserin')"
+S"(130, u'\\\\bzacopride')"
 p5
 aS"(21, u'\\\\bpindolol')"
 p6
-aS"(105, u'\\\\bmethysergide')"
+aS"(194, u'\\\\bmethysergide')"
 p7
-aS"(54, u'\\\\britanserin')"
+aS"(124, u'\\\\bondansetron')"
 p8
-aS"(134, u'\\\\bgranisetron')"
+aS"(123, u'\\\\bgranisetron')"
 p9
-aS"(135, u'\\\\bondansetron')"
+aS"(119, u'\\\\britanserin')"
 p10
-aS"(141, u'\\\\bzacopride')"
-p11
-atp12
-Rp13
+atp11
+Rp12
 sS'methods'
-p14
+p13
 g3
-((lp15
+((lp14
 S'Method.ANTAGONIST'
-p16
+p15
 aS'Method.AGONIST'
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'topics'
-p20
+p19
 g3
-((lp21
-tp22
-Rp23
+((lp20
+tp21
+Rp22
 sS'receptors'
-p24
+p23
 g3
-((lp25
+((lp24
 S'5ht1c'
-p26
+p25
 aS'5ht1b'
-p27
+p26
 aS'5ht1a'
-p28
+p27
 aS'5ht3'
-p29
+p28
 aS'5ht2'
-p30
+p29
 aS'5ht3a'
-p31
-atp32
-Rp33
+p30
+atp31
+Rp32
 sS'regions'
-p34
+p33
 g3
-((lp35
-S"(34, u'(?i)(pon|pons)')"
-p36
-atp37
-Rp38
+((lp34
+tp35
+Rp36
 sS'year'
-p39
+p37
 V1991
-p40
+p38
 sS'agonists'
+p39
+g3
+((lp40
+S"(208, u'\\\\bzacopride')"
 p41
-g3
-((lp42
-S"(195, u'\\\\bphenylbiguanide')"
+aS"(53, u'\\\\bmethysergide')"
+p42
+aS"(191, u'\\\\bphenylbiguanide')"
 p43
-aS"(212, u'\\\\bzacopride')"
-p44
-aS"(60, u'\\\\bmethysergide')"
-p45
-atp46
-Rp47
+atp44
+Rp45
 sS'species'
-p48
+p46
 g3
-((lp49
-S"(6753, u'(?i)(da|das)')"
-p50
-aS"(2568, u'(?i)(hens|hen)')"
-p51
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(479, u'(?i)(lings|ling)')"
-p55
-aS"(468, u'(?i)(oxen|ox)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(4964, u'(?i)(serins|serin)')"
-p59
-aS"(3550, u'(?i)(anis|ani)')"
-p60
-aS"(1961, u'(?i)(pens|pen)')"
-p61
-aS"(6356, u'(?i)(ais|ai)')"
-p62
-aS"(6878, u'(?i)(guans|guan)')"
-p63
-atp64
-Rp65
+((lp47
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

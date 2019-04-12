@@ -30,58 +30,32 @@ g3
 ((lp17
 S'5ht1b'
 p18
-aS'5ht5'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+((lp22
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p23
+atp24
+Rp25
 sS'year'
-p28
+p26
 V2014
-p29
+p27
 sS'agonists'
-p30
+p28
 g3
-((lp31
-tp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'species'
-p34
+p32
 g3
-((lp35
-S"(1688, u'(?i)(ounces|ounce)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(2665, u'(?i)(rays|ray)')"
-p41
-aS"(2334, u'(?i)(eels|eel)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(7127, u'(?i)(monitors|monitor)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(5949, u'(?i)(dogs|dog)')"
-p47
-atp48
-Rp49
+((lp33
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p34
+atp35
+Rp36
 sb.

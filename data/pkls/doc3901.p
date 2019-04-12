@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -36,74 +36,40 @@ g3
 ((lp20
 S'5ht1a'
 p21
-aS'5ht5'
-p22
 aS'5ht2a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+((lp26
+tp27
+Rp28
 sS'year'
-p31
+p29
 V2010
-p32
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p33
-g3
-((lp34
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p35
-aS"(33, u'\\\\bdoi')"
-p36
-atp37
-Rp38
+aS"(175, u'\\\\bdoi')"
+p34
+atp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(2054, u'(?i)(heads|head)')"
+((lp38
+S"(5686, u'(?i)\\\\b(foxes|fox)\\\\b')"
+p39
+aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+p40
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(702, u'(?i)(genets|genet)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(5967, u'(?i)(males|male)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(3522, u'(?i)(tetras|tetra)')"
-p54
-aS"(5917, u'(?i)(roaches|roach)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(5686, u'(?i)(foxes|fox)')"
-p58
-atp59
-Rp60
+atp42
+Rp43
 sb.

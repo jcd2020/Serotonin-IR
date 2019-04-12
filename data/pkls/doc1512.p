@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(27, u'\\\\bspiperone')"
+S"(26, u'\\\\bspiperone')"
 p5
 atp6
 Rp7
@@ -42,48 +42,32 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V1991
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp31
+S"(20, u'\\\\bbuspirone')"
+p32
+aS"(149, u'\\\\bmem')"
 p33
-aS"(24, u'\\\\bbuspirone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p34
-aS"(193, u'\\\\bethanol')"
+aS"(189, u'\\\\bethanol')"
 p35
-aS"(155, u'\\\\bmem')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(6857, u'(?i)(ormers|ormer)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(2327, u'(?i)(bovines|bovine)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-atp49
-Rp50
+((lp39
+S"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
+p40
+atp41
+Rp42
 sb.

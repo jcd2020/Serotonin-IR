@@ -36,13 +36,13 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p23
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
+aS"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p25
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,26 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(5958, u'(?i)(rats|rat)')"
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p37
-aS"(4694, u'(?i)(gnus|gnu)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(4177, u'(?i)(grays|gray)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(2665, u'(?i)(rays|ray)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-atp47
-Rp48
+atp39
+Rp40
 sb.

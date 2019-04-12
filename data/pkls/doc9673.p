@@ -46,11 +46,11 @@ sS'agonists'
 p27
 g3
 ((lp28
-S"(47, u'\\\\bgepirone')"
+S"(20, u'\\\\bbuspirone')"
 p29
-aS"(24, u'\\\\bbuspirone')"
+aS"(149, u'\\\\bmem')"
 p30
-aS"(155, u'\\\\bmem')"
+aS"(42, u'\\\\bgepirone')"
 p31
 atp32
 Rp33
@@ -58,26 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(3550, u'(?i)(anis|ani)')"
-p42
-aS"(3522, u'(?i)(tetras|tetra)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(6878, u'(?i)(guans|guan)')"
-p45
-atp46
-Rp47
+atp37
+Rp38
 sb.

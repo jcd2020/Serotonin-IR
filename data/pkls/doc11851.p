@@ -44,60 +44,34 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V1991
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp33
+S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+p34
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p35
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(6753, u'(?i)(da|das)')"
+((lp39
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p40
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p41
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(3051, u'(?i)(pigs|pig)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(3062, u'(?i)(guineas|guinea)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(2334, u'(?i)(eels|eel)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(3522, u'(?i)(tetras|tetra)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(1349, u'(?i)(rams|ram)')"
-p53
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+atp43
+Rp44
 sb.

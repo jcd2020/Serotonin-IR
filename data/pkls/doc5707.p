@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(114, u'\\\\bimipramine')"
+S"(104, u'\\\\bimipramine')"
 p5
-aS"(34, u'\\\\byohimbine')"
+aS"(33, u'\\\\byohimbine')"
 p6
 atp7
 Rp8
@@ -36,70 +36,38 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht5'
+S'5ht2c'
 p22
-aS'5ht2c'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+((lp26
+tp27
+Rp28
 sS'year'
-p31
+p29
 V2015
-p32
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(149, u'\\\\bmem')"
 p33
-g3
-((lp34
-S"(89, u'\\\\byohimbine')"
-p35
-aS"(155, u'\\\\bmem')"
-p36
-atp37
-Rp38
+aS"(82, u'\\\\byohimbine')"
+p34
+atp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(5537, u'(?i)(hippos|hippo)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(1667, u'(?i)(polyps|polyp)')"
-p44
-aS"(5229, u'(?i)(moles|mole)')"
-p45
-aS"(5176, u'(?i)(tegs|teg)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(4091, u'(?i)(adults|adult)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(2665, u'(?i)(rays|ray)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(3534, u'(?i)(scads|scad)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(1349, u'(?i)(rams|ram)')"
-p55
-aS"(2809, u'(?i)(toms|tom)')"
-p56
-atp57
-Rp58
+((lp38
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p39
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

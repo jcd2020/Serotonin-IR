@@ -60,34 +60,12 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2568, u'(?i)(hens|hen)')"
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p38
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p39
-aS"(867, u'(?i)(tits|tit)')"
-p40
-aS"(3051, u'(?i)(pigs|pig)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(3062, u'(?i)(guineas|guinea)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(3522, u'(?i)(tetras|tetra)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p49
-aS"(1683, u'(?i)(terns|tern)')"
-p50
-atp51
-Rp52
+atp40
+Rp41
 sb.

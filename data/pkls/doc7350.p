@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(52, u'\\\\bmdl ?100907')"
 p6
 atp7
 Rp8
@@ -36,70 +36,42 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht5'
+S'5ht1a'
 p22
-aS'5ht1a'
-p23
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-tp29
-Rp30
+((lp27
+tp28
+Rp29
 sS'year'
-p31
+p30
 V2013
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp33
+S"(176, u'\\\\bdom')"
+p34
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p35
-aS"(181, u'\\\\bdom')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(5967, u'(?i)(males|male)')"
+((lp39
+S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
+p40
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(2401, u'(?i)(primates|primate)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(3726, u'(?i)(mates|mate)')"
-p49
-aS"(2942, u'(?i)(daws|daw)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1057, u'(?i)(humans|human)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(3196, u'(?i)(human|humans)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-atp57
-Rp58
+atp43
+Rp44
 sb.

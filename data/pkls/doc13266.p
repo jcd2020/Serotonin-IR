@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(153, u'\\\\bgr ?113808')"
+S"(144, u'\\\\bgr ?113808')"
 p5
 atp6
 Rp7
@@ -40,44 +40,32 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1993
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp34
+S"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p35
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p36
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p37
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p38
-aS"(3062, u'(?i)(guineas|guinea)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(1057, u'(?i)(humans|human)')"
-p41
-aS"(6391, u'(?i)(asses|ass)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(3196, u'(?i)(human|humans)')"
-p44
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p45
-atp46
-Rp47
+atp40
+Rp41
 sb.

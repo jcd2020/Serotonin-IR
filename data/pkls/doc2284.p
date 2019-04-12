@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(139, u'\\\\bmetoclopramide')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
 atp6
 Rp7
@@ -38,13 +38,13 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p24
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p25
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(213, u'\\\\bmetoclopramide')"
+S"(209, u'\\\\bmetoclopramide')"
 p34
 atp35
 Rp36
@@ -64,28 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(1349, u'(?i)(rams|ram)')"
-p43
-aS"(1054, u'(?i)(homoes|homo)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(4371, u'(?i)(lizas|liza)')"
-p47
-aS"(1414, u'(?i)(chars|char)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+atp40
+Rp41
 sb.

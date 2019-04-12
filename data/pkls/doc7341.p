@@ -36,56 +36,30 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p23
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2012
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(24, u'\\\\bbuspirone')"
-p32
-atp33
-Rp34
+((lp30
+S"(20, u'\\\\bbuspirone')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(1628, u'(?i)(cod|cod)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(4201, u'(?i)(kines|kine)')"
-p39
-aS"(479, u'(?i)(lings|ling)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(5917, u'(?i)(roaches|roach)')"
-p45
-aS"(1414, u'(?i)(chars|char)')"
-p46
-aS"(2809, u'(?i)(toms|tom)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-atp50
-Rp51
+((lp35
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

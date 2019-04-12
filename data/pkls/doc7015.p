@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(105, u'\\\\bmethysergide')"
+S"(194, u'\\\\bmethysergide')"
 p5
 atp6
 Rp7
@@ -42,46 +42,28 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V1995
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(60, u'\\\\bmethysergide')"
-p34
-atp35
-Rp36
+((lp32
+S"(53, u'\\\\bmethysergide')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1349, u'(?i)(rams|ram)')"
-p41
-aS"(853, u'(?i)(minas|mina)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(1961, u'(?i)(pens|pen)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(5949, u'(?i)(dogs|dog)')"
-p47
-atp48
-Rp49
+((lp37
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

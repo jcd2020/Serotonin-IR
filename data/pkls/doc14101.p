@@ -8,118 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
-aS"(56, u'\\\\bclozapine')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.AGONIST'
-p12
+p11
 aS'Method.IMMUNOHISTOCHEMISTRY'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
-S'5ht5'
-p22
-aS'5ht2c'
-p23
+((lp20
+S'5ht2c'
+p21
 aS'5ht2'
-p24
+p22
 aS'5ht2a'
-p25
-atp26
-Rp27
+p23
+atp24
+Rp25
 sS'regions'
+p26
+g3
+((lp27
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p28
-g3
-((lp29
-S"(220, u'(?i)(striatums|striatum)')"
-p30
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p35
+p32
 V2010
-p36
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(175, u'\\\\bdoi')"
+p36
+aS"(23, u'\\\\bclozapine')"
 p37
-g3
-((lp38
-S"(33, u'\\\\bdoi')"
-p39
-aS"(48, u'\\\\bhaloperidol')"
-p40
-aS"(27, u'\\\\bclozapine')"
-p41
-atp42
-Rp43
+aS"(43, u'\\\\bhaloperidol')"
+p38
+atp39
+Rp40
 sS'species'
-p44
+p41
 g3
-((lp45
-S"(2323, u'(?i)(bees|bee)')"
-p46
-aS"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(6125, u'(?i)(females|female)')"
-p48
-aS"(7609, u'(?i)(erns|ern)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(5967, u'(?i)(males|male)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(3726, u'(?i)(mates|mate)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(5958, u'(?i)(rats|rat)')"
-p58
-aS"(6391, u'(?i)(asses|ass)')"
-p59
-aS"(3722, u'(?i)(pups|pup)')"
-p60
-aS"(3431, u'(?i)(roans|roan)')"
-p61
-aS"(6356, u'(?i)(ais|ai)')"
-p62
-aS"(2809, u'(?i)(toms|tom)')"
-p63
-aS"(5743, u'(?i)(bots|bot)')"
-p64
-aS"(1683, u'(?i)(terns|tern)')"
-p65
-aS"(5497, u'(?i)(fices|fice)')"
-p66
-atp67
-Rp68
+((lp42
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
+p44
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+p45
+atp46
+Rp47
 sb.

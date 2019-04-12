@@ -28,62 +28,44 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht2c'
 p18
-aS'5ht2c'
-p19
 aS'5ht2'
-p20
+p19
 aS'5ht2a'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(220, u'(?i)(striatums|striatum)')"
+((lp24
+S"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
+p25
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p26
-aS"(221, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V1999
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(33, u'\\\\bdoi')"
-p34
-atp35
-Rp36
+((lp32
+S"(175, u'\\\\bdoi')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(5958, u'(?i)(rats|rat)')"
+((lp37
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(6682, u'(?i)(tera|teras)')"
-p41
-aS"(81, u'(?i)(asps|asp)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-atp49
-Rp50
+atp40
+Rp41
 sb.

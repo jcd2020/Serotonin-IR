@@ -48,52 +48,24 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+tp29
+Rp30
 sS'year'
-p32
+p31
 V2016
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(22, u'\\\\bbrexpiprazole')"
-p36
-atp37
-Rp38
+((lp34
+S"(18, u'\\\\bbrexpiprazole')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(1070, u'(?i)(pets|pet)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(867, u'(?i)(tits|tit)')"
-p43
-aS"(2431, u'(?i)(rheas|rhea)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(2809, u'(?i)(toms|tom)')"
-p53
-atp54
-Rp55
+((lp39
+tp40
+Rp41
 sb.

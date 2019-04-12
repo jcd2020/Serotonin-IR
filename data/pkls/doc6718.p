@@ -30,62 +30,46 @@ g3
 ((lp17
 S'5ht1a'
 p18
-aS'5ht5'
-p19
 aS'5ht2'
-p20
+p19
 aS'5ht2a'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(75, u'(?i)(posteriors|posterior)(-|\\\\s+)?(lobes|lobe)')"
+((lp24
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p25
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p26
-aS"(74, u'(?i)(anteriors|anterior)(-|\\\\s+)?(lobes|lobe)')"
+aS"(75, u'(?i)\\\\b(posteriors|posterior)(-|\\\\s+)?(lobes|lobe)\\\\b')"
 p27
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(74, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(lobes|lobe)\\\\b')"
 p28
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2004
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp34
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p35
+aS"(175, u'\\\\bdoi')"
 p36
-aS"(33, u'\\\\bdoi')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(5626, u'(?i)(posters|poster)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-atp50
-Rp51
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(83, u'\\\\bcariprazine')"
+S"(35, u'\\\\baripiprazole')"
 p5
-aS"(36, u'\\\\baripiprazole')"
+aS"(74, u'\\\\bcariprazine')"
 p6
 atp7
 Rp8
@@ -34,72 +34,48 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht1a'
 p21
 aS'5ht2c'
 p22
-aS'5ht1a'
-p23
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-tp29
-Rp30
+((lp27
+tp28
+Rp29
 sS'year'
-p31
+p30
 V2010
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(16, u'\\\\baripiprazole')"
+((lp33
+S"(223, u'\\\\baripiprazole')"
+p34
+aS"(22, u'\\\\bcariprazine')"
 p35
-aS"(26, u'\\\\bcariprazine')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(4624, u'(?i)(apes|ape)')"
+((lp39
+S"(7003, u'(?i)\\\\b(murines|murine)\\\\b')"
+p40
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p42
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3726, u'(?i)(mates|mate)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(3522, u'(?i)(tetras|tetra)')"
-p52
-aS"(1057, u'(?i)(humans|human)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(3196, u'(?i)(human|humans)')"
-p55
-aS"(7003, u'(?i)(murines|murine)')"
-p56
-atp57
-Rp58
+atp45
+Rp46
 sb.

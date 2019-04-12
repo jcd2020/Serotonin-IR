@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
+S"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,9 +54,9 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(195, u'\\\\bphenylbiguanide')"
+S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p33
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+aS"(191, u'\\\\bphenylbiguanide')"
 p34
 atp35
 Rp36
@@ -64,36 +64,10 @@ sS'species'
 p37
 g3
 ((lp38
-S"(1869, u'(?i)(millers|miller)')"
+S"(1869, u'(?i)\\\\b(millers|miller)\\\\b')"
 p39
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p42
-aS"(6878, u'(?i)(guans|guan)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(6981, u'(?i)(moths|moth)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(5175, u'(?i)(swallows|swallow)')"
-p52
-aS"(2809, u'(?i)(toms|tom)')"
-p53
-atp54
-Rp55
+atp41
+Rp42
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bsdz ?216525')"
+S"(25, u'\\\\bsdz ?216525')"
 p5
 atp6
 Rp7
@@ -32,48 +32,34 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht1a'
 p20
-aS'5ht1a'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-tp26
-Rp27
+((lp24
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1995
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p32
-atp33
-Rp34
+((lp30
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(4624, u'(?i)(apes|ape)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(4462, u'(?i)(monals|monal)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(2809, u'(?i)(toms|tom)')"
-p43
-atp44
-Rp45
+((lp35
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

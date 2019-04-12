@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(58, u'\\\\bhaloperidol')"
 p5
 atp6
 Rp7
@@ -38,84 +38,52 @@ g3
 ((lp21
 S'5ht1b'
 p22
-aS'5ht5'
-p23
 aS'5ht1a'
-p24
+p23
 aS'5ht2'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(220, u'(?i)(striatums|striatum)')"
+((lp28
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p29
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p30
-aS"(104, u'(?i)(par|pars)(-|\\\\s+)?(compactas|compacta)')"
+aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
 p31
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V1992
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(11, u'\\\\bamphetamine')"
 p38
-g3
-((lp39
-S"(48, u'\\\\bhaloperidol')"
-p40
-aS"(14, u'\\\\bamphetamine')"
-p41
-atp42
-Rp43
+aS"(43, u'\\\\bhaloperidol')"
+p39
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(5969, u'(?i)(pugs|pug)')"
+((lp43
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p44
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p45
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p46
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p47
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(163, u'(?i)(mice|mouse)')"
-p51
-aS"(6753, u'(?i)(da|das)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1349, u'(?i)(rams|ram)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(3550, u'(?i)(anis|ani)')"
-p58
-aS"(7094, u'(?i)(curs|cur)')"
-p59
-aS"(4371, u'(?i)(lizas|liza)')"
-p60
-aS"(1414, u'(?i)(chars|char)')"
-p61
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p62
-aS"(5743, u'(?i)(bots|bot)')"
-p63
-aS"(4979, u'(?i)(cats|cat)')"
-p64
-atp65
-Rp66
+atp49
+Rp50
 sb.

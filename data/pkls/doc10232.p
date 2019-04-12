@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bmianserin')"
+S"(133, u'\\\\bmianserin')"
 p5
 atp6
 Rp7
@@ -32,72 +32,48 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2c'
 p20
-aS'5ht2c'
-p21
 aS'5ht2'
-p22
+p21
 aS'5ht2a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(220, u'(?i)(striatums|striatum)')"
+((lp26
+S"(390, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)\\\\b')"
+p27
+aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
 p28
-aS"(390, u'(?i)(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p29
-aS"(222, u'(?i)(neostriatums|neostriatum)')"
+aS"(222, u'(?i)\\\\b(neostriatums|neostriatum)\\\\b')"
 p30
-aS"(225, u'(?i)(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'year'
-p35
+p33
 V1995
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(155, u'\\\\bmcpp')"
 p37
-g3
-((lp38
-S"(161, u'\\\\bmcpp')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(6753, u'(?i)(da|das)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1349, u'(?i)(rams|ram)')"
-p51
-aS"(4964, u'(?i)(serins|serin)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(7094, u'(?i)(curs|cur)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-atp56
-Rp57
+((lp41
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

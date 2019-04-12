@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -60,38 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(1070, u'(?i)(pets|pet)')"
+S"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p37
-aS"(2323, u'(?i)(bees|bee)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(867, u'(?i)(tits|tit)')"
-p41
-aS"(163, u'(?i)(mice|mouse)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(3404, u'(?i)(titis|titi)')"
-p45
-aS"(853, u'(?i)(minas|mina)')"
-p46
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(6878, u'(?i)(guans|guan)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+atp39
+Rp40
 sb.

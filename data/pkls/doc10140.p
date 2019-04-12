@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(203, u'\\\\btfmpp')"
 p5
 atp6
 Rp7
@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(183, u'\\\\btfmpp')"
+S"(178, u'\\\\btfmpp')"
 p32
 atp33
 Rp34
@@ -60,22 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2568, u'(?i)(hens|hen)')"
+S"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p37
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(853, u'(?i)(minas|mina)')"
-p41
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-atp45
-Rp46
+atp39
+Rp40
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
 atp6
 Rp7
@@ -34,78 +34,42 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht3'
 p21
-aS'5ht3'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(220, u'(?i)(striatums|striatum)')"
+((lp25
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p26
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p27
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2015
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+tp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(2323, u'(?i)(bees|bee)')"
+((lp37
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p39
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p42
-aS"(6878, u'(?i)(guans|guan)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(4163, u'(?i)(ermines|ermine)')"
-p46
-aS"(4091, u'(?i)(adults|adult)')"
-p47
-aS"(5967, u'(?i)(males|male)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(3726, u'(?i)(mates|mate)')"
-p51
-aS"(107, u'(?i)(stags|stag)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(7094, u'(?i)(curs|cur)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(6580, u'(?i)(dams|dam)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-atp60
-Rp61
+atp42
+Rp43
 sb.

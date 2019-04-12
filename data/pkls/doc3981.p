@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -32,68 +32,42 @@ g3
 ((lp18
 S'5ht1a'
 p19
-aS'5ht5'
-p20
 aS'5ht2c'
-p21
+p20
 aS'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+((lp25
+tp26
+Rp27
 sS'year'
-p30
+p28
 V2010
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p32
-g3
-((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p34
-aS"(33, u'\\\\bdoi')"
-p35
-atp36
-Rp37
+aS"(175, u'\\\\bdoi')"
+p33
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(2054, u'(?i)(heads|head)')"
+((lp37
+S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+aS"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(867, u'(?i)(tits|tit)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(3522, u'(?i)(tetras|tetra)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(5568, u'(?i)(hakes|hake)')"
-p52
-aS"(7127, u'(?i)(monitors|monitor)')"
-p53
-atp54
-Rp55
+atp41
+Rp42
 sb.

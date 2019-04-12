@@ -10,98 +10,70 @@ p3
 ((lp4
 S"(1, u'\\\\balprenolol')"
 p5
-aS"(135, u'\\\\bondansetron')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(123, u'\\\\bclozapine')"
+aS"(124, u'\\\\bondansetron')"
 p7
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(52, u'\\\\bmdl ?100907')"
 p8
-aS"(56, u'\\\\bclozapine')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(15, u'\\\\bschizophreni')"
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
-S'5ht5'
-p24
-aS'5ht3'
-p25
+((lp22
+S'5ht3'
+p23
 aS'5ht2'
-p26
+p24
 aS'5ht1'
-p27
-atp28
-Rp29
+p25
+atp26
+Rp27
 sS'regions'
-p30
+p28
 g3
-((lp31
-S"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+((lp29
+tp30
+Rp31
 sS'year'
-p35
+p32
 V1997
-p36
+p33
 sS'agonists'
-p37
+p34
 g3
-((lp38
-S"(27, u'\\\\bclozapine')"
-p39
-atp40
-Rp41
+((lp35
+S"(23, u'\\\\bclozapine')"
+p36
+atp37
+Rp38
 sS'species'
-p42
+p39
 g3
-((lp43
-S"(1070, u'(?i)(pets|pet)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(867, u'(?i)(tits|tit)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(3404, u'(?i)(titis|titi)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(1057, u'(?i)(humans|human)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(3196, u'(?i)(human|humans)')"
-p55
-aS"(2809, u'(?i)(toms|tom)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+((lp40
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p43
+atp44
+Rp45
 sb.

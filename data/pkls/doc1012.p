@@ -8,118 +8,84 @@ c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\britanserin')"
+S"(1, u'\\\\balprenolol')"
 p5
-aS"(85, u'\\\\blisuride')"
-p6
-aS"(1, u'\\\\balprenolol')"
-p7
-aS"(135, u'\\\\bondansetron')"
-p8
 aS"(4, u'\\\\bbmy ?7378')"
+p6
+aS"(203, u'\\\\btfmpp')"
+p7
+aS"(124, u'\\\\bondansetron')"
+p8
+aS"(76, u'\\\\blisuride')"
 p9
-aS"(209, u'\\\\btfmpp')"
+aS"(119, u'\\\\britanserin')"
 p10
-aS"(54, u'\\\\britanserin')"
-p11
-atp12
-Rp13
+atp11
+Rp12
 sS'methods'
-p14
+p13
 g3
-((lp15
+((lp14
 S'Method.ANTAGONIST'
-p16
+p15
 aS'Method.AGONIST'
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'topics'
-p20
+p19
 g3
-((lp21
-tp22
-Rp23
+((lp20
+tp21
+Rp22
 sS'receptors'
-p24
+p23
 g3
-((lp25
+((lp24
 S'5ht1c'
-p26
+p25
 aS'5ht1b'
-p27
+p26
 aS'5ht1a'
-p28
+p27
 aS'5ht3a'
-p29
+p28
 aS'5ht2a'
-p30
-aS'5ht5'
-p31
-atp32
-Rp33
+p29
+atp30
+Rp31
 sS'regions'
-p34
+p32
 g3
-((lp35
-S"(34, u'(?i)(pon|pons)')"
-p36
-atp37
-Rp38
+((lp33
+tp34
+Rp35
 sS'year'
-p39
+p36
 V1993
-p40
+p37
 sS'agonists'
+p38
+g3
+((lp39
+S"(179, u'\\\\b5 ?meo ?dmt')"
+p40
+aS"(137, u'\\\\blisuride')"
 p41
-g3
-((lp42
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(178, u'\\\\btfmpp')"
+p42
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p43
-aS"(8, u'\\\\b5 ?meo ?dmt')"
+aS"(175, u'\\\\bdoi')"
 p44
-aS"(183, u'\\\\btfmpp')"
-p45
-aS"(52, u'\\\\blisuride')"
-p46
-aS"(33, u'\\\\bdoi')"
-p47
-atp48
-Rp49
+atp45
+Rp46
 sS'species'
-p50
+p47
 g3
-((lp51
-S"(6753, u'(?i)(da|das)')"
-p52
-aS"(2568, u'(?i)(hens|hen)')"
-p53
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-aS"(468, u'(?i)(oxen|ox)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(4964, u'(?i)(serins|serin)')"
-p59
-aS"(3550, u'(?i)(anis|ani)')"
-p60
-aS"(3522, u'(?i)(tetras|tetra)')"
-p61
-aS"(1961, u'(?i)(pens|pen)')"
-p62
-aS"(3812, u'(?i)(studs|stud)')"
-p63
-aS"(6391, u'(?i)(asses|ass)')"
-p64
-aS"(6878, u'(?i)(guans|guan)')"
-p65
-aS"(6356, u'(?i)(ais|ai)')"
-p66
-atp67
-Rp68
+((lp48
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

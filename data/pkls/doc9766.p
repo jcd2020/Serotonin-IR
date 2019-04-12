@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(29, u'\\\\bspiroxatrine')"
+S"(133, u'\\\\bmianserin')"
 p5
-aS"(67, u'\\\\bhaloperidol')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
-aS"(105, u'\\\\bmethysergide')"
+aS"(194, u'\\\\bmethysergide')"
 p7
-aS"(117, u'\\\\bmianserin')"
+aS"(28, u'\\\\bspiroxatrine')"
 p8
 aS"(22, u'\\\\bpropranolol')"
 p9
@@ -54,46 +54,36 @@ sS'regions'
 p30
 g3
 ((lp31
-S"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+tp32
+Rp33
 sS'year'
-p35
+p34
 V1991
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(74, u'\\\\bru ?24969')"
+((lp37
+S"(20, u'\\\\bbuspirone')"
+p38
+aS"(53, u'\\\\bmethysergide')"
 p39
-aS"(48, u'\\\\bhaloperidol')"
+aS"(67, u'\\\\bru ?24969')"
 p40
-aS"(24, u'\\\\bbuspirone')"
+aS"(43, u'\\\\bhaloperidol')"
 p41
-aS"(60, u'\\\\bmethysergide')"
+aS"(45, u'\\\\bipsapirone')"
 p42
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p43
-aS"(50, u'\\\\bipsapirone')"
-p44
-atp45
-Rp46
+atp44
+Rp45
 sS'species'
-p47
+p46
 g3
-((lp48
-S"(1054, u'(?i)(homoes|homo)')"
-p49
-aS"(4964, u'(?i)(serins|serin)')"
-p50
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-atp54
-Rp55
+((lp47
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+p48
+atp49
+Rp50
 sb.

@@ -8,130 +8,84 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(203, u'\\\\btfmpp')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(31, u'\\\\bway ?100635')"
 p6
-aS"(54, u'\\\\britanserin')"
+aS"(119, u'\\\\britanserin')"
 p7
-aS"(130, u'\\\\britanserin')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.STIMULATION'
-p13
+p12
 aS'Method.KNOCKOUT'
-p14
+p13
 aS'Method.ANTAGONIST'
-p15
+p14
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
-tp21
-Rp22
+((lp19
+tp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht7'
-p25
+p24
 aS'5ht1b'
-p26
-aS'5ht5'
-p27
+p25
 aS'5ht1a'
-p28
+p26
 aS'5ht2'
-p29
-atp30
-Rp31
+p27
+atp28
+Rp29
 sS'regions'
+p30
+g3
+((lp31
+S"(359, u'(?i)\\\\b(retinohypothalamics|retinohypothalamic)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p32
-g3
-((lp33
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p34
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p35
-aS"(359, u'(?i)(retinohypothalamics|retinohypothalamic)(-|\\\\s+)?(tracts|tract)')"
-p36
-aS"(34, u'(?i)(pon|pons)')"
-p37
-atp38
-Rp39
+aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p33
+atp34
+Rp35
 sS'year'
-p40
+p36
 V2001
-p41
+p37
 sS'agonists'
-p42
+p38
 g3
-((lp43
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p44
-aS"(183, u'\\\\btfmpp')"
-p45
-atp46
-Rp47
+((lp39
+S"(178, u'\\\\btfmpp')"
+p40
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p41
+atp42
+Rp43
 sS'species'
-p48
+p44
 g3
-((lp49
-S"(5967, u'(?i)(males|male)')"
-p50
-aS"(1686, u'(?i)(gibs|gib)')"
-p51
-aS"(7094, u'(?i)(curs|cur)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(7539, u'(?i)(mammals|mammal)')"
-p57
-aS"(1725, u'(?i)(clams|clam)')"
-p58
-aS"(468, u'(?i)(oxen|ox)')"
-p59
-aS"(5743, u'(?i)(bots|bot)')"
-p60
-aS"(3550, u'(?i)(anis|ani)')"
-p61
-aS"(3522, u'(?i)(tetras|tetra)')"
-p62
-aS"(821, u'(?i)(lice|louse)')"
-p63
-aS"(6249, u'(?i)(ants|ant)')"
-p64
-aS"(163, u'(?i)(mice|mouse)')"
-p65
-aS"(6682, u'(?i)(tera|teras)')"
-p66
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p67
-aS"(853, u'(?i)(minas|mina)')"
-p68
-aS"(2568, u'(?i)(hens|hen)')"
-p69
-aS"(4979, u'(?i)(cats|cat)')"
-p70
-aS"(3726, u'(?i)(mates|mate)')"
-p71
-aS"(4964, u'(?i)(serins|serin)')"
-p72
-atp73
-Rp74
+((lp45
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p46
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p47
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p48
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p49
+atp50
+Rp51
 sb.

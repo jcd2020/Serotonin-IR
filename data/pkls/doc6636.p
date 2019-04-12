@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
-aS"(45, u'\\\\bgr ?127935')"
+aS"(31, u'\\\\bway ?100635')"
 p7
 atp8
 Rp9
@@ -38,72 +38,42 @@ g3
 ((lp21
 S'5ht1b'
 p22
-aS'5ht5'
-p23
 aS'5ht1a'
-p24
+p23
 aS'5ht1d'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp28
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p30
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V2001
-p37
+p35
 sS'agonists'
-p38
+p36
 g3
-((lp39
-tp40
-Rp41
+((lp37
+tp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(5537, u'(?i)(hippos|hippo)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(702, u'(?i)(genets|genet)')"
-p47
-aS"(163, u'(?i)(mice|mouse)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(2395, u'(?i)(mutants|mutant)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(7609, u'(?i)(erns|ern)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-aS"(1683, u'(?i)(terns|tern)')"
-p58
-atp59
-Rp60
+((lp41
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p42
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p43
+atp44
+Rp45
 sb.

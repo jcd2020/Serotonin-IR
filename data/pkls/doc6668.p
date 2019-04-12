@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(44, u'\\\\bvortioxetine')"
+S"(42, u'\\\\bvortioxetine')"
 p5
 atp6
 Rp7
@@ -40,56 +40,32 @@ aS'5ht1a'
 p22
 aS'5ht3a'
 p23
-aS'5ht5'
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-tp29
-Rp30
+((lp27
+tp28
+Rp29
 sS'year'
-p31
+p30
 V2016
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(87, u'\\\\bvilazodone')"
+((lp33
+S"(94, u'\\\\bvortioxetine')"
+p34
+aS"(80, u'\\\\bvilazodone')"
 p35
-aS"(101, u'\\\\bvortioxetine')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(931, u'(?i)(divers|diver)')"
-p42
-aS"(2183, u'(?i)(gars|gar)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(1414, u'(?i)(chars|char)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(2809, u'(?i)(toms|tom)')"
-p51
-atp52
-Rp53
+((lp39
+tp40
+Rp41
 sb.

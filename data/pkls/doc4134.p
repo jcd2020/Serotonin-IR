@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(212, u'\\\\bbromocriptine')"
+S"(206, u'\\\\bbromocriptine')"
 p5
 atp6
 Rp7
@@ -52,9 +52,9 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(101, u'\\\\bcp ?94253')"
 p32
-aS"(108, u'\\\\bcp ?94253')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p33
 atp34
 Rp35
@@ -62,34 +62,8 @@ sS'species'
 p36
 g3
 ((lp37
-S"(6753, u'(?i)(da|das)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(4979, u'(?i)(cats|cat)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(81, u'(?i)(asps|asp)')"
-p42
-aS"(2183, u'(?i)(gars|gar)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+atp39
+Rp40
 sb.

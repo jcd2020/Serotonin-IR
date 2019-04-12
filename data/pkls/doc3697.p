@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -46,60 +46,36 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2013
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p39
-atp40
-Rp41
+((lp37
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p38
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(5958, u'(?i)(rats|rat)')"
+((lp42
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p43
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p44
-aS"(5917, u'(?i)(roaches|roach)')"
-p45
-aS"(163, u'(?i)(mice|mouse)')"
-p46
-aS"(4091, u'(?i)(adults|adult)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(5229, u'(?i)(moles|mole)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-atp57
-Rp58
+atp45
+Rp46
 sb.

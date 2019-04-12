@@ -8,84 +8,58 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(113, u'\\\\brisperidone')"
 p5
-aS"(59, u'\\\\brisperidone')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.PET'
-p11
-atp12
-Rp13
+p10
+atp11
+Rp12
 sS'topics'
-p14
+p13
 g3
-((lp15
+((lp14
 S"(15, u'\\\\bschizophreni')"
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
+((lp19
 S'5ht2a'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(220, u'(?i)(striatums|striatum)')"
-p26
-atp27
-Rp28
+((lp24
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2013
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(1070, u'(?i)(pets|pet)')"
-p37
-aS"(2323, u'(?i)(bees|bee)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(4964, u'(?i)(serins|serin)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(4624, u'(?i)(apes|ape)')"
-p46
-aS"(2809, u'(?i)(toms|tom)')"
-p47
-aS"(1795, u'(?i)(mounts|mount)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+((lp35
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+p36
+atp37
+Rp38
 sb.

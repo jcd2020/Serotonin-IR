@@ -40,66 +40,32 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p25
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2008
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(155, u'\\\\bmem')"
-p34
-atp35
-Rp36
+((lp32
+S"(149, u'\\\\bmem')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(6249, u'(?i)(ants|ant)')"
+((lp37
+S"(5863, u'(?i)\\\\b(entires|entire)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(1725, u'(?i)(clams|clam)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(3726, u'(?i)(mates|mate)')"
-p47
-aS"(853, u'(?i)(minas|mina)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(5863, u'(?i)(entires|entire)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(391, u'(?i)(alli|allis)')"
-p53
-aS"(2809, u'(?i)(toms|tom)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(821, u'(?i)(lice|louse)')"
-p56
-atp57
-Rp58
+atp40
+Rp41
 sb.

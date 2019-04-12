@@ -38,58 +38,28 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(287, u'(?i)(parahippocampals|parahippocampal)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(287, u'(?i)\\\\b(parahippocampals|parahippocampal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2015
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(1070, u'(?i)(pets|pet)')"
+((lp34
+S"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+p35
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p36
-aS"(5537, u'(?i)(hippos|hippo)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(3601, u'(?i)(efts|eft)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(6391, u'(?i)(asses|ass)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(5967, u'(?i)(males|male)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(1054, u'(?i)(homoes|homo)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(6125, u'(?i)(females|female)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(4247, u'(?i)(tatus|tatu)')"
-p50
-aS"(2809, u'(?i)(toms|tom)')"
-p51
-atp52
-Rp53
+atp37
+Rp38
 sb.

@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(197, u'\\\\blurasidone')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(190, u'\\\\blurasidone')"
 p6
-aS"(204, u'\\\\bsb ?269970')"
+aS"(31, u'\\\\bway ?100635')"
 p7
 atp8
 Rp9
@@ -46,64 +46,44 @@ aS'5ht7a'
 p25
 aS'5ht1a'
 p26
-aS'5ht5'
-p27
 aS'5ht7d'
-p28
-atp29
-Rp30
+p27
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp31
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p32
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p33
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p34
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'year'
-p38
+p37
 V2012
-p39
+p38
 sS'agonists'
-p40
+p39
 g3
-((lp41
-S"(80, u'\\\\btandospirone')"
+((lp40
+S"(73, u'\\\\btandospirone')"
+p41
+aS"(47, u'\\\\blurasidone')"
 p42
-aS"(53, u'\\\\blurasidone')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sS'species'
-p46
+p45
 g3
-((lp47
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp46
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p47
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p48
-aS"(2568, u'(?i)(hens|hen)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+atp49
+Rp50
 sb.

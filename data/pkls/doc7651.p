@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(42, u'\\\\bergotamine')"
+S"(40, u'\\\\bergotamine')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(194, u'\\\\bmethysergide')"
 p6
 atp7
 Rp8
@@ -40,13 +40,13 @@ aS'5ht1a'
 p22
 aS'5ht1e'
 p23
-aS'5ht1'
-p24
-aS'5ht1d'
-p25
-aS'5ht5'
-p26
 aS'5ht2'
+p24
+aS'5ht1'
+p25
+aS'5ht1d'
+p26
+aS'5ht5'
 p27
 atp28
 Rp29
@@ -54,82 +54,40 @@ sS'regions'
 p30
 g3
 ((lp31
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'year'
-p36
+p35
 V1993
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(103, u'\\\\bsumatriptan')"
+((lp38
+S"(96, u'\\\\bsumatriptan')"
+p39
+aS"(53, u'\\\\bmethysergide')"
 p40
-aS"(56, u'\\\\blsd')"
+aS"(33, u'\\\\bergotamine')"
 p41
-aS"(181, u'\\\\bdom')"
+aS"(176, u'\\\\bdom')"
 p42
-aS"(38, u'\\\\bergotamine')"
+aS"(158, u'\\\\blsd')"
 p43
-aS"(60, u'\\\\bmethysergide')"
-p44
-atp45
-Rp46
+atp44
+Rp45
 sS'species'
-p47
+p46
 g3
-((lp48
-S"(1349, u'(?i)(rams|ram)')"
+((lp47
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p48
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p49
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(5229, u'(?i)(moles|mole)')"
-p52
-aS"(3196, u'(?i)(human|humans)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(6878, u'(?i)(guans|guan)')"
-p56
-aS"(1070, u'(?i)(pets|pet)')"
-p57
-aS"(468, u'(?i)(oxen|ox)')"
-p58
-aS"(3404, u'(?i)(titis|titi)')"
-p59
-aS"(3550, u'(?i)(anis|ani)')"
-p60
-aS"(1628, u'(?i)(cod|cod)')"
-p61
-aS"(5537, u'(?i)(hippos|hippo)')"
-p62
-aS"(5958, u'(?i)(rats|rat)')"
-p63
-aS"(867, u'(?i)(tits|tit)')"
-p64
-aS"(1055, u'(?i)(men|man)')"
-p65
-aS"(4979, u'(?i)(cats|cat)')"
-p66
-aS"(1057, u'(?i)(humans|human)')"
-p67
-aS"(1961, u'(?i)(pens|pen)')"
-p68
-aS"(1414, u'(?i)(chars|char)')"
-p69
-aS"(3726, u'(?i)(mates|mate)')"
-p70
-aS"(1054, u'(?i)(homoes|homo)')"
-p71
-atp72
-Rp73
+atp51
+Rp52
 sb.

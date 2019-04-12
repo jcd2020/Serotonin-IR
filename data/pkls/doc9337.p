@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(136, u'\\\\btropisetron')"
+S"(125, u'\\\\btropisetron')"
 p5
 atp6
 Rp7
@@ -42,76 +42,34 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2013
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(198, u'\\\\bsr ?57227')"
+((lp31
+S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+p32
+aS"(192, u'\\\\bquipazine')"
 p33
-aS"(196, u'\\\\bquipazine')"
+aS"(194, u'\\\\bsr ?57227')"
 p34
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(4624, u'(?i)(apes|ape)')"
+((lp38
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p39
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(949, u'(?i)(cohoes|coho)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(5229, u'(?i)(moles|mole)')"
-p44
-aS"(3196, u'(?i)(human|humans)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(6878, u'(?i)(guans|guan)')"
-p48
-aS"(5783, u'(?i)(hinds|hind)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p53
-aS"(163, u'(?i)(mice|mouse)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(6753, u'(?i)(da|das)')"
-p56
-aS"(1057, u'(?i)(humans|human)')"
-p57
-aS"(2568, u'(?i)(hens|hen)')"
-p58
-aS"(4979, u'(?i)(cats|cat)')"
-p59
-aS"(3726, u'(?i)(mates|mate)')"
-p60
-aS"(5917, u'(?i)(roaches|roach)')"
-p61
-aS"(2292, u'(?i)(adders|adder)')"
-p62
-atp63
-Rp64
+atp42
+Rp43
 sb.

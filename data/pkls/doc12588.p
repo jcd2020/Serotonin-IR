@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(165, u'\\\\bsb ?699551')"
+S"(157, u'\\\\bsb ?699551')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -66,9 +66,9 @@ sS'agonists'
 p37
 g3
 ((lp38
-S"(5, u'\\\\b5 ?ct')"
+S"(149, u'\\\\bmem')"
 p39
-aS"(155, u'\\\\bmem')"
+aS"(219, u'\\\\b5 ?ct')"
 p40
 atp41
 Rp42
@@ -76,44 +76,16 @@ sS'species'
 p43
 g3
 ((lp44
-S"(1070, u'(?i)(pets|pet)')"
+S"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p45
-aS"(3404, u'(?i)(titis|titi)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p46
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p47
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p48
-aS"(867, u'(?i)(tits|tit)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p49
-aS"(7604, u'(?i)(cyclop|cyclops)')"
-p50
-aS"(1266, u'(?i)(embryos|embryo)')"
-p51
-aS"(3051, u'(?i)(pigs|pig)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(937, u'(?i)(kids|kid)')"
-p54
-aS"(3062, u'(?i)(guineas|guinea)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(1057, u'(?i)(humans|human)')"
-p58
-aS"(1961, u'(?i)(pens|pen)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-aS"(3196, u'(?i)(human|humans)')"
-p61
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p62
-aS"(821, u'(?i)(lice|louse)')"
-p63
-atp64
-Rp65
+atp50
+Rp51
 sb.

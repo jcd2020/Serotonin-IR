@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,46 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(6753, u'(?i)(da|das)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(5917, u'(?i)(roaches|roach)')"
-p39
-aS"(867, u'(?i)(tits|tit)')"
-p40
-aS"(5176, u'(?i)(tegs|teg)')"
-p41
-aS"(6391, u'(?i)(asses|ass)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(3152, u'(?i)(layers|layer)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1057, u'(?i)(humans|human)')"
-p50
-aS"(5229, u'(?i)(moles|mole)')"
-p51
-aS"(4371, u'(?i)(lizas|liza)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(3196, u'(?i)(human|humans)')"
-p54
-aS"(2809, u'(?i)(toms|tom)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+atp39
+Rp40
 sb.

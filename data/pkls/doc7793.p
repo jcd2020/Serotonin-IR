@@ -42,9 +42,9 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p26
-aS"(157, u'(?i)(limbics|limbic)(-|\\\\s+)?(systems|system)')"
+aS"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(33, u'\\\\bdoi')"
+S"(175, u'\\\\bdoi')"
 p34
 atp35
 Rp36
@@ -64,30 +64,14 @@ sS'species'
 p37
 g3
 ((lp38
-S"(1070, u'(?i)(pets|pet)')"
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
 p39
-aS"(949, u'(?i)(cohoes|coho)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p40
-aS"(5743, u'(?i)(bots|bot)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p41
-aS"(2183, u'(?i)(gars|gar)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(1349, u'(?i)(rams|ram)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(1057, u'(?i)(humans|human)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(3196, u'(?i)(human|humans)')"
-p48
-aS"(2809, u'(?i)(toms|tom)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp43
+Rp44
 sb.

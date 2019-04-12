@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\byohimbine')"
+S"(33, u'\\\\byohimbine')"
 p5
 atp6
 Rp7
@@ -40,70 +40,42 @@ sS'receptors'
 p22
 g3
 ((lp23
-S'5ht5'
+S'5ht2c'
 p24
-aS'5ht2c'
-p25
 aS'5ht2a'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp29
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p30
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V2005
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(155, u'\\\\bmcpp')"
 p38
-g3
-((lp39
-S"(89, u'\\\\byohimbine')"
-p40
-aS"(161, u'\\\\bmcpp')"
-p41
-atp42
-Rp43
+aS"(82, u'\\\\byohimbine')"
+p39
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(931, u'(?i)(divers|diver)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(1169, u'(?i)(grades|grade)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(6753, u'(?i)(da|das)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-atp59
-Rp60
+((lp43
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

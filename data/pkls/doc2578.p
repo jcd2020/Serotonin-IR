@@ -34,68 +34,40 @@ S'5ht1b'
 p19
 aS'5ht1a'
 p20
-aS'5ht5'
-p21
 aS'5ht1'
-p22
+p21
 aS'5ht1d'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-tp28
-Rp29
+((lp26
+tp27
+Rp28
 sS'year'
-p30
+p29
 V1998
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp32
+S"(100, u'\\\\bcp ?93129')"
+p33
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p34
-aS"(104, u'\\\\bzolmitriptan')"
+aS"(97, u'\\\\bzolmitriptan')"
 p35
-aS"(107, u'\\\\bcp ?93129')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(3767, u'(?i)(olms|olm)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(3522, u'(?i)(tetras|tetra)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(1414, u'(?i)(chars|char)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(7552, u'(?i)(bats|bat)')"
-p54
-atp55
-Rp56
+((lp39
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -56,13 +56,13 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(23, u'\\\\bbufotenin')"
+S"(19, u'\\\\bbufotenin')"
 p34
-aS"(195, u'\\\\bphenylbiguanide')"
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p35
-aS"(196, u'\\\\bquipazine')"
+aS"(192, u'\\\\bquipazine')"
 p36
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+aS"(191, u'\\\\bphenylbiguanide')"
 p37
 atp38
 Rp39
@@ -70,26 +70,8 @@ sS'species'
 p40
 g3
 ((lp41
-S"(2568, u'(?i)(hens|hen)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(401, u'(?i)(bufos|bufo)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(7488, u'(?i)(molas|mola)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(853, u'(?i)(minas|mina)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(6878, u'(?i)(guans|guan)')"
-p51
-atp52
-Rp53
+atp43
+Rp44
 sb.

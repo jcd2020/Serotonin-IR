@@ -30,64 +30,36 @@ g3
 ((lp17
 S'5ht1b'
 p18
-aS'5ht5'
-p19
 aS'5ht2a'
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-tp25
-Rp26
+((lp23
+tp24
+Rp25
 sS'year'
-p27
+p26
 V1988
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(15, u'\\\\bamt')"
+((lp29
+S"(12, u'\\\\bamt')"
+p30
+aS"(187, u'\\\\balpha ?methyltryptamine')"
 p31
-aS"(191, u'\\\\balpha ?methyltryptamine')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(6753, u'(?i)(da|das)')"
-p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(867, u'(?i)(tits|tit)')"
-p39
-aS"(4964, u'(?i)(serins|serin)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(3726, u'(?i)(mates|mate)')"
-p44
-aS"(1054, u'(?i)(homoes|homo)')"
-p45
-aS"(853, u'(?i)(minas|mina)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-atp51
-Rp52
+((lp35
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

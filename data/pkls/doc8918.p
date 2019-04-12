@@ -8,106 +8,86 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(34, u'\\\\bmetergoline')"
 p5
-aS"(130, u'\\\\britanserin')"
-p6
-aS"(14, u'\\\\bmethiothepin')"
-p7
 aS"(21, u'\\\\bpindolol')"
-p8
+p6
+aS"(31, u'\\\\bway ?100635')"
+p7
 aS"(1, u'\\\\balprenolol')"
+p8
+aS"(14, u'\\\\bmethiothepin')"
 p9
-aS"(54, u'\\\\britanserin')"
+aS"(26, u'\\\\bspiperone')"
 p10
-aS"(52, u'\\\\bmetergoline')"
+aS"(119, u'\\\\britanserin')"
 p11
-aS"(27, u'\\\\bspiperone')"
-p12
-aS"(35, u'\\\\bmetergoline')"
-p13
-atp14
-Rp15
+atp12
+Rp13
 sS'methods'
-p16
+p14
 g3
-((lp17
+((lp15
 S'Method.ANTAGONIST'
-p18
+p16
 aS'Method.AGONIST'
-p19
-atp20
-Rp21
+p17
+atp18
+Rp19
 sS'topics'
-p22
+p20
 g3
-((lp23
-tp24
-Rp25
+((lp21
+tp22
+Rp23
 sS'receptors'
-p26
+p24
 g3
-((lp27
+((lp25
 S'5ht1b'
-p28
+p26
 aS'5ht5'
-p29
+p27
 aS'5ht1a'
-p30
+p28
 aS'5ht2'
-p31
+p29
 aS'5ht2a'
-p32
-atp33
-Rp34
+p30
+atp31
+Rp32
 sS'regions'
-p35
+p33
 g3
-((lp36
-tp37
-Rp38
+((lp34
+tp35
+Rp36
 sS'year'
-p39
+p37
 V1997
-p40
+p38
 sS'agonists'
+p39
+g3
+((lp40
+S"(175, u'\\\\bdoi')"
 p41
-g3
-((lp42
-S"(47, u'\\\\bgepirone')"
+aS"(45, u'\\\\bipsapirone')"
+p42
+aS"(155, u'\\\\bmcpp')"
 p43
-aS"(161, u'\\\\bmcpp')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p44
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(42, u'\\\\bgepirone')"
 p45
-aS"(50, u'\\\\bipsapirone')"
-p46
-aS"(33, u'\\\\bdoi')"
-p47
-atp48
-Rp49
+atp46
+Rp47
 sS'species'
-p50
+p48
 g3
-((lp51
-S"(4301, u'(?i)(hydras|hydra)')"
-p52
-aS"(2568, u'(?i)(hens|hen)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(4163, u'(?i)(ermines|ermine)')"
-p55
-aS"(1349, u'(?i)(rams|ram)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(4964, u'(?i)(serins|serin)')"
-p58
-aS"(5958, u'(?i)(rats|rat)')"
-p59
-aS"(3522, u'(?i)(tetras|tetra)')"
-p60
-atp61
-Rp62
+((lp49
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

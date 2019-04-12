@@ -20,17 +20,17 @@ sS'topics'
 p11
 g3
 ((lp12
-S"(15, u'\\\\bschizophreni')"
+S"(37, u'\\\\baddict')"
 p13
-atp14
-Rp15
+aS"(15, u'\\\\bschizophreni')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
-S'5ht5'
-p18
-aS'5ht2c'
+((lp18
+S'5ht2c'
 p19
 atp20
 Rp21
@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p24
 atp25
 Rp26
@@ -56,34 +56,12 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2670, u'(?i)(arabs|arab)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p35
-aS"(6753, u'(?i)(da|das)')"
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(5743, u'(?i)(bots|bot)')"
-p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(5967, u'(?i)(males|male)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(5176, u'(?i)(tegs|teg)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(4371, u'(?i)(lizas|liza)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-atp49
-Rp50
+atp38
+Rp39
 sb.

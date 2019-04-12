@@ -34,46 +34,26 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p22
-aS"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'year'
-p26
+p25
 V1995
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(2323, u'(?i)(bees|bee)')"
-p34
-aS"(5958, u'(?i)(rats|rat)')"
-p35
-aS"(5175, u'(?i)(swallows|swallow)')"
-p36
-aS"(4163, u'(?i)(ermines|ermine)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(1488, u'(?i)(yaks|yak)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(6391, u'(?i)(asses|ass)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-atp44
-Rp45
+((lp32
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p33
+atp34
+Rp35
 sb.

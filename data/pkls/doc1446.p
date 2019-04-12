@@ -36,50 +36,28 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(379, u'(?i)(subarachnoids|subarachnoid)(-|\\\\s+)?(spaces|space)')"
+S"(379, u'(?i)\\\\b(subarachnoids|subarachnoid)(-|\\\\s+)?(spaces|space)\\\\b')"
 p23
-aS"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'year'
-p27
+p26
 V1990
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p31
-atp32
-Rp33
+((lp29
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(745, u'(?i)(arachnoids|arachnoid)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(1553, u'(?i)(mews|mew)')"
-p42
-aS"(5686, u'(?i)(foxes|fox)')"
-p43
-aS"(1961, u'(?i)(pens|pen)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(3522, u'(?i)(tetras|tetra)')"
-p46
-atp47
-Rp48
+((lp34
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

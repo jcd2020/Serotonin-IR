@@ -38,44 +38,32 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
+aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p25
-aS"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p26
-aS"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V1994
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(6249, u'(?i)(ants|ant)')"
+((lp36
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p37
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(853, u'(?i)(minas|mina)')"
-p41
-aS"(1057, u'(?i)(humans|human)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(3196, u'(?i)(human|humans)')"
-p44
-atp45
-Rp46
+atp39
+Rp40
 sb.

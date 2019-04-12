@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -54,17 +54,17 @@ sS'regions'
 p30
 g3
 ((lp31
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
 p32
-aS"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p33
-aS"(77, u'(?i)(cerebellars|cerebellar)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(118, u'(?i)\\\\b(diencephalons|diencephalon)\\\\b')"
 p34
-aS"(195, u'(?i)(telencephalons|telencephalon)')"
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p35
-aS"(118, u'(?i)(diencephalons|diencephalon)')"
+aS"(77, u'(?i)\\\\b(cerebellars|cerebellar)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p36
-aS"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+aS"(195, u'(?i)\\\\b(telencephalons|telencephalon)\\\\b')"
 p37
 atp38
 Rp39
@@ -76,9 +76,9 @@ sS'agonists'
 p42
 g3
 ((lp43
-S"(224, u'\\\\b5 ?methoxytryptamine')"
+S"(220, u'\\\\b5 ?methoxytryptamine')"
 p44
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p45
 atp46
 Rp47
@@ -86,74 +86,20 @@ sS'species'
 p48
 g3
 ((lp49
-S"(1266, u'(?i)(embryos|embryo)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p50
-aS"(4371, u'(?i)(lizas|liza)')"
+aS"(5864, u'(?i)\\\\b(fetuses|fetus)\\\\b')"
 p51
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p52
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(5944, u'(?i)\\\\b(soles|sole)\\\\b')"
 p53
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p54
-aS"(5229, u'(?i)(moles|mole)')"
+aS"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p55
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(3196, u'(?i)(human|humans)')"
-p58
-aS"(479, u'(?i)(lings|ling)')"
-p59
-aS"(4091, u'(?i)(adults|adult)')"
-p60
-aS"(468, u'(?i)(oxen|ox)')"
-p61
-aS"(107, u'(?i)(stags|stag)')"
-p62
-aS"(5743, u'(?i)(bots|bot)')"
-p63
-aS"(3550, u'(?i)(anis|ani)')"
-p64
-aS"(5944, u'(?i)(soles|sole)')"
-p65
-aS"(391, u'(?i)(alli|allis)')"
-p66
-aS"(5537, u'(?i)(hippos|hippo)')"
-p67
-aS"(5958, u'(?i)(rats|rat)')"
-p68
-aS"(867, u'(?i)(tits|tit)')"
-p69
-aS"(1055, u'(?i)(men|man)')"
-p70
-aS"(4604, u'(?i)(mites|mite)')"
-p71
-aS"(2334, u'(?i)(eels|eel)')"
-p72
-aS"(853, u'(?i)(minas|mina)')"
-p73
-aS"(1057, u'(?i)(humans|human)')"
-p74
-aS"(1961, u'(?i)(pens|pen)')"
-p75
-aS"(1414, u'(?i)(chars|char)')"
-p76
-aS"(7058, u'(?i)(does|doe)')"
-p77
-aS"(2323, u'(?i)(bees|bee)')"
-p78
-aS"(5799, u'(?i)(rodents|rodent)')"
-p79
-aS"(2568, u'(?i)(hens|hen)')"
-p80
-aS"(6753, u'(?i)(da|das)')"
-p81
-aS"(5864, u'(?i)(fetuses|fetus)')"
-p82
-aS"(5917, u'(?i)(roaches|roach)')"
-p83
-atp84
-Rp85
+atp57
+Rp58
 sb.

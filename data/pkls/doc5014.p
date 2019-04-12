@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p30
 atp31
 Rp32
@@ -56,32 +56,8 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(5537, u'(?i)(hippos|hippo)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(7488, u'(?i)(molas|mola)')"
-p43
-aS"(853, u'(?i)(minas|mina)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(2809, u'(?i)(toms|tom)')"
-p47
-atp48
-Rp49
+atp36
+Rp37
 sb.

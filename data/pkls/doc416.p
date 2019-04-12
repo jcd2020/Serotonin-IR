@@ -38,64 +38,30 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(71, u'(?i)(cerebellums|cerebellum)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2006
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(14, u'\\\\bamphetamine')"
+((lp30
+S"(11, u'\\\\bamphetamine')"
+p31
+aS"(149, u'\\\\bmem')"
 p32
-aS"(155, u'\\\\bmem')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(1688, u'(?i)(ounces|ounce)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(7609, u'(?i)(erns|ern)')"
-p40
-aS"(5454, u'(?i)(brills|brill)')"
-p41
-aS"(867, u'(?i)(tits|tit)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(5229, u'(?i)(moles|mole)')"
-p49
-aS"(4371, u'(?i)(lizas|liza)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(1683, u'(?i)(terns|tern)')"
-p53
-aS"(6548, u'(?i)(takins|takin)')"
-p54
-atp55
-Rp56
+((lp36
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

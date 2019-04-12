@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bgranisetron')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(135, u'\\\\bondansetron')"
+aS"(123, u'\\\\bgranisetron')"
 p6
-aS"(153, u'\\\\bgr ?113808')"
+aS"(144, u'\\\\bgr ?113808')"
 p7
 atp8
 Rp9
@@ -48,50 +48,26 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+tp29
+Rp30
 sS'year'
-p32
+p31
 V1994
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(224, u'\\\\b5 ?methoxytryptamine')"
-p36
-atp37
-Rp38
+((lp34
+S"(220, u'\\\\b5 ?methoxytryptamine')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(2323, u'(?i)(bees|bee)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(867, u'(?i)(tits|tit)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(479, u'(?i)(lings|ling)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(5551, u'(?i)(owls|owl)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-atp53
-Rp54
+((lp39
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

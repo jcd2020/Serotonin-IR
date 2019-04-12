@@ -40,17 +40,17 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+S"(251, u'(?i)\\\\b(precentrals|precentral)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p25
-aS"(260, u'(?i)(inferiors|inferior)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(gyruses|gyrus)')"
+aS"(260, u'(?i)\\\\b(inferiors|inferior)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p26
-aS"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p29
-aS"(251, u'(?i)(precentrals|precentral)(-|\\\\s+)?(gyruses|gyrus)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
 atp31
 Rp32
@@ -68,24 +68,10 @@ sS'species'
 p39
 g3
 ((lp40
-S"(6249, u'(?i)(ants|ant)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(1055, u'(?i)(men|man)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(6948, u'(?i)(rails|rail)')"
-p43
-aS"(4964, u'(?i)(serins|serin)')"
-p44
-aS"(1057, u'(?i)(humans|human)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(3196, u'(?i)(human|humans)')"
-p47
-aS"(2809, u'(?i)(toms|tom)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+atp43
+Rp44
 sb.

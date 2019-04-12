@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100135')"
+S"(30, u'\\\\bway ?100135')"
 p5
-aS"(27, u'\\\\bspiperone')"
+aS"(26, u'\\\\bspiperone')"
 p6
 atp7
 Rp8
@@ -42,68 +42,36 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p26
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
-p34
+p33
 V1994
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p38
-atp39
-Rp40
+((lp36
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p37
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(5537, u'(?i)(hippos|hippo)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(163, u'(?i)(mice|mouse)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(81, u'(?i)(asps|asp)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(3522, u'(?i)(tetras|tetra)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(4247, u'(?i)(tatus|tatu)')"
-p56
-aS"(1795, u'(?i)(mounts|mount)')"
-p57
-aS"(6682, u'(?i)(tera|teras)')"
-p58
-atp59
-Rp60
+((lp41
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p42
+atp43
+Rp44
 sb.

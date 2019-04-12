@@ -38,13 +38,13 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
 p24
-aS"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+aS"(390, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)\\\\b')"
 p25
-aS"(396, u'(?i)(subventriculars|subventricular)(-|\\\\s+)?(zones|zone)')"
+aS"(396, u'(?i)\\\\b(subventriculars|subventricular)(-|\\\\s+)?(zones|zone)\\\\b')"
 p26
-aS"(390, u'(?i)(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p27
 atp28
 Rp29
@@ -62,42 +62,18 @@ sS'species'
 p36
 g3
 ((lp37
-S"(1280, u'(?i)(shrews|shrew)')"
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p39
-aS"(7539, u'(?i)(mammals|mammal)')"
+aS"(7490, u'(?i)\\\\b(commons|common)(-|\\\\s+)?(shrews|shrew)\\\\b')"
 p40
-aS"(479, u'(?i)(lings|ling)')"
+aS"(7491, u'(?i)\\\\b(sorexes|sorex)(-|\\\\s+)?(araneuses|araneus)\\\\b')"
 p41
-aS"(4091, u'(?i)(adults|adult)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p42
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(1280, u'(?i)\\\\b(shrews|shrew)\\\\b')"
 p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(7490, u'(?i)(commons|common)(-|\\\\s+)?(shrews|shrew)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(3247, u'(?i)(youngs|young)')"
-p52
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(7491, u'(?i)(sorexes|sorex)(-|\\\\s+)?(araneuses|araneus)')"
-p55
-atp56
-Rp57
+atp44
+Rp45
 sb.

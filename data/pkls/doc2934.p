@@ -28,50 +28,32 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht4'
 p18
-aS'5ht4'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-tp24
-Rp25
+((lp22
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2018
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(1070, u'(?i)(pets|pet)')"
-p34
-aS"(5958, u'(?i)(rats|rat)')"
-p35
-aS"(6753, u'(?i)(da|das)')"
-p36
-aS"(468, u'(?i)(oxen|ox)')"
-p37
-aS"(3726, u'(?i)(mates|mate)')"
-p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(6391, u'(?i)(asses|ass)')"
-p42
-atp43
-Rp44
+((lp32
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+p33
+atp34
+Rp35
 sb.

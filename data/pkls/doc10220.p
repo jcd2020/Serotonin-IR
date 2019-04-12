@@ -30,64 +30,40 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht3'
 p19
-aS'5ht3'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(220, u'(?i)(striatums|striatum)')"
+((lp23
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p24
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
+aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p26
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
-p27
-aS"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
-p28
-atp29
-Rp30
+atp27
+Rp28
 sS'year'
-p31
+p29
 V2016
-p32
+p30
 sS'agonists'
-p33
+p31
 g3
-((lp34
-tp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(1070, u'(?i)(pets|pet)')"
-p39
-aS"(5537, u'(?i)(hippos|hippo)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(479, u'(?i)(lings|ling)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(6215, u'(?i)(racers|racer)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(6981, u'(?i)(moths|moth)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(1795, u'(?i)(mounts|mount)')"
-p50
-atp51
-Rp52
+((lp36
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+p38
+atp39
+Rp40
 sb.

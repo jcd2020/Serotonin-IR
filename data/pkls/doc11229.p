@@ -8,128 +8,92 @@ c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\britanserin')"
+S"(130, u'\\\\bzacopride')"
 p5
-aS"(100, u'\\\\beltoprazine')"
+aS"(124, u'\\\\bondansetron')"
 p6
-aS"(141, u'\\\\bzacopride')"
+aS"(89, u'\\\\beltoprazine')"
 p7
-aS"(54, u'\\\\britanserin')"
-p8
 aS"(21, u'\\\\bpindolol')"
+p8
+aS"(119, u'\\\\britanserin')"
 p9
-aS"(135, u'\\\\bondansetron')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.ANTAGONIST'
-p15
+p14
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
+((lp19
 S"(12, u'\\\\banxiogen')"
-p21
+p20
 aS"(11, u'\\\\banxiolyt')"
-p22
+p21
 aS"(10, u'\\\\banxiety')"
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'receptors'
-p26
+p25
 g3
-((lp27
+((lp26
 S'5ht1b'
-p28
+p27
 aS'5ht1a'
-p29
+p28
 aS'5ht3'
-p30
+p29
 aS'5ht2c'
-p31
+p30
 aS'5ht1'
-p32
+p31
 aS'5ht2a'
-p33
-atp34
-Rp35
+p32
+atp33
+Rp34
 sS'regions'
-p36
+p35
 g3
-((lp37
-S"(34, u'(?i)(pon|pons)')"
-p38
-atp39
-Rp40
+((lp36
+tp37
+Rp38
 sS'year'
-p41
+p39
 V1995
-p42
+p40
 sS'agonists'
+p41
+g3
+((lp42
+S"(20, u'\\\\bbuspirone')"
 p43
-g3
-((lp44
-S"(24, u'\\\\bbuspirone')"
+aS"(208, u'\\\\bzacopride')"
+p44
+aS"(163, u'\\\\bfenfluramine')"
 p45
-aS"(169, u'\\\\bfenfluramine')"
+aS"(31, u'\\\\beltoprazine')"
 p46
-aS"(36, u'\\\\beltoprazine')"
+aS"(45, u'\\\\bipsapirone')"
 p47
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p48
-aS"(50, u'\\\\bipsapirone')"
-p49
-aS"(212, u'\\\\bzacopride')"
-p50
-atp51
-Rp52
+atp49
+Rp50
 sS'species'
-p53
+p51
 g3
-((lp54
-S"(6753, u'(?i)(da|das)')"
-p55
-aS"(2568, u'(?i)(hens|hen)')"
-p56
-aS"(5958, u'(?i)(rats|rat)')"
-p57
-aS"(163, u'(?i)(mice|mouse)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-aS"(468, u'(?i)(oxen|ox)')"
-p60
-aS"(1349, u'(?i)(rams|ram)')"
-p61
-aS"(3726, u'(?i)(mates|mate)')"
-p62
-aS"(1055, u'(?i)(men|man)')"
-p63
-aS"(4964, u'(?i)(serins|serin)')"
-p64
-aS"(7094, u'(?i)(curs|cur)')"
-p65
-aS"(3550, u'(?i)(anis|ani)')"
-p66
-aS"(3522, u'(?i)(tetras|tetra)')"
-p67
-aS"(4604, u'(?i)(mites|mite)')"
-p68
-aS"(1961, u'(?i)(pens|pen)')"
-p69
-aS"(3812, u'(?i)(studs|stud)')"
-p70
-aS"(2809, u'(?i)(toms|tom)')"
-p71
-atp72
-Rp73
+((lp52
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p53
+atp54
+Rp55
 sb.

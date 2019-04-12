@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(194, u'\\\\bmethysergide')"
 p5
-aS"(212, u'\\\\bbromocriptine')"
+aS"(206, u'\\\\bbromocriptine')"
 p6
-aS"(105, u'\\\\bmethysergide')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
 atp8
 Rp9
@@ -46,66 +46,34 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(171, u'(?i)(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(171, u'(?i)\\\\b(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V1992
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp34
+S"(53, u'\\\\bmethysergide')"
+p35
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-aS"(48, u'\\\\bhaloperidol')"
+aS"(43, u'\\\\bhaloperidol')"
 p37
-aS"(60, u'\\\\bmethysergide')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(6249, u'(?i)(ants|ant)')"
+((lp41
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(479, u'(?i)(lings|ling)')"
-p48
-aS"(5967, u'(?i)(males|male)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(3726, u'(?i)(mates|mate)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(3522, u'(?i)(tetras|tetra)')"
-p55
-aS"(7094, u'(?i)(curs|cur)')"
-p56
-aS"(1414, u'(?i)(chars|char)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-atp60
-Rp61
+atp44
+Rp45
 sb.

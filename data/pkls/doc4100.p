@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(99, u'\\\\bsb ?242084')"
 p5
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(31, u'\\\\bway ?100635')"
 p6
-aS"(110, u'\\\\bsb ?242084')"
+aS"(52, u'\\\\bmdl ?100907')"
 p7
 atp8
 Rp9
@@ -38,92 +38,52 @@ g3
 ((lp21
 S'5ht1a'
 p22
-aS'5ht5'
-p23
 aS'5ht2c'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp28
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'year'
-p35
+p33
 V2006
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(141, u'\\\\bro60 ?0175')"
 p37
-g3
-((lp38
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(68, u'\\\\bs ?15535')"
+p38
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p39
-aS"(75, u'\\\\bs ?15535')"
+aS"(175, u'\\\\bdoi')"
 p40
-aS"(147, u'\\\\bro60 ?0175')"
-p41
-aS"(33, u'\\\\bdoi')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(7094, u'(?i)(curs|cur)')"
+((lp44
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p45
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p46
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p47
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
 p48
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(931, u'(?i)(divers|diver)')"
-p52
-aS"(7539, u'(?i)(mammals|mammal)')"
-p53
-aS"(479, u'(?i)(lings|ling)')"
-p54
-aS"(5967, u'(?i)(males|male)')"
-p55
-aS"(468, u'(?i)(oxen|ox)')"
-p56
-aS"(3426, u'(?i)(hares|hare)')"
-p57
-aS"(2670, u'(?i)(arabs|arab)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-aS"(6682, u'(?i)(tera|teras)')"
-p60
-aS"(1055, u'(?i)(men|man)')"
-p61
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p62
-aS"(6753, u'(?i)(da|das)')"
-p63
-aS"(1961, u'(?i)(pens|pen)')"
-p64
-aS"(1949, u'(?i)(pacemakers|pacemaker)')"
-p65
-aS"(2323, u'(?i)(bees|bee)')"
-p66
-aS"(2568, u'(?i)(hens|hen)')"
-p67
-aS"(6744, u'(?i)(maras|mara)')"
-p68
-atp69
-Rp70
+atp49
+Rp50
 sb.

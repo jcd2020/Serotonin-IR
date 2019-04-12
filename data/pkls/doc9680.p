@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(136, u'\\\\btropisetron')"
+S"(125, u'\\\\btropisetron')"
 p5
 atp6
 Rp7
@@ -54,32 +54,8 @@ sS'species'
 p32
 g3
 ((lp33
-S"(6753, u'(?i)(da|das)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p34
-aS"(5958, u'(?i)(rats|rat)')"
-p35
-aS"(7609, u'(?i)(erns|ern)')"
-p36
-aS"(5743, u'(?i)(bots|bot)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(2453, u'(?i)(topis|topi)')"
-p41
-aS"(853, u'(?i)(minas|mina)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(1414, u'(?i)(chars|char)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(1683, u'(?i)(terns|tern)')"
-p46
-atp47
-Rp48
+atp35
+Rp36
 sb.

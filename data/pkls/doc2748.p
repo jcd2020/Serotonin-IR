@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p23
 atp24
 Rp25
@@ -48,9 +48,9 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(181, u'\\\\bdom')"
+S"(176, u'\\\\bdom')"
 p30
-aS"(193, u'\\\\bethanol')"
+aS"(189, u'\\\\bethanol')"
 p31
 atp32
 Rp33
@@ -58,40 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(5537, u'(?i)(hippos|hippo)')"
-p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(949, u'(?i)(cohoes|coho)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(2183, u'(?i)(gars|gar)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(107, u'(?i)(stags|stag)')"
-p46
-aS"(5176, u'(?i)(tegs|teg)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(5229, u'(?i)(moles|mole)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+atp37
+Rp38
 sb.

@@ -52,28 +52,8 @@ sS'species'
 p31
 g3
 ((lp32
-S"(6753, u'(?i)(da|das)')"
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p33
-aS"(4979, u'(?i)(cats|cat)')"
-p34
-aS"(7539, u'(?i)(mammals|mammal)')"
-p35
-aS"(6682, u'(?i)(tera|teras)')"
-p36
-aS"(1055, u'(?i)(men|man)')"
-p37
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p38
-aS"(1054, u'(?i)(homoes|homo)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(1961, u'(?i)(pens|pen)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-aS"(6391, u'(?i)(asses|ass)')"
-p43
-atp44
-Rp45
+atp34
+Rp35
 sb.

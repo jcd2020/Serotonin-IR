@@ -8,110 +8,80 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(115, u'\\\\bcinanserin')"
 p5
-aS"(130, u'\\\\britanserin')"
+aS"(34, u'\\\\bmetergoline')"
 p6
-aS"(52, u'\\\\bmetergoline')"
-p7
 aS"(17, u'\\\\bnan ?190')"
+p7
+aS"(117, u'\\\\bketanserin')"
 p8
-aS"(128, u'\\\\bketanserin')"
+aS"(119, u'\\\\britanserin')"
 p9
-aS"(54, u'\\\\britanserin')"
-p10
-aS"(126, u'\\\\bcinanserin')"
-p11
-aS"(35, u'\\\\bmetergoline')"
-p12
-atp13
-Rp14
+atp10
+Rp11
 sS'methods'
-p15
+p12
 g3
-((lp16
+((lp13
 S'Method.STIMULATION'
-p17
+p14
 aS'Method.ANTAGONIST'
-p18
-atp19
-Rp20
+p15
+atp16
+Rp17
 sS'topics'
-p21
+p18
 g3
-((lp22
+((lp19
 S"(3, u'\\\\bsleep')"
-p23
-atp24
-Rp25
+p20
+atp21
+Rp22
 sS'receptors'
-p26
+p23
 g3
-((lp27
+((lp24
 S'5ht7'
-p28
-aS'5ht5'
-p29
-aS'5ht2'
-p30
-aS'5ht1'
-p31
-aS'5ht2a'
-p32
-aS'5ht7a'
-p33
+p25
 aS'5ht1a'
-p34
-atp35
-Rp36
+p26
+aS'5ht2'
+p27
+aS'5ht1'
+p28
+aS'5ht2a'
+p29
+aS'5ht7a'
+p30
+atp31
+Rp32
 sS'regions'
-p37
+p33
 g3
-((lp38
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p39
-aS"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p40
-aS"(34, u'(?i)(pon|pons)')"
-p41
-atp42
-Rp43
+((lp34
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p35
+aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p36
+atp37
+Rp38
 sS'year'
-p44
+p39
 V2000
-p45
+p40
 sS'agonists'
-p46
+p41
 g3
-((lp47
-tp48
-Rp49
+((lp42
+tp43
+Rp44
 sS'species'
-p50
+p45
 g3
-((lp51
-S"(6753, u'(?i)(da|das)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(7539, u'(?i)(mammals|mammal)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(1414, u'(?i)(chars|char)')"
-p59
-aS"(6391, u'(?i)(asses|ass)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-aS"(4964, u'(?i)(serins|serin)')"
-p62
-atp63
-Rp64
+((lp46
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p47
+atp48
+Rp49
 sb.

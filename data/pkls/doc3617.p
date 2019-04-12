@@ -42,52 +42,30 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2015
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(163, u'\\\\bdmt')"
+((lp31
+S"(157, u'\\\\bdmt')"
+p32
+aS"(149, u'\\\\bmem')"
 p33
-aS"(237, u'\\\\bnn ?dimethyltryptamine')"
+aS"(235, u'\\\\bnn ?dimethyltryptamine')"
 p34
-aS"(155, u'\\\\bmem')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(6753, u'(?i)(da|das)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+((lp38
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

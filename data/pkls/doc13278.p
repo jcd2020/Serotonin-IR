@@ -50,42 +50,18 @@ sS'species'
 p30
 g3
 ((lp31
-S"(5958, u'(?i)(rats|rat)')"
+S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p32
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p33
-aS"(4979, u'(?i)(cats|cat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p34
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p36
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(3726, u'(?i)(mates|mate)')"
-p39
-aS"(3062, u'(?i)(guineas|guinea)')"
-p40
-aS"(1054, u'(?i)(homoes|homo)')"
-p41
-aS"(853, u'(?i)(minas|mina)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(1057, u'(?i)(humans|human)')"
-p45
-aS"(1414, u'(?i)(chars|char)')"
-p46
-aS"(3196, u'(?i)(human|humans)')"
-p47
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-atp50
-Rp51
+atp38
+Rp39
 sb.

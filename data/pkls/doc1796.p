@@ -44,70 +44,36 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2007
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(6, u'\\\\b5 ?mt')"
+((lp32
+S"(220, u'\\\\b5 ?methoxytryptamine')"
+p33
+aS"(221, u'\\\\b5 ?mt')"
 p34
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(149, u'\\\\bmem')"
 p35
-aS"(155, u'\\\\bmem')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(6249, u'(?i)(ants|ant)')"
+((lp39
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p40
+aS"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
 p41
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(3248, u'(?i)(offspring|offspring)')"
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(7609, u'(?i)(erns|ern)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(2389, u'(?i)(spats|spat)')"
-p47
-aS"(479, u'(?i)(lings|ling)')"
-p48
-aS"(5967, u'(?i)(males|male)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(3726, u'(?i)(mates|mate)')"
-p52
-aS"(107, u'(?i)(stags|stag)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(6682, u'(?i)(tera|teras)')"
-p56
-aS"(3722, u'(?i)(pups|pup)')"
-p57
-aS"(6753, u'(?i)(da|das)')"
-p58
-aS"(6580, u'(?i)(dams|dam)')"
-p59
-aS"(1683, u'(?i)(terns|tern)')"
-p60
-atp61
-Rp62
+atp44
+Rp45
 sb.

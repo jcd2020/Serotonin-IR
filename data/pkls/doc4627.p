@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(153, u'\\\\bgr ?113808')"
+S"(144, u'\\\\bgr ?113808')"
 p5
 atp6
 Rp7
@@ -40,11 +40,11 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
+S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
 p25
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p26
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p27
 atp28
 Rp29
@@ -62,38 +62,14 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p40
-aS"(4201, u'(?i)(kines|kine)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p41
-aS"(479, u'(?i)(lings|ling)')"
-p42
-aS"(3051, u'(?i)(pigs|pig)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(3062, u'(?i)(guineas|guinea)')"
-p45
-aS"(1054, u'(?i)(homoes|homo)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(4371, u'(?i)(lizas|liza)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+atp42
+Rp43
 sb.

@@ -8,90 +8,66 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(194, u'\\\\bmethysergide')"
 p6
-aS"(105, u'\\\\bmethysergide')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
-tp17
-Rp18
+((lp15
+tp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
-S'5ht5'
-p21
-aS'5ht3'
-p22
-atp23
-Rp24
+((lp19
+S'5ht3'
+p20
+atp21
+Rp22
 sS'regions'
+p23
+g3
+((lp24
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-g3
-((lp26
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p27
-atp28
-Rp29
+atp26
+Rp27
 sS'year'
-p30
+p28
 V1995
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(53, u'\\\\bmethysergide')"
 p32
-g3
-((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(149, u'\\\\bmem')"
+p33
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p34
-aS"(155, u'\\\\bmem')"
-p35
-aS"(60, u'\\\\bmethysergide')"
-p36
-atp37
-Rp38
+atp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(6753, u'(?i)(da|das)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(4201, u'(?i)(kines|kine)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(3522, u'(?i)(tetras|tetra)')"
-p48
-aS"(1414, u'(?i)(chars|char)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(4964, u'(?i)(serins|serin)')"
-p52
-atp53
-Rp54
+((lp38
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+aS"(6249, u'(?i)\\\\b(ants|ant)\\\\b')"
+p40
+atp41
+Rp42
 sb.

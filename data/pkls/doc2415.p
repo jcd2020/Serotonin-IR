@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -36,72 +36,42 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht5'
+S'5ht1a'
 p22
-aS'5ht1a'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(126, u'(?i)(thalamuses|thalamus)')"
+((lp26
+S"(195, u'(?i)\\\\b(telencephalons|telencephalon)\\\\b')"
+p27
+aS"(85, u'(?i)\\\\b(tectums|tectum)\\\\b')"
 p28
-aS"(195, u'(?i)(telencephalons|telencephalon)')"
-p29
-aS"(85, u'(?i)(tectums|tectum)')"
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'year'
-p33
+p31
 V2014
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(20, u'\\\\bbuspirone')"
 p35
-g3
-((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p37
-aS"(24, u'\\\\bbuspirone')"
-p38
-atp39
-Rp40
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p36
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(6753, u'(?i)(da|das)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(4657, u'(?i)(fish|fish)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(7539, u'(?i)(mammals|mammal)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(1414, u'(?i)(chars|char)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(3522, u'(?i)(tetras|tetra)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(1014, u'(?i)(zebras|zebra)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-atp58
-Rp59
+((lp40
+S"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
+p41
+aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+p42
+atp43
+Rp44
 sb.

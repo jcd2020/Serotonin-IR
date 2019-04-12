@@ -28,70 +28,46 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht1a'
 p18
-aS'5ht1a'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
-p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+((lp22
+S"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p23
+atp24
+Rp25
 sS'year'
-p28
+p26
 V1998
-p29
+p27
 sS'agonists'
+p28
+g3
+((lp29
+S"(149, u'\\\\bmem')"
 p30
-g3
-((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p32
-aS"(155, u'\\\\bmem')"
-p33
-atp34
-Rp35
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p31
+atp32
+Rp33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp35
+S"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p36
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p37
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p38
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p39
-aS"(6682, u'(?i)(tera|teras)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p40
-aS"(3051, u'(?i)(pigs|pig)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(3062, u'(?i)(guineas|guinea)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(3522, u'(?i)(tetras|tetra)')"
-p47
-aS"(1057, u'(?i)(humans|human)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p52
-atp53
-Rp54
+atp41
+Rp42
 sb.

@@ -48,54 +48,26 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(209, u'(?i)(amygdalas|amygdala)')"
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V1996
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(155, u'\\\\bmem')"
-p37
-atp38
-Rp39
+((lp35
+S"(149, u'\\\\bmem')"
+p36
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(4624, u'(?i)(apes|ape)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(479, u'(?i)(lings|ling)')"
-p46
-aS"(2183, u'(?i)(gars|gar)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-atp55
-Rp56
+((lp40
+tp41
+Rp42
 sb.

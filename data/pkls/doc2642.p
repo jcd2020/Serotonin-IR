@@ -40,44 +40,30 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p25
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2017
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2568, u'(?i)(hens|hen)')"
+((lp36
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+p37
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-aS"(2809, u'(?i)(toms|tom)')"
-p45
-atp46
-Rp47
+atp39
+Rp40
 sb.

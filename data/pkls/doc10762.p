@@ -40,11 +40,11 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(258, u'(?i)(superiors|superior)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(258, u'(?i)\\\\b(superiors|superior)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p25
-aS"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p26
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p34
 atp35
 Rp36
@@ -64,40 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p39
-aS"(5626, u'(?i)(posters|poster)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(4201, u'(?i)(kines|kine)')"
-p44
-aS"(2183, u'(?i)(gars|gar)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(853, u'(?i)(minas|mina)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(3522, u'(?i)(tetras|tetra)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(6682, u'(?i)(tera|teras)')"
-p55
-atp56
-Rp57
+atp40
+Rp41
 sb.

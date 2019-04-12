@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(136, u'\\\\btropisetron')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(45, u'\\\\bgr ?127935')"
+aS"(125, u'\\\\btropisetron')"
 p6
 atp7
 Rp8
@@ -60,60 +60,26 @@ sS'regions'
 p33
 g3
 ((lp34
-S"(70, u'(?i)(fourths|fourth)(-|\\\\s+)?(ventricles|ventricle)')"
+S"(70, u'(?i)\\\\b(fourths|fourth)(-|\\\\s+)?(ventricles|ventricle)\\\\b')"
 p35
-aS"(34, u'(?i)(pon|pons)')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'year'
-p39
+p38
 V2004
-p40
+p39
 sS'agonists'
-p41
+p40
 g3
-((lp42
-tp43
-Rp44
+((lp41
+tp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(1070, u'(?i)(pets|pet)')"
-p47
-aS"(2323, u'(?i)(bees|bee)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(7609, u'(?i)(erns|ern)')"
-p52
-aS"(867, u'(?i)(tits|tit)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p55
-aS"(3404, u'(?i)(titis|titi)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(3592, u'(?i)(ravens|raven)')"
-p58
-aS"(4979, u'(?i)(cats|cat)')"
-p59
-aS"(3550, u'(?i)(anis|ani)')"
-p60
-aS"(3812, u'(?i)(studs|stud)')"
-p61
-aS"(6391, u'(?i)(asses|ass)')"
-p62
-aS"(1683, u'(?i)(terns|tern)')"
-p63
-atp64
-Rp65
+((lp45
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+p46
+atp47
+Rp48
 sb.

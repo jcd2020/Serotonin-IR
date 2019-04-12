@@ -50,9 +50,9 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(47, u'\\\\bgepirone')"
+S"(20, u'\\\\bbuspirone')"
 p31
-aS"(24, u'\\\\bbuspirone')"
+aS"(42, u'\\\\bgepirone')"
 p32
 atp33
 Rp34
@@ -60,16 +60,8 @@ sS'species'
 p35
 g3
 ((lp36
-S"(6356, u'(?i)(ais|ai)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p37
-aS"(5743, u'(?i)(bots|bot)')"
-p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(7058, u'(?i)(does|doe)')"
-p41
-atp42
-Rp43
+atp38
+Rp39
 sb.

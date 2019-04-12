@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(83, u'\\\\bcariprazine')"
+S"(74, u'\\\\bcariprazine')"
 p5
 atp6
 Rp7
@@ -40,11 +40,11 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(220, u'(?i)(striatums|striatum)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p25
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p26
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(26, u'\\\\bcariprazine')"
+S"(22, u'\\\\bcariprazine')"
 p34
 atp35
 Rp36
@@ -64,40 +64,12 @@ sS'species'
 p37
 g3
 ((lp38
-S"(1070, u'(?i)(pets|pet)')"
+S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p41
-aS"(2401, u'(?i)(primates|primate)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(3726, u'(?i)(mates|mate)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(1057, u'(?i)(humans|human)')"
-p48
-aS"(5229, u'(?i)(moles|mole)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(3196, u'(?i)(human|humans)')"
-p52
-aS"(2809, u'(?i)(toms|tom)')"
-p53
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+atp42
+Rp43
 sb.

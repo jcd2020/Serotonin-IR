@@ -40,54 +40,28 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2019
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp34
+S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
+p35
+aS"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(2401, u'(?i)(primates|primate)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(3726, u'(?i)(mates|mate)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(5917, u'(?i)(roaches|roach)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(391, u'(?i)(alli|allis)')"
-p48
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p49
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p50
-atp51
-Rp52
+atp38
+Rp39
 sb.

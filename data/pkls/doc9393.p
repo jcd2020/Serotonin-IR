@@ -20,25 +20,25 @@ sS'topics'
 p11
 g3
 ((lp12
-S"(6, u'\\\\bcognit')"
+S"(37, u'\\\\baddict')"
 p13
-aS"(14, u'\\\\bpsychosis')"
-p14
-aS"(7, u'\\\\bmemory')"
-p15
-aS"(13, u'\\\\bpsychedel')"
-p16
 aS"(1, u'\\\\bmood')"
+p14
+aS"(13, u'\\\\bpsychedel')"
+p15
+aS"(7, u'\\\\bmemory')"
+p16
+aS"(14, u'\\\\bpsychosis')"
 p17
-atp18
-Rp19
+aS"(6, u'\\\\bcognit')"
+p18
+atp19
+Rp20
 sS'receptors'
-p20
+p21
 g3
-((lp21
-S'5ht5'
-p22
-aS'5ht2a'
+((lp22
+S'5ht2a'
 p23
 atp24
 Rp25
@@ -56,11 +56,11 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(56, u'\\\\blsd')"
+S"(158, u'\\\\blsd')"
 p34
-aS"(55, u'\\\\blysergic acid diethylamide')"
+aS"(49, u'\\\\blysergic acid diethylamide')"
 p35
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p36
 atp37
 Rp38
@@ -68,44 +68,10 @@ sS'species'
 p39
 g3
 ((lp40
-S"(2323, u'(?i)(bees|bee)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(949, u'(?i)(cohoes|coho)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(3431, u'(?i)(roans|roan)')"
-p44
-aS"(6682, u'(?i)(tera|teras)')"
-p45
-aS"(81, u'(?i)(asps|asp)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(3726, u'(?i)(mates|mate)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(1057, u'(?i)(humans|human)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(3196, u'(?i)(human|humans)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-aS"(5863, u'(?i)(entires|entire)')"
-p59
-atp60
-Rp61
+atp43
+Rp44
 sb.

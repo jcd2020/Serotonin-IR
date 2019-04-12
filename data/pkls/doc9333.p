@@ -58,20 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(6753, u'(?i)(da|das)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-aS"(5743, u'(?i)(bots|bot)')"
-p37
-aS"(163, u'(?i)(mice|mouse)')"
-p38
-aS"(853, u'(?i)(minas|mina)')"
-p39
-aS"(3812, u'(?i)(studs|stud)')"
-p40
-aS"(6391, u'(?i)(asses|ass)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-atp43
-Rp44
+atp37
+Rp38
 sb.

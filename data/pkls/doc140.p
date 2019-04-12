@@ -46,7 +46,7 @@ sS'agonists'
 p27
 g3
 ((lp28
-S"(50, u'\\\\bipsapirone')"
+S"(45, u'\\\\bipsapirone')"
 p29
 atp30
 Rp31
@@ -54,24 +54,6 @@ sS'species'
 p32
 g3
 ((lp33
-S"(5537, u'(?i)(hippos|hippo)')"
-p34
-aS"(5958, u'(?i)(rats|rat)')"
-p35
-aS"(6753, u'(?i)(da|das)')"
-p36
-aS"(1266, u'(?i)(embryos|embryo)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(5743, u'(?i)(bots|bot)')"
-p39
-aS"(3550, u'(?i)(anis|ani)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-atp43
-Rp44
+tp34
+Rp35
 sb.

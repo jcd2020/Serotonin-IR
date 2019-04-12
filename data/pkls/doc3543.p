@@ -50,58 +50,30 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+tp30
+Rp31
 sS'year'
-p33
+p32
 V2017
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(192, u'\\\\bchlorophenylbiguanide')"
+((lp35
+S"(188, u'\\\\bchlorophenylbiguanide')"
+p36
+aS"(149, u'\\\\bmem')"
 p37
-aS"(155, u'\\\\bmem')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(2568, u'(?i)(hens|hen)')"
+((lp41
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(5967, u'(?i)(males|male)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(6878, u'(?i)(guans|guan)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+atp44
+Rp45
 sb.

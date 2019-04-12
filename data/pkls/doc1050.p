@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(43, u'\\\\bbrl ?15572')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(45, u'\\\\bgr ?127935')"
+aS"(41, u'\\\\bbrl ?15572')"
 p6
-aS"(39, u'\\\\bsb ?224289')"
+aS"(38, u'\\\\bsb ?224289')"
 p7
 atp8
 Rp9
@@ -44,9 +44,9 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p27
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
 atp29
 Rp30
@@ -58,13 +58,13 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
+S"(114, u'\\\\bl ?694247')"
 p35
-aS"(104, u'\\\\bzolmitriptan')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p36
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p37
-aS"(121, u'\\\\bl ?694247')"
+aS"(97, u'\\\\bzolmitriptan')"
 p38
 atp39
 Rp40
@@ -72,46 +72,14 @@ sS'species'
 p41
 g3
 ((lp42
-S"(6753, u'(?i)(da|das)')"
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
 p43
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p44
-aS"(3767, u'(?i)(olms|olm)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p45
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p46
-aS"(4163, u'(?i)(ermines|ermine)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(2395, u'(?i)(mutants|mutant)')"
-p52
-aS"(1057, u'(?i)(humans|human)')"
-p53
-aS"(5229, u'(?i)(moles|mole)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(3196, u'(?i)(human|humans)')"
-p57
-aS"(6642, u'(?i)(lions|lion)')"
-p58
-aS"(1628, u'(?i)(cod|cod)')"
-p59
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p60
-aS"(4979, u'(?i)(cats|cat)')"
-p61
-aS"(4964, u'(?i)(serins|serin)')"
-p62
-atp63
-Rp64
+atp47
+Rp48
 sb.

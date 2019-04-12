@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bsb ?242084')"
+S"(99, u'\\\\bsb ?242084')"
 p5
 atp6
 Rp7
@@ -42,76 +42,44 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(236, u'(?i)\\\\b(septals|septal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(165, u'(?i)(preoptics|preoptic)(-|\\\\s+)?(areas|area)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p27
-aS"(236, u'(?i)(septals|septal)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p28
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p29
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
 p31
-aS"(34, u'(?i)(pon|pons)')"
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p32
-aS"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p33
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'year'
-p37
+p36
 V2016
-p38
+p37
 sS'agonists'
-p39
+p38
 g3
-((lp40
-S"(172, u'\\\\bmk ?212')"
-p41
-atp42
-Rp43
+((lp39
+S"(166, u'\\\\bmk ?212')"
+p40
+atp41
+Rp42
 sS'species'
-p44
+p43
 g3
-((lp45
-S"(2323, u'(?i)(bees|bee)')"
+((lp44
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(7609, u'(?i)(erns|ern)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(3726, u'(?i)(mates|mate)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(7094, u'(?i)(curs|cur)')"
-p58
-aS"(3722, u'(?i)(pups|pup)')"
-p59
-aS"(3431, u'(?i)(roans|roan)')"
-p60
-aS"(2809, u'(?i)(toms|tom)')"
-p61
-aS"(1683, u'(?i)(terns|tern)')"
-p62
-atp63
-Rp64
+atp47
+Rp48
 sb.

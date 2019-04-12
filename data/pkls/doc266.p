@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(173, u'\\\\blu ae58054')"
+S"(165, u'\\\\blu ae58054')"
 p5
-aS"(172, u'\\\\bidalopirdine')"
+aS"(164, u'\\\\bidalopirdine')"
 p6
 atp7
 Rp8
@@ -48,62 +48,30 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p29
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2017
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-tp39
-Rp40
+((lp37
+tp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(2103, u'(?i)(nesters|nester)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(1349, u'(?i)(rams|ram)')"
-p47
-aS"(7094, u'(?i)(curs|cur)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(2334, u'(?i)(eels|eel)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(107, u'(?i)(stags|stag)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(1628, u'(?i)(cod|cod)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+((lp41
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

@@ -8,104 +8,66 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(194, u'\\\\bmethysergide')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(54, u'\\\\britanserin')"
+aS"(119, u'\\\\britanserin')"
 p7
-aS"(105, u'\\\\bmethysergide')"
-p8
-aS"(130, u'\\\\britanserin')"
-p9
-atp10
-Rp11
+atp8
+Rp9
 sS'methods'
-p12
+p10
 g3
-((lp13
+((lp11
 S'Method.ANTAGONIST'
-p14
+p12
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p13
+atp14
+Rp15
 sS'topics'
-p18
+p16
 g3
-((lp19
+((lp17
 S"(16, u'\\\\bfeed')"
-p20
-atp21
-Rp22
+p18
+atp19
+Rp20
 sS'receptors'
+p21
+g3
+((lp22
+S'5ht3'
 p23
-g3
-((lp24
-S'5ht5'
-p25
-aS'5ht3'
-p26
 aS'5ht2'
-p27
-atp28
-Rp29
+p24
+atp25
+Rp26
 sS'regions'
-p30
+p27
 g3
-((lp31
-S"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+((lp28
+tp29
+Rp30
 sS'year'
-p35
+p31
 V1991
-p36
+p32
 sS'agonists'
-p37
+p33
 g3
-((lp38
-S"(60, u'\\\\bmethysergide')"
-p39
-atp40
-Rp41
+((lp34
+S"(53, u'\\\\bmethysergide')"
+p35
+atp36
+Rp37
 sS'species'
-p42
+p38
 g3
-((lp43
-S"(6753, u'(?i)(da|das)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(6857, u'(?i)(ormers|ormer)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(5131, u'(?i)(hags|hag)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(7094, u'(?i)(curs|cur)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(5949, u'(?i)(dogs|dog)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(4964, u'(?i)(serins|serin)')"
-p59
-atp60
-Rp61
+((lp39
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

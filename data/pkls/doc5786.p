@@ -34,76 +34,46 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht1a'
 p21
-aS'5ht1a'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(209, u'(?i)(amygdalas|amygdala)')"
+((lp25
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p26
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p30
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p33
-atp34
-Rp35
+atp31
+Rp32
 sS'year'
-p36
+p33
 V1992
-p37
+p34
 sS'agonists'
-p38
+p35
 g3
-((lp39
-S"(50, u'\\\\bipsapirone')"
-p40
-atp41
-Rp42
+((lp36
+S"(45, u'\\\\bipsapirone')"
+p37
+atp38
+Rp39
 sS'species'
-p43
+p40
 g3
-((lp44
-S"(6753, u'(?i)(da|das)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(3592, u'(?i)(ravens|raven)')"
-p52
-aS"(1054, u'(?i)(homoes|homo)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+((lp41
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

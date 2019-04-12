@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p24
-aS"(363, u'(?i)(cranials|cranial)(-|\\\\s+)?(nerve|nerves)')"
+aS"(363, u'(?i)\\\\b(cranials|cranial)(-|\\\\s+)?(nerve|nerves)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,28 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(2054, u'(?i)(heads|head)')"
+S"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(6125, u'(?i)(females|female)')"
-p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(5967, u'(?i)(males|male)')"
-p40
-aS"(7094, u'(?i)(curs|cur)')"
-p41
-aS"(853, u'(?i)(minas|mina)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(5949, u'(?i)(dogs|dog)')"
-p46
-atp47
-Rp48
+atp37
+Rp38
 sb.

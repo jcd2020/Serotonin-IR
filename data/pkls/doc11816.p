@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -36,86 +36,52 @@ g3
 ((lp20
 S'5ht1b'
 p21
-aS'5ht5'
+aS'5ht1a'
 p22
-aS'5ht2c'
+aS'5ht2'
 p23
 aS'5ht1'
 p24
 aS'5ht2a'
 p25
-aS'5ht1a'
+aS'5ht2c'
 p26
-aS'5ht2'
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-atp33
-Rp34
+((lp30
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p31
+atp32
+Rp33
 sS'year'
-p35
+p34
 V1996
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(169, u'\\\\bfenfluramine')"
-p39
-atp40
-Rp41
+((lp37
+S"(163, u'\\\\bfenfluramine')"
+p38
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
+((lp42
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p43
+aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
 p44
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p45
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(479, u'(?i)(lings|ling)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(1349, u'(?i)(rams|ram)')"
-p55
-aS"(853, u'(?i)(minas|mina)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(1057, u'(?i)(humans|human)')"
-p58
-aS"(7539, u'(?i)(mammals|mammal)')"
-p59
-aS"(3592, u'(?i)(ravens|raven)')"
-p60
-aS"(3196, u'(?i)(human|humans)')"
-p61
-aS"(6857, u'(?i)(ormers|ormer)')"
-p62
-aS"(5743, u'(?i)(bots|bot)')"
-p63
-aS"(3812, u'(?i)(studs|stud)')"
-p64
-atp65
-Rp66
+atp48
+Rp49
 sb.

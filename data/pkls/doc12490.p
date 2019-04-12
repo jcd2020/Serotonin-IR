@@ -32,70 +32,38 @@ g3
 ((lp18
 S'5ht3a'
 p19
-aS'5ht5'
-p20
 aS'5ht4'
-p21
+p20
 aS'5ht3'
-p22
+p21
 aS'5ht4a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-tp28
-Rp29
+((lp26
+tp27
+Rp28
 sS'year'
-p30
+p29
 V1999
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(201, u'\\\\bbimu ?8')"
-p34
-atp35
-Rp36
+((lp32
+S"(197, u'\\\\bbimu ?8')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(7609, u'(?i)(erns|ern)')"
-p40
-aS"(2666, u'(?i)(mantas|manta)')"
-p41
-aS"(867, u'(?i)(tits|tit)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(1928, u'(?i)(bears|bear)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(5131, u'(?i)(hags|hag)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(7604, u'(?i)(cyclop|cyclops)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(1948, u'(?i)(pacers|pacer)')"
-p53
-aS"(1683, u'(?i)(terns|tern)')"
-p54
-atp55
-Rp56
+((lp37
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

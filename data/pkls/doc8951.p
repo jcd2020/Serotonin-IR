@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -38,68 +38,42 @@ g3
 ((lp21
 S'5ht1a'
 p22
-aS'5ht5'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(214, u'(?i)(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+((lp26
+S"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
+p27
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p28
-aS"(178, u'(?i)(laterals|lateral)(-|\\\\s+)?(nuclei|nucleus)')"
-p29
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p30
-aS"(215, u'(?i)(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)')"
-p31
-atp32
-Rp33
+atp29
+Rp30
 sS'year'
-p34
+p31
 V2012
-p35
+p32
 sS'agonists'
-p36
+p33
 g3
-((lp37
-S"(44, u'\\\\bflesinoxan')"
-p38
-atp39
-Rp40
+((lp34
+S"(39, u'\\\\bflesinoxan')"
+p35
+atp36
+Rp37
 sS'species'
-p41
+p38
 g3
-((lp42
-S"(6753, u'(?i)(da|das)')"
+((lp39
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p40
+aS"(5218, u'(?i)\\\\b(mesocricetuses|mesocricetus)(-|\\\\s+)?(auratuses|auratus)\\\\b')"
+p41
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p42
+aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(5218, u'(?i)(mesocricetuses|mesocricetus)(-|\\\\s+)?(auratuses|auratus)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(5967, u'(?i)(males|male)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(5217, u'(?i)(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+atp44
+Rp45
 sb.

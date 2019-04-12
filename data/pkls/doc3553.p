@@ -30,64 +30,44 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht1a'
 p19
-aS'5ht1a'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp23
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p24
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2000
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(50, u'\\\\bipsapirone')"
-p33
-atp34
-Rp35
+((lp31
+S"(45, u'\\\\bipsapirone')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(5958, u'(?i)(rats|rat)')"
+((lp36
+S"(5863, u'(?i)\\\\b(entires|entire)\\\\b')"
+p37
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p38
-aS"(4979, u'(?i)(cats|cat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(4091, u'(?i)(adults|adult)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p40
-aS"(5967, u'(?i)(males|male)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(1349, u'(?i)(rams|ram)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(1628, u'(?i)(cod|cod)')"
-p49
-aS"(5863, u'(?i)(entires|entire)')"
-p50
-atp51
-Rp52
+atp41
+Rp42
 sb.

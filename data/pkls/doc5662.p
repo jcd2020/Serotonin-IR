@@ -34,62 +34,38 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p22
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p23
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp24
+Rp25
 sS'year'
-p28
+p26
 V1993
-p29
+p27
 sS'agonists'
-p30
+p28
 g3
-((lp31
-tp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'species'
-p34
+p32
 g3
-((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp33
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p34
+aS"(3245, u'(?i)\\\\b(deer|deer)(-|\\\\s+)?(mice|mouse)\\\\b')"
+p35
+aS"(3246, u'(?i)\\\\b(peromyscuses|peromyscus)(-|\\\\s+)?(maniculatuses|maniculatus)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(6639, u'(?i)\\\\b(deer|deer)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1055, u'(?i)\\\\b(men|man)\\\\b')"
 p38
-aS"(898, u'(?i)(peromyscuses|peromyscus)(-|\\\\s+)?(leucopuses|leucopus)')"
+aS"(898, u'(?i)\\\\b(peromyscuses|peromyscus)(-|\\\\s+)?(leucopuses|leucopus)\\\\b')"
 p39
-aS"(163, u'(?i)(mice|mouse)')"
-p40
-aS"(4163, u'(?i)(ermines|ermine)')"
-p41
-aS"(1686, u'(?i)(gibs|gib)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(3246, u'(?i)(peromyscuses|peromyscus)(-|\\\\s+)?(maniculatuses|maniculatus)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(6639, u'(?i)(deer|deer)')"
-p50
-aS"(3245, u'(?i)(deer|deer)(-|\\\\s+)?(mice|mouse)')"
-p51
-atp52
-Rp53
+atp40
+Rp41
 sb.

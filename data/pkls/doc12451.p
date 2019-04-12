@@ -8,72 +8,60 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+p10
+atp11
+Rp12
 sS'topics'
-p14
+p13
 g3
-((lp15
+((lp14
 S"(19, u'\\\\bimpulsiv')"
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
+((lp19
 S'5ht6'
-p21
+p20
 aS'5ht2b'
-p22
+p21
 aS'5ht2c'
-p23
+p22
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V2006
-p33
+p31
 sS'agonists'
-p34
+p32
 g3
-((lp35
-tp36
-Rp37
+((lp33
+tp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(2323, u'(?i)(bees|bee)')"
-p40
-aS"(4964, u'(?i)(serins|serin)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(6391, u'(?i)(asses|ass)')"
-p43
-atp44
-Rp45
+((lp37
+tp38
+Rp39
 sb.

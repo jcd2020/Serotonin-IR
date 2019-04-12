@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(105, u'\\\\bmethysergide')"
+S"(194, u'\\\\bmethysergide')"
 p5
 atp6
 Rp7
@@ -46,7 +46,7 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(368, u'(?i)(basilars|basilar)(-|\\\\s+)?(arteries|artery)')"
+S"(368, u'(?i)\\\\b(basilars|basilar)(-|\\\\s+)?(arteries|artery)\\\\b')"
 p28
 atp29
 Rp30
@@ -58,13 +58,13 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(196, u'\\\\bquipazine')"
+S"(20, u'\\\\bbuspirone')"
 p35
-aS"(24, u'\\\\bbuspirone')"
+aS"(53, u'\\\\bmethysergide')"
 p36
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p37
-aS"(60, u'\\\\bmethysergide')"
+aS"(192, u'\\\\bquipazine')"
 p38
 atp39
 Rp40
@@ -72,40 +72,10 @@ sS'species'
 p41
 g3
 ((lp42
-S"(2568, u'(?i)(hens|hen)')"
+S"(4208, u'(?i)\\\\b(canines|canine)\\\\b')"
 p43
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(3726, u'(?i)(mates|mate)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(4208, u'(?i)(canines|canine)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(3522, u'(?i)(tetras|tetra)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(7609, u'(?i)(erns|ern)')"
-p58
-aS"(1683, u'(?i)(terns|tern)')"
-p59
-atp60
-Rp61
+atp45
+Rp46
 sb.

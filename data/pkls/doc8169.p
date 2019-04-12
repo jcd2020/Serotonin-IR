@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -44,11 +44,11 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p27
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(189, u'(?i)\\\\b(subthalamics|subthalamic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(189, u'(?i)(subthalamics|subthalamic)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
 atp30
 Rp31
@@ -60,9 +60,9 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(80, u'\\\\btandospirone')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(73, u'\\\\btandospirone')"
 p37
 atp38
 Rp39
@@ -70,30 +70,8 @@ sS'species'
 p40
 g3
 ((lp41
-S"(4624, u'(?i)(apes|ape)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(4404, u'(?i)(duns|dun)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(3522, u'(?i)(tetras|tetra)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-atp54
-Rp55
+atp43
+Rp44
 sb.

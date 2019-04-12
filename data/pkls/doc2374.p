@@ -42,44 +42,30 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V1994
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp31
+S"(45, u'\\\\bipsapirone')"
+p32
+aS"(149, u'\\\\bmem')"
 p33
-aS"(50, u'\\\\bipsapirone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p34
-aS"(155, u'\\\\bmem')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(2389, u'(?i)(spats|spat)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(7094, u'(?i)(curs|cur)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-atp47
-Rp48
+((lp38
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

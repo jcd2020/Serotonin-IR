@@ -28,68 +28,44 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht1a'
 p18
-aS'5ht1a'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(220, u'(?i)(striatums|striatum)')"
+((lp22
+S"(195, u'(?i)\\\\b(telencephalons|telencephalon)\\\\b')"
+p23
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p24
-aS"(195, u'(?i)(telencephalons|telencephalon)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2000
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(2323, u'(?i)(bees|bee)')"
+((lp34
+S"(5510, u'(?i)\\\\b(bays|bay)\\\\b')"
+p35
+aS"(1266, u'(?i)\\\\b(embryos|embryo)\\\\b')"
 p36
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(709, u'(?i)\\\\b(chicks|chick)\\\\b')"
 p38
-aS"(5510, u'(?i)(bays|bay)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(1266, u'(?i)(embryos|embryo)')"
-p41
-aS"(4091, u'(?i)(adults|adult)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(3726, u'(?i)(mates|mate)')"
-p45
-aS"(6580, u'(?i)(dams|dam)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(709, u'(?i)(chicks|chick)')"
-p50
-aS"(5537, u'(?i)(hippos|hippo)')"
-p51
-atp52
-Rp53
+atp40
+Rp41
 sb.

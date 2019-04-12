@@ -48,7 +48,7 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(126, u'(?i)(thalamuses|thalamus)')"
+S"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p29
 atp30
 Rp31
@@ -66,28 +66,12 @@ sS'species'
 p38
 g3
 ((lp39
-S"(6249, u'(?i)(ants|ant)')"
+S"(5864, u'(?i)\\\\b(fetuses|fetus)\\\\b')"
 p40
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(1055, u'(?i)(men|man)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(107, u'(?i)(stags|stag)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(5864, u'(?i)(fetuses|fetus)')"
-p45
-aS"(1057, u'(?i)(humans|human)')"
-p46
-aS"(4371, u'(?i)(lizas|liza)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(3196, u'(?i)(human|humans)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp43
+Rp44
 sb.

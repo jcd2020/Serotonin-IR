@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
 atp6
 Rp7
@@ -42,56 +42,32 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2014
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(6249, u'(?i)(ants|ant)')"
+((lp35
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p36
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(4979, u'(?i)(cats|cat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(4091, u'(?i)(adults|adult)')"
-p41
-aS"(5967, u'(?i)(males|male)')"
-p42
-aS"(5551, u'(?i)(owls|owl)')"
-p43
-aS"(1349, u'(?i)(rams|ram)')"
-p44
-aS"(4604, u'(?i)(mites|mite)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(2942, u'(?i)(daws|daw)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(1057, u'(?i)(humans|human)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(5743, u'(?i)(bots|bot)')"
-p52
-atp53
-Rp54
+atp41
+Rp42
 sb.

@@ -8,116 +8,88 @@ c__builtin__
 set
 p3
 ((lp4
-S"(200, u'\\\\bmesulergine')"
+S"(193, u'\\\\bmesulergine')"
 p5
-aS"(52, u'\\\\bmetergoline')"
+aS"(34, u'\\\\bmetergoline')"
 p6
 aS"(21, u'\\\\bpindolol')"
 p7
-aS"(35, u'\\\\bmetergoline')"
-p8
 aS"(22, u'\\\\bpropranolol')"
-p9
-atp10
-Rp11
+p8
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1c'
-p23
+p22
 aS'5ht1b'
-p24
+p23
 aS'5ht1a'
-p25
-aS'5ht5'
-p26
+p24
 aS'5ht1d'
-p27
-atp28
-Rp29
+p25
+atp26
+Rp27
 sS'regions'
+p28
+g3
+((lp29
+S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p30
-g3
-((lp31
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'year'
-p35
+p33
 V1992
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(165, u'\\\\bmesulergine')"
 p37
-g3
-((lp38
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p38
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p39
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
-p40
-aS"(171, u'\\\\bmesulergine')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(1070, u'(?i)(pets|pet)')"
+((lp43
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p46
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(5721, u'(?i)\\\\b(opossums|opossum)\\\\b')"
 p47
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
 p48
-aS"(702, u'(?i)(genets|genet)')"
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p49
-aS"(6753, u'(?i)(da|das)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p50
-aS"(479, u'(?i)(lings|ling)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p51
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(3062, u'(?i)(guineas|guinea)')"
-p56
-aS"(5722, u'(?i)(possums|possum)')"
-p57
-aS"(4979, u'(?i)(cats|cat)')"
-p58
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p59
-aS"(5721, u'(?i)(opossums|opossum)')"
-p60
-aS"(5958, u'(?i)(rats|rat)')"
-p61
-aS"(6356, u'(?i)(ais|ai)')"
-p62
-aS"(7488, u'(?i)(molas|mola)')"
-p63
-aS"(391, u'(?i)(alli|allis)')"
-p64
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p65
-atp66
-Rp67
+atp52
+Rp53
 sb.

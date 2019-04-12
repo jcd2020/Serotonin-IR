@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(140, u'\\\\brenzapride')"
+S"(130, u'\\\\bzacopride')"
 p5
-aS"(143, u'\\\\bmosapride')"
+aS"(128, u'\\\\bmetoclopramide')"
 p6
-aS"(139, u'\\\\bmetoclopramide')"
+aS"(132, u'\\\\bmosapride')"
 p7
-aS"(141, u'\\\\bzacopride')"
+aS"(129, u'\\\\brenzapride')"
 p8
 atp9
 Rp10
@@ -56,19 +56,19 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(205, u'\\\\bmosapride')"
+S"(203, u'\\\\brenzapride')"
 p34
-aS"(202, u'\\\\bcisapride')"
+aS"(149, u'\\\\bmem')"
 p35
-aS"(213, u'\\\\bmetoclopramide')"
+aS"(197, u'\\\\bbimu ?8')"
 p36
-aS"(155, u'\\\\bmem')"
+aS"(198, u'\\\\bcisapride')"
 p37
-aS"(207, u'\\\\brenzapride')"
+aS"(209, u'\\\\bmetoclopramide')"
 p38
-aS"(212, u'\\\\bzacopride')"
+aS"(208, u'\\\\bzacopride')"
 p39
-aS"(201, u'\\\\bbimu ?8')"
+aS"(201, u'\\\\bmosapride')"
 p40
 atp41
 Rp42
@@ -76,28 +76,12 @@ sS'species'
 p43
 g3
 ((lp44
-S"(5958, u'(?i)(rats|rat)')"
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p45
-aS"(4201, u'(?i)(kines|kine)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p46
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(3062, u'(?i)(guineas|guinea)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-atp56
-Rp57
+atp48
+Rp49
 sb.

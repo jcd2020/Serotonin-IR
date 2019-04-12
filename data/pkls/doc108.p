@@ -38,68 +38,36 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(220, u'(?i)(striatums|striatum)')"
+S"(222, u'(?i)\\\\b(neostriatums|neostriatum)\\\\b')"
 p24
-aS"(222, u'(?i)(neostriatums|neostriatum)')"
-p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+atp25
+Rp26
 sS'year'
-p29
+p27
 V1993
-p30
+p28
 sS'agonists'
+p29
+g3
+((lp30
+S"(20, u'\\\\bbuspirone')"
 p31
-g3
-((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(39, u'\\\\bflesinoxan')"
+p32
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p33
-aS"(44, u'\\\\bflesinoxan')"
-p34
-aS"(24, u'\\\\bbuspirone')"
-p35
-atp36
-Rp37
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(4624, u'(?i)(apes|ape)')"
+((lp37
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p39
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(5967, u'(?i)(males|male)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3726, u'(?i)(mates|mate)')"
-p48
-aS"(2942, u'(?i)(daws|daw)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(7609, u'(?i)(erns|ern)')"
-p53
-aS"(1795, u'(?i)(mounts|mount)')"
-p54
-aS"(1683, u'(?i)(terns|tern)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-atp57
-Rp58
+atp41
+Rp42
 sb.

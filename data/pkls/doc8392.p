@@ -34,46 +34,26 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(34, u'(?i)(pon|pons)')"
-p22
-atp23
-Rp24
+tp22
+Rp23
 sS'year'
-p25
+p24
 V2000
-p26
+p25
 sS'agonists'
-p27
+p26
 g3
-((lp28
-S"(155, u'\\\\bmem')"
-p29
-atp30
-Rp31
+((lp27
+S"(149, u'\\\\bmem')"
+p28
+atp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(5537, u'(?i)(hippos|hippo)')"
-p34
-aS"(5799, u'(?i)(rodents|rodent)')"
-p35
-aS"(931, u'(?i)(divers|diver)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(5743, u'(?i)(bots|bot)')"
-p39
-aS"(1961, u'(?i)(pens|pen)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(5949, u'(?i)(dogs|dog)')"
-p43
-atp44
-Rp45
+((lp32
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p33
+atp34
+Rp35
 sb.

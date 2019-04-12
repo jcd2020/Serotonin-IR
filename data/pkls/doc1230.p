@@ -8,116 +8,84 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(133, u'\\\\bmianserin')"
 p5
-aS"(200, u'\\\\bmesulergine')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(130, u'\\\\britanserin')"
+aS"(194, u'\\\\bmethysergide')"
 p7
-aS"(105, u'\\\\bmethysergide')"
+aS"(193, u'\\\\bmesulergine')"
 p8
-aS"(128, u'\\\\bketanserin')"
+aS"(26, u'\\\\bspiperone')"
 p9
-aS"(54, u'\\\\britanserin')"
+aS"(119, u'\\\\britanserin')"
 p10
-aS"(117, u'\\\\bmianserin')"
-p11
-aS"(27, u'\\\\bspiperone')"
-p12
-atp13
-Rp14
+atp11
+Rp12
 sS'methods'
-p15
+p13
 g3
-((lp16
+((lp14
 S'Method.ANTAGONIST'
-p17
+p15
 aS'Method.AGONIST'
-p18
-atp19
-Rp20
+p16
+atp17
+Rp18
 sS'topics'
-p21
+p19
 g3
-((lp22
-tp23
-Rp24
+((lp20
+tp21
+Rp22
 sS'receptors'
-p25
+p23
 g3
-((lp26
+((lp24
 S'5ht1c'
-p27
-aS'5ht5'
-p28
+p25
 aS'5ht3a'
-p29
+p26
 aS'5ht2'
-p30
+p27
 aS'5ht1'
-p31
+p28
 aS'5ht2a'
-p32
-atp33
-Rp34
+p29
+atp30
+Rp31
 sS'regions'
-p35
+p32
 g3
-((lp36
-tp37
-Rp38
+((lp33
+tp34
+Rp35
 sS'year'
-p39
+p36
 V1993
-p40
+p37
 sS'agonists'
+p38
+g3
+((lp39
+S"(165, u'\\\\bmesulergine')"
+p40
+aS"(96, u'\\\\bsumatriptan')"
 p41
-g3
-((lp42
-S"(103, u'\\\\bsumatriptan')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p42
+aS"(53, u'\\\\bmethysergide')"
 p43
-aS"(196, u'\\\\bquipazine')"
+aS"(192, u'\\\\bquipazine')"
 p44
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
-p45
-aS"(60, u'\\\\bmethysergide')"
-p46
-aS"(171, u'\\\\bmesulergine')"
-p47
-atp48
-Rp49
+atp45
+Rp46
 sS'species'
-p50
+p47
 g3
-((lp51
-S"(1070, u'(?i)(pets|pet)')"
-p52
-aS"(3404, u'(?i)(titis|titi)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(867, u'(?i)(tits|tit)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(468, u'(?i)(oxen|ox)')"
-p57
-aS"(1055, u'(?i)(men|man)')"
-p58
-aS"(107, u'(?i)(stags|stag)')"
-p59
-aS"(4964, u'(?i)(serins|serin)')"
-p60
-aS"(6249, u'(?i)(ants|ant)')"
-p61
-aS"(3522, u'(?i)(tetras|tetra)')"
-p62
-aS"(1961, u'(?i)(pens|pen)')"
-p63
-aS"(1414, u'(?i)(chars|char)')"
-p64
-aS"(4624, u'(?i)(apes|ape)')"
-p65
-atp66
-Rp67
+((lp48
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

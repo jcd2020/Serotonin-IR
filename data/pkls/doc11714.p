@@ -32,50 +32,34 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2a'
 p20
-aS'5ht2a'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-tp26
-Rp27
+((lp24
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2000
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(46, u'\\\\bginkgo biloba')"
-p32
-atp33
-Rp34
+((lp30
+S"(41, u'\\\\bginkgo biloba')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(6753, u'(?i)(da|das)')"
-p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(4964, u'(?i)(serins|serin)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-atp45
-Rp46
+((lp35
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p36
+atp37
+Rp38
 sb.

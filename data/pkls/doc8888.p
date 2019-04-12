@@ -34,72 +34,50 @@ g3
 ((lp19
 S'5ht3a'
 p20
-aS'5ht5'
-p21
 aS'5ht3'
-p22
+p21
 aS'5ht3c'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp26
+S"(195, u'(?i)\\\\b(telencephalons|telencephalon)\\\\b')"
+p27
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p29
-aS"(195, u'(?i)(telencephalons|telencephalon)')"
+aS"(243, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(olfactories|olfactory)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(34, u'(?i)(pon|pons)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p31
-aS"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
-p32
-aS"(243, u'(?i)(anteriors|anterior)(-|\\\\s+)?(olfactories|olfactory)(-|\\\\s+)?(nuclei|nucleus)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V2004
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(149, u'\\\\bmem')"
 p38
-g3
-((lp39
-S"(155, u'\\\\bmem')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp42
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p43
+aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(7609, u'(?i)(erns|ern)')"
-p47
-aS"(7539, u'(?i)(mammals|mammal)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(3152, u'(?i)(layers|layer)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(7610, u'(?i)(ernes|erne)')"
-p55
-aS"(1683, u'(?i)(terns|tern)')"
-p56
-atp57
-Rp58
+atp46
+Rp47
 sb.

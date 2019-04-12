@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(61, u'\\\\bmdl ?100907')"
+S"(52, u'\\\\bmdl ?100907')"
 p5
 atp6
 Rp7
@@ -48,58 +48,32 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(257, u'(?i)(dorsolaterals|dorsolateral)(-|\\\\s+)?(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(257, u'(?i)\\\\b(dorsolaterals|dorsolateral)(-|\\\\s+)?(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2002
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(155, u'\\\\bmem')"
-p39
-atp40
-Rp41
+((lp37
+S"(149, u'\\\\bmem')"
+p38
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(6753, u'(?i)(da|das)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(7609, u'(?i)(erns|ern)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(2389, u'(?i)(spats|spat)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(1349, u'(?i)(rams|ram)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(7610, u'(?i)(ernes|erne)')"
-p54
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p55
-aS"(1683, u'(?i)(terns|tern)')"
-p56
-atp57
-Rp58
+((lp42
+S"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
+p43
+atp44
+Rp45
 sb.

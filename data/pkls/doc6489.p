@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,34 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(6753, u'(?i)(da|das)')"
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p37
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(4694, u'(?i)(gnus|gnu)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(81, u'(?i)(asps|asp)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(2665, u'(?i)(rays|ray)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(4177, u'(?i)(grays|gray)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp39
+Rp40
 sb.

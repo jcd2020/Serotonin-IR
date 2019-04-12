@@ -44,54 +44,32 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+tp27
+Rp28
 sS'year'
-p30
+p29
 V1992
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp32
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p33
+aS"(163, u'\\\\bfenfluramine')"
 p34
-aS"(169, u'\\\\bfenfluramine')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(2054, u'(?i)(heads|head)')"
+((lp38
+S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+p39
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(5743, u'(?i)(bots|bot)')"
-p52
-atp53
-Rp54
+atp42
+Rp43
 sb.

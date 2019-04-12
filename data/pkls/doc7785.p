@@ -32,76 +32,44 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2c'
 p20
-aS'5ht2c'
-p21
 aS'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(165, u'(?i)(preoptics|preoptic)(-|\\\\s+)?(areas|area)')"
-p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+((lp25
+S"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
+p26
+atp27
+Rp28
 sS'year'
-p31
+p29
 V2016
-p32
+p30
 sS'agonists'
-p33
+p31
 g3
-((lp34
-tp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(4624, u'(?i)(apes|ape)')"
+((lp36
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p37
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p41
-aS"(6125, u'(?i)(females|female)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(2942, u'(?i)(daws|daw)')"
-p44
-aS"(4091, u'(?i)(adults|adult)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(2183, u'(?i)(gars|gar)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(853, u'(?i)(minas|mina)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(3722, u'(?i)(pups|pup)')"
-p53
-aS"(7609, u'(?i)(erns|ern)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(7058, u'(?i)(does|doe)')"
-p56
-aS"(1683, u'(?i)(terns|tern)')"
-p57
-atp58
-Rp59
+atp42
+Rp43
 sb.

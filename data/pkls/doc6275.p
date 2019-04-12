@@ -38,48 +38,28 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2002
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(59, u'\\\\bmethylphenidate')"
-p32
-atp33
-Rp34
+((lp30
+S"(52, u'\\\\bmethylphenidate')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(2323, u'(?i)(bees|bee)')"
-p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-atp47
-Rp48
+((lp35
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

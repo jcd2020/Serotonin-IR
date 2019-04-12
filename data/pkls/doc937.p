@@ -8,118 +8,84 @@ c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(133, u'\\\\bmianserin')"
 p6
-aS"(56, u'\\\\bclozapine')"
+aS"(110, u'\\\\bclozapine')"
 p7
-aS"(204, u'\\\\bsb ?269970')"
+aS"(21, u'\\\\bpindolol')"
 p8
-aS"(117, u'\\\\bmianserin')"
+aS"(195, u'\\\\bpimozide')"
 p9
-aS"(201, u'\\\\bpimozide')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.AGONIST'
-p15
+p14
 aS'Method.IMMUNOHISTOCHEMISTRY'
-p16
+p15
 aS'Method.ANTAGONIST'
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'topics'
-p20
+p19
 g3
-((lp21
-tp22
-Rp23
+((lp20
+tp21
+Rp22
 sS'receptors'
-p24
+p23
 g3
-((lp25
+((lp24
 S'5ht7'
-p26
+p25
 aS'5ht7a'
-p27
-aS'5ht5'
-p28
+p26
 aS'5ht1'
-p29
-atp30
-Rp31
+p27
+atp28
+Rp29
 sS'regions'
+p30
+g3
+((lp31
+S"(230, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(pallidums|pallidum)\\\\b')"
 p32
-g3
-((lp33
-S"(230, u'(?i)(ventrals|ventral)(-|\\\\s+)?(pallidums|pallidum)')"
-p34
-aS"(231, u'(?i)(basals|basal)(-|\\\\s+)?(forebrains|forebrain)')"
-p35
-atp36
-Rp37
+aS"(231, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(forebrains|forebrain)\\\\b')"
+p33
+atp34
+Rp35
 sS'year'
-p38
+p36
 V2004
-p39
+p37
 sS'agonists'
+p38
+g3
+((lp39
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p40
-g3
-((lp41
-S"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(220, u'\\\\b5 ?methoxytryptamine')"
+p41
+aS"(23, u'\\\\bclozapine')"
 p42
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p43
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(219, u'\\\\b5 ?ct')"
 p44
-aS"(5, u'\\\\b5 ?ct')"
-p45
-aS"(27, u'\\\\bclozapine')"
-p46
-atp47
-Rp48
+atp45
+Rp46
 sS'species'
-p49
+p47
 g3
-((lp50
-S"(1070, u'(?i)(pets|pet)')"
-p51
-aS"(6753, u'(?i)(da|das)')"
-p52
-aS"(2568, u'(?i)(hens|hen)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(4964, u'(?i)(serins|serin)')"
-p55
-aS"(4163, u'(?i)(ermines|ermine)')"
-p56
-aS"(1725, u'(?i)(clams|clam)')"
-p57
-aS"(468, u'(?i)(oxen|ox)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-aS"(853, u'(?i)(minas|mina)')"
-p60
-aS"(5958, u'(?i)(rats|rat)')"
-p61
-aS"(7094, u'(?i)(curs|cur)')"
-p62
-aS"(3812, u'(?i)(studs|stud)')"
-p63
-aS"(6391, u'(?i)(asses|ass)')"
-p64
-aS"(391, u'(?i)(alli|allis)')"
-p65
-aS"(821, u'(?i)(lice|louse)')"
-p66
-atp67
-Rp68
+((lp48
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

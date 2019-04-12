@@ -56,26 +56,6 @@ sS'species'
 p33
 g3
 ((lp34
-S"(6753, u'(?i)(da|das)')"
-p35
-aS"(6249, u'(?i)(ants|ant)')"
-p36
-aS"(702, u'(?i)(genets|genet)')"
-p37
-aS"(4979, u'(?i)(cats|cat)')"
-p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(4964, u'(?i)(serins|serin)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(6391, u'(?i)(asses|ass)')"
-p43
-aS"(2809, u'(?i)(toms|tom)')"
-p44
-atp45
-Rp46
+tp35
+Rp36
 sb.

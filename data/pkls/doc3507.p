@@ -38,11 +38,11 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(310, u'(?i)(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(310, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)\\\\b')"
 p25
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p33
 atp34
 Rp35
@@ -62,50 +62,10 @@ sS'species'
 p36
 g3
 ((lp37
-S"(4624, u'(?i)(apes|ape)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p38
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6580, u'(?i)(dams|dam)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(3431, u'(?i)(roans|roan)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(107, u'(?i)(stags|stag)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(2809, u'(?i)(toms|tom)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(4201, u'(?i)(kines|kine)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(5176, u'(?i)(tegs|teg)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-aS"(2323, u'(?i)(bees|bee)')"
-p56
-aS"(5799, u'(?i)(rodents|rodent)')"
-p57
-aS"(2568, u'(?i)(hens|hen)')"
-p58
-aS"(6753, u'(?i)(da|das)')"
-p59
-atp60
-Rp61
+atp40
+Rp41
 sb.

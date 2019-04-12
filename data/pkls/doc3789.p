@@ -34,90 +34,52 @@ S'5ht1b'
 p19
 aS'5ht1a'
 p20
-aS'5ht5'
-p21
 aS'5ht1'
-p22
+p21
 aS'5ht1d'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
+((lp26
+S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
+p27
+aS"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
 p28
-aS"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p29
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p30
-aS"(34, u'(?i)(pon|pons)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p31
-aS"(220, u'(?i)(striatums|striatum)')"
-p32
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V1993
-p37
+p35
 sS'agonists'
-p38
+p36
 g3
-((lp39
-tp40
-Rp41
+((lp37
+tp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(4163, u'(?i)(ermines|ermine)')"
+((lp41
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p42
+aS"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p43
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p44
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p45
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(3196, u'(?i)(human|humans)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(702, u'(?i)(genets|genet)')"
-p51
-aS"(479, u'(?i)(lings|ling)')"
-p52
-aS"(4201, u'(?i)(kines|kine)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(391, u'(?i)(alli|allis)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(867, u'(?i)(tits|tit)')"
-p57
-aS"(163, u'(?i)(mice|mouse)')"
-p58
-aS"(2395, u'(?i)(mutants|mutant)')"
-p59
-aS"(6682, u'(?i)(tera|teras)')"
-p60
-aS"(1055, u'(?i)(men|man)')"
-p61
-aS"(6753, u'(?i)(da|das)')"
-p62
-aS"(1057, u'(?i)(humans|human)')"
-p63
-aS"(2568, u'(?i)(hens|hen)')"
-p64
-aS"(4979, u'(?i)(cats|cat)')"
-p65
-atp66
-Rp67
+atp47
+Rp48
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -38,68 +38,44 @@ g3
 ((lp21
 S'5ht1a'
 p22
-aS'5ht5'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(220, u'(?i)(striatums|striatum)')"
+((lp26
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p27
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p30
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
-p34
+p33
 V2009
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(14, u'\\\\bamphetamine')"
+((lp36
+S"(11, u'\\\\bamphetamine')"
+p37
+aS"(58, u'\\\\bosemozotan')"
 p38
-aS"(65, u'\\\\bosemozotan')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
+((lp42
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p43
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(1667, u'(?i)(polyps|polyp)')"
-p47
-aS"(163, u'(?i)(mice|mouse)')"
-p48
-aS"(479, u'(?i)(lings|ling)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(4074, u'(?i)(bulls|bull)')"
-p56
-atp57
-Rp58
+atp45
+Rp46
 sb.

@@ -28,62 +28,38 @@ g3
 ((lp16
 S'5ht1a'
 p17
-aS'5ht5'
-p18
-atp19
-Rp20
+atp18
+Rp19
 sS'regions'
-p21
+p20
 g3
-((lp22
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p23
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p24
-atp25
-Rp26
+((lp21
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p22
+atp23
+Rp24
 sS'year'
-p27
+p25
 V2000
-p28
+p26
 sS'agonists'
+p27
+g3
+((lp28
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p29
-g3
-((lp30
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p31
-atp32
-Rp33
+atp30
+Rp31
 sS'species'
-p34
+p32
 g3
-((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp33
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p34
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p35
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(6125, u'(?i)(females|female)')"
-p39
-aS"(163, u'(?i)(mice|mouse)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(5967, u'(?i)(males|male)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-atp49
-Rp50
+atp37
+Rp38
 sb.

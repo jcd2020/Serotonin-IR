@@ -8,114 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(56, u'\\\\bclozapine')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(131, u'\\\\bm1')"
 p6
-aS"(142, u'\\\\bm1')"
-p7
 aS"(22, u'\\\\bpropranolol')"
-p8
-atp9
-Rp10
+p7
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht2d'
-p23
+p22
 aS'5ht4'
-p24
-aS'5ht5'
-p25
-aS'5ht2'
-p26
-aS'5ht1a'
-p27
-aS'5ht4a'
-p28
-aS'5ht5d'
-p29
-aS'5ht5a'
-p30
+p23
 aS'5ht3'
-p31
-atp32
-Rp33
+p24
+aS'5ht2'
+p25
+aS'5ht1a'
+p26
+aS'5ht4a'
+p27
+atp28
+Rp29
 sS'regions'
+p30
+g3
+((lp31
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p32
+aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+p33
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p34
-g3
-((lp35
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p36
-aS"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
-p37
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p38
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p39
-aS"(34, u'(?i)(pon|pons)')"
-p40
-atp41
-Rp42
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p35
+atp36
+Rp37
 sS'year'
-p43
+p38
 V1996
-p44
+p39
 sS'agonists'
-p45
+p40
 g3
-((lp46
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p47
-aS"(27, u'\\\\bclozapine')"
+((lp41
+S"(23, u'\\\\bclozapine')"
+p42
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p43
+atp44
+Rp45
+sS'species'
+p46
+g3
+((lp47
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p48
 atp49
 Rp50
-sS'species'
-p51
-g3
-((lp52
-S"(6753, u'(?i)(da|das)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-aS"(479, u'(?i)(lings|ling)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(3592, u'(?i)(ravens|raven)')"
-p58
-aS"(5176, u'(?i)(tegs|teg)')"
-p59
-aS"(6249, u'(?i)(ants|ant)')"
-p60
-aS"(1414, u'(?i)(chars|char)')"
-p61
-aS"(6391, u'(?i)(asses|ass)')"
-p62
-aS"(5743, u'(?i)(bots|bot)')"
-p63
-aS"(6356, u'(?i)(ais|ai)')"
-p64
-atp65
-Rp66
 sb.

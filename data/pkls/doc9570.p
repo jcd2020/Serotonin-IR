@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(29, u'\\\\bspiroxatrine')"
+S"(28, u'\\\\bspiroxatrine')"
 p5
 atp6
 Rp7
@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(24, u'\\\\bbuspirone')"
+S"(20, u'\\\\bbuspirone')"
 p30
 atp31
 Rp32
@@ -56,28 +56,8 @@ sS'species'
 p33
 g3
 ((lp34
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(2568, u'(?i)(hens|hen)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(479, u'(?i)(lings|ling)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-atp46
-Rp47
+atp36
+Rp37
 sb.

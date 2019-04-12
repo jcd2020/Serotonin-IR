@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p32
 atp33
 Rp34
@@ -60,44 +60,12 @@ sS'species'
 p35
 g3
 ((lp36
-S"(1070, u'(?i)(pets|pet)')"
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p37
-aS"(3404, u'(?i)(titis|titi)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p39
-aS"(3051, u'(?i)(pigs|pig)')"
-p40
-aS"(867, u'(?i)(tits|tit)')"
-p41
-aS"(5743, u'(?i)(bots|bot)')"
-p42
-aS"(81, u'(?i)(asps|asp)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(3062, u'(?i)(guineas|guinea)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p53
-aS"(821, u'(?i)(lice|louse)')"
-p54
-aS"(5949, u'(?i)(dogs|dog)')"
-p55
-atp56
-Rp57
+atp40
+Rp41
 sb.

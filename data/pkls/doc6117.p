@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(129, u'\\\\bly ?53857')"
+S"(32, u'\\\\bxylamidine')"
 p5
-aS"(33, u'\\\\bxylamidine')"
+aS"(118, u'\\\\bly ?53857')"
 p6
-aS"(105, u'\\\\bmethysergide')"
+aS"(191, u'\\\\bly ?215840')"
 p7
-aS"(198, u'\\\\bly ?215840')"
+aS"(194, u'\\\\bmethysergide')"
 p8
 atp9
 Rp10
@@ -64,11 +64,11 @@ sS'agonists'
 p36
 g3
 ((lp37
-S"(103, u'\\\\bsumatriptan')"
+S"(96, u'\\\\bsumatriptan')"
 p38
-aS"(161, u'\\\\bmcpp')"
+aS"(53, u'\\\\bmethysergide')"
 p39
-aS"(60, u'\\\\bmethysergide')"
+aS"(155, u'\\\\bmcpp')"
 p40
 atp41
 Rp42
@@ -76,34 +76,14 @@ sS'species'
 p43
 g3
 ((lp44
-S"(2323, u'(?i)(bees|bee)')"
+S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p45
-aS"(2054, u'(?i)(heads|head)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p46
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p47
-aS"(6753, u'(?i)(da|das)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p48
-aS"(3051, u'(?i)(pigs|pig)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(3062, u'(?i)(guineas|guinea)')"
-p51
-aS"(3592, u'(?i)(ravens|raven)')"
-p52
-aS"(853, u'(?i)(minas|mina)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p57
-aS"(6642, u'(?i)(lions|lion)')"
-p58
-atp59
-Rp60
+atp49
+Rp50
 sb.

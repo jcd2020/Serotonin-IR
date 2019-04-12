@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(131, u'\\\\bm1')"
 p5
-aS"(142, u'\\\\bm1')"
+aS"(31, u'\\\\bway ?100635')"
 p6
-aS"(67, u'\\\\bhaloperidol')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
 atp8
 Rp9
@@ -40,62 +40,46 @@ sS'receptors'
 p22
 g3
 ((lp23
-S'5ht5'
+S'5ht1a'
 p24
-aS'5ht1a'
-p25
 aS'5ht2c'
-p26
+p25
 aS'5ht2a'
-p27
-atp28
-Rp29
+p26
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp30
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p31
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p32
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p33
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p34
-aS"(34, u'(?i)(pon|pons)')"
-p35
-atp36
-Rp37
+atp34
+Rp35
 sS'year'
-p38
+p36
 V2002
-p39
+p37
 sS'agonists'
+p38
+g3
+((lp39
+S"(43, u'\\\\bhaloperidol')"
 p40
-g3
-((lp41
-S"(48, u'\\\\bhaloperidol')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(2323, u'(?i)(bees|bee)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(2809, u'(?i)(toms|tom)')"
-p54
-atp55
-Rp56
+((lp44
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p45
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

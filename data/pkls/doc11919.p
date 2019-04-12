@@ -8,104 +8,70 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(54, u'\\\\bpizotifen')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(133, u'\\\\bmianserin')"
 p6
-aS"(63, u'\\\\bpizotifen')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(52, u'\\\\bmdl ?100907')"
 p8
-aS"(117, u'\\\\bmianserin')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
+p13
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
-tp20
-Rp21
+((lp18
+tp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
-S'5ht5'
-p24
-aS'5ht2c'
-p25
+((lp22
+S'5ht2c'
+p23
 aS'5ht2'
-p26
+p24
 aS'5ht2a'
-p27
-atp28
-Rp29
+p25
+atp26
+Rp27
 sS'regions'
-p30
+p28
 g3
-((lp31
-S"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+((lp29
+tp30
+Rp31
 sS'year'
-p35
+p32
 V1995
-p36
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(166, u'\\\\bmk ?212')"
+p36
+aS"(192, u'\\\\bquipazine')"
 p37
-g3
-((lp38
-S"(196, u'\\\\bquipazine')"
-p39
-aS"(172, u'\\\\bmk ?212')"
-p40
-atp41
-Rp42
+atp38
+Rp39
 sS'species'
-p43
+p40
 g3
-((lp44
-S"(6753, u'(?i)(da|das)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(867, u'(?i)(tits|tit)')"
-p47
-aS"(4964, u'(?i)(serins|serin)')"
-p48
-aS"(4163, u'(?i)(ermines|ermine)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(3726, u'(?i)(mates|mate)')"
-p53
-aS"(853, u'(?i)(minas|mina)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(7094, u'(?i)(curs|cur)')"
-p56
-aS"(4371, u'(?i)(lizas|liza)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-atp60
-Rp61
+((lp41
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

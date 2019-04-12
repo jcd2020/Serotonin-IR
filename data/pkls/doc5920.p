@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(108, u'\\\\bcp ?94253')"
+S"(101, u'\\\\bcp ?94253')"
 p32
 atp33
 Rp34
@@ -60,40 +60,8 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2568, u'(?i)(hens|hen)')"
+S"(2512, u'(?i)\\\\b(chickens|chicken)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(7552, u'(?i)(bats|bat)')"
-p40
-aS"(4163, u'(?i)(ermines|ermine)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(3726, u'(?i)(mates|mate)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(3858, u'(?i)(cobs|cob)')"
-p47
-aS"(5838, u'(?i)(cubs|cub)')"
-p48
-aS"(2512, u'(?i)(chickens|chicken)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-aS"(709, u'(?i)(chicks|chick)')"
-p51
-aS"(821, u'(?i)(lice|louse)')"
-p52
-aS"(118, u'(?i)(jacks|jack)')"
-p53
-atp54
-Rp55
+atp38
+Rp39
 sb.

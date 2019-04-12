@@ -50,62 +50,34 @@ S'5ht7'
 p27
 aS'5ht6'
 p28
-aS'5ht5'
-p29
 aS'5ht2d'
-p30
+p29
 aS'5ht2a'
-p31
-atp32
-Rp33
+p30
+atp31
+Rp32
 sS'regions'
-p34
+p33
 g3
-((lp35
-S"(34, u'(?i)(pon|pons)')"
-p36
-atp37
-Rp38
+((lp34
+tp35
+Rp36
 sS'year'
-p39
+p37
 V2014
-p40
+p38
 sS'agonists'
+p39
+g3
+((lp40
+S"(149, u'\\\\bmem')"
 p41
-g3
-((lp42
-S"(155, u'\\\\bmem')"
-p43
-atp44
-Rp45
+atp42
+Rp43
 sS'species'
-p46
+p44
 g3
-((lp47
-S"(4624, u'(?i)(apes|ape)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(7609, u'(?i)(erns|ern)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(7552, u'(?i)(bats|bat)')"
-p54
-aS"(5917, u'(?i)(roaches|roach)')"
-p55
-aS"(1414, u'(?i)(chars|char)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-atp60
-Rp61
+((lp45
+tp46
+Rp47
 sb.

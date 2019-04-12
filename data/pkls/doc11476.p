@@ -8,122 +8,86 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(67, u'\\\\bhaloperidol')"
+aS"(113, u'\\\\brisperidone')"
 p6
-aS"(59, u'\\\\brisperidone')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
-aS"(123, u'\\\\bclozapine')"
-p8
-aS"(56, u'\\\\bclozapine')"
-p9
-atp10
-Rp11
+atp8
+Rp9
 sS'methods'
-p12
+p10
 g3
-((lp13
+((lp11
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p12
+atp13
+Rp14
 sS'topics'
-p17
+p15
 g3
-((lp18
+((lp16
 S"(15, u'\\\\bschizophreni')"
-p19
-atp20
-Rp21
+p17
+atp18
+Rp19
 sS'receptors'
-p22
+p20
 g3
-((lp23
+((lp21
 S'5ht1c'
-p24
-aS'5ht5'
-p25
-aS'5ht2'
-p26
-aS'5ht2a'
-p27
-aS'5ht1d'
-p28
+p22
 aS'5ht1a'
-p29
-atp30
-Rp31
+p23
+aS'5ht2a'
+p24
+aS'5ht2'
+p25
+aS'5ht1d'
+p26
+atp27
+Rp28
 sS'regions'
+p29
+g3
+((lp30
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p31
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p32
-g3
-((lp33
-S"(220, u'(?i)(striatums|striatum)')"
-p34
-aS"(223, u'(?i)(putamens|putamen)')"
-p35
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
-p36
-atp37
-Rp38
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p33
+atp34
+Rp35
 sS'year'
-p39
+p36
 V1993
-p40
+p37
 sS'agonists'
+p38
+g3
+((lp39
+S"(23, u'\\\\bclozapine')"
+p40
+aS"(43, u'\\\\bhaloperidol')"
 p41
-g3
-((lp42
-S"(48, u'\\\\bhaloperidol')"
-p43
-aS"(27, u'\\\\bclozapine')"
-p44
-atp45
-Rp46
+atp42
+Rp43
 sS'species'
-p47
+p44
 g3
-((lp48
-S"(2323, u'(?i)(bees|bee)')"
+((lp45
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p46
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p48
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p49
-aS"(3062, u'(?i)(guineas|guinea)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(867, u'(?i)(tits|tit)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(3051, u'(?i)(pigs|pig)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(7094, u'(?i)(curs|cur)')"
-p57
-aS"(1349, u'(?i)(rams|ram)')"
-p58
-aS"(853, u'(?i)(minas|mina)')"
-p59
-aS"(6249, u'(?i)(ants|ant)')"
-p60
-aS"(1961, u'(?i)(pens|pen)')"
-p61
-aS"(3812, u'(?i)(studs|stud)')"
-p62
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p63
-aS"(2809, u'(?i)(toms|tom)')"
-p64
-aS"(6325, u'(?i)(caudates|caudate)')"
-p65
-aS"(5743, u'(?i)(bots|bot)')"
-p66
-aS"(6356, u'(?i)(ais|ai)')"
-p67
-aS"(5497, u'(?i)(fices|fice)')"
-p68
-atp69
-Rp70
+atp51
+Rp52
 sb.

@@ -36,40 +36,24 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'year'
-p26
+p25
 V1993
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p30
-atp31
-Rp32
+((lp28
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p29
+atp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(2670, u'(?i)(arabs|arab)')"
-p35
-aS"(6249, u'(?i)(ants|ant)')"
-p36
-aS"(7609, u'(?i)(erns|ern)')"
-p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(3522, u'(?i)(tetras|tetra)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(6391, u'(?i)(asses|ass)')"
-p41
-atp42
-Rp43
+((lp33
+tp34
+Rp35
 sb.

@@ -34,9 +34,9 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(77, u'(?i)(cerebellars|cerebellar)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p22
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(77, u'(?i)\\\\b(cerebellars|cerebellar)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p23
 atp24
 Rp25
@@ -54,20 +54,8 @@ sS'species'
 p32
 g3
 ((lp33
-S"(5958, u'(?i)(rats|rat)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p34
-aS"(7609, u'(?i)(erns|ern)')"
-p35
-aS"(1049, u'(?i)(elands|eland)')"
-p36
-aS"(4979, u'(?i)(cats|cat)')"
-p37
-aS"(1683, u'(?i)(terns|tern)')"
-p38
-aS"(3812, u'(?i)(studs|stud)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-atp41
-Rp42
+atp35
+Rp36
 sb.

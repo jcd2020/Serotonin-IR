@@ -8,116 +8,90 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
 aS"(14, u'\\\\bmethiothepin')"
+p6
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(139, u'\\\\bmetoclopramide')"
-p8
 aS"(22, u'\\\\bpropranolol')"
-p9
-atp10
-Rp11
+p8
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
+p13
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
-tp20
-Rp21
+((lp18
+tp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht1c'
-p24
+p23
 aS'5ht1b'
-p25
+p24
 aS'5ht1a'
-p26
+p25
 aS'5ht3'
-p27
+p26
 aS'5ht2'
-p28
+p27
 aS'5ht1'
-p29
+p28
 aS'5ht1f'
-p30
-atp31
-Rp32
+p29
+atp30
+Rp31
 sS'regions'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+tp34
+Rp35
 sS'year'
-p37
+p36
 V1998
-p38
+p37
 sS'agonists'
-p39
+p38
 g3
-((lp40
-S"(106, u'\\\\bcgs ?12066a')"
+((lp39
+S"(20, u'\\\\bbuspirone')"
+p40
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p41
-aS"(214, u'\\\\bsulpiride')"
+aS"(192, u'\\\\bquipazine')"
 p42
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+aS"(210, u'\\\\bsulpiride')"
 p43
-aS"(213, u'\\\\bmetoclopramide')"
+aS"(209, u'\\\\bmetoclopramide')"
 p44
-aS"(24, u'\\\\bbuspirone')"
+aS"(99, u'\\\\bcgs ?12066a')"
 p45
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p46
-aS"(196, u'\\\\bquipazine')"
-p47
-atp48
-Rp49
+atp47
+Rp48
 sS'species'
-p50
+p49
 g3
-((lp51
-S"(2568, u'(?i)(hens|hen)')"
+((lp50
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p51
+aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
 p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(4657, u'(?i)(fish|fish)')"
-p54
-aS"(4964, u'(?i)(serins|serin)')"
-p55
-aS"(7539, u'(?i)(mammals|mammal)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(1349, u'(?i)(rams|ram)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-aS"(5958, u'(?i)(rats|rat)')"
-p61
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p62
-aS"(5229, u'(?i)(moles|mole)')"
-p63
-aS"(1414, u'(?i)(chars|char)')"
-p64
-aS"(4979, u'(?i)(cats|cat)')"
-p65
-atp66
-Rp67
+atp53
+Rp54
 sb.

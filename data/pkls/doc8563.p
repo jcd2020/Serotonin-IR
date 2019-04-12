@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(203, u'\\\\btfmpp')"
 p5
-aS"(100, u'\\\\beltoprazine')"
+aS"(89, u'\\\\beltoprazine')"
 p6
 atp7
 Rp8
@@ -42,7 +42,7 @@ g3
 ((lp23
 S'5ht1b'
 p24
-aS'5ht5'
+aS'5ht1a'
 p25
 aS'5ht3'
 p26
@@ -50,76 +50,46 @@ aS'5ht2'
 p27
 aS'5ht2a'
 p28
-aS'5ht1a'
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-S"(389, u'(?i)(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)')"
-p34
-aS"(34, u'(?i)(pon|pons)')"
-p35
-atp36
-Rp37
+((lp32
+S"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
+p33
+atp34
+Rp35
 sS'year'
-p38
+p36
 V1989
-p39
+p37
 sS'agonists'
+p38
+g3
+((lp39
+S"(178, u'\\\\btfmpp')"
 p40
-g3
-((lp41
-S"(36, u'\\\\beltoprazine')"
-p42
-aS"(183, u'\\\\btfmpp')"
-p43
-atp44
-Rp45
+aS"(31, u'\\\\beltoprazine')"
+p41
+atp42
+Rp43
 sS'species'
-p46
+p44
 g3
-((lp47
-S"(6249, u'(?i)(ants|ant)')"
+((lp45
+S"(4545, u'(?i)\\\\b(lobsters|lobster)\\\\b')"
+p46
+aS"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p47
+aS"(6249, u'(?i)\\\\b(ants|ant)\\\\b')"
 p48
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p49
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
 p50
-aS"(4657, u'(?i)(fish|fish)')"
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p51
-aS"(4545, u'(?i)(lobsters|lobster)')"
-p52
-aS"(2401, u'(?i)(primates|primate)')"
-p53
-aS"(6753, u'(?i)(da|das)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(468, u'(?i)(oxen|ox)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(3726, u'(?i)(mates|mate)')"
-p58
-aS"(5743, u'(?i)(bots|bot)')"
-p59
-aS"(3550, u'(?i)(anis|ani)')"
-p60
-aS"(1057, u'(?i)(humans|human)')"
-p61
-aS"(1414, u'(?i)(chars|char)')"
-p62
-aS"(3196, u'(?i)(human|humans)')"
-p63
-aS"(2809, u'(?i)(toms|tom)')"
-p64
-aS"(4074, u'(?i)(bulls|bull)')"
-p65
-aS"(6356, u'(?i)(ais|ai)')"
-p66
-atp67
-Rp68
+atp52
+Rp53
 sb.

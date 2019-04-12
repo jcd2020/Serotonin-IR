@@ -40,66 +40,36 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2015
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(1070, u'(?i)(pets|pet)')"
+((lp35
+S"(2877, u'(?i)\\\\b(seas|sea)(-|\\\\s+)?(lampreys|lamprey)\\\\b')"
+p36
+aS"(2878, u'(?i)\\\\b(petromyzons|petromyzon)(-|\\\\s+)?(marinuses|marinus)\\\\b')"
 p37
-aS"(2878, u'(?i)(petromyzons|petromyzon)(-|\\\\s+)?(marinuses|marinus)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(2223, u'(?i)\\\\b(lampreys|lamprey)\\\\b')"
 p39
-aS"(6125, u'(?i)(females|female)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p40
-aS"(867, u'(?i)(tits|tit)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(4091, u'(?i)(adults|adult)')"
-p43
-aS"(5967, u'(?i)(males|male)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(1538, u'(?i)(preys|prey)')"
-p48
-aS"(2877, u'(?i)(seas|sea)(-|\\\\s+)?(lampreys|lamprey)')"
-p49
-aS"(5176, u'(?i)(tegs|teg)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(2665, u'(?i)(rays|ray)')"
-p55
-aS"(2223, u'(?i)(lampreys|lamprey)')"
-p56
-atp57
-Rp58
+atp42
+Rp43
 sb.

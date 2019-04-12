@@ -8,110 +8,64 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(113, u'\\\\brisperidone')"
 p5
-aS"(59, u'\\\\brisperidone')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+p10
+atp11
+Rp12
 sS'topics'
-p14
+p13
 g3
-((lp15
+((lp14
 S"(15, u'\\\\bschizophreni')"
-p16
+p15
 aS"(14, u'\\\\bpsychosis')"
-p17
+p16
 aS"(1, u'\\\\bmood')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
-S'5ht5'
-p23
-aS'5ht2a'
-p24
-atp25
-Rp26
+((lp21
+S'5ht2a'
+p22
+atp23
+Rp24
 sS'regions'
+p25
+g3
+((lp26
+S"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
 p27
-g3
-((lp28
-S"(157, u'(?i)(limbics|limbic)(-|\\\\s+)?(systems|system)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp28
+Rp29
 sS'year'
-p33
+p30
 V2008
-p34
+p31
 sS'agonists'
-p35
+p32
 g3
-((lp36
-tp37
-Rp38
+((lp33
+tp34
+Rp35
 sS'species'
-p39
+p36
 g3
-((lp40
-S"(4624, u'(?i)(apes|ape)')"
-p41
-aS"(2183, u'(?i)(gars|gar)')"
-p42
-aS"(6580, u'(?i)(dams|dam)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(3196, u'(?i)(human|humans)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-aS"(5537, u'(?i)(hippos|hippo)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(3767, u'(?i)(olms|olm)')"
-p53
-aS"(6682, u'(?i)(tera|teras)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(4604, u'(?i)(mites|mite)')"
-p56
-aS"(6753, u'(?i)(da|das)')"
-p57
-aS"(1057, u'(?i)(humans|human)')"
-p58
-aS"(6744, u'(?i)(maras|mara)')"
-p59
-aS"(2323, u'(?i)(bees|bee)')"
-p60
-aS"(4979, u'(?i)(cats|cat)')"
-p61
-aS"(3726, u'(?i)(mates|mate)')"
-p62
-atp63
-Rp64
+((lp37
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p38
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p39
+atp40
+Rp41
 sb.

@@ -32,56 +32,38 @@ g3
 ((lp18
 S'5ht7'
 p19
-aS'5ht5'
-p20
 aS'5ht2c'
-p21
+p20
 aS'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p27
-atp28
-Rp29
+((lp25
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p26
+atp27
+Rp28
 sS'year'
-p30
+p29
 V1999
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2323, u'(?i)(bees|bee)')"
+((lp36
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(5967, u'(?i)(males|male)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(4371, u'(?i)(lizas|liza)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(1795, u'(?i)(mounts|mount)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-atp48
-Rp49
+atp39
+Rp40
 sb.

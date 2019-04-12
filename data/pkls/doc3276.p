@@ -38,72 +38,42 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2000
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2323, u'(?i)(bees|bee)')"
+((lp36
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p38
-aS"(4404, u'(?i)(duns|dun)')"
+aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
 p39
-aS"(473, u'(?i)(rabbits|rabbit)')"
+aS"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
 p40
-aS"(5176, u'(?i)(tegs|teg)')"
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p42
-aS"(479, u'(?i)(lings|ling)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p43
-aS"(81, u'(?i)(asps|asp)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(3051, u'(?i)(pigs|pig)')"
-p47
-aS"(5217, u'(?i)(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)')"
-p48
-aS"(3062, u'(?i)(guineas|guinea)')"
-p49
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(4371, u'(?i)(lizas|liza)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(3431, u'(?i)(roans|roan)')"
-p54
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p55
-aS"(2809, u'(?i)(toms|tom)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(5949, u'(?i)(dogs|dog)')"
-p58
-atp59
-Rp60
+atp44
+Rp45
 sb.

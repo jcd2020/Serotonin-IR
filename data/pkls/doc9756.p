@@ -8,100 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(125, u'\\\\btropisetron')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(136, u'\\\\btropisetron')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(24, u'\\\\banalgesi')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht3a'
-p23
-aS'5ht5'
-p24
-aS'5ht3'
-p25
+p22
 aS'5ht1a'
-p26
+p23
+aS'5ht3'
+p24
 aS'5ht2a'
-p27
-atp28
-Rp29
+p25
+atp26
+Rp27
 sS'regions'
-p30
+p28
 g3
-((lp31
-tp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'year'
-p34
+p32
 V1999
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p36
-g3
-((lp37
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p37
+aS"(175, u'\\\\bdoi')"
 p38
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
-p39
-aS"(33, u'\\\\bdoi')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(163, u'(?i)(mice|mouse)')"
-p47
-aS"(5967, u'(?i)(males|male)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(4964, u'(?i)(serins|serin)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(3522, u'(?i)(tetras|tetra)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+((lp42
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p43
+atp44
+Rp45
 sb.

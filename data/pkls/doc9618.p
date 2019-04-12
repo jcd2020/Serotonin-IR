@@ -28,70 +28,38 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht1a'
 p18
-aS'5ht1a'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(220, u'(?i)(striatums|striatum)')"
-p24
-atp25
-Rp26
+((lp22
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p23
+atp24
+Rp25
 sS'year'
-p27
+p26
 V1998
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(155, u'\\\\bmem')"
-p31
-atp32
-Rp33
+((lp29
+S"(149, u'\\\\bmem')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(2323, u'(?i)(bees|bee)')"
+((lp34
+S"(1157, u'(?i)\\\\b(wasps|wasp)\\\\b')"
+p35
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(4624, u'(?i)(apes|ape)')"
-p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(931, u'(?i)(divers|diver)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(81, u'(?i)(asps|asp)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(1157, u'(?i)(wasps|wasp)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(3522, u'(?i)(tetras|tetra)')"
-p46
-aS"(3726, u'(?i)(mates|mate)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(1414, u'(?i)(chars|char)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(5537, u'(?i)(hippos|hippo)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+atp37
+Rp38
 sb.

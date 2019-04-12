@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bmianserin')"
+S"(133, u'\\\\bmianserin')"
 p5
 atp6
 Rp7
@@ -44,52 +44,28 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2003
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(33, u'\\\\bdoi')"
-p34
-atp35
-Rp36
+((lp32
+S"(175, u'\\\\bdoi')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(2323, u'(?i)(bees|bee)')"
+((lp37
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(4624, u'(?i)(apes|ape)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(4091, u'(?i)(adults|adult)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(3592, u'(?i)(ravens|raven)')"
-p47
-aS"(4964, u'(?i)(serins|serin)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(5863, u'(?i)(entires|entire)')"
-p51
-atp52
-Rp53
+atp40
+Rp41
 sb.

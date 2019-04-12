@@ -30,58 +30,42 @@ g3
 ((lp17
 S'5ht1a'
 p18
-aS'5ht5'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(72, u'(?i)(cerebellars|cerebellar)(-|\\\\s+)?(vermi|vermis)')"
+((lp22
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p23
+aS"(72, u'(?i)\\\\b(cerebellars|cerebellar)(-|\\\\s+)?(vermi|vermis)\\\\b')"
 p24
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p25
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
-p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp26
+Rp27
 sS'year'
-p30
+p28
 V1993
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(149, u'\\\\bmem')"
 p32
-g3
-((lp33
-S"(155, u'\\\\bmem')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(5626, u'(?i)(posters|poster)')"
+((lp36
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p37
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(4091, u'(?i)(adults|adult)')"
-p41
-aS"(3152, u'(?i)(layers|layer)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(5229, u'(?i)(moles|mole)')"
-p45
-aS"(4371, u'(?i)(lizas|liza)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-atp48
-Rp49
+atp40
+Rp41
 sb.

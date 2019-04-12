@@ -34,86 +34,46 @@ g3
 ((lp19
 S'5ht1b'
 p20
-aS'5ht5'
-p21
 aS'5ht1a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p27
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp25
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p26
+atp27
+Rp28
 sS'year'
-p32
+p29
 V2013
-p33
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(221, u'\\\\b5 ?mt')"
+p33
+aS"(149, u'\\\\bmem')"
 p34
-g3
-((lp35
-S"(6, u'\\\\b5 ?mt')"
-p36
-aS"(155, u'\\\\bmem')"
-p37
-atp38
-Rp39
+atp35
+Rp36
 sS'species'
-p40
+p37
 g3
-((lp41
-S"(4624, u'(?i)(apes|ape)')"
+((lp38
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p39
+aS"(4749, u'(?i)\\\\b(blues|blue)\\\\b')"
+p40
+aS"(709, u'(?i)\\\\b(chicks|chick)\\\\b')"
+p41
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p42
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(6517, u'(?i)\\\\b(birds|bird)\\\\b')"
 p43
-aS"(6981, u'(?i)(moths|moth)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6125, u'(?i)(females|female)')"
-p48
-aS"(702, u'(?i)(genets|genet)')"
-p49
-aS"(479, u'(?i)(lings|ling)')"
-p50
-aS"(5967, u'(?i)(males|male)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1349, u'(?i)(rams|ram)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(4749, u'(?i)(blues|blue)')"
-p55
-aS"(5958, u'(?i)(rats|rat)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(2334, u'(?i)(eels|eel)')"
-p58
-aS"(6753, u'(?i)(da|das)')"
-p59
-aS"(4371, u'(?i)(lizas|liza)')"
-p60
-aS"(6517, u'(?i)(birds|bird)')"
-p61
-aS"(4979, u'(?i)(cats|cat)')"
-p62
-aS"(709, u'(?i)(chicks|chick)')"
-p63
-atp64
-Rp65
+atp44
+Rp45
 sb.

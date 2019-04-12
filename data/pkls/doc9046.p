@@ -20,78 +20,46 @@ sS'topics'
 p11
 g3
 ((lp12
-tp13
-Rp14
+S"(37, u'\\\\baddict')"
+p13
+atp14
+Rp15
 sS'receptors'
-p15
+p16
 g3
-((lp16
-S'5ht5'
-p17
-atp18
+((lp17
+tp18
 Rp19
 sS'regions'
 p20
 g3
 ((lp21
-S"(34, u'(?i)(pon|pons)')"
-p22
-atp23
-Rp24
+tp22
+Rp23
 sS'year'
-p25
+p24
 V2010
-p26
+p25
 sS'agonists'
-p27
+p26
 g3
-((lp28
-S"(153, u'\\\\bmdma')"
+((lp27
+S"(147, u'\\\\bmdma')"
+p28
+aS"(11, u'\\\\bamphetamine')"
 p29
-aS"(14, u'\\\\bamphetamine')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(7058, u'(?i)(does|doe)')"
+((lp33
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p34
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p35
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p36
-aS"(6391, u'(?i)(asses|ass)')"
-p37
-aS"(6682, u'(?i)(tera|teras)')"
-p38
-aS"(4371, u'(?i)(lizas|liza)')"
-p39
-aS"(5551, u'(?i)(owls|owl)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(7094, u'(?i)(curs|cur)')"
-p42
-aS"(6580, u'(?i)(dams|dam)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(3858, u'(?i)(cobs|cob)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(1057, u'(?i)(humans|human)')"
-p47
-aS"(5229, u'(?i)(moles|mole)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(5674, u'(?i)(ewes|ewe)')"
-p52
-atp53
-Rp54
+atp37
+Rp38
 sb.

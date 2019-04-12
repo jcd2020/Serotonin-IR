@@ -34,66 +34,42 @@ g3
 ((lp19
 S'5ht1a'
 p20
-aS'5ht5'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(256, u'(?i)(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp24
+S"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p25
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(284, u'(?i)(inferiors|inferior)(-|\\\\s+)?(temporals|temporal)(-|\\\\s+)?(gyruses|gyrus)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p27
-aS"(283, u'(?i)(middles|middle)(-|\\\\s+)?(temporals|temporal)(-|\\\\s+)?(gyruses|gyrus)')"
+aS"(283, u'(?i)\\\\b(middles|middle)(-|\\\\s+)?(temporals|temporal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p28
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(284, u'(?i)\\\\b(inferiors|inferior)(-|\\\\s+)?(temporals|temporal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p30
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'year'
-p35
+p33
 V2009
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(149, u'\\\\bmem')"
 p37
-g3
-((lp38
-S"(155, u'\\\\bmem')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(5626, u'(?i)(posters|poster)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(867, u'(?i)(tits|tit)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(853, u'(?i)(minas|mina)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(2809, u'(?i)(toms|tom)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+((lp41
+tp42
+Rp43
 sb.

@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,24 +60,6 @@ sS'species'
 p35
 g3
 ((lp36
-S"(6753, u'(?i)(da|das)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(4201, u'(?i)(kines|kine)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-aS"(2809, u'(?i)(toms|tom)')"
-p45
-atp46
-Rp47
+tp37
+Rp38
 sb.

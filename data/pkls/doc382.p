@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(108, u'\\\\brs ?102221')"
+S"(96, u'\\\\brs ?102221')"
 p5
 aS"(16, u'\\\\bnad ?299')"
 p6
@@ -34,7 +34,7 @@ g3
 ((lp19
 S'5ht7'
 p20
-aS'5ht5'
+aS'5ht1a'
 p21
 aS'5ht4'
 p22
@@ -44,56 +44,32 @@ aS'5ht2a'
 p24
 aS'5ht7a'
 p25
-aS'5ht1a'
-p26
 aS'5ht4a'
-p27
-atp28
-Rp29
+p26
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'year'
-p34
+p33
 V2018
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-tp38
-Rp39
+((lp36
+tp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(2323, u'(?i)(bees|bee)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(479, u'(?i)(lings|ling)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(7094, u'(?i)(curs|cur)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-atp54
-Rp55
+((lp40
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p41
+atp42
+Rp43
 sb.

@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(66, u'\\\\bperospirone')"
+S"(59, u'\\\\bperospirone')"
 p31
 atp32
 Rp33
@@ -58,20 +58,6 @@ sS'species'
 p34
 g3
 ((lp35
-S"(6249, u'(?i)(ants|ant)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(5131, u'(?i)(hags|hag)')"
-p39
-aS"(4979, u'(?i)(cats|cat)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(2809, u'(?i)(toms|tom)')"
-p42
-atp43
-Rp44
+tp36
+Rp37
 sb.

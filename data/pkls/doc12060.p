@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(33, u'\\\\bdoi')"
+S"(175, u'\\\\bdoi')"
 p30
 atp31
 Rp32
@@ -56,40 +56,12 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2323, u'(?i)(bees|bee)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p35
-aS"(2054, u'(?i)(heads|head)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(4979, u'(?i)(cats|cat)')"
-p40
-aS"(4163, u'(?i)(ermines|ermine)')"
-p41
-aS"(4091, u'(?i)(adults|adult)')"
-p42
-aS"(5967, u'(?i)(males|male)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(853, u'(?i)(minas|mina)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(7127, u'(?i)(monitors|monitor)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+atp38
+Rp39
 sb.

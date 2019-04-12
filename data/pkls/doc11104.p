@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(68, u'\\\\bchlorpromazine')"
+S"(59, u'\\\\bchlorpromazine')"
 p5
 atp6
 Rp7
@@ -38,46 +38,26 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
+S"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V1997
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p32
-atp33
-Rp34
+((lp30
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(2568, u'(?i)(hens|hen)')"
-p37
-aS"(3601, u'(?i)(efts|eft)')"
-p38
-aS"(5176, u'(?i)(tegs|teg)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1349, u'(?i)(rams|ram)')"
-p41
-aS"(7094, u'(?i)(curs|cur)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(3522, u'(?i)(tetras|tetra)')"
-p45
-atp46
-Rp47
+((lp35
+tp36
+Rp37
 sb.

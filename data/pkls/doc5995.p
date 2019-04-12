@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(183, u'\\\\bsb ?271046')"
+S"(175, u'\\\\bsb ?271046')"
 p5
 atp6
 Rp7
@@ -44,48 +44,26 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
-p27
-atp28
-Rp29
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2015
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(223, u'\\\\bemd ?386088')"
-p34
-atp35
-Rp36
+((lp32
+S"(218, u'\\\\bemd ?386088')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(4624, u'(?i)(apes|ape)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(2809, u'(?i)(toms|tom)')"
-p49
-atp50
-Rp51
+((lp37
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

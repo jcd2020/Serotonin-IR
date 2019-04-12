@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(159, u'\\\\bsb ?204070')"
+S"(150, u'\\\\bsb ?204070')"
 p5
 atp6
 Rp7
@@ -44,9 +44,9 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(220, u'(?i)(striatums|striatum)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p27
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p28
 atp29
 Rp30
@@ -58,7 +58,7 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p35
 atp36
 Rp37
@@ -66,38 +66,18 @@ sS'species'
 p38
 g3
 ((lp39
-S"(1070, u'(?i)(pets|pet)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p40
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p41
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p43
-aS"(2401, u'(?i)(primates|primate)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(4133, u'(?i)\\\\b(pikes|pike)\\\\b')"
 p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3726, u'(?i)(mates|mate)')"
-p48
-aS"(3592, u'(?i)(ravens|raven)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(4247, u'(?i)(tatus|tatu)')"
-p52
-aS"(2809, u'(?i)(toms|tom)')"
-p53
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p54
-aS"(4133, u'(?i)(pikes|pike)')"
-p55
-atp56
-Rp57
+atp46
+Rp47
 sb.

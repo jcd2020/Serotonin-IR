@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(71, u'(?i)(cerebellums|cerebellum)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p23
 atp24
 Rp25
@@ -54,24 +54,10 @@ sS'species'
 p32
 g3
 ((lp33
-S"(1070, u'(?i)(pets|pet)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p34
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p35
-aS"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(5967, u'(?i)(males|male)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(853, u'(?i)(minas|mina)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(6391, u'(?i)(asses|ass)')"
-p42
-atp43
-Rp44
+atp36
+Rp37
 sb.

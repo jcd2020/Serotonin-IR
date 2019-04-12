@@ -50,28 +50,6 @@ sS'species'
 p30
 g3
 ((lp31
-S"(7609, u'(?i)(erns|ern)')"
-p32
-aS"(1928, u'(?i)(bears|bear)')"
-p33
-aS"(479, u'(?i)(lings|ling)')"
-p34
-aS"(1055, u'(?i)(men|man)')"
-p35
-aS"(4604, u'(?i)(mites|mite)')"
-p36
-aS"(6215, u'(?i)(racers|racer)')"
-p37
-aS"(4979, u'(?i)(cats|cat)')"
-p38
-aS"(3812, u'(?i)(studs|stud)')"
-p39
-aS"(6391, u'(?i)(asses|ass)')"
-p40
-aS"(2809, u'(?i)(toms|tom)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-atp43
-Rp44
+tp32
+Rp33
 sb.

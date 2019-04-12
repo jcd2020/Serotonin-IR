@@ -38,46 +38,24 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
-p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp24
+Rp25
 sS'year'
-p28
+p26
 V1999
-p29
+p27
 sS'agonists'
-p30
+p28
 g3
-((lp31
-tp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'species'
-p34
+p32
 g3
-((lp35
-S"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(1055, u'(?i)(men|man)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(3812, u'(?i)(studs|stud)')"
-p39
-aS"(3550, u'(?i)(anis|ani)')"
-p40
-aS"(1961, u'(?i)(pens|pen)')"
-p41
-aS"(1414, u'(?i)(chars|char)')"
-p42
-aS"(6391, u'(?i)(asses|ass)')"
-p43
-aS"(2809, u'(?i)(toms|tom)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-atp46
-Rp47
+((lp33
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
 sb.

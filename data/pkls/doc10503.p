@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(14, u'\\\\bmethiothepin')"
 p6
 atp7
 Rp8
@@ -34,54 +34,34 @@ g3
 ((lp19
 S'5ht1b'
 p20
-aS'5ht5'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(195, u'(?i)(telencephalons|telencephalon)')"
-p26
-atp27
-Rp28
+((lp24
+S"(195, u'(?i)\\\\b(telencephalons|telencephalon)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2005
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(121, u'\\\\bl ?694247')"
-p33
-atp34
-Rp35
+((lp31
+S"(114, u'\\\\bl ?694247')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(6753, u'(?i)(da|das)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(4979, u'(?i)(cats|cat)')"
-p40
-aS"(6682, u'(?i)(tera|teras)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(853, u'(?i)(minas|mina)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(391, u'(?i)(alli|allis)')"
-p47
-atp48
-Rp49
+((lp36
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

@@ -36,46 +36,34 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p23
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2010
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(6249, u'(?i)(ants|ant)')"
+((lp34
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p35
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(5967, u'(?i)(males|male)')"
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(3152, u'(?i)(layers|layer)')"
-p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6391, u'(?i)(asses|ass)')"
-p43
-aS"(4074, u'(?i)(bulls|bull)')"
-p44
-atp45
-Rp46
+atp39
+Rp40
 sb.

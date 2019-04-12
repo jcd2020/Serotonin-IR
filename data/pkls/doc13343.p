@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(6, u'\\\\bcyproheptadine')"
+S"(104, u'\\\\bimipramine')"
 p5
-aS"(114, u'\\\\bimipramine')"
+aS"(6, u'\\\\bcyproheptadine')"
 p6
-aS"(62, u'\\\\bcyproheptadine')"
+aS"(53, u'\\\\bcyproheptadine')"
 p7
 atp8
 Rp9
@@ -60,42 +60,8 @@ sS'species'
 p35
 g3
 ((lp36
-S"(4624, u'(?i)(apes|ape)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(1928, u'(?i)(bears|bear)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(107, u'(?i)(stags|stag)')"
-p53
-aS"(5783, u'(?i)(hinds|hind)')"
-p54
-atp55
-Rp56
+atp38
+Rp39
 sb.

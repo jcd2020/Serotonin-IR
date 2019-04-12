@@ -52,22 +52,8 @@ sS'species'
 p31
 g3
 ((lp32
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p33
-aS"(5958, u'(?i)(rats|rat)')"
-p34
-aS"(468, u'(?i)(oxen|ox)')"
-p35
-aS"(1055, u'(?i)(men|man)')"
-p36
-aS"(7488, u'(?i)(molas|mola)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(1961, u'(?i)(pens|pen)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-atp41
-Rp42
+atp34
+Rp35
 sb.

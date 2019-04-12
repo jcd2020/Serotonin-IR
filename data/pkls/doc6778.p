@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(58, u'\\\\bhaloperidol')"
 p5
 atp6
 Rp7
@@ -42,66 +42,32 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2012
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(128, u'\\\\bagmatine')"
+((lp31
+S"(121, u'\\\\bagmatine')"
+p32
+aS"(11, u'\\\\bamphetamine')"
 p33
-aS"(48, u'\\\\bhaloperidol')"
+aS"(43, u'\\\\bhaloperidol')"
 p34
-aS"(14, u'\\\\bamphetamine')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(2323, u'(?i)(bees|bee)')"
+((lp38
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p39
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(4624, u'(?i)(apes|ape)')"
-p41
-aS"(5799, u'(?i)(rodents|rodent)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(5917, u'(?i)(roaches|roach)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(5949, u'(?i)(dogs|dog)')"
-p57
-atp58
-Rp59
+atp41
+Rp42
 sb.

@@ -40,82 +40,48 @@ sS'receptors'
 p22
 g3
 ((lp23
-S'5ht5'
+S'5ht2b'
 p24
-aS'5ht2b'
-p25
 aS'5ht2c'
-p26
+p25
 aS'5ht2a'
-p27
-atp28
-Rp29
+p26
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
-p32
-atp33
-Rp34
+((lp30
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+p31
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2008
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(147, u'\\\\bro60 ?0175')"
-p39
-atp40
-Rp41
+((lp37
+S"(141, u'\\\\bro60 ?0175')"
+p38
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(6249, u'(?i)(ants|ant)')"
+((lp42
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p43
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p44
-aS"(5176, u'(?i)(tegs|teg)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p45
-aS"(4663, u'(?i)(nags|nag)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
-aS"(931, u'(?i)(divers|diver)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(163, u'(?i)(mice|mouse)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(479, u'(?i)(lings|ling)')"
-p51
-aS"(1686, u'(?i)(gibs|gib)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(3726, u'(?i)(mates|mate)')"
-p55
-aS"(2334, u'(?i)(eels|eel)')"
-p56
-aS"(853, u'(?i)(minas|mina)')"
-p57
-aS"(5799, u'(?i)(rodents|rodent)')"
-p58
-aS"(1057, u'(?i)(humans|human)')"
-p59
-aS"(1961, u'(?i)(pens|pen)')"
-p60
-aS"(1414, u'(?i)(chars|char)')"
-p61
-aS"(3196, u'(?i)(human|humans)')"
-p62
-aS"(5743, u'(?i)(bots|bot)')"
-p63
-aS"(4979, u'(?i)(cats|cat)')"
-p64
-atp65
-Rp66
+atp48
+Rp49
 sb.

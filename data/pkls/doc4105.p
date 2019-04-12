@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(58, u'\\\\bhaloperidol')"
 p5
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(52, u'\\\\bmdl ?100907')"
 p6
 atp7
 Rp8
@@ -34,68 +34,38 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht2a'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-tp27
-Rp28
+((lp25
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2019
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(48, u'\\\\bhaloperidol')"
+((lp31
+S"(125, u'\\\\btcb ?2')"
+p32
+aS"(43, u'\\\\bhaloperidol')"
 p33
-aS"(132, u'\\\\btcb ?2')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(6249, u'(?i)(ants|ant)')"
+((lp37
+S"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+p38
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(6125, u'(?i)(females|female)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(5967, u'(?i)(males|male)')"
-p44
-aS"(6682, u'(?i)(tera|teras)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(3726, u'(?i)(mates|mate)')"
-p47
-aS"(2942, u'(?i)(daws|daw)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(3722, u'(?i)(pups|pup)')"
-p52
-aS"(7609, u'(?i)(erns|ern)')"
-p53
-aS"(1683, u'(?i)(terns|tern)')"
-p54
-atp55
-Rp56
+atp40
+Rp41
 sb.

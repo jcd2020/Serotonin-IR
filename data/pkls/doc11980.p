@@ -40,68 +40,34 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp25
+Rp26
 sS'year'
-p29
+p27
 V2018
-p30
+p28
 sS'agonists'
+p29
+g3
+((lp30
+S"(175, u'\\\\bdoi')"
 p31
-g3
-((lp32
-S"(33, u'\\\\bdoi')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp35
+S"(6580, u'(?i)\\\\b(dams|dam)\\\\b')"
+p36
+aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+p37
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p38
-aS"(2054, u'(?i)(heads|head)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(4091, u'(?i)(adults|adult)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(3726, u'(?i)(mates|mate)')"
-p50
-aS"(6580, u'(?i)(dams|dam)')"
-p51
-aS"(2942, u'(?i)(daws|daw)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(6682, u'(?i)(tera|teras)')"
-p54
-aS"(3722, u'(?i)(pups|pup)')"
-p55
-aS"(7609, u'(?i)(erns|ern)')"
-p56
-aS"(1683, u'(?i)(terns|tern)')"
-p57
-atp58
-Rp59
+atp41
+Rp42
 sb.

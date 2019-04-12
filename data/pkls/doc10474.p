@@ -56,38 +56,8 @@ sS'species'
 p33
 g3
 ((lp34
-S"(4624, u'(?i)(apes|ape)')"
+S"(3671, u'(?i)\\\\b(drosophilas|drosophila)\\\\b')"
 p35
-aS"(4163, u'(?i)(ermines|ermine)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(5917, u'(?i)(roaches|roach)')"
-p39
-aS"(702, u'(?i)(genets|genet)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(4604, u'(?i)(mites|mite)')"
-p43
-aS"(853, u'(?i)(minas|mina)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(5229, u'(?i)(moles|mole)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(7609, u'(?i)(erns|ern)')"
-p48
-aS"(1683, u'(?i)(terns|tern)')"
-p49
-aS"(3671, u'(?i)(drosophilas|drosophila)')"
-p50
-atp51
-Rp52
+atp36
+Rp37
 sb.

@@ -8,102 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(204, u'\\\\bsb ?269970')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(31, u'\\\\bway ?100635')"
 p6
-aS"(54, u'\\\\britanserin')"
+aS"(119, u'\\\\britanserin')"
 p7
-aS"(130, u'\\\\britanserin')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(35, u'\\\\bstress')"
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht7'
-p24
+p23
 aS'5ht7a'
-p25
+p24
 aS'5ht1a'
-p26
+p25
 aS'5ht2'
-p27
+p26
 aS'5ht1'
-p28
-atp29
-Rp30
+p27
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'year'
-p35
+p34
 V2007
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
+((lp37
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p38
+aS"(219, u'\\\\b5 ?ct')"
 p39
-aS"(5, u'\\\\b5 ?ct')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(1070, u'(?i)(pets|pet)')"
-p45
-aS"(2323, u'(?i)(bees|bee)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(867, u'(?i)(tits|tit)')"
-p49
-aS"(163, u'(?i)(mice|mouse)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(3404, u'(?i)(titis|titi)')"
-p52
-aS"(3592, u'(?i)(ravens|raven)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(5783, u'(?i)(hinds|hind)')"
-p58
-atp59
-Rp60
+((lp43
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p44
+atp45
+Rp46
 sb.

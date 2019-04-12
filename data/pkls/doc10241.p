@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -46,74 +46,44 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p29
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
-p34
+p33
 V2011
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp36
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p37
+aS"(175, u'\\\\bdoi')"
 p38
-aS"(33, u'\\\\bdoi')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
+((lp42
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p43
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p44
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(6115, u'(?i)\\\\b(predators|predator)\\\\b')"
 p45
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p47
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(5967, u'(?i)(males|male)')"
-p50
-aS"(2183, u'(?i)(gars|gar)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(2665, u'(?i)(rays|ray)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(7094, u'(?i)(curs|cur)')"
-p57
-aS"(6391, u'(?i)(asses|ass)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(6115, u'(?i)(predators|predator)')"
-p60
-aS"(4177, u'(?i)(grays|gray)')"
-p61
-aS"(6356, u'(?i)(ais|ai)')"
-p62
-aS"(7552, u'(?i)(bats|bat)')"
-p63
-atp64
-Rp65
+atp49
+Rp50
 sb.

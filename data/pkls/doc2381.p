@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(61, u'\\\\bmdl ?100907')"
+S"(52, u'\\\\bmdl ?100907')"
 p5
 atp6
 Rp7
@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(153, u'\\\\bmdma')"
+S"(147, u'\\\\bmdma')"
 p33
 atp34
 Rp35
@@ -62,26 +62,8 @@ sS'species'
 p36
 g3
 ((lp37
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(7609, u'(?i)(erns|ern)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(3726, u'(?i)(mates|mate)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(7610, u'(?i)(ernes|erne)')"
-p46
-aS"(1683, u'(?i)(terns|tern)')"
-p47
-atp48
-Rp49
+atp39
+Rp40
 sb.

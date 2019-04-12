@@ -8,114 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(96, u'\\\\brs ?102221')"
 p5
-aS"(108, u'\\\\brs ?102221')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(194, u'\\\\bmethysergide')"
 p7
-aS"(105, u'\\\\bmethysergide')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(21, u'\\\\bpain')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht2c'
-p23
+p22
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp27
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p28
+aS"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p29
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p30
-aS"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V2016
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(53, u'\\\\bmethysergide')"
 p38
-g3
-((lp39
-S"(60, u'\\\\bmethysergide')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(2323, u'(?i)(bees|bee)')"
-p45
-aS"(4624, u'(?i)(apes|ape)')"
-p46
-aS"(5799, u'(?i)(rodents|rodent)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(4663, u'(?i)(nags|nag)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(2665, u'(?i)(rays|ray)')"
-p55
-aS"(4964, u'(?i)(serins|serin)')"
-p56
-aS"(3858, u'(?i)(cobs|cob)')"
-p57
-aS"(3550, u'(?i)(anis|ani)')"
-p58
-aS"(3522, u'(?i)(tetras|tetra)')"
-p59
-aS"(1961, u'(?i)(pens|pen)')"
-p60
-aS"(3812, u'(?i)(studs|stud)')"
-p61
-aS"(6391, u'(?i)(asses|ass)')"
-p62
-aS"(4177, u'(?i)(grays|gray)')"
-p63
-aS"(6356, u'(?i)(ais|ai)')"
-p64
-atp65
-Rp66
+((lp42
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p43
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p44
+atp45
+Rp46
 sb.

@@ -8,96 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\britanserin')"
+S"(30, u'\\\\bway ?100135')"
 p5
-aS"(21, u'\\\\bpindolol')"
+aS"(124, u'\\\\bondansetron')"
 p6
-aS"(54, u'\\\\britanserin')"
+aS"(119, u'\\\\britanserin')"
 p7
-aS"(22, u'\\\\bpropranolol')"
+aS"(21, u'\\\\bpindolol')"
 p8
-aS"(31, u'\\\\bway ?100135')"
+aS"(22, u'\\\\bpropranolol')"
 p9
-aS"(135, u'\\\\bondansetron')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.ANTAGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
-tp20
-Rp21
+((lp18
+tp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht1b'
-p24
-aS'5ht5'
-p25
-aS'5ht4'
-p26
-aS'5ht3a'
-p27
-aS'5ht2c'
-p28
-aS'5ht2a'
-p29
+p23
 aS'5ht1a'
-p30
-atp31
-Rp32
+p24
+aS'5ht4'
+p25
+aS'5ht3a'
+p26
+aS'5ht2c'
+p27
+aS'5ht2a'
+p28
+atp29
+Rp30
 sS'regions'
-p33
+p31
 g3
-((lp34
-tp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'year'
-p37
+p35
 V1997
-p38
+p36
 sS'agonists'
-p39
+p37
 g3
-((lp40
-tp41
-Rp42
+((lp38
+tp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(6753, u'(?i)(da|das)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(4964, u'(?i)(serins|serin)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(5949, u'(?i)(dogs|dog)')"
-p55
-atp56
-Rp57
+((lp42
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

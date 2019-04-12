@@ -8,25 +8,25 @@ c__builtin__
 set
 p3
 ((lp4
-S"(112, u'\\\\bamitriptyline')"
+S"(133, u'\\\\bmianserin')"
 p5
-aS"(118, u'\\\\bamoxapine')"
+aS"(106, u'\\\\bdoxepin')"
 p6
-aS"(199, u'\\\\bmaprotiline')"
+aS"(104, u'\\\\bimipramine')"
 p7
-aS"(113, u'\\\\bclomipramine')"
+aS"(102, u'\\\\bamitriptyline')"
 p8
-aS"(117, u'\\\\bmianserin')"
+aS"(107, u'\\\\bamoxapine')"
 p9
-aS"(115, u'\\\\bnortriptyline')"
+aS"(48, u'\\\\btrazodone')"
 p10
-aS"(102, u'\\\\bfluoxetine')"
+aS"(192, u'\\\\bmaprotiline')"
 p11
-aS"(50, u'\\\\btrazodone')"
+aS"(91, u'\\\\bfluoxetine')"
 p12
-aS"(114, u'\\\\bimipramine')"
+aS"(103, u'\\\\bclomipramine')"
 p13
-aS"(116, u'\\\\bdoxepin')"
+aS"(105, u'\\\\bnortriptyline')"
 p14
 atp15
 Rp16
@@ -60,54 +60,26 @@ sS'regions'
 p33
 g3
 ((lp34
-S"(34, u'(?i)(pon|pons)')"
-p35
-atp36
-Rp37
+tp35
+Rp36
 sS'year'
-p38
+p37
 V1993
-p39
+p38
 sS'agonists'
-p40
+p39
 g3
-((lp41
-S"(82, u'\\\\btrazodone')"
-p42
-atp43
-Rp44
+((lp40
+S"(75, u'\\\\btrazodone')"
+p41
+atp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(1686, u'(?i)(gibs|gib)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1349, u'(?i)(rams|ram)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(7488, u'(?i)(molas|mola)')"
-p55
-aS"(4964, u'(?i)(serins|serin)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(6391, u'(?i)(asses|ass)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-atp61
-Rp62
+((lp45
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

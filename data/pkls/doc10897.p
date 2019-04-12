@@ -40,34 +40,24 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1998
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(6356, u'(?i)(ais|ai)')"
-p36
-aS"(468, u'(?i)(oxen|ox)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(702, u'(?i)(genets|genet)')"
-p39
-aS"(163, u'(?i)(mice|mouse)')"
-p40
-atp41
-Rp42
+((lp34
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p35
+atp36
+Rp37
 sb.

@@ -8,102 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(133, u'\\\\bmianserin')"
 p5
-aS"(21, u'\\\\bpindolol')"
+aS"(26, u'\\\\bspiperone')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(21, u'\\\\bpindolol')"
 p7
-aS"(117, u'\\\\bmianserin')"
+aS"(203, u'\\\\btfmpp')"
 p8
-aS"(209, u'\\\\btfmpp')"
+aS"(117, u'\\\\bketanserin')"
 p9
-aS"(27, u'\\\\bspiperone')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.ANTAGONIST'
-p15
+p14
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
+((lp19
 S"(8, u'\\\\blearning')"
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'receptors'
-p24
+p23
 g3
-((lp25
+((lp24
 S'5ht1c'
-p26
+p25
 aS'5ht1b'
-p27
-aS'5ht5'
-p28
+p26
 aS'5ht1a'
-p29
+p27
 aS'5ht2'
-p30
-atp31
-Rp32
+p28
+atp29
+Rp30
 sS'regions'
-p33
+p31
 g3
-((lp34
-S"(34, u'(?i)(pon|pons)')"
-p35
-atp36
-Rp37
+((lp32
+tp33
+Rp34
 sS'year'
-p38
+p35
 V1993
-p39
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(20, u'\\\\bbuspirone')"
+p39
+aS"(178, u'\\\\btfmpp')"
 p40
-g3
-((lp41
-S"(196, u'\\\\bquipazine')"
-p42
-aS"(24, u'\\\\bbuspirone')"
-p43
-aS"(183, u'\\\\btfmpp')"
-p44
-atp45
-Rp46
+aS"(192, u'\\\\bquipazine')"
+p41
+atp42
+Rp43
 sS'species'
-p47
+p44
 g3
-((lp48
-S"(2568, u'(?i)(hens|hen)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+((lp45
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

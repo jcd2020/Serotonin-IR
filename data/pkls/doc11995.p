@@ -38,15 +38,15 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
 p24
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p25
-aS"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p28
 atp29
 Rp30
@@ -58,9 +58,9 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(141, u'\\\\bro60 ?0175')"
 p35
-aS"(147, u'\\\\bro60 ?0175')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p36
 atp37
 Rp38
@@ -68,26 +68,8 @@ sS'species'
 p39
 g3
 ((lp40
-S"(5958, u'(?i)(rats|rat)')"
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(4091, u'(?i)(adults|adult)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp42
+Rp43
 sb.

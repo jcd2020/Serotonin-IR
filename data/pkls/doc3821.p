@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p23
 atp24
 Rp25
@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p30
 atp31
 Rp32
@@ -56,22 +56,10 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2568, u'(?i)(hens|hen)')"
+S"(4046, u'(?i)\\\\b(brits|brit)\\\\b')"
 p35
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(468, u'(?i)(oxen|ox)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(4046, u'(?i)(brits|brit)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(3550, u'(?i)(anis|ani)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-atp43
-Rp44
+atp37
+Rp38
 sb.

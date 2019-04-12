@@ -48,9 +48,9 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(11, u'\\\\bamphetamine')"
 p30
-aS"(14, u'\\\\bamphetamine')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p31
 atp32
 Rp33
@@ -58,34 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(3550, u'(?i)(anis|ani)')"
+aS"(3636, u'(?i)\\\\b(martins|martin)\\\\b')"
 p37
-aS"(949, u'(?i)(cohoes|coho)')"
+aS"(736, u'(?i)\\\\b(fawns|fawn)\\\\b')"
 p38
-aS"(3636, u'(?i)(martins|martin)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(81, u'(?i)(asps|asp)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(2942, u'(?i)(daws|daw)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(736, u'(?i)(fawns|fawn)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+atp39
+Rp40
 sb.

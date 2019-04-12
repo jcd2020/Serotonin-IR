@@ -30,70 +30,34 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht2a'
 p19
-aS'5ht2a'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+((lp23
+tp24
+Rp25
 sS'year'
-p28
+p26
 V2016
-p29
+p27
 sS'agonists'
+p28
+g3
+((lp29
+S"(149, u'\\\\bmem')"
 p30
-g3
-((lp31
-S"(155, u'\\\\bmem')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'species'
-p35
+p33
 g3
-((lp36
-S"(1070, u'(?i)(pets|pet)')"
-p37
-aS"(7539, u'(?i)(mammals|mammal)')"
-p38
-aS"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(867, u'(?i)(tits|tit)')"
-p40
-aS"(5176, u'(?i)(tegs|teg)')"
-p41
-aS"(4371, u'(?i)(lizas|liza)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(1725, u'(?i)(clams|clam)')"
-p44
-aS"(3404, u'(?i)(titis|titi)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p49
-aS"(3099, u'(?i)(lugs|lug)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(5743, u'(?i)(bots|bot)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-atp54
-Rp55
+((lp34
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p35
+atp36
+Rp37
 sb.

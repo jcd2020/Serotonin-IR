@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(121, u'\\\\bsb ?243213')"
 p5
-aS"(132, u'\\\\bsb ?243213')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
 atp7
 Rp8
@@ -58,9 +58,9 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(48, u'\\\\bhaloperidol')"
+S"(11, u'\\\\bamphetamine')"
 p35
-aS"(14, u'\\\\bamphetamine')"
+aS"(43, u'\\\\bhaloperidol')"
 p36
 atp37
 Rp38
@@ -68,30 +68,14 @@ sS'species'
 p39
 g3
 ((lp40
-S"(5799, u'(?i)(rodents|rodent)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p41
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p42
-aS"(5743, u'(?i)(bots|bot)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(6682, u'(?i)(tera|teras)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(1057, u'(?i)(humans|human)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(3196, u'(?i)(human|humans)')"
-p52
-atp53
-Rp54
+atp45
+Rp46
 sb.

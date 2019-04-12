@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(140, u'\\\\brenzapride')"
+S"(129, u'\\\\brenzapride')"
 p5
-aS"(141, u'\\\\bzacopride')"
+aS"(130, u'\\\\bzacopride')"
 p6
 atp7
 Rp8
@@ -36,84 +36,48 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht5'
+S'5ht4'
 p22
-aS'5ht4'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(220, u'(?i)(striatums|striatum)')"
-p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp26
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p32
+p30
 V1997
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(200, u'\\\\bml ?10302')"
 p34
-g3
-((lp35
-S"(207, u'\\\\brenzapride')"
+aS"(208, u'\\\\bzacopride')"
+p35
+aS"(203, u'\\\\brenzapride')"
 p36
-aS"(212, u'\\\\bzacopride')"
-p37
-aS"(204, u'\\\\bml ?10302')"
-p38
-atp39
-Rp40
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(6249, u'(?i)(ants|ant)')"
+((lp40
+S"(2665, u'(?i)\\\\b(rays|ray)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p43
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p44
-aS"(6857, u'(?i)(ormers|ormer)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p45
-aS"(867, u'(?i)(tits|tit)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(479, u'(?i)(lings|ling)')"
-p48
-aS"(3051, u'(?i)(pigs|pig)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1349, u'(?i)(rams|ram)')"
-p51
-aS"(4604, u'(?i)(mites|mite)')"
-p52
-aS"(2665, u'(?i)(rays|ray)')"
-p53
-aS"(3062, u'(?i)(guineas|guinea)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(5131, u'(?i)(hags|hag)')"
-p56
-aS"(5229, u'(?i)(moles|mole)')"
-p57
-aS"(1414, u'(?i)(chars|char)')"
-p58
-aS"(6391, u'(?i)(asses|ass)')"
-p59
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p60
-aS"(2809, u'(?i)(toms|tom)')"
-p61
-aS"(7488, u'(?i)(molas|mola)')"
-p62
-aS"(6356, u'(?i)(ais|ai)')"
-p63
-atp64
-Rp65
+atp46
+Rp47
 sb.

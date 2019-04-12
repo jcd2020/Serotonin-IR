@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
+S"(24, u'\\\\bsb ?649915')"
 p5
-aS"(25, u'\\\\bsb ?649915')"
+aS"(21, u'\\\\bpindolol')"
 p6
 atp7
 Rp8
@@ -62,40 +62,18 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2323, u'(?i)(bees|bee)')"
+S"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(6682, u'(?i)(tera|teras)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(5967, u'(?i)(males|male)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6981, u'(?i)(moths|moth)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(1057, u'(?i)(humans|human)')"
-p49
-aS"(4371, u'(?i)(lizas|liza)')"
-p50
-aS"(3722, u'(?i)(pups|pup)')"
-p51
-aS"(3196, u'(?i)(human|humans)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p54
-atp55
-Rp56
+atp44
+Rp45
 sb.

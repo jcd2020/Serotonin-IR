@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(127, u'\\\\bderamciclane')"
+S"(116, u'\\\\bderamciclane')"
 p5
 atp6
 Rp7
@@ -56,32 +56,8 @@ sS'species'
 p33
 g3
 ((lp34
-S"(1070, u'(?i)(pets|pet)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(3404, u'(?i)(titis|titi)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(867, u'(?i)(tits|tit)')"
-p38
-aS"(3222, u'(?i)(seals|seal)')"
-p39
-aS"(81, u'(?i)(asps|asp)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(1349, u'(?i)(rams|ram)')"
-p44
-aS"(1054, u'(?i)(homoes|homo)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-atp48
-Rp49
+atp36
+Rp37
 sb.

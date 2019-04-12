@@ -8,80 +8,62 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(54, u'\\\\britanserin')"
+aS"(31, u'\\\\bway ?100635')"
 p6
-aS"(34, u'\\\\byohimbine')"
+aS"(33, u'\\\\byohimbine')"
 p7
-aS"(130, u'\\\\britanserin')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
-tp13
-Rp14
+((lp11
+tp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
-tp17
-Rp18
+((lp15
+tp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
+((lp19
 S'5ht1a'
-p21
+p20
 aS'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
-p27
-atp28
-Rp29
+((lp25
+S"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
+p26
+atp27
+Rp28
 sS'year'
-p30
+p29
 V1999
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(89, u'\\\\byohimbine')"
-p34
-atp35
-Rp36
+((lp32
+S"(82, u'\\\\byohimbine')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(4979, u'(?i)(cats|cat)')"
-p40
-aS"(6682, u'(?i)(tera|teras)')"
-p41
-aS"(1686, u'(?i)(gibs|gib)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1349, u'(?i)(rams|ram)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(4964, u'(?i)(serins|serin)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-atp48
-Rp49
+((lp37
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

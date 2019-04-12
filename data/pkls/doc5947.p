@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(38, u'\\\\bsb ?216641')"
+S"(37, u'\\\\bsb ?216641')"
 p5
-aS"(45, u'\\\\bgr ?127935')"
+aS"(43, u'\\\\bgr ?127935')"
 p6
 atp7
 Rp8
@@ -50,64 +50,36 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+tp30
+Rp31
 sS'year'
-p33
+p32
 V2004
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(103, u'\\\\bsumatriptan')"
+((lp35
+S"(219, u'\\\\b5 ?ct')"
+p36
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p37
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(96, u'\\\\bsumatriptan')"
 p38
-aS"(5, u'\\\\b5 ?ct')"
+aS"(97, u'\\\\bzolmitriptan')"
 p39
-aS"(104, u'\\\\bzolmitriptan')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(6249, u'(?i)(ants|ant)')"
+((lp43
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p44
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p45
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(3767, u'(?i)(olms|olm)')"
-p48
-aS"(3051, u'(?i)(pigs|pig)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(3726, u'(?i)(mates|mate)')"
-p52
-aS"(107, u'(?i)(stags|stag)')"
-p53
-aS"(3062, u'(?i)(guineas|guinea)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(7094, u'(?i)(curs|cur)')"
-p56
-aS"(1291, u'(?i)(ratels|ratel)')"
-p57
-aS"(1414, u'(?i)(chars|char)')"
-p58
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-atp61
-Rp62
+atp47
+Rp48
 sb.

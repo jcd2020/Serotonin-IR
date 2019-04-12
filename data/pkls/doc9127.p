@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(81, u'\\\\bagomelatine')"
+S"(72, u'\\\\bagomelatine')"
 p5
 atp6
 Rp7
@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,30 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2323, u'(?i)(bees|bee)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p37
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(5967, u'(?i)(males|male)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-atp49
-Rp50
+atp39
+Rp40
 sb.

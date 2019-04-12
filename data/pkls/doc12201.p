@@ -10,9 +10,9 @@ p3
 ((lp4
 S"(1, u'\\\\balprenolol')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(133, u'\\\\bmianserin')"
 p6
-aS"(117, u'\\\\bmianserin')"
+aS"(91, u'\\\\bfluoxetine')"
 p7
 atp8
 Rp9
@@ -52,60 +52,30 @@ sS'regions'
 p29
 g3
 ((lp30
-S"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+tp31
+Rp32
 sS'year'
-p34
+p33
 V1990
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-tp38
-Rp39
+((lp36
+tp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(5799, u'(?i)(rodents|rodent)')"
+((lp40
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p41
+aS"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
 p42
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p43
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(163, u'(?i)(mice|mouse)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(4964, u'(?i)(serins|serin)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(1414, u'(?i)(chars|char)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(5568, u'(?i)(hakes|hake)')"
-p57
-aS"(4979, u'(?i)(cats|cat)')"
-p58
-aS"(5949, u'(?i)(dogs|dog)')"
-p59
-atp60
-Rp61
+atp45
+Rp46
 sb.

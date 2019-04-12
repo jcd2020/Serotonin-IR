@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(45, u'\\\\bgr ?127935')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -46,58 +46,36 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+tp28
+Rp29
 sS'year'
-p31
+p30
 V1996
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(110, u'\\\\bcp ?135807')"
+((lp33
+S"(101, u'\\\\bcp ?94253')"
+p34
+aS"(107, u'\\\\bcp ?286601')"
 p35
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(103, u'\\\\bcp ?135807')"
 p36
-aS"(108, u'\\\\bcp ?94253')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p37
-aS"(114, u'\\\\bcp ?286601')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(5967, u'(?i)(males|male)')"
+((lp41
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p42
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1312, u'(?i)\\\\b(pigeons|pigeon)\\\\b')"
 p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(867, u'(?i)(tits|tit)')"
-p46
-aS"(4091, u'(?i)(adults|adult)')"
-p47
-aS"(3051, u'(?i)(pigs|pig)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(853, u'(?i)(minas|mina)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-aS"(1312, u'(?i)(pigeons|pigeon)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-atp56
-Rp57
+atp45
+Rp46
 sb.

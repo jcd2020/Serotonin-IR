@@ -40,52 +40,30 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2009
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(181, u'\\\\bdom')"
-p32
-atp33
-Rp34
+((lp30
+S"(176, u'\\\\bdom')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
+((lp35
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p36
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(4979, u'(?i)(cats|cat)')"
+aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
 p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(7094, u'(?i)(curs|cur)')"
-p41
-aS"(3152, u'(?i)(layers|layer)')"
-p42
-aS"(853, u'(?i)(minas|mina)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(821, u'(?i)(lice|louse)')"
-p48
-aS"(5949, u'(?i)(dogs|dog)')"
-p49
-atp50
-Rp51
+atp39
+Rp40
 sb.

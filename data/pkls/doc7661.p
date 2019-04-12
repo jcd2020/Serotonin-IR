@@ -8,102 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(83, u'\\\\bsb ?204741')"
 p5
-aS"(94, u'\\\\bsb ?204741')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(96, u'\\\\brs ?102221')"
 p7
-aS"(108, u'\\\\brs ?102221')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(25, u'\\\\bvasoconstrict')"
-p19
+p18
 aS"(26, u'\\\\bcardiovascular')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht2c'
-p25
+p24
 aS'5ht5'
-p26
+p25
 aS'5ht2b'
-p27
+p26
 aS'5ht2'
-p28
+p27
 aS'5ht2a'
-p29
-atp30
-Rp31
+p28
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-S"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'year'
-p37
+p35
 V2008
-p38
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(149, u'\\\\bmem')"
 p39
-g3
-((lp40
-S"(155, u'\\\\bmem')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(867, u'(?i)(tits|tit)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(479, u'(?i)(lings|ling)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(3726, u'(?i)(mates|mate)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(5958, u'(?i)(rats|rat)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(391, u'(?i)(alli|allis)')"
-p58
-atp59
-Rp60
+((lp43
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

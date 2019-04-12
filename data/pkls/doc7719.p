@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -38,54 +38,38 @@ S'5ht7'
 p21
 aS'5ht1b'
 p22
-aS'5ht5'
-p23
 aS'5ht1a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-tp29
-Rp30
+((lp27
+tp28
+Rp29
 sS'year'
-p31
+p30
 V2012
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+tp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(2568, u'(?i)(hens|hen)')"
+((lp37
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p38
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p39
-aS"(479, u'(?i)(lings|ling)')"
+aS"(3671, u'(?i)\\\\b(drosophilas|drosophila)\\\\b')"
 p40
-aS"(4091, u'(?i)(adults|adult)')"
+aS"(3381, u'(?i)\\\\b(flies|fly)\\\\b')"
 p41
-aS"(3671, u'(?i)(drosophilas|drosophila)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(3381, u'(?i)(flies|fly)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(2395, u'(?i)(mutants|mutant)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(7309, u'(?i)(gnats|gnat)')"
-p49
-atp50
-Rp51
+atp42
+Rp43
 sb.

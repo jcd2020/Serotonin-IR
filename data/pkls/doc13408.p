@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,9 +52,9 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(24, u'\\\\bbuspirone')"
+S"(20, u'\\\\bbuspirone')"
 p32
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p33
 atp34
 Rp35
@@ -62,46 +62,16 @@ sS'species'
 p36
 g3
 ((lp37
-S"(1070, u'(?i)(pets|pet)')"
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
 p38
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(1928, u'(?i)\\\\b(bears|bear)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p40
-aS"(867, u'(?i)(tits|tit)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(4979, u'(?i)(cats|cat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(1928, u'(?i)(bears|bear)')"
-p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3404, u'(?i)(titis|titi)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(1057, u'(?i)(humans|human)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(1414, u'(?i)(chars|char)')"
-p55
-aS"(3196, u'(?i)(human|humans)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-atp58
-Rp59
+atp43
+Rp44
 sb.

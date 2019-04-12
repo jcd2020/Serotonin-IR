@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(125, u'\\\\btropisetron')"
 p6
-aS"(136, u'\\\\btropisetron')"
+aS"(194, u'\\\\bmethysergide')"
 p7
 atp8
 Rp9
@@ -46,7 +46,7 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p28
 atp29
 Rp30
@@ -58,13 +58,13 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+S"(53, u'\\\\bmethysergide')"
 p35
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p36
-aS"(60, u'\\\\bmethysergide')"
+aS"(194, u'\\\\bsr ?57227')"
 p37
-aS"(198, u'\\\\bsr ?57227')"
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p38
 atp39
 Rp40
@@ -72,40 +72,16 @@ sS'species'
 p41
 g3
 ((lp42
-S"(6753, u'(?i)(da|das)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p45
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p46
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(3062, u'(?i)(guineas|guinea)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1349, u'(?i)(rams|ram)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(1414, u'(?i)(chars|char)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p56
-aS"(6878, u'(?i)(guans|guan)')"
-p57
-aS"(5743, u'(?i)(bots|bot)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-atp60
-Rp61
+atp48
+Rp49
 sb.

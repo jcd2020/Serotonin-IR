@@ -40,54 +40,30 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2014
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p32
-atp33
-Rp34
+((lp30
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
+((lp35
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p36
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(867, u'(?i)(tits|tit)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(6391, u'(?i)(asses|ass)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(1054, u'(?i)(homoes|homo)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(1057, u'(?i)(humans|human)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(3196, u'(?i)(human|humans)')"
-p49
-aS"(1628, u'(?i)(cod|cod)')"
-p50
-atp51
-Rp52
+atp39
+Rp40
 sb.

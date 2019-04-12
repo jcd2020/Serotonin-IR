@@ -32,66 +32,44 @@ S'5ht1b'
 p18
 aS'5ht1a'
 p19
-aS'5ht5'
-p20
 aS'5ht1'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(387, u'(?i)(spinals|spinal)(-|\\\\s+)?(subarachnoids|subarachnoid)(-|\\\\s+)?(spaces|space)')"
+((lp24
+S"(387, u'(?i)\\\\b(spinals|spinal)(-|\\\\s+)?(subarachnoids|subarachnoid)(-|\\\\s+)?(spaces|space)\\\\b')"
+p25
+aS"(379, u'(?i)\\\\b(subarachnoids|subarachnoid)(-|\\\\s+)?(spaces|space)\\\\b')"
 p26
-aS"(379, u'(?i)(subarachnoids|subarachnoid)(-|\\\\s+)?(spaces|space)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V1990
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(161, u'\\\\bmcpp')"
+((lp32
+S"(179, u'\\\\b5 ?meo ?dmt')"
+p33
+aS"(155, u'\\\\bmcpp')"
 p34
-aS"(74, u'\\\\bru ?24969')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p35
-aS"(8, u'\\\\b5 ?meo ?dmt')"
+aS"(67, u'\\\\bru ?24969')"
 p36
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(745, u'(?i)(arachnoids|arachnoid)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+((lp40
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p41
+atp42
+Rp43
 sb.

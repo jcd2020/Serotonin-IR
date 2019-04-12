@@ -38,11 +38,11 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p24
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p25
-aS"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,32 +60,18 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2323, u'(?i)(bees|bee)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(3015, u'(?i)(ferrets|ferret)')"
+aS"(3015, u'(?i)\\\\b(ferrets|ferret)\\\\b')"
 p39
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p40
-aS"(473, u'(?i)(rabbits|rabbit)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(1055, u'(?i)(men|man)')"
+aS"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
 p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(1054, u'(?i)(homoes|homo)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(1057, u'(?i)(humans|human)')"
-p47
-aS"(1414, u'(?i)(chars|char)')"
-p48
-aS"(3196, u'(?i)(human|humans)')"
-p49
-atp50
-Rp51
+atp43
+Rp44
 sb.

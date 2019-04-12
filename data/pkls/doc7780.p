@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(136, u'\\\\btropisetron')"
+aS"(125, u'\\\\btropisetron')"
 p6
 atp7
 Rp8
@@ -60,10 +60,6 @@ sS'species'
 p35
 g3
 ((lp36
-S"(6753, u'(?i)(da|das)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-atp39
-Rp40
+tp37
+Rp38
 sb.

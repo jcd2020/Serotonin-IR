@@ -56,9 +56,9 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(152, u'\\\\bguanfacine')"
+S"(146, u'\\\\bguanfacine')"
 p34
-aS"(33, u'\\\\bdoi')"
+aS"(175, u'\\\\bdoi')"
 p35
 atp36
 Rp37
@@ -66,32 +66,6 @@ sS'species'
 p38
 g3
 ((lp39
-S"(6753, u'(?i)(da|das)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(6878, u'(?i)(guans|guan)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+tp40
+Rp41
 sb.

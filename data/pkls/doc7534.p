@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(182, u'\\\\bsb ?258585')"
+S"(174, u'\\\\bsb ?258585')"
 p5
 atp6
 Rp7
@@ -44,15 +44,15 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(220, u'(?i)(striatums|striatum)')"
+S"(310, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)\\\\b')"
 p27
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p29
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p30
-aS"(310, u'(?i)(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p31
 atp32
 Rp33
@@ -64,9 +64,9 @@ sS'agonists'
 p36
 g3
 ((lp37
-S"(219, u'\\\\bway ?208466')"
+S"(149, u'\\\\bmem')"
 p38
-aS"(155, u'\\\\bmem')"
+aS"(214, u'\\\\bway ?208466')"
 p39
 atp40
 Rp41
@@ -74,40 +74,12 @@ sS'species'
 p42
 g3
 ((lp43
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p44
-aS"(2054, u'(?i)(heads|head)')"
+aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p45
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
-aS"(7609, u'(?i)(erns|ern)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(7094, u'(?i)(curs|cur)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(1085, u'(?i)(boars|boar)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(1345, u'(?i)(boas|boa)')"
-p59
-aS"(1683, u'(?i)(terns|tern)')"
-p60
-atp61
-Rp62
+atp47
+Rp48
 sb.

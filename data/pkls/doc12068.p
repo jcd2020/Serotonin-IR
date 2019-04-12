@@ -8,98 +8,66 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(34, u'\\\\bmetergoline')"
 p5
-aS"(54, u'\\\\britanserin')"
+aS"(31, u'\\\\bway ?100635')"
 p6
-aS"(52, u'\\\\bmetergoline')"
+aS"(119, u'\\\\britanserin')"
 p7
-aS"(130, u'\\\\britanserin')"
-p8
-aS"(35, u'\\\\bmetergoline')"
-p9
-atp10
-Rp11
+atp8
+Rp9
 sS'methods'
-p12
+p10
 g3
-((lp13
+((lp11
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p12
+atp13
+Rp14
 sS'topics'
-p17
+p15
 g3
-((lp18
+((lp16
 S"(11, u'\\\\banxiolyt')"
-p19
-atp20
-Rp21
+p17
+atp18
+Rp19
 sS'receptors'
-p22
+p20
 g3
-((lp23
+((lp21
 S'5ht1a'
-p24
+p22
 aS'5ht2c'
-p25
+p23
 aS'5ht2a'
-p26
-atp27
-Rp28
+p24
+atp25
+Rp26
 sS'regions'
-p29
+p27
 g3
-((lp30
-S"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+((lp28
+tp29
+Rp30
 sS'year'
-p34
+p31
 V2007
-p35
+p32
 sS'agonists'
-p36
+p33
 g3
-((lp37
-tp38
-Rp39
+((lp34
+tp35
+Rp36
 sS'species'
-p40
+p37
 g3
-((lp41
-S"(4624, u'(?i)(apes|ape)')"
-p42
-aS"(4096, u'(?i)(chows|chow)')"
-p43
-aS"(2568, u'(?i)(hens|hen)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(3726, u'(?i)(mates|mate)')"
-p49
-aS"(4964, u'(?i)(serins|serin)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-atp57
-Rp58
+((lp38
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p39
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

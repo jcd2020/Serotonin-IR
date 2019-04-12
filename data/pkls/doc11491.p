@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(187, u'\\\\bro ?4368554')"
+S"(179, u'\\\\bro ?4368554')"
 p5
 atp6
 Rp7
@@ -50,9 +50,9 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p30
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p31
 atp32
 Rp33
@@ -64,9 +64,9 @@ sS'agonists'
 p36
 g3
 ((lp37
-S"(14, u'\\\\bamphetamine')"
+S"(11, u'\\\\bamphetamine')"
 p38
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p39
 atp40
 Rp41
@@ -74,30 +74,12 @@ sS'species'
 p42
 g3
 ((lp43
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p44
-aS"(6753, u'(?i)(da|das)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p45
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(4091, u'(?i)(adults|adult)')"
-p48
-aS"(5967, u'(?i)(males|male)')"
-p49
-aS"(853, u'(?i)(minas|mina)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+atp47
+Rp48
 sb.

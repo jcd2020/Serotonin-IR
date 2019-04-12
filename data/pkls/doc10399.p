@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p23
 atp24
 Rp25
@@ -48,9 +48,9 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(192, u'\\\\bquipazine')"
 p30
-aS"(196, u'\\\\bquipazine')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p31
 atp32
 Rp33
@@ -58,36 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(6753, u'(?i)(da|das)')"
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p36
-aS"(2568, u'(?i)(hens|hen)')"
-p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(5743, u'(?i)(bots|bot)')"
-p39
-aS"(7539, u'(?i)(mammals|mammal)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(7094, u'(?i)(curs|cur)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(1414, u'(?i)(chars|char)')"
-p48
-aS"(821, u'(?i)(lice|louse)')"
-p49
-aS"(5949, u'(?i)(dogs|dog)')"
-p50
-atp51
-Rp52
+atp37
+Rp38
 sb.

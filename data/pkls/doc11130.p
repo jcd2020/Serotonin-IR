@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(126, u'\\\\bcinanserin')"
+S"(115, u'\\\\bcinanserin')"
 p5
 atp6
 Rp7
@@ -56,11 +56,11 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(146, u'\\\\bbw ?723c86')"
+S"(166, u'\\\\bmk ?212')"
 p34
-aS"(172, u'\\\\bmk ?212')"
+aS"(140, u'\\\\bbw ?723c86')"
 p35
-aS"(169, u'\\\\bfenfluramine')"
+aS"(163, u'\\\\bfenfluramine')"
 p36
 atp37
 Rp38
@@ -68,22 +68,8 @@ sS'species'
 p39
 g3
 ((lp40
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(4964, u'(?i)(serins|serin)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-atp49
-Rp50
+atp42
+Rp43
 sb.

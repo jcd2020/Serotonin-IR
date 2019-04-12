@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(6, u'(?i)(rostrals|rostral)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)')"
+S"(6, u'(?i)\\\\b(rostrals|rostral)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)\\\\b')"
 p24
-aS"(2, u'(?i)(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)')"
+aS"(2, u'(?i)\\\\b(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,52 +58,14 @@ sS'species'
 p34
 g3
 ((lp35
-S"(7094, u'(?i)(curs|cur)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p36
-aS"(6580, u'(?i)(dams|dam)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(4876, u'(?i)\\\\b(sheep|sheep)\\\\b')"
 p39
-aS"(4876, u'(?i)(sheep|sheep)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(479, u'(?i)(lings|ling)')"
-p42
-aS"(4091, u'(?i)(adults|adult)')"
-p43
-aS"(5967, u'(?i)(males|male)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(391, u'(?i)(alli|allis)')"
-p47
-aS"(2809, u'(?i)(toms|tom)')"
-p48
-aS"(513, u'(?i)(uruses|urus)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6753, u'(?i)(da|das)')"
-p53
-aS"(1414, u'(?i)(chars|char)')"
-p54
-aS"(6642, u'(?i)(lions|lion)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-aS"(1169, u'(?i)(grades|grade)')"
-p57
-aS"(2238, u'(?i)(elks|elk)')"
-p58
-atp59
-Rp60
+atp40
+Rp41
 sb.

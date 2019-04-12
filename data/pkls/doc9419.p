@@ -38,44 +38,32 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V1992
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(181, u'\\\\bdom')"
+((lp29
+S"(45, u'\\\\bipsapirone')"
+p30
+aS"(176, u'\\\\bdom')"
 p31
-aS"(50, u'\\\\bipsapirone')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(6753, u'(?i)(da|das)')"
+((lp35
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+p36
+aS"(4627, u'(?i)\\\\b(domesticateds|domesticated)(-|\\\\s+)?(animals|animal)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(4627, u'(?i)(domesticateds|domesticated)(-|\\\\s+)?(animals|animal)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(6115, u'(?i)(predators|predator)')"
-p44
-atp45
-Rp46
+atp39
+Rp40
 sb.

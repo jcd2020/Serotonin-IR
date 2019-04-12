@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(142, u'\\\\bm1')"
+S"(99, u'\\\\bsb ?242084')"
 p5
-aS"(110, u'\\\\bsb ?242084')"
+aS"(131, u'\\\\bm1')"
 p6
 atp7
 Rp8
@@ -28,17 +28,17 @@ sS'topics'
 p15
 g3
 ((lp16
-tp17
-Rp18
+S"(36, u'\\\\bcompulsiv')"
+p17
+atp18
+Rp19
 sS'receptors'
-p19
+p20
 g3
-((lp20
-S'5ht5'
-p21
-aS'5ht2c'
+((lp21
+S'5ht1a'
 p22
-aS'5ht1a'
+aS'5ht2c'
 p23
 aS'5ht2a'
 p24
@@ -48,9 +48,9 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
 atp31
 Rp32
@@ -62,7 +62,7 @@ sS'agonists'
 p35
 g3
 ((lp36
-S"(33, u'\\\\bdoi')"
+S"(175, u'\\\\bdoi')"
 p37
 atp38
 Rp39
@@ -70,32 +70,8 @@ sS'species'
 p40
 g3
 ((lp41
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(479, u'(?i)(lings|ling)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(3726, u'(?i)(mates|mate)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+atp43
+Rp44
 sb.

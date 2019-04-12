@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(223, u'(?i)(putamens|putamen)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p24
 atp25
 Rp26
@@ -56,42 +56,12 @@ sS'species'
 p33
 g3
 ((lp34
-S"(6753, u'(?i)(da|das)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p35
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
 p37
-aS"(4201, u'(?i)(kines|kine)')"
-p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(3152, u'(?i)(layers|layer)')"
-p43
-aS"(4964, u'(?i)(serins|serin)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(3522, u'(?i)(tetras|tetra)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(6521, u'(?i)(macaques|macaque)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-aS"(6325, u'(?i)(caudates|caudate)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-atp53
-Rp54
+atp38
+Rp39
 sb.

@@ -40,9 +40,9 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(364, u'(?i)\\\\b(middles|middle)(-|\\\\s+)?(cerebrals|cerebral)(-|\\\\s+)?(arteries|artery)\\\\b')"
 p25
-aS"(364, u'(?i)(middles|middle)(-|\\\\s+)?(cerebrals|cerebral)(-|\\\\s+)?(arteries|artery)')"
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,9 +54,9 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(50, u'\\\\bipsapirone')"
+S"(79, u'\\\\burapidil')"
 p33
-aS"(86, u'\\\\burapidil')"
+aS"(45, u'\\\\bipsapirone')"
 p34
 atp35
 Rp36
@@ -64,44 +64,12 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(163, u'(?i)(mice|mouse)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(3726, u'(?i)(mates|mate)')"
-p49
-aS"(6580, u'(?i)(dams|dam)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(3522, u'(?i)(tetras|tetra)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-atp58
-Rp59
+atp42
+Rp43
 sb.

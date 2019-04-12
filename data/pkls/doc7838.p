@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(37, u'\\\\bar ?a000002')"
+S"(36, u'\\\\bar ?a000002')"
 p5
 atp6
 Rp7
@@ -44,72 +44,38 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(220, u'(?i)(striatums|striatum)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p27
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p28
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'year'
-p33
+p31
 V2009
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(149, u'\\\\bmem')"
 p35
-g3
-((lp36
-S"(155, u'\\\\bmem')"
-p37
-atp38
-Rp39
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(4624, u'(?i)(apes|ape)')"
+((lp39
+S"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p40
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p41
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p42
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p43
-aS"(4201, u'(?i)(kines|kine)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p44
-aS"(3592, u'(?i)(ravens|raven)')"
-p45
-aS"(3051, u'(?i)(pigs|pig)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(3062, u'(?i)(guineas|guinea)')"
-p49
-aS"(6215, u'(?i)(racers|racer)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(3522, u'(?i)(tetras|tetra)')"
-p53
-aS"(1057, u'(?i)(humans|human)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(1414, u'(?i)(chars|char)')"
-p56
-aS"(3196, u'(?i)(human|humans)')"
-p57
-aS"(391, u'(?i)(alli|allis)')"
-p58
-aS"(2809, u'(?i)(toms|tom)')"
-p59
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-atp62
-Rp63
+atp45
+Rp46
 sb.

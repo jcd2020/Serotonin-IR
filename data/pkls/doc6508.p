@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,36 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5150, u'(?i)\\\\b(gerbils|gerbil)\\\\b')"
 p36
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p38
-aS"(7610, u'(?i)(ernes|erne)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(4091, u'(?i)(adults|adult)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(5150, u'(?i)(gerbils|gerbil)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(3522, u'(?i)(tetras|tetra)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(3247, u'(?i)(youngs|young)')"
-p48
-aS"(7609, u'(?i)(erns|ern)')"
-p49
-aS"(1683, u'(?i)(terns|tern)')"
-p50
-atp51
-Rp52
+atp39
+Rp40
 sb.

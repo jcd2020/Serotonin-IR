@@ -46,64 +46,44 @@ aS'5ht1b'
 p25
 aS'5ht1d'
 p26
-aS'5ht5'
-p27
 aS'5ht4a'
-p28
+p27
 aS'5ht2a'
-p29
+p28
 aS'5ht5b'
-p30
+p29
 aS'5ht5a'
-p31
+p30
 aS'5ht2c'
-p32
-atp33
-Rp34
+p31
+atp32
+Rp33
 sS'regions'
-p35
+p34
 g3
-((lp36
-tp37
-Rp38
+((lp35
+tp36
+Rp37
 sS'year'
-p39
+p38
 V1998
-p40
+p39
 sS'agonists'
-p41
+p40
 g3
-((lp42
-S"(103, u'\\\\bsumatriptan')"
+((lp41
+S"(96, u'\\\\bsumatriptan')"
+p42
+aS"(67, u'\\\\bru ?24969')"
 p43
-aS"(74, u'\\\\bru ?24969')"
-p44
-atp45
-Rp46
+atp44
+Rp45
 sS'species'
-p47
+p46
 g3
-((lp48
-S"(2323, u'(?i)(bees|bee)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(479, u'(?i)(lings|ling)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(5229, u'(?i)(moles|mole)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+((lp47
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

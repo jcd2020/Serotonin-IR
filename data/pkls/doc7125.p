@@ -32,58 +32,34 @@ g3
 ((lp18
 S'5ht1b'
 p19
-aS'5ht5'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(198, u'(?i)(internals|internal)(-|\\\\s+)?(capsules|capsule)')"
-p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+((lp23
+S"(198, u'(?i)\\\\b(internals|internal)(-|\\\\s+)?(capsules|capsule)\\\\b')"
+p24
+atp25
+Rp26
 sS'year'
-p29
+p27
 V2002
-p30
+p28
 sS'agonists'
-p31
+p29
 g3
-((lp32
-tp33
-Rp34
+((lp30
+tp31
+Rp32
 sS'species'
-p35
+p33
 g3
-((lp36
-S"(6753, u'(?i)(da|das)')"
-p37
-aS"(7609, u'(?i)(erns|ern)')"
-p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(3726, u'(?i)(mates|mate)')"
-p42
-aS"(3152, u'(?i)(layers|layer)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(821, u'(?i)(lice|louse)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(1683, u'(?i)(terns|tern)')"
-p48
-atp49
-Rp50
+((lp34
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p35
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p36
+atp37
+Rp38
 sb.

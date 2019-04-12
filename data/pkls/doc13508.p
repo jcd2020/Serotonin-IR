@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(173, u'\\\\blu ae58054')"
+S"(165, u'\\\\blu ae58054')"
 p5
-aS"(172, u'\\\\bidalopirdine')"
+aS"(164, u'\\\\bidalopirdine')"
 p6
 atp7
 Rp8
@@ -60,48 +60,14 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2323, u'(?i)(bees|bee)')"
+S"(1056, u'(?i)\\\\b(humans|human)(-|\\\\s+)?(beings|being)\\\\b')"
 p37
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(3195, u'(?i)\\\\b(humans|human)(-|\\\\s+)?(being|beings)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(6548, u'(?i)(takins|takin)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(1056, u'(?i)(humans|human)(-|\\\\s+)?(beings|being)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(2183, u'(?i)(gars|gar)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(3195, u'(?i)(humans|human)(-|\\\\s+)?(being|beings)')"
-p47
-aS"(853, u'(?i)(minas|mina)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(1057, u'(?i)(humans|human)')"
-p51
-aS"(3196, u'(?i)(human|humans)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(2292, u'(?i)(adders|adder)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(2809, u'(?i)(toms|tom)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+atp41
+Rp42
 sb.

@@ -48,9 +48,9 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(181, u'\\\\bdom')"
+S"(176, u'\\\\bdom')"
 p30
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p31
 atp32
 Rp33
@@ -58,42 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(4163, u'(?i)(ermines|ermine)')"
+S"(4208, u'(?i)\\\\b(canines|canine)\\\\b')"
 p36
-aS"(6878, u'(?i)(guans|guan)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p37
-aS"(1667, u'(?i)(polyps|polyp)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(6391, u'(?i)(asses|ass)')"
-p39
-aS"(479, u'(?i)(lings|ling)')"
-p40
-aS"(1883, u'(?i)(calves|calf)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1349, u'(?i)(rams|ram)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(4208, u'(?i)(canines|canine)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(1057, u'(?i)(humans|human)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(1628, u'(?i)(cod|cod)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+atp39
+Rp40
 sb.

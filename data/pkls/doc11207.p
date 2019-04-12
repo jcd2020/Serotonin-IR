@@ -38,48 +38,28 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p24
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2007
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p32
-atp33
-Rp34
+((lp30
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5537, u'(?i)(hippos|hippo)')"
-p37
-aS"(2670, u'(?i)(arabs|arab)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(5131, u'(?i)(hags|hag)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(3522, u'(?i)(tetras|tetra)')"
-p44
-aS"(7127, u'(?i)(monitors|monitor)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-atp47
-Rp48
+((lp35
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

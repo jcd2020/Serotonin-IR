@@ -44,7 +44,7 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(80, u'\\\\btandospirone')"
+S"(73, u'\\\\btandospirone')"
 p34
 atp35
 Rp36
@@ -64,46 +64,16 @@ sS'species'
 p37
 g3
 ((lp38
-S"(2323, u'(?i)(bees|bee)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p39
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p40
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(4979, u'(?i)(cats|cat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(3726, u'(?i)(mates|mate)')"
-p49
-aS"(2942, u'(?i)(daws|daw)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(1057, u'(?i)(humans|human)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(3196, u'(?i)(human|humans)')"
-p55
-aS"(5537, u'(?i)(hippos|hippo)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-atp59
-Rp60
+atp44
+Rp45
 sb.

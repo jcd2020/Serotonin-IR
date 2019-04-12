@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(99, u'\\\\bsb ?242084')"
 p5
-aS"(96, u'\\\\bsb ?215505')"
+aS"(85, u'\\\\bsb ?215505')"
 p6
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(31, u'\\\\bway ?100635')"
 p7
-aS"(110, u'\\\\bsb ?242084')"
+aS"(52, u'\\\\bmdl ?100907')"
 p8
 atp9
 Rp10
@@ -64,44 +64,22 @@ sS'agonists'
 p36
 g3
 ((lp37
-S"(69, u'\\\\bpsilocin')"
+S"(62, u'\\\\bpsilocin')"
 p38
-aS"(164, u'\\\\bpsilocin')"
+aS"(63, u'\\\\bpsilocybin')"
 p39
-aS"(70, u'\\\\bpsilocybin')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(4624, u'(?i)(apes|ape)')"
+((lp43
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(1688, u'(?i)(ounces|ounce)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(6125, u'(?i)(females|female)')"
-p48
-aS"(5551, u'(?i)(owls|owl)')"
-p49
-aS"(1885, u'(?i)(apars|apar)')"
-p50
-aS"(5967, u'(?i)(males|male)')"
-p51
-aS"(2183, u'(?i)(gars|gar)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+atp47
+Rp48
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,30 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5510, u'(?i)\\\\b(bays|bay)\\\\b')"
 p36
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(709, u'(?i)\\\\b(chicks|chick)\\\\b')"
 p37
-aS"(5510, u'(?i)(bays|bay)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(479, u'(?i)(lings|ling)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(1266, u'(?i)(embryos|embryo)')"
-p45
-aS"(391, u'(?i)(alli|allis)')"
-p46
-aS"(709, u'(?i)(chicks|chick)')"
-p47
-atp48
-Rp49
+atp39
+Rp40
 sb.

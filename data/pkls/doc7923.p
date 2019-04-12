@@ -10,112 +10,84 @@ p3
 ((lp4
 S"(5, u'\\\\bcyanopindolol')"
 p5
-aS"(53, u'\\\\bketanserin')"
-p6
 aS"(14, u'\\\\bmethiothepin')"
+p6
+aS"(133, u'\\\\bmianserin')"
 p7
-aS"(105, u'\\\\bmethysergide')"
+aS"(117, u'\\\\bketanserin')"
 p8
-aS"(128, u'\\\\bketanserin')"
-p9
-aS"(29, u'\\\\bspiroxatrine')"
-p10
 aS"(22, u'\\\\bpropranolol')"
+p9
+aS"(28, u'\\\\bspiroxatrine')"
+p10
+aS"(43, u'\\\\bgr ?127935')"
 p11
-aS"(117, u'\\\\bmianserin')"
+aS"(194, u'\\\\bmethysergide')"
 p12
-aS"(45, u'\\\\bgr ?127935')"
-p13
-atp14
-Rp15
+atp13
+Rp14
 sS'methods'
-p16
+p15
 g3
-((lp17
+((lp16
 S'Method.ANTAGONIST'
-p18
+p17
 aS'Method.AGONIST'
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'topics'
-p22
+p21
 g3
-((lp23
+((lp22
 S"(9, u'\\\\bdepress')"
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'receptors'
-p27
+p26
 g3
-((lp28
+((lp27
 S'5ht5c'
-p29
+p28
 aS'5ht2c'
-p30
+p29
 aS'5ht1d'
-p31
-atp32
-Rp33
+p30
+atp31
+Rp32
 sS'regions'
-p34
+p33
 g3
-((lp35
-S"(34, u'(?i)(pon|pons)')"
-p36
-atp37
-Rp38
+((lp34
+tp35
+Rp36
 sS'year'
-p39
+p37
 V1995
-p40
+p38
 sS'agonists'
+p39
+g3
+((lp40
+S"(96, u'\\\\bsumatriptan')"
 p41
-g3
-((lp42
-S"(103, u'\\\\bsumatriptan')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p42
+aS"(53, u'\\\\bmethysergide')"
 p43
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p44
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(219, u'\\\\b5 ?ct')"
 p45
-aS"(5, u'\\\\b5 ?ct')"
-p46
-aS"(60, u'\\\\bmethysergide')"
-p47
-atp48
-Rp49
+atp46
+Rp47
 sS'species'
-p50
+p48
 g3
-((lp51
-S"(1070, u'(?i)(pets|pet)')"
-p52
-aS"(2568, u'(?i)(hens|hen)')"
-p53
-aS"(867, u'(?i)(tits|tit)')"
-p54
-aS"(6753, u'(?i)(da|das)')"
-p55
-aS"(468, u'(?i)(oxen|ox)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(3404, u'(?i)(titis|titi)')"
-p59
-aS"(4964, u'(?i)(serins|serin)')"
-p60
-aS"(5958, u'(?i)(rats|rat)')"
-p61
-aS"(3522, u'(?i)(tetras|tetra)')"
-p62
-aS"(7094, u'(?i)(curs|cur)')"
-p63
-aS"(6356, u'(?i)(ais|ai)')"
-p64
-atp65
-Rp66
+((lp49
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

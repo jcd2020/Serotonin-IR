@@ -46,74 +46,42 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
+S"(242, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p28
-aS"(232, u'(?i)(anteriors|anterior)(-|\\\\s+)?(perforateds|perforated)(-|\\\\s+)?(substances|substance)')"
+aS"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
 p29
-aS"(242, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tracts|tract)')"
+aS"(232, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(perforateds|perforated)(-|\\\\s+)?(substances|substance)\\\\b')"
 p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
-p34
+p33
 V2010
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
+((lp36
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p37
+aS"(114, u'\\\\bl ?694247')"
 p38
-aS"(121, u'\\\\bl ?694247')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(6249, u'(?i)(ants|ant)')"
+((lp42
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p43
+aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
 p44
-aS"(7539, u'(?i)(mammals|mammal)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p45
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(1686, u'(?i)(gibs|gib)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1349, u'(?i)(rams|ram)')"
-p51
-aS"(3726, u'(?i)(mates|mate)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(3522, u'(?i)(tetras|tetra)')"
-p56
-aS"(1057, u'(?i)(humans|human)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-aS"(3196, u'(?i)(human|humans)')"
-p60
-aS"(391, u'(?i)(alli|allis)')"
-p61
-aS"(3152, u'(?i)(layers|layer)')"
-p62
-aS"(821, u'(?i)(lice|louse)')"
-p63
-atp64
-Rp65
+atp48
+Rp49
 sb.

@@ -30,64 +30,40 @@ g3
 ((lp17
 S'5ht3a'
 p18
-aS'5ht5'
-p19
 aS'5ht3'
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(220, u'(?i)(striatums|striatum)')"
-p25
-atp26
-Rp27
+((lp23
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p24
+atp25
+Rp26
 sS'year'
-p28
+p27
 V1995
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(195, u'\\\\bphenylbiguanide')"
+((lp30
+S"(191, u'\\\\bphenylbiguanide')"
+p31
+aS"(190, u'\\\\bibogaine')"
 p32
-aS"(194, u'\\\\bibogaine')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2323, u'(?i)(bees|bee)')"
+((lp36
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p37
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p38
-aS"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(853, u'(?i)(minas|mina)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6878, u'(?i)(guans|guan)')"
-p48
-aS"(4074, u'(?i)(bulls|bull)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-atp51
-Rp52
+atp39
+Rp40
 sb.

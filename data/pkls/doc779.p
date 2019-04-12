@@ -8,92 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(194, u'\\\\bmethysergide')"
 p6
-aS"(105, u'\\\\bmethysergide')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.STIMULATION'
-p12
+p11
 aS'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1a'
-p23
+p22
 aS'5ht3'
-p24
+p23
 aS'5ht2'
-p25
+p24
 aS'5ht1'
-p26
+p25
 aS'5ht1d'
-p27
-atp28
-Rp29
+p26
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'year'
-p34
+p33
 V1992
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(72, u'\\\\brauwolscine')"
+((lp36
+S"(65, u'\\\\brauwolscine')"
+p37
+aS"(53, u'\\\\bmethysergide')"
 p38
-aS"(60, u'\\\\bmethysergide')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(6753, u'(?i)(da|das)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(867, u'(?i)(tits|tit)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(2327, u'(?i)(bovines|bovine)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(4964, u'(?i)(serins|serin)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+((lp42
+S"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
+p43
+atp44
+Rp45
 sb.

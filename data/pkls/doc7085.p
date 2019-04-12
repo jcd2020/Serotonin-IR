@@ -36,11 +36,11 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
 p23
-aS"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(294, u'(?i)\\\\b(retrosplenials|retrosplenial)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p24
-aS"(294, u'(?i)(retrosplenials|retrosplenial)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,36 +58,16 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p37
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(867, u'(?i)(tits|tit)')"
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p39
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(4091, u'(?i)(adults|adult)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(2453, u'(?i)(topis|topi)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(2395, u'(?i)(mutants|mutant)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(3722, u'(?i)(pups|pup)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp41
+Rp42
 sb.

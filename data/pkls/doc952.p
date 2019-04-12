@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(195, u'\\\\bphenylbiguanide')"
+S"(191, u'\\\\bphenylbiguanide')"
 p30
 atp31
 Rp32
@@ -56,32 +56,8 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2568, u'(?i)(hens|hen)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(3726, u'(?i)(mates|mate)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(7094, u'(?i)(curs|cur)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(6878, u'(?i)(guans|guan)')"
-p46
-aS"(821, u'(?i)(lice|louse)')"
-p47
-atp48
-Rp49
+atp36
+Rp37
 sb.

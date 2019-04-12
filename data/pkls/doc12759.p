@@ -46,7 +46,7 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(287, u'(?i)(parahippocampals|parahippocampal)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(287, u'(?i)\\\\b(parahippocampals|parahippocampal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p28
 atp29
 Rp30
@@ -64,38 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(1070, u'(?i)(pets|pet)')"
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p39
-aS"(5537, u'(?i)(hippos|hippo)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(107, u'(?i)(stags|stag)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(2809, u'(?i)(toms|tom)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+atp40
+Rp41
 sb.

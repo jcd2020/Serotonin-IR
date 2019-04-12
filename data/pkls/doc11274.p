@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p24
 atp25
 Rp26
@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(195, u'\\\\bphenylbiguanide')"
+S"(191, u'\\\\bphenylbiguanide')"
 p31
 atp32
 Rp33
@@ -58,26 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(2568, u'(?i)(hens|hen)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(1054, u'(?i)(homoes|homo)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(6878, u'(?i)(guans|guan)')"
-p45
-atp46
-Rp47
+atp37
+Rp38
 sb.

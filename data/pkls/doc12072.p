@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(81, u'\\\\bagomelatine')"
+S"(72, u'\\\\bagomelatine')"
 p5
 atp6
 Rp7
@@ -56,14 +56,6 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2323, u'(?i)(bees|bee)')"
-p35
-aS"(5743, u'(?i)(bots|bot)')"
-p36
-aS"(3550, u'(?i)(anis|ani)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-atp39
-Rp40
+tp35
+Rp36
 sb.

@@ -42,46 +42,28 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p26
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp27
+Rp28
 sS'year'
-p31
+p29
 V1991
-p32
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(73, u'\\\\btandospirone')"
 p33
-g3
-((lp34
-S"(80, u'\\\\btandospirone')"
-p35
-atp36
-Rp37
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(5537, u'(?i)(hippos|hippo)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(1961, u'(?i)(pens|pen)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(4371, u'(?i)(lizas|liza)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-atp48
-Rp49
+((lp37
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

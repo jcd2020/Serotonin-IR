@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(27, u'\\\\bspiperone')"
+S"(26, u'\\\\bspiperone')"
 p5
 atp6
 Rp7
@@ -36,54 +36,44 @@ g3
 ((lp20
 S'5ht1a'
 p21
-aS'5ht5'
-p22
 aS'5ht2a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(104, u'(?i)(par|pars)(-|\\\\s+)?(compactas|compacta)')"
+((lp26
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p27
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p28
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
 p29
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
-p34
+p33
 V1988
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp36
+S"(20, u'\\\\bbuspirone')"
+p37
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p38
-aS"(24, u'\\\\bbuspirone')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(3522, u'(?i)(tetras|tetra)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-atp49
-Rp50
+((lp42
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p43
+atp44
+Rp45
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(139, u'\\\\bmetoclopramide')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
-aS"(141, u'\\\\bzacopride')"
+aS"(130, u'\\\\bzacopride')"
 p6
 atp7
 Rp8
@@ -36,74 +36,48 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht5'
+S'5ht4'
 p22
-aS'5ht4'
-p23
 aS'5ht3'
-p24
+p23
 aS'5ht2'
-p25
+p24
 aS'5ht1'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'year'
-p33
+p32
 V1989
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(196, u'\\\\bquipazine')"
+((lp35
+S"(198, u'\\\\bcisapride')"
+p36
+aS"(209, u'\\\\bmetoclopramide')"
 p37
-aS"(212, u'\\\\bzacopride')"
+aS"(208, u'\\\\bzacopride')"
 p38
-aS"(202, u'\\\\bcisapride')"
+aS"(192, u'\\\\bquipazine')"
 p39
-aS"(213, u'\\\\bmetoclopramide')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(1070, u'(?i)(pets|pet)')"
+((lp43
+S"(1266, u'(?i)\\\\b(embryos|embryo)\\\\b')"
+p44
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p45
-aS"(2323, u'(?i)(bees|bee)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(867, u'(?i)(tits|tit)')"
-p48
-aS"(163, u'(?i)(mice|mouse)')"
-p49
-aS"(1266, u'(?i)(embryos|embryo)')"
-p50
-aS"(4201, u'(?i)(kines|kine)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1349, u'(?i)(rams|ram)')"
-p53
-aS"(3404, u'(?i)(titis|titi)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-aS"(1414, u'(?i)(chars|char)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+atp46
+Rp47
 sb.

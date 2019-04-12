@@ -36,9 +36,9 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
 p23
-aS"(243, u'(?i)(anteriors|anterior)(-|\\\\s+)?(olfactories|olfactory)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(243, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(olfactories|olfactory)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
 atp25
 Rp26
@@ -56,42 +56,16 @@ sS'species'
 p33
 g3
 ((lp34
-S"(7609, u'(?i)(erns|ern)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p35
-aS"(6753, u'(?i)(da|das)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3503, u'(?i)\\\\b(fishers|fisher)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p38
-aS"(4657, u'(?i)(fish|fish)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(867, u'(?i)(tits|tit)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(4091, u'(?i)(adults|adult)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(3503, u'(?i)(fishers|fisher)')"
-p45
-aS"(2942, u'(?i)(daws|daw)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(4371, u'(?i)(lizas|liza)')"
-p48
-aS"(3722, u'(?i)(pups|pup)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(3152, u'(?i)(layers|layer)')"
-p51
-aS"(1683, u'(?i)(terns|tern)')"
-p52
-atp53
-Rp54
+atp40
+Rp41
 sb.

@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,20 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(6249, u'(?i)(ants|ant)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(163, u'(?i)(mice|mouse)')"
-p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(3550, u'(?i)(anis|ani)')"
-p41
-aS"(1553, u'(?i)(mews|mew)')"
-p42
-atp43
-Rp44
+atp38
+Rp39
 sb.

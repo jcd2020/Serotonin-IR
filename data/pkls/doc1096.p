@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(114, u'\\\\bimipramine')"
+S"(104, u'\\\\bimipramine')"
 p5
-aS"(141, u'\\\\bzacopride')"
+aS"(130, u'\\\\bzacopride')"
 p6
 atp7
 Rp8
@@ -40,52 +40,28 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1997
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(212, u'\\\\bzacopride')"
-p32
-atp33
-Rp34
+((lp30
+S"(208, u'\\\\bzacopride')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp35
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p36
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(3152, u'(?i)(layers|layer)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(4133, u'(?i)(pikes|pike)')"
-p49
-atp50
-Rp51
+atp38
+Rp39
 sb.

@@ -8,118 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(200, u'\\\\bmesulergine')"
+aS"(193, u'\\\\bmesulergine')"
 p7
-aS"(45, u'\\\\bgr ?127935')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht7'
-p22
+p21
 aS'5ht1b'
-p23
-aS'5ht5'
-p24
+p22
 aS'5ht1f'
-p25
+p23
 aS'5ht1'
-p26
+p24
 aS'5ht2a'
-p27
+p25
 aS'5ht7a'
-p28
+p26
 aS'5ht1d'
-p29
-atp30
-Rp31
+p27
+atp28
+Rp29
 sS'regions'
-p32
+p30
 g3
-((lp33
-tp34
-Rp35
+((lp31
+tp32
+Rp33
 sS'year'
-p36
+p34
 V1999
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(165, u'\\\\bmesulergine')"
 p38
-g3
-((lp39
-S"(103, u'\\\\bsumatriptan')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p39
+aS"(96, u'\\\\bsumatriptan')"
 p40
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
-p41
-aS"(171, u'\\\\bmesulergine')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(5917, u'(?i)(roaches|roach)')"
-p49
-aS"(4964, u'(?i)(serins|serin)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(1885, u'(?i)(apars|apar)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(3726, u'(?i)(mates|mate)')"
-p56
-aS"(853, u'(?i)(minas|mina)')"
-p57
-aS"(7094, u'(?i)(curs|cur)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-aS"(1057, u'(?i)(humans|human)')"
-p60
-aS"(5229, u'(?i)(moles|mole)')"
-p61
-aS"(1961, u'(?i)(pens|pen)')"
-p62
-aS"(1414, u'(?i)(chars|char)')"
-p63
-aS"(3196, u'(?i)(human|humans)')"
-p64
-aS"(2809, u'(?i)(toms|tom)')"
-p65
-aS"(3812, u'(?i)(studs|stud)')"
-p66
-atp67
-Rp68
+((lp44
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p45
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p46
+atp47
+Rp48
 sb.

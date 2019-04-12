@@ -8,96 +8,70 @@ c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bquetiapine')"
+S"(50, u'\\\\bquetiapine')"
 p5
-aS"(125, u'\\\\bquetiapine')"
+aS"(112, u'\\\\bquetiapine')"
 p6
-aS"(17, u'\\\\bnan ?190')"
+aS"(110, u'\\\\bclozapine')"
 p7
-aS"(123, u'\\\\bclozapine')"
+aS"(17, u'\\\\bnan ?190')"
 p8
-aS"(56, u'\\\\bclozapine')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
-tp14
-Rp15
+((lp12
+tp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(30, u'\\\\bparkinsons')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1a'
-p23
+p22
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(220, u'(?i)(striatums|striatum)')"
+((lp27
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p28
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p29
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p30
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
-p34
+p33
 V2012
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(71, u'\\\\bquetiapine')"
+((lp36
+S"(64, u'\\\\bquetiapine')"
+p37
+aS"(23, u'\\\\bclozapine')"
 p38
-aS"(27, u'\\\\bclozapine')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(7094, u'(?i)(curs|cur)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(391, u'(?i)(alli|allis)')"
-p53
-aS"(2809, u'(?i)(toms|tom)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+((lp42
+tp43
+Rp44
 sb.

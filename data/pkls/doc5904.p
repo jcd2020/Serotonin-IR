@@ -30,54 +30,40 @@ g3
 ((lp17
 S'5ht1b'
 p18
-aS'5ht5'
-p19
 aS'5ht1a'
-p20
+p19
 aS'5ht2'
-p21
+p20
 aS'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+((lp25
+tp26
+Rp27
 sS'year'
-p30
+p28
 V2004
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p32
-g3
-((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p34
-aS"(33, u'\\\\bdoi')"
-p35
-atp36
-Rp37
+aS"(175, u'\\\\bdoi')"
+p33
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-atp46
-Rp47
+((lp37
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

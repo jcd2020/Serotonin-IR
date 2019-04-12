@@ -38,68 +38,36 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(168, u'(?i)(tuberals|tuberal)')"
+S"(176, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(body|bodies)\\\\b')"
 p24
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p25
-aS"(176, u'(?i)(mammillaries|mammillary)(-|\\\\s+)?(body|bodies)')"
-p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp25
+Rp26
 sS'year'
-p30
+p27
 V1999
-p31
+p28
 sS'agonists'
-p32
+p29
 g3
-((lp33
-tp34
-Rp35
+((lp30
+tp31
+Rp32
 sS'species'
-p36
+p33
 g3
-((lp37
-S"(7539, u'(?i)(mammals|mammal)')"
+((lp34
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p35
+aS"(5674, u'(?i)\\\\b(ewes|ewe)\\\\b')"
+p36
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p37
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(4876, u'(?i)\\\\b(sheep|sheep)\\\\b')"
 p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(6391, u'(?i)(asses|ass)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(4876, u'(?i)(sheep|sheep)')"
-p44
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(1054, u'(?i)(homoes|homo)')"
-p48
-aS"(4964, u'(?i)(serins|serin)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(1057, u'(?i)(humans|human)')"
-p51
-aS"(4371, u'(?i)(lizas|liza)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(3196, u'(?i)(human|humans)')"
-p54
-aS"(1628, u'(?i)(cod|cod)')"
-p55
-aS"(5674, u'(?i)(ewes|ewe)')"
-p56
-atp57
-Rp58
+atp41
+Rp42
 sb.

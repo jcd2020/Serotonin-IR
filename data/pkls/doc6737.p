@@ -36,56 +36,30 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2001
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-S"(103, u'\\\\bsumatriptan')"
+((lp28
+S"(221, u'\\\\b5 ?mt')"
+p29
+aS"(96, u'\\\\bsumatriptan')"
 p30
-aS"(6, u'\\\\b5 ?mt')"
+aS"(97, u'\\\\bzolmitriptan')"
 p31
-aS"(104, u'\\\\bzolmitriptan')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(6753, u'(?i)(da|das)')"
-p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(3767, u'(?i)(olms|olm)')"
-p39
-aS"(4091, u'(?i)(adults|adult)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(2809, u'(?i)(toms|tom)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+((lp35
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p36
+atp37
+Rp38
 sb.

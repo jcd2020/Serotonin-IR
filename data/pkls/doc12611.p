@@ -22,78 +22,50 @@ sS'topics'
 p12
 g3
 ((lp13
-tp14
-Rp15
+S"(36, u'\\\\bcompulsiv')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
+((lp18
 S'5ht2a'
-p18
-atp19
-Rp20
+p19
+atp20
+Rp21
 sS'regions'
-p21
+p22
 g3
-((lp22
-S"(220, u'(?i)(striatums|striatum)')"
-p23
-aS"(157, u'(?i)(limbics|limbic)(-|\\\\s+)?(systems|system)')"
+((lp23
+S"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p24
-aS"(256, u'(?i)(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p25
-atp26
-Rp27
+aS"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
+p26
+atp27
+Rp28
 sS'year'
-p28
-V2014
 p29
-sS'agonists'
+V2014
 p30
+sS'agonists'
+p31
 g3
-((lp31
-tp32
-Rp33
+((lp32
+tp33
+Rp34
 sS'species'
-p34
+p35
 g3
-((lp35
-S"(1070, u'(?i)(pets|pet)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
+((lp36
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p37
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p38
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p39
-aS"(5917, u'(?i)(roaches|roach)')"
-p40
-aS"(7610, u'(?i)(ernes|erne)')"
-p41
-aS"(5743, u'(?i)(bots|bot)')"
-p42
-aS"(4091, u'(?i)(adults|adult)')"
-p43
-aS"(5967, u'(?i)(males|male)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(7609, u'(?i)(erns|ern)')"
-p48
-aS"(3191, u'(?i)(worlds|world)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(2809, u'(?i)(toms|tom)')"
-p52
-aS"(1683, u'(?i)(terns|tern)')"
-p53
-atp54
-Rp55
+atp40
+Rp41
 sb.

@@ -8,150 +8,108 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.PET'
-p11
+p10
 aS'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(15, u'\\\\bschizophreni')"
-p18
+p17
 aS"(3, u'\\\\bsleep')"
-p19
+p18
 aS"(9, u'\\\\bdepress')"
-p20
+p19
 aS"(7, u'\\\\bmemory')"
-p21
+p20
 aS"(21, u'\\\\bpain')"
-p22
+p21
 aS"(26, u'\\\\bcardiovascular')"
-p23
+p22
 aS"(10, u'\\\\banxiety')"
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'receptors'
-p27
+p26
 g3
-((lp28
+((lp27
 S'5ht7'
-p29
+p28
 aS'5ht6'
-p30
+p29
 aS'5ht5'
-p31
+p30
 aS'5ht2b'
-p32
+p31
 aS'5ht2'
-p33
+p32
 aS'5ht1'
-p34
+p33
 aS'5ht2a'
-p35
+p34
 aS'5ht6a'
-p36
+p35
 aS'5ht1a'
-p37
+p36
 aS'5ht2c'
-p38
-atp39
-Rp40
+p37
+atp38
+Rp39
 sS'regions'
-p41
+p40
 g3
-((lp42
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+((lp41
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p42
+aS"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p43
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p44
-aS"(50, u'(?i)(pedunculopontines|pedunculopontine)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(50, u'(?i)\\\\b(pedunculopontines|pedunculopontine)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p45
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(1, u'(?i)\\\\b(myelencephalons|myelencephalon)\\\\b')"
 p46
-aS"(1, u'(?i)(myelencephalons|myelencephalon)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p47
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(231, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(forebrains|forebrain)\\\\b')"
 p48
-aS"(231, u'(?i)(basals|basal)(-|\\\\s+)?(forebrains|forebrain)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p49
-aS"(34, u'(?i)(pon|pons)')"
-p50
-aS"(35, u'(?i)(pontines|pontine)(-|\\\\s+)?(nuclei|nucleus)')"
-p51
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p52
-atp53
-Rp54
+atp50
+Rp51
 sS'year'
-p55
+p52
 V2004
-p56
+p53
 sS'agonists'
-p57
+p54
 g3
-((lp58
-S"(155, u'\\\\bmem')"
-p59
-atp60
-Rp61
+((lp55
+S"(149, u'\\\\bmem')"
+p56
+atp57
+Rp58
 sS'species'
-p62
+p59
 g3
-((lp63
-S"(1070, u'(?i)(pets|pet)')"
-p64
-aS"(2323, u'(?i)(bees|bee)')"
-p65
-aS"(4404, u'(?i)(duns|dun)')"
-p66
-aS"(2568, u'(?i)(hens|hen)')"
-p67
-aS"(931, u'(?i)(divers|diver)')"
-p68
-aS"(4979, u'(?i)(cats|cat)')"
-p69
-aS"(6753, u'(?i)(da|das)')"
-p70
-aS"(6682, u'(?i)(tera|teras)')"
-p71
-aS"(468, u'(?i)(oxen|ox)')"
-p72
-aS"(1055, u'(?i)(men|man)')"
-p73
-aS"(4964, u'(?i)(serins|serin)')"
-p74
-aS"(6249, u'(?i)(ants|ant)')"
-p75
-aS"(5229, u'(?i)(moles|mole)')"
-p76
-aS"(3812, u'(?i)(studs|stud)')"
-p77
-aS"(6391, u'(?i)(asses|ass)')"
-p78
-aS"(391, u'(?i)(alli|allis)')"
-p79
-aS"(2809, u'(?i)(toms|tom)')"
-p80
-aS"(5537, u'(?i)(hippos|hippo)')"
-p81
-aS"(6356, u'(?i)(ais|ai)')"
-p82
-atp83
-Rp84
+((lp60
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+p61
+atp62
+Rp63
 sb.

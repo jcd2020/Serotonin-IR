@@ -58,30 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(2568, u'(?i)(hens|hen)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(6682, u'(?i)(tera|teras)')"
-p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(1349, u'(?i)(rams|ram)')"
-p39
-aS"(3726, u'(?i)(mates|mate)')"
-p40
-aS"(2334, u'(?i)(eels|eel)')"
-p41
-aS"(6857, u'(?i)(ormers|ormer)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(5131, u'(?i)(hags|hag)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-atp48
-Rp49
+atp37
+Rp38
 sb.

@@ -40,48 +40,26 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(390, u'(?i)(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)')"
+S"(390, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V1993
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(2568, u'(?i)(hens|hen)')"
-p37
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(1961, u'(?i)(pens|pen)')"
-p44
-aS"(3601, u'(?i)(efts|eft)')"
-p45
-aS"(6878, u'(?i)(guans|guan)')"
-p46
-aS"(5949, u'(?i)(dogs|dog)')"
-p47
-atp48
-Rp49
+((lp35
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

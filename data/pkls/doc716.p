@@ -8,106 +8,70 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(17, u'\\\\bnan ?190')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(17, u'\\\\bnan ?190')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.IMMUNOHISTOCHEMISTRY'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(9, u'\\\\bdepress')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1a'
-p23
+p22
 aS'5ht2c'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
-p30
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p31
-atp32
-Rp33
+((lp28
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p34
+p32
 V2007
-p35
+p33
 sS'agonists'
-p36
+p34
 g3
-((lp37
-tp38
-Rp39
+((lp35
+tp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(6249, u'(?i)(ants|ant)')"
+((lp39
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p40
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p42
-aS"(2670, u'(?i)(arabs|arab)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(6125, u'(?i)(females|female)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(4091, u'(?i)(adults|adult)')"
-p49
-aS"(5967, u'(?i)(males|male)')"
-p50
-aS"(4163, u'(?i)(ermines|ermine)')"
-p51
-aS"(3592, u'(?i)(ravens|raven)')"
-p52
-aS"(4462, u'(?i)(monals|monal)')"
-p53
-aS"(4518, u'(?i)(makoes|mako)')"
-p54
-aS"(4964, u'(?i)(serins|serin)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(4371, u'(?i)(lizas|liza)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(2809, u'(?i)(toms|tom)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-atp61
-Rp62
+atp43
+Rp44
 sb.

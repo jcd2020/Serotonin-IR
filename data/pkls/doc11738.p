@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,9 +52,9 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(24, u'\\\\bbuspirone')"
+S"(20, u'\\\\bbuspirone')"
 p32
-aS"(14, u'\\\\bamphetamine')"
+aS"(11, u'\\\\bamphetamine')"
 p33
 atp34
 Rp35
@@ -62,30 +62,10 @@ sS'species'
 p36
 g3
 ((lp37
-S"(6753, u'(?i)(da|das)')"
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(4201, u'(?i)(kines|kine)')"
-p40
-aS"(6682, u'(?i)(tera|teras)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(7552, u'(?i)(bats|bat)')"
-p49
-atp50
-Rp51
+atp40
+Rp41
 sb.

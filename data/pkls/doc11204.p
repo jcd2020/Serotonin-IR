@@ -24,19 +24,19 @@ sS'topics'
 p13
 g3
 ((lp14
-S"(35, u'\\\\bstress')"
+S"(37, u'\\\\baddict')"
 p15
-aS"(4, u'\\\\blocomot')"
+aS"(35, u'\\\\bstress')"
 p16
-atp17
-Rp18
+aS"(4, u'\\\\blocomot')"
+p17
+atp18
+Rp19
 sS'receptors'
-p19
+p20
 g3
-((lp20
-S'5ht5'
-p21
-aS'5ht2a'
+((lp21
+S'5ht2a'
 p22
 atp23
 Rp24
@@ -44,52 +44,32 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2006
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(14, u'\\\\bamphetamine')"
-p34
-atp35
-Rp36
+((lp32
+S"(11, u'\\\\bamphetamine')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(5799, u'(?i)(rodents|rodent)')"
+((lp37
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p38
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p41
-aS"(479, u'(?i)(lings|ling)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(1057, u'(?i)(humans|human)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-atp52
-Rp53
+atp42
+Rp43
 sb.

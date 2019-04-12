@@ -36,9 +36,9 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p23
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p24
 atp25
 Rp26
@@ -56,40 +56,12 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2054, u'(?i)(heads|head)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p35
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1349, u'(?i)(rams|ram)')"
-p43
-aS"(3726, u'(?i)(mates|mate)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(853, u'(?i)(minas|mina)')"
-p46
-aS"(4371, u'(?i)(lizas|liza)')"
-p47
-aS"(1414, u'(?i)(chars|char)')"
-p48
-aS"(3152, u'(?i)(layers|layer)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-atp52
-Rp53
+atp38
+Rp39
 sb.

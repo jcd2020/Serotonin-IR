@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
 atp6
 Rp7
@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(223, u'(?i)(putamens|putamen)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p24
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,28 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(7058, u'(?i)(does|doe)')"
-p43
-aS"(1414, u'(?i)(chars|char)')"
-p44
-aS"(6325, u'(?i)(caudates|caudate)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-atp47
-Rp48
+atp39
+Rp40
 sb.

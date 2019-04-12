@@ -8,17 +8,17 @@ c__builtin__
 set
 p3
 ((lp4
-S"(141, u'\\\\bzacopride')"
+S"(130, u'\\\\bzacopride')"
 p5
-aS"(135, u'\\\\bondansetron')"
+aS"(125, u'\\\\btropisetron')"
 p6
-aS"(136, u'\\\\btropisetron')"
-p7
 aS"(22, u'\\\\bpropranolol')"
+p7
+aS"(104, u'\\\\bimipramine')"
 p8
-aS"(134, u'\\\\bgranisetron')"
+aS"(124, u'\\\\bondansetron')"
 p9
-aS"(114, u'\\\\bimipramine')"
+aS"(123, u'\\\\bgranisetron')"
 p10
 atp11
 Rp12
@@ -52,52 +52,32 @@ sS'regions'
 p29
 g3
 ((lp30
-S"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+tp31
+Rp32
 sS'year'
-p34
+p33
 V1996
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(212, u'\\\\bzacopride')"
+((lp36
+S"(198, u'\\\\bcisapride')"
+p37
+aS"(208, u'\\\\bzacopride')"
 p38
-aS"(202, u'\\\\bcisapride')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(6753, u'(?i)(da|das)')"
+((lp42
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p43
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(3051, u'(?i)(pigs|pig)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(3062, u'(?i)(guineas|guinea)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-atp56
-Rp57
+atp46
+Rp47
 sb.

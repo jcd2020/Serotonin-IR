@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(139, u'\\\\bmetoclopramide')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
-aS"(141, u'\\\\bzacopride')"
+aS"(130, u'\\\\bzacopride')"
 p6
 atp7
 Rp8
@@ -44,68 +44,50 @@ aS'5ht2'
 p24
 aS'5ht1'
 p25
-aS'5ht5'
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'year'
-p33
+p32
 V1990
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(74, u'\\\\bru ?24969')"
+((lp35
+S"(198, u'\\\\bcisapride')"
+p36
+aS"(209, u'\\\\bmetoclopramide')"
 p37
-aS"(213, u'\\\\bmetoclopramide')"
+aS"(208, u'\\\\bzacopride')"
 p38
-aS"(202, u'\\\\bcisapride')"
+aS"(149, u'\\\\bmem')"
 p39
-aS"(155, u'\\\\bmem')"
+aS"(67, u'\\\\bru ?24969')"
 p40
-aS"(212, u'\\\\bzacopride')"
-p41
-atp42
-Rp43
+atp41
+Rp42
 sS'species'
-p44
+p43
 g3
-((lp45
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp44
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p45
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p46
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p47
-aS"(867, u'(?i)(tits|tit)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p48
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p49
-aS"(4091, u'(?i)(adults|adult)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p50
-aS"(3051, u'(?i)(pigs|pig)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1349, u'(?i)(rams|ram)')"
-p53
-aS"(3062, u'(?i)(guineas|guinea)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(1414, u'(?i)(chars|char)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p58
-aS"(7058, u'(?i)(does|doe)')"
-p59
-atp60
-Rp61
+atp51
+Rp52
 sb.

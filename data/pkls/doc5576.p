@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(99, u'\\\\bsb ?242084')"
 p5
 aS"(21, u'\\\\bpindolol')"
 p6
-aS"(110, u'\\\\bsb ?242084')"
+aS"(31, u'\\\\bway ?100635')"
 p7
 atp8
 Rp9
@@ -38,78 +38,44 @@ g3
 ((lp21
 S'5ht1a'
 p22
-aS'5ht5'
-p23
 aS'5ht2c'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+((lp27
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p28
+aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p29
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p30
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p31
-aS"(220, u'(?i)(striatums|striatum)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2011
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(184, u'\\\\bvabicaserin')"
-p39
-atp40
-Rp41
+((lp37
+S"(180, u'\\\\bvabicaserin')"
+p38
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
+((lp42
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p43
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(4624, u'(?i)(apes|ape)')"
-p45
-aS"(5176, u'(?i)(tegs|teg)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(7609, u'(?i)(erns|ern)')"
-p49
-aS"(7610, u'(?i)(ernes|erne)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(6753, u'(?i)(da|das)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(1349, u'(?i)(rams|ram)')"
-p54
-aS"(2334, u'(?i)(eels|eel)')"
-p55
-aS"(4964, u'(?i)(serins|serin)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(6391, u'(?i)(asses|ass)')"
-p59
-aS"(5743, u'(?i)(bots|bot)')"
-p60
-aS"(1683, u'(?i)(terns|tern)')"
-p61
-atp62
-Rp63
+atp45
+Rp46
 sb.

@@ -10,9 +10,9 @@ p3
 ((lp4
 S"(14, u'\\\\bmethiothepin')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(144, u'\\\\bgr ?113808')"
 p6
-aS"(153, u'\\\\bgr ?113808')"
+aS"(194, u'\\\\bmethysergide')"
 p7
 atp8
 Rp9
@@ -50,42 +50,30 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+tp30
+Rp31
 sS'year'
-p33
+p32
 V2007
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(202, u'\\\\bcisapride')"
+((lp35
+S"(198, u'\\\\bcisapride')"
+p36
+aS"(53, u'\\\\bmethysergide')"
 p37
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p38
-aS"(60, u'\\\\bmethysergide')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-atp50
-Rp51
+((lp42
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

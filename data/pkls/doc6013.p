@@ -52,46 +52,16 @@ sS'species'
 p31
 g3
 ((lp32
-S"(6753, u'(?i)(da|das)')"
+S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p33
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
 p34
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p35
-aS"(702, u'(?i)(genets|genet)')"
+aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
 p36
-aS"(2401, u'(?i)(primates|primate)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p37
-aS"(6391, u'(?i)(asses|ass)')"
-p38
-aS"(479, u'(?i)(lings|ling)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(1057, u'(?i)(humans|human)')"
-p46
-aS"(5229, u'(?i)(moles|mole)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(1414, u'(?i)(chars|char)')"
-p49
-aS"(3196, u'(?i)(human|humans)')"
-p50
-aS"(6521, u'(?i)(macaques|macaque)')"
-p51
-aS"(4596, u'(?i)(rhesuses|rhesus)')"
-p52
-atp53
-Rp54
+atp38
+Rp39
 sb.

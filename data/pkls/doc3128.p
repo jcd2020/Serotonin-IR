@@ -26,62 +26,44 @@ sS'receptors'
 p15
 g3
 ((lp16
-S'5ht5'
+S'5ht2a'
 p17
-aS'5ht2a'
-p18
-atp19
-Rp20
+atp18
+Rp19
 sS'regions'
-p21
+p20
 g3
-((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+((lp21
+tp22
+Rp23
 sS'year'
-p26
+p24
 V2017
-p27
+p25
 sS'agonists'
+p26
+g3
+((lp27
+S"(158, u'\\\\blsd')"
 p28
-g3
-((lp29
-S"(56, u'\\\\blsd')"
-p30
-aS"(55, u'\\\\blysergic acid diethylamide')"
-p31
-atp32
-Rp33
+aS"(49, u'\\\\blysergic acid diethylamide')"
+p29
+atp30
+Rp31
 sS'species'
-p34
+p32
 g3
-((lp35
-S"(2323, u'(?i)(bees|bee)')"
+((lp33
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p34
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p35
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(6356, u'(?i)(ais|ai)')"
-p39
-aS"(163, u'(?i)(mice|mouse)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(1057, u'(?i)(humans|human)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(3196, u'(?i)(human|humans)')"
-p45
-aS"(7058, u'(?i)(does|doe)')"
-p46
-aS"(5674, u'(?i)(ewes|ewe)')"
-p47
-atp48
-Rp49
+atp39
+Rp40
 sb.

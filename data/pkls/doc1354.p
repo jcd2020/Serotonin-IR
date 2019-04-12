@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(137, u'\\\\balosetron')"
+S"(126, u'\\\\balosetron')"
 p5
-aS"(86, u'\\\\btegaserod')"
+aS"(77, u'\\\\btegaserod')"
 p6
 atp7
 Rp8
@@ -60,9 +60,9 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(211, u'\\\\btegaserod')"
+S"(10, u'\\\\baet')"
 p36
-aS"(13, u'\\\\baet')"
+aS"(207, u'\\\\btegaserod')"
 p37
 atp38
 Rp39
@@ -70,54 +70,14 @@ sS'species'
 p40
 g3
 ((lp41
-S"(7094, u'(?i)(curs|cur)')"
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
 p42
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p43
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p44
-aS"(3196, u'(?i)(human|humans)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(931, u'(?i)(divers|diver)')"
-p48
-aS"(5967, u'(?i)(males|male)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1349, u'(?i)(rams|ram)')"
-p51
-aS"(2809, u'(?i)(toms|tom)')"
-p52
-aS"(853, u'(?i)(minas|mina)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(7609, u'(?i)(erns|ern)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(5176, u'(?i)(tegs|teg)')"
-p57
-aS"(1057, u'(?i)(humans|human)')"
-p58
-aS"(1414, u'(?i)(chars|char)')"
-p59
-aS"(6125, u'(?i)(females|female)')"
-p60
-aS"(4979, u'(?i)(cats|cat)')"
-p61
-aS"(2323, u'(?i)(bees|bee)')"
-p62
-aS"(2568, u'(?i)(hens|hen)')"
-p63
-aS"(6753, u'(?i)(da|das)')"
-p64
-aS"(3726, u'(?i)(mates|mate)')"
-p65
-atp66
-Rp67
+atp46
+Rp47
 sb.

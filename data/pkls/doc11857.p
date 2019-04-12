@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(89, u'\\\\bsdz ser ?082')"
+S"(100, u'\\\\bsdz ser ?082')"
 p5
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(52, u'\\\\bmdl ?100907')"
 p6
 atp7
 Rp8
@@ -28,17 +28,17 @@ sS'topics'
 p15
 g3
 ((lp16
-S"(15, u'\\\\bschizophreni')"
+S"(36, u'\\\\bcompulsiv')"
 p17
-atp18
-Rp19
+aS"(15, u'\\\\bschizophreni')"
+p18
+atp19
+Rp20
 sS'receptors'
-p20
+p21
 g3
-((lp21
-S'5ht5'
-p22
-aS'5ht2c'
+((lp22
+S'5ht2c'
 p23
 aS'5ht2a'
 p24
@@ -48,44 +48,30 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+tp29
+Rp30
 sS'year'
-p32
+p31
 V1995
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(74, u'\\\\bru ?24969')"
+((lp34
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p35
+aS"(67, u'\\\\bru ?24969')"
 p36
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(175, u'\\\\bdoi')"
 p37
-aS"(33, u'\\\\bdoi')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(2323, u'(?i)(bees|bee)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(867, u'(?i)(tits|tit)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-atp50
-Rp51
+((lp41
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

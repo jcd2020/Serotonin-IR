@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(17, u'\\\\bnan ?190')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(17, u'\\\\bnan ?190')"
 p6
 atp7
 Rp8
@@ -34,60 +34,40 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht1a'
 p21
-aS'5ht1a'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-tp27
-Rp28
+((lp25
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2003
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(809, u'(?i)(chinooks|chinook)(-|\\\\s+)?(salmon|salmon)')"
+((lp35
+S"(3883, u'(?i)\\\\b(teleosts|teleost)\\\\b')"
+p36
+aS"(808, u'(?i)\\\\b(chinooks|chinook)\\\\b')"
 p37
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(809, u'(?i)\\\\b(chinooks|chinook)(-|\\\\s+)?(salmon|salmon)\\\\b')"
 p38
-aS"(812, u'(?i)(oncorhynchuses|oncorhynchus)(-|\\\\s+)?(tshawytschas|tshawytscha)')"
+aS"(812, u'(?i)\\\\b(oncorhynchuses|oncorhynchus)(-|\\\\s+)?(tshawytschas|tshawytscha)\\\\b')"
 p39
-aS"(808, u'(?i)(chinooks|chinook)')"
+aS"(6399, u'(?i)\\\\b(salmon|salmon)\\\\b')"
 p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(6215, u'(?i)(racers|racer)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6399, u'(?i)(salmon|salmon)')"
-p49
-aS"(3883, u'(?i)(teleosts|teleost)')"
-p50
-atp51
-Rp52
+atp41
+Rp42
 sb.

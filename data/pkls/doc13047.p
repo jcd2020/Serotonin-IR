@@ -30,62 +30,42 @@ g3
 ((lp17
 S'5ht4a'
 p18
-aS'5ht5'
-p19
 aS'5ht4'
-p20
+p19
 aS'5ht3a'
-p21
+p20
 aS'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+((lp25
+tp26
+Rp27
 sS'year'
-p30
+p28
 V1997
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(219, u'\\\\b5 ?ct')"
 p32
-g3
-((lp33
-S"(5, u'\\\\b5 ?ct')"
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+p33
+aS"(175, u'\\\\bdoi')"
 p34
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
-p35
-aS"(33, u'\\\\bdoi')"
-p36
-atp37
-Rp38
+atp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(5176, u'(?i)(tegs|teg)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(7129, u'(?i)(varans|varan)')"
-p49
-atp50
-Rp51
+((lp38
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

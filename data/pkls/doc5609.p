@@ -36,9 +36,9 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(220, u'(?i)(striatums|striatum)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p23
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p24
 atp25
 Rp26
@@ -56,32 +56,14 @@ sS'species'
 p33
 g3
 ((lp34
-S"(5958, u'(?i)(rats|rat)')"
+S"(5864, u'(?i)\\\\b(fetuses|fetus)\\\\b')"
 p35
-aS"(4091, u'(?i)(adults|adult)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p36
-aS"(1055, u'(?i)(men|man)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p37
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(5743, u'(?i)(bots|bot)')"
-p39
-aS"(7094, u'(?i)(curs|cur)')"
-p40
-aS"(5864, u'(?i)(fetuses|fetus)')"
-p41
-aS"(1057, u'(?i)(humans|human)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(3196, u'(?i)(human|humans)')"
-p44
-aS"(391, u'(?i)(alli|allis)')"
-p45
-aS"(6642, u'(?i)(lions|lion)')"
-p46
-aS"(7309, u'(?i)(gnats|gnat)')"
-p47
-atp48
-Rp49
+atp39
+Rp40
 sb.

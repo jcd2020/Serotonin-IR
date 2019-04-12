@@ -8,102 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(76, u'\\\\blisuride')"
 p5
-aS"(130, u'\\\\britanserin')"
+aS"(119, u'\\\\britanserin')"
 p6
-aS"(85, u'\\\\blisuride')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(8, u'\\\\blearning')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1a'
-p23
+p22
 aS'5ht2c'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp28
+tp29
+Rp30
 sS'year'
-p33
+p31
 V1998
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(137, u'\\\\blisuride')"
 p35
-g3
-((lp36
-S"(56, u'\\\\blsd')"
+aS"(149, u'\\\\bmem')"
+p36
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p37
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(158, u'\\\\blsd')"
 p38
-aS"(155, u'\\\\bmem')"
-p39
-aS"(52, u'\\\\blisuride')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(2323, u'(?i)(bees|bee)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(867, u'(?i)(tits|tit)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(4964, u'(?i)(serins|serin)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(3522, u'(?i)(tetras|tetra)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(860, u'(?i)(welshes|welsh)')"
-p58
-atp59
-Rp60
+((lp42
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+p43
+aS"(860, u'(?i)\\\\b(welshes|welsh)\\\\b')"
+p44
+atp45
+Rp46
 sb.

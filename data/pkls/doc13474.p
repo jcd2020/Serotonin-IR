@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(204, u'\\\\bsb ?269970')"
+S"(198, u'\\\\bsb ?269970')"
 p5
 atp6
 Rp7
@@ -40,60 +40,38 @@ S'5ht7'
 p22
 aS'5ht7a'
 p23
-aS'5ht5'
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p29
-atp30
-Rp31
+((lp27
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2013
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(226, u'\\\\bas ?19')"
-p36
-atp37
-Rp38
+((lp34
+S"(224, u'\\\\bas ?19')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(4624, u'(?i)(apes|ape)')"
+((lp39
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p40
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(702, u'(?i)(genets|genet)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(2334, u'(?i)(eels|eel)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(5917, u'(?i)(roaches|roach)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-atp54
-Rp55
+atp43
+Rp44
 sb.

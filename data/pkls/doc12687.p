@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(396, u'(?i)(subventriculars|subventricular)(-|\\\\s+)?(zones|zone)')"
+S"(390, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)\\\\b')"
 p24
-aS"(390, u'(?i)(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)')"
+aS"(396, u'(?i)\\\\b(subventriculars|subventricular)(-|\\\\s+)?(zones|zone)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,30 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5958, u'(?i)(rats|rat)')"
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p36
-aS"(4979, u'(?i)(cats|cat)')"
-p37
-aS"(4091, u'(?i)(adults|adult)')"
-p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(3592, u'(?i)(ravens|raven)')"
-p40
-aS"(3726, u'(?i)(mates|mate)')"
-p41
-aS"(6215, u'(?i)(racers|racer)')"
-p42
-aS"(853, u'(?i)(minas|mina)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(7094, u'(?i)(curs|cur)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-atp48
-Rp49
+atp37
+Rp38
 sb.

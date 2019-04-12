@@ -54,48 +54,12 @@ sS'species'
 p32
 g3
 ((lp33
-S"(1070, u'(?i)(pets|pet)')"
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
 p34
-aS"(3404, u'(?i)(titis|titi)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p35
-aS"(6753, u'(?i)(da|das)')"
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(931, u'(?i)(divers|diver)')"
-p38
-aS"(702, u'(?i)(genets|genet)')"
-p39
-aS"(867, u'(?i)(tits|tit)')"
-p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(3726, u'(?i)(mates|mate)')"
-p45
-aS"(3152, u'(?i)(layers|layer)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(2395, u'(?i)(mutants|mutant)')"
-p48
-aS"(5917, u'(?i)(roaches|roach)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(5863, u'(?i)(entires|entire)')"
-p53
-aS"(7552, u'(?i)(bats|bat)')"
-p54
-atp55
-Rp56
+atp37
+Rp38
 sb.

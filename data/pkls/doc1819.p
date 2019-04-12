@@ -52,9 +52,9 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(196, u'\\\\bquipazine')"
+S"(149, u'\\\\bmem')"
 p32
-aS"(155, u'\\\\bmem')"
+aS"(192, u'\\\\bquipazine')"
 p33
 atp34
 Rp35
@@ -62,40 +62,8 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2568, u'(?i)(hens|hen)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(867, u'(?i)(tits|tit)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(1928, u'(?i)(bears|bear)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(7488, u'(?i)(molas|mola)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(5229, u'(?i)(moles|mole)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(6878, u'(?i)(guans|guan)')"
-p54
-atp55
-Rp56
+atp39
+Rp40
 sb.

@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(224, u'(?i)(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
 atp25
 Rp26
@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(14, u'\\\\bamphetamine')"
+S"(11, u'\\\\bamphetamine')"
 p31
 atp32
 Rp33
@@ -58,46 +58,20 @@ sS'species'
 p34
 g3
 ((lp35
-S"(6753, u'(?i)(da|das)')"
+S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p37
-aS"(2401, u'(?i)(primates|primate)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p38
-aS"(6325, u'(?i)(caudates|caudate)')"
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p39
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p40
-aS"(1055, u'(?i)(men|man)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p41
-aS"(3726, u'(?i)(mates|mate)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p42
-aS"(4597, u'(?i)(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)')"
-p43
-aS"(1054, u'(?i)(homoes|homo)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(1057, u'(?i)(humans|human)')"
-p47
-aS"(5917, u'(?i)(roaches|roach)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(4596, u'(?i)(rhesuses|rhesus)')"
-p54
-aS"(7127, u'(?i)(monitors|monitor)')"
-p55
-atp56
-Rp57
+atp43
+Rp44
 sb.

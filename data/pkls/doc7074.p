@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(141, u'\\\\bzacopride')"
+S"(130, u'\\\\bzacopride')"
 p5
 atp6
 Rp7
@@ -38,46 +38,24 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V1993
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(212, u'\\\\bzacopride')"
-p31
-atp32
-Rp33
+((lp29
+S"(208, u'\\\\bzacopride')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(867, u'(?i)(tits|tit)')"
-p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1349, u'(?i)(rams|ram)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(1553, u'(?i)(mews|mew)')"
-p43
-aS"(5229, u'(?i)(moles|mole)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-atp46
-Rp47
+((lp34
+tp35
+Rp36
 sb.

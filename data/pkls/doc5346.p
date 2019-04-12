@@ -38,64 +38,36 @@ sS'receptors'
 p21
 g3
 ((lp22
-S'5ht5'
+S'5ht2c'
 p23
-aS'5ht2c'
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(220, u'(?i)(striatums|striatum)')"
-p29
-atp30
-Rp31
+((lp27
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2011
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(155, u'\\\\bmem')"
-p36
-atp37
-Rp38
+((lp34
+S"(149, u'\\\\bmem')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(5537, u'(?i)(hippos|hippo)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(7609, u'(?i)(erns|ern)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(1683, u'(?i)(terns|tern)')"
-p53
-aS"(7552, u'(?i)(bats|bat)')"
-p54
-atp55
-Rp56
+((lp39
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+atp41
+Rp42
 sb.

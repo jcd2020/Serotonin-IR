@@ -8,104 +8,80 @@ c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\britanserin')"
+S"(59, u'\\\\bchlorpromazine')"
 p5
-aS"(188, u'\\\\bsertindole')"
+aS"(119, u'\\\\britanserin')"
 p6
-aS"(67, u'\\\\bhaloperidol')"
+aS"(201, u'\\\\bsertindole')"
 p7
-aS"(54, u'\\\\britanserin')"
+aS"(180, u'\\\\bsertindole')"
 p8
-aS"(207, u'\\\\bsertindole')"
+aS"(58, u'\\\\bhaloperidol')"
 p9
-aS"(68, u'\\\\bchlorpromazine')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.ANTAGONIST'
-p15
+p14
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
+((lp19
 S"(9, u'\\\\bdepress')"
-p21
+p20
 aS"(4, u'\\\\blocomot')"
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'receptors'
-p25
+p24
 g3
-((lp26
+((lp25
 S'5ht1a'
-p27
+p26
 aS'5ht2'
-p28
-atp29
-Rp30
+p27
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-S"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+((lp31
+tp32
+Rp33
 sS'year'
-p36
+p34
 V1994
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(20, u'\\\\bbuspirone')"
 p38
-g3
-((lp39
-S"(48, u'\\\\bhaloperidol')"
+aS"(11, u'\\\\bamphetamine')"
+p39
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p40
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(43, u'\\\\bhaloperidol')"
 p41
-aS"(24, u'\\\\bbuspirone')"
-p42
-aS"(14, u'\\\\bamphetamine')"
-p43
-atp44
-Rp45
+atp42
+Rp43
 sS'species'
-p46
+p44
 g3
-((lp47
-S"(6753, u'(?i)(da|das)')"
-p48
-aS"(2568, u'(?i)(hens|hen)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(3726, u'(?i)(mates|mate)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(2809, u'(?i)(toms|tom)')"
-p57
-aS"(5743, u'(?i)(bots|bot)')"
-p58
-aS"(118, u'(?i)(jacks|jack)')"
-p59
-atp60
-Rp61
+((lp45
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p46
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

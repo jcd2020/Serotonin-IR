@@ -58,24 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(4624, u'(?i)(apes|ape)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(163, u'(?i)(mice|mouse)')"
-p38
-aS"(5967, u'(?i)(males|male)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(3522, u'(?i)(tetras|tetra)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(5949, u'(?i)(dogs|dog)')"
-p44
-atp45
-Rp46
+atp38
+Rp39
 sb.

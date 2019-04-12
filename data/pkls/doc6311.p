@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(27, u'\\\\bspiperone')"
+S"(26, u'\\\\bspiperone')"
 p5
 aS"(21, u'\\\\bpindolol')"
 p6
@@ -54,13 +54,13 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(20, u'\\\\bbuspirone')"
 p33
-aS"(44, u'\\\\bflesinoxan')"
+aS"(45, u'\\\\bipsapirone')"
 p34
-aS"(24, u'\\\\bbuspirone')"
+aS"(39, u'\\\\bflesinoxan')"
 p35
-aS"(50, u'\\\\bipsapirone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p36
 atp37
 Rp38
@@ -68,28 +68,8 @@ sS'species'
 p39
 g3
 ((lp40
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+atp42
+Rp43
 sb.

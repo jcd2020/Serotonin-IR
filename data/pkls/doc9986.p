@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(45, u'\\\\bgr ?127935')"
+aS"(14, u'\\\\bmethiothepin')"
 p6
 atp7
 Rp8
@@ -34,7 +34,7 @@ g3
 ((lp19
 S'5ht1b'
 p20
-aS'5ht5'
+aS'5ht1a'
 p21
 aS'5ht2'
 p22
@@ -44,56 +44,38 @@ aS'5ht2a'
 p24
 aS'5ht1d'
 p25
-aS'5ht1a'
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'year'
-p33
+p32
 V1996
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(103, u'\\\\bsumatriptan')"
+((lp35
+S"(96, u'\\\\bsumatriptan')"
+p36
+aS"(175, u'\\\\bdoi')"
 p37
-aS"(33, u'\\\\bdoi')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(2568, u'(?i)(hens|hen)')"
+((lp41
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(867, u'(?i)(tits|tit)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(1057, u'(?i)(humans|human)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(3196, u'(?i)(human|humans)')"
-p52
-aS"(1628, u'(?i)(cod|cod)')"
-p53
-atp54
-Rp55
+atp45
+Rp46
 sb.

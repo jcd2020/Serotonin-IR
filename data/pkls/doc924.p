@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(136, u'\\\\btropisetron')"
+S"(125, u'\\\\btropisetron')"
 p5
 atp6
 Rp7
@@ -42,64 +42,36 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p26
-aS"(363, u'(?i)(cranials|cranial)(-|\\\\s+)?(nerve|nerves)')"
+aS"(363, u'(?i)\\\\b(cranials|cranial)(-|\\\\s+)?(nerve|nerves)\\\\b')"
 p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2007
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+tp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(1395, u'(?i)(frogs|frog)')"
+((lp37
+S"(1395, u'(?i)\\\\b(frogs|frog)\\\\b')"
+p38
+aS"(4450, u'(?i)\\\\b(tadpoles|tadpole)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
+aS"(2363, u'(?i)\\\\b(bullfrogs|bullfrog)\\\\b')"
 p41
-aS"(4091, u'(?i)(adults|adult)')"
+aS"(2364, u'(?i)\\\\b(ranas|rana)(-|\\\\s+)?(catesbeianas|catesbeiana)\\\\b')"
 p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(2183, u'(?i)(gars|gar)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(107, u'(?i)(stags|stag)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(4450, u'(?i)(tadpoles|tadpole)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(2364, u'(?i)(ranas|rana)(-|\\\\s+)?(catesbeianas|catesbeiana)')"
-p53
-aS"(2363, u'(?i)(bullfrogs|bullfrog)')"
-p54
-aS"(4074, u'(?i)(bulls|bull)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+atp43
+Rp44
 sb.

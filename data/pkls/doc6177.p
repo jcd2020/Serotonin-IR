@@ -36,7 +36,7 @@ S'5ht7'
 p20
 aS'5ht1b'
 p21
-aS'5ht5'
+aS'5ht1a'
 p22
 aS'5ht4'
 p23
@@ -48,7 +48,7 @@ aS'5ht1'
 p26
 aS'5ht2a'
 p27
-aS'5ht1a'
+aS'5ht5'
 p28
 aS'5ht4a'
 p29
@@ -64,82 +64,38 @@ sS'regions'
 p35
 g3
 ((lp36
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p37
-aS"(164, u'(?i)(supraoptics|supraoptic)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p38
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(164, u'(?i)\\\\b(supraoptics|supraoptic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p39
-aS"(34, u'(?i)(pon|pons)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p40
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p41
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'year'
-p45
+p43
 V2007
-p46
+p44
 sS'agonists'
-p47
+p45
 g3
-((lp48
-tp49
-Rp50
+((lp46
+tp47
+Rp48
 sS'species'
-p51
+p49
 g3
-((lp52
-S"(3592, u'(?i)(ravens|raven)')"
+((lp50
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p51
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p52
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p53
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(5229, u'(?i)(moles|mole)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(6391, u'(?i)(asses|ass)')"
-p58
-aS"(5967, u'(?i)(males|male)')"
-p59
-aS"(468, u'(?i)(oxen|ox)')"
-p60
-aS"(5131, u'(?i)(hags|hag)')"
-p61
-aS"(5743, u'(?i)(bots|bot)')"
-p62
-aS"(853, u'(?i)(minas|mina)')"
-p63
-aS"(821, u'(?i)(lice|louse)')"
-p64
-aS"(5537, u'(?i)(hippos|hippo)')"
-p65
-aS"(4301, u'(?i)(hydras|hydra)')"
-p66
-aS"(5958, u'(?i)(rats|rat)')"
-p67
-aS"(6682, u'(?i)(tera|teras)')"
-p68
-aS"(1055, u'(?i)(men|man)')"
-p69
-aS"(6753, u'(?i)(da|das)')"
-p70
-aS"(1414, u'(?i)(chars|char)')"
-p71
-aS"(7058, u'(?i)(does|doe)')"
-p72
-aS"(2323, u'(?i)(bees|bee)')"
-p73
-aS"(4979, u'(?i)(cats|cat)')"
-p74
-aS"(7552, u'(?i)(bats|bat)')"
-p75
-aS"(4074, u'(?i)(bulls|bull)')"
-p76
-atp77
-Rp78
+atp55
+Rp56
 sb.

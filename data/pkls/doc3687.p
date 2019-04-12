@@ -8,108 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(31, u'\\\\bway ?100635')"
 p6
-aS"(128, u'\\\\bketanserin')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht1a'
-p22
-aS'5ht5'
-p23
+p21
 aS'5ht2'
-p24
+p22
 aS'5ht2a'
-p25
-atp26
-Rp27
+p23
+atp24
+Rp25
 sS'regions'
+p26
+g3
+((lp27
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-g3
-((lp29
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p30
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p35
+p32
 V2009
-p36
+p33
 sS'agonists'
-p37
+p34
 g3
-((lp38
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p39
-atp40
-Rp41
+((lp35
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p36
+atp37
+Rp38
 sS'species'
-p42
+p39
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
+((lp40
+S"(2621, u'(?i)\\\\b(vertebrates|vertebrate)\\\\b')"
+p41
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p42
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p43
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(4964, u'(?i)(serins|serin)')"
-p48
-aS"(3051, u'(?i)(pigs|pig)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(3062, u'(?i)(guineas|guinea)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(7094, u'(?i)(curs|cur)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-aS"(1414, u'(?i)(chars|char)')"
-p57
-aS"(7609, u'(?i)(erns|ern)')"
-p58
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p59
-aS"(2621, u'(?i)(vertebrates|vertebrate)')"
-p60
-aS"(1683, u'(?i)(terns|tern)')"
-p61
-atp62
-Rp63
+atp45
+Rp46
 sb.

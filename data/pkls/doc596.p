@@ -8,128 +8,90 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(34, u'\\\\bmetergoline')"
 p5
-aS"(130, u'\\\\britanserin')"
+aS"(133, u'\\\\bmianserin')"
 p6
-aS"(52, u'\\\\bmetergoline')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(34, u'\\\\byohimbine')"
-p8
-aS"(105, u'\\\\bmethysergide')"
-p9
-aS"(128, u'\\\\bketanserin')"
-p10
-aS"(54, u'\\\\britanserin')"
-p11
 aS"(22, u'\\\\bpropranolol')"
+p8
+aS"(33, u'\\\\byohimbine')"
+p9
+aS"(26, u'\\\\bspiperone')"
+p10
+aS"(194, u'\\\\bmethysergide')"
+p11
+aS"(119, u'\\\\britanserin')"
 p12
-aS"(117, u'\\\\bmianserin')"
-p13
-aS"(27, u'\\\\bspiperone')"
-p14
-aS"(35, u'\\\\bmetergoline')"
-p15
-atp16
-Rp17
+atp13
+Rp14
 sS'methods'
-p18
+p15
 g3
-((lp19
-tp20
-Rp21
+((lp16
+tp17
+Rp18
 sS'topics'
-p22
+p19
 g3
-((lp23
-tp24
-Rp25
+((lp20
+tp21
+Rp22
 sS'receptors'
-p26
+p23
 g3
-((lp27
+((lp24
 S'5ht1d'
-p28
-atp29
-Rp30
+p25
+atp26
+Rp27
 sS'regions'
-p31
+p28
 g3
-((lp32
-S"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
-p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+((lp29
+S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p37
+p33
 V1993
-p38
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(96, u'\\\\bsumatriptan')"
+p37
+aS"(149, u'\\\\bmem')"
+p38
+aS"(175, u'\\\\bdoi')"
 p39
-g3
-((lp40
-S"(103, u'\\\\bsumatriptan')"
+aS"(65, u'\\\\brauwolscine')"
+p40
+aS"(82, u'\\\\byohimbine')"
 p41
-aS"(89, u'\\\\byohimbine')"
+aS"(53, u'\\\\bmethysergide')"
 p42
-aS"(5, u'\\\\b5 ?ct')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p43
-aS"(72, u'\\\\brauwolscine')"
+aS"(219, u'\\\\b5 ?ct')"
 p44
-aS"(60, u'\\\\bmethysergide')"
-p45
-aS"(33, u'\\\\bdoi')"
-p46
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p47
-aS"(155, u'\\\\bmem')"
-p48
-atp49
-Rp50
+atp45
+Rp46
 sS'species'
-p51
+p47
 g3
-((lp52
-S"(1070, u'(?i)(pets|pet)')"
-p53
-aS"(3404, u'(?i)(titis|titi)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(1667, u'(?i)(polyps|polyp)')"
-p56
-aS"(867, u'(?i)(tits|tit)')"
-p57
-aS"(6753, u'(?i)(da|das)')"
-p58
-aS"(2389, u'(?i)(spats|spat)')"
-p59
-aS"(1266, u'(?i)(embryos|embryo)')"
-p60
-aS"(468, u'(?i)(oxen|ox)')"
-p61
-aS"(1055, u'(?i)(men|man)')"
-p62
-aS"(937, u'(?i)(kids|kid)')"
-p63
-aS"(1349, u'(?i)(rams|ram)')"
-p64
-aS"(4964, u'(?i)(serins|serin)')"
-p65
-aS"(3152, u'(?i)(layers|layer)')"
-p66
-aS"(1057, u'(?i)(humans|human)')"
-p67
-aS"(1961, u'(?i)(pens|pen)')"
-p68
-aS"(6356, u'(?i)(ais|ai)')"
-p69
-aS"(3196, u'(?i)(human|humans)')"
-p70
-aS"(1628, u'(?i)(cod|cod)')"
-p71
-atp72
-Rp73
+((lp48
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p49
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p50
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p52
+atp53
+Rp54
 sb.

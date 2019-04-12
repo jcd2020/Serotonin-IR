@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(50, u'\\\\btrazodone')"
+S"(48, u'\\\\btrazodone')"
 p5
 atp6
 Rp7
@@ -44,62 +44,36 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2004
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(82, u'\\\\btrazodone')"
+((lp33
+S"(75, u'\\\\btrazodone')"
+p34
+aS"(175, u'\\\\bdoi')"
 p35
-aS"(33, u'\\\\bdoi')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(2568, u'(?i)(hens|hen)')"
+((lp39
+S"(5863, u'(?i)\\\\b(entires|entire)\\\\b')"
+p40
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p41
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(4091, u'(?i)(adults|adult)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(4163, u'(?i)(ermines|ermine)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(5863, u'(?i)(entires|entire)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(821, u'(?i)(lice|louse)')"
-p56
-atp57
-Rp58
+atp44
+Rp45
 sb.

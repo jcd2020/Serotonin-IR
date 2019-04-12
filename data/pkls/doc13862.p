@@ -32,56 +32,38 @@ S'5ht2f'
 p18
 aS'5ht3'
 p19
-aS'5ht5'
-p20
 aS'5ht3a'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p26
-atp27
-Rp28
+((lp24
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p29
+p28
 V1992
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(193, u'\\\\bethanol')"
-p33
-atp34
-Rp35
+((lp31
+S"(189, u'\\\\bethanol')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(949, u'(?i)(cohoes|coho)')"
+((lp36
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(1054, u'(?i)(homoes|homo)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-atp48
-Rp49
+atp39
+Rp40
 sb.

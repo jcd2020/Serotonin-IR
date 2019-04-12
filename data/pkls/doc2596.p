@@ -8,120 +8,88 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(108, u'\\\\brs ?102221')"
+aS"(100, u'\\\\bsdz ser ?082')"
 p6
-aS"(27, u'\\\\bspiperone')"
+aS"(96, u'\\\\brs ?102221')"
 p7
-aS"(89, u'\\\\bsdz ser ?082')"
+aS"(117, u'\\\\bketanserin')"
 p8
-aS"(128, u'\\\\bketanserin')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
+p13
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
+((lp18
 S"(16, u'\\\\bfeed')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht1b'
-p25
+p24
 aS'5ht1a'
-p26
+p25
 aS'5ht2b'
-p27
+p26
 aS'5ht2c'
-p28
+p27
 aS'5ht2a'
-p29
+p28
 aS'5ht1d'
-p30
+p29
 aS'5ht2'
-p31
-atp32
-Rp33
+p30
+atp31
+Rp32
 sS'regions'
-p34
+p33
 g3
-((lp35
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
-p36
-atp37
-Rp38
+((lp34
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p35
+atp36
+Rp37
 sS'year'
-p39
+p38
 V2002
-p40
+p39
 sS'agonists'
-p41
+p40
 g3
-((lp42
-S"(74, u'\\\\bru ?24969')"
+((lp41
+S"(175, u'\\\\bdoi')"
+p42
+aS"(67, u'\\\\bru ?24969')"
 p43
-aS"(33, u'\\\\bdoi')"
+aS"(155, u'\\\\bmcpp')"
 p44
-aS"(121, u'\\\\bl ?694247')"
+aS"(114, u'\\\\bl ?694247')"
 p45
-aS"(161, u'\\\\bmcpp')"
+aS"(140, u'\\\\bbw ?723c86')"
 p46
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p47
-aS"(146, u'\\\\bbw ?723c86')"
-p48
-atp49
-Rp50
+atp48
+Rp49
 sS'species'
-p51
+p50
 g3
-((lp52
-S"(6753, u'(?i)(da|das)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(6682, u'(?i)(tera|teras)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(468, u'(?i)(oxen|ox)')"
-p58
-aS"(3592, u'(?i)(ravens|raven)')"
-p59
-aS"(7094, u'(?i)(curs|cur)')"
-p60
-aS"(1055, u'(?i)(men|man)')"
-p61
-aS"(4964, u'(?i)(serins|serin)')"
-p62
-aS"(6249, u'(?i)(ants|ant)')"
-p63
-aS"(7127, u'(?i)(monitors|monitor)')"
-p64
-aS"(4371, u'(?i)(lizas|liza)')"
-p65
-aS"(1414, u'(?i)(chars|char)')"
-p66
-aS"(6391, u'(?i)(asses|ass)')"
-p67
-atp68
-Rp69
+((lp51
+tp52
+Rp53
 sb.

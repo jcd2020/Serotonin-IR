@@ -10,110 +10,76 @@ p3
 ((lp4
 S"(5, u'\\\\bcyanopindolol')"
 p5
-aS"(53, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(194, u'\\\\bmethysergide')"
 p7
-aS"(105, u'\\\\bmethysergide')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.STIMULATION'
-p13
+p12
 aS'Method.ANTAGONIST'
-p14
+p13
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
-tp20
-Rp21
+((lp18
+tp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht1b'
-p24
-aS'5ht5'
-p25
-aS'5ht3'
-p26
-aS'5ht2'
-p27
-aS'5ht1'
-p28
-aS'5ht2a'
-p29
+p23
 aS'5ht1a'
-p30
-atp31
-Rp32
+p24
+aS'5ht3'
+p25
+aS'5ht2'
+p26
+aS'5ht1'
+p27
+aS'5ht2a'
+p28
+atp29
+Rp30
 sS'regions'
-p33
+p31
 g3
-((lp34
-S"(34, u'(?i)(pon|pons)')"
-p35
-atp36
-Rp37
+((lp32
+tp33
+Rp34
 sS'year'
-p38
+p35
 V1988
-p39
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p39
+aS"(53, u'\\\\bmethysergide')"
 p40
-g3
-((lp41
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p42
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
-p43
-aS"(60, u'\\\\bmethysergide')"
-p44
-atp45
-Rp46
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p41
+atp42
+Rp43
 sS'species'
-p47
+p44
 g3
-((lp48
-S"(513, u'(?i)(uruses|urus)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(4964, u'(?i)(serins|serin)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(3592, u'(?i)(ravens|raven)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(1054, u'(?i)(homoes|homo)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(3522, u'(?i)(tetras|tetra)')"
-p58
-aS"(7094, u'(?i)(curs|cur)')"
-p59
-aS"(1414, u'(?i)(chars|char)')"
-p60
-aS"(5743, u'(?i)(bots|bot)')"
-p61
-aS"(4979, u'(?i)(cats|cat)')"
-p62
-aS"(4133, u'(?i)(pikes|pike)')"
-p63
-atp64
-Rp65
+((lp45
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

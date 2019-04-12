@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(58, u'\\\\bhaloperidol')"
 p5
 atp6
 Rp7
@@ -40,40 +40,28 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V1995
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(48, u'\\\\bhaloperidol')"
-p33
-atp34
-Rp35
+((lp31
+S"(43, u'\\\\bhaloperidol')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(5537, u'(?i)(hippos|hippo)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-atp44
-Rp45
+((lp36
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

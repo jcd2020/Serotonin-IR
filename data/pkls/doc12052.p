@@ -34,50 +34,32 @@ g3
 ((lp19
 S'5ht1a'
 p20
-aS'5ht5'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+((lp24
+tp25
+Rp26
 sS'year'
-p29
+p27
 V1986
-p30
+p28
 sS'agonists'
+p29
+g3
+((lp30
+S"(45, u'\\\\bipsapirone')"
 p31
-g3
-((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p33
-aS"(50, u'\\\\bipsapirone')"
-p34
-atp35
-Rp36
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p32
+atp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(3550, u'(?i)(anis|ani)')"
-p42
-aS"(3522, u'(?i)(tetras|tetra)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-aS"(5949, u'(?i)(dogs|dog)')"
-p45
-atp46
-Rp47
+((lp36
+tp37
+Rp38
 sb.

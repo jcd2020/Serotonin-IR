@@ -30,56 +30,30 @@ g3
 ((lp17
 S'5ht1b'
 p18
-aS'5ht5'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-tp24
-Rp25
+((lp22
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2003
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(2323, u'(?i)(bees|bee)')"
-p34
-aS"(6753, u'(?i)(da|das)')"
-p35
-aS"(2568, u'(?i)(hens|hen)')"
-p36
-aS"(5176, u'(?i)(tegs|teg)')"
-p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(853, u'(?i)(minas|mina)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(1961, u'(?i)(pens|pen)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(5949, u'(?i)(dogs|dog)')"
-p46
-atp47
-Rp48
+((lp32
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p33
+atp34
+Rp35
 sb.

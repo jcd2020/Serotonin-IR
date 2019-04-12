@@ -28,58 +28,32 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht1a'
 p18
-aS'5ht5d'
-p19
-aS'5ht1a'
-p20
-atp21
-Rp22
+atp19
+Rp20
 sS'regions'
-p23
+p21
 g3
-((lp24
-tp25
-Rp26
+((lp22
+tp23
+Rp24
 sS'year'
-p27
+p25
 V2001
-p28
+p26
 sS'agonists'
-p29
+p27
 g3
-((lp30
-tp31
-Rp32
+((lp28
+tp29
+Rp30
 sS'species'
-p33
+p31
 g3
-((lp34
-S"(2323, u'(?i)(bees|bee)')"
-p35
-aS"(949, u'(?i)(cohoes|coho)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(5743, u'(?i)(bots|bot)')"
-p38
-aS"(6861, u'(?i)(stunts|stunt)')"
-p39
-aS"(4091, u'(?i)(adults|adult)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(4371, u'(?i)(lizas|liza)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-atp47
-Rp48
+((lp32
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p33
+atp34
+Rp35
 sb.

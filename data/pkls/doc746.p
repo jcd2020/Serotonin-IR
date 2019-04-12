@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
 atp6
 Rp7
@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(234, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(basali|basalis)')"
+S"(234, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(basali|basalis)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,44 +60,20 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2323, u'(?i)(bees|bee)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p37
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p39
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p40
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
 p41
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(4091, u'(?i)(adults|adult)')"
-p44
-aS"(2401, u'(?i)(primates|primate)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(3726, u'(?i)(mates|mate)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(853, u'(?i)(minas|mina)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(3247, u'(?i)(youngs|young)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(1683, u'(?i)(terns|tern)')"
-p54
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p55
-atp56
-Rp57
+atp44
+Rp45
 sb.

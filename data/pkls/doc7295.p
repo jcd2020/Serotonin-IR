@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(223, u'(?i)(putamens|putamen)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p24
 atp25
 Rp26
@@ -56,34 +56,14 @@ sS'species'
 p33
 g3
 ((lp34
-S"(1070, u'(?i)(pets|pet)')"
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p35
-aS"(6753, u'(?i)(da|das)')"
+aS"(7003, u'(?i)\\\\b(murines|murine)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p38
-aS"(7309, u'(?i)(gnats|gnat)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6215, u'(?i)(racers|racer)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(7003, u'(?i)(murines|murine)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6325, u'(?i)(caudates|caudate)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-atp49
-Rp50
+atp39
+Rp40
 sb.

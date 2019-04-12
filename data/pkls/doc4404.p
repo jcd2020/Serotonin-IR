@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p24
 atp25
 Rp26
@@ -50,15 +50,15 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(167, u'\\\\bcp ?809101')"
+S"(175, u'\\\\bdoi')"
 p31
-aS"(56, u'\\\\blsd')"
+aS"(125, u'\\\\btcb ?2')"
 p32
-aS"(55, u'\\\\blysergic acid diethylamide')"
+aS"(161, u'\\\\bcp ?809101')"
 p33
-aS"(132, u'\\\\btcb ?2')"
+aS"(49, u'\\\\blysergic acid diethylamide')"
 p34
-aS"(33, u'\\\\bdoi')"
+aS"(158, u'\\\\blsd')"
 p35
 atp36
 Rp37
@@ -66,26 +66,8 @@ sS'species'
 p38
 g3
 ((lp39
-S"(4624, u'(?i)(apes|ape)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(81, u'(?i)(asps|asp)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(2334, u'(?i)(eels|eel)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-atp50
-Rp51
+atp41
+Rp42
 sb.

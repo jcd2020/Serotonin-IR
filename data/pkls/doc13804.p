@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(112, u'\\\\bamitriptyline')"
+S"(102, u'\\\\bamitriptyline')"
 p5
 atp6
 Rp7
@@ -40,52 +40,40 @@ aS'5ht1a'
 p22
 aS'5ht2c'
 p23
-aS'5ht5'
-p24
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp28
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'year'
-p35
+p33
 V1999
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(149, u'\\\\bmem')"
 p37
-g3
-((lp38
-S"(155, u'\\\\bmem')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(5537, u'(?i)(hippos|hippo)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3247, u'(?i)(youngs|young)')"
-p49
-atp50
-Rp51
+((lp41
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
+p43
+atp44
+Rp45
 sb.

@@ -40,46 +40,26 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1998
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(2323, u'(?i)(bees|bee)')"
+((lp34
+S"(5783, u'(?i)\\\\b(hinds|hind)\\\\b')"
+p35
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(7552, u'(?i)(bats|bat)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(853, u'(?i)(minas|mina)')"
-p41
-aS"(3550, u'(?i)(anis|ani)')"
-p42
-aS"(1961, u'(?i)(pens|pen)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(5783, u'(?i)(hinds|hind)')"
-p46
-atp47
-Rp48
+atp37
+Rp38
 sb.

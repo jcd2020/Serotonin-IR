@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(37, u'\\\\bar ?a000002')"
+S"(36, u'\\\\bar ?a000002')"
 p5
 atp6
 Rp7
@@ -56,28 +56,12 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2323, u'(?i)(bees|bee)')"
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p35
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p36
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p37
-aS"(3051, u'(?i)(pigs|pig)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(3062, u'(?i)(guineas|guinea)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(7610, u'(?i)(ernes|erne)')"
-p44
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p45
-atp46
-Rp47
+atp38
+Rp39
 sb.

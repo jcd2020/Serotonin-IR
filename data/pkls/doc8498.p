@@ -40,70 +40,30 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(277, u'(?i)(temporals|temporal)(-|\\\\s+)?(lobes|lobe)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p25
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(277, u'(?i)\\\\b(temporals|temporal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2004
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(1070, u'(?i)(pets|pet)')"
+((lp36
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p37
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p38
-aS"(5176, u'(?i)(tegs|teg)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(867, u'(?i)(tits|tit)')"
-p42
-aS"(1824, u'(?i)(merles|merle)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(81, u'(?i)(asps|asp)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6215, u'(?i)(racers|racer)')"
-p48
-aS"(853, u'(?i)(minas|mina)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(1823, u'(?i)(merls|merl)')"
-p54
-aS"(2809, u'(?i)(toms|tom)')"
-p55
-aS"(7058, u'(?i)(does|doe)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(4133, u'(?i)(pikes|pike)')"
-p58
-atp59
-Rp60
+atp39
+Rp40
 sb.

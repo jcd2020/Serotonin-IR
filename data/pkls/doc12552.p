@@ -38,58 +38,30 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(35, u'(?i)(pontines|pontine)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(50, u'(?i)\\\\b(pedunculopontines|pedunculopontine)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(321, u'(?i)(mesopontines|mesopontine)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(321, u'(?i)\\\\b(mesopontines|mesopontine)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(50, u'(?i)(pedunculopontines|pedunculopontine)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(90, u'(?i)\\\\b(tegmentums|tegmentum)\\\\b')"
 p26
-aS"(90, u'(?i)(tegmentums|tegmentum)')"
-p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp27
+Rp28
 sS'year'
-p31
+p29
 V1998
-p32
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p33
-g3
-((lp34
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(4404, u'(?i)(duns|dun)')"
-p40
-aS"(5176, u'(?i)(tegs|teg)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(2334, u'(?i)(eels|eel)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(3522, u'(?i)(tetras|tetra)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-atp52
-Rp53
+((lp37
+tp38
+Rp39
 sb.

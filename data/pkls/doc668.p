@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(114, u'\\\\bimipramine')"
+S"(104, u'\\\\bimipramine')"
 p5
 atp6
 Rp7
@@ -50,9 +50,9 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(389, u'(?i)(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)')"
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p30
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
 p31
 atp32
 Rp33
@@ -64,9 +64,9 @@ sS'agonists'
 p36
 g3
 ((lp37
-S"(24, u'\\\\bbuspirone')"
+S"(20, u'\\\\bbuspirone')"
 p38
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p39
 atp40
 Rp41
@@ -74,40 +74,6 @@ sS'species'
 p42
 g3
 ((lp43
-S"(2323, u'(?i)(bees|bee)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(7609, u'(?i)(erns|ern)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(4604, u'(?i)(mites|mite)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(7094, u'(?i)(curs|cur)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(6391, u'(?i)(asses|ass)')"
-p58
-aS"(2809, u'(?i)(toms|tom)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-atp61
-Rp62
+tp44
+Rp45
 sb.

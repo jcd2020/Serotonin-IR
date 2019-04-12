@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(59, u'\\\\bchlorpromazine')"
 p5
-aS"(114, u'\\\\bimipramine')"
+aS"(134, u'\\\\bmirtazapine')"
 p6
-aS"(68, u'\\\\bchlorpromazine')"
+aS"(31, u'\\\\bway ?100635')"
 p7
-aS"(51, u'\\\\bmirtazapine')"
+aS"(104, u'\\\\bimipramine')"
 p8
 atp9
 Rp10
@@ -58,7 +58,7 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(47, u'\\\\bgepirone')"
+S"(42, u'\\\\bgepirone')"
 p35
 atp36
 Rp37
@@ -66,28 +66,8 @@ sS'species'
 p38
 g3
 ((lp39
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(5863, u'(?i)(entires|entire)')"
-p50
-atp51
-Rp52
+atp41
+Rp42
 sb.

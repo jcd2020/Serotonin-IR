@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(61, u'\\\\bmdl ?100907')"
+S"(52, u'\\\\bmdl ?100907')"
 p5
 atp6
 Rp7
@@ -38,68 +38,34 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2013
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(169, u'\\\\bfenfluramine')"
-p34
-atp35
-Rp36
+((lp32
+S"(163, u'\\\\bfenfluramine')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(4163, u'(?i)(ermines|ermine)')"
+((lp37
+S"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(391, u'(?i)(alli|allis)')"
-p52
-aS"(3592, u'(?i)(ravens|raven)')"
-p53
-aS"(5568, u'(?i)(hakes|hake)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(5949, u'(?i)(dogs|dog)')"
-p56
-atp57
-Rp58
+atp40
+Rp41
 sb.

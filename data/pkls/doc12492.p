@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(81, u'\\\\bagomelatine')"
+S"(72, u'\\\\bagomelatine')"
 p5
 atp6
 Rp7
@@ -42,38 +42,24 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2010
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(6249, u'(?i)(ants|ant)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(1291, u'(?i)(ratels|ratel)')"
-p39
-aS"(3726, u'(?i)(mates|mate)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(1961, u'(?i)(pens|pen)')"
-p42
-aS"(5949, u'(?i)(dogs|dog)')"
-p43
-atp44
-Rp45
+((lp35
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

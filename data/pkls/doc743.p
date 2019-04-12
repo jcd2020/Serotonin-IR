@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(141, u'\\\\bzacopride')"
+S"(130, u'\\\\bzacopride')"
 p5
 atp6
 Rp7
@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p24
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,9 +52,9 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(14, u'\\\\bamphetamine')"
+S"(208, u'\\\\bzacopride')"
 p32
-aS"(212, u'\\\\bzacopride')"
+aS"(11, u'\\\\bamphetamine')"
 p33
 atp34
 Rp35
@@ -62,38 +62,16 @@ sS'species'
 p36
 g3
 ((lp37
-S"(1070, u'(?i)(pets|pet)')"
+S"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p39
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(6682, u'(?i)(tera|teras)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
 p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(1054, u'(?i)(homoes|homo)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1057, u'(?i)(humans|human)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(3196, u'(?i)(human|humans)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(821, u'(?i)(lice|louse)')"
-p52
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p53
-atp54
-Rp55
+atp43
+Rp44
 sb.

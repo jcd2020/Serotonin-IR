@@ -32,50 +32,38 @@ g3
 ((lp18
 S'5ht1b'
 p19
-aS'5ht5'
-p20
 aS'5ht2c'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-tp26
-Rp27
+((lp24
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2009
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(161, u'\\\\bmcpp')"
+((lp30
+S"(149, u'\\\\bmem')"
+p31
+aS"(155, u'\\\\bmcpp')"
 p32
-aS"(155, u'\\\\bmem')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2568, u'(?i)(hens|hen)')"
+((lp36
+S"(577, u'(?i)\\\\b(orphans|orphan)\\\\b')"
+p37
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(163, u'(?i)(mice|mouse)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(3550, u'(?i)(anis|ani)')"
-p42
-aS"(1961, u'(?i)(pens|pen)')"
-p43
-aS"(577, u'(?i)(orphans|orphan)')"
-p44
-atp45
-Rp46
+atp39
+Rp40
 sb.

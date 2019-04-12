@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(200, u'\\\\bmesulergine')"
+S"(193, u'\\\\bmesulergine')"
 p5
-aS"(34, u'\\\\byohimbine')"
+aS"(33, u'\\\\byohimbine')"
 p6
 atp7
 Rp8
@@ -48,60 +48,36 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+tp29
+Rp30
 sS'year'
-p32
+p31
 V1990
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(89, u'\\\\byohimbine')"
+((lp34
+S"(165, u'\\\\bmesulergine')"
+p35
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p36
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(82, u'\\\\byohimbine')"
 p37
-aS"(171, u'\\\\bmesulergine')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(6249, u'(?i)(ants|ant)')"
+((lp41
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p42
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p43
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p44
-aS"(4979, u'(?i)(cats|cat)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(3051, u'(?i)(pigs|pig)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(3062, u'(?i)(guineas|guinea)')"
-p49
-aS"(3152, u'(?i)(layers|layer)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(3522, u'(?i)(tetras|tetra)')"
-p52
-aS"(4371, u'(?i)(lizas|liza)')"
-p53
-aS"(1414, u'(?i)(chars|char)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-atp58
-Rp59
+atp46
+Rp47
 sb.

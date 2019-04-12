@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(50, u'\\\\btrazodone')"
+S"(48, u'\\\\btrazodone')"
 p5
 atp6
 Rp7
@@ -42,66 +42,36 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2017
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(82, u'\\\\btrazodone')"
-p33
-atp34
-Rp35
+((lp31
+S"(75, u'\\\\btrazodone')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(4624, u'(?i)(apes|ape)')"
+((lp36
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p37
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p38
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(7003, u'(?i)\\\\b(murines|murine)\\\\b')"
 p39
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(2401, u'(?i)(primates|primate)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(4091, u'(?i)(adults|adult)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(5551, u'(?i)(owls|owl)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3726, u'(?i)(mates|mate)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(1057, u'(?i)(humans|human)')"
-p52
-aS"(7003, u'(?i)(murines|murine)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(3196, u'(?i)(human|humans)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+atp43
+Rp44
 sb.

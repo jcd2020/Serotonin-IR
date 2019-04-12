@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(81, u'\\\\bagomelatine')"
+S"(72, u'\\\\bagomelatine')"
 p5
 atp6
 Rp7
@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(147, u'\\\\bro60 ?0175')"
+S"(141, u'\\\\bro60 ?0175')"
 p32
 atp33
 Rp34
@@ -60,28 +60,14 @@ sS'species'
 p35
 g3
 ((lp36
-S"(5958, u'(?i)(rats|rat)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
 p38
-aS"(7539, u'(?i)(mammals|mammal)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5967, u'(?i)(males|male)')"
+aS"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
 p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(5743, u'(?i)(bots|bot)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(1961, u'(?i)(pens|pen)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(1949, u'(?i)(pacemakers|pacemaker)')"
-p46
-aS"(821, u'(?i)(lice|louse)')"
-p47
-atp48
-Rp49
+atp41
+Rp42
 sb.

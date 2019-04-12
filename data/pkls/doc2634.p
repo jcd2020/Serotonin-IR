@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
-aS"(139, u'\\\\bmetoclopramide')"
+aS"(124, u'\\\\bondansetron')"
 p6
 atp7
 Rp8
@@ -46,64 +46,32 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(34, u'(?i)(pon|pons)')"
+S"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p28
-aS"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V1991
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(181, u'\\\\bdom')"
+((lp34
+S"(209, u'\\\\bmetoclopramide')"
+p35
+aS"(176, u'\\\\bdom')"
 p36
-aS"(213, u'\\\\bmetoclopramide')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(2323, u'(?i)(bees|bee)')"
+((lp40
+S"(3015, u'(?i)\\\\b(ferrets|ferret)\\\\b')"
+p41
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p42
-aS"(2054, u'(?i)(heads|head)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(3015, u'(?i)(ferrets|ferret)')"
-p45
-aS"(4201, u'(?i)(kines|kine)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(6981, u'(?i)(moths|moth)')"
-p53
-aS"(4371, u'(?i)(lizas|liza)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(2809, u'(?i)(toms|tom)')"
-p56
-aS"(4074, u'(?i)(bulls|bull)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+atp43
+Rp44
 sb.

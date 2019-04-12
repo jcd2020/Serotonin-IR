@@ -38,72 +38,44 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
+aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p25
-aS"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p26
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
-aS"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2009
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+tp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(6753, u'(?i)(da|das)')"
+((lp37
+S"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+p38
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p39
-aS"(1280, u'(?i)(shrews|shrew)')"
+aS"(5544, u'(?i)\\\\b(leasts|least)(-|\\\\s+)?(shrews|shrew)\\\\b')"
 p40
-aS"(6548, u'(?i)(takins|takin)')"
+aS"(2665, u'(?i)\\\\b(rays|ray)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p42
-aS"(4979, u'(?i)(cats|cat)')"
+aS"(5545, u'(?i)\\\\b(cryptoti|cryptotis)(-|\\\\s+)?(parvas|parva)\\\\b')"
 p43
-aS"(5544, u'(?i)(leasts|least)(-|\\\\s+)?(shrews|shrew)')"
+aS"(1280, u'(?i)\\\\b(shrews|shrew)\\\\b')"
 p44
-aS"(2183, u'(?i)(gars|gar)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(2665, u'(?i)(rays|ray)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(1057, u'(?i)(humans|human)')"
-p51
-aS"(7539, u'(?i)(mammals|mammal)')"
-p52
-aS"(3592, u'(?i)(ravens|raven)')"
-p53
-aS"(3196, u'(?i)(human|humans)')"
-p54
-aS"(2809, u'(?i)(toms|tom)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(5545, u'(?i)(cryptoti|cryptotis)(-|\\\\s+)?(parvas|parva)')"
-p58
-atp59
-Rp60
+atp45
+Rp46
 sb.

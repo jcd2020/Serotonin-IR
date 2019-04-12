@@ -38,88 +38,40 @@ aS'5ht1a'
 p21
 aS'5ht2c'
 p22
-aS'5ht5'
-p23
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-tp29
-Rp30
+((lp27
+tp28
+Rp29
 sS'year'
-p31
+p30
 V2004
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(169, u'\\\\bfenfluramine')"
-p35
-atp36
-Rp37
+((lp33
+S"(163, u'\\\\bfenfluramine')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(4624, u'(?i)(apes|ape)')"
+((lp38
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p39
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p41
-aS"(3404, u'(?i)(titis|titi)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(3196, u'(?i)(human|humans)')"
-p46
-aS"(1628, u'(?i)(cod|cod)')"
-p47
-aS"(1070, u'(?i)(pets|pet)')"
-p48
-aS"(702, u'(?i)(genets|genet)')"
-p49
-aS"(1686, u'(?i)(gibs|gib)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(2809, u'(?i)(toms|tom)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(867, u'(?i)(tits|tit)')"
-p56
-aS"(163, u'(?i)(mice|mouse)')"
-p57
-aS"(6682, u'(?i)(tera|teras)')"
-p58
-aS"(1055, u'(?i)(men|man)')"
-p59
-aS"(853, u'(?i)(minas|mina)')"
-p60
-aS"(1057, u'(?i)(humans|human)')"
-p61
-aS"(1414, u'(?i)(chars|char)')"
-p62
-aS"(2323, u'(?i)(bees|bee)')"
-p63
-aS"(2568, u'(?i)(hens|hen)')"
-p64
-aS"(6753, u'(?i)(da|das)')"
-p65
-aS"(3726, u'(?i)(mates|mate)')"
-p66
-atp67
-Rp68
+atp43
+Rp44
 sb.

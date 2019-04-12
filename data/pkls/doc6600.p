@@ -50,24 +50,10 @@ sS'species'
 p30
 g3
 ((lp31
-S"(6249, u'(?i)(ants|ant)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p32
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p33
-aS"(468, u'(?i)(oxen|ox)')"
-p34
-aS"(1055, u'(?i)(men|man)')"
-p35
-aS"(6356, u'(?i)(ais|ai)')"
-p36
-aS"(1057, u'(?i)(humans|human)')"
-p37
-aS"(4247, u'(?i)(tatus|tatu)')"
-p38
-aS"(3812, u'(?i)(studs|stud)')"
-p39
-aS"(3196, u'(?i)(human|humans)')"
-p40
-atp41
-Rp42
+atp34
+Rp35
 sb.

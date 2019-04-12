@@ -38,88 +38,50 @@ sS'receptors'
 p21
 g3
 ((lp22
-S'5ht5'
+S'5ht1a'
 p23
 aS'5ht3'
 p24
-aS'5ht1a'
-p25
 aS'5ht2a'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+((lp29
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+p30
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p31
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V1996
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(20, u'\\\\bbuspirone')"
 p38
-g3
-((lp39
-S"(24, u'\\\\bbuspirone')"
+aS"(11, u'\\\\bamphetamine')"
+p39
+aS"(149, u'\\\\bmem')"
 p40
-aS"(14, u'\\\\bamphetamine')"
-p41
-aS"(155, u'\\\\bmem')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(2323, u'(?i)(bees|bee)')"
+((lp44
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p45
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(2809, u'(?i)(toms|tom)')"
-p49
-aS"(7609, u'(?i)(erns|ern)')"
-p50
-aS"(867, u'(?i)(tits|tit)')"
-p51
-aS"(4201, u'(?i)(kines|kine)')"
-p52
-aS"(4163, u'(?i)(ermines|ermine)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(468, u'(?i)(oxen|ox)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(3550, u'(?i)(anis|ani)')"
-p59
-aS"(6682, u'(?i)(tera|teras)')"
-p60
-aS"(1057, u'(?i)(humans|human)')"
-p61
-aS"(1961, u'(?i)(pens|pen)')"
-p62
-aS"(3812, u'(?i)(studs|stud)')"
-p63
-aS"(3196, u'(?i)(human|humans)')"
-p64
-aS"(1628, u'(?i)(cod|cod)')"
-p65
-aS"(1683, u'(?i)(terns|tern)')"
-p66
-atp67
-Rp68
+atp48
+Rp49
 sb.

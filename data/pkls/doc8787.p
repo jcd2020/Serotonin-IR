@@ -30,66 +30,44 @@ g3
 ((lp17
 S'5ht1a'
 p18
-aS'5ht5'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+((lp22
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p23
+aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p24
-aS"(202, u'(?i)(medials|medial)(-|\\\\s+)?(temporals|temporal)(-|\\\\s+)?(lobes|lobe)')"
+aS"(202, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(temporals|temporal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
 p25
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(277, u'(?i)\\\\b(temporals|temporal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
 p26
-aS"(277, u'(?i)(temporals|temporal)(-|\\\\s+)?(lobes|lobe)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2009
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(1070, u'(?i)(pets|pet)')"
+((lp36
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p37
+aS"(5863, u'(?i)\\\\b(entires|entire)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p39
-aS"(4979, u'(?i)(cats|cat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(1686, u'(?i)(gibs|gib)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(1349, u'(?i)(rams|ram)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6215, u'(?i)(racers|racer)')"
-p45
-aS"(853, u'(?i)(minas|mina)')"
-p46
-aS"(1057, u'(?i)(humans|human)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(3196, u'(?i)(human|humans)')"
-p50
-aS"(5863, u'(?i)(entires|entire)')"
-p51
-atp52
-Rp53
+atp41
+Rp42
 sb.

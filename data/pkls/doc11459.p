@@ -10,122 +10,90 @@ p3
 ((lp4
 S"(5, u'\\\\bcyanopindolol')"
 p5
-aS"(14, u'\\\\bmethiothepin')"
+aS"(34, u'\\\\bmetergoline')"
 p6
 aS"(21, u'\\\\bpindolol')"
 p7
-aS"(105, u'\\\\bmethysergide')"
+aS"(28, u'\\\\bspiroxatrine')"
 p8
-aS"(29, u'\\\\bspiroxatrine')"
+aS"(194, u'\\\\bmethysergide')"
 p9
-aS"(52, u'\\\\bmetergoline')"
+aS"(14, u'\\\\bmethiothepin')"
 p10
-aS"(27, u'\\\\bspiperone')"
+aS"(26, u'\\\\bspiperone')"
 p11
-aS"(35, u'\\\\bmetergoline')"
-p12
-atp13
-Rp14
+atp12
+Rp13
 sS'methods'
-p15
+p14
 g3
-((lp16
+((lp15
 S'Method.ANTAGONIST'
-p17
+p16
 aS'Method.AGONIST'
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'topics'
-p21
+p20
 g3
-((lp22
-tp23
-Rp24
+((lp21
+tp22
+Rp23
 sS'receptors'
-p25
+p24
 g3
-((lp26
+((lp25
 S'5ht1a'
-p27
+p26
 aS'5ht5c'
-p28
+p27
 aS'5ht2'
-p29
+p28
 aS'5ht1'
-p30
-atp31
-Rp32
+p29
+atp30
+Rp31
 sS'regions'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+tp34
+Rp35
 sS'year'
-p37
+p36
 V1988
-p38
+p37
 sS'agonists'
-p39
+p38
 g3
-((lp40
-S"(74, u'\\\\bru ?24969')"
+((lp39
+S"(20, u'\\\\bbuspirone')"
+p40
+aS"(39, u'\\\\bflesinoxan')"
 p41
-aS"(44, u'\\\\bflesinoxan')"
+aS"(53, u'\\\\bmethysergide')"
 p42
-aS"(5, u'\\\\b5 ?ct')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p43
-aS"(86, u'\\\\burapidil')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p44
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(79, u'\\\\burapidil')"
 p45
-aS"(24, u'\\\\bbuspirone')"
+aS"(45, u'\\\\bipsapirone')"
 p46
-aS"(60, u'\\\\bmethysergide')"
+aS"(67, u'\\\\bru ?24969')"
 p47
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(219, u'\\\\b5 ?ct')"
 p48
-aS"(50, u'\\\\bipsapirone')"
-p49
-atp50
-Rp51
+atp49
+Rp50
 sS'species'
-p52
+p51
 g3
-((lp53
-S"(2323, u'(?i)(bees|bee)')"
-p54
-aS"(5537, u'(?i)(hippos|hippo)')"
-p55
-aS"(2568, u'(?i)(hens|hen)')"
-p56
-aS"(6753, u'(?i)(da|das)')"
-p57
-aS"(1883, u'(?i)(calves|calf)')"
-p58
-aS"(468, u'(?i)(oxen|ox)')"
-p59
-aS"(1055, u'(?i)(men|man)')"
-p60
-aS"(6249, u'(?i)(ants|ant)')"
-p61
-aS"(7488, u'(?i)(molas|mola)')"
-p62
-aS"(4979, u'(?i)(cats|cat)')"
-p63
-aS"(5958, u'(?i)(rats|rat)')"
-p64
-aS"(3522, u'(?i)(tetras|tetra)')"
-p65
-aS"(7094, u'(?i)(curs|cur)')"
-p66
-aS"(1961, u'(?i)(pens|pen)')"
-p67
-aS"(3812, u'(?i)(studs|stud)')"
-p68
-aS"(1795, u'(?i)(mounts|mount)')"
-p69
-atp70
-Rp71
+((lp52
+S"(1883, u'(?i)\\\\b(calves|calf)\\\\b')"
+p53
+atp54
+Rp55
 sb.

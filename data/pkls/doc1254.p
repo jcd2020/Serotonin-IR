@@ -8,108 +8,90 @@ c__builtin__
 set
 p3
 ((lp4
-S"(200, u'\\\\bmesulergine')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(42, u'\\\\bergotamine')"
+aS"(178, u'\\\\bro 04 ?6790')"
 p6
-aS"(130, u'\\\\britanserin')"
-p7
-aS"(52, u'\\\\bmetergoline')"
-p8
-aS"(105, u'\\\\bmethysergide')"
-p9
-aS"(85, u'\\\\blisuride')"
-p10
-aS"(56, u'\\\\bclozapine')"
-p11
-aS"(54, u'\\\\britanserin')"
-p12
-aS"(117, u'\\\\bmianserin')"
-p13
 aS"(14, u'\\\\bmethiothepin')"
+p7
+aS"(193, u'\\\\bmesulergine')"
+p8
+aS"(34, u'\\\\bmetergoline')"
+p9
+aS"(194, u'\\\\bmethysergide')"
+p10
+aS"(40, u'\\\\bergotamine')"
+p11
+aS"(76, u'\\\\blisuride')"
+p12
+aS"(133, u'\\\\bmianserin')"
+p13
+aS"(119, u'\\\\britanserin')"
 p14
-aS"(186, u'\\\\bro 04 ?6790')"
-p15
-aS"(35, u'\\\\bmetergoline')"
-p16
-aS"(123, u'\\\\bclozapine')"
-p17
-atp18
-Rp19
+atp15
+Rp16
 sS'methods'
-p20
+p17
 g3
-((lp21
+((lp18
 S'Method.ANTAGONIST'
-p22
-atp23
-Rp24
+p19
+atp20
+Rp21
 sS'topics'
-p25
+p22
 g3
-((lp26
-tp27
-Rp28
+((lp23
+tp24
+Rp25
 sS'receptors'
-p29
+p26
 g3
-((lp30
+((lp27
 S'5ht6'
-p31
-atp32
-Rp33
+p28
+atp29
+Rp30
 sS'regions'
-p34
+p31
 g3
-((lp35
-S"(220, u'(?i)(striatums|striatum)')"
-p36
-atp37
-Rp38
+((lp32
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p33
+atp34
+Rp35
 sS'year'
-p39
+p36
 V1998
-p40
+p37
 sS'agonists'
+p38
+g3
+((lp39
+S"(53, u'\\\\bmethysergide')"
+p40
+aS"(149, u'\\\\bmem')"
 p41
-g3
-((lp42
-S"(52, u'\\\\blisuride')"
+aS"(165, u'\\\\bmesulergine')"
+p42
+aS"(33, u'\\\\bergotamine')"
 p43
-aS"(27, u'\\\\bclozapine')"
+aS"(137, u'\\\\blisuride')"
 p44
-aS"(60, u'\\\\bmethysergide')"
+aS"(23, u'\\\\bclozapine')"
 p45
-aS"(171, u'\\\\bmesulergine')"
-p46
-aS"(38, u'\\\\bergotamine')"
-p47
-aS"(155, u'\\\\bmem')"
-p48
-atp49
-Rp50
+atp46
+Rp47
 sS'species'
-p51
+p48
 g3
-((lp52
-S"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(4964, u'(?i)(serins|serin)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(1057, u'(?i)(humans|human)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(3196, u'(?i)(human|humans)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-atp62
-Rp63
+((lp49
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p50
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p52
+atp53
+Rp54
 sb.

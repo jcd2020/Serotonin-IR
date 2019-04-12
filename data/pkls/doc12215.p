@@ -44,66 +44,34 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+tp27
+Rp28
 sS'year'
-p30
+p29
 V1999
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp32
+S"(20, u'\\\\bbuspirone')"
+p33
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p34
-aS"(24, u'\\\\bbuspirone')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(6753, u'(?i)(da|das)')"
+((lp38
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p39
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(702, u'(?i)(genets|genet)')"
+aS"(1972, u'(?i)\\\\b(storks|stork)\\\\b')"
 p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(2389, u'(?i)(spats|spat)')"
-p44
-aS"(4091, u'(?i)(adults|adult)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1054, u'(?i)(homoes|homo)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(2395, u'(?i)(mutants|mutant)')"
-p52
-aS"(5229, u'(?i)(moles|mole)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(1972, u'(?i)(storks|stork)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-aS"(5949, u'(?i)(dogs|dog)')"
-p58
-atp59
-Rp60
+atp43
+Rp44
 sb.

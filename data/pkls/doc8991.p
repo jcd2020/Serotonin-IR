@@ -36,50 +36,30 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p23
-aS"(374, u'(?i)(duras|dura)(-|\\\\s+)?(maters|mater)')"
+aS"(374, u'(?i)\\\\b(duras|dura)(-|\\\\s+)?(maters|mater)\\\\b')"
 p24
-aS"(376, u'(?i)(pias|pia)(-|\\\\s+)?(maters|mater)')"
+aS"(376, u'(?i)\\\\b(pias|pia)(-|\\\\s+)?(maters|mater)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V1993
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(103, u'\\\\bsumatriptan')"
-p33
-atp34
-Rp35
+((lp31
+S"(96, u'\\\\bsumatriptan')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2054, u'(?i)(heads|head)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(853, u'(?i)(minas|mina)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-atp47
-Rp48
+((lp36
+tp37
+Rp38
 sb.

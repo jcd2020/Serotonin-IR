@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(155, u'\\\\bgr ?125487')"
+S"(146, u'\\\\bgr ?125487')"
 p5
 atp6
 Rp7
@@ -48,9 +48,9 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(234, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(basali|basalis)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(234, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(basali|basalis)\\\\b')"
 p30
 atp31
 Rp32
@@ -62,9 +62,9 @@ sS'agonists'
 p35
 g3
 ((lp36
-S"(155, u'\\\\bmem')"
+S"(197, u'\\\\bbimu ?8')"
 p37
-aS"(201, u'\\\\bbimu ?8')"
+aS"(149, u'\\\\bmem')"
 p38
 atp39
 Rp40
@@ -72,22 +72,12 @@ sS'species'
 p41
 g3
 ((lp42
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p43
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p44
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p45
-aS"(3062, u'(?i)(guineas|guinea)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p49
-aS"(821, u'(?i)(lice|louse)')"
-p50
-atp51
-Rp52
+atp46
+Rp47
 sb.

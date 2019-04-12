@@ -8,114 +8,86 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(31, u'\\\\bway ?100635')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(52, u'\\\\bmdl ?100907')"
 p6
-aS"(93, u'\\\\bsb ?200646')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(128, u'\\\\bketanserin')"
+aS"(99, u'\\\\bsb ?242084')"
 p8
-aS"(200, u'\\\\bmesulergine')"
+aS"(193, u'\\\\bmesulergine')"
 p9
-aS"(110, u'\\\\bsb ?242084')"
+aS"(48, u'\\\\btrazodone')"
 p10
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(97, u'\\\\bsb ?200646')"
 p11
-aS"(50, u'\\\\btrazodone')"
-p12
-atp13
-Rp14
+atp12
+Rp13
 sS'methods'
-p15
+p14
 g3
-((lp16
+((lp15
 S'Method.ANTAGONIST'
-p17
+p16
 aS'Method.AGONIST'
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'topics'
-p21
+p20
 g3
-((lp22
-tp23
-Rp24
+((lp21
+tp22
+Rp23
 sS'receptors'
-p25
+p24
 g3
-((lp26
+((lp25
 S'5ht1a'
-p27
+p26
 aS'5ht2b'
-p28
+p27
 aS'5ht2c'
-p29
+p28
 aS'5ht2a'
-p30
-atp31
-Rp32
+p29
+atp30
+Rp31
 sS'regions'
-p33
+p32
 g3
-((lp34
-S"(34, u'(?i)(pon|pons)')"
-p35
-atp36
-Rp37
+((lp33
+tp34
+Rp35
 sS'year'
-p38
+p36
 V2000
-p39
+p37
 sS'agonists'
+p38
+g3
+((lp39
+S"(65, u'\\\\brauwolscine')"
 p40
-g3
-((lp41
-S"(72, u'\\\\brauwolscine')"
+aS"(165, u'\\\\bmesulergine')"
+p41
+aS"(75, u'\\\\btrazodone')"
 p42
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p43
-aS"(82, u'\\\\btrazodone')"
+aS"(175, u'\\\\bdoi')"
 p44
-aS"(171, u'\\\\bmesulergine')"
-p45
-aS"(33, u'\\\\bdoi')"
-p46
-atp47
-Rp48
+atp45
+Rp46
 sS'species'
-p49
+p47
 g3
-((lp50
-S"(6753, u'(?i)(da|das)')"
-p51
-aS"(2568, u'(?i)(hens|hen)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(468, u'(?i)(oxen|ox)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(4964, u'(?i)(serins|serin)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(3522, u'(?i)(tetras|tetra)')"
-p59
-aS"(1057, u'(?i)(humans|human)')"
-p60
-aS"(3812, u'(?i)(studs|stud)')"
-p61
-aS"(3196, u'(?i)(human|humans)')"
-p62
-aS"(6878, u'(?i)(guans|guan)')"
-p63
-aS"(821, u'(?i)(lice|louse)')"
-p64
-atp65
-Rp66
+((lp48
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p49
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p50
+atp51
+Rp52
 sb.

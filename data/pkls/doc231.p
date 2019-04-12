@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(27, u'\\\\bspiperone')"
-p6
 aS"(14, u'\\\\bmethiothepin')"
+p6
+aS"(31, u'\\\\bway ?100635')"
 p7
 atp8
 Rp9
@@ -58,13 +58,13 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
+S"(20, u'\\\\bbuspirone')"
 p35
-aS"(24, u'\\\\bbuspirone')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p36
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p37
-aS"(33, u'\\\\bdoi')"
+aS"(175, u'\\\\bdoi')"
 p38
 atp39
 Rp40
@@ -72,28 +72,8 @@ sS'species'
 p41
 g3
 ((lp42
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(2568, u'(?i)(hens|hen)')"
-p44
-aS"(7552, u'(?i)(bats|bat)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(5838, u'(?i)(cubs|cub)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(3522, u'(?i)(tetras|tetra)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-atp54
-Rp55
+atp44
+Rp45
 sb.

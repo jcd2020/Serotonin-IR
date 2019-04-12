@@ -8,17 +8,17 @@ c__builtin__
 set
 p3
 ((lp4
-S"(51, u'\\\\bmirtazapine')"
+S"(84, u'\\\\bsb ?206553')"
 p5
-aS"(110, u'\\\\bsb ?242084')"
+aS"(133, u'\\\\bmianserin')"
 p6
-aS"(102, u'\\\\bfluoxetine')"
+aS"(134, u'\\\\bmirtazapine')"
 p7
-aS"(50, u'\\\\btrazodone')"
+aS"(99, u'\\\\bsb ?242084')"
 p8
-aS"(117, u'\\\\bmianserin')"
+aS"(48, u'\\\\btrazodone')"
 p9
-aS"(95, u'\\\\bsb ?206553')"
+aS"(91, u'\\\\bfluoxetine')"
 p10
 atp11
 Rp12
@@ -42,74 +42,42 @@ sS'receptors'
 p23
 g3
 ((lp24
-S'5ht5'
+S'5ht2c'
 p25
-aS'5ht2c'
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'year'
-p33
+p32
 V2010
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(181, u'\\\\bdom')"
+((lp35
+S"(176, u'\\\\bdom')"
+p36
+aS"(75, u'\\\\btrazodone')"
 p37
-aS"(82, u'\\\\btrazodone')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(2323, u'(?i)(bees|bee)')"
+((lp41
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p42
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p43
-aS"(6753, u'(?i)(da|das)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p44
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(867, u'(?i)(tits|tit)')"
-p47
-aS"(163, u'(?i)(mice|mouse)')"
-p48
-aS"(479, u'(?i)(lings|ling)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(937, u'(?i)(kids|kid)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(853, u'(?i)(minas|mina)')"
-p55
-aS"(2395, u'(?i)(mutants|mutant)')"
-p56
-aS"(3522, u'(?i)(tetras|tetra)')"
-p57
-aS"(1057, u'(?i)(humans|human)')"
-p58
-aS"(1266, u'(?i)(embryos|embryo)')"
-p59
-aS"(3196, u'(?i)(human|humans)')"
-p60
-aS"(4964, u'(?i)(serins|serin)')"
-p61
-atp62
-Rp63
+atp46
+Rp47
 sb.

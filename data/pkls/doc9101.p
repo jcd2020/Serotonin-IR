@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(38, u'\\\\bsb ?216641')"
+S"(37, u'\\\\bsb ?216641')"
 p5
-aS"(45, u'\\\\bgr ?127935')"
+aS"(43, u'\\\\bgr ?127935')"
 p6
-aS"(39, u'\\\\bsb ?224289')"
+aS"(38, u'\\\\bsb ?224289')"
 p7
 atp8
 Rp9
@@ -38,72 +38,44 @@ g3
 ((lp21
 S'5ht1b'
 p22
-aS'5ht5'
-p23
 aS'5ht1f'
-p24
+p23
 aS'5ht1'
-p25
+p24
 aS'5ht1d'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+((lp29
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p35
+p33
 V2011
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(120, u'\\\\bly344864')"
 p37
-g3
-((lp38
-S"(104, u'\\\\bzolmitriptan')"
+aS"(149, u'\\\\bmem')"
+p38
+aS"(97, u'\\\\bzolmitriptan')"
 p39
-aS"(155, u'\\\\bmem')"
-p40
-aS"(127, u'\\\\bly344864')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(6753, u'(?i)(da|das)')"
-p46
-aS"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(867, u'(?i)(tits|tit)')"
-p49
-aS"(3767, u'(?i)(olms|olm)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(2665, u'(?i)(rays|ray)')"
-p52
-aS"(853, u'(?i)(minas|mina)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(7094, u'(?i)(curs|cur)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(4979, u'(?i)(cats|cat)')"
-p58
-atp59
-Rp60
+((lp43
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

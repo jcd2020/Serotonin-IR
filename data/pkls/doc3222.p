@@ -52,9 +52,9 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(161, u'\\\\bmcpp')"
+S"(39, u'\\\\bflesinoxan')"
 p32
-aS"(44, u'\\\\bflesinoxan')"
+aS"(155, u'\\\\bmcpp')"
 p33
 atp34
 Rp35
@@ -62,30 +62,8 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2670, u'(?i)(arabs|arab)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(5131, u'(?i)(hags|hag)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+atp39
+Rp40
 sb.

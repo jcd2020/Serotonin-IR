@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(170, u'\\\\blorcaserin')"
+S"(164, u'\\\\blorcaserin')"
 p31
 atp32
 Rp33
@@ -58,34 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(1070, u'(?i)(pets|pet)')"
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(867, u'(?i)(tits|tit)')"
-p39
-aS"(4979, u'(?i)(cats|cat)')"
-p40
-aS"(4091, u'(?i)(adults|adult)')"
-p41
-aS"(6016, u'(?i)(orcas|orca)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(4964, u'(?i)(serins|serin)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-atp50
-Rp51
+atp37
+Rp38
 sb.

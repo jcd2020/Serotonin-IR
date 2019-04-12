@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100135')"
+S"(30, u'\\\\bway ?100135')"
 p5
 atp6
 Rp7
@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(76, u'\\\\bsarizotan')"
+S"(69, u'\\\\bsarizotan')"
 p31
 atp32
 Rp33
@@ -58,24 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(4201, u'(?i)(kines|kine)')"
-p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(3726, u'(?i)(mates|mate)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(391, u'(?i)(alli|allis)')"
-p44
-atp45
-Rp46
+atp37
+Rp38
 sb.

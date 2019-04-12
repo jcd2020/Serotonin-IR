@@ -30,58 +30,38 @@ g3
 ((lp17
 S'5ht3a'
 p18
-aS'5ht5'
-p19
 aS'5ht3'
-p20
+p19
 aS'5ht3b'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-tp26
-Rp27
+((lp24
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2002
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(2323, u'(?i)(bees|bee)')"
+((lp34
+S"(2621, u'(?i)\\\\b(vertebrates|vertebrate)\\\\b')"
+p35
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p37
-aS"(931, u'(?i)(divers|diver)')"
-p38
-aS"(5743, u'(?i)(bots|bot)')"
-p39
-aS"(4163, u'(?i)(ermines|ermine)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3152, u'(?i)(layers|layer)')"
-p43
-aS"(1054, u'(?i)(homoes|homo)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(2621, u'(?i)(vertebrates|vertebrate)')"
-p47
-atp48
-Rp49
+atp38
+Rp39
 sb.

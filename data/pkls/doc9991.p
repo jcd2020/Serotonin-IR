@@ -38,60 +38,30 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2009
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(2323, u'(?i)(bees|bee)')"
+((lp33
+S"(1795, u'(?i)\\\\b(mounts|mount)\\\\b')"
+p34
+aS"(1266, u'(?i)\\\\b(embryos|embryo)\\\\b')"
 p35
-aS"(6753, u'(?i)(da|das)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p36
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(479, u'(?i)(lings|ling)')"
-p40
-aS"(4091, u'(?i)(adults|adult)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(107, u'(?i)(stags|stag)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(5229, u'(?i)(moles|mole)')"
-p47
-aS"(1266, u'(?i)(embryos|embryo)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(391, u'(?i)(alli|allis)')"
-p51
-aS"(1795, u'(?i)(mounts|mount)')"
-p52
-atp53
-Rp54
+atp38
+Rp39
 sb.

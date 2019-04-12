@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(114, u'\\\\bimipramine')"
+S"(104, u'\\\\bimipramine')"
 p5
 atp6
 Rp7
@@ -34,74 +34,42 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht1a'
 p21
-aS'5ht1a'
-p22
 aS'5ht2b'
-p23
+p22
 aS'5ht2'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
-p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+((lp28
+tp29
+Rp30
 sS'year'
-p34
+p31
 V2014
-p35
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(158, u'\\\\blsd')"
+p35
+aS"(49, u'\\\\blysergic acid diethylamide')"
 p36
-g3
-((lp37
-S"(56, u'\\\\blsd')"
-p38
-aS"(55, u'\\\\blysergic acid diethylamide')"
-p39
-atp40
-Rp41
+atp37
+Rp38
 sS'species'
-p42
+p39
 g3
-((lp43
-S"(5537, u'(?i)(hippos|hippo)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(3426, u'(?i)(hares|hare)')"
-p53
-aS"(6857, u'(?i)(ormers|ormer)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(391, u'(?i)(alli|allis)')"
-p56
-aS"(2809, u'(?i)(toms|tom)')"
-p57
-atp58
-Rp59
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

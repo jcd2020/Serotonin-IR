@@ -46,58 +46,30 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(126, u'(?i)(thalamuses|thalamus)')"
+S"(171, u'(?i)\\\\b(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(171, u'(?i)(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'year'
-p33
+p31
 V2018
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(18, u'\\\\bbrexpiprazole')"
 p35
-g3
-((lp36
-S"(22, u'\\\\bbrexpiprazole')"
-p37
-atp38
-Rp39
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(5537, u'(?i)(hippos|hippo)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(6115, u'(?i)(predators|predator)')"
-p46
-aS"(3592, u'(?i)(ravens|raven)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(1349, u'(?i)(rams|ram)')"
-p54
-aS"(2809, u'(?i)(toms|tom)')"
-p55
-atp56
-Rp57
+((lp39
+S"(6115, u'(?i)\\\\b(predators|predator)\\\\b')"
+p40
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

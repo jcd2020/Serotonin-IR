@@ -8,112 +8,88 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(130, u'\\\\bzacopride')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
-aS"(141, u'\\\\bzacopride')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(102, u'\\\\bfluoxetine')"
+aS"(194, u'\\\\bmethysergide')"
 p8
-aS"(105, u'\\\\bmethysergide')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
+p13
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
-tp20
-Rp21
+((lp18
+tp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
-S'5ht5'
-p24
-aS'5ht3'
-p25
-aS'5ht2'
-p26
-aS'5ht1'
-p27
-aS'5ht2a'
-p28
-aS'5ht1a'
-p29
-aS'5ht2b'
-p30
+((lp22
+S'5ht1a'
+p23
 aS'5ht3a'
-p31
-atp32
-Rp33
+p24
+aS'5ht2'
+p25
+aS'5ht1'
+p26
+aS'5ht2a'
+p27
+aS'5ht2b'
+p28
+aS'5ht3'
+p29
+atp30
+Rp31
 sS'regions'
+p32
+g3
+((lp33
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p34
-g3
-((lp35
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
-p36
-aS"(34, u'(?i)(pon|pons)')"
-p37
-atp38
-Rp39
+atp35
+Rp36
 sS'year'
-p40
+p37
 V1990
-p41
+p38
 sS'agonists'
+p39
+g3
+((lp40
+S"(20, u'\\\\bbuspirone')"
+p41
+aS"(208, u'\\\\bzacopride')"
 p42
-g3
-((lp43
-S"(74, u'\\\\bru ?24969')"
+aS"(53, u'\\\\bmethysergide')"
+p43
+aS"(67, u'\\\\bru ?24969')"
 p44
-aS"(24, u'\\\\bbuspirone')"
+aS"(175, u'\\\\bdoi')"
 p45
-aS"(212, u'\\\\bzacopride')"
-p46
-aS"(60, u'\\\\bmethysergide')"
-p47
-aS"(33, u'\\\\bdoi')"
-p48
-atp49
-Rp50
+atp46
+Rp47
 sS'species'
-p51
+p48
 g3
-((lp52
-S"(2323, u'(?i)(bees|bee)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-aS"(468, u'(?i)(oxen|ox)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(4964, u'(?i)(serins|serin)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-aS"(7058, u'(?i)(does|doe)')"
-p60
-aS"(1961, u'(?i)(pens|pen)')"
-p61
-aS"(3812, u'(?i)(studs|stud)')"
-p62
-aS"(6356, u'(?i)(ais|ai)')"
-p63
-atp64
-Rp65
+((lp49
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p50
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
 sb.

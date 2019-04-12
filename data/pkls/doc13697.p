@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bgranisetron')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(135, u'\\\\bondansetron')"
+aS"(99, u'\\\\bsb ?242084')"
 p6
-aS"(110, u'\\\\bsb ?242084')"
+aS"(123, u'\\\\bgranisetron')"
 p7
 atp8
 Rp9
@@ -48,58 +48,26 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+tp29
+Rp30
 sS'year'
-p33
+p31
 V2010
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(155, u'\\\\bmcpp')"
 p35
-g3
-((lp36
-S"(161, u'\\\\bmcpp')"
-p37
-atp38
-Rp39
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(1070, u'(?i)(pets|pet)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(867, u'(?i)(tits|tit)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(6215, u'(?i)(racers|racer)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(6981, u'(?i)(moths|moth)')"
-p53
-aS"(1488, u'(?i)(yaks|yak)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+((lp39
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

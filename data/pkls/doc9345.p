@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(197, u'\\\\blurasidone')"
+S"(35, u'\\\\baripiprazole')"
 p5
-aS"(83, u'\\\\bcariprazine')"
+aS"(190, u'\\\\blurasidone')"
 p6
-aS"(36, u'\\\\baripiprazole')"
+aS"(74, u'\\\\bcariprazine')"
 p7
 atp8
 Rp9
@@ -44,72 +44,40 @@ g3
 ((lp24
 S'5ht1a'
 p25
-aS'5ht5'
-p26
 aS'5ht1d'
-p27
-atp28
-Rp29
+p26
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-S"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+((lp30
+tp31
+Rp32
 sS'year'
-p35
+p33
 V2010
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(47, u'\\\\blurasidone')"
 p37
-g3
-((lp38
-S"(66, u'\\\\bperospirone')"
+aS"(223, u'\\\\baripiprazole')"
+p38
+aS"(59, u'\\\\bperospirone')"
 p39
-aS"(53, u'\\\\blurasidone')"
+aS"(22, u'\\\\bcariprazine')"
 p40
-aS"(16, u'\\\\baripiprazole')"
-p41
-aS"(26, u'\\\\bcariprazine')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(2323, u'(?i)(bees|bee)')"
-p47
-aS"(4624, u'(?i)(apes|ape)')"
-p48
-aS"(5799, u'(?i)(rodents|rodent)')"
-p49
-aS"(2568, u'(?i)(hens|hen)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(1349, u'(?i)(rams|ram)')"
-p56
-aS"(4979, u'(?i)(cats|cat)')"
-p57
-aS"(5958, u'(?i)(rats|rat)')"
-p58
-aS"(7094, u'(?i)(curs|cur)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-aS"(2809, u'(?i)(toms|tom)')"
-p61
-atp62
-Rp63
+((lp44
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p45
+atp46
+Rp47
 sb.

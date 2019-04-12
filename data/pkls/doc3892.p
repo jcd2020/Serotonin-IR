@@ -10,7 +10,7 @@ p3
 ((lp4
 S"(1, u'\\\\balprenolol')"
 p5
-aS"(142, u'\\\\bm1')"
+aS"(131, u'\\\\bm1')"
 p6
 atp7
 Rp8
@@ -54,11 +54,11 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(20, u'\\\\bbuspirone')"
 p33
-aS"(8, u'\\\\b5 ?meo ?dmt')"
+aS"(179, u'\\\\b5 ?meo ?dmt')"
 p34
-aS"(24, u'\\\\bbuspirone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p35
 atp36
 Rp37
@@ -66,42 +66,10 @@ sS'species'
 p38
 g3
 ((lp39
-S"(1070, u'(?i)(pets|pet)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p41
-aS"(867, u'(?i)(tits|tit)')"
-p42
-aS"(7552, u'(?i)(bats|bat)')"
-p43
-aS"(5551, u'(?i)(owls|owl)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6224, u'(?i)(fowls|fowl)')"
-p47
-aS"(3404, u'(?i)(titis|titi)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(5838, u'(?i)(cubs|cub)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(3522, u'(?i)(tetras|tetra)')"
-p52
-aS"(1057, u'(?i)(humans|human)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(3196, u'(?i)(human|humans)')"
-p55
-aS"(2809, u'(?i)(toms|tom)')"
-p56
-aS"(7488, u'(?i)(molas|mola)')"
-p57
-atp58
-Rp59
+atp42
+Rp43
 sb.

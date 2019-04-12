@@ -36,52 +36,28 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2014
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-S"(169, u'\\\\bfenfluramine')"
-p30
-atp31
-Rp32
+((lp28
+S"(163, u'\\\\bfenfluramine')"
+p29
+atp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(6753, u'(?i)(da|das)')"
+((lp33
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p34
+aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
 p35
-aS"(2568, u'(?i)(hens|hen)')"
-p36
-aS"(4979, u'(?i)(cats|cat)')"
-p37
-aS"(5967, u'(?i)(males|male)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(853, u'(?i)(minas|mina)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(7094, u'(?i)(curs|cur)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6521, u'(?i)(macaques|macaque)')"
-p47
-atp48
-Rp49
+atp36
+Rp37
 sb.

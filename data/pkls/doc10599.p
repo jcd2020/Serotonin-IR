@@ -36,52 +36,26 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'year'
-p26
+p25
 V1993
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-S"(50, u'\\\\bipsapirone')"
-p30
-atp31
-Rp32
+((lp28
+S"(45, u'\\\\bipsapirone')"
+p29
+atp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(5958, u'(?i)(rats|rat)')"
-p35
-aS"(479, u'(?i)(lings|ling)')"
-p36
-aS"(5967, u'(?i)(males|male)')"
-p37
-aS"(4163, u'(?i)(ermines|ermine)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(1349, u'(?i)(rams|ram)')"
-p40
-aS"(2334, u'(?i)(eels|eel)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(7127, u'(?i)(monitors|monitor)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-atp48
-Rp49
+((lp33
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p34
+atp35
+Rp36
 sb.

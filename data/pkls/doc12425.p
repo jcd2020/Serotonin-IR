@@ -36,58 +36,30 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p23
-aS"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'year'
-p27
+p26
 V2003
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp33
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p34
+aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p35
-aS"(2054, u'(?i)(heads|head)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(2568, u'(?i)(hens|hen)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(479, u'(?i)(lings|ling)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(6215, u'(?i)(racers|racer)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(7058, u'(?i)(does|doe)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(1345, u'(?i)(boas|boa)')"
-p49
-aS"(1085, u'(?i)(boars|boar)')"
-p50
-atp51
-Rp52
+atp37
+Rp38
 sb.

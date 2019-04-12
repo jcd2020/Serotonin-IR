@@ -56,9 +56,9 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(8, u'\\\\b5 ?meo ?dmt')"
+S"(179, u'\\\\b5 ?meo ?dmt')"
 p34
-aS"(14, u'\\\\bamphetamine')"
+aS"(11, u'\\\\bamphetamine')"
 p35
 atp36
 Rp37
@@ -66,30 +66,8 @@ sS'species'
 p38
 g3
 ((lp39
-S"(6753, u'(?i)(da|das)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(163, u'(?i)(mice|mouse)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(81, u'(?i)(asps|asp)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+atp41
+Rp42
 sb.

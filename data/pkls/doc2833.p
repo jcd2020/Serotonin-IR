@@ -56,28 +56,6 @@ sS'species'
 p33
 g3
 ((lp34
-S"(5537, u'(?i)(hippos|hippo)')"
-p35
-aS"(2568, u'(?i)(hens|hen)')"
-p36
-aS"(1049, u'(?i)(elands|eland)')"
-p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(2183, u'(?i)(gars|gar)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(1961, u'(?i)(pens|pen)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(5783, u'(?i)(hinds|hind)')"
-p45
-atp46
-Rp47
+tp35
+Rp36
 sb.

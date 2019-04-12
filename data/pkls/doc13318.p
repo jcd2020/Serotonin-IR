@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(185, u'\\\\bsb ?399885')"
+S"(177, u'\\\\bsb ?399885')"
 p5
 atp6
 Rp7
@@ -54,46 +54,14 @@ sS'species'
 p32
 g3
 ((lp33
-S"(4624, u'(?i)(apes|ape)')"
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p34
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p35
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(5917, u'(?i)(roaches|roach)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p37
-aS"(7539, u'(?i)(mammals|mammal)')"
-p38
-aS"(1725, u'(?i)(clams|clam)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1349, u'(?i)(rams|ram)')"
-p41
-aS"(3726, u'(?i)(mates|mate)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(1249, u'(?i)(carp|carp)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(1057, u'(?i)(humans|human)')"
-p48
-aS"(5229, u'(?i)(moles|mole)')"
-p49
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(1683, u'(?i)(terns|tern)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-atp54
-Rp55
+atp38
+Rp39
 sb.

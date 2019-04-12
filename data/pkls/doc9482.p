@@ -34,7 +34,7 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(389, u'(?i)(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)')"
+S"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
 p22
 atp23
 Rp24
@@ -52,34 +52,20 @@ sS'species'
 p31
 g3
 ((lp32
-S"(2323, u'(?i)(bees|bee)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p33
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p34
-aS"(6125, u'(?i)(females|female)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p35
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p36
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p37
-aS"(4091, u'(?i)(adults|adult)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(5967, u'(?i)(males|male)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6580, u'(?i)(dams|dam)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(1057, u'(?i)(humans|human)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(3196, u'(?i)(human|humans)')"
-p46
-atp47
-Rp48
+atp40
+Rp41
 sb.

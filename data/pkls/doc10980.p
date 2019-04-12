@@ -28,50 +28,40 @@ g3
 ((lp16
 S'5ht1b'
 p17
-aS'5ht5'
-p18
 aS'5ht2'
-p19
+p18
 aS'5ht2a'
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p25
-atp26
-Rp27
+((lp23
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p24
+atp25
+Rp26
 sS'year'
-p28
+p27
 V1992
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(3248, u'(?i)(offspring|offspring)')"
+((lp34
+S"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
+p35
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p37
-aS"(1349, u'(?i)(rams|ram)')"
-p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(3722, u'(?i)(pups|pup)')"
-p42
-atp43
-Rp44
+atp38
+Rp39
 sb.

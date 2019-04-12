@@ -30,64 +30,34 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht1a'
 p19
-aS'5ht1a'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+((lp23
+tp24
+Rp25
 sS'year'
-p28
+p26
 V2010
-p29
+p27
 sS'agonists'
-p30
+p28
 g3
-((lp31
-tp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'species'
-p34
+p32
 g3
-((lp35
-S"(1070, u'(?i)(pets|pet)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(3601, u'(?i)(efts|eft)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(2389, u'(?i)(spats|spat)')"
-p40
-aS"(4371, u'(?i)(lizas|liza)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(1349, u'(?i)(rams|ram)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(3592, u'(?i)(ravens|raven)')"
-p48
-aS"(5863, u'(?i)(entires|entire)')"
-p49
-aS"(7552, u'(?i)(bats|bat)')"
-p50
-atp51
-Rp52
+((lp33
+S"(5863, u'(?i)\\\\b(entires|entire)\\\\b')"
+p34
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

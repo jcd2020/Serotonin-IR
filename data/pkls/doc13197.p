@@ -34,7 +34,7 @@ g3
 ((lp19
 S'5ht1b'
 p20
-aS'5ht5'
+aS'5ht3b'
 p21
 aS'5ht3'
 p22
@@ -42,88 +42,42 @@ aS'5ht2c'
 p23
 aS'5ht6'
 p24
-aS'5ht3b'
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp28
+S"(171, u'(?i)\\\\b(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p31
-aS"(171, u'(?i)(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-aS"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V2015
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(164, u'\\\\blorcaserin')"
 p38
-g3
-((lp39
-S"(169, u'\\\\bfenfluramine')"
-p40
-aS"(170, u'\\\\blorcaserin')"
-p41
-atp42
-Rp43
+aS"(163, u'\\\\bfenfluramine')"
+p39
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(3592, u'(?i)(ravens|raven)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(1070, u'(?i)(pets|pet)')"
-p50
-aS"(479, u'(?i)(lings|ling)')"
-p51
-aS"(5551, u'(?i)(owls|owl)')"
-p52
-aS"(1349, u'(?i)(rams|ram)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(4520, u'(?i)(agoutis|agouti)')"
-p55
-aS"(2670, u'(?i)(arabs|arab)')"
-p56
-aS"(5958, u'(?i)(rats|rat)')"
-p57
-aS"(867, u'(?i)(tits|tit)')"
-p58
-aS"(6682, u'(?i)(tera|teras)')"
-p59
-aS"(1055, u'(?i)(men|man)')"
-p60
-aS"(5176, u'(?i)(tegs|teg)')"
-p61
-aS"(6016, u'(?i)(orcas|orca)')"
-p62
-aS"(5949, u'(?i)(dogs|dog)')"
-p63
-aS"(2323, u'(?i)(bees|bee)')"
-p64
-aS"(5799, u'(?i)(rodents|rodent)')"
-p65
-aS"(4979, u'(?i)(cats|cat)')"
-p66
-aS"(4964, u'(?i)(serins|serin)')"
-p67
-aS"(5917, u'(?i)(roaches|roach)')"
-p68
-atp69
-Rp70
+((lp43
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p44
+aS"(4520, u'(?i)\\\\b(agoutis|agouti)\\\\b')"
+p45
+atp46
+Rp47
 sb.

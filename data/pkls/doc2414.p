@@ -52,56 +52,32 @@ sS'regions'
 p29
 g3
 ((lp30
-S"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+tp31
+Rp32
 sS'year'
-p34
+p33
 V1990
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(155, u'\\\\bmem')"
-p38
-atp39
-Rp40
+((lp36
+S"(149, u'\\\\bmem')"
+p37
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(2970, u'(?i)(trematodes|trematode)')"
+((lp41
+S"(2660, u'(?i)\\\\b(fasciolas|fasciola)(-|\\\\s+)?(hepaticas|hepatica)\\\\b')"
+p42
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(2970, u'(?i)\\\\b(trematodes|trematode)\\\\b')"
 p44
-aS"(6878, u'(?i)(guans|guan)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(867, u'(?i)(tits|tit)')"
-p46
-aS"(2660, u'(?i)(fasciolas|fasciola)(-|\\\\s+)?(hepaticas|hepatica)')"
-p47
-aS"(3051, u'(?i)(pigs|pig)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(107, u'(?i)(stags|stag)')"
-p51
-aS"(1054, u'(?i)(homoes|homo)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(1414, u'(?i)(chars|char)')"
-p55
-aS"(2809, u'(?i)(toms|tom)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+atp46
+Rp47
 sb.

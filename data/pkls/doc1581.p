@@ -38,40 +38,24 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2015
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(6249, u'(?i)(ants|ant)')"
-p36
-aS"(479, u'(?i)(lings|ling)')"
-p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(3726, u'(?i)(mates|mate)')"
-p39
-aS"(853, u'(?i)(minas|mina)')"
-p40
-aS"(3550, u'(?i)(anis|ani)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-atp43
-Rp44
+((lp34
+tp35
+Rp36
 sb.

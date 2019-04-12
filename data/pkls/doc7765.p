@@ -38,11 +38,11 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p24
-aS"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
+aS"(5, u'(?i)\\\\b(inferiors|inferior)(-|\\\\s+)?(olivaries|olivary)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(5, u'(?i)(inferiors|inferior)(-|\\\\s+)?(olivaries|olivary)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,30 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(6249, u'(?i)(ants|ant)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p37
-aS"(867, u'(?i)(tits|tit)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(2725, u'(?i)(mokes|moke)')"
-p40
-aS"(2183, u'(?i)(gars|gar)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(1057, u'(?i)(humans|human)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(3196, u'(?i)(human|humans)')"
-p48
-atp49
-Rp50
+atp39
+Rp40
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(105, u'\\\\bmethysergide')"
+S"(133, u'\\\\bmianserin')"
 p5
-aS"(117, u'\\\\bmianserin')"
+aS"(194, u'\\\\bmethysergide')"
 p6
 atp7
 Rp8
@@ -38,74 +38,44 @@ sS'receptors'
 p21
 g3
 ((lp22
-S'5ht5'
+S'5ht2c'
 p23
-aS'5ht2c'
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V2010
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(166, u'\\\\bmk ?212')"
 p34
-g3
-((lp35
-S"(55, u'\\\\blysergic acid diethylamide')"
+aS"(49, u'\\\\blysergic acid diethylamide')"
+p35
+aS"(53, u'\\\\bmethysergide')"
 p36
-aS"(172, u'\\\\bmk ?212')"
+aS"(149, u'\\\\bmem')"
 p37
-aS"(155, u'\\\\bmem')"
-p38
-aS"(60, u'\\\\bmethysergide')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
+((lp41
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p42
+aS"(3280, u'(?i)\\\\b(dippers|dipper)\\\\b')"
+p43
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p44
-aS"(4624, u'(?i)(apes|ape)')"
-p45
-aS"(5799, u'(?i)(rodents|rodent)')"
-p46
-aS"(3280, u'(?i)(dippers|dipper)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(163, u'(?i)(mice|mouse)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(4964, u'(?i)(serins|serin)')"
-p55
-aS"(2568, u'(?i)(hens|hen)')"
-p56
-aS"(7094, u'(?i)(curs|cur)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(4979, u'(?i)(cats|cat)')"
-p59
-atp60
-Rp61
+atp45
+Rp46
 sb.

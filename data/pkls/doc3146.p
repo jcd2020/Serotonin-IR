@@ -34,56 +34,30 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p22
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p23
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2006
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(181, u'\\\\bdom')"
-p32
-atp33
-Rp34
+((lp30
+S"(176, u'\\\\bdom')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(2323, u'(?i)(bees|bee)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(6356, u'(?i)(ais|ai)')"
-p39
-aS"(7609, u'(?i)(erns|ern)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(1054, u'(?i)(homoes|homo)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(3048, u'(?i)(hogs|hog)')"
-p47
-aS"(1683, u'(?i)(terns|tern)')"
-p48
-atp49
-Rp50
+((lp35
+tp36
+Rp37
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(204, u'\\\\bsb ?269970')"
+S"(198, u'\\\\bsb ?269970')"
 p5
 atp6
 Rp7
@@ -36,90 +36,54 @@ S'5ht7'
 p20
 aS'5ht1b'
 p21
-aS'5ht5'
-p22
 aS'5ht1a'
-p23
+p22
 aS'5ht2'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(118, u'(?i)(diencephalons|diencephalon)')"
-p29
-atp30
-Rp31
+((lp27
+S"(118, u'(?i)\\\\b(diencephalons|diencephalon)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2010
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp34
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p35
+aS"(105, u'\\\\b5 ?nonyloxytryptamine')"
 p36
-aS"(112, u'\\\\b5 ?nonyloxytryptamine')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(3592, u'(?i)(ravens|raven)')"
+((lp40
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p41
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(937, u'(?i)(kids|kid)')"
+aS"(3883, u'(?i)\\\\b(teleosts|teleost)\\\\b')"
 p43
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(2621, u'(?i)\\\\b(vertebrates|vertebrate)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
 p45
-aS"(1396, u'(?i)(toads|toad)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p46
-aS"(5229, u'(?i)(moles|mole)')"
+aS"(5747, u'(?i)\\\\b(toadfish|toadfish)\\\\b')"
 p47
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3882, u'(?i)\\\\b(teleosts|teleost)(-|\\\\s+)?(fish|fish)\\\\b')"
 p48
-aS"(3196, u'(?i)(human|humans)')"
-p49
-aS"(3882, u'(?i)(teleosts|teleost)(-|\\\\s+)?(fish|fish)')"
-p50
-aS"(4657, u'(?i)(fish|fish)')"
-p51
-aS"(7539, u'(?i)(mammals|mammal)')"
-p52
-aS"(81, u'(?i)(asps|asp)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(2621, u'(?i)(vertebrates|vertebrate)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(5747, u'(?i)(toadfish|toadfish)')"
-p57
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p58
-aS"(1055, u'(?i)(men|man)')"
-p59
-aS"(4979, u'(?i)(cats|cat)')"
-p60
-aS"(1057, u'(?i)(humans|human)')"
-p61
-aS"(2323, u'(?i)(bees|bee)')"
-p62
-aS"(2568, u'(?i)(hens|hen)')"
-p63
-aS"(6753, u'(?i)(da|das)')"
-p64
-aS"(1054, u'(?i)(homoes|homo)')"
-p65
-aS"(3883, u'(?i)(teleosts|teleost)')"
-p66
-atp67
-Rp68
+atp49
+Rp50
 sb.

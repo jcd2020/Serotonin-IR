@@ -36,58 +36,30 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p23
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2011
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(1070, u'(?i)(pets|pet)')"
+((lp34
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p35
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p36
-aS"(2323, u'(?i)(bees|bee)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(7609, u'(?i)(erns|ern)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(5551, u'(?i)(owls|owl)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(7094, u'(?i)(curs|cur)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(2809, u'(?i)(toms|tom)')"
-p48
-aS"(6325, u'(?i)(caudates|caudate)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp37
+Rp38
 sb.

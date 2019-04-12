@@ -28,64 +28,34 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht1a'
 p18
-aS'5ht1a'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-tp24
-Rp25
+((lp22
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2006
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-S"(193, u'\\\\bethanol')"
-p30
-atp31
-Rp32
+((lp28
+S"(189, u'\\\\bethanol')"
+p29
+atp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(2323, u'(?i)(bees|bee)')"
-p35
-aS"(5537, u'(?i)(hippos|hippo)')"
-p36
-aS"(949, u'(?i)(cohoes|coho)')"
-p37
-aS"(702, u'(?i)(genets|genet)')"
-p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(3522, u'(?i)(tetras|tetra)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6878, u'(?i)(guans|guan)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-atp50
-Rp51
+((lp33
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p34
+atp35
+Rp36
 sb.

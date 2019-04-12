@@ -8,114 +8,88 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(129, u'\\\\brenzapride')"
 p5
 aS"(14, u'\\\\bmethiothepin')"
 p6
-aS"(141, u'\\\\bzacopride')"
+aS"(124, u'\\\\bondansetron')"
 p7
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p8
-aS"(135, u'\\\\bondansetron')"
+aS"(130, u'\\\\bzacopride')"
 p9
-aS"(140, u'\\\\brenzapride')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.ANTAGONIST'
-p15
+p14
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
-tp21
-Rp22
+((lp19
+tp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht1a'
-p25
+p24
 aS'5ht4'
-p26
-aS'5ht3'
-p27
-aS'5ht1'
-p28
-aS'5ht2a'
-p29
-aS'5ht5'
-p30
+p25
 aS'5ht3a'
-p31
-atp32
-Rp33
+p26
+aS'5ht1'
+p27
+aS'5ht2a'
+p28
+aS'5ht3'
+p29
+atp30
+Rp31
 sS'regions'
-p34
+p32
 g3
-((lp35
-tp36
-Rp37
+((lp33
+tp34
+Rp35
 sS'year'
-p38
+p36
 V1992
-p39
+p37
 sS'agonists'
+p38
+g3
+((lp39
+S"(220, u'\\\\b5 ?methoxytryptamine')"
 p40
-g3
-((lp41
-S"(74, u'\\\\bru ?24969')"
+aS"(203, u'\\\\brenzapride')"
+p41
+aS"(222, u'\\\\b5 ?meot')"
 p42
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(197, u'\\\\bbimu ?8')"
 p43
-aS"(202, u'\\\\bcisapride')"
+aS"(198, u'\\\\bcisapride')"
 p44
-aS"(225, u'\\\\b5 ?meot')"
+aS"(208, u'\\\\bzacopride')"
 p45
-aS"(207, u'\\\\brenzapride')"
+aS"(67, u'\\\\bru ?24969')"
 p46
-aS"(212, u'\\\\bzacopride')"
-p47
-aS"(201, u'\\\\bbimu ?8')"
-p48
-atp49
-Rp50
+atp47
+Rp48
 sS'species'
-p51
+p49
 g3
-((lp52
-S"(6753, u'(?i)(da|das)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(163, u'(?i)(mice|mouse)')"
-p56
-aS"(468, u'(?i)(oxen|ox)')"
-p57
-aS"(7094, u'(?i)(curs|cur)')"
-p58
-aS"(4964, u'(?i)(serins|serin)')"
-p59
-aS"(3522, u'(?i)(tetras|tetra)')"
-p60
-aS"(1961, u'(?i)(pens|pen)')"
-p61
-aS"(3812, u'(?i)(studs|stud)')"
-p62
-aS"(6391, u'(?i)(asses|ass)')"
-p63
-aS"(4979, u'(?i)(cats|cat)')"
-p64
-atp65
-Rp66
+((lp50
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p51
+atp52
+Rp53
 sb.

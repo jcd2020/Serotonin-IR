@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
-aS"(45, u'\\\\bgr ?127935')"
+aS"(31, u'\\\\bway ?100635')"
 p7
 atp8
 Rp9
@@ -52,13 +52,13 @@ sS'regions'
 p29
 g3
 ((lp30
-S"(220, u'(?i)(striatums|striatum)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p31
-aS"(256, u'(?i)(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p32
-aS"(221, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)')"
+aS"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
 p33
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p34
 atp35
 Rp36
@@ -70,7 +70,7 @@ sS'agonists'
 p39
 g3
 ((lp40
-S"(74, u'\\\\bru ?24969')"
+S"(67, u'\\\\bru ?24969')"
 p41
 atp42
 Rp43
@@ -78,38 +78,8 @@ sS'species'
 p44
 g3
 ((lp45
-S"(1070, u'(?i)(pets|pet)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p46
-aS"(3404, u'(?i)(titis|titi)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(7609, u'(?i)(erns|ern)')"
-p49
-aS"(867, u'(?i)(tits|tit)')"
-p50
-aS"(163, u'(?i)(mice|mouse)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1349, u'(?i)(rams|ram)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(6391, u'(?i)(asses|ass)')"
-p60
-aS"(1683, u'(?i)(terns|tern)')"
-p61
-atp62
-Rp63
+atp47
+Rp48
 sb.

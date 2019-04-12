@@ -8,96 +8,70 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(21, u'\\\\bpindolol')"
 p5
-aS"(21, u'\\\\bpindolol')"
+aS"(119, u'\\\\britanserin')"
 p6
-aS"(130, u'\\\\britanserin')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(9, u'\\\\bdepress')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1b'
-p23
+p22
 aS'5ht2c'
-p24
+p23
 aS'5ht2'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(105, u'(?i)(par|pars)(-|\\\\s+)?(reticulatas|reticulata)')"
+((lp28
+S"(105, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(reticulatas|reticulata)\\\\b')"
+p29
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p30
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p31
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V1996
-p37
+p35
 sS'agonists'
-p38
+p36
 g3
-((lp39
-tp40
-Rp41
+((lp37
+tp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(1725, u'(?i)(clams|clam)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(4604, u'(?i)(mites|mite)')"
-p49
-aS"(4964, u'(?i)(serins|serin)')"
-p50
-aS"(7094, u'(?i)(curs|cur)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(3726, u'(?i)(mates|mate)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(821, u'(?i)(lice|louse)')"
-p55
-atp56
-Rp57
+((lp41
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

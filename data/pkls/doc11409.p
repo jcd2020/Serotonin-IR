@@ -8,96 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(131, u'\\\\bm1')"
 p6
-aS"(142, u'\\\\bm1')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
-aS"(56, u'\\\\bclozapine')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(15, u'\\\\bschizophreni')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht2a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(215, u'(?i)(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+((lp26
+S"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p27
+aS"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
 p28
-aS"(256, u'(?i)(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p29
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-aS"(214, u'(?i)(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)')"
-p32
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p33
-atp34
-Rp35
+atp31
+Rp32
 sS'year'
-p36
+p33
 V2006
-p37
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(23, u'\\\\bclozapine')"
+p37
+aS"(43, u'\\\\bhaloperidol')"
 p38
-g3
-((lp39
-S"(48, u'\\\\bhaloperidol')"
-p40
-aS"(27, u'\\\\bclozapine')"
-p41
-atp42
-Rp43
+atp39
+Rp40
 sS'species'
-p44
+p41
 g3
-((lp45
-S"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6580, u'(?i)(dams|dam)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(2568, u'(?i)(hens|hen)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(2809, u'(?i)(toms|tom)')"
-p55
-atp56
-Rp57
+((lp42
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

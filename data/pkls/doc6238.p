@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(105, u'\\\\bmethysergide')"
+S"(194, u'\\\\bmethysergide')"
 p5
 atp6
 Rp7
@@ -36,76 +36,52 @@ S'5ht7'
 p20
 aS'5ht1b'
 p21
-aS'5ht5'
+aS'5ht1a'
 p22
 aS'5ht2'
 p23
 aS'5ht1'
 p24
-aS'5ht1d'
-p25
 aS'5ht2a'
+p25
+aS'5ht1d'
 p26
-aS'5ht1a'
-p27
-aS'5ht5d'
-p28
-atp29
-Rp30
+atp27
+Rp28
 sS'regions'
-p31
+p29
 g3
-((lp32
-S"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+((lp30
+tp31
+Rp32
 sS'year'
-p36
+p33
 V2018
-p37
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(96, u'\\\\bsumatriptan')"
+p37
+aS"(53, u'\\\\bmethysergide')"
 p38
-g3
-((lp39
-S"(103, u'\\\\bsumatriptan')"
-p40
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p41
-aS"(60, u'\\\\bmethysergide')"
-p42
-atp43
-Rp44
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p39
+atp40
+Rp41
 sS'species'
-p45
+p42
 g3
-((lp46
-S"(1395, u'(?i)(frogs|frog)')"
+((lp43
+S"(1395, u'(?i)\\\\b(frogs|frog)\\\\b')"
+p44
+aS"(2621, u'(?i)\\\\b(vertebrates|vertebrate)\\\\b')"
+p45
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p46
+aS"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(702, u'(?i)(genets|genet)')"
-p49
-aS"(4091, u'(?i)(adults|adult)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(3726, u'(?i)(mates|mate)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(7058, u'(?i)(does|doe)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(2621, u'(?i)(vertebrates|vertebrate)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(5949, u'(?i)(dogs|dog)')"
-p59
-atp60
-Rp61
+atp48
+Rp49
 sb.

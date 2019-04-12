@@ -8,118 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(130, u'\\\\britanserin')"
+aS"(114, u'\\\\bziprasidone')"
 p6
-aS"(123, u'\\\\bclozapine')"
+aS"(113, u'\\\\brisperidone')"
 p7
-aS"(56, u'\\\\bclozapine')"
+aS"(111, u'\\\\bolanzapine')"
 p8
-aS"(57, u'\\\\bolanzapine')"
+aS"(58, u'\\\\bhaloperidol')"
 p9
-aS"(41, u'\\\\bziprasidone')"
+aS"(119, u'\\\\britanserin')"
 p10
-aS"(124, u'\\\\bolanzapine')"
-p11
-aS"(59, u'\\\\brisperidone')"
-p12
-aS"(67, u'\\\\bhaloperidol')"
-p13
-aS"(54, u'\\\\britanserin')"
-p14
-atp15
-Rp16
+atp11
+Rp12
 sS'methods'
-p17
+p13
 g3
-((lp18
+((lp14
 S'Method.ANTAGONIST'
-p19
+p15
 aS'Method.AGONIST'
-p20
-atp21
-Rp22
+p16
+atp17
+Rp18
 sS'topics'
-p23
+p19
 g3
-((lp24
+((lp20
 S"(15, u'\\\\bschizophreni')"
-p25
-atp26
-Rp27
+p21
+atp22
+Rp23
 sS'receptors'
-p28
+p24
 g3
-((lp29
+((lp25
 S'5ht2b'
-p30
+p26
 aS'5ht2c'
-p31
+p27
 aS'5ht2a'
-p32
-atp33
-Rp34
+p28
+atp29
+Rp30
 sS'regions'
-p35
+p31
 g3
-((lp36
-S"(34, u'(?i)(pon|pons)')"
-p37
-atp38
-Rp39
+((lp32
+tp33
+Rp34
 sS'year'
-p40
+p35
 V2008
-p41
+p36
 sS'agonists'
-p42
+p37
 g3
-((lp43
-S"(91, u'\\\\bziprasidone')"
-p44
-aS"(64, u'\\\\bolanzapine')"
-p45
-aS"(48, u'\\\\bhaloperidol')"
+((lp38
+S"(57, u'\\\\bolanzapine')"
+p39
+aS"(23, u'\\\\bclozapine')"
+p40
+aS"(11, u'\\\\bamphetamine')"
+p41
+aS"(84, u'\\\\bziprasidone')"
+p42
+aS"(43, u'\\\\bhaloperidol')"
+p43
+atp44
+Rp45
+sS'species'
 p46
-aS"(14, u'\\\\bamphetamine')"
-p47
-aS"(27, u'\\\\bclozapine')"
+g3
+((lp47
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p48
 atp49
 Rp50
-sS'species'
-p51
-g3
-((lp52
-S"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(702, u'(?i)(genets|genet)')"
-p55
-aS"(867, u'(?i)(tits|tit)')"
-p56
-aS"(163, u'(?i)(mice|mouse)')"
-p57
-aS"(81, u'(?i)(asps|asp)')"
-p58
-aS"(2183, u'(?i)(gars|gar)')"
-p59
-aS"(853, u'(?i)(minas|mina)')"
-p60
-aS"(6249, u'(?i)(ants|ant)')"
-p61
-aS"(1414, u'(?i)(chars|char)')"
-p62
-aS"(2809, u'(?i)(toms|tom)')"
-p63
-aS"(5743, u'(?i)(bots|bot)')"
-p64
-aS"(3812, u'(?i)(studs|stud)')"
-p65
-aS"(4964, u'(?i)(serins|serin)')"
-p66
-atp67
-Rp68
 sb.

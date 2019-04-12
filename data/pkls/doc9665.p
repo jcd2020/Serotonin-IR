@@ -8,118 +8,86 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(51, u'\\\\basenapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(99, u'\\\\bsb ?242084')"
 p6
-aS"(56, u'\\\\bclozapine')"
+aS"(110, u'\\\\bclozapine')"
 p7
-aS"(57, u'\\\\bolanzapine')"
+aS"(31, u'\\\\bway ?100635')"
 p8
-aS"(60, u'\\\\basenapine')"
+aS"(111, u'\\\\bolanzapine')"
 p9
-aS"(110, u'\\\\bsb ?242084')"
-p10
-aS"(124, u'\\\\bolanzapine')"
-p11
-atp12
-Rp13
+atp10
+Rp11
 sS'methods'
-p14
+p12
 g3
-((lp15
+((lp13
 S'Method.ANTAGONIST'
-p16
+p14
 aS'Method.AGONIST'
-p17
-atp18
-Rp19
+p15
+atp16
+Rp17
 sS'topics'
-p20
+p18
 g3
-((lp21
+((lp19
 S"(15, u'\\\\bschizophreni')"
-p22
+p20
 aS"(9, u'\\\\bdepress')"
-p23
+p21
 aS"(35, u'\\\\bstress')"
-p24
+p22
 aS"(11, u'\\\\banxiolyt')"
-p25
+p23
 aS"(10, u'\\\\banxiety')"
-p26
-atp27
-Rp28
+p24
+atp25
+Rp26
 sS'receptors'
-p29
+p27
 g3
-((lp30
+((lp28
 S'5ht1a'
-p31
+p29
 aS'5ht2c'
-p32
-atp33
-Rp34
+p30
+atp31
+Rp32
 sS'regions'
-p35
+p33
 g3
-((lp36
-tp37
-Rp38
+((lp34
+tp35
+Rp36
 sS'year'
-p39
+p37
 V2016
-p40
+p38
 sS'agonists'
+p39
+g3
+((lp40
+S"(20, u'\\\\bbuspirone')"
 p41
-g3
-((lp42
-S"(64, u'\\\\bolanzapine')"
+aS"(57, u'\\\\bolanzapine')"
+p42
+aS"(13, u'\\\\basenapine')"
 p43
-aS"(27, u'\\\\bclozapine')"
+aS"(23, u'\\\\bclozapine')"
 p44
-aS"(24, u'\\\\bbuspirone')"
+aS"(141, u'\\\\bro60 ?0175')"
 p45
-aS"(147, u'\\\\bro60 ?0175')"
-p46
-aS"(17, u'\\\\basenapine')"
-p47
-atp48
-Rp49
+atp46
+Rp47
 sS'species'
-p50
+p48
 g3
-((lp51
-S"(2323, u'(?i)(bees|bee)')"
-p52
-aS"(4624, u'(?i)(apes|ape)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(468, u'(?i)(oxen|ox)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(3726, u'(?i)(mates|mate)')"
-p58
-aS"(5743, u'(?i)(bots|bot)')"
-p59
-aS"(3550, u'(?i)(anis|ani)')"
-p60
-aS"(7094, u'(?i)(curs|cur)')"
-p61
-aS"(3812, u'(?i)(studs|stud)')"
-p62
-aS"(6391, u'(?i)(asses|ass)')"
-p63
-aS"(2809, u'(?i)(toms|tom)')"
-p64
-aS"(5537, u'(?i)(hippos|hippo)')"
-p65
-aS"(6356, u'(?i)(ais|ai)')"
-p66
-atp67
-Rp68
+((lp49
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

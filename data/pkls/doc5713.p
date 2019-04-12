@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(203, u'\\\\btfmpp')"
 p5
 atp6
 Rp7
@@ -46,54 +46,32 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V1988
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(74, u'\\\\bru ?24969')"
+((lp34
+S"(178, u'\\\\btfmpp')"
+p35
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(67, u'\\\\bru ?24969')"
 p37
-aS"(183, u'\\\\btfmpp')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(3592, u'(?i)(ravens|raven)')"
-p46
-aS"(5131, u'(?i)(hags|hag)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(7094, u'(?i)(curs|cur)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+((lp41
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

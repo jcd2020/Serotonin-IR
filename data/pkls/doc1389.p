@@ -34,60 +34,44 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht1a'
 p21
 aS'5ht2a'
 p22
-aS'5ht1a'
-p23
 aS'5ht1d'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-tp29
-Rp30
+((lp27
+tp28
+Rp29
 sS'year'
-p31
+p30
 V2002
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(45, u'\\\\bflibanserin')"
+((lp33
+S"(20, u'\\\\bbuspirone')"
+p34
+aS"(40, u'\\\\bflibanserin')"
 p35
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-aS"(24, u'\\\\bbuspirone')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp40
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p41
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(4964, u'(?i)(serins|serin)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(7058, u'(?i)(does|doe)')"
-p50
-atp51
-Rp52
+atp43
+Rp44
 sb.

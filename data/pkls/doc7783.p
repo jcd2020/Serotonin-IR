@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(364, u'(?i)(middles|middle)(-|\\\\s+)?(cerebrals|cerebral)(-|\\\\s+)?(arteries|artery)')"
+S"(364, u'(?i)\\\\b(middles|middle)(-|\\\\s+)?(cerebrals|cerebral)(-|\\\\s+)?(arteries|artery)\\\\b')"
 p23
 atp24
 Rp25
@@ -54,34 +54,10 @@ sS'species'
 p32
 g3
 ((lp33
-S"(5958, u'(?i)(rats|rat)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p34
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(2238, u'(?i)\\\\b(elks|elk)\\\\b')"
 p35
-aS"(7609, u'(?i)(erns|ern)')"
-p36
-aS"(867, u'(?i)(tits|tit)')"
-p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(6391, u'(?i)(asses|ass)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(7094, u'(?i)(curs|cur)')"
-p41
-aS"(4964, u'(?i)(serins|serin)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(4371, u'(?i)(lizas|liza)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(2238, u'(?i)(elks|elk)')"
-p46
-aS"(1683, u'(?i)(terns|tern)')"
-p47
-atp48
-Rp49
+atp36
+Rp37
 sb.

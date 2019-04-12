@@ -10,7 +10,7 @@ p3
 ((lp4
 S"(17, u'\\\\bnan ?190')"
 p5
-aS"(153, u'\\\\bgr ?113808')"
+aS"(144, u'\\\\bgr ?113808')"
 p6
 atp7
 Rp8
@@ -60,18 +60,8 @@ sS'species'
 p35
 g3
 ((lp36
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-atp43
-Rp44
+atp38
+Rp39
 sb.

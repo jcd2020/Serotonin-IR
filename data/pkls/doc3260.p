@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(140, u'\\\\brenzapride')"
+S"(129, u'\\\\brenzapride')"
 p5
-aS"(136, u'\\\\btropisetron')"
+aS"(131, u'\\\\bm1')"
 p6
-aS"(142, u'\\\\bm1')"
+aS"(125, u'\\\\btropisetron')"
 p7
 atp8
 Rp9
@@ -40,7 +40,7 @@ S'5ht1c'
 p22
 aS'5ht1b'
 p23
-aS'5ht5'
+aS'5ht1a'
 p24
 aS'5ht4'
 p25
@@ -50,58 +50,36 @@ aS'5ht2'
 p27
 aS'5ht1d'
 p28
-aS'5ht1a'
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'year'
-p36
+p35
 V1992
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(207, u'\\\\brenzapride')"
+((lp38
+S"(197, u'\\\\bbimu ?8')"
+p39
+aS"(203, u'\\\\brenzapride')"
 p40
-aS"(201, u'\\\\bbimu ?8')"
-p41
-atp42
-Rp43
+atp41
+Rp42
 sS'species'
-p44
+p43
 g3
-((lp45
-S"(2323, u'(?i)(bees|bee)')"
+((lp44
+S"(1266, u'(?i)\\\\b(embryos|embryo)\\\\b')"
+p45
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(867, u'(?i)(tits|tit)')"
-p49
-aS"(163, u'(?i)(mice|mouse)')"
-p50
-aS"(1266, u'(?i)(embryos|embryo)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(1553, u'(?i)(mews|mew)')"
-p54
-aS"(1414, u'(?i)(chars|char)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(4979, u'(?i)(cats|cat)')"
-p57
-atp58
-Rp59
+atp47
+Rp48
 sb.

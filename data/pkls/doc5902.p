@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(129, u'\\\\bly ?53857')"
+S"(118, u'\\\\bly ?53857')"
 p5
 atp6
 Rp7
@@ -42,68 +42,30 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(379, u'(?i)(subarachnoids|subarachnoid)(-|\\\\s+)?(spaces|space)')"
+S"(379, u'(?i)\\\\b(subarachnoids|subarachnoid)(-|\\\\s+)?(spaces|space)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V1993
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(4404, u'(?i)(duns|dun)')"
+((lp36
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p37
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p38
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(4694, u'(?i)(gnus|gnu)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(2942, u'(?i)(daws|daw)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(4091, u'(?i)(adults|adult)')"
-p46
-aS"(5967, u'(?i)(males|male)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(745, u'(?i)(arachnoids|arachnoid)')"
-p51
-aS"(853, u'(?i)(minas|mina)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(5176, u'(?i)(tegs|teg)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(4979, u'(?i)(cats|cat)')"
-p57
-aS"(6682, u'(?i)(tera|teras)')"
-p58
-atp59
-Rp60
+atp40
+Rp41
 sb.

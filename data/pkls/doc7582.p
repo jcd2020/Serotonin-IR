@@ -38,72 +38,40 @@ sS'receptors'
 p21
 g3
 ((lp22
-S'5ht5'
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-tp28
-Rp29
+((lp26
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2018
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(163, u'\\\\bdmt')"
+((lp32
+S"(157, u'\\\\bdmt')"
+p33
+aS"(149, u'\\\\bmem')"
 p34
-aS"(237, u'\\\\bnn ?dimethyltryptamine')"
+aS"(235, u'\\\\bnn ?dimethyltryptamine')"
 p35
-aS"(155, u'\\\\bmem')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(7058, u'(?i)(does|doe)')"
+((lp39
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p40
+aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(4657, u'(?i)(fish|fish)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(4091, u'(?i)(adults|adult)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(3522, u'(?i)(tetras|tetra)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(5917, u'(?i)(roaches|roach)')"
-p55
-aS"(1014, u'(?i)(zebras|zebra)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-atp59
-Rp60
+atp43
+Rp44
 sb.

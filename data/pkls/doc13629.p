@@ -30,46 +30,32 @@ g3
 ((lp17
 S'5ht1a'
 p18
-aS'5ht5'
-p19
 aS'5ht1'
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-tp25
-Rp26
+((lp23
+tp24
+Rp25
 sS'year'
-p27
+p26
 V1988
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(224, u'\\\\b5 ?methoxytryptamine')"
-p31
-atp32
-Rp33
+((lp29
+S"(220, u'\\\\b5 ?methoxytryptamine')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
-p36
-aS"(468, u'(?i)(oxen|ox)')"
-p37
-aS"(4979, u'(?i)(cats|cat)')"
-p38
-aS"(3522, u'(?i)(tetras|tetra)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(4133, u'(?i)(pikes|pike)')"
-p41
-atp42
-Rp43
+((lp34
+tp35
+Rp36
 sb.

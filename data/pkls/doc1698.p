@@ -52,11 +52,11 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(206, u'\\\\bprucalopride')"
+S"(205, u'\\\\brs ?67333')"
 p32
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p33
-aS"(209, u'\\\\brs ?67333')"
+aS"(202, u'\\\\bprucalopride')"
 p34
 atp35
 Rp36
@@ -64,38 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(2103, u'(?i)(nesters|nester)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(5537, u'(?i)(hippos|hippo)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(7609, u'(?i)(erns|ern)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(2389, u'(?i)(spats|spat)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(1054, u'(?i)(homoes|homo)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(1683, u'(?i)(terns|tern)')"
-p54
-atp55
-Rp56
+atp40
+Rp41
 sb.

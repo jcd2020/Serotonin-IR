@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(155, u'\\\\bgr ?125487')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(146, u'\\\\bgr ?125487')"
 p6
 atp7
 Rp8
@@ -58,7 +58,7 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(209, u'\\\\brs ?67333')"
+S"(205, u'\\\\brs ?67333')"
 p35
 atp36
 Rp37
@@ -66,40 +66,12 @@ sS'species'
 p38
 g3
 ((lp39
-S"(4624, u'(?i)(apes|ape)')"
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p40
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(4091, u'(?i)(adults|adult)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(5917, u'(?i)(roaches|roach)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-atp57
-Rp58
+atp43
+Rp44
 sb.

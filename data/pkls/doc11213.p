@@ -36,36 +36,26 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2006
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-S"(24, u'\\\\bbuspirone')"
-p30
-atp31
-Rp32
+((lp28
+S"(20, u'\\\\bbuspirone')"
+p29
+atp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(6356, u'(?i)(ais|ai)')"
-p35
-aS"(3550, u'(?i)(anis|ani)')"
-p36
-aS"(468, u'(?i)(oxen|ox)')"
-p37
-aS"(7127, u'(?i)(monitors|monitor)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-atp40
-Rp41
+((lp33
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
 sb.

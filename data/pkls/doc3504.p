@@ -38,44 +38,28 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V1995
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(103, u'\\\\bsumatriptan')"
+((lp29
+S"(96, u'\\\\bsumatriptan')"
+p30
+aS"(102, u'\\\\bcp ?122288')"
 p31
-aS"(109, u'\\\\bcp ?122288')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(853, u'(?i)(minas|mina)')"
-p41
-aS"(1414, u'(?i)(chars|char)')"
-p42
-aS"(6642, u'(?i)(lions|lion)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-atp45
-Rp46
+((lp35
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(204, u'\\\\bsb ?269970')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(205, u'\\\\bsb ?656104 ?a')"
+aS"(199, u'\\\\bsb ?656104 ?a')"
 p6
 atp7
 Rp8
@@ -72,7 +72,7 @@ sS'agonists'
 p40
 g3
 ((lp41
-S"(103, u'\\\\bsumatriptan')"
+S"(96, u'\\\\bsumatriptan')"
 p42
 atp43
 Rp44
@@ -80,28 +80,10 @@ sS'species'
 p45
 g3
 ((lp46
-S"(4624, u'(?i)(apes|ape)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p47
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(1885, u'(?i)(apars|apar)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(1057, u'(?i)(humans|human)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(3196, u'(?i)(human|humans)')"
-p57
-atp58
-Rp59
+atp49
+Rp50
 sb.

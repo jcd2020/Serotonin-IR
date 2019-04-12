@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(374, u'(?i)(duras|dura)(-|\\\\s+)?(maters|mater)')"
+S"(374, u'(?i)\\\\b(duras|dura)(-|\\\\s+)?(maters|mater)\\\\b')"
 p24
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
+aS"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,42 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(6753, u'(?i)(da|das)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p36
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p37
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(3767, u'(?i)(olms|olm)')"
-p40
-aS"(5967, u'(?i)(males|male)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(3726, u'(?i)(mates|mate)')"
-p44
-aS"(2665, u'(?i)(rays|ray)')"
-p45
-aS"(2942, u'(?i)(daws|daw)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(4177, u'(?i)(grays|gray)')"
-p51
-aS"(7082, u'(?i)(sagittas|sagitta)')"
-p52
-aS"(1683, u'(?i)(terns|tern)')"
-p53
-atp54
-Rp55
+atp39
+Rp40
 sb.

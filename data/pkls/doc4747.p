@@ -34,58 +34,36 @@ S'5ht7'
 p19
 aS'5ht7a'
 p20
-aS'5ht5'
-p21
 aS'5ht1a'
-p22
+p21
 aS'5ht1b'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(270, u'(?i)(v1s|v1)')"
-p28
-aS"(165, u'(?i)(preoptics|preoptic)(-|\\\\s+)?(areas|area)')"
-p29
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p30
-atp31
-Rp32
+((lp26
+S"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p33
+p30
 V2011
-p34
+p31
 sS'agonists'
-p35
+p32
 g3
-((lp36
-tp37
-Rp38
+((lp33
+tp34
+Rp35
 sS'species'
-p39
+p36
 g3
-((lp40
-S"(6753, u'(?i)(da|das)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+((lp37
+S"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p38
+atp39
+Rp40
 sb.

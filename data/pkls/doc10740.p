@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(153, u'\\\\bgr ?113808')"
+S"(144, u'\\\\bgr ?113808')"
 p5
 atp6
 Rp7
@@ -44,17 +44,17 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(224, u'(?i)(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p27
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p29
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p30
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p31
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p32
 atp33
 Rp34
@@ -72,50 +72,18 @@ sS'species'
 p41
 g3
 ((lp42
-S"(3812, u'(?i)(studs|stud)')"
+S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p43
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p44
-aS"(3196, u'(?i)(human|humans)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p45
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p46
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p47
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p48
-aS"(3062, u'(?i)(guineas|guinea)')"
-p49
-aS"(391, u'(?i)(alli|allis)')"
-p50
-aS"(5537, u'(?i)(hippos|hippo)')"
-p51
-aS"(853, u'(?i)(minas|mina)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(6682, u'(?i)(tera|teras)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(6753, u'(?i)(da|das)')"
-p56
-aS"(1057, u'(?i)(humans|human)')"
-p57
-aS"(1414, u'(?i)(chars|char)')"
-p58
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p59
-aS"(6325, u'(?i)(caudates|caudate)')"
-p60
-aS"(2323, u'(?i)(bees|bee)')"
-p61
-aS"(4979, u'(?i)(cats|cat)')"
-p62
-aS"(3051, u'(?i)(pigs|pig)')"
-p63
-aS"(1054, u'(?i)(homoes|homo)')"
-p64
-atp65
-Rp66
+atp49
+Rp50
 sb.

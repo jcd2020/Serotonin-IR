@@ -8,94 +8,66 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
-aS"(52, u'\\\\bmetergoline')"
+aS"(34, u'\\\\bmetergoline')"
 p7
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p8
-aS"(35, u'\\\\bmetergoline')"
+aS"(31, u'\\\\bway ?100635')"
 p9
-aS"(45, u'\\\\bgr ?127935')"
-p10
-aS"(102, u'\\\\bfluoxetine')"
-p11
-atp12
-Rp13
+atp10
+Rp11
 sS'methods'
-p14
+p12
 g3
-((lp15
+((lp13
 S'Method.ANTAGONIST'
-p16
-atp17
-Rp18
+p14
+atp15
+Rp16
 sS'topics'
-p19
+p17
 g3
-((lp20
-tp21
-Rp22
+((lp18
+tp19
+Rp20
 sS'receptors'
-p23
+p21
 g3
-((lp24
+((lp22
 S'5ht1b'
-p25
-aS'5ht5'
-p26
+p23
 aS'5ht2c'
-p27
+p24
 aS'5ht2a'
-p28
-atp29
-Rp30
+p25
+atp26
+Rp27
 sS'regions'
-p31
+p28
 g3
-((lp32
-S"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+((lp29
+tp30
+Rp31
 sS'year'
-p36
+p32
 V2010
-p37
+p33
 sS'agonists'
+p34
+g3
+((lp35
+tp36
+Rp37
+sS'species'
 p38
 g3
 ((lp39
-tp40
-Rp41
-sS'species'
-p42
-g3
-((lp43
-S"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(4163, u'(?i)(ermines|ermine)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(4964, u'(?i)(serins|serin)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

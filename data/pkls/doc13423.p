@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(204, u'\\\\bsb ?269970')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(67, u'\\\\bhaloperidol')"
+aS"(38, u'\\\\bsb ?224289')"
 p6
-aS"(153, u'\\\\bgr ?113808')"
+aS"(144, u'\\\\bgr ?113808')"
 p7
-aS"(39, u'\\\\bsb ?224289')"
+aS"(58, u'\\\\bhaloperidol')"
 p8
 atp9
 Rp10
@@ -60,7 +60,7 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(48, u'\\\\bhaloperidol')"
+S"(43, u'\\\\bhaloperidol')"
 p36
 atp37
 Rp38
@@ -68,26 +68,8 @@ sS'species'
 p39
 g3
 ((lp40
-S"(2568, u'(?i)(hens|hen)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(1049, u'(?i)(elands|eland)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(391, u'(?i)(alli|allis)')"
-p50
-atp51
-Rp52
+atp42
+Rp43
 sb.

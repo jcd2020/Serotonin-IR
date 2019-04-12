@@ -8,106 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(59, u'\\\\bchlorpromazine')"
 p6
-aS"(56, u'\\\\bclozapine')"
+aS"(113, u'\\\\brisperidone')"
 p7
-aS"(67, u'\\\\bhaloperidol')"
+aS"(108, u'\\\\bfluphenazine')"
 p8
-aS"(120, u'\\\\bfluphenazine')"
+aS"(109, u'\\\\bthioridazine')"
 p9
-aS"(122, u'\\\\bthioridazine')"
+aS"(26, u'\\\\bspiperone')"
 p10
-aS"(59, u'\\\\brisperidone')"
+aS"(58, u'\\\\bhaloperidol')"
 p11
-aS"(68, u'\\\\bchlorpromazine')"
-p12
-aS"(27, u'\\\\bspiperone')"
-p13
-atp14
-Rp15
+atp12
+Rp13
 sS'methods'
-p16
+p14
 g3
-((lp17
+((lp15
 S'Method.ANTAGONIST'
-p18
-atp19
-Rp20
+p16
+atp17
+Rp18
 sS'topics'
-p21
+p19
 g3
-((lp22
-tp23
-Rp24
+((lp20
+tp21
+Rp22
 sS'receptors'
+p23
+g3
+((lp24
+S'5ht2c'
 p25
-g3
-((lp26
-S'5ht5'
-p27
-aS'5ht2c'
-p28
 aS'5ht2a'
-p29
-atp30
-Rp31
+p26
+atp27
+Rp28
 sS'regions'
-p32
+p29
 g3
-((lp33
-tp34
-Rp35
+((lp30
+tp31
+Rp32
 sS'year'
-p36
+p33
 V1994
-p37
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(210, u'\\\\bsulpiride')"
+p37
+aS"(23, u'\\\\bclozapine')"
 p38
-g3
-((lp39
-S"(48, u'\\\\bhaloperidol')"
-p40
-aS"(214, u'\\\\bsulpiride')"
-p41
-aS"(27, u'\\\\bclozapine')"
-p42
-atp43
-Rp44
+aS"(43, u'\\\\bhaloperidol')"
+p39
+atp40
+Rp41
 sS'species'
-p45
+p42
 g3
-((lp46
-S"(1070, u'(?i)(pets|pet)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(2568, u'(?i)(hens|hen)')"
-p49
-aS"(867, u'(?i)(tits|tit)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(3404, u'(?i)(titis|titi)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-aS"(7094, u'(?i)(curs|cur)')"
-p57
-aS"(5958, u'(?i)(rats|rat)')"
-p58
-aS"(3426, u'(?i)(hares|hare)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-atp61
-Rp62
+((lp43
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

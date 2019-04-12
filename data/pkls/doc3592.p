@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(131, u'\\\\bm1')"
 p5
-aS"(142, u'\\\\bm1')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -34,90 +34,54 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht1a'
 p21
-aS'5ht1a'
-p22
 aS'5ht2a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+((lp26
+tp27
+Rp28
 sS'year'
-p31
+p29
 V2008
-p32
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(63, u'\\\\bpsilocybin')"
 p33
-g3
-((lp34
-S"(34, u'\\\\bdpt')"
+aS"(29, u'\\\\bdpt')"
+p34
+aS"(49, u'\\\\blysergic acid diethylamide')"
 p35
-aS"(56, u'\\\\blsd')"
+aS"(147, u'\\\\bmdma')"
 p36
-aS"(55, u'\\\\blysergic acid diethylamide')"
+aS"(158, u'\\\\blsd')"
 p37
-aS"(70, u'\\\\bpsilocybin')"
-p38
-aS"(153, u'\\\\bmdma')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(4624, u'(?i)(apes|ape)')"
+((lp41
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p42
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p43
+aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p44
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p45
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p46
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p47
-aS"(3196, u'(?i)(human|humans)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(1795, u'(?i)(mounts|mount)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(867, u'(?i)(tits|tit)')"
-p54
-aS"(163, u'(?i)(mice|mouse)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(5176, u'(?i)(tegs|teg)')"
-p57
-aS"(1057, u'(?i)(humans|human)')"
-p58
-aS"(1961, u'(?i)(pens|pen)')"
-p59
-aS"(4979, u'(?i)(cats|cat)')"
-p60
-aS"(2323, u'(?i)(bees|bee)')"
-p61
-aS"(2054, u'(?i)(heads|head)')"
-p62
-aS"(5799, u'(?i)(rodents|rodent)')"
-p63
-aS"(2568, u'(?i)(hens|hen)')"
-p64
-aS"(853, u'(?i)(minas|mina)')"
-p65
-atp66
-Rp67
+atp48
+Rp49
 sb.

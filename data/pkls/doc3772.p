@@ -34,76 +34,44 @@ S'5ht7'
 p19
 aS'5ht6'
 p20
-aS'5ht5'
-p21
 aS'5ht4'
-p22
+p21
 aS'5ht6a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(389, u'(?i)(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)')"
-p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp26
+S"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p32
+p30
 V2016
-p33
+p31
 sS'agonists'
-p34
+p32
 g3
-((lp35
-tp36
-Rp37
+((lp33
+tp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(3404, u'(?i)(titis|titi)')"
+((lp37
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p38
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p39
+aS"(3503, u'(?i)\\\\b(fishers|fisher)\\\\b')"
 p40
-aS"(4404, u'(?i)(duns|dun)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(4657, u'(?i)(fish|fish)')"
-p43
-aS"(867, u'(?i)(tits|tit)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1057, u'(?i)(humans|human)')"
-p52
-aS"(5229, u'(?i)(moles|mole)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(3196, u'(?i)(human|humans)')"
-p56
-aS"(3503, u'(?i)(fishers|fisher)')"
-p57
-aS"(7058, u'(?i)(does|doe)')"
-p58
-atp59
-Rp60
+atp43
+Rp44
 sb.

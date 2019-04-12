@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p33
 atp34
 Rp35
@@ -62,30 +62,8 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(4301, u'(?i)(hydras|hydra)')"
-p39
-aS"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(3592, u'(?i)(ravens|raven)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(6215, u'(?i)(racers|racer)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(3522, u'(?i)(tetras|tetra)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(1414, u'(?i)(chars|char)')"
-p48
-aS"(5949, u'(?i)(dogs|dog)')"
-p49
-atp50
-Rp51
+atp39
+Rp40
 sb.

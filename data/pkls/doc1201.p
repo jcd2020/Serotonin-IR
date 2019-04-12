@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(140, u'\\\\brenzapride')"
+S"(129, u'\\\\brenzapride')"
 p5
-aS"(141, u'\\\\bzacopride')"
+aS"(130, u'\\\\bzacopride')"
 p6
 atp7
 Rp8
@@ -42,60 +42,34 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V1997
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(207, u'\\\\brenzapride')"
+((lp31
+S"(200, u'\\\\bml ?10302')"
+p32
+aS"(208, u'\\\\bzacopride')"
 p33
-aS"(212, u'\\\\bzacopride')"
+aS"(203, u'\\\\brenzapride')"
 p34
-aS"(204, u'\\\\bml ?10302')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(2323, u'(?i)(bees|bee)')"
+((lp38
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p39
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(7609, u'(?i)(erns|ern)')"
-p43
-aS"(867, u'(?i)(tits|tit)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(1057, u'(?i)(humans|human)')"
-p49
-aS"(5229, u'(?i)(moles|mole)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(3196, u'(?i)(human|humans)')"
-p53
-aS"(1683, u'(?i)(terns|tern)')"
-p54
-atp55
-Rp56
+atp42
+Rp43
 sb.

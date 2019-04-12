@@ -36,74 +36,44 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(84, u'(?i)\\\\b(mesencephalons|mesencephalon)\\\\b')"
 p23
-aS"(84, u'(?i)(mesencephalons|mesencephalon)')"
+aS"(195, u'(?i)\\\\b(telencephalons|telencephalon)\\\\b')"
 p24
-aS"(118, u'(?i)(diencephalons|diencephalon)')"
+aS"(118, u'(?i)\\\\b(diencephalons|diencephalon)\\\\b')"
 p25
-aS"(195, u'(?i)(telencephalons|telencephalon)')"
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V1997
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2568, u'(?i)(hens|hen)')"
+((lp36
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p37
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p38
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p39
-aS"(867, u'(?i)(tits|tit)')"
+aS"(5685, u'(?i)\\\\b(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(7539, u'(?i)(mammals|mammal)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p42
-aS"(1266, u'(?i)(embryos|embryo)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(4091, u'(?i)(adults|adult)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(3152, u'(?i)(layers|layer)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p48
-aS"(107, u'(?i)(stags|stag)')"
-p49
-aS"(1054, u'(?i)(homoes|homo)')"
-p50
-aS"(5176, u'(?i)(tegs|teg)')"
-p51
-aS"(3529, u'(?i)(larvas|larva)')"
-p52
-aS"(1057, u'(?i)(humans|human)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(3196, u'(?i)(human|humans)')"
-p55
-aS"(1628, u'(?i)(cod|cod)')"
-p56
-aS"(5685, u'(?i)(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)')"
-p57
-aS"(1683, u'(?i)(terns|tern)')"
-p58
-atp59
-Rp60
+atp44
+Rp45
 sb.

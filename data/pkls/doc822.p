@@ -22,29 +22,29 @@ sS'topics'
 p12
 g3
 ((lp13
-tp14
-Rp15
+S"(37, u'\\\\baddict')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
+((lp18
 S'5ht5'
-p18
-aS'5ht2c'
 p19
-aS'5ht1a'
+aS'5ht2c'
 p20
-aS'5ht2a'
+aS'5ht1a'
 p21
-atp22
-Rp23
+aS'5ht2a'
+p22
+atp23
+Rp24
 sS'regions'
-p24
+p25
 g3
-((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
+((lp26
+tp27
 Rp28
 sS'year'
 p29
@@ -54,11 +54,11 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(175, u'\\\\bdoi')"
 p33
-aS"(169, u'\\\\bfenfluramine')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p34
-aS"(33, u'\\\\bdoi')"
+aS"(163, u'\\\\bfenfluramine')"
 p35
 atp36
 Rp37
@@ -66,38 +66,14 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2568, u'(?i)(hens|hen)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(479, u'(?i)(lings|ling)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(5967, u'(?i)(males|male)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(1057, u'(?i)(humans|human)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(3196, u'(?i)(human|humans)')"
-p54
-aS"(6682, u'(?i)(tera|teras)')"
-p55
-atp56
-Rp57
+atp44
+Rp45
 sb.

@@ -44,7 +44,7 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(32, u'(?i)(hypoglossals|hypoglossal)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(32, u'(?i)\\\\b(hypoglossals|hypoglossal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
 atp28
 Rp29
@@ -62,38 +62,12 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2323, u'(?i)(bees|bee)')"
+S"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
 p38
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(7095, u'(?i)\\\\b(mongrels|mongrel)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(479, u'(?i)(lings|ling)')"
-p42
-aS"(4091, u'(?i)(adults|adult)')"
-p43
-aS"(1169, u'(?i)(grades|grade)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(7095, u'(?i)(mongrels|mongrel)')"
-p46
-aS"(6215, u'(?i)(racers|racer)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(4371, u'(?i)(lizas|liza)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(5949, u'(?i)(dogs|dog)')"
-p53
-atp54
-Rp55
+atp41
+Rp42
 sb.

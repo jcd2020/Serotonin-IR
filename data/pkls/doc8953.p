@@ -42,68 +42,32 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(215, u'(?i)(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p26
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
-aS"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
 p28
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-aS"(214, u'(?i)(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)')"
-p31
-atp32
-Rp33
+atp29
+Rp30
 sS'year'
-p34
+p31
 V2011
-p35
+p32
 sS'agonists'
-p36
+p33
 g3
-((lp37
-S"(181, u'\\\\bdom')"
-p38
-atp39
-Rp40
+((lp34
+S"(176, u'\\\\bdom')"
+p35
+atp36
+Rp37
 sS'species'
-p41
+p38
 g3
-((lp42
-S"(6753, u'(?i)(da|das)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(7609, u'(?i)(erns|ern)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(3592, u'(?i)(ravens|raven)')"
-p49
-aS"(853, u'(?i)(minas|mina)')"
-p50
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(5674, u'(?i)(ewes|ewe)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(4247, u'(?i)(tatus|tatu)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-aS"(1683, u'(?i)(terns|tern)')"
-p58
-atp59
-Rp60
+((lp39
+S"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p40
+atp41
+Rp42
 sb.

@@ -54,13 +54,13 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(45, u'\\\\bipsapirone')"
 p33
-aS"(196, u'\\\\bquipazine')"
+aS"(192, u'\\\\bquipazine')"
 p34
-aS"(50, u'\\\\bipsapirone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p35
-aS"(169, u'\\\\bfenfluramine')"
+aS"(163, u'\\\\bfenfluramine')"
 p36
 atp37
 Rp38
@@ -68,30 +68,14 @@ sS'species'
 p39
 g3
 ((lp40
-S"(2054, u'(?i)(heads|head)')"
+S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p42
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(5783, u'(?i)\\\\b(hinds|hind)\\\\b')"
 p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(5783, u'(?i)(hinds|hind)')"
-p52
-atp53
-Rp54
+atp45
+Rp46
 sb.

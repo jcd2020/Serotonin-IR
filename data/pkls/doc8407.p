@@ -8,98 +8,66 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(32, u'\\\\bxylamidine')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(118, u'\\\\bly ?53857')"
 p6
-aS"(33, u'\\\\bxylamidine')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(129, u'\\\\bly ?53857')"
+aS"(194, u'\\\\bmethysergide')"
 p8
-aS"(105, u'\\\\bmethysergide')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(26, u'\\\\bcardiovascular')"
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
-S'5ht5'
-p24
-aS'5ht3'
-p25
+((lp22
+S'5ht3'
+p23
 aS'5ht2'
-p26
-atp27
-Rp28
+p24
+atp25
+Rp26
 sS'regions'
-p29
+p27
 g3
-((lp30
-S"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+((lp28
+tp29
+Rp30
 sS'year'
-p34
+p31
 V1992
-p35
+p32
 sS'agonists'
-p36
+p33
 g3
-((lp37
-S"(60, u'\\\\bmethysergide')"
-p38
-atp39
-Rp40
+((lp34
+S"(53, u'\\\\bmethysergide')"
+p35
+atp36
+Rp37
 sS'species'
-p41
+p38
 g3
-((lp42
-S"(6753, u'(?i)(da|das)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(4964, u'(?i)(serins|serin)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(3592, u'(?i)(ravens|raven)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(1414, u'(?i)(chars|char)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-atp57
-Rp58
+((lp39
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

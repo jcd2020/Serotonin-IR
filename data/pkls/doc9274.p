@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(132, u'\\\\bsb ?243213')"
+S"(84, u'\\\\bsb ?206553')"
 p5
-aS"(110, u'\\\\bsb ?242084')"
+aS"(99, u'\\\\bsb ?242084')"
 p6
-aS"(95, u'\\\\bsb ?206553')"
+aS"(121, u'\\\\bsb ?243213')"
 p7
 atp8
 Rp9
@@ -48,9 +48,9 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p29
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p30
 atp31
 Rp32
@@ -68,24 +68,10 @@ sS'species'
 p39
 g3
 ((lp40
-S"(6753, u'(?i)(da|das)')"
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(867, u'(?i)(tits|tit)')"
-p43
-aS"(5176, u'(?i)(tegs|teg)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+atp43
+Rp44
 sb.

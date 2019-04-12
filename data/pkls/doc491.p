@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(27, u'\\\\bspiperone')"
+S"(26, u'\\\\bspiperone')"
 p5
 atp6
 Rp7
@@ -38,52 +38,28 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V1999
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(155, u'\\\\bmem')"
+((lp29
+S"(25, u'\\\\bdihydroergotamine')"
+p30
+aS"(149, u'\\\\bmem')"
 p31
-aS"(29, u'\\\\bdihydroergotamine')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(2323, u'(?i)(bees|bee)')"
-p37
-aS"(5537, u'(?i)(hippos|hippo)')"
-p38
-aS"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(6878, u'(?i)(guans|guan)')"
-p48
-atp49
-Rp50
+((lp35
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

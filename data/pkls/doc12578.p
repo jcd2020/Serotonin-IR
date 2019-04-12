@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(126, u'(?i)(thalamuses|thalamus)')"
+S"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p32
 atp33
 Rp34
@@ -60,46 +60,26 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2323, u'(?i)(bees|bee)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p37
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p40
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
 p41
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(479, u'(?i)(lings|ling)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p43
-aS"(2401, u'(?i)(primates|primate)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p44
-aS"(1055, u'(?i)(men|man)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p45
-aS"(3726, u'(?i)(mates|mate)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
-aS"(3062, u'(?i)(guineas|guinea)')"
-p47
-aS"(1054, u'(?i)(homoes|homo)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(1057, u'(?i)(humans|human)')"
-p51
-aS"(5229, u'(?i)(moles|mole)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-aS"(3196, u'(?i)(human|humans)')"
-p54
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p55
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p56
-atp57
-Rp58
+atp47
+Rp48
 sb.

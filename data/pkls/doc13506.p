@@ -36,66 +36,32 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p23
-aS"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'year'
-p27
+p26
 V2003
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(195, u'\\\\bphenylbiguanide')"
-p31
-atp32
-Rp33
+((lp29
+S"(191, u'\\\\bphenylbiguanide')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(2568, u'(?i)(hens|hen)')"
+((lp34
+S"(4913, u'(?i)\\\\b(eagles|eagle)\\\\b')"
+p35
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p36
-aS"(3137, u'(?i)(iguanids|iguanid)')"
+aS"(6591, u'(?i)\\\\b(turtles|turtle)\\\\b')"
 p37
-aS"(4913, u'(?i)(eagles|eagle)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(4163, u'(?i)(ermines|ermine)')"
-p41
-aS"(4091, u'(?i)(adults|adult)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(6591, u'(?i)(turtles|turtle)')"
-p44
-aS"(3726, u'(?i)(mates|mate)')"
-p45
-aS"(853, u'(?i)(minas|mina)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(1414, u'(?i)(chars|char)')"
-p49
-aS"(7609, u'(?i)(erns|ern)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(6878, u'(?i)(guans|guan)')"
-p52
-aS"(1683, u'(?i)(terns|tern)')"
-p53
-aS"(7552, u'(?i)(bats|bat)')"
-p54
-atp55
-Rp56
+atp38
+Rp39
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(36, u'\\\\baripiprazole')"
+S"(35, u'\\\\baripiprazole')"
 p5
 atp6
 Rp7
@@ -36,9 +36,9 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht5'
+S'5ht1a'
 p22
-aS'5ht1a'
+aS'5ht5'
 p23
 aS'5ht2'
 p24
@@ -58,7 +58,7 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(16, u'\\\\baripiprazole')"
+S"(223, u'\\\\baripiprazole')"
 p35
 atp36
 Rp37
@@ -66,36 +66,12 @@ sS'species'
 p38
 g3
 ((lp39
-S"(1070, u'(?i)(pets|pet)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(867, u'(?i)(tits|tit)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(3404, u'(?i)(titis|titi)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1057, u'(?i)(humans|human)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(3196, u'(?i)(human|humans)')"
-p53
-aS"(6878, u'(?i)(guans|guan)')"
-p54
-atp55
-Rp56
+atp43
+Rp44
 sb.

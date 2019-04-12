@@ -34,60 +34,40 @@ g3
 ((lp19
 S'5ht1a'
 p20
-aS'5ht5'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p26
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p27
-atp28
-Rp29
+((lp24
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p30
+p28
 V2006
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p32
-g3
-((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(7423, u'(?i)(norways|norway)(-|\\\\s+)?(rats|rat)')"
+((lp36
+S"(7423, u'(?i)\\\\b(norways|norway)(-|\\\\s+)?(rats|rat)\\\\b')"
+p37
+aS"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+p38
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(702, u'(?i)(genets|genet)')"
-p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(4663, u'(?i)(nags|nag)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-atp51
-Rp52
+atp41
+Rp42
 sb.

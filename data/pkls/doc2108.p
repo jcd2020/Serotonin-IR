@@ -30,82 +30,44 @@ S'5ht1a'
 p17
 aS'5ht3'
 p18
-aS'5ht5'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(230, u'(?i)(ventrals|ventral)(-|\\\\s+)?(pallidums|pallidum)')"
+((lp22
+S"(230, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(pallidums|pallidum)\\\\b')"
+p23
+aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p24
-aS"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+aS"(294, u'(?i)\\\\b(retrosplenials|retrosplenial)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p27
-aS"(294, u'(?i)(retrosplenials|retrosplenial)(-|\\\\s+)?(cortexes|cortex)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2000
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(193, u'\\\\bethanol')"
-p35
-atp36
-Rp37
+((lp33
+S"(189, u'\\\\bethanol')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp38
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+aS"(736, u'(?i)\\\\b(fawns|fawn)\\\\b')"
 p40
-aS"(2670, u'(?i)(arabs|arab)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(949, u'(?i)(cohoes|coho)')"
-p43
-aS"(867, u'(?i)(tits|tit)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(5176, u'(?i)(tegs|teg)')"
-p51
-aS"(2568, u'(?i)(hens|hen)')"
-p52
-aS"(736, u'(?i)(fawns|fawn)')"
-p53
-aS"(7192, u'(?i)(wrens|wren)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(3431, u'(?i)(roans|roan)')"
-p56
-aS"(391, u'(?i)(alli|allis)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-atp60
-Rp61
+atp41
+Rp42
 sb.

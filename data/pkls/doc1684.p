@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(38, u'\\\\bsb ?224289')"
 p5
-aS"(39, u'\\\\bsb ?224289')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -38,68 +38,40 @@ S'5ht1b'
 p21
 aS'5ht1a'
 p22
-aS'5ht5'
-p23
 aS'5ht1'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(85, u'(?i)(tectums|tectum)')"
-p29
-atp30
-Rp31
+((lp27
+S"(85, u'(?i)\\\\b(tectums|tectum)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2002
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p36
-atp37
-Rp38
+((lp34
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(1395, u'(?i)(frogs|frog)')"
+((lp39
+S"(1395, u'(?i)\\\\b(frogs|frog)\\\\b')"
+p40
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p41
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(4091, u'(?i)(adults|adult)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3152, u'(?i)(layers|layer)')"
-p48
-aS"(853, u'(?i)(minas|mina)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(3522, u'(?i)(tetras|tetra)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(6642, u'(?i)(lions|lion)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(821, u'(?i)(lice|louse)')"
-p56
-atp57
-Rp58
+atp43
+Rp44
 sb.

@@ -38,40 +38,28 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V1990
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(47, u'\\\\bgepirone')"
-p31
-atp32
-Rp33
+((lp29
+S"(42, u'\\\\bgepirone')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5958, u'(?i)(rats|rat)')"
+((lp34
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p35
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p36
-aS"(1055, u'(?i)(men|man)')"
-p37
-aS"(7094, u'(?i)(curs|cur)')"
-p38
-aS"(853, u'(?i)(minas|mina)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(1057, u'(?i)(humans|human)')"
-p41
-aS"(3196, u'(?i)(human|humans)')"
-p42
-atp43
-Rp44
+atp37
+Rp38
 sb.

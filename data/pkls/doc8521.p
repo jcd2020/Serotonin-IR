@@ -36,34 +36,22 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2002
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(3812, u'(?i)(studs|stud)')"
-p34
-aS"(6391, u'(?i)(asses|ass)')"
-p35
-aS"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(1553, u'(?i)(mews|mew)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-atp39
-Rp40
+((lp32
+tp33
+Rp34
 sb.

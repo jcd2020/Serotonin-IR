@@ -10,7 +10,7 @@ p3
 ((lp4
 S"(6, u'\\\\bcyproheptadine')"
 p5
-aS"(62, u'\\\\bcyproheptadine')"
+aS"(53, u'\\\\bcyproheptadine')"
 p6
 atp7
 Rp8
@@ -42,44 +42,26 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2001
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
+((lp35
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p36
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(5410, u'(?i)(burros|burro)')"
-p39
-aS"(1349, u'(?i)(rams|ram)')"
-p40
-aS"(3592, u'(?i)(ravens|raven)')"
-p41
-aS"(853, u'(?i)(minas|mina)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(1057, u'(?i)(humans|human)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(3196, u'(?i)(human|humans)')"
-p46
-atp47
-Rp48
+atp38
+Rp39
 sb.

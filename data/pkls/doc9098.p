@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(104, u'\\\\bimipramine')"
 p5
-aS"(114, u'\\\\bimipramine')"
+aS"(102, u'\\\\bamitriptyline')"
 p6
-aS"(109, u'\\\\bsb ?221284')"
+aS"(98, u'\\\\bsb ?221284')"
 p7
-aS"(112, u'\\\\bamitriptyline')"
+aS"(31, u'\\\\bway ?100635')"
 p8
 atp9
 Rp10
@@ -50,48 +50,24 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p30
-atp31
-Rp32
+tp30
+Rp31
 sS'year'
-p33
+p32
 V2007
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-tp37
-Rp38
+((lp35
+tp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(2323, u'(?i)(bees|bee)')"
-p41
-aS"(5537, u'(?i)(hippos|hippo)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(7609, u'(?i)(erns|ern)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(163, u'(?i)(mice|mouse)')"
-p46
-aS"(1349, u'(?i)(rams|ram)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(2665, u'(?i)(rays|ray)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(1683, u'(?i)(terns|tern)')"
-p52
-atp53
-Rp54
+((lp39
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+atp41
+Rp42
 sb.

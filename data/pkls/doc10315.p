@@ -20,74 +20,56 @@ sS'topics'
 p11
 g3
 ((lp12
-tp13
-Rp14
+S"(37, u'\\\\baddict')"
+p13
+atp14
+Rp15
 sS'receptors'
-p15
+p16
 g3
-((lp16
+((lp17
 S'5ht1b'
-p17
-atp18
-Rp19
+p18
+atp19
+Rp20
 sS'regions'
-p20
+p21
 g3
-((lp21
-S"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
-p22
-aS"(220, u'(?i)(striatums|striatum)')"
+((lp22
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p23
-aS"(225, u'(?i)(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)')"
+aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p24
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
 p25
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p26
-atp27
-Rp28
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p29
-V2013
 p30
-sS'agonists'
+V2013
 p31
+sS'agonists'
+p32
 g3
-((lp32
-tp33
-Rp34
+((lp33
+tp34
+Rp35
 sS'species'
-p35
+p36
 g3
-((lp36
-S"(2323, u'(?i)(bees|bee)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
+((lp37
+S"(3191, u'(?i)\\\\b(worlds|world)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
+aS"(1055, u'(?i)\\\\b(men|man)\\\\b')"
 p39
-aS"(479, u'(?i)(lings|ling)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p40
-aS"(1055, u'(?i)(men|man)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(1057, u'(?i)(humans|human)')"
-p44
-aS"(3191, u'(?i)(worlds|world)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(3196, u'(?i)(human|humans)')"
-p48
-aS"(2809, u'(?i)(toms|tom)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp42
+Rp43
 sb.

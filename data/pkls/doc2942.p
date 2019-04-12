@@ -8,108 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(35, u'\\\\baripiprazole')"
 p5
-aS"(57, u'\\\\bolanzapine')"
+aS"(111, u'\\\\bolanzapine')"
 p6
-aS"(59, u'\\\\brisperidone')"
+aS"(113, u'\\\\brisperidone')"
 p7
-aS"(36, u'\\\\baripiprazole')"
-p8
-aS"(124, u'\\\\bolanzapine')"
-p9
-atp10
-Rp11
+atp8
+Rp9
 sS'methods'
-p12
+p10
 g3
-((lp13
+((lp11
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p12
+atp13
+Rp14
 sS'topics'
-p17
+p15
 g3
-((lp18
+((lp16
 S"(15, u'\\\\bschizophreni')"
-p19
+p17
 aS"(6, u'\\\\bcognit')"
-p20
+p18
 aS"(7, u'\\\\bmemory')"
-p21
-atp22
-Rp23
+p19
+atp20
+Rp21
 sS'receptors'
+p22
+g3
+((lp23
+S'5ht1a'
 p24
-g3
-((lp25
-S'5ht5'
-p26
-aS'5ht1a'
-p27
-atp28
-Rp29
+atp25
+Rp26
 sS'regions'
-p30
+p27
 g3
-((lp31
-tp32
-Rp33
+((lp28
+tp29
+Rp30
 sS'year'
-p34
+p31
 V2015
-p35
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(57, u'\\\\bolanzapine')"
+p35
+aS"(223, u'\\\\baripiprazole')"
 p36
-g3
-((lp37
-S"(25, u'\\\\bcannabidiol')"
+aS"(21, u'\\\\bcannabidiol')"
+p37
+aS"(149, u'\\\\bmem')"
 p38
-aS"(181, u'\\\\bdom')"
+aS"(176, u'\\\\bdom')"
 p39
-aS"(16, u'\\\\baripiprazole')"
-p40
-aS"(64, u'\\\\bolanzapine')"
-p41
-aS"(155, u'\\\\bmem')"
-p42
-atp43
-Rp44
+atp40
+Rp41
 sS'species'
-p45
+p42
 g3
-((lp46
-S"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(867, u'(?i)(tits|tit)')"
-p48
-aS"(5176, u'(?i)(tegs|teg)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(81, u'(?i)(asps|asp)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-aS"(5958, u'(?i)(rats|rat)')"
-p56
-aS"(1057, u'(?i)(humans|human)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-aS"(3196, u'(?i)(human|humans)')"
-p60
-aS"(2809, u'(?i)(toms|tom)')"
-p61
-atp62
-Rp63
+((lp43
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p46
+atp47
+Rp48
 sb.

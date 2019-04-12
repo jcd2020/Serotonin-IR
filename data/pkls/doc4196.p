@@ -60,44 +60,18 @@ sS'species'
 p35
 g3
 ((lp36
-S"(1070, u'(?i)(pets|pet)')"
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
 p37
-aS"(3550, u'(?i)(anis|ani)')"
+aS"(3672, u'(?i)\\\\b(drosophilas|drosophila)(-|\\\\s+)?(melanogasters|melanogaster)\\\\b')"
 p38
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(3671, u'(?i)\\\\b(drosophilas|drosophila)\\\\b')"
 p39
-aS"(3672, u'(?i)(drosophilas|drosophila)(-|\\\\s+)?(melanogasters|melanogaster)')"
+aS"(5944, u'(?i)\\\\b(soles|sole)\\\\b')"
 p40
-aS"(867, u'(?i)(tits|tit)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p41
-aS"(3529, u'(?i)(larvas|larva)')"
+aS"(3381, u'(?i)\\\\b(flies|fly)\\\\b')"
 p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(4091, u'(?i)(adults|adult)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(5944, u'(?i)(soles|sole)')"
-p47
-aS"(3381, u'(?i)(flies|fly)')"
-p48
-aS"(2395, u'(?i)(mutants|mutant)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(3191, u'(?i)(worlds|world)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(6642, u'(?i)(lions|lion)')"
-p53
-aS"(5229, u'(?i)(moles|mole)')"
-p54
-aS"(3671, u'(?i)(drosophilas|drosophila)')"
-p55
-atp56
-Rp57
+atp43
+Rp44
 sb.

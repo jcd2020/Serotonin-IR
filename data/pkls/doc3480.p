@@ -46,11 +46,11 @@ sS'agonists'
 p27
 g3
 ((lp28
-S"(24, u'\\\\bbuspirone')"
+S"(20, u'\\\\bbuspirone')"
 p29
-aS"(50, u'\\\\bipsapirone')"
+aS"(45, u'\\\\bipsapirone')"
 p30
-aS"(193, u'\\\\bethanol')"
+aS"(189, u'\\\\bethanol')"
 p31
 atp32
 Rp33
@@ -58,34 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(3248, u'(?i)(offspring|offspring)')"
+S"(6580, u'(?i)\\\\b(dams|dam)\\\\b')"
 p36
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
 p37
-aS"(7609, u'(?i)(erns|ern)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(6580, u'(?i)(dams|dam)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(1683, u'(?i)(terns|tern)')"
-p49
-atp50
-Rp51
+atp38
+Rp39
 sb.

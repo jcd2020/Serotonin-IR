@@ -8,132 +8,96 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(54, u'\\\\bpizotifen')"
 p5
-aS"(42, u'\\\\bergotamine')"
+aS"(34, u'\\\\bmetergoline')"
 p6
-aS"(52, u'\\\\bmetergoline')"
-p7
-aS"(105, u'\\\\bmethysergide')"
-p8
-aS"(128, u'\\\\bketanserin')"
-p9
-aS"(63, u'\\\\bpizotifen')"
-p10
 aS"(14, u'\\\\bmethiothepin')"
-p11
-aS"(35, u'\\\\bmetergoline')"
-p12
-atp13
-Rp14
+p7
+aS"(117, u'\\\\bketanserin')"
+p8
+aS"(194, u'\\\\bmethysergide')"
+p9
+aS"(40, u'\\\\bergotamine')"
+p10
+atp11
+Rp12
 sS'methods'
-p15
+p13
 g3
-((lp16
+((lp14
 S'Method.STIMULATION'
-p17
+p15
 aS'Method.ANTAGONIST'
-p18
+p16
 aS'Method.AGONIST'
-p19
-atp20
-Rp21
+p17
+atp18
+Rp19
 sS'topics'
-p22
+p20
 g3
-((lp23
-tp24
-Rp25
+((lp21
+tp22
+Rp23
 sS'receptors'
-p26
+p24
 g3
-((lp27
+((lp25
 S'5ht1b'
-p28
+p26
 aS'5ht3'
-p29
+p27
 aS'5ht1f'
-p30
+p28
 aS'5ht1'
-p31
+p29
 aS'5ht1d'
-p32
+p30
 aS'5ht2'
-p33
-atp34
-Rp35
+p31
+atp32
+Rp33
 sS'regions'
+p34
+g3
+((lp35
+S"(374, u'(?i)\\\\b(duras|dura)(-|\\\\s+)?(maters|mater)\\\\b')"
 p36
-g3
-((lp37
-S"(374, u'(?i)(duras|dura)(-|\\\\s+)?(maters|mater)')"
-p38
-aS"(34, u'(?i)(pon|pons)')"
-p39
-atp40
-Rp41
+atp37
+Rp38
 sS'year'
-p42
+p39
 V1991
-p43
+p40
 sS'agonists'
+p41
+g3
+((lp42
+S"(96, u'\\\\bsumatriptan')"
+p43
+aS"(25, u'\\\\bdihydroergotamine')"
 p44
-g3
-((lp45
-S"(103, u'\\\\bsumatriptan')"
+aS"(33, u'\\\\bergotamine')"
+p45
+aS"(53, u'\\\\bmethysergide')"
 p46
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p47
-aS"(5, u'\\\\b5 ?ct')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p48
-aS"(29, u'\\\\bdihydroergotamine')"
+aS"(219, u'\\\\b5 ?ct')"
 p49
-aS"(60, u'\\\\bmethysergide')"
-p50
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p51
-aS"(38, u'\\\\bergotamine')"
-p52
-atp53
-Rp54
+atp50
+Rp51
 sS'species'
-p55
+p52
 g3
-((lp56
-S"(6753, u'(?i)(da|das)')"
-p57
-aS"(2568, u'(?i)(hens|hen)')"
-p58
-aS"(5958, u'(?i)(rats|rat)')"
-p59
-aS"(4964, u'(?i)(serins|serin)')"
-p60
-aS"(2327, u'(?i)(bovines|bovine)')"
-p61
-aS"(6682, u'(?i)(tera|teras)')"
-p62
-aS"(6249, u'(?i)(ants|ant)')"
-p63
-aS"(468, u'(?i)(oxen|ox)')"
-p64
-aS"(1055, u'(?i)(men|man)')"
-p65
-aS"(3726, u'(?i)(mates|mate)')"
-p66
-aS"(3592, u'(?i)(ravens|raven)')"
-p67
-aS"(853, u'(?i)(minas|mina)')"
-p68
-aS"(3550, u'(?i)(anis|ani)')"
-p69
-aS"(3522, u'(?i)(tetras|tetra)')"
-p70
-aS"(1414, u'(?i)(chars|char)')"
-p71
-aS"(6642, u'(?i)(lions|lion)')"
-p72
-aS"(6356, u'(?i)(ais|ai)')"
-p73
-atp74
-Rp75
+((lp53
+S"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
+p54
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p55
+atp56
+Rp57
 sb.

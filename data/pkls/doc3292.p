@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(38, u'\\\\bsb ?224289')"
 p5
-aS"(39, u'\\\\bsb ?224289')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -38,76 +38,52 @@ S'5ht1b'
 p21
 aS'5ht1a'
 p22
-aS'5ht5'
-p23
 aS'5ht1d'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp27
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p28
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p29
-aS"(224, u'(?i)(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(223, u'(?i)(putamens|putamen)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V1999
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p38
-g3
-((lp39
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p40
-aS"(121, u'\\\\bl ?694247')"
-p41
-atp42
-Rp43
+aS"(114, u'\\\\bl ?694247')"
+p39
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp43
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p44
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p45
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p46
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p47
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p48
-aS"(867, u'(?i)(tits|tit)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(6325, u'(?i)(caudates|caudate)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(3152, u'(?i)(layers|layer)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(1057, u'(?i)(humans|human)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(3196, u'(?i)(human|humans)')"
-p58
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p59
-aS"(1683, u'(?i)(terns|tern)')"
-p60
-atp61
-Rp62
+atp49
+Rp50
 sb.

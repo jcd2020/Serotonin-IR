@@ -50,68 +50,46 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(217, u'(?i)(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(216, u'(?i)(strias|stria)(-|\\\\s+)?(terminali|terminalis)')"
+aS"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
 p31
-aS"(34, u'(?i)(pon|pons)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p32
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
 p33
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p34
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'year'
-p38
+p37
 V1998
-p39
+p38
 sS'agonists'
-p40
+p39
 g3
-((lp41
-S"(155, u'\\\\bmem')"
-p42
-atp43
-Rp44
+((lp40
+S"(149, u'\\\\bmem')"
+p41
+atp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(5799, u'(?i)(rodents|rodent)')"
+((lp45
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p46
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p47
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p48
-aS"(6125, u'(?i)(females|female)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p49
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p50
-aS"(7610, u'(?i)(ernes|erne)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p51
-aS"(5967, u'(?i)(males|male)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(853, u'(?i)(minas|mina)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(1057, u'(?i)(humans|human)')"
-p58
-aS"(1961, u'(?i)(pens|pen)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-aS"(3196, u'(?i)(human|humans)')"
-p61
-aS"(6356, u'(?i)(ais|ai)')"
-p62
-atp63
-Rp64
+atp52
+Rp53
 sb.

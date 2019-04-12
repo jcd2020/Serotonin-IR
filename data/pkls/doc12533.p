@@ -30,70 +30,38 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht4'
 p19
-aS'5ht4'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-tp25
-Rp26
+((lp23
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2018
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(155, u'\\\\bmem')"
-p31
-atp32
-Rp33
+((lp29
+S"(149, u'\\\\bmem')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp34
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p35
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(5156, u'(?i)\\\\b(invertebrates|invertebrate)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(702, u'(?i)(genets|genet)')"
-p39
-aS"(163, u'(?i)(mice|mouse)')"
-p40
-aS"(2389, u'(?i)(spats|spat)')"
-p41
-aS"(5156, u'(?i)(invertebrates|invertebrate)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p45
-aS"(6580, u'(?i)(dams|dam)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(7539, u'(?i)(mammals|mammal)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(2621, u'(?i)(vertebrates|vertebrate)')"
-p51
-aS"(5743, u'(?i)(bots|bot)')"
-p52
-aS"(5949, u'(?i)(dogs|dog)')"
-p53
-atp54
-Rp55
+atp38
+Rp39
 sb.

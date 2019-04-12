@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -56,64 +56,24 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2401, u'(?i)(primates|primate)')"
+S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
 p35
-aS"(2183, u'(?i)(gars|gar)')"
+aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p36
-aS"(6981, u'(?i)(moths|moth)')"
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p37
-aS"(3247, u'(?i)(youngs|young)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p38
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p39
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(3196, u'(?i)(human|humans)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p42
-aS"(4091, u'(?i)(adults|adult)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p43
-aS"(5967, u'(?i)(males|male)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(2809, u'(?i)(toms|tom)')"
-p48
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p49
-aS"(5537, u'(?i)(hippos|hippo)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(7609, u'(?i)(erns|ern)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(4597, u'(?i)(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-aS"(1057, u'(?i)(humans|human)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(4596, u'(?i)(rhesuses|rhesus)')"
-p59
-aS"(853, u'(?i)(minas|mina)')"
-p60
-aS"(3726, u'(?i)(mates|mate)')"
-p61
-aS"(5917, u'(?i)(roaches|roach)')"
-p62
-aS"(1683, u'(?i)(terns|tern)')"
-p63
-atp64
-Rp65
+atp44
+Rp45
 sb.

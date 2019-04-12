@@ -40,58 +40,30 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(178, u'(?i)(laterals|lateral)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(286, u'(?i)\\\\b(perirhinals|perirhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-aS"(286, u'(?i)(perirhinals|perirhinal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p26
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp27
+Rp28
 sS'year'
-p31
+p29
 V1993
-p32
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(20, u'\\\\bbuspirone')"
 p33
-g3
-((lp34
-S"(24, u'\\\\bbuspirone')"
-p35
-atp36
-Rp37
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(2323, u'(?i)(bees|bee)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(7609, u'(?i)(erns|ern)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(6682, u'(?i)(tera|teras)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(1683, u'(?i)(terns|tern)')"
-p52
-atp53
-Rp54
+((lp37
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

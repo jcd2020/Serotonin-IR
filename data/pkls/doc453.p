@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(114, u'\\\\bimipramine')"
+S"(104, u'\\\\bimipramine')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
 atp7
 Rp8
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(47, u'\\\\bgepirone')"
+S"(42, u'\\\\bgepirone')"
 p33
 atp34
 Rp35
@@ -62,40 +62,6 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2099, u'(?i)(martens|marten)')"
-p38
-aS"(2323, u'(?i)(bees|bee)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(7609, u'(?i)(erns|ern)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(5551, u'(?i)(owls|owl)')"
-p43
-aS"(1885, u'(?i)(apars|apar)')"
-p44
-aS"(81, u'(?i)(asps|asp)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(4624, u'(?i)(apes|ape)')"
-p53
-aS"(2809, u'(?i)(toms|tom)')"
-p54
-atp55
-Rp56
+tp38
+Rp39
 sb.

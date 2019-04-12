@@ -8,112 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(194, u'\\\\bmethysergide')"
 p5
-aS"(53, u'\\\\bketanserin')"
+aS"(119, u'\\\\britanserin')"
 p6
-aS"(130, u'\\\\britanserin')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(105, u'\\\\bmethysergide')"
+aS"(113, u'\\\\brisperidone')"
 p8
-aS"(128, u'\\\\bketanserin')"
-p9
-aS"(54, u'\\\\britanserin')"
-p10
-aS"(59, u'\\\\brisperidone')"
-p11
-atp12
-Rp13
+atp9
+Rp10
 sS'methods'
-p14
+p11
 g3
-((lp15
+((lp12
 S'Method.AGONIST'
-p16
-atp17
-Rp18
+p13
+atp14
+Rp15
 sS'topics'
-p19
+p16
 g3
-((lp20
+((lp17
 S"(25, u'\\\\bvasoconstrict')"
-p21
-atp22
-Rp23
+p18
+atp19
+Rp20
 sS'receptors'
-p24
+p21
 g3
-((lp25
+((lp22
 S'5ht1a'
-p26
+p23
 aS'5ht1f'
-p27
+p24
 aS'5ht1'
-p28
+p25
 aS'5ht1d'
-p29
-atp30
-Rp31
+p26
+atp27
+Rp28
 sS'regions'
-p32
+p29
 g3
-((lp33
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p34
-atp35
-Rp36
+((lp30
+S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p31
+atp32
+Rp33
 sS'year'
-p37
+p34
 V1996
-p38
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(96, u'\\\\bsumatriptan')"
+p38
+aS"(25, u'\\\\bdihydroergotamine')"
 p39
-g3
-((lp40
-S"(103, u'\\\\bsumatriptan')"
+aS"(53, u'\\\\bmethysergide')"
+p40
+aS"(149, u'\\\\bmem')"
 p41
-aS"(155, u'\\\\bmem')"
-p42
-aS"(60, u'\\\\bmethysergide')"
-p43
-aS"(29, u'\\\\bdihydroergotamine')"
-p44
-atp45
-Rp46
+atp42
+Rp43
 sS'species'
-p47
+p44
 g3
-((lp48
-S"(4624, u'(?i)(apes|ape)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(4201, u'(?i)(kines|kine)')"
-p51
-aS"(1883, u'(?i)(calves|calf)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(7488, u'(?i)(molas|mola)')"
-p56
-aS"(4964, u'(?i)(serins|serin)')"
-p57
-aS"(3550, u'(?i)(anis|ani)')"
-p58
-aS"(1057, u'(?i)(humans|human)')"
-p59
-aS"(6391, u'(?i)(asses|ass)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-aS"(3196, u'(?i)(human|humans)')"
-p62
-aS"(4979, u'(?i)(cats|cat)')"
-p63
-atp64
-Rp65
+((lp45
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p46
+aS"(1883, u'(?i)\\\\b(calves|calf)\\\\b')"
+p47
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p48
+atp49
+Rp50
 sb.

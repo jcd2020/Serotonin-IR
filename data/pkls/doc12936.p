@@ -48,9 +48,9 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(233, u'\\\\blp ?211')"
+S"(231, u'\\\\blp ?211')"
 p30
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p31
 atp32
 Rp33
@@ -58,50 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(4624, u'(?i)(apes|ape)')"
+S"(6517, u'(?i)\\\\b(birds|bird)\\\\b')"
 p36
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(5229, u'(?i)(moles|mole)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(6391, u'(?i)(asses|ass)')"
-p42
-aS"(6125, u'(?i)(females|female)')"
-p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(5967, u'(?i)(males|male)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(2809, u'(?i)(toms|tom)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(163, u'(?i)(mice|mouse)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(6753, u'(?i)(da|das)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(1414, u'(?i)(chars|char)')"
-p54
-aS"(4247, u'(?i)(tatus|tatu)')"
-p55
-aS"(6517, u'(?i)(birds|bird)')"
-p56
-aS"(5917, u'(?i)(roaches|roach)')"
-p57
-atp58
-Rp59
+atp39
+Rp40
 sb.

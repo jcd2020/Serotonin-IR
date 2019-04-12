@@ -54,24 +54,10 @@ sS'species'
 p32
 g3
 ((lp33
-S"(5958, u'(?i)(rats|rat)')"
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p34
-aS"(7539, u'(?i)(mammals|mammal)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(468, u'(?i)(oxen|ox)')"
-p36
-aS"(3726, u'(?i)(mates|mate)')"
-p37
-aS"(5743, u'(?i)(bots|bot)')"
-p38
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p39
-aS"(3812, u'(?i)(studs|stud)')"
-p40
-aS"(6391, u'(?i)(asses|ass)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-atp43
-Rp44
+atp36
+Rp37
 sb.

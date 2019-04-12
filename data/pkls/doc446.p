@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(43, u'\\\\bgr ?127935')"
 p5
 aS"(14, u'\\\\bmethiothepin')"
 p6
-aS"(45, u'\\\\bgr ?127935')"
+aS"(31, u'\\\\bway ?100635')"
 p7
 atp8
 Rp9
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(103, u'\\\\bsumatriptan')"
+S"(96, u'\\\\bsumatriptan')"
 p33
 atp34
 Rp35
@@ -62,22 +62,8 @@ sS'species'
 p36
 g3
 ((lp37
-S"(6249, u'(?i)(ants|ant)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(1961, u'(?i)(pens|pen)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(821, u'(?i)(lice|louse)')"
-p45
-atp46
-Rp47
+atp39
+Rp40
 sb.

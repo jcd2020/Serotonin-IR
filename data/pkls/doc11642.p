@@ -8,15 +8,15 @@ c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bgranisetron')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(140, u'\\\\brenzapride')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
-aS"(135, u'\\\\bondansetron')"
+aS"(123, u'\\\\bgranisetron')"
 p7
-aS"(139, u'\\\\bmetoclopramide')"
+aS"(129, u'\\\\brenzapride')"
 p8
-aS"(102, u'\\\\bfluoxetine')"
+aS"(128, u'\\\\bmetoclopramide')"
 p9
 atp10
 Rp11
@@ -48,78 +48,32 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V1991
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(207, u'\\\\brenzapride')"
+((lp35
+S"(209, u'\\\\bmetoclopramide')"
+p36
+aS"(203, u'\\\\brenzapride')"
 p37
-aS"(196, u'\\\\bquipazine')"
+aS"(192, u'\\\\bquipazine')"
 p38
-aS"(213, u'\\\\bmetoclopramide')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(3404, u'(?i)(titis|titi)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(1070, u'(?i)(pets|pet)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1349, u'(?i)(rams|ram)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(2809, u'(?i)(toms|tom)')"
-p53
-aS"(2670, u'(?i)(arabs|arab)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(7609, u'(?i)(erns|ern)')"
-p56
-aS"(867, u'(?i)(tits|tit)')"
-p57
-aS"(1055, u'(?i)(men|man)')"
-p58
-aS"(7488, u'(?i)(molas|mola)')"
-p59
-aS"(6753, u'(?i)(da|das)')"
-p60
-aS"(1414, u'(?i)(chars|char)')"
-p61
-aS"(2323, u'(?i)(bees|bee)')"
-p62
-aS"(2568, u'(?i)(hens|hen)')"
-p63
-aS"(4979, u'(?i)(cats|cat)')"
-p64
-aS"(1054, u'(?i)(homoes|homo)')"
-p65
-aS"(1683, u'(?i)(terns|tern)')"
-p66
-atp67
-Rp68
+((lp42
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

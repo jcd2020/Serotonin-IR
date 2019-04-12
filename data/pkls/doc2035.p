@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
 atp6
 Rp7
@@ -44,58 +44,28 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p27
-aS"(246, u'(?i)(uncuses|uncus)')"
-p28
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p29
-atp30
-Rp31
+atp28
+Rp29
 sS'year'
-p32
+p30
 V2014
-p33
+p31
 sS'agonists'
-p34
+p32
 g3
-((lp35
-tp36
-Rp37
+((lp33
+tp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(4624, u'(?i)(apes|ape)')"
-p40
-aS"(4301, u'(?i)(hydras|hydra)')"
-p41
-aS"(1280, u'(?i)(shrews|shrew)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(5085, u'(?i)(coppers|copper)')"
-p45
-aS"(3592, u'(?i)(ravens|raven)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(6981, u'(?i)(moths|moth)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-atp55
-Rp56
+((lp37
+S"(5085, u'(?i)\\\\b(coppers|copper)\\\\b')"
+p38
+aS"(1280, u'(?i)\\\\b(shrews|shrew)\\\\b')"
+p39
+atp40
+Rp41
 sb.

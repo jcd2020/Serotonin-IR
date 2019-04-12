@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p23
 atp24
 Rp25
@@ -48,9 +48,9 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(155, u'\\\\bmem')"
+S"(100, u'\\\\bcp ?93129')"
 p30
-aS"(107, u'\\\\bcp ?93129')"
+aS"(149, u'\\\\bmem')"
 p31
 atp32
 Rp33
@@ -58,32 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(1169, u'(?i)\\\\b(grades|grade)\\\\b')"
 p36
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(1169, u'(?i)(grades|grade)')"
-p40
-aS"(4163, u'(?i)(ermines|ermine)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(7094, u'(?i)(curs|cur)')"
-p45
-aS"(1291, u'(?i)(ratels|ratel)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(5497, u'(?i)(fices|fice)')"
-p48
-atp49
-Rp50
+atp38
+Rp39
 sb.

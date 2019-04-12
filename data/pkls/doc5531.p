@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(37, u'\\\\bsb ?216641')"
 p5
-aS"(43, u'\\\\bbrl ?15572')"
+aS"(41, u'\\\\bbrl ?15572')"
 p6
-aS"(38, u'\\\\bsb ?216641')"
+aS"(31, u'\\\\bway ?100635')"
 p7
 atp8
 Rp9
@@ -42,64 +42,46 @@ S'5ht1b'
 p23
 aS'5ht1a'
 p24
-aS'5ht5'
-p25
 aS'5ht1d'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp29
+S"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
+p30
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(389, u'(?i)(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2001
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(103, u'\\\\bsumatriptan')"
+((lp37
+S"(96, u'\\\\bsumatriptan')"
+p38
+aS"(100, u'\\\\bcp ?93129')"
 p39
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p40
-aS"(107, u'\\\\bcp ?93129')"
-p41
-atp42
-Rp43
+atp41
+Rp42
 sS'species'
-p44
+p43
 g3
-((lp45
-S"(5958, u'(?i)(rats|rat)')"
+((lp44
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p45
+aS"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
 p46
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(5967, u'(?i)(males|male)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(7127, u'(?i)(monitors|monitor)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(7609, u'(?i)(erns|ern)')"
-p55
-aS"(821, u'(?i)(lice|louse)')"
-p56
-atp57
-Rp58
+atp48
+Rp49
 sb.

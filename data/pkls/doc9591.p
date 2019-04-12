@@ -8,84 +8,62 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(123, u'\\\\bclozapine')"
-p7
-aS"(56, u'\\\\bclozapine')"
-p8
-atp9
-Rp10
+atp7
+Rp8
 sS'methods'
-p11
+p9
 g3
-((lp12
+((lp10
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p11
+atp12
+Rp13
 sS'topics'
-p16
+p14
 g3
-((lp17
-tp18
-Rp19
+((lp15
+tp16
+Rp17
 sS'receptors'
-p20
+p18
 g3
-((lp21
+((lp19
 S'5ht2a'
-p22
-atp23
-Rp24
+p20
+atp21
+Rp22
 sS'regions'
+p23
+g3
+((lp24
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p25
-g3
-((lp26
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p27
-atp28
-Rp29
+atp26
+Rp27
 sS'year'
-p30
+p28
 V1999
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(210, u'\\\\bsulpiride')"
 p32
-g3
-((lp33
-S"(214, u'\\\\bsulpiride')"
-p34
-aS"(27, u'\\\\bclozapine')"
-p35
-atp36
-Rp37
+aS"(23, u'\\\\bclozapine')"
+p33
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(4624, u'(?i)(apes|ape)')"
-p40
-aS"(4096, u'(?i)(chows|chow)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(4964, u'(?i)(serins|serin)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+((lp37
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

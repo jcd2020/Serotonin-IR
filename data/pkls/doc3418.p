@@ -8,116 +8,80 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(53, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(130, u'\\\\britanserin')"
+aS"(113, u'\\\\brisperidone')"
 p7
-aS"(123, u'\\\\bclozapine')"
+aS"(108, u'\\\\bfluphenazine')"
 p8
-aS"(56, u'\\\\bclozapine')"
+aS"(109, u'\\\\bthioridazine')"
 p9
-aS"(128, u'\\\\bketanserin')"
+aS"(119, u'\\\\britanserin')"
 p10
-aS"(67, u'\\\\bhaloperidol')"
+aS"(58, u'\\\\bhaloperidol')"
 p11
-aS"(54, u'\\\\britanserin')"
-p12
-aS"(120, u'\\\\bfluphenazine')"
-p13
-aS"(122, u'\\\\bthioridazine')"
-p14
-aS"(59, u'\\\\brisperidone')"
-p15
-atp16
-Rp17
+atp12
+Rp13
 sS'methods'
-p18
+p14
 g3
-((lp19
+((lp15
 S'Method.ANTAGONIST'
-p20
+p16
 aS'Method.AGONIST'
-p21
-atp22
-Rp23
+p17
+atp18
+Rp19
 sS'topics'
+p20
+g3
+((lp21
+tp22
+Rp23
+sS'receptors'
 p24
 g3
 ((lp25
-tp26
-Rp27
-sS'receptors'
-p28
-g3
-((lp29
 S'5ht1c'
-p30
-aS'5ht5'
-p31
+p26
 aS'5ht1a'
-p32
+p27
 aS'5ht2'
-p33
-atp34
-Rp35
+p28
+atp29
+Rp30
 sS'regions'
-p36
+p31
 g3
-((lp37
-tp38
-Rp39
+((lp32
+tp33
+Rp34
 sS'year'
-p40
+p35
 V1994
-p41
+p36
 sS'agonists'
-p42
+p37
 g3
-((lp43
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p44
-aS"(33, u'\\\\bdoi')"
+((lp38
+S"(175, u'\\\\bdoi')"
+p39
+aS"(23, u'\\\\bclozapine')"
+p40
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p41
+aS"(43, u'\\\\bhaloperidol')"
+p42
+atp43
+Rp44
+sS'species'
 p45
-aS"(48, u'\\\\bhaloperidol')"
-p46
-aS"(27, u'\\\\bclozapine')"
+g3
+((lp46
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p47
 atp48
 Rp49
-sS'species'
-p50
-g3
-((lp51
-S"(2323, u'(?i)(bees|bee)')"
-p52
-aS"(6753, u'(?i)(da|das)')"
-p53
-aS"(2568, u'(?i)(hens|hen)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(468, u'(?i)(oxen|ox)')"
-p57
-aS"(1349, u'(?i)(rams|ram)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-aS"(4964, u'(?i)(serins|serin)')"
-p60
-aS"(3550, u'(?i)(anis|ani)')"
-p61
-aS"(3522, u'(?i)(tetras|tetra)')"
-p62
-aS"(1961, u'(?i)(pens|pen)')"
-p63
-aS"(3812, u'(?i)(studs|stud)')"
-p64
-aS"(6391, u'(?i)(asses|ass)')"
-p65
-atp66
-Rp67
 sb.

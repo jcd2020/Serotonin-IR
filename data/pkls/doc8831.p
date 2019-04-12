@@ -38,48 +38,30 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp24
+Rp25
 sS'year'
-p28
+p26
 V1991
-p29
+p27
 sS'agonists'
+p28
+g3
+((lp29
+S"(20, u'\\\\bbuspirone')"
 p30
-g3
-((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p32
-aS"(24, u'\\\\bbuspirone')"
-p33
-atp34
-Rp35
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p31
+atp32
+Rp33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(7609, u'(?i)(erns|ern)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(7094, u'(?i)(curs|cur)')"
-p42
-aS"(1349, u'(?i)(rams|ram)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(1683, u'(?i)(terns|tern)')"
-p46
-atp47
-Rp48
+((lp35
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p36
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

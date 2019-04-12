@@ -34,40 +34,26 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
+S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
 p22
-aS"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'year'
-p26
+p25
 V1996
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(6249, u'(?i)(ants|ant)')"
-p34
-aS"(5958, u'(?i)(rats|rat)')"
-p35
-aS"(4604, u'(?i)(mites|mite)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(3550, u'(?i)(anis|ani)')"
-p38
-aS"(4371, u'(?i)(lizas|liza)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-atp41
-Rp42
+((lp32
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p33
+atp34
+Rp35
 sb.

@@ -40,13 +40,13 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p25
-aS"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
+aS"(5, u'(?i)\\\\b(inferiors|inferior)(-|\\\\s+)?(olivaries|olivary)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(5, u'(?i)(inferiors|inferior)(-|\\\\s+)?(olivaries|olivary)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(32, u'(?i)\\\\b(hypoglossals|hypoglossal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
-aS"(32, u'(?i)(hypoglossals|hypoglossal)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p28
 atp29
 Rp30
@@ -64,30 +64,12 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5967, u'(?i)(males|male)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3072, u'(?i)\\\\b(piglets|piglet)\\\\b')"
 p40
-aS"(6125, u'(?i)(females|female)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p41
-aS"(3072, u'(?i)(piglets|piglet)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(2725, u'(?i)(mokes|moke)')"
-p45
-aS"(3051, u'(?i)(pigs|pig)')"
-p46
-aS"(2183, u'(?i)(gars|gar)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-atp51
-Rp52
+atp42
+Rp43
 sb.

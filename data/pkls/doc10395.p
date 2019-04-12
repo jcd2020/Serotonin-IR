@@ -30,64 +30,38 @@ g3
 ((lp17
 S'5ht7a'
 p18
-aS'5ht5'
-p19
 aS'5ht1a'
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p25
-atp26
-Rp27
+((lp23
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p24
+atp25
+Rp26
 sS'year'
-p28
+p27
 V1998
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(2323, u'(?i)(bees|bee)')"
+((lp34
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p35
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(7539, u'(?i)(mammals|mammal)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(7094, u'(?i)(curs|cur)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(7127, u'(?i)(monitors|monitor)')"
-p46
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(1949, u'(?i)(pacemakers|pacemaker)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp38
+Rp39
 sb.

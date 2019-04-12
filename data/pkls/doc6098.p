@@ -42,78 +42,42 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2000
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(103, u'\\\\bsumatriptan')"
+((lp31
+S"(96, u'\\\\bsumatriptan')"
+p32
+aS"(97, u'\\\\bzolmitriptan')"
 p33
-aS"(104, u'\\\\bzolmitriptan')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(4624, u'(?i)(apes|ape)')"
+((lp37
+S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+p38
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p39
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(1055, u'(?i)\\\\b(men|man)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p42
-aS"(3196, u'(?i)(human|humans)')"
+aS"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
 p43
-aS"(6642, u'(?i)(lions|lion)')"
+aS"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
 p44
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p45
-aS"(3062, u'(?i)(guineas|guinea)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(3767, u'(?i)(olms|olm)')"
-p48
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(4604, u'(?i)(mites|mite)')"
-p52
-aS"(7488, u'(?i)(molas|mola)')"
-p53
-aS"(853, u'(?i)(minas|mina)')"
-p54
-aS"(1057, u'(?i)(humans|human)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p57
-aS"(3569, u'(?i)(constrictors|constrictor)')"
-p58
-aS"(5949, u'(?i)(dogs|dog)')"
-p59
-aS"(2054, u'(?i)(heads|head)')"
-p60
-aS"(2568, u'(?i)(hens|hen)')"
-p61
-aS"(6753, u'(?i)(da|das)')"
-p62
-aS"(3051, u'(?i)(pigs|pig)')"
-p63
-atp64
-Rp65
+atp46
+Rp47
 sb.

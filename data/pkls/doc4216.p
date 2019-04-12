@@ -8,15 +8,15 @@ c__builtin__
 set
 p3
 ((lp4
-S"(140, u'\\\\brenzapride')"
+S"(129, u'\\\\brenzapride')"
 p5
-aS"(155, u'\\\\bgr ?125487')"
+aS"(194, u'\\\\bmethysergide')"
 p6
 aS"(21, u'\\\\bpindolol')"
 p7
-aS"(105, u'\\\\bmethysergide')"
+aS"(144, u'\\\\bgr ?113808')"
 p8
-aS"(153, u'\\\\bgr ?113808')"
+aS"(146, u'\\\\bgr ?125487')"
 p9
 atp10
 Rp11
@@ -60,15 +60,15 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(207, u'\\\\brenzapride')"
+S"(220, u'\\\\b5 ?methoxytryptamine')"
 p36
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(203, u'\\\\brenzapride')"
 p37
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(53, u'\\\\bmethysergide')"
 p38
-aS"(225, u'\\\\b5 ?meot')"
+aS"(222, u'\\\\b5 ?meot')"
 p39
-aS"(60, u'\\\\bmethysergide')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p40
 atp41
 Rp42
@@ -76,30 +76,8 @@ sS'species'
 p43
 g3
 ((lp44
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(3726, u'(?i)(mates|mate)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(2334, u'(?i)(eels|eel)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-atp57
-Rp58
+atp46
+Rp47
 sb.

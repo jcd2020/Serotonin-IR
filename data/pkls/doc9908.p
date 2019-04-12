@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bgranisetron')"
+S"(123, u'\\\\bgranisetron')"
 p5
 atp6
 Rp7
@@ -36,76 +36,42 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(322, u'(?i)(extrapyramidals|extrapyramidal)(-|\\\\s+)?(systems|system)')"
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p23
-aS"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p24
-aS"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
+aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p25
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
+aS"(322, u'(?i)\\\\b(extrapyramidals|extrapyramidal)(-|\\\\s+)?(systems|system)\\\\b')"
 p27
-aS"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p28
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V1996
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-tp36
-Rp37
+((lp34
+tp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp38
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p39
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(1054, u'(?i)(homoes|homo)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(7094, u'(?i)(curs|cur)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(1057, u'(?i)(humans|human)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(3196, u'(?i)(human|humans)')"
-p56
-aS"(3152, u'(?i)(layers|layer)')"
-p57
-aS"(6325, u'(?i)(caudates|caudate)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-atp60
-Rp61
+atp43
+Rp44
 sb.

@@ -34,9 +34,9 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p22
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p23
 atp24
 Rp25
@@ -54,26 +54,12 @@ sS'species'
 p32
 g3
 ((lp33
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p34
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p35
-aS"(4091, u'(?i)(adults|adult)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(1055, u'(?i)(men|man)')"
-p37
-aS"(3152, u'(?i)(layers|layer)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(3550, u'(?i)(anis|ani)')"
-p40
-aS"(5229, u'(?i)(moles|mole)')"
-p41
-aS"(4371, u'(?i)(lizas|liza)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-atp44
-Rp45
+atp37
+Rp38
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(129, u'\\\\bly ?53857')"
+S"(118, u'\\\\bly ?53857')"
 p5
 atp6
 Rp7
@@ -46,52 +46,30 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(180, u'(?i)(subfornicals|subfornical)(-|\\\\s+)?(organs|organ)')"
+S"(180, u'(?i)\\\\b(subfornicals|subfornical)(-|\\\\s+)?(organs|organ)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V1998
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp34
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p35
+aS"(175, u'\\\\bdoi')"
 p36
-aS"(33, u'\\\\bdoi')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(6753, u'(?i)(da|das)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3522, u'(?i)(tetras|tetra)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(1414, u'(?i)(chars|char)')"
-p51
-aS"(821, u'(?i)(lice|louse)')"
-p52
-atp53
-Rp54
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

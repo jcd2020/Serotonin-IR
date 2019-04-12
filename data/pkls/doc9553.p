@@ -8,116 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(11, u'\\\\banxiolyt')"
-p17
+p16
 aS"(10, u'\\\\banxiety')"
-p18
+p17
 aS"(4, u'\\\\blocomot')"
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
-S'5ht5'
+((lp22
+S'5ht1a'
+p23
+aS'5ht2a'
 p24
 aS'5ht2b'
 p25
 aS'5ht2'
 p26
-aS'5ht2a'
-p27
-aS'5ht1a'
-p28
 aS'5ht2c'
-p29
-atp30
-Rp31
+p27
+atp28
+Rp29
 sS'regions'
+p30
+g3
+((lp31
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p32
-g3
-((lp33
-S"(209, u'(?i)(amygdalas|amygdala)')"
-p34
-aS"(34, u'(?i)(pon|pons)')"
-p35
-atp36
-Rp37
+atp33
+Rp34
 sS'year'
-p38
+p35
 V2008
-p39
+p36
 sS'agonists'
-p40
+p37
 g3
-((lp41
-S"(161, u'\\\\bmcpp')"
-p42
-atp43
-Rp44
+((lp38
+S"(155, u'\\\\bmcpp')"
+p39
+atp40
+Rp41
 sS'species'
-p45
+p42
 g3
-((lp46
-S"(4624, u'(?i)(apes|ape)')"
-p47
-aS"(5537, u'(?i)(hippos|hippo)')"
-p48
-aS"(5799, u'(?i)(rodents|rodent)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(7609, u'(?i)(erns|ern)')"
-p51
-aS"(163, u'(?i)(mice|mouse)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(6753, u'(?i)(da|das)')"
-p54
-aS"(5551, u'(?i)(owls|owl)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(4964, u'(?i)(serins|serin)')"
-p57
-aS"(3550, u'(?i)(anis|ani)')"
-p58
-aS"(4176, u'(?i)(greys|grey)')"
-p59
-aS"(1961, u'(?i)(pens|pen)')"
-p60
-aS"(3812, u'(?i)(studs|stud)')"
-p61
-aS"(3431, u'(?i)(roans|roan)')"
-p62
-aS"(2809, u'(?i)(toms|tom)')"
-p63
-aS"(5743, u'(?i)(bots|bot)')"
-p64
-aS"(6356, u'(?i)(ais|ai)')"
-p65
-atp66
-Rp67
+((lp43
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p44
+aS"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
+p45
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p46
+atp47
+Rp48
 sb.

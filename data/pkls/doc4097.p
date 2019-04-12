@@ -28,60 +28,38 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht2b'
 p18
-aS'5ht2b'
-p19
 aS'5ht2c'
-p20
+p19
 aS'5ht2'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+((lp24
+tp25
+Rp26
 sS'year'
-p29
+p27
 V2016
-p30
+p28
 sS'agonists'
+p29
+g3
+((lp30
+S"(155, u'\\\\bmcpp')"
 p31
-g3
-((lp32
-S"(161, u'\\\\bmcpp')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(280, u'(?i)(gators|gator)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(6580, u'(?i)(dams|dam)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(3569, u'(?i)(constrictors|constrictor)')"
-p47
-atp48
-Rp49
+((lp35
+S"(3569, u'(?i)\\\\b(constrictors|constrictor)\\\\b')"
+p36
+atp37
+Rp38
 sb.

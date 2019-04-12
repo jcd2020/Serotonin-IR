@@ -8,84 +8,62 @@ c__builtin__
 set
 p3
 ((lp4
-S"(52, u'\\\\bmetergoline')"
+S"(34, u'\\\\bmetergoline')"
 p5
-aS"(35, u'\\\\bmetergoline')"
-p6
 aS"(22, u'\\\\bpropranolol')"
-p7
-atp8
-Rp9
+p6
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(25, u'\\\\bvasoconstrict')"
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht1b'
-p22
+p21
 aS'5ht1d'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+((lp26
+tp27
+Rp28
 sS'year'
-p31
+p29
 V1998
-p32
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(96, u'\\\\bsumatriptan')"
 p33
-g3
-((lp34
-S"(103, u'\\\\bsumatriptan')"
-p35
-atp36
-Rp37
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(1070, u'(?i)(pets|pet)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(867, u'(?i)(tits|tit)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(3404, u'(?i)(titis|titi)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(3569, u'(?i)(constrictors|constrictor)')"
-p48
-aS"(610, u'(?i)(equines|equine)')"
-p49
-atp50
-Rp51
+((lp37
+S"(610, u'(?i)\\\\b(equines|equine)\\\\b')"
+p38
+atp39
+Rp40
 sb.

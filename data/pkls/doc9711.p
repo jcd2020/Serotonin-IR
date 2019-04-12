@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(203, u'\\\\btfmpp')"
 p5
-aS"(100, u'\\\\beltoprazine')"
+aS"(89, u'\\\\beltoprazine')"
 p6
 atp7
 Rp8
@@ -40,7 +40,7 @@ g3
 ((lp22
 S'5ht1c'
 p23
-aS'5ht5'
+aS'5ht1a'
 p24
 aS'5ht3a'
 p25
@@ -48,78 +48,54 @@ aS'5ht2'
 p26
 aS'5ht2a'
 p27
-aS'5ht1a'
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'year'
-p35
+p34
 V1992
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(74, u'\\\\bru ?24969')"
+((lp37
+S"(20, u'\\\\bbuspirone')"
+p38
+aS"(178, u'\\\\btfmpp')"
 p39
-aS"(196, u'\\\\bquipazine')"
+aS"(192, u'\\\\bquipazine')"
 p40
-aS"(24, u'\\\\bbuspirone')"
+aS"(175, u'\\\\bdoi')"
 p41
-aS"(183, u'\\\\btfmpp')"
+aS"(67, u'\\\\bru ?24969')"
 p42
-aS"(33, u'\\\\bdoi')"
+aS"(31, u'\\\\beltoprazine')"
 p43
-aS"(36, u'\\\\beltoprazine')"
+aS"(45, u'\\\\bipsapirone')"
 p44
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p45
-aS"(50, u'\\\\bipsapirone')"
-p46
-atp47
-Rp48
+atp46
+Rp47
 sS'species'
-p49
+p48
 g3
-((lp50
-S"(6249, u'(?i)(ants|ant)')"
+((lp49
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p50
+aS"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
 p51
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p52
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p53
-aS"(6125, u'(?i)(females|female)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p54
-aS"(468, u'(?i)(oxen|ox)')"
-p55
-aS"(5967, u'(?i)(males|male)')"
-p56
-aS"(2183, u'(?i)(gars|gar)')"
-p57
-aS"(1055, u'(?i)(men|man)')"
-p58
-aS"(3726, u'(?i)(mates|mate)')"
-p59
-aS"(4979, u'(?i)(cats|cat)')"
-p60
-aS"(3550, u'(?i)(anis|ani)')"
-p61
-aS"(1414, u'(?i)(chars|char)')"
-p62
-aS"(7609, u'(?i)(erns|ern)')"
-p63
-aS"(6356, u'(?i)(ais|ai)')"
-p64
-aS"(1683, u'(?i)(terns|tern)')"
-p65
-aS"(5949, u'(?i)(dogs|dog)')"
-p66
-atp67
-Rp68
+atp55
+Rp56
 sb.

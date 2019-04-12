@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(84, u'\\\\bsarpogrelate')"
+S"(75, u'\\\\bsarpogrelate')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(194, u'\\\\bmethysergide')"
 p6
 atp7
 Rp8
@@ -40,40 +40,28 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1999
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(155, u'\\\\bmem')"
+((lp30
+S"(53, u'\\\\bmethysergide')"
+p31
+aS"(149, u'\\\\bmem')"
 p32
-aS"(60, u'\\\\bmethysergide')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(4964, u'(?i)(serins|serin)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(5229, u'(?i)(moles|mole)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-atp44
-Rp45
+((lp36
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

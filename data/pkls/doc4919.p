@@ -36,72 +36,46 @@ aS'5ht1b'
 p20
 aS'5ht1a'
 p21
-aS'5ht5'
-p22
 aS'5ht2'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-tp28
-Rp29
+((lp26
+tp27
+Rp28
 sS'year'
-p30
+p29
 V1990
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(80, u'\\\\btandospirone')"
+((lp32
+S"(20, u'\\\\bbuspirone')"
+p33
+aS"(149, u'\\\\bmem')"
 p34
-aS"(67, u'\\\\bpyrimidinylpiperazine')"
+aS"(42, u'\\\\bgepirone')"
 p35
-aS"(47, u'\\\\bgepirone')"
+aS"(60, u'\\\\bpyrimidinylpiperazine')"
 p36
-aS"(24, u'\\\\bbuspirone')"
+aS"(73, u'\\\\btandospirone')"
 p37
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(45, u'\\\\bipsapirone')"
 p38
-aS"(50, u'\\\\bipsapirone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p39
-aS"(155, u'\\\\bmem')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(1070, u'(?i)(pets|pet)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6857, u'(?i)(ormers|ormer)')"
-p47
-aS"(867, u'(?i)(tits|tit)')"
-p48
-aS"(4163, u'(?i)(ermines|ermine)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(3404, u'(?i)(titis|titi)')"
-p51
-aS"(3726, u'(?i)(mates|mate)')"
-p52
-aS"(1054, u'(?i)(homoes|homo)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(6682, u'(?i)(tera|teras)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(1823, u'(?i)(merls|merl)')"
-p57
-atp58
-Rp59
+((lp43
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

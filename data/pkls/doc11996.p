@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(81, u'\\\\bagomelatine')"
+S"(121, u'\\\\bsb ?243213')"
 p5
-aS"(132, u'\\\\bsb ?243213')"
+aS"(72, u'\\\\bagomelatine')"
 p6
 atp7
 Rp8
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(33, u'\\\\bdoi')"
+S"(175, u'\\\\bdoi')"
 p33
 atp34
 Rp35
@@ -62,32 +62,10 @@ sS'species'
 p36
 g3
 ((lp37
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(4091, u'(?i)(adults|adult)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(107, u'(?i)(stags|stag)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp40
+Rp41
 sb.

@@ -8,110 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(56, u'\\\\bclozapine')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(128, u'\\\\bketanserin')"
+aS"(58, u'\\\\bhaloperidol')"
 p8
-aS"(67, u'\\\\bhaloperidol')"
-p9
-aS"(27, u'\\\\bspiperone')"
-p10
-atp11
-Rp12
+atp9
+Rp10
 sS'methods'
-p13
+p11
 g3
-((lp14
+((lp12
 S'Method.PET'
-p15
+p13
 aS'Method.ANTAGONIST'
-p16
-atp17
-Rp18
+p14
+atp15
+Rp16
 sS'topics'
-p19
+p17
 g3
-((lp20
-tp21
-Rp22
+((lp18
+tp19
+Rp20
 sS'receptors'
+p21
+g3
+((lp22
+S'5ht2'
 p23
-g3
-((lp24
-S'5ht5'
-p25
-aS'5ht2'
-p26
 aS'5ht2c'
-p27
-atp28
-Rp29
+p24
+atp25
+Rp26
 sS'regions'
+p27
+g3
+((lp28
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p29
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p30
-g3
-((lp31
-S"(220, u'(?i)(striatums|striatum)')"
-p32
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
-p33
-atp34
-Rp35
+atp31
+Rp32
 sS'year'
-p36
+p33
 V1995
-p37
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(23, u'\\\\bclozapine')"
+p37
+aS"(43, u'\\\\bhaloperidol')"
 p38
-g3
-((lp39
-S"(48, u'\\\\bhaloperidol')"
-p40
-aS"(27, u'\\\\bclozapine')"
-p41
-atp42
-Rp43
+atp39
+Rp40
 sS'species'
-p44
+p41
 g3
-((lp45
-S"(1070, u'(?i)(pets|pet)')"
+((lp42
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p43
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p44
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+p45
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(163, u'(?i)(mice|mouse)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(1725, u'(?i)(clams|clam)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(7094, u'(?i)(curs|cur)')"
-p53
-aS"(6215, u'(?i)(racers|racer)')"
-p54
-aS"(853, u'(?i)(minas|mina)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(3522, u'(?i)(tetras|tetra)')"
-p57
-aS"(1057, u'(?i)(humans|human)')"
-p58
-aS"(1961, u'(?i)(pens|pen)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-aS"(3196, u'(?i)(human|humans)')"
-p61
-aS"(4964, u'(?i)(serins|serin)')"
-p62
-atp63
-Rp64
+atp47
+Rp48
 sb.

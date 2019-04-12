@@ -8,92 +8,60 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+p10
+atp11
+Rp12
 sS'topics'
-p14
+p13
 g3
-((lp15
-tp16
-Rp17
+((lp14
+tp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
+((lp18
 S'5ht1a'
-p20
-aS'5ht5'
-p21
+p19
 aS'5ht2c'
-p22
-atp23
-Rp24
+p20
+atp21
+Rp22
 sS'regions'
+p23
+g3
+((lp24
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p25
-g3
-((lp26
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p27
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p28
-atp29
-Rp30
+atp26
+Rp27
 sS'year'
-p31
+p28
 V2005
-p32
+p29
 sS'agonists'
-p33
+p30
 g3
-((lp34
-S"(169, u'\\\\bfenfluramine')"
-p35
-atp36
-Rp37
+((lp31
+S"(163, u'\\\\bfenfluramine')"
+p32
+atp33
+Rp34
 sS'species'
-p38
+p35
 g3
-((lp39
-S"(1070, u'(?i)(pets|pet)')"
-p40
-aS"(5537, u'(?i)(hippos|hippo)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(1349, u'(?i)(rams|ram)')"
-p47
-aS"(4964, u'(?i)(serins|serin)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(5949, u'(?i)(dogs|dog)')"
-p53
-atp54
-Rp55
+((lp36
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

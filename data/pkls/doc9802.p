@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(197, u'\\\\blurasidone')"
+S"(190, u'\\\\blurasidone')"
 p5
-aS"(67, u'\\\\bhaloperidol')"
+aS"(69, u'\\\\bpimavanserin')"
 p6
-aS"(78, u'\\\\bpimavanserin')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
 atp8
 Rp9
@@ -40,70 +40,42 @@ sS'receptors'
 p22
 g3
 ((lp23
-S'5ht5'
+S'5ht1a'
 p24
-aS'5ht1a'
-p25
 aS'5ht2a'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'year'
-p33
+p32
 V2015
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(80, u'\\\\btandospirone')"
+((lp35
+S"(47, u'\\\\blurasidone')"
+p36
+aS"(73, u'\\\\btandospirone')"
 p37
-aS"(53, u'\\\\blurasidone')"
+aS"(43, u'\\\\bhaloperidol')"
 p38
-aS"(48, u'\\\\bhaloperidol')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
+((lp42
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p43
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(5537, u'(?i)(hippos|hippo)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(867, u'(?i)(tits|tit)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(479, u'(?i)(lings|ling)')"
-p49
-aS"(81, u'(?i)(asps|asp)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(3726, u'(?i)(mates|mate)')"
-p52
-aS"(3534, u'(?i)(scads|scad)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-atp59
-Rp60
+atp45
+Rp46
 sb.

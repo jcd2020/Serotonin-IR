@@ -8,98 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(133, u'\\\\bmianserin')"
 p5
-aS"(21, u'\\\\bpindolol')"
+aS"(203, u'\\\\btfmpp')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(91, u'\\\\bfluoxetine')"
 p7
-aS"(117, u'\\\\bmianserin')"
+aS"(21, u'\\\\bpindolol')"
 p8
-aS"(209, u'\\\\btfmpp')"
+aS"(117, u'\\\\bketanserin')"
 p9
-aS"(102, u'\\\\bfluoxetine')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.ANTAGONIST'
-p15
+p14
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
-tp21
-Rp22
+((lp19
+tp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht1c'
-p25
+p24
 aS'5ht1b'
-p26
+p25
 aS'5ht1a'
-p27
+p26
 aS'5ht3'
-p28
+p27
 aS'5ht2a'
-p29
-atp30
-Rp31
+p28
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'year'
-p36
+p35
 V1998
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp38
+S"(178, u'\\\\btfmpp')"
+p39
+aS"(175, u'\\\\bdoi')"
 p40
-aS"(183, u'\\\\btfmpp')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p41
-aS"(169, u'\\\\bfenfluramine')"
+aS"(163, u'\\\\bfenfluramine')"
 p42
-aS"(33, u'\\\\bdoi')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sS'species'
-p46
+p45
 g3
-((lp47
-S"(5958, u'(?i)(rats|rat)')"
+((lp46
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p47
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p48
-aS"(163, u'(?i)(mice|mouse)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1349, u'(?i)(rams|ram)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(4964, u'(?i)(serins|serin)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-atp57
-Rp58
+atp49
+Rp50
 sb.

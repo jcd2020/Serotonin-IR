@@ -38,62 +38,32 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V1994
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(224, u'\\\\b5 ?methoxytryptamine')"
+((lp29
+S"(220, u'\\\\b5 ?methoxytryptamine')"
+p30
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p31
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp35
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p36
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p38
-aS"(3812, u'(?i)(studs|stud)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(3051, u'(?i)(pigs|pig)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(3062, u'(?i)(guineas|guinea)')"
-p47
-aS"(853, u'(?i)(minas|mina)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p52
-aS"(821, u'(?i)(lice|louse)')"
-p53
-atp54
-Rp55
+atp39
+Rp40
 sb.

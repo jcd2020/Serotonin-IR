@@ -8,100 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.AGONIST'
-p11
-atp12
-Rp13
+p10
+atp11
+Rp12
 sS'topics'
-p14
+p13
 g3
-((lp15
+((lp14
 S"(19, u'\\\\bimpulsiv')"
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
-S'5ht5'
-p21
-aS'5ht2c'
-p22
+((lp19
+S'5ht2c'
+p20
 aS'5ht2'
-p23
+p21
 aS'5ht2a'
-p24
-atp25
-Rp26
+p22
+atp23
+Rp24
 sS'regions'
+p25
+g3
+((lp26
+S"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-g3
-((lp28
-S"(214, u'(?i)(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+aS"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
+p28
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p29
-aS"(215, u'(?i)(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)')"
-p30
-aS"(256, u'(?i)(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)')"
-p31
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp30
+Rp31
 sS'year'
-p36
+p32
 V2009
-p37
+p33
 sS'agonists'
-p38
+p34
 g3
-((lp39
-S"(33, u'\\\\bdoi')"
-p40
-atp41
-Rp42
+((lp35
+S"(175, u'\\\\bdoi')"
+p36
+atp37
+Rp38
 sS'species'
-p43
+p39
 g3
-((lp44
-S"(6753, u'(?i)(da|das)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(6580, u'(?i)(dams|dam)')"
-p52
-aS"(4964, u'(?i)(serins|serin)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

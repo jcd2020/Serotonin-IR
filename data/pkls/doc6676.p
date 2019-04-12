@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(200, u'\\\\bmesulergine')"
+S"(193, u'\\\\bmesulergine')"
 p5
 atp6
 Rp7
@@ -42,54 +42,28 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V1997
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(171, u'\\\\bmesulergine')"
-p33
-atp34
-Rp35
+((lp31
+S"(165, u'\\\\bmesulergine')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(6753, u'(?i)(da|das)')"
+((lp36
+S"(7168, u'(?i)\\\\b(kittens|kitten)\\\\b')"
+p37
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(5891, u'(?i)(kits|kit)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(3152, u'(?i)(layers|layer)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(7168, u'(?i)(kittens|kitten)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(3247, u'(?i)(youngs|young)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(821, u'(?i)(lice|louse)')"
-p50
-aS"(7552, u'(?i)(bats|bat)')"
-p51
-atp52
-Rp53
+atp39
+Rp40
 sb.

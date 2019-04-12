@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p23
 atp24
 Rp25
@@ -54,30 +54,8 @@ sS'species'
 p32
 g3
 ((lp33
-S"(5958, u'(?i)(rats|rat)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p34
-aS"(468, u'(?i)(oxen|ox)')"
-p35
-aS"(1055, u'(?i)(men|man)')"
-p36
-aS"(3726, u'(?i)(mates|mate)')"
-p37
-aS"(6215, u'(?i)(racers|racer)')"
-p38
-aS"(6356, u'(?i)(ais|ai)')"
-p39
-aS"(7094, u'(?i)(curs|cur)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(4604, u'(?i)(mites|mite)')"
-p42
-aS"(937, u'(?i)(kids|kid)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-atp46
-Rp47
+atp35
+Rp36
 sb.

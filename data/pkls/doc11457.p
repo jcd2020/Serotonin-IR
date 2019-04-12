@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bsdz ?216525')"
+S"(17, u'\\\\bnan ?190')"
 p5
-aS"(17, u'\\\\bnan ?190')"
+aS"(25, u'\\\\bsdz ?216525')"
 p6
 atp7
 Rp8
@@ -46,54 +46,38 @@ aS'5ht2a'
 p25
 aS'5ht1d'
 p26
-aS'5ht5'
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p32
-atp33
-Rp34
+((lp30
+S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p31
+atp32
+Rp33
 sS'year'
-p35
+p34
 V1993
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p39
-atp40
-Rp41
+((lp37
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p38
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp42
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p43
+aS"(1883, u'(?i)\\\\b(calves|calf)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(1883, u'(?i)(calves|calf)')"
-p47
-aS"(3051, u'(?i)(pigs|pig)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(3522, u'(?i)(tetras|tetra)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-atp54
-Rp55
+atp46
+Rp47
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(78, u'\\\\bpimavanserin')"
+S"(106, u'\\\\bdoxepin')"
 p5
-aS"(116, u'\\\\bdoxepin')"
+aS"(69, u'\\\\bpimavanserin')"
 p6
 atp7
 Rp8
@@ -48,50 +48,30 @@ sS'receptors'
 p26
 g3
 ((lp27
-S'5ht5'
+S'5ht2a'
 p28
-aS'5ht2a'
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'year'
-p36
+p35
 V2015
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-tp40
-Rp41
+((lp38
+tp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(4964, u'(?i)(serins|serin)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(2809, u'(?i)(toms|tom)')"
-p52
-atp53
-Rp54
+((lp42
+tp43
+Rp44
 sb.

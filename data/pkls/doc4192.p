@@ -8,86 +8,64 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(113, u'\\\\brisperidone')"
 p5
-aS"(67, u'\\\\bhaloperidol')"
+aS"(114, u'\\\\bziprasidone')"
 p6
-aS"(41, u'\\\\bziprasidone')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
-aS"(59, u'\\\\brisperidone')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(15, u'\\\\bschizophreni')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht2a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-tp28
-Rp29
+((lp26
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2005
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(91, u'\\\\bziprasidone')"
+((lp32
+S"(84, u'\\\\bziprasidone')"
+p33
+aS"(43, u'\\\\bhaloperidol')"
 p34
-aS"(48, u'\\\\bhaloperidol')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(2665, u'(?i)(rays|ray)')"
-p41
-aS"(2183, u'(?i)(gars|gar)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(7094, u'(?i)(curs|cur)')"
-p44
-aS"(4177, u'(?i)(grays|gray)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-atp51
-Rp52
+((lp38
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p39
+atp40
+Rp41
 sb.

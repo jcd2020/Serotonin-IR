@@ -40,11 +40,11 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(390, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)\\\\b')"
 p25
-aS"(396, u'(?i)(subventriculars|subventricular)(-|\\\\s+)?(zones|zone)')"
+aS"(396, u'(?i)\\\\b(subventriculars|subventricular)(-|\\\\s+)?(zones|zone)\\\\b')"
 p26
-aS"(390, u'(?i)(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,11 +56,11 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(181, u'\\\\bdom')"
+S"(20, u'\\\\bbuspirone')"
 p34
-aS"(24, u'\\\\bbuspirone')"
+aS"(176, u'\\\\bdom')"
 p35
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p36
 atp37
 Rp38
@@ -68,48 +68,16 @@ sS'species'
 p39
 g3
 ((lp40
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p41
-aS"(7539, u'(?i)(mammals|mammal)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p42
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p43
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(5721, u'(?i)\\\\b(opossums|opossum)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(2389, u'(?i)(spats|spat)')"
-p47
-aS"(4091, u'(?i)(adults|adult)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(7094, u'(?i)(curs|cur)')"
-p51
-aS"(5722, u'(?i)(possums|possum)')"
-p52
-aS"(853, u'(?i)(minas|mina)')"
-p53
-aS"(5721, u'(?i)(opossums|opossum)')"
-p54
-aS"(1057, u'(?i)(humans|human)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(3196, u'(?i)(human|humans)')"
-p58
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p59
-aS"(1683, u'(?i)(terns|tern)')"
-p60
-aS"(7552, u'(?i)(bats|bat)')"
-p61
-atp62
-Rp63
+atp46
+Rp47
 sb.

@@ -8,104 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(27, u'\\\\bspiperone')"
-p7
 aS"(20, u'\\\\bpindobind')"
-p8
-atp9
-Rp10
+p7
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.STIMULATION'
-p13
+p12
 aS'Method.ANTAGONIST'
-p14
+p13
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
-tp20
-Rp21
+((lp18
+tp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht1a'
-p24
+p23
 aS'5ht1d'
-p25
+p24
 aS'5ht2'
-p26
+p25
 aS'5ht2a'
-p27
-atp28
-Rp29
+p26
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-S"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+((lp30
+tp31
+Rp32
 sS'year'
-p35
+p33
 V1994
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(96, u'\\\\bsumatriptan')"
 p37
-g3
-((lp38
-S"(103, u'\\\\bsumatriptan')"
+aS"(149, u'\\\\bmem')"
+p38
+aS"(175, u'\\\\bdoi')"
 p39
-aS"(155, u'\\\\bmem')"
-p40
-aS"(33, u'\\\\bdoi')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(6753, u'(?i)(da|das)')"
+((lp43
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p44
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p45
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p46
-aS"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(3051, u'(?i)(pigs|pig)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(3062, u'(?i)(guineas|guinea)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(4964, u'(?i)(serins|serin)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p57
-aS"(5743, u'(?i)(bots|bot)')"
-p58
-aS"(821, u'(?i)(lice|louse)')"
-p59
-atp60
-Rp61
+atp47
+Rp48
 sb.

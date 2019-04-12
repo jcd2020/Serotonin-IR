@@ -34,56 +34,28 @@ g3
 ((lp19
 S'5ht1b'
 p20
-aS'5ht5'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-tp26
-Rp27
+((lp24
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2016
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(6753, u'(?i)(da|das)')"
-p36
-aS"(6249, u'(?i)(ants|ant)')"
-p37
-aS"(7609, u'(?i)(erns|ern)')"
-p38
-aS"(5743, u'(?i)(bots|bot)')"
-p39
-aS"(5551, u'(?i)(owls|owl)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(7094, u'(?i)(curs|cur)')"
-p43
-aS"(5176, u'(?i)(tegs|teg)')"
-p44
-aS"(5229, u'(?i)(moles|mole)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(2809, u'(?i)(toms|tom)')"
-p47
-aS"(1683, u'(?i)(terns|tern)')"
-p48
-atp49
-Rp50
+((lp34
+tp35
+Rp36
 sb.

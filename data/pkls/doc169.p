@@ -40,50 +40,30 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2001
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5958, u'(?i)(rats|rat)')"
+((lp34
+S"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
+p35
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p36
-aS"(2327, u'(?i)(bovines|bovine)')"
+aS"(6967, u'(?i)\\\\b(scavengers|scavenger)\\\\b')"
 p37
-aS"(1266, u'(?i)(embryos|embryo)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(6967, u'(?i)(scavengers|scavenger)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(937, u'(?i)(kids|kid)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(1057, u'(?i)(humans|human)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(3196, u'(?i)(human|humans)')"
-p46
-aS"(6878, u'(?i)(guans|guan)')"
-p47
-aS"(5949, u'(?i)(dogs|dog)')"
-p48
-atp49
-Rp50
+atp39
+Rp40
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(212, u'\\\\bbromocriptine')"
+S"(125, u'\\\\btropisetron')"
 p5
-aS"(136, u'\\\\btropisetron')"
+aS"(206, u'\\\\bbromocriptine')"
 p6
 atp7
 Rp8
@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p31
 atp32
 Rp33
@@ -58,22 +58,14 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5958, u'(?i)(rats|rat)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p37
-aS"(1055, u'(?i)(men|man)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p38
-aS"(3062, u'(?i)(guineas|guinea)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p43
-atp44
-Rp45
+atp40
+Rp41
 sb.

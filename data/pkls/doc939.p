@@ -56,30 +56,10 @@ sS'species'
 p33
 g3
 ((lp34
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p35
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(7539, u'(?i)(mammals|mammal)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(7094, u'(?i)(curs|cur)')"
-p40
-aS"(6580, u'(?i)(dams|dam)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(5949, u'(?i)(dogs|dog)')"
-p46
-atp47
-Rp48
+atp37
+Rp38
 sb.

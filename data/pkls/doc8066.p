@@ -46,7 +46,7 @@ sS'agonists'
 p27
 g3
 ((lp28
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p29
 atp30
 Rp31
@@ -54,38 +54,10 @@ sS'species'
 p32
 g3
 ((lp33
-S"(1070, u'(?i)(pets|pet)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p34
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(3636, u'(?i)\\\\b(martins|martin)\\\\b')"
 p35
-aS"(4163, u'(?i)(ermines|ermine)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(3636, u'(?i)(martins|martin)')"
-p38
-aS"(867, u'(?i)(tits|tit)')"
-p39
-aS"(479, u'(?i)(lings|ling)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3404, u'(?i)(titis|titi)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(3522, u'(?i)(tetras|tetra)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6878, u'(?i)(guans|guan)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-atp50
-Rp51
+atp36
+Rp37
 sb.

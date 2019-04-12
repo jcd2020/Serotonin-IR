@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(204, u'\\\\bsb ?269970')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(43, u'\\\\bbrl ?15572')"
+aS"(198, u'\\\\bsb ?269970')"
 p6
-aS"(45, u'\\\\bgr ?127935')"
+aS"(41, u'\\\\bbrl ?15572')"
 p7
-aS"(39, u'\\\\bsb ?224289')"
+aS"(38, u'\\\\bsb ?224289')"
 p8
 atp9
 Rp10
@@ -48,46 +48,32 @@ aS'5ht1f'
 p26
 aS'5ht1d'
 p27
-aS'5ht5'
-p28
 aS'5ht5a'
-p29
-atp30
-Rp31
+p28
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'year'
-p36
+p35
 V2001
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-tp40
-Rp41
+((lp38
+tp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(1414, u'(?i)(chars|char)')"
-p49
-aS"(4074, u'(?i)(bulls|bull)')"
-p50
-atp51
-Rp52
+((lp42
+S"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
+p43
+atp44
+Rp45
 sb.

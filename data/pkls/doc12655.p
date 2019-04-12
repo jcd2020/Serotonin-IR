@@ -40,78 +40,44 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p25
-aS"(153, u'(?i)(medials|medial)(-|\\\\s+)?(geniculates|geniculate)(-|\\\\s+)?(bodies|body)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p26
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(243, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(olfactories|olfactory)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
-aS"(310, u'(?i)(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p29
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p30
-aS"(34, u'(?i)(pon|pons)')"
+aS"(153, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(geniculates|geniculate)(-|\\\\s+)?(bodies|body)\\\\b')"
 p31
-aS"(243, u'(?i)(anteriors|anterior)(-|\\\\s+)?(olfactories|olfactory)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(310, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)\\\\b')"
 p32
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'year'
-p36
+p35
 V2007
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(44, u'\\\\bflesinoxan')"
-p40
-atp41
-Rp42
+((lp38
+S"(39, u'\\\\bflesinoxan')"
+p39
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(513, u'(?i)(uruses|urus)')"
+((lp43
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(5176, u'(?i)(tegs|teg)')"
-p46
-aS"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(4694, u'(?i)(gnus|gnu)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(479, u'(?i)(lings|ling)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(853, u'(?i)(minas|mina)')"
-p55
-aS"(5958, u'(?i)(rats|rat)')"
-p56
-aS"(6682, u'(?i)(tera|teras)')"
-p57
-aS"(7094, u'(?i)(curs|cur)')"
-p58
-aS"(4371, u'(?i)(lizas|liza)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-aS"(6325, u'(?i)(caudates|caudate)')"
-p61
-aS"(6356, u'(?i)(ais|ai)')"
-p62
-atp63
-Rp64
+atp46
+Rp47
 sb.

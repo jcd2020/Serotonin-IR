@@ -36,50 +36,28 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
+S"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p23
-aS"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'year'
-p27
+p26
 V2000
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(111, u'\\\\bdextromethorphan')"
-p31
-atp32
-Rp33
+((lp29
+S"(104, u'\\\\bdextromethorphan')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(1070, u'(?i)(pets|pet)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(867, u'(?i)(tits|tit)')"
-p38
-aS"(1725, u'(?i)(clams|clam)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(7094, u'(?i)(curs|cur)')"
-p41
-aS"(3404, u'(?i)(titis|titi)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(1961, u'(?i)(pens|pen)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(577, u'(?i)(orphans|orphan)')"
-p46
-atp47
-Rp48
+((lp34
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

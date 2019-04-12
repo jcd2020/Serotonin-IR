@@ -38,82 +38,52 @@ g3
 ((lp21
 S'5ht1b'
 p22
-aS'5ht5'
-p23
 aS'5ht2b'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp28
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p29
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p31
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'year'
-p35
+p33
 V2011
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(176, u'\\\\bdom')"
 p37
-g3
-((lp38
-S"(181, u'\\\\bdom')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(6249, u'(?i)(ants|ant)')"
+((lp41
+S"(526, u'(?i)\\\\b(swines|swine)\\\\b')"
+p42
+aS"(1086, u'(?i)\\\\b(suses|sus)(-|\\\\s+)?(scrofas|scrofa)\\\\b')"
+p43
+aS"(1961, u'(?i)\\\\b(pens|pen)\\\\b')"
 p44
-aS"(5967, u'(?i)(males|male)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p45
-aS"(6753, u'(?i)(da|das)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p46
-aS"(2809, u'(?i)(toms|tom)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p47
-aS"(526, u'(?i)(swines|swine)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p48
-aS"(1086, u'(?i)(suses|sus)(-|\\\\s+)?(scrofas|scrofa)')"
-p49
-aS"(4163, u'(?i)(ermines|ermine)')"
-p50
-aS"(4091, u'(?i)(adults|adult)')"
-p51
-aS"(3051, u'(?i)(pigs|pig)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(4604, u'(?i)(mites|mite)')"
-p54
-aS"(853, u'(?i)(minas|mina)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(6682, u'(?i)(tera|teras)')"
-p57
-aS"(5229, u'(?i)(moles|mole)')"
-p58
-aS"(1961, u'(?i)(pens|pen)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-aS"(6125, u'(?i)(females|female)')"
-p61
-aS"(1628, u'(?i)(cod|cod)')"
-p62
-aS"(5743, u'(?i)(bots|bot)')"
-p63
-atp64
-Rp65
+atp49
+Rp50
 sb.

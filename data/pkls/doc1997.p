@@ -8,134 +8,100 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(174, u'\\\\bsb ?258585')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(38, u'\\\\bsb ?224289')"
 p6
-aS"(43, u'\\\\bbrl ?15572')"
+aS"(144, u'\\\\bgr ?113808')"
 p7
-aS"(153, u'\\\\bgr ?113808')"
+aS"(31, u'\\\\bway ?100635')"
 p8
-aS"(128, u'\\\\bketanserin')"
+aS"(198, u'\\\\bsb ?269970')"
 p9
-aS"(204, u'\\\\bsb ?269970')"
+aS"(96, u'\\\\brs ?102221')"
 p10
-aS"(135, u'\\\\bondansetron')"
+aS"(117, u'\\\\bketanserin')"
 p11
-aS"(182, u'\\\\bsb ?258585')"
+aS"(78, u'\\\\brs ?127445')"
 p12
-aS"(165, u'\\\\bsb ?699551')"
+aS"(41, u'\\\\bbrl ?15572')"
 p13
-aS"(102, u'\\\\bfluoxetine')"
+aS"(124, u'\\\\bondansetron')"
 p14
-aS"(39, u'\\\\bsb ?224289')"
+aS"(157, u'\\\\bsb ?699551')"
 p15
-aS"(108, u'\\\\brs ?102221')"
+aS"(43, u'\\\\bgr ?127935')"
 p16
-aS"(87, u'\\\\brs ?127445')"
+aS"(91, u'\\\\bfluoxetine')"
 p17
-aS"(45, u'\\\\bgr ?127935')"
-p18
-atp19
-Rp20
+atp18
+Rp19
 sS'methods'
-p21
+p20
 g3
-((lp22
+((lp21
 S'Method.ANTAGONIST'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'topics'
-p26
+p25
 g3
-((lp27
-tp28
-Rp29
+((lp26
+tp27
+Rp28
 sS'receptors'
-p30
+p29
 g3
-((lp31
+((lp30
 S'5ht7'
-p32
+p31
 aS'5ht6'
-p33
+p32
 aS'5ht1a'
-p34
+p33
 aS'5ht4'
-p35
+p34
 aS'5ht3'
-p36
+p35
 aS'5ht2c'
-p37
+p36
 aS'5ht2a'
-p38
+p37
 aS'5ht5'
-p39
+p38
 aS'5ht1d'
-p40
+p39
 aS'5ht1b'
-p41
+p40
 aS'5ht5a'
-p42
+p41
 aS'5ht2b'
-p43
-atp44
-Rp45
+p42
+atp43
+Rp44
 sS'regions'
-p46
+p45
 g3
-((lp47
-tp48
-Rp49
+((lp46
+tp47
+Rp48
 sS'year'
-p50
+p49
 V2013
-p51
+p50
 sS'agonists'
-p52
+p51
 g3
-((lp53
-tp54
-Rp55
+((lp52
+tp53
+Rp54
 sS'species'
-p56
+p55
 g3
-((lp57
-S"(5967, u'(?i)(males|male)')"
-p58
-aS"(4301, u'(?i)(hydras|hydra)')"
-p59
-aS"(2568, u'(?i)(hens|hen)')"
-p60
-aS"(7609, u'(?i)(erns|ern)')"
-p61
-aS"(6753, u'(?i)(da|das)')"
-p62
-aS"(6682, u'(?i)(tera|teras)')"
-p63
-aS"(81, u'(?i)(asps|asp)')"
-p64
-aS"(468, u'(?i)(oxen|ox)')"
-p65
-aS"(1055, u'(?i)(men|man)')"
-p66
-aS"(6249, u'(?i)(ants|ant)')"
-p67
-aS"(4964, u'(?i)(serins|serin)')"
-p68
-aS"(5958, u'(?i)(rats|rat)')"
-p69
-aS"(3522, u'(?i)(tetras|tetra)')"
-p70
-aS"(1961, u'(?i)(pens|pen)')"
-p71
-aS"(6391, u'(?i)(asses|ass)')"
-p72
-aS"(7604, u'(?i)(cyclop|cyclops)')"
-p73
-aS"(1683, u'(?i)(terns|tern)')"
-p74
-atp75
-Rp76
+((lp56
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p57
+atp58
+Rp59
 sb.

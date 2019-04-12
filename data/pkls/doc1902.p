@@ -42,11 +42,11 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p27
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p28
 atp29
 Rp30
@@ -64,44 +64,12 @@ sS'species'
 p37
 g3
 ((lp38
-S"(2323, u'(?i)(bees|bee)')"
+S"(5218, u'(?i)\\\\b(mesocricetuses|mesocricetus)(-|\\\\s+)?(auratuses|auratus)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
 p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(5218, u'(?i)(mesocricetuses|mesocricetus)(-|\\\\s+)?(auratuses|auratus)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(4371, u'(?i)(lizas|liza)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(7094, u'(?i)(curs|cur)')"
-p48
-aS"(5217, u'(?i)(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(1414, u'(?i)(chars|char)')"
-p55
-aS"(7609, u'(?i)(erns|ern)')"
-p56
-aS"(1683, u'(?i)(terns|tern)')"
-p57
-atp58
-Rp59
+atp42
+Rp43
 sb.

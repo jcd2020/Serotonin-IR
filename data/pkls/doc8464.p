@@ -8,116 +8,88 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(52, u'\\\\bmdl ?100907')"
 p5
-aS"(200, u'\\\\bmesulergine')"
+aS"(191, u'\\\\bly ?215840')"
 p6
-aS"(198, u'\\\\bly ?215840')"
+aS"(203, u'\\\\btfmpp')"
 p7
-aS"(93, u'\\\\bsb ?200646')"
+aS"(117, u'\\\\bketanserin')"
 p8
-aS"(128, u'\\\\bketanserin')"
+aS"(193, u'\\\\bmesulergine')"
 p9
-aS"(209, u'\\\\btfmpp')"
+aS"(97, u'\\\\bsb ?200646')"
 p10
-aS"(61, u'\\\\bmdl ?100907')"
-p11
-atp12
-Rp13
+atp11
+Rp12
 sS'methods'
-p14
+p13
 g3
-((lp15
+((lp14
 S'Method.ANTAGONIST'
-p16
+p15
 aS'Method.AGONIST'
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'topics'
-p20
+p19
 g3
-((lp21
+((lp20
 S"(8, u'\\\\blearning')"
-p22
+p21
 aS"(6, u'\\\\bcognit')"
-p23
+p22
 aS"(7, u'\\\\bmemory')"
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'receptors'
-p27
+p26
 g3
-((lp28
+((lp27
 S'5ht7'
-p29
+p28
 aS'5ht2b'
-p30
+p29
 aS'5ht2c'
-p31
+p30
 aS'5ht2'
-p32
+p31
 aS'5ht2a'
-p33
-atp34
-Rp35
+p32
+atp33
+Rp34
 sS'regions'
-p36
+p35
 g3
-((lp37
-tp38
-Rp39
+((lp36
+tp37
+Rp38
 sS'year'
-p40
+p39
 V2002
-p41
+p40
 sS'agonists'
-p42
+p41
 g3
-((lp43
-S"(161, u'\\\\bmcpp')"
+((lp42
+S"(165, u'\\\\bmesulergine')"
+p43
+aS"(178, u'\\\\btfmpp')"
 p44
-aS"(171, u'\\\\bmesulergine')"
+aS"(149, u'\\\\bmem')"
 p45
-aS"(183, u'\\\\btfmpp')"
+aS"(155, u'\\\\bmcpp')"
 p46
-aS"(155, u'\\\\bmem')"
+aS"(175, u'\\\\bdoi')"
 p47
-aS"(33, u'\\\\bdoi')"
-p48
-atp49
-Rp50
+atp48
+Rp49
 sS'species'
-p51
+p50
 g3
-((lp52
-S"(4624, u'(?i)(apes|ape)')"
-p53
-aS"(6753, u'(?i)(da|das)')"
-p54
-aS"(2568, u'(?i)(hens|hen)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(468, u'(?i)(oxen|ox)')"
-p58
-aS"(1055, u'(?i)(men|man)')"
-p59
-aS"(3726, u'(?i)(mates|mate)')"
-p60
-aS"(4964, u'(?i)(serins|serin)')"
-p61
-aS"(5958, u'(?i)(rats|rat)')"
-p62
-aS"(3812, u'(?i)(studs|stud)')"
-p63
-aS"(6391, u'(?i)(asses|ass)')"
-p64
-aS"(6356, u'(?i)(ais|ai)')"
-p65
-atp66
-Rp67
+((lp51
+tp52
+Rp53
 sb.

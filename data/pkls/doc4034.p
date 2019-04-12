@@ -54,24 +54,10 @@ sS'species'
 p32
 g3
 ((lp33
-S"(6249, u'(?i)(ants|ant)')"
+S"(3015, u'(?i)\\\\b(ferrets|ferret)\\\\b')"
 p34
-aS"(7604, u'(?i)(cyclop|cyclops)')"
+aS"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
 p35
-aS"(468, u'(?i)(oxen|ox)')"
-p36
-aS"(2568, u'(?i)(hens|hen)')"
-p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(3550, u'(?i)(anis|ani)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(3015, u'(?i)(ferrets|ferret)')"
-p41
-aS"(5949, u'(?i)(dogs|dog)')"
-p42
-atp43
-Rp44
+atp36
+Rp37
 sb.

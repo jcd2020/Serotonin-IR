@@ -64,9 +64,9 @@ sS'agonists'
 p36
 g3
 ((lp37
-S"(132, u'\\\\btcb ?2')"
+S"(125, u'\\\\btcb ?2')"
 p38
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p39
 atp40
 Rp41
@@ -74,44 +74,14 @@ sS'species'
 p42
 g3
 ((lp43
-S"(2323, u'(?i)(bees|bee)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p44
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(5891, u'(?i)\\\\b(kits|kit)\\\\b')"
 p45
-aS"(6753, u'(?i)(da|das)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p46
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(5891, u'(?i)(kits|kit)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(4091, u'(?i)(adults|adult)')"
-p51
-aS"(5967, u'(?i)(males|male)')"
-p52
-aS"(4163, u'(?i)(ermines|ermine)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(6215, u'(?i)(racers|racer)')"
-p56
-aS"(853, u'(?i)(minas|mina)')"
-p57
-aS"(5958, u'(?i)(rats|rat)')"
-p58
-aS"(1961, u'(?i)(pens|pen)')"
-p59
-aS"(1414, u'(?i)(chars|char)')"
-p60
-aS"(6391, u'(?i)(asses|ass)')"
-p61
-aS"(3812, u'(?i)(studs|stud)')"
-p62
-atp63
-Rp64
+atp48
+Rp49
 sb.

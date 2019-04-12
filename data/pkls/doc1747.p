@@ -8,27 +8,27 @@ c__builtin__
 set
 p3
 ((lp4
-S"(52, u'\\\\bmetergoline')"
+S"(34, u'\\\\bmetergoline')"
 p5
-aS"(35, u'\\\\bmetergoline')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
-S"(16, u'\\\\bfeed')"
+((lp15
+S"(37, u'\\\\baddict')"
+p16
+aS"(16, u'\\\\bfeed')"
 p17
 atp18
 Rp19
@@ -38,64 +38,40 @@ g3
 ((lp21
 S'5ht1c'
 p22
-aS'5ht5'
-p23
 aS'5ht1d'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+((lp27
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+p28
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p29
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V1994
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(103, u'\\\\bsumatriptan')"
+((lp35
+S"(210, u'\\\\bsulpiride')"
+p36
+aS"(96, u'\\\\bsumatriptan')"
 p37
-aS"(169, u'\\\\bfenfluramine')"
+aS"(163, u'\\\\bfenfluramine')"
 p38
-aS"(214, u'\\\\bsulpiride')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(5176, u'(?i)(tegs|teg)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(821, u'(?i)(lice|louse)')"
-p53
-aS"(5949, u'(?i)(dogs|dog)')"
-p54
-atp55
-Rp56
+((lp42
+tp43
+Rp44
 sb.

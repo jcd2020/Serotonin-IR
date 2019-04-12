@@ -44,64 +44,28 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p27
-atp28
-Rp29
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2015
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(1070, u'(?i)(pets|pet)')"
+((lp36
+S"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
+p37
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(2323, u'(?i)(bees|bee)')"
+aS"(4520, u'(?i)\\\\b(agoutis|agouti)\\\\b')"
 p39
-aS"(3248, u'(?i)(offspring|offspring)')"
-p40
-aS"(7609, u'(?i)(erns|ern)')"
-p41
-aS"(867, u'(?i)(tits|tit)')"
-p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(4091, u'(?i)(adults|adult)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3726, u'(?i)(mates|mate)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(6981, u'(?i)(moths|moth)')"
-p52
-aS"(4371, u'(?i)(lizas|liza)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(2809, u'(?i)(toms|tom)')"
-p55
-aS"(1683, u'(?i)(terns|tern)')"
-p56
-aS"(4520, u'(?i)(agoutis|agouti)')"
-p57
-atp58
-Rp59
+atp40
+Rp41
 sb.

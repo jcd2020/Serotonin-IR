@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
 atp6
 Rp7
@@ -24,60 +24,42 @@ sS'topics'
 p13
 g3
 ((lp14
-tp15
-Rp16
+S"(37, u'\\\\baddict')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
+((lp19
 S'5ht3'
-p19
-atp20
-Rp21
+p20
+atp21
+Rp22
 sS'regions'
-p22
+p23
 g3
-((lp23
-tp24
-Rp25
+((lp24
+tp25
+Rp26
 sS'year'
-p26
-V1997
 p27
-sS'agonists'
+V1997
 p28
+sS'agonists'
+p29
 g3
-((lp29
-tp30
-Rp31
+((lp30
+tp31
+Rp32
 sS'species'
-p32
+p33
 g3
-((lp33
-S"(5958, u'(?i)(rats|rat)')"
-p34
-aS"(6753, u'(?i)(da|das)')"
+((lp34
+S"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
 p35
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(1055, u'(?i)(men|man)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(3550, u'(?i)(anis|ani)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(2809, u'(?i)(toms|tom)')"
-p42
-aS"(5568, u'(?i)(hakes|hake)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(5949, u'(?i)(dogs|dog)')"
-p45
-atp46
-Rp47
+atp37
+Rp38
 sb.

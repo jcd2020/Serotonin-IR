@@ -8,116 +8,92 @@ c__builtin__
 set
 p3
 ((lp4
-S"(197, u'\\\\blurasidone')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(57, u'\\\\bolanzapine')"
+aS"(111, u'\\\\bolanzapine')"
 p6
-aS"(204, u'\\\\bsb ?269970')"
+aS"(199, u'\\\\bsb ?656104 ?a')"
 p7
-aS"(205, u'\\\\bsb ?656104 ?a')"
+aS"(190, u'\\\\blurasidone')"
 p8
-aS"(124, u'\\\\bolanzapine')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(15, u'\\\\bschizophreni')"
-p19
+p18
 aS"(6, u'\\\\bcognit')"
-p20
+p19
 aS"(1, u'\\\\bmood')"
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'receptors'
-p24
+p23
 g3
-((lp25
+((lp24
 S'5ht7'
-p26
+p25
 aS'5ht5'
-p27
+p26
 aS'5ht1a'
-p28
+p27
 aS'5ht2a'
-p29
-atp30
-Rp31
+p28
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-S"(126, u'(?i)(thalamuses|thalamus)')"
+((lp32
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p33
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p34
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p35
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p36
-aS"(223, u'(?i)(putamens|putamen)')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'year'
-p40
+p39
 V2013
-p41
+p40
 sS'agonists'
-p42
+p41
 g3
-((lp43
-S"(53, u'\\\\blurasidone')"
+((lp42
+S"(57, u'\\\\bolanzapine')"
+p43
+aS"(47, u'\\\\blurasidone')"
 p44
-aS"(64, u'\\\\bolanzapine')"
-p45
-atp46
-Rp47
+atp45
+Rp46
 sS'species'
-p48
+p47
 g3
-((lp49
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp48
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p49
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p50
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p51
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p52
-aS"(6682, u'(?i)(tera|teras)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p57
-aS"(5838, u'(?i)(cubs|cub)')"
-p58
-aS"(1057, u'(?i)(humans|human)')"
-p59
-aS"(1961, u'(?i)(pens|pen)')"
-p60
-aS"(3812, u'(?i)(studs|stud)')"
-p61
-aS"(3196, u'(?i)(human|humans)')"
-p62
-aS"(6325, u'(?i)(caudates|caudate)')"
-p63
-aS"(821, u'(?i)(lice|louse)')"
-p64
-aS"(7552, u'(?i)(bats|bat)')"
-p65
-atp66
-Rp67
+atp54
+Rp55
 sb.

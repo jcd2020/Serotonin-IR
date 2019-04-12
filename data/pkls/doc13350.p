@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(30, u'\\\\buh ?301')"
+S"(29, u'\\\\buh ?301')"
 p5
 aS"(14, u'\\\\bmethiothepin')"
 p6
@@ -38,56 +38,36 @@ g3
 ((lp21
 S'5ht1b'
 p22
-aS'5ht5'
-p23
 aS'5ht1a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(71, u'(?i)(cerebellums|cerebellum)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp27
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p33
+p31
 V1996
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(189, u'\\\\bethanol')"
 p35
-g3
-((lp36
-S"(193, u'\\\\bethanol')"
-p37
-atp38
-Rp39
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(949, u'(?i)(cohoes|coho)')"
-p42
-aS"(867, u'(?i)(tits|tit)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-atp51
-Rp52
+((lp39
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

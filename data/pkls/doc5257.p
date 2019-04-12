@@ -8,118 +8,96 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(112, u'\\\\bquetiapine')"
 p5
-aS"(207, u'\\\\bsertindole')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(36, u'\\\\baripiprazole')"
+aS"(114, u'\\\\bziprasidone')"
 p7
-aS"(56, u'\\\\bclozapine')"
+aS"(113, u'\\\\brisperidone')"
 p8
-aS"(57, u'\\\\bolanzapine')"
+aS"(50, u'\\\\bquetiapine')"
 p9
-aS"(41, u'\\\\bziprasidone')"
+aS"(111, u'\\\\bolanzapine')"
 p10
-aS"(188, u'\\\\bsertindole')"
+aS"(201, u'\\\\bsertindole')"
 p11
-aS"(124, u'\\\\bolanzapine')"
+aS"(35, u'\\\\baripiprazole')"
 p12
-aS"(125, u'\\\\bquetiapine')"
+aS"(180, u'\\\\bsertindole')"
 p13
-aS"(59, u'\\\\brisperidone')"
+aS"(58, u'\\\\bhaloperidol')"
 p14
-aS"(67, u'\\\\bhaloperidol')"
-p15
-aS"(58, u'\\\\bquetiapine')"
-p16
-aS"(123, u'\\\\bclozapine')"
-p17
-atp18
-Rp19
+atp15
+Rp16
 sS'methods'
-p20
+p17
 g3
-((lp21
+((lp18
 S'Method.ANTAGONIST'
-p22
+p19
 aS'Method.AGONIST'
-p23
-atp24
-Rp25
+p20
+atp21
+Rp22
 sS'topics'
-p26
+p23
 g3
-((lp27
-tp28
-Rp29
+((lp24
+tp25
+Rp26
 sS'receptors'
-p30
+p27
 g3
-((lp31
+((lp28
 S'5ht1a'
-p32
+p29
 aS'5ht2c'
-p33
-aS'5ht5'
-p34
+p30
 aS'5ht2a'
-p35
-atp36
-Rp37
+p31
+atp32
+Rp33
 sS'regions'
-p38
+p34
 g3
-((lp39
-S"(220, u'(?i)(striatums|striatum)')"
-p40
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p41
-atp42
-Rp43
+((lp35
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p36
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p37
+atp38
+Rp39
 sS'year'
-p44
+p40
 V2006
-p45
+p41
 sS'agonists'
+p42
+g3
+((lp43
+S"(64, u'\\\\bquetiapine')"
+p44
+aS"(223, u'\\\\baripiprazole')"
+p45
+aS"(57, u'\\\\bolanzapine')"
 p46
-g3
-((lp47
-S"(91, u'\\\\bziprasidone')"
+aS"(84, u'\\\\bziprasidone')"
+p47
+aS"(43, u'\\\\bhaloperidol')"
 p48
-aS"(16, u'\\\\baripiprazole')"
+aS"(23, u'\\\\bclozapine')"
 p49
-aS"(48, u'\\\\bhaloperidol')"
-p50
-aS"(27, u'\\\\bclozapine')"
-p51
-aS"(71, u'\\\\bquetiapine')"
-p52
-aS"(64, u'\\\\bolanzapine')"
-p53
-atp54
-Rp55
+atp50
+Rp51
 sS'species'
-p56
+p52
 g3
-((lp57
-S"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(5958, u'(?i)(rats|rat)')"
-p59
-aS"(6753, u'(?i)(da|das)')"
-p60
-aS"(2183, u'(?i)(gars|gar)')"
-p61
-aS"(1349, u'(?i)(rams|ram)')"
-p62
-aS"(5743, u'(?i)(bots|bot)')"
-p63
-aS"(3550, u'(?i)(anis|ani)')"
-p64
-aS"(6356, u'(?i)(ais|ai)')"
-p65
-aS"(6391, u'(?i)(asses|ass)')"
-p66
-atp67
-Rp68
+((lp53
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p54
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p55
+atp56
+Rp57
 sb.

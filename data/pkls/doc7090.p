@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(108, u'\\\\brs ?102221')"
+S"(96, u'\\\\brs ?102221')"
 p5
 atp6
 Rp7
@@ -26,25 +26,25 @@ sS'topics'
 p14
 g3
 ((lp15
-tp16
-Rp17
+S"(37, u'\\\\baddict')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
+((lp20
 S'5ht2c'
-p20
-aS'5ht2a'
 p21
-atp22
-Rp23
+aS'5ht2a'
+p22
+atp23
+Rp24
 sS'regions'
-p24
+p25
 g3
-((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
+((lp26
+tp27
 Rp28
 sS'year'
 p29
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(14, u'\\\\bamphetamine')"
+S"(11, u'\\\\bamphetamine')"
 p33
 atp34
 Rp35
@@ -62,32 +62,10 @@ sS'species'
 p36
 g3
 ((lp37
-S"(4624, u'(?i)(apes|ape)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p38
-aS"(949, u'(?i)(cohoes|coho)')"
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(1349, u'(?i)(rams|ram)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(7058, u'(?i)(does|doe)')"
-p50
-atp51
-Rp52
+atp40
+Rp41
 sb.

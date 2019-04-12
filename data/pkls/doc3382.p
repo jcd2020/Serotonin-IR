@@ -8,110 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(130, u'\\\\britanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
-tp17
-Rp18
+((lp15
+tp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
+((lp19
 S'5ht7'
-p21
-aS'5ht5'
-p22
+p20
 aS'5ht1a'
-p23
+p21
 aS'5ht2'
-p24
-atp25
-Rp26
+p22
+atp23
+Rp24
 sS'regions'
+p25
+g3
+((lp26
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
-g3
-((lp28
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp28
+Rp29
 sS'year'
-p33
+p30
 V2001
-p34
+p31
 sS'agonists'
-p35
+p32
 g3
-((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p37
-atp38
-Rp39
+((lp33
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p34
+atp35
+Rp36
 sS'species'
-p40
+p37
 g3
-((lp41
-S"(2323, u'(?i)(bees|bee)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(2568, u'(?i)(hens|hen)')"
-p44
-aS"(931, u'(?i)(divers|diver)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(7539, u'(?i)(mammals|mammal)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(5217, u'(?i)(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)')"
-p52
-aS"(2334, u'(?i)(eels|eel)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(3522, u'(?i)(tetras|tetra)')"
-p57
-aS"(7094, u'(?i)(curs|cur)')"
-p58
-aS"(5917, u'(?i)(roaches|roach)')"
-p59
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-aS"(6391, u'(?i)(asses|ass)')"
-p62
-atp63
-Rp64
+((lp38
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p39
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p40
+aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
+p41
+atp42
+Rp43
 sb.

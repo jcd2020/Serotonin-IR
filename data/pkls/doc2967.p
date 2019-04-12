@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(42, u'\\\\bergotamine')"
+S"(194, u'\\\\bmethysergide')"
 p5
-aS"(112, u'\\\\bamitriptyline')"
+aS"(102, u'\\\\bamitriptyline')"
 p6
-aS"(105, u'\\\\bmethysergide')"
+aS"(40, u'\\\\bergotamine')"
 p7
 aS"(22, u'\\\\bpropranolol')"
 p8
@@ -44,7 +44,7 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,13 +56,13 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(103, u'\\\\bsumatriptan')"
+S"(96, u'\\\\bsumatriptan')"
 p34
-aS"(38, u'\\\\bergotamine')"
+aS"(25, u'\\\\bdihydroergotamine')"
 p35
-aS"(60, u'\\\\bmethysergide')"
+aS"(53, u'\\\\bmethysergide')"
 p36
-aS"(29, u'\\\\bdihydroergotamine')"
+aS"(33, u'\\\\bergotamine')"
 p37
 atp38
 Rp39
@@ -70,30 +70,10 @@ sS'species'
 p40
 g3
 ((lp41
-S"(2054, u'(?i)(heads|head)')"
+S"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
 p42
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(2327, u'(?i)(bovines|bovine)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(6325, u'(?i)(caudates|caudate)')"
-p53
-atp54
-Rp55
+atp44
+Rp45
 sb.

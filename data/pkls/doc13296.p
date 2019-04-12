@@ -30,48 +30,32 @@ g3
 ((lp17
 S'5ht1b'
 p18
-aS'5ht5'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p24
-atp25
-Rp26
+((lp22
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p23
+atp24
+Rp25
 sS'year'
-p27
+p26
 V2018
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(4624, u'(?i)(apes|ape)')"
-p35
-aS"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(702, u'(?i)(genets|genet)')"
-p37
-aS"(163, u'(?i)(mice|mouse)')"
-p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(3550, u'(?i)(anis|ani)')"
-p41
-aS"(2809, u'(?i)(toms|tom)')"
-p42
-atp43
-Rp44
+((lp33
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p34
+atp35
+Rp36
 sb.

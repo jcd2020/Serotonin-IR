@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(136, u'\\\\btropisetron')"
+S"(125, u'\\\\btropisetron')"
 p5
 atp6
 Rp7
@@ -40,66 +40,26 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2006
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(111, u'\\\\bdextromethorphan')"
-p32
-atp33
-Rp34
+((lp30
+S"(104, u'\\\\bdextromethorphan')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(1070, u'(?i)(pets|pet)')"
-p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p39
-aS"(867, u'(?i)(tits|tit)')"
-p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(1725, u'(?i)(clams|clam)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(3404, u'(?i)(titis|titi)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(7094, u'(?i)(curs|cur)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(577, u'(?i)(orphans|orphan)')"
-p53
-aS"(6878, u'(?i)(guans|guan)')"
-p54
-aS"(6642, u'(?i)(lions|lion)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+((lp35
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

@@ -50,14 +50,6 @@ sS'species'
 p30
 g3
 ((lp31
-S"(6391, u'(?i)(asses|ass)')"
-p32
-aS"(468, u'(?i)(oxen|ox)')"
-p33
-aS"(5229, u'(?i)(moles|mole)')"
-p34
-aS"(6753, u'(?i)(da|das)')"
-p35
-atp36
-Rp37
+tp32
+Rp33
 sb.

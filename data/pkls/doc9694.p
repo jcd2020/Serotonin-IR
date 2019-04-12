@@ -8,82 +8,64 @@ c__builtin__
 set
 p3
 ((lp4
-S"(123, u'\\\\bclozapine')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(56, u'\\\\bclozapine')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+p10
+atp11
+Rp12
 sS'topics'
-p14
+p13
 g3
-((lp15
+((lp14
 S"(4, u'\\\\blocomot')"
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
-S'5ht5'
-p21
-aS'5ht2a'
-p22
-atp23
-Rp24
+((lp19
+S'5ht2a'
+p20
+atp21
+Rp22
 sS'regions'
-p25
+p23
 g3
-((lp26
-tp27
-Rp28
+((lp24
+tp25
+Rp26
 sS'year'
-p29
+p27
 V1999
-p30
+p28
 sS'agonists'
+p29
+g3
+((lp30
+S"(23, u'\\\\bclozapine')"
 p31
-g3
-((lp32
-S"(27, u'\\\\bclozapine')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(2568, u'(?i)(hens|hen)')"
+((lp35
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p36
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p39
-aS"(1686, u'(?i)(gibs|gib)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(1057, u'(?i)(humans|human)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(3196, u'(?i)(human|humans)')"
-p48
-atp49
-Rp50
+atp40
+Rp41
 sb.

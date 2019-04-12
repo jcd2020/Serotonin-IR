@@ -24,33 +24,33 @@ sS'topics'
 p13
 g3
 ((lp14
-S"(18, u'\\\\bpsychostim')"
+S"(37, u'\\\\baddict')"
 p15
-atp16
-Rp17
+aS"(18, u'\\\\bpsychostim')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
+((lp20
 S'5ht1b'
-p20
-atp21
-Rp22
+p21
+atp22
+Rp23
 sS'regions'
-p23
+p24
 g3
-((lp24
-S"(209, u'(?i)(amygdalas|amygdala)')"
-p25
-aS"(178, u'(?i)(laterals|lateral)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp25
+S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p26
-aS"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
+aS"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
 p27
-aS"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p28
-aS"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p29
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p30
 atp31
 Rp32
@@ -62,7 +62,7 @@ sS'agonists'
 p35
 g3
 ((lp36
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p37
 atp38
 Rp39
@@ -70,34 +70,10 @@ sS'species'
 p40
 g3
 ((lp41
-S"(5176, u'(?i)(tegs|teg)')"
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p42
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p43
-aS"(163, u'(?i)(mice|mouse)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(479, u'(?i)(lings|ling)')"
-p46
-aS"(81, u'(?i)(asps|asp)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(3592, u'(?i)(ravens|raven)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(3431, u'(?i)(roans|roan)')"
-p55
-atp56
-Rp57
+atp44
+Rp45
 sb.

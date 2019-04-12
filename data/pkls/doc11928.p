@@ -36,62 +36,30 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p23
-aS"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'year'
-p27
+p26
 V2008
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p31
-atp32
-Rp33
+((lp29
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(2568, u'(?i)(hens|hen)')"
+((lp34
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p35
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-aS"(7609, u'(?i)(erns|ern)')"
-p37
-aS"(702, u'(?i)(genets|genet)')"
-p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(7539, u'(?i)(mammals|mammal)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(2334, u'(?i)(eels|eel)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(3522, u'(?i)(tetras|tetra)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(5229, u'(?i)(moles|mole)')"
-p49
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(1683, u'(?i)(terns|tern)')"
-p52
-atp53
-Rp54
+atp37
+Rp38
 sb.

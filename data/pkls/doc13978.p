@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -42,52 +42,28 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+tp26
+Rp27
 sS'year'
-p30
+p28
 V2013
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(147, u'\\\\bmdma')"
 p32
-g3
-((lp33
-S"(153, u'\\\\bmdma')"
-p34
-aS"(14, u'\\\\bamphetamine')"
-p35
-atp36
-Rp37
+aS"(11, u'\\\\bamphetamine')"
+p33
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(867, u'(?i)(tits|tit)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(4163, u'(?i)(ermines|ermine)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(3592, u'(?i)(ravens|raven)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-atp51
-Rp52
+((lp37
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

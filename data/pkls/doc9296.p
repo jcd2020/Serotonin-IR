@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(27, u'\\\\bspiperone')"
+aS"(203, u'\\\\btfmpp')"
 p6
 atp7
 Rp8
@@ -36,64 +36,40 @@ S'5ht1b'
 p20
 aS'5ht1a'
 p21
-aS'5ht5'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+((lp25
+tp26
+Rp27
 sS'year'
-p30
+p28
 V1987
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(76, u'\\\\btrifluoromethylphenylpiperazine')"
 p32
-g3
-((lp33
-S"(83, u'\\\\btrifluoromethylphenylpiperazine')"
+aS"(45, u'\\\\bipsapirone')"
+p33
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p34
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(178, u'\\\\btfmpp')"
 p35
-aS"(50, u'\\\\bipsapirone')"
-p36
-aS"(183, u'\\\\btfmpp')"
-p37
-atp38
-Rp39
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(6753, u'(?i)(da|das)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(7539, u'(?i)(mammals|mammal)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(4163, u'(?i)(ermines|ermine)')"
-p47
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(1414, u'(?i)(chars|char)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+((lp39
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p40
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

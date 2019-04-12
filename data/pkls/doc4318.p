@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(204, u'\\\\bsb ?269970')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(175, u'\\\\bsb ?271046')"
 p6
-aS"(183, u'\\\\bsb ?271046')"
+aS"(150, u'\\\\bsb ?204070')"
 p7
-aS"(159, u'\\\\bsb ?204070')"
+aS"(31, u'\\\\bway ?100635')"
 p8
 atp9
 Rp10
@@ -62,9 +62,9 @@ sS'agonists'
 p35
 g3
 ((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p37
-aS"(5, u'\\\\b5 ?ct')"
+aS"(219, u'\\\\b5 ?ct')"
 p38
 atp39
 Rp40
@@ -72,24 +72,8 @@ sS'species'
 p41
 g3
 ((lp42
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(2568, u'(?i)(hens|hen)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(853, u'(?i)(minas|mina)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(821, u'(?i)(lice|louse)')"
-p51
-atp52
-Rp53
+atp44
+Rp45
 sb.

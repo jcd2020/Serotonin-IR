@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(175, u'\\\\bsb ?271046')"
 p5
-aS"(183, u'\\\\bsb ?271046')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
 atp7
 Rp8
@@ -36,72 +36,38 @@ g3
 ((lp20
 S'5ht6'
 p21
-aS'5ht5'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(220, u'(?i)(striatums|striatum)')"
+((lp25
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p26
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp28
+Rp29
 sS'year'
-p32
+p30
 V2007
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(32, u'\\\\bemdt')"
 p34
-g3
-((lp35
-S"(37, u'\\\\bemdt')"
-p36
-aS"(217, u'\\\\b2 ?ethyl ?5 ?methoxy ?nn ?dimethyltryptamine')"
-p37
-atp38
-Rp39
+aS"(212, u'\\\\b2 ?ethyl ?5 ?methoxy ?nn ?dimethyltryptamine')"
+p35
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(6753, u'(?i)(da|das)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(821, u'(?i)(lice|louse)')"
-p57
-atp58
-Rp59
+((lp39
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+atp41
+Rp42
 sb.

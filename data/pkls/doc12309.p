@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(103, u'\\\\bsumatriptan')"
+S"(96, u'\\\\bsumatriptan')"
 p30
 atp31
 Rp32
@@ -56,30 +56,12 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2568, u'(?i)(hens|hen)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p35
-aS"(6753, u'(?i)(da|das)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p36
-aS"(4091, u'(?i)(adults|adult)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(5967, u'(?i)(males|male)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(3592, u'(?i)(ravens|raven)')"
-p42
-aS"(853, u'(?i)(minas|mina)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(7082, u'(?i)(sagittas|sagitta)')"
-p46
-atp47
-Rp48
+atp38
+Rp39
 sb.

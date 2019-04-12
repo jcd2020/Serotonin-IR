@@ -52,72 +52,32 @@ sS'regions'
 p29
 g3
 ((lp30
-S"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p31
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p32
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p33
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p34
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'year'
-p38
+p37
 V2017
-p39
+p38
 sS'agonists'
-p40
+p39
 g3
-((lp41
-tp42
-Rp43
+((lp40
+tp41
+Rp42
 sS'species'
-p44
+p43
 g3
-((lp45
-S"(1070, u'(?i)(pets|pet)')"
-p46
-aS"(5537, u'(?i)(hippos|hippo)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(867, u'(?i)(tits|tit)')"
-p50
-aS"(5626, u'(?i)(posters|poster)')"
-p51
-aS"(479, u'(?i)(lings|ling)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(3726, u'(?i)(mates|mate)')"
-p54
-aS"(1349, u'(?i)(rams|ram)')"
-p55
-aS"(5176, u'(?i)(tegs|teg)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(1553, u'(?i)(mews|mew)')"
-p58
-aS"(3426, u'(?i)(hares|hare)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-aS"(6391, u'(?i)(asses|ass)')"
-p61
-aS"(391, u'(?i)(alli|allis)')"
-p62
-aS"(2809, u'(?i)(toms|tom)')"
-p63
-aS"(6356, u'(?i)(ais|ai)')"
-p64
-aS"(5949, u'(?i)(dogs|dog)')"
-p65
-atp66
-Rp67
+((lp44
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+p45
+atp46
+Rp47
 sb.

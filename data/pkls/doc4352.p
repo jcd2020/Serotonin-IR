@@ -8,98 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(52, u'\\\\bmetergoline')"
+S"(34, u'\\\\bmetergoline')"
 p5
-aS"(35, u'\\\\bmetergoline')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.STIMULATION'
-p11
+p10
 aS'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(3, u'\\\\bsleep')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht7a'
-p23
-aS'5ht5'
-p24
+p22
 aS'5ht2'
-p25
+p23
 aS'5ht1'
-p26
-atp27
-Rp28
+p24
+atp25
+Rp26
 sS'regions'
+p27
+g3
+((lp28
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-g3
-((lp30
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p30
+aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-aS"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+atp32
+Rp33
 sS'year'
-p37
+p34
 V2003
-p38
+p35
 sS'agonists'
-p39
+p36
 g3
-((lp40
-tp41
-Rp42
+((lp37
+tp38
+Rp39
 sS'species'
-p43
+p40
 g3
-((lp44
-S"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(7609, u'(?i)(erns|ern)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(7539, u'(?i)(mammals|mammal)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p50
-aS"(2334, u'(?i)(eels|eel)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+((lp41
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p42
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p43
+atp44
+Rp45
 sb.

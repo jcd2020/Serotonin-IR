@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100135')"
+S"(30, u'\\\\bway ?100135')"
 p5
 atp6
 Rp7
@@ -36,72 +36,38 @@ g3
 ((lp20
 S'5ht1a'
 p21
-aS'5ht5'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-tp27
-Rp28
+((lp25
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2012
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(4624, u'(?i)(apes|ape)')"
+((lp35
+S"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
+p36
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p37
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p40
-aS"(4657, u'(?i)(fish|fish)')"
-p41
-aS"(867, u'(?i)(tits|tit)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(4091, u'(?i)(adults|adult)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(3247, u'(?i)(youngs|young)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+atp41
+Rp42
 sb.

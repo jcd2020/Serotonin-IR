@@ -8,88 +8,64 @@ c__builtin__
 set
 p3
 ((lp4
-S"(82, u'\\\\bamisulpride')"
+S"(59, u'\\\\bchlorpromazine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(68, u'\\\\bchlorpromazine')"
+aS"(73, u'\\\\bamisulpride')"
 p7
-aS"(56, u'\\\\bclozapine')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.PET'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(15, u'\\\\bschizophreni')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
-S'5ht5'
-p23
-aS'5ht2a'
-p24
-atp25
-Rp26
+((lp21
+S'5ht2a'
+p22
+atp23
+Rp24
 sS'regions'
-p27
+p25
 g3
-((lp28
-tp29
-Rp30
+((lp26
+tp27
+Rp28
 sS'year'
-p31
+p29
 V1998
-p32
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(23, u'\\\\bclozapine')"
 p33
-g3
-((lp34
-S"(27, u'\\\\bclozapine')"
-p35
-atp36
-Rp37
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(1070, u'(?i)(pets|pet)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(3726, u'(?i)(mates|mate)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(7058, u'(?i)(does|doe)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(1414, u'(?i)(chars|char)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+((lp37
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p38
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+p39
+atp40
+Rp41
 sb.

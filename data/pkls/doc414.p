@@ -34,72 +34,38 @@ S'5ht1b'
 p19
 aS'5ht1a'
 p20
-aS'5ht5'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+((lp24
+tp25
+Rp26
 sS'year'
-p29
+p27
 V2016
-p30
+p28
 sS'agonists'
+p29
+g3
+((lp30
+S"(147, u'\\\\bmdma')"
 p31
-g3
-((lp32
-S"(153, u'\\\\bmdma')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p32
+aS"(67, u'\\\\bru ?24969')"
 p33
-aS"(74, u'\\\\bru ?24969')"
-p34
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(2323, u'(?i)(bees|bee)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(7094, u'(?i)(curs|cur)')"
-p48
-aS"(2942, u'(?i)(daws|daw)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(3522, u'(?i)(tetras|tetra)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(6682, u'(?i)(tera|teras)')"
-p56
-atp57
-Rp58
+((lp37
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

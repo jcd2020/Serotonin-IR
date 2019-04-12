@@ -40,66 +40,36 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(169, u'(?i)(dorsomedials|dorsomedial)(-|\\\\s+)?(hypothalamics|hypothalamic)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p25
-aS"(165, u'(?i)(preoptics|preoptic)(-|\\\\s+)?(areas|area)')"
+aS"(169, u'(?i)\\\\b(dorsomedials|dorsomedial)(-|\\\\s+)?(hypothalamics|hypothalamic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
+aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
 p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2007
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
+((lp33
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(6753, u'(?i)(da|das)')"
+((lp38
+S"(7552, u'(?i)\\\\b(bats|bat)\\\\b')"
+p39
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(5176, u'(?i)(tegs|teg)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(2665, u'(?i)(rays|ray)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(7127, u'(?i)(monitors|monitor)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(1349, u'(?i)(rams|ram)')"
-p53
-aS"(391, u'(?i)(alli|allis)')"
-p54
-aS"(4177, u'(?i)(grays|gray)')"
-p55
-aS"(7552, u'(?i)(bats|bat)')"
-p56
-atp57
-Rp58
+atp42
+Rp43
 sb.

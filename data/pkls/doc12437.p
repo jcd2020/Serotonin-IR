@@ -42,48 +42,28 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2014
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(198, u'\\\\bsr ?57227')"
+((lp31
+S"(149, u'\\\\bmem')"
+p32
+aS"(194, u'\\\\bsr ?57227')"
 p33
-aS"(155, u'\\\\bmem')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(2323, u'(?i)(bees|bee)')"
-p39
-aS"(163, u'(?i)(mice|mouse)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(4371, u'(?i)(lizas|liza)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(6642, u'(?i)(lions|lion)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-atp49
-Rp50
+((lp37
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p38
+atp39
+Rp40
 sb.

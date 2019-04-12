@@ -54,22 +54,12 @@ sS'species'
 p32
 g3
 ((lp33
-S"(4096, u'(?i)(chows|chow)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p34
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4096, u'(?i)\\\\b(chows|chow)\\\\b')"
 p35
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-aS"(6682, u'(?i)(tera|teras)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(1961, u'(?i)(pens|pen)')"
-p39
-aS"(7552, u'(?i)(bats|bat)')"
-p40
-aS"(7058, u'(?i)(does|doe)')"
-p41
-atp42
-Rp43
+atp37
+Rp38
 sb.

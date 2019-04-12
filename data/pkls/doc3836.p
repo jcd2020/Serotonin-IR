@@ -38,15 +38,15 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(216, u'(?i)(strias|stria)(-|\\\\s+)?(terminali|terminalis)')"
+S"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
 p24
-aS"(165, u'(?i)(preoptics|preoptic)(-|\\\\s+)?(areas|area)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p25
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
 p27
-aS"(217, u'(?i)(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)')"
+aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
 p28
 atp29
 Rp30
@@ -64,50 +64,12 @@ sS'species'
 p37
 g3
 ((lp38
-S"(4163, u'(?i)(ermines|ermine)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p39
-aS"(4462, u'(?i)(monals|monal)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(107, u'(?i)(stags|stag)')"
-p43
-aS"(6125, u'(?i)(females|female)')"
-p44
-aS"(5967, u'(?i)(males|male)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(3152, u'(?i)(layers|layer)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(3522, u'(?i)(tetras|tetra)')"
-p49
-aS"(3099, u'(?i)(lugs|lug)')"
-p50
-aS"(2809, u'(?i)(toms|tom)')"
-p51
-aS"(5537, u'(?i)(hippos|hippo)')"
-p52
-aS"(853, u'(?i)(minas|mina)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(6682, u'(?i)(tera|teras)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(4979, u'(?i)(cats|cat)')"
-p57
-aS"(2323, u'(?i)(bees|bee)')"
-p58
-aS"(2568, u'(?i)(hens|hen)')"
-p59
-aS"(6753, u'(?i)(da|das)')"
-p60
-atp61
-Rp62
+atp42
+Rp43
 sb.

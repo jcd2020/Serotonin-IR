@@ -38,66 +38,38 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(293, u'(?i)(posteriors|posterior)(-|\\\\s+)?(cingulates|cingulate)')"
+S"(293, u'(?i)\\\\b(posteriors|posterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p24
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p25
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2013
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(69, u'\\\\bpsilocin')"
+((lp32
+S"(62, u'\\\\bpsilocin')"
+p33
+aS"(63, u'\\\\bpsilocybin')"
 p34
-aS"(164, u'\\\\bpsilocin')"
-p35
-aS"(70, u'\\\\bpsilocybin')"
-p36
-atp37
-Rp38
+atp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(5626, u'(?i)(posters|poster)')"
+((lp38
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p39
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p40
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6744, u'(?i)(maras|mara)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(3152, u'(?i)(layers|layer)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(1057, u'(?i)(humans|human)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(3592, u'(?i)(ravens|raven)')"
-p54
-aS"(3196, u'(?i)(human|humans)')"
-p55
-atp56
-Rp57
+atp42
+Rp43
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(136, u'\\\\btropisetron')"
+S"(125, u'\\\\btropisetron')"
 p5
 atp6
 Rp7
@@ -40,32 +40,24 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2003
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
-p36
-aS"(6356, u'(?i)(ais|ai)')"
-p37
-aS"(4177, u'(?i)(grays|gray)')"
-p38
-aS"(2665, u'(?i)(rays|ray)')"
-p39
-atp40
-Rp41
+((lp34
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p35
+atp36
+Rp37
 sb.

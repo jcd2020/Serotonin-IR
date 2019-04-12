@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(203, u'\\\\btfmpp')"
 p5
 atp6
 Rp7
@@ -30,70 +30,46 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht1a'
 p19
-aS'5ht1a'
-p20
 aS'5ht2'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p26
-aS"(170, u'(?i)(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)')"
-p27
-atp28
-Rp29
+((lp24
+S"(170, u'(?i)\\\\b(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p30
+p28
 V1998
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(178, u'\\\\btfmpp')"
 p32
-g3
-((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(192, u'\\\\bquipazine')"
+p33
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p34
-aS"(196, u'\\\\bquipazine')"
-p35
-aS"(183, u'\\\\btfmpp')"
-p36
-atp37
-Rp38
+atp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(2568, u'(?i)(hens|hen)')"
+((lp38
+S"(6282, u'(?i)\\\\b(wolves|wolf)\\\\b')"
+p39
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p41
-aS"(6125, u'(?i)(females|female)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(6282, u'(?i)(wolves|wolf)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(3522, u'(?i)(tetras|tetra)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-atp54
-Rp55
+atp42
+Rp43
 sb.

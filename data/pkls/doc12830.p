@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
 atp6
 Rp7
@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
+S"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,24 +60,8 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2568, u'(?i)(hens|hen)')"
+S"(5783, u'(?i)\\\\b(hinds|hind)\\\\b')"
 p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(3550, u'(?i)(anis|ani)')"
-p42
-aS"(6981, u'(?i)(moths|moth)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(5783, u'(?i)(hinds|hind)')"
-p45
-atp46
-Rp47
+atp38
+Rp39
 sb.

@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(126, u'(?i)(thalamuses|thalamus)')"
+S"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p23
 atp24
 Rp25
@@ -54,34 +54,10 @@ sS'species'
 p32
 g3
 ((lp33
-S"(2323, u'(?i)(bees|bee)')"
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p34
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p35
-aS"(7609, u'(?i)(erns|ern)')"
-p36
-aS"(163, u'(?i)(mice|mouse)')"
-p37
-aS"(479, u'(?i)(lings|ling)')"
-p38
-aS"(4091, u'(?i)(adults|adult)')"
-p39
-aS"(4163, u'(?i)(ermines|ermine)')"
-p40
-aS"(1349, u'(?i)(rams|ram)')"
-p41
-aS"(3726, u'(?i)(mates|mate)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(1683, u'(?i)(terns|tern)')"
-p47
-atp48
-Rp49
+atp36
+Rp37
 sb.

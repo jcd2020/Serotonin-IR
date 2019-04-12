@@ -36,38 +36,24 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p23
-aS"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'year'
-p27
+p26
 V1993
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(5958, u'(?i)(rats|rat)')"
-p35
-aS"(1667, u'(?i)(polyps|polyp)')"
-p36
-aS"(479, u'(?i)(lings|ling)')"
-p37
-aS"(7094, u'(?i)(curs|cur)')"
-p38
-aS"(6391, u'(?i)(asses|ass)')"
-p39
-aS"(391, u'(?i)(alli|allis)')"
-p40
-atp41
-Rp42
+((lp33
+tp34
+Rp35
 sb.

@@ -8,94 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(57, u'\\\\bolanzapine')"
+S"(111, u'\\\\bolanzapine')"
 p5
-aS"(124, u'\\\\bolanzapine')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+p10
+atp11
+Rp12
 sS'topics'
-p14
+p13
 g3
-((lp15
+((lp14
 S"(32, u'\\\\bnausea')"
-p16
+p15
 aS"(15, u'\\\\bschizophreni')"
-p17
+p16
 aS"(28, u'\\\\bemesis')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht6'
-p23
-aS'5ht5'
-p24
+p22
 aS'5ht3'
-p25
+p23
 aS'5ht2c'
-p26
-aS'5ht2a'
-p27
+p24
 aS'5ht2'
-p28
-atp29
-Rp30
+p25
+aS'5ht2a'
+p26
+atp27
+Rp28
 sS'regions'
-p31
+p29
 g3
-((lp32
-tp33
-Rp34
+((lp30
+tp31
+Rp32
 sS'year'
-p35
+p33
 V2014
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(57, u'\\\\bolanzapine')"
 p37
-g3
-((lp38
-S"(64, u'\\\\bolanzapine')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(6981, u'(?i)(moths|moth)')"
-p51
-aS"(1291, u'(?i)(ratels|ratel)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-atp55
-Rp56
+((lp41
+tp42
+Rp43
 sb.

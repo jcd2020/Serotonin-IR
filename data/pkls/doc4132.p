@@ -42,9 +42,9 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(234, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(basali|basalis)')"
+S"(234, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(basali|basalis)\\\\b')"
 p26
-aS"(231, u'(?i)(basals|basal)(-|\\\\s+)?(forebrains|forebrain)')"
+aS"(231, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(forebrains|forebrain)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p34
 atp35
 Rp36
@@ -64,38 +64,10 @@ sS'species'
 p37
 g3
 ((lp38
-S"(2323, u'(?i)(bees|bee)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p39
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(5967, u'(?i)(males|male)')"
-p45
-aS"(2183, u'(?i)(gars|gar)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6215, u'(?i)(racers|racer)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(5537, u'(?i)(hippos|hippo)')"
-p54
-atp55
-Rp56
+atp41
+Rp42
 sb.

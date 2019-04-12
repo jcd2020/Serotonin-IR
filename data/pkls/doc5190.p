@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(55, u'\\\\bnefazodone')"
+S"(49, u'\\\\bnefazodone')"
 p5
 atp6
 Rp7
@@ -32,54 +32,38 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2a'
 p20
-aS'5ht2a'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-tp26
-Rp27
+((lp24
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1994
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(196, u'\\\\bquipazine')"
+((lp30
+S"(192, u'\\\\bquipazine')"
+p31
+aS"(56, u'\\\\bnefazodone')"
 p32
-aS"(63, u'\\\\bnefazodone')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2323, u'(?i)(bees|bee)')"
+((lp36
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(163, u'(?i)(mice|mouse)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-atp47
-Rp48
+atp39
+Rp40
 sb.

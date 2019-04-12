@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(87, u'\\\\brs ?127445')"
+S"(78, u'\\\\brs ?127445')"
 p5
 atp6
 Rp7
@@ -56,50 +56,12 @@ sS'species'
 p33
 g3
 ((lp34
-S"(3812, u'(?i)(studs|stud)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p35
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-aS"(5229, u'(?i)(moles|mole)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(6391, u'(?i)(asses|ass)')"
-p39
-aS"(1795, u'(?i)(mounts|mount)')"
-p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(1291, u'(?i)(ratels|ratel)')"
-p42
-aS"(1690, u'(?i)(basses|bass)')"
-p43
-aS"(2809, u'(?i)(toms|tom)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(163, u'(?i)(mice|mouse)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(1414, u'(?i)(chars|char)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(5799, u'(?i)(rodents|rodent)')"
-p53
-aS"(853, u'(?i)(minas|mina)')"
-p54
-aS"(7552, u'(?i)(bats|bat)')"
-p55
-aS"(5917, u'(?i)(roaches|roach)')"
-p56
-atp57
-Rp58
+atp38
+Rp39
 sb.

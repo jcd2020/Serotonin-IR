@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(200, u'\\\\bmesulergine')"
+S"(193, u'\\\\bmesulergine')"
 p5
 atp6
 Rp7
@@ -30,72 +30,38 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht2c'
 p19
-aS'5ht2c'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(270, u'(?i)(v1s|v1)')"
-p25
-aS"(389, u'(?i)(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)')"
-p26
-atp27
-Rp28
+((lp23
+S"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
+p24
+atp25
+Rp26
 sS'year'
-p29
+p27
 V2004
-p30
+p28
 sS'agonists'
+p29
+g3
+((lp30
+S"(165, u'\\\\bmesulergine')"
 p31
-g3
-((lp32
-S"(155, u'\\\\bmem')"
-p33
-aS"(171, u'\\\\bmesulergine')"
-p34
-atp35
-Rp36
+aS"(149, u'\\\\bmem')"
+p32
+atp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(1438, u'(?i)(ceroes|cero)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(867, u'(?i)(tits|tit)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(1725, u'(?i)(clams|clam)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(7094, u'(?i)(curs|cur)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(5229, u'(?i)(moles|mole)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(7609, u'(?i)(erns|ern)')"
-p53
-aS"(1683, u'(?i)(terns|tern)')"
-p54
-atp55
-Rp56
+((lp36
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

@@ -26,50 +26,34 @@ sS'receptors'
 p15
 g3
 ((lp16
-S'5ht5'
+S'5ht2a'
 p17
-aS'5ht2a'
-p18
-atp19
-Rp20
+atp18
+Rp19
 sS'regions'
-p21
+p20
 g3
-((lp22
-tp23
-Rp24
+((lp21
+tp22
+Rp23
 sS'year'
-p25
+p24
 V2003
-p26
+p25
 sS'agonists'
-p27
+p26
 g3
-((lp28
-S"(193, u'\\\\bethanol')"
-p29
-atp30
-Rp31
+((lp27
+S"(189, u'\\\\bethanol')"
+p28
+atp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(4301, u'(?i)(hydras|hydra)')"
-p34
-aS"(5958, u'(?i)(rats|rat)')"
-p35
-aS"(1055, u'(?i)(men|man)')"
-p36
-aS"(7094, u'(?i)(curs|cur)')"
-p37
-aS"(107, u'(?i)(stags|stag)')"
-p38
-aS"(6356, u'(?i)(ais|ai)')"
-p39
-aS"(3812, u'(?i)(studs|stud)')"
-p40
-aS"(6391, u'(?i)(asses|ass)')"
-p41
-atp42
-Rp43
+((lp32
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p33
+atp34
+Rp35
 sb.

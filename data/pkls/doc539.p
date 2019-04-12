@@ -8,15 +8,15 @@ c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100135')"
+S"(30, u'\\\\bway ?100135')"
 p5
-aS"(114, u'\\\\bimipramine')"
+aS"(104, u'\\\\bimipramine')"
 p6
-aS"(113, u'\\\\bclomipramine')"
+aS"(102, u'\\\\bamitriptyline')"
 p7
-aS"(199, u'\\\\bmaprotiline')"
+aS"(103, u'\\\\bclomipramine')"
 p8
-aS"(112, u'\\\\bamitriptyline')"
+aS"(192, u'\\\\bmaprotiline')"
 p9
 atp10
 Rp11
@@ -36,48 +36,32 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht5'
+S'5ht1a'
 p22
-aS'5ht1a'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-tp28
-Rp29
+((lp26
+tp27
+Rp28
 sS'year'
-p30
+p29
 V1995
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(5537, u'(?i)(hippos|hippo)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(853, u'(?i)(minas|mina)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(1414, u'(?i)(chars|char)')"
-p45
-atp46
-Rp47
+((lp36
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

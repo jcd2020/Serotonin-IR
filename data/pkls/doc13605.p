@@ -36,62 +36,36 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p23
-aS"(277, u'(?i)(temporals|temporal)(-|\\\\s+)?(lobes|lobe)')"
+aS"(277, u'(?i)\\\\b(temporals|temporal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
 p24
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2014
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(1070, u'(?i)(pets|pet)')"
+((lp35
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p36
+aS"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
+aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(5967, u'(?i)(males|male)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6215, u'(?i)(racers|racer)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(7058, u'(?i)(does|doe)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6521, u'(?i)(macaques|macaque)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(4596, u'(?i)(rhesuses|rhesus)')"
-p51
-aS"(5949, u'(?i)(dogs|dog)')"
-p52
-atp53
-Rp54
+atp40
+Rp41
 sb.

@@ -50,24 +50,8 @@ sS'species'
 p30
 g3
 ((lp31
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p32
-aS"(2568, u'(?i)(hens|hen)')"
-p33
-aS"(867, u'(?i)(tits|tit)')"
-p34
-aS"(479, u'(?i)(lings|ling)')"
-p35
-aS"(468, u'(?i)(oxen|ox)')"
-p36
-aS"(1054, u'(?i)(homoes|homo)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(1961, u'(?i)(pens|pen)')"
-p39
-aS"(3812, u'(?i)(studs|stud)')"
-p40
-atp41
-Rp42
+atp33
+Rp34
 sb.

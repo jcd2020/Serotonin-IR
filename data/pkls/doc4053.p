@@ -40,70 +40,42 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p25
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p26
-aS"(178, u'(?i)(laterals|lateral)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
-aS"(217, u'(?i)(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)')"
+aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p28
-aS"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
 p29
-aS"(216, u'(?i)(strias|stria)(-|\\\\s+)?(terminali|terminalis)')"
+aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p30
-aS"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
+aS"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
 p31
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2005
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p39
-atp40
-Rp41
+((lp37
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p38
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp42
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p43
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(949, u'(?i)(cohoes|coho)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(5176, u'(?i)(tegs|teg)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(5967, u'(?i)(males|male)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(853, u'(?i)(minas|mina)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(3522, u'(?i)(tetras|tetra)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(5743, u'(?i)(bots|bot)')"
-p58
-atp59
-Rp60
+atp45
+Rp46
 sb.

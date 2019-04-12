@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -32,88 +32,40 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht1a'
 p20
-aS'5ht1a'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-tp26
-Rp27
+((lp24
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2012
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(24, u'\\\\bbuspirone')"
-p32
-atp33
-Rp34
+((lp30
+S"(20, u'\\\\bbuspirone')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(4624, u'(?i)(apes|ape)')"
+((lp35
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p36
+aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
 p37
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(4749, u'(?i)\\\\b(blues|blue)\\\\b')"
 p38
-aS"(3858, u'(?i)(cobs|cob)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(1070, u'(?i)(pets|pet)')"
-p42
-aS"(4657, u'(?i)(fish|fish)')"
-p43
-aS"(7539, u'(?i)(mammals|mammal)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(3522, u'(?i)(tetras|tetra)')"
-p49
-aS"(4749, u'(?i)(blues|blue)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(7609, u'(?i)(erns|ern)')"
-p52
-aS"(163, u'(?i)(mice|mouse)')"
-p53
-aS"(6682, u'(?i)(tera|teras)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p56
-aS"(6753, u'(?i)(da|das)')"
-p57
-aS"(702, u'(?i)(genets|genet)')"
-p58
-aS"(1054, u'(?i)(homoes|homo)')"
-p59
-aS"(7552, u'(?i)(bats|bat)')"
-p60
-aS"(5917, u'(?i)(roaches|roach)')"
-p61
-aS"(1014, u'(?i)(zebras|zebra)')"
-p62
-aS"(1683, u'(?i)(terns|tern)')"
-p63
-atp64
-Rp65
+atp40
+Rp41
 sb.

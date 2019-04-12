@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(200, u'\\\\bmesulergine')"
+S"(133, u'\\\\bmianserin')"
 p5
-aS"(27, u'\\\\bspiperone')"
+aS"(26, u'\\\\bspiperone')"
 p6
-aS"(117, u'\\\\bmianserin')"
+aS"(193, u'\\\\bmesulergine')"
 p7
 atp8
 Rp9
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(171, u'\\\\bmesulergine')"
+S"(165, u'\\\\bmesulergine')"
 p33
 atp34
 Rp35
@@ -62,28 +62,8 @@ sS'species'
 p36
 g3
 ((lp37
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(853, u'(?i)(minas|mina)')"
-p41
-aS"(479, u'(?i)(lings|ling)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(4964, u'(?i)(serins|serin)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(5229, u'(?i)(moles|mole)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-atp49
-Rp50
+atp39
+Rp40
 sb.

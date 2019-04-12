@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(136, u'\\\\btropisetron')"
+aS"(125, u'\\\\btropisetron')"
 p6
 atp7
 Rp8
@@ -42,9 +42,9 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p26
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,9 +56,9 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(194, u'\\\\bibogaine')"
+S"(11, u'\\\\bamphetamine')"
 p34
-aS"(14, u'\\\\bamphetamine')"
+aS"(190, u'\\\\bibogaine')"
 p35
 atp36
 Rp37
@@ -66,28 +66,10 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2323, u'(?i)(bees|bee)')"
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p40
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(867, u'(?i)(tits|tit)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(6325, u'(?i)(caudates|caudate)')"
-p50
-atp51
-Rp52
+atp42
+Rp43
 sb.

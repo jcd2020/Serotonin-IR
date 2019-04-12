@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(194, u'\\\\bmethysergide')"
 p5
-aS"(21, u'\\\\bpindolol')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
-aS"(105, u'\\\\bmethysergide')"
+aS"(21, u'\\\\bpindolol')"
 p7
 aS"(22, u'\\\\bpropranolol')"
 p8
@@ -54,9 +54,9 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(48, u'\\\\bhaloperidol')"
+S"(53, u'\\\\bmethysergide')"
 p33
-aS"(60, u'\\\\bmethysergide')"
+aS"(43, u'\\\\bhaloperidol')"
 p34
 atp35
 Rp36
@@ -64,30 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(4624, u'(?i)(apes|ape)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(867, u'(?i)(tits|tit)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(5949, u'(?i)(dogs|dog)')"
-p50
-atp51
-Rp52
+atp40
+Rp41
 sb.

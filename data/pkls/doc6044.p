@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bquetiapine')"
+S"(50, u'\\\\bquetiapine')"
 p5
-aS"(125, u'\\\\bquetiapine')"
+aS"(112, u'\\\\bquetiapine')"
 p6
-aS"(142, u'\\\\bm1')"
+aS"(131, u'\\\\bm1')"
 p7
 atp8
 Rp9
@@ -52,9 +52,9 @@ aS'5ht2c'
 p28
 aS'5ht1e'
 p29
-aS'5ht2a'
-p30
 aS'5ht1d'
+p30
+aS'5ht2a'
 p31
 aS'5ht5'
 p32
@@ -76,7 +76,7 @@ sS'agonists'
 p42
 g3
 ((lp43
-S"(71, u'\\\\bquetiapine')"
+S"(64, u'\\\\bquetiapine')"
 p44
 atp45
 Rp46
@@ -84,28 +84,12 @@ sS'species'
 p47
 g3
 ((lp48
-S"(5958, u'(?i)(rats|rat)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p49
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p50
-aS"(1055, u'(?i)(men|man)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(6753, u'(?i)(da|das)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(1057, u'(?i)(humans|human)')"
-p55
-aS"(5229, u'(?i)(moles|mole)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(3196, u'(?i)(human|humans)')"
-p59
-atp60
-Rp61
+atp52
+Rp53
 sb.

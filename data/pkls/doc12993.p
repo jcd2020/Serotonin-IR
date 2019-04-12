@@ -58,42 +58,14 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p36
-aS"(1350, u'(?i)(tups|tup)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p37
-aS"(1280, u'(?i)(shrews|shrew)')"
+aS"(1891, u'(?i)\\\\b(trees|tree)(-|\\\\s+)?(shrews|shrew)\\\\b')"
 p38
-aS"(867, u'(?i)(tits|tit)')"
+aS"(1280, u'(?i)\\\\b(shrews|shrew)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(5967, u'(?i)(males|male)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(1891, u'(?i)(trees|tree)(-|\\\\s+)?(shrews|shrew)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(3522, u'(?i)(tetras|tetra)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(2809, u'(?i)(toms|tom)')"
-p52
-aS"(7058, u'(?i)(does|doe)')"
-p53
-atp54
-Rp55
+atp40
+Rp41
 sb.

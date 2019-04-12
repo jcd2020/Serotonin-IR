@@ -52,36 +52,14 @@ sS'species'
 p31
 g3
 ((lp32
-S"(6753, u'(?i)(da|das)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p33
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p34
-aS"(6125, u'(?i)(females|female)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p35
-aS"(867, u'(?i)(tits|tit)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p36
-aS"(163, u'(?i)(mice|mouse)')"
-p37
-aS"(7539, u'(?i)(mammals|mammal)')"
-p38
-aS"(5967, u'(?i)(males|male)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(7058, u'(?i)(does|doe)')"
-p47
-atp48
-Rp49
+atp37
+Rp38
 sb.

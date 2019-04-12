@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(61, u'\\\\bmdl ?100907')"
+S"(52, u'\\\\bmdl ?100907')"
 p5
 atp6
 Rp7
@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(71, u'(?i)(cerebellums|cerebellum)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p23
 atp24
 Rp25
@@ -54,36 +54,12 @@ sS'species'
 p32
 g3
 ((lp33
-S"(2670, u'(?i)(arabs|arab)')"
+S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
 p34
-aS"(6753, u'(?i)(da|das)')"
+aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p35
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p36
-aS"(6356, u'(?i)(ais|ai)')"
-p37
-aS"(5917, u'(?i)(roaches|roach)')"
-p38
-aS"(4201, u'(?i)(kines|kine)')"
-p39
-aS"(4163, u'(?i)(ermines|ermine)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(7094, u'(?i)(curs|cur)')"
-p42
-aS"(1349, u'(?i)(rams|ram)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(4597, u'(?i)(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p47
-aS"(4596, u'(?i)(rhesuses|rhesus)')"
-p48
-atp49
-Rp50
+atp37
+Rp38
 sb.

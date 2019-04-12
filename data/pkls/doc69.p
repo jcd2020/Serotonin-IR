@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(130, u'\\\\bzacopride')"
 p5
-aS"(141, u'\\\\bzacopride')"
+aS"(124, u'\\\\bondansetron')"
 p6
 atp7
 Rp8
@@ -52,70 +52,42 @@ sS'regions'
 p29
 g3
 ((lp30
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p31
-aS"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p32
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'year'
-p37
+p36
 V1992
-p38
+p37
 sS'agonists'
-p39
+p38
 g3
-((lp40
-S"(195, u'\\\\bphenylbiguanide')"
+((lp39
+S"(20, u'\\\\bbuspirone')"
+p40
+aS"(208, u'\\\\bzacopride')"
 p41
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p42
-aS"(47, u'\\\\bgepirone')"
+aS"(42, u'\\\\bgepirone')"
 p43
-aS"(24, u'\\\\bbuspirone')"
+aS"(191, u'\\\\bphenylbiguanide')"
 p44
-aS"(50, u'\\\\bipsapirone')"
+aS"(45, u'\\\\bipsapirone')"
 p45
-aS"(212, u'\\\\bzacopride')"
-p46
-atp47
-Rp48
+atp46
+Rp47
 sS'species'
-p49
+p48
 g3
-((lp50
-S"(4301, u'(?i)(hydras|hydra)')"
-p51
-aS"(2568, u'(?i)(hens|hen)')"
-p52
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(6753, u'(?i)(da|das)')"
-p55
-aS"(468, u'(?i)(oxen|ox)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(5743, u'(?i)(bots|bot)')"
-p59
-aS"(3550, u'(?i)(anis|ani)')"
-p60
-aS"(1414, u'(?i)(chars|char)')"
-p61
-aS"(6356, u'(?i)(ais|ai)')"
-p62
-aS"(6878, u'(?i)(guans|guan)')"
-p63
-aS"(821, u'(?i)(lice|louse)')"
-p64
-atp65
-Rp66
+((lp49
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

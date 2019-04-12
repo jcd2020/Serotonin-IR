@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(204, u'\\\\bsb ?269970')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -40,60 +40,36 @@ S'5ht7'
 p22
 aS'5ht1a'
 p23
-aS'5ht5'
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(140, u'(?i)(parafasciculars|parafascicular)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp27
+S"(140, u'(?i)\\\\b(parafasciculars|parafascicular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p28
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p29
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V2005
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p37
-atp38
-Rp39
+((lp35
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p36
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(5035, u'(?i)(harts|hart)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(4371, u'(?i)(lizas|liza)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

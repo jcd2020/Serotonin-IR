@@ -42,72 +42,38 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2001
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(153, u'\\\\bmdma')"
+((lp32
+S"(147, u'\\\\bmdma')"
+p33
+aS"(11, u'\\\\bamphetamine')"
 p34
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p35
-aS"(14, u'\\\\bamphetamine')"
+aS"(163, u'\\\\bfenfluramine')"
 p36
-aS"(169, u'\\\\bfenfluramine')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(2568, u'(?i)(hens|hen)')"
+((lp40
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p43
-aS"(7609, u'(?i)(erns|ern)')"
-p44
-aS"(867, u'(?i)(tits|tit)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(3522, u'(?i)(tetras|tetra)')"
-p53
-aS"(1057, u'(?i)(humans|human)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(3196, u'(?i)(human|humans)')"
-p57
-aS"(6580, u'(?i)(dams|dam)')"
-p58
-aS"(1683, u'(?i)(terns|tern)')"
-p59
-aS"(821, u'(?i)(lice|louse)')"
-p60
-atp61
-Rp62
+atp44
+Rp45
 sb.

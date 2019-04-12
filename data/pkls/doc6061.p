@@ -46,60 +46,26 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(178, u'(?i)(laterals|lateral)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p28
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'year'
-p33
+p31
 V2017
-p34
+p32
 sS'agonists'
-p35
+p33
 g3
-((lp36
-tp37
-Rp38
+((lp34
+tp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(2323, u'(?i)(bees|bee)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(5176, u'(?i)(tegs|teg)')"
-p45
-aS"(1725, u'(?i)(clams|clam)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(5917, u'(?i)(roaches|roach)')"
-p52
-aS"(4371, u'(?i)(lizas|liza)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(821, u'(?i)(lice|louse)')"
-p55
-aS"(4133, u'(?i)(pikes|pike)')"
-p56
-atp57
-Rp58
+((lp38
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

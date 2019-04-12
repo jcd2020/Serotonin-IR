@@ -8,100 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(135, u'\\\\bondansetron')"
+aS"(33, u'\\\\byohimbine')"
 p7
-aS"(34, u'\\\\byohimbine')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(4, u'\\\\blocomot')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht3'
-p23
+p22
 aS'5ht2c'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(71, u'(?i)(cerebellums|cerebellum)')"
-p30
-atp31
-Rp32
+((lp28
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p33
+p32
 V2014
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(89, u'\\\\byohimbine')"
-p37
-atp38
-Rp39
+((lp35
+S"(82, u'\\\\byohimbine')"
+p36
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(5537, u'(?i)(hippos|hippo)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(2568, u'(?i)(hens|hen)')"
-p44
-aS"(931, u'(?i)(divers|diver)')"
-p45
-aS"(867, u'(?i)(tits|tit)')"
-p46
-aS"(163, u'(?i)(mice|mouse)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(1686, u'(?i)(gibs|gib)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(4964, u'(?i)(serins|serin)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(3636, u'(?i)(martins|martin)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+((lp40
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p41
+atp42
+Rp43
 sb.

@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(111, u'\\\\btramadol')"
+S"(21, u'\\\\bpindolol')"
 p5
-aS"(34, u'\\\\byohimbine')"
+aS"(101, u'\\\\btramadol')"
 p6
-aS"(21, u'\\\\bpindolol')"
+aS"(33, u'\\\\byohimbine')"
 p7
 atp8
 Rp9
@@ -60,7 +60,7 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(89, u'\\\\byohimbine')"
+S"(82, u'\\\\byohimbine')"
 p36
 atp37
 Rp38
@@ -68,24 +68,8 @@ sS'species'
 p39
 g3
 ((lp40
-S"(6753, u'(?i)(da|das)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-atp50
-Rp51
+atp42
+Rp43
 sb.

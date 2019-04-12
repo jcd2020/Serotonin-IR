@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(141, u'\\\\bzacopride')"
+S"(130, u'\\\\bzacopride')"
 p5
 atp6
 Rp7
@@ -50,11 +50,11 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(193, u'\\\\bethanol')"
+S"(208, u'\\\\bzacopride')"
 p31
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p32
-aS"(212, u'\\\\bzacopride')"
+aS"(189, u'\\\\bethanol')"
 p33
 atp34
 Rp35
@@ -62,20 +62,8 @@ sS'species'
 p36
 g3
 ((lp37
-S"(949, u'(?i)(cohoes|coho)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(1725, u'(?i)(clams|clam)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(7094, u'(?i)(curs|cur)')"
-p44
-atp45
-Rp46
+atp39
+Rp40
 sb.

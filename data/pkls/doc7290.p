@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(58, u'\\\\bhaloperidol')"
 p5
-aS"(135, u'\\\\bondansetron')"
+aS"(124, u'\\\\bondansetron')"
 p6
-aS"(34, u'\\\\byohimbine')"
+aS"(33, u'\\\\byohimbine')"
 p7
 atp8
 Rp9
@@ -56,13 +56,13 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(89, u'\\\\byohimbine')"
+S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p34
-aS"(48, u'\\\\bhaloperidol')"
+aS"(82, u'\\\\byohimbine')"
 p35
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+aS"(149, u'\\\\bmem')"
 p36
-aS"(155, u'\\\\bmem')"
+aS"(43, u'\\\\bhaloperidol')"
 p37
 atp38
 Rp39
@@ -70,48 +70,18 @@ sS'species'
 p40
 g3
 ((lp41
-S"(1070, u'(?i)(pets|pet)')"
+S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p42
-aS"(3404, u'(?i)(titis|titi)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p43
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p44
-aS"(867, u'(?i)(tits|tit)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(6753, u'(?i)(da|das)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p46
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p47
-aS"(2183, u'(?i)(gars|gar)')"
-p48
-aS"(3051, u'(?i)(pigs|pig)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1349, u'(?i)(rams|ram)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(3062, u'(?i)(guineas|guinea)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(6682, u'(?i)(tera|teras)')"
-p56
-aS"(1057, u'(?i)(humans|human)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(3196, u'(?i)(human|humans)')"
-p60
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p61
-aS"(6356, u'(?i)(ais|ai)')"
-p62
-atp63
-Rp64
+atp48
+Rp49
 sb.

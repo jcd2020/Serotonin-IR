@@ -42,11 +42,11 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p26
-aS"(288, u'(?i)(fusiforms|fusiform)(-|\\\\s+)?(gyruses|gyrus)')"
+aS"(288, u'(?i)\\\\b(fusiforms|fusiform)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p27
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
 atp29
 Rp30
@@ -64,46 +64,14 @@ sS'species'
 p37
 g3
 ((lp38
-S"(2323, u'(?i)(bees|bee)')"
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
 p39
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p40
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p41
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(4177, u'(?i)(grays|gray)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(2665, u'(?i)(rays|ray)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(6679, u'(?i)(anguses|angus)')"
-p51
-aS"(1057, u'(?i)(humans|human)')"
-p52
-aS"(5229, u'(?i)(moles|mole)')"
-p53
-aS"(3196, u'(?i)(human|humans)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(3048, u'(?i)(hogs|hog)')"
-p56
-aS"(2809, u'(?i)(toms|tom)')"
-p57
-aS"(1683, u'(?i)(terns|tern)')"
-p58
-atp59
-Rp60
+atp43
+Rp44
 sb.

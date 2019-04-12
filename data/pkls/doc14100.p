@@ -8,114 +8,70 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
-tp17
-Rp18
+((lp15
+tp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
-S'5ht5'
-p21
-aS'5ht2b'
-p22
-aS'5ht2c'
-p23
-aS'5ht1'
-p24
-aS'5ht2a'
-p25
+((lp19
+S'5ht2b'
+p20
 aS'5ht3a'
-p26
-atp27
-Rp28
+p21
+aS'5ht2c'
+p22
+aS'5ht1'
+p23
+aS'5ht2a'
+p24
+atp25
+Rp26
 sS'regions'
+p27
+g3
+((lp28
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-g3
-((lp30
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
-p31
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p36
+p33
 V2003
-p37
+p34
 sS'agonists'
-p38
+p35
 g3
-((lp39
-tp40
-Rp41
+((lp36
+tp37
+Rp38
 sS'species'
-p42
+p39
 g3
-((lp43
-S"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p47
-aS"(6878, u'(?i)(guans|guan)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(1725, u'(?i)(clams|clam)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(3726, u'(?i)(mates|mate)')"
-p53
-aS"(1349, u'(?i)(rams|ram)')"
-p54
-aS"(4964, u'(?i)(serins|serin)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(7094, u'(?i)(curs|cur)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(3247, u'(?i)(youngs|young)')"
-p59
-aS"(6391, u'(?i)(asses|ass)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-aS"(3152, u'(?i)(layers|layer)')"
-p62
-aS"(821, u'(?i)(lice|louse)')"
-p63
-aS"(7552, u'(?i)(bats|bat)')"
-p64
-atp65
-Rp66
+((lp40
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

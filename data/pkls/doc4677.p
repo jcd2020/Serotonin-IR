@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(80, u'\\\\bpromethazine')"
 p5
-aS"(90, u'\\\\bpromethazine')"
+aS"(124, u'\\\\bondansetron')"
 p6
 atp7
 Rp8
@@ -44,56 +44,30 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2015
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2670, u'(?i)(arabs|arab)')"
+((lp36
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p37
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p38
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(6981, u'(?i)(moths|moth)')"
-p47
-aS"(1057, u'(?i)(humans|human)')"
-p48
-aS"(5917, u'(?i)(roaches|roach)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(5743, u'(?i)(bots|bot)')"
-p52
-aS"(6744, u'(?i)(maras|mara)')"
-p53
-atp54
-Rp55
+atp41
+Rp42
 sb.

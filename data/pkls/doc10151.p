@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(58, u'\\\\bhaloperidol')"
 p5
 atp6
 Rp7
@@ -42,9 +42,9 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(104, u'(?i)(par|pars)(-|\\\\s+)?(compactas|compacta)')"
+S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p26
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,15 +56,15 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(47, u'\\\\bgepirone')"
+S"(20, u'\\\\bbuspirone')"
 p34
-aS"(48, u'\\\\bhaloperidol')"
+aS"(45, u'\\\\bipsapirone')"
 p35
-aS"(24, u'\\\\bbuspirone')"
+aS"(43, u'\\\\bhaloperidol')"
 p36
-aS"(14, u'\\\\bamphetamine')"
+aS"(11, u'\\\\bamphetamine')"
 p37
-aS"(50, u'\\\\bipsapirone')"
+aS"(42, u'\\\\bgepirone')"
 p38
 atp39
 Rp40
@@ -72,20 +72,8 @@ sS'species'
 p41
 g3
 ((lp42
-S"(5958, u'(?i)(rats|rat)')"
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(3522, u'(?i)(tetras|tetra)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+atp44
+Rp45
 sb.

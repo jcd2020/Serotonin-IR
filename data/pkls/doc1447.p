@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(81, u'\\\\bagomelatine')"
+S"(72, u'\\\\bagomelatine')"
 p5
 atp6
 Rp7
@@ -62,50 +62,8 @@ sS'species'
 p36
 g3
 ((lp37
-S"(4624, u'(?i)(apes|ape)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(4163, u'(?i)(ermines|ermine)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(5229, u'(?i)(moles|mole)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(6391, u'(?i)(asses|ass)')"
-p43
-aS"(702, u'(?i)(genets|genet)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(5537, u'(?i)(hippos|hippo)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(163, u'(?i)(mice|mouse)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(3534, u'(?i)(scads|scad)')"
-p53
-aS"(6753, u'(?i)(da|das)')"
-p54
-aS"(4371, u'(?i)(lizas|liza)')"
-p55
-aS"(2323, u'(?i)(bees|bee)')"
-p56
-aS"(4979, u'(?i)(cats|cat)')"
-p57
-aS"(3051, u'(?i)(pigs|pig)')"
-p58
-aS"(1054, u'(?i)(homoes|homo)')"
-p59
-atp60
-Rp61
+atp39
+Rp40
 sb.

@@ -54,46 +54,16 @@ sS'species'
 p32
 g3
 ((lp33
-S"(4657, u'(?i)(fish|fish)')"
+S"(3883, u'(?i)\\\\b(teleosts|teleost)\\\\b')"
 p34
-aS"(6753, u'(?i)(da|das)')"
+aS"(5747, u'(?i)\\\\b(toadfish|toadfish)\\\\b')"
 p35
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
 p36
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
 p37
-aS"(3882, u'(?i)(teleosts|teleost)(-|\\\\s+)?(fish|fish)')"
+aS"(3882, u'(?i)\\\\b(teleosts|teleost)(-|\\\\s+)?(fish|fish)\\\\b')"
 p38
-aS"(3230, u'(?i)(crows|crow)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(7539, u'(?i)(mammals|mammal)')"
-p41
-aS"(479, u'(?i)(lings|ling)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(5747, u'(?i)(toadfish|toadfish)')"
-p45
-aS"(5176, u'(?i)(tegs|teg)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(3522, u'(?i)(tetras|tetra)')"
-p48
-aS"(1396, u'(?i)(toads|toad)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(1795, u'(?i)(mounts|mount)')"
-p52
-aS"(3883, u'(?i)(teleosts|teleost)')"
-p53
-atp54
-Rp55
+atp39
+Rp40
 sb.

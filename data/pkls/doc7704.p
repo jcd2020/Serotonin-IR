@@ -40,88 +40,56 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(236, u'(?i)\\\\b(septals|septal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p26
-aS"(236, u'(?i)(septals|septal)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p27
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p28
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(242, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tracts|tract)')"
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(294, u'(?i)\\\\b(retrosplenials|retrosplenial)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p32
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(242, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p33
-aS"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p34
-aS"(244, u'(?i)(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p35
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p36
-aS"(294, u'(?i)(retrosplenials|retrosplenial)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(244, u'(?i)\\\\b(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p37
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'year'
-p41
+p40
 V2005
-p42
+p41
 sS'agonists'
-p43
+p42
 g3
-((lp44
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp43
+S"(149, u'\\\\bmem')"
+p44
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p45
-aS"(155, u'\\\\bmem')"
-p46
-atp47
-Rp48
+atp46
+Rp47
 sS'species'
-p49
+p48
 g3
-((lp50
-S"(2323, u'(?i)(bees|bee)')"
+((lp49
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p50
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p51
-aS"(4163, u'(?i)(ermines|ermine)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(931, u'(?i)(divers|diver)')"
-p54
-aS"(702, u'(?i)(genets|genet)')"
-p55
-aS"(468, u'(?i)(oxen|ox)')"
-p56
-aS"(2183, u'(?i)(gars|gar)')"
-p57
-aS"(1055, u'(?i)(men|man)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-aS"(6753, u'(?i)(da|das)')"
-p60
-aS"(3550, u'(?i)(anis|ani)')"
-p61
-aS"(3522, u'(?i)(tetras|tetra)')"
-p62
-aS"(6356, u'(?i)(ais|ai)')"
-p63
-aS"(6391, u'(?i)(asses|ass)')"
-p64
-aS"(391, u'(?i)(alli|allis)')"
-p65
-aS"(6325, u'(?i)(caudates|caudate)')"
-p66
-aS"(6682, u'(?i)(tera|teras)')"
-p67
-atp68
-Rp69
+atp52
+Rp53
 sb.

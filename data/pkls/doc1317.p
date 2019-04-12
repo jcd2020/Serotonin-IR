@@ -8,120 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(124, u'\\\\bondansetron')"
 p6
-aS"(135, u'\\\\bondansetron')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(139, u'\\\\bmetoclopramide')"
+aS"(194, u'\\\\bmethysergide')"
 p8
-aS"(105, u'\\\\bmethysergide')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
+p13
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
-tp20
-Rp21
+((lp18
+tp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht4'
-p24
+p23
 aS'5ht3'
-p25
+p24
 aS'5ht1'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'year'
-p34
+p32
 V1993
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(220, u'\\\\b5 ?methoxytryptamine')"
 p36
-g3
-((lp37
-S"(195, u'\\\\bphenylbiguanide')"
+aS"(209, u'\\\\bmetoclopramide')"
+p37
+aS"(53, u'\\\\bmethysergide')"
 p38
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p39
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+aS"(191, u'\\\\bphenylbiguanide')"
 p40
-aS"(60, u'\\\\bmethysergide')"
-p41
-aS"(213, u'\\\\bmetoclopramide')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(4624, u'(?i)(apes|ape)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(2568, u'(?i)(hens|hen)')"
-p49
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p50
-aS"(6878, u'(?i)(guans|guan)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(163, u'(?i)(mice|mouse)')"
-p53
-aS"(7552, u'(?i)(bats|bat)')"
-p54
-aS"(468, u'(?i)(oxen|ox)')"
-p55
-aS"(1349, u'(?i)(rams|ram)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(1055, u'(?i)(men|man)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(5838, u'(?i)(cubs|cub)')"
-p60
-aS"(3550, u'(?i)(anis|ani)')"
-p61
-aS"(7094, u'(?i)(curs|cur)')"
-p62
-aS"(1961, u'(?i)(pens|pen)')"
-p63
-aS"(1414, u'(?i)(chars|char)')"
-p64
-aS"(2809, u'(?i)(toms|tom)')"
-p65
-aS"(4979, u'(?i)(cats|cat)')"
-p66
-aS"(4964, u'(?i)(serins|serin)')"
-p67
-atp68
-Rp69
+((lp44
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p45
+atp46
+Rp47
 sb.

@@ -8,98 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(177, u'\\\\bsb ?399885')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(119, u'\\\\britanserin')"
 p6
-aS"(130, u'\\\\britanserin')"
+aS"(146, u'\\\\bgr ?125487')"
 p7
-aS"(54, u'\\\\britanserin')"
+aS"(31, u'\\\\bway ?100635')"
 p8
-aS"(155, u'\\\\bgr ?125487')"
+aS"(113, u'\\\\brisperidone')"
 p9
-aS"(59, u'\\\\brisperidone')"
-p10
-aS"(185, u'\\\\bsb ?399885')"
-p11
-atp12
-Rp13
+atp10
+Rp11
 sS'methods'
-p14
+p12
 g3
-((lp15
+((lp13
 S'Method.ANTAGONIST'
-p16
+p14
 aS'Method.AGONIST'
-p17
-atp18
-Rp19
+p15
+atp16
+Rp17
 sS'topics'
-p20
+p18
 g3
-((lp21
-tp22
-Rp23
+((lp19
+tp20
+Rp21
 sS'receptors'
-p24
+p22
 g3
-((lp25
+((lp23
 S'5ht6'
-p26
-aS'5ht5'
-p27
-aS'5ht4'
-p28
-aS'5ht3'
-p29
-aS'5ht2a'
-p30
+p24
 aS'5ht1a'
-p31
-atp32
-Rp33
+p25
+aS'5ht4'
+p26
+aS'5ht3'
+p27
+aS'5ht2a'
+p28
+atp29
+Rp30
 sS'regions'
-p34
+p31
 g3
-((lp35
-tp36
-Rp37
+((lp32
+tp33
+Rp34
 sS'year'
-p38
+p35
 V2015
-p39
+p36
 sS'agonists'
-p40
+p37
 g3
-((lp41
-S"(201, u'\\\\bbimu ?8')"
-p42
-atp43
-Rp44
+((lp38
+S"(197, u'\\\\bbimu ?8')"
+p39
+atp40
+Rp41
 sS'species'
-p45
+p42
 g3
-((lp46
-S"(6753, u'(?i)(da|das)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(163, u'(?i)(mice|mouse)')"
-p49
-aS"(81, u'(?i)(asps|asp)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(4604, u'(?i)(mites|mite)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-atp57
-Rp58
+((lp43
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p44
+atp45
+Rp46
 sb.

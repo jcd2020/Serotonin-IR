@@ -40,56 +40,26 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2011
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(169, u'\\\\bfenfluramine')"
+((lp30
+S"(175, u'\\\\bdoi')"
+p31
+aS"(163, u'\\\\bfenfluramine')"
 p32
-aS"(33, u'\\\\bdoi')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2323, u'(?i)(bees|bee)')"
-p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1349, u'(?i)(rams|ram)')"
-p41
-aS"(3726, u'(?i)(mates|mate)')"
-p42
-aS"(3592, u'(?i)(ravens|raven)')"
-p43
-aS"(6215, u'(?i)(racers|racer)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(4604, u'(?i)(mites|mite)')"
-p46
-aS"(5917, u'(?i)(roaches|roach)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+((lp36
+tp37
+Rp38
 sb.

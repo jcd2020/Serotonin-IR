@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(193, u'\\\\bethanol')"
+S"(189, u'\\\\bethanol')"
 p32
 atp33
 Rp34
@@ -60,36 +60,6 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2323, u'(?i)(bees|bee)')"
-p37
-aS"(5537, u'(?i)(hippos|hippo)')"
-p38
-aS"(949, u'(?i)(cohoes|coho)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(479, u'(?i)(lings|ling)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(3726, u'(?i)(mates|mate)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+tp37
+Rp38
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(203, u'\\\\btfmpp')"
 p5
 atp6
 Rp7
@@ -36,72 +36,44 @@ S'5ht1c'
 p20
 aS'5ht1b'
 p21
-aS'5ht5'
-p22
 aS'5ht1a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
-p28
-atp29
-Rp30
+((lp26
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p31
+p30
 V1994
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(161, u'\\\\bmcpp')"
+((lp33
+S"(76, u'\\\\btrifluoromethylphenylpiperazine')"
+p34
+aS"(178, u'\\\\btfmpp')"
 p35
-aS"(83, u'\\\\btrifluoromethylphenylpiperazine')"
+aS"(155, u'\\\\bmcpp')"
 p36
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p37
-aS"(183, u'\\\\btfmpp')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(1688, u'(?i)(ounces|ounce)')"
+((lp41
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(5176, u'(?i)(tegs|teg)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(5967, u'(?i)(males|male)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(3522, u'(?i)(tetras|tetra)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-atp58
-Rp59
+atp44
+Rp45
 sb.

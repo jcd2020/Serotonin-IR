@@ -12,7 +12,7 @@ S"(13, u'\\\\bmefway')"
 p5
 aS"(15, u'\\\\bmppf')"
 p6
-aS"(32, u'\\\\bway ?100635')"
+aS"(31, u'\\\\bway ?100635')"
 p7
 atp8
 Rp9
@@ -60,38 +60,6 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2670, u'(?i)(arabs|arab)')"
-p37
-aS"(1438, u'(?i)(ceroes|cero)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(3230, u'(?i)(crows|crow)')"
-p40
-aS"(6215, u'(?i)(racers|racer)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(1054, u'(?i)(homoes|homo)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(5229, u'(?i)(moles|mole)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(2809, u'(?i)(toms|tom)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+tp37
+Rp38
 sb.

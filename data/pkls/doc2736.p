@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100135')"
+S"(30, u'\\\\bway ?100135')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(43, u'\\\\bgr ?127935')"
 p6
-aS"(45, u'\\\\bgr ?127935')"
+aS"(31, u'\\\\bway ?100635')"
 p7
 aS"(11, u'\\\\bisamoltane')"
 p8
@@ -44,62 +44,42 @@ S'5ht1b'
 p24
 aS'5ht1a'
 p25
-aS'5ht5'
-p26
 aS'5ht1d'
-p27
-atp28
-Rp29
+p26
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp30
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p31
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p32
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'year'
-p36
+p35
 V1995
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(103, u'\\\\bsumatriptan')"
+((lp38
+S"(96, u'\\\\bsumatriptan')"
+p39
+aS"(100, u'\\\\bcp ?93129')"
 p40
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p41
-aS"(107, u'\\\\bcp ?93129')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(1070, u'(?i)(pets|pet)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(867, u'(?i)(tits|tit)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(3404, u'(?i)(titis|titi)')"
-p51
-aS"(6753, u'(?i)(da|das)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(7127, u'(?i)(monitors|monitor)')"
-p54
-aS"(821, u'(?i)(lice|louse)')"
-p55
-aS"(5949, u'(?i)(dogs|dog)')"
-p56
-atp57
-Rp58
+((lp45
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

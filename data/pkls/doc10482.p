@@ -40,9 +40,9 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
+S"(2, u'(?i)\\\\b(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)\\\\b')"
 p25
-aS"(2, u'(?i)(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)')"
+aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p33
 atp34
 Rp35
@@ -62,36 +62,8 @@ sS'species'
 p36
 g3
 ((lp37
-S"(3812, u'(?i)(studs|stud)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(2942, u'(?i)(daws|daw)')"
-p47
-aS"(5176, u'(?i)(tegs|teg)')"
-p48
-aS"(3522, u'(?i)(tetras|tetra)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(821, u'(?i)(lice|louse)')"
-p52
-atp53
-Rp54
+atp39
+Rp40
 sb.

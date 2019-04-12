@@ -8,102 +8,80 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(35, u'\\\\baripiprazole')"
 p5
-aS"(36, u'\\\\baripiprazole')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(56, u'\\\\bclozapine')"
+aS"(114, u'\\\\bziprasidone')"
 p7
-aS"(67, u'\\\\bhaloperidol')"
+aS"(31, u'\\\\bway ?100635')"
 p8
-aS"(41, u'\\\\bziprasidone')"
+aS"(58, u'\\\\bhaloperidol')"
 p9
-aS"(123, u'\\\\bclozapine')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.STAINING'
-p15
+p14
 aS'Method.AGONIST'
-p16
+p15
 aS'Method.ANTAGONIST'
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'topics'
-p20
+p19
 g3
-((lp21
+((lp20
 S"(15, u'\\\\bschizophreni')"
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'receptors'
-p25
+p24
 g3
-((lp26
+((lp25
 S'5ht1a'
-p27
-atp28
-Rp29
+p26
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-S"(220, u'(?i)(striatums|striatum)')"
-p32
-atp33
-Rp34
+((lp30
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p31
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2005
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(91, u'\\\\bziprasidone')"
+((lp37
+S"(37, u'\\\\bf ?13714')"
+p38
+aS"(23, u'\\\\bclozapine')"
 p39
-aS"(16, u'\\\\baripiprazole')"
+aS"(223, u'\\\\baripiprazole')"
 p40
-aS"(48, u'\\\\bhaloperidol')"
+aS"(84, u'\\\\bziprasidone')"
 p41
-aS"(42, u'\\\\bf ?13714')"
+aS"(43, u'\\\\bhaloperidol')"
 p42
-aS"(27, u'\\\\bclozapine')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sS'species'
-p46
+p45
 g3
-((lp47
-S"(6753, u'(?i)(da|das)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(163, u'(?i)(mice|mouse)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(4163, u'(?i)(ermines|ermine)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+((lp46
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p47
+atp48
+Rp49
 sb.

@@ -36,13 +36,13 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p23
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p24
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,9 +54,9 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(193, u'\\\\bethanol')"
+S"(189, u'\\\\bethanol')"
 p33
-aS"(121, u'\\\\bl ?694247')"
+aS"(114, u'\\\\bl ?694247')"
 p34
 atp35
 Rp36
@@ -64,44 +64,10 @@ sS'species'
 p37
 g3
 ((lp38
-S"(4624, u'(?i)(apes|ape)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(736, u'(?i)\\\\b(fawns|fawn)\\\\b')"
 p40
-aS"(4163, u'(?i)(ermines|ermine)')"
-p41
-aS"(949, u'(?i)(cohoes|coho)')"
-p42
-aS"(867, u'(?i)(tits|tit)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(6580, u'(?i)(dams|dam)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(2568, u'(?i)(hens|hen)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-aS"(736, u'(?i)(fawns|fawn)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(7192, u'(?i)(wrens|wren)')"
-p56
-aS"(6878, u'(?i)(guans|guan)')"
-p57
-atp58
-Rp59
+atp41
+Rp42
 sb.

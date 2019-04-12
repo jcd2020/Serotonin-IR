@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(61, u'\\\\bmdl ?100907')"
+S"(52, u'\\\\bmdl ?100907')"
 p5
 atp6
 Rp7
@@ -46,62 +46,28 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(244, u'(?i)(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)')"
+S"(244, u'(?i)\\\\b(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V1994
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-tp36
-Rp37
+((lp34
+tp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(2568, u'(?i)(hens|hen)')"
+((lp38
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p39
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(6857, u'(?i)(ormers|ormer)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(4604, u'(?i)(mites|mite)')"
-p46
-aS"(3152, u'(?i)(layers|layer)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(821, u'(?i)(lice|louse)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(7609, u'(?i)(erns|ern)')"
-p53
-aS"(1823, u'(?i)(merls|merl)')"
-p54
-aS"(7610, u'(?i)(ernes|erne)')"
-p55
-aS"(1683, u'(?i)(terns|tern)')"
-p56
-aS"(6331, u'(?i)(mares|mare)')"
-p57
-atp58
-Rp59
+atp41
+Rp42
 sb.

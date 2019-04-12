@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bsdz ?216525')"
+S"(25, u'\\\\bsdz ?216525')"
 p5
 atp6
 Rp7
@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(124, u'(?i)(thirds|third)(-|\\\\s+)?(ventricles|ventricle)')"
+S"(124, u'(?i)\\\\b(thirds|third)(-|\\\\s+)?(ventricles|ventricle)\\\\b')"
 p24
 atp25
 Rp26
@@ -56,34 +56,12 @@ sS'species'
 p33
 g3
 ((lp34
-S"(4301, u'(?i)(hydras|hydra)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p35
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p36
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(4091, u'(?i)(adults|adult)')"
-p39
-aS"(5967, u'(?i)(males|male)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(1349, u'(?i)(rams|ram)')"
-p43
-aS"(6215, u'(?i)(racers|racer)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-atp49
-Rp50
+atp38
+Rp39
 sb.

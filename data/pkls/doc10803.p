@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(42, u'\\\\bvortioxetine')"
 p5
-aS"(44, u'\\\\bvortioxetine')"
+aS"(124, u'\\\\bondansetron')"
 p6
 atp7
 Rp8
@@ -38,80 +38,44 @@ S'5ht7'
 p21
 aS'5ht1b'
 p22
-aS'5ht5'
+aS'5ht1a'
 p23
 aS'5ht3'
 p24
 aS'5ht1d'
 p25
-aS'5ht1a'
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp29
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p30
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p31
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2016
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(198, u'\\\\bsr ?57227')"
+((lp37
+S"(94, u'\\\\bvortioxetine')"
+p38
+aS"(194, u'\\\\bsr ?57227')"
 p39
-aS"(101, u'\\\\bvortioxetine')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(4624, u'(?i)(apes|ape)')"
-p45
-aS"(5537, u'(?i)(hippos|hippo)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(7609, u'(?i)(erns|ern)')"
-p49
-aS"(7610, u'(?i)(ernes|erne)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(479, u'(?i)(lings|ling)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(3726, u'(?i)(mates|mate)')"
-p56
-aS"(1349, u'(?i)(rams|ram)')"
-p57
-aS"(4979, u'(?i)(cats|cat)')"
-p58
-aS"(3550, u'(?i)(anis|ani)')"
-p59
-aS"(1414, u'(?i)(chars|char)')"
-p60
-aS"(6391, u'(?i)(asses|ass)')"
-p61
-aS"(1683, u'(?i)(terns|tern)')"
-p62
-atp63
-Rp64
+((lp43
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

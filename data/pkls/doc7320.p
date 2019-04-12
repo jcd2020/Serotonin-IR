@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(153, u'\\\\bgr ?113808')"
+S"(144, u'\\\\bgr ?113808')"
 p5
 atp6
 Rp7
@@ -40,66 +40,40 @@ g3
 ((lp22
 S'5ht4a'
 p23
-aS'5ht5'
-p24
 aS'5ht4'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'year'
-p32
+p31
 V2003
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(206, u'\\\\bprucalopride')"
+((lp34
+S"(149, u'\\\\bmem')"
+p35
+aS"(202, u'\\\\bprucalopride')"
 p36
-aS"(155, u'\\\\bmem')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(6249, u'(?i)(ants|ant)')"
+((lp40
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p41
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p42
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(2183, u'(?i)(gars|gar)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(7094, u'(?i)(curs|cur)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p50
-aS"(1057, u'(?i)(humans|human)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3196, u'(?i)(human|humans)')"
-p53
-aS"(391, u'(?i)(alli|allis)')"
-p54
-aS"(1683, u'(?i)(terns|tern)')"
-p55
-aS"(5949, u'(?i)(dogs|dog)')"
-p56
-atp57
-Rp58
+atp44
+Rp45
 sb.

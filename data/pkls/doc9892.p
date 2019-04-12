@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(181, u'\\\\bdom')"
+S"(176, u'\\\\bdom')"
 p33
 atp34
 Rp35
@@ -62,38 +62,14 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2323, u'(?i)(bees|bee)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p38
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p39
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(4091, u'(?i)(adults|adult)')"
-p43
-aS"(81, u'(?i)(asps|asp)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(1349, u'(?i)(rams|ram)')"
-p47
-aS"(853, u'(?i)(minas|mina)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(3247, u'(?i)(youngs|young)')"
-p51
-aS"(3152, u'(?i)(layers|layer)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-atp54
-Rp55
+atp42
+Rp43
 sb.

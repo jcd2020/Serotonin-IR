@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p24
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,32 +58,16 @@ sS'species'
 p34
 g3
 ((lp35
-S"(1395, u'(?i)(frogs|frog)')"
+S"(1395, u'(?i)\\\\b(frogs|frog)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(2621, u'(?i)\\\\b(vertebrates|vertebrate)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p38
-aS"(5684, u'(?i)(africans|african)(-|\\\\s+)?(claweds|clawed)(-|\\\\s+)?(frogs|frog)')"
+aS"(5685, u'(?i)\\\\b(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)\\\\b')"
 p39
-aS"(5967, u'(?i)(males|male)')"
+aS"(5684, u'(?i)\\\\b(africans|african)(-|\\\\s+)?(claweds|clawed)(-|\\\\s+)?(frogs|frog)\\\\b')"
 p40
-aS"(4163, u'(?i)(ermines|ermine)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(4371, u'(?i)(lizas|liza)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(2621, u'(?i)(vertebrates|vertebrate)')"
-p46
-aS"(5685, u'(?i)(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)')"
-p47
-aS"(5949, u'(?i)(dogs|dog)')"
-p48
-atp49
-Rp50
+atp41
+Rp42
 sb.

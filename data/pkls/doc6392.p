@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(45, u'\\\\bgr ?127935')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -50,66 +50,34 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+tp30
+Rp31
 sS'year'
-p33
+p32
 V2002
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(103, u'\\\\bsumatriptan')"
+((lp35
+S"(25, u'\\\\bdihydroergotamine')"
+p36
+aS"(96, u'\\\\bsumatriptan')"
 p37
-aS"(104, u'\\\\bzolmitriptan')"
+aS"(97, u'\\\\bzolmitriptan')"
 p38
-aS"(29, u'\\\\bdihydroergotamine')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(6249, u'(?i)(ants|ant)')"
+((lp42
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p43
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(1688, u'(?i)(ounces|ounce)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(3601, u'(?i)(efts|eft)')"
-p47
-aS"(3767, u'(?i)(olms|olm)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(4371, u'(?i)(lizas|liza)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(3726, u'(?i)(mates|mate)')"
-p54
-aS"(853, u'(?i)(minas|mina)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(1057, u'(?i)(humans|human)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-aS"(3196, u'(?i)(human|humans)')"
-p60
-aS"(5743, u'(?i)(bots|bot)')"
-p61
-atp62
-Rp63
+atp46
+Rp47
 sb.

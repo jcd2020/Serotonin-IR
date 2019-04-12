@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(182, u'\\\\bsb ?258585')"
+S"(174, u'\\\\bsb ?258585')"
 p5
 atp6
 Rp7
@@ -58,22 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(6249, u'(?i)(ants|ant)')"
+S"(81, u'(?i)\\\\b(asps|asp)\\\\b')"
 p36
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
 p38
-aS"(81, u'(?i)(asps|asp)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(4604, u'(?i)(mites|mite)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(2395, u'(?i)(mutants|mutant)')"
-p43
-atp44
-Rp45
+atp39
+Rp40
 sb.

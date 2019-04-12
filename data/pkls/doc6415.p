@@ -8,118 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(203, u'\\\\btfmpp')"
 p5
-aS"(129, u'\\\\bly ?53857')"
+aS"(34, u'\\\\bmetergoline')"
 p6
-aS"(130, u'\\\\britanserin')"
+aS"(118, u'\\\\bly ?53857')"
 p7
-aS"(52, u'\\\\bmetergoline')"
+aS"(117, u'\\\\bketanserin')"
 p8
-aS"(128, u'\\\\bketanserin')"
+aS"(119, u'\\\\britanserin')"
 p9
-aS"(54, u'\\\\britanserin')"
-p10
-aS"(209, u'\\\\btfmpp')"
-p11
-aS"(35, u'\\\\bmetergoline')"
-p12
-atp13
-Rp14
+atp10
+Rp11
 sS'methods'
-p15
+p12
 g3
-((lp16
+((lp13
 S'Method.ANTAGONIST'
-p17
+p14
 aS'Method.AGONIST'
-p18
-atp19
-Rp20
+p15
+atp16
+Rp17
 sS'topics'
-p21
+p18
 g3
-((lp22
-tp23
-Rp24
+((lp19
+tp20
+Rp21
 sS'receptors'
-p25
+p22
 g3
-((lp26
-S'5ht5'
-p27
-aS'5ht3'
-p28
-aS'5ht2c'
-p29
-aS'5ht2a'
-p30
-aS'5ht7a'
-p31
+((lp23
+S'5ht7a'
+p24
 aS'5ht1a'
-p32
-atp33
-Rp34
+p25
+aS'5ht3'
+p26
+aS'5ht2c'
+p27
+aS'5ht2a'
+p28
+atp29
+Rp30
 sS'regions'
-p35
+p31
 g3
-((lp36
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p37
-aS"(34, u'(?i)(pon|pons)')"
-p38
-atp39
-Rp40
+((lp32
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p33
+atp34
+Rp35
 sS'year'
-p41
+p36
 V1998
-p42
+p37
 sS'agonists'
-p43
+p38
 g3
-((lp44
-S"(161, u'\\\\bmcpp')"
-p45
-aS"(196, u'\\\\bquipazine')"
+((lp39
+S"(178, u'\\\\btfmpp')"
+p40
+aS"(192, u'\\\\bquipazine')"
+p41
+aS"(155, u'\\\\bmcpp')"
+p42
+aS"(175, u'\\\\bdoi')"
+p43
+atp44
+Rp45
+sS'species'
 p46
-aS"(183, u'\\\\btfmpp')"
-p47
-aS"(33, u'\\\\bdoi')"
+g3
+((lp47
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p48
 atp49
 Rp50
-sS'species'
-p51
-g3
-((lp52
-S"(2323, u'(?i)(bees|bee)')"
-p53
-aS"(2568, u'(?i)(hens|hen)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(4964, u'(?i)(serins|serin)')"
-p56
-aS"(6682, u'(?i)(tera|teras)')"
-p57
-aS"(468, u'(?i)(oxen|ox)')"
-p58
-aS"(1055, u'(?i)(men|man)')"
-p59
-aS"(6249, u'(?i)(ants|ant)')"
-p60
-aS"(3812, u'(?i)(studs|stud)')"
-p61
-aS"(5958, u'(?i)(rats|rat)')"
-p62
-aS"(5229, u'(?i)(moles|mole)')"
-p63
-aS"(1961, u'(?i)(pens|pen)')"
-p64
-aS"(1414, u'(?i)(chars|char)')"
-p65
-aS"(4979, u'(?i)(cats|cat)')"
-p66
-atp67
-Rp68
 sb.

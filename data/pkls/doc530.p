@@ -56,26 +56,8 @@ sS'species'
 p33
 g3
 ((lp34
-S"(6753, u'(?i)(da|das)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p35
-aS"(702, u'(?i)(genets|genet)')"
-p36
-aS"(163, u'(?i)(mice|mouse)')"
-p37
-aS"(4091, u'(?i)(adults|adult)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(3550, u'(?i)(anis|ani)')"
-p41
-aS"(5917, u'(?i)(roaches|roach)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-atp45
-Rp46
+atp36
+Rp37
 sb.

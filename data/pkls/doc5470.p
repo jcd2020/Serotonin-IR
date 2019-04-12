@@ -44,76 +44,48 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-aS"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'year'
-p35
+p33
 V2007
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(189, u'\\\\bethanol')"
 p37
-g3
-((lp38
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p38
+aS"(175, u'\\\\bdoi')"
 p39
-aS"(193, u'\\\\bethanol')"
-p40
-aS"(33, u'\\\\bdoi')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp43
+S"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
+p44
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+p45
+aS"(6580, u'(?i)\\\\b(dams|dam)\\\\b')"
 p46
-aS"(3248, u'(?i)(offspring|offspring)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p47
-aS"(6125, u'(?i)(females|female)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p48
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(4163, u'(?i)(ermines|ermine)')"
-p51
-aS"(4091, u'(?i)(adults|adult)')"
-p52
-aS"(5967, u'(?i)(males|male)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(2568, u'(?i)(hens|hen)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(949, u'(?i)(cohoes|coho)')"
-p58
-aS"(3522, u'(?i)(tetras|tetra)')"
-p59
-aS"(3592, u'(?i)(ravens|raven)')"
-p60
-aS"(6580, u'(?i)(dams|dam)')"
-p61
-aS"(6356, u'(?i)(ais|ai)')"
-p62
-aS"(6682, u'(?i)(tera|teras)')"
-p63
-atp64
-Rp65
+atp50
+Rp51
 sb.

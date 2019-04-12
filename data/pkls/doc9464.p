@@ -8,112 +8,88 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(203, u'\\\\btfmpp')"
 p5
-aS"(54, u'\\\\britanserin')"
-p6
 aS"(14, u'\\\\bmethiothepin')"
-p7
+p6
 aS"(21, u'\\\\bpindolol')"
+p7
+aS"(119, u'\\\\britanserin')"
 p8
-aS"(130, u'\\\\britanserin')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.STIMULATION'
-p14
+p13
 aS'Method.ANTAGONIST'
-p15
+p14
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
-tp21
-Rp22
+((lp19
+tp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht1c'
-p25
+p24
 aS'5ht1b'
-p26
+p25
 aS'5ht1a'
-p27
+p26
 aS'5ht3'
-p28
+p27
 aS'5ht2'
-p29
-atp30
-Rp31
+p28
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-S"(220, u'(?i)(striatums|striatum)')"
+((lp32
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p33
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p34
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'year'
-p38
+p37
 V1992
-p39
+p38
 sS'agonists'
-p40
+p39
 g3
-((lp41
-S"(74, u'\\\\bru ?24969')"
+((lp40
+S"(76, u'\\\\btrifluoromethylphenylpiperazine')"
+p41
+aS"(178, u'\\\\btfmpp')"
 p42
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p43
-aS"(183, u'\\\\btfmpp')"
+aS"(67, u'\\\\bru ?24969')"
 p44
-aS"(83, u'\\\\btrifluoromethylphenylpiperazine')"
+aS"(175, u'\\\\bdoi')"
 p45
-aS"(33, u'\\\\bdoi')"
-p46
-atp47
-Rp48
+atp46
+Rp47
 sS'species'
-p49
+p48
 g3
-((lp50
-S"(2323, u'(?i)(bees|bee)')"
+((lp49
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p50
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p51
-aS"(1688, u'(?i)(ounces|ounce)')"
-p52
-aS"(6753, u'(?i)(da|das)')"
-p53
-aS"(2568, u'(?i)(hens|hen)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-aS"(468, u'(?i)(oxen|ox)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(1349, u'(?i)(rams|ram)')"
-p59
-aS"(4964, u'(?i)(serins|serin)')"
-p60
-aS"(5958, u'(?i)(rats|rat)')"
-p61
-aS"(1961, u'(?i)(pens|pen)')"
-p62
-aS"(6356, u'(?i)(ais|ai)')"
-p63
-atp64
-Rp65
+atp52
+Rp53
 sb.

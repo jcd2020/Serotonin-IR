@@ -40,82 +40,46 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(165, u'(?i)(preoptics|preoptic)(-|\\\\s+)?(areas|area)')"
+S"(170, u'(?i)\\\\b(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
 p28
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p29
-aS"(170, u'(?i)(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)')"
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'year'
-p33
+p31
 V2012
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p35
-g3
-((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p37
-atp38
-Rp39
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(6356, u'(?i)(ais|ai)')"
+((lp39
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+p40
+aS"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
+p41
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p42
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(1795, u'(?i)\\\\b(mounts|mount)\\\\b')"
 p43
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p44
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p45
-aS"(1795, u'(?i)(mounts|mount)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p46
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p47
-aS"(1070, u'(?i)(pets|pet)')"
-p48
-aS"(6125, u'(?i)(females|female)')"
-p49
-aS"(4091, u'(?i)(adults|adult)')"
-p50
-aS"(5967, u'(?i)(males|male)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(391, u'(?i)(alli|allis)')"
-p54
-aS"(2809, u'(?i)(toms|tom)')"
-p55
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p56
-aS"(5537, u'(?i)(hippos|hippo)')"
-p57
-aS"(5958, u'(?i)(rats|rat)')"
-p58
-aS"(6682, u'(?i)(tera|teras)')"
-p59
-aS"(1055, u'(?i)(men|man)')"
-p60
-aS"(6215, u'(?i)(racers|racer)')"
-p61
-aS"(6753, u'(?i)(da|das)')"
-p62
-aS"(2323, u'(?i)(bees|bee)')"
-p63
-aS"(3726, u'(?i)(mates|mate)')"
-p64
-atp65
-Rp66
+atp47
+Rp48
 sb.

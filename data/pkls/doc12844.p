@@ -50,40 +50,12 @@ sS'species'
 p30
 g3
 ((lp31
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
 p32
-aS"(6753, u'(?i)(da|das)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p33
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p34
-aS"(3601, u'(?i)(efts|eft)')"
-p35
-aS"(5454, u'(?i)(brills|brill)')"
-p36
-aS"(163, u'(?i)(mice|mouse)')"
-p37
-aS"(6682, u'(?i)(tera|teras)')"
-p38
-aS"(4091, u'(?i)(adults|adult)')"
-p39
-aS"(4663, u'(?i)(nags|nag)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(107, u'(?i)(stags|stag)')"
-p44
-aS"(1054, u'(?i)(homoes|homo)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(2395, u'(?i)(mutants|mutant)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-atp49
-Rp50
+atp35
+Rp36
 sb.

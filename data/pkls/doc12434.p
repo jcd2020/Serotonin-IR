@@ -52,14 +52,6 @@ sS'species'
 p31
 g3
 ((lp32
-S"(6249, u'(?i)(ants|ant)')"
-p33
-aS"(2568, u'(?i)(hens|hen)')"
-p34
-aS"(468, u'(?i)(oxen|ox)')"
-p35
-aS"(5958, u'(?i)(rats|rat)')"
-p36
-atp37
-Rp38
+tp33
+Rp34
 sb.

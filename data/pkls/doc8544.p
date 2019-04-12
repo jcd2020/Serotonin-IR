@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(139, u'\\\\bmetoclopramide')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
 atp6
 Rp7
@@ -52,11 +52,11 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+S"(209, u'\\\\bmetoclopramide')"
 p32
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p33
-aS"(213, u'\\\\bmetoclopramide')"
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p34
 atp35
 Rp36
@@ -64,40 +64,14 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5958, u'(?i)(rats|rat)')"
+S"(3883, u'(?i)\\\\b(teleosts|teleost)\\\\b')"
 p39
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p40
-aS"(3882, u'(?i)(teleosts|teleost)(-|\\\\s+)?(fish|fish)')"
+aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
 p41
-aS"(4657, u'(?i)(fish|fish)')"
+aS"(3882, u'(?i)\\\\b(teleosts|teleost)(-|\\\\s+)?(fish|fish)\\\\b')"
 p42
-aS"(7552, u'(?i)(bats|bat)')"
-p43
-aS"(7539, u'(?i)(mammals|mammal)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(1349, u'(?i)(rams|ram)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(5838, u'(?i)(cubs|cub)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(3883, u'(?i)(teleosts|teleost)')"
-p55
-atp56
-Rp57
+atp43
+Rp44
 sb.

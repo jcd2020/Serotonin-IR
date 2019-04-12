@@ -28,54 +28,36 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht1a'
 p18
-aS'5ht1a'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-tp24
-Rp25
+((lp22
+tp23
+Rp24
 sS'year'
-p26
+p25
 V1999
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p30
-atp31
-Rp32
+((lp28
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p29
+atp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(5958, u'(?i)(rats|rat)')"
+((lp33
+S"(5685, u'(?i)\\\\b(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)\\\\b')"
+p34
+aS"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p35
-aS"(7539, u'(?i)(mammals|mammal)')"
-p36
-aS"(4163, u'(?i)(ermines|ermine)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(1414, u'(?i)(chars|char)')"
-p41
-aS"(6391, u'(?i)(asses|ass)')"
-p42
-aS"(5685, u'(?i)(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)')"
-p43
-aS"(5783, u'(?i)(hinds|hind)')"
-p44
-atp45
-Rp46
+atp36
+Rp37
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bgranisetron')"
+S"(123, u'\\\\bgranisetron')"
 p5
 atp6
 Rp7
@@ -46,52 +46,26 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+tp28
+Rp29
 sS'year'
-p31
+p30
 V1994
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(190, u'\\\\b2 ?methyl ?5 ?ht')"
-p35
-atp36
-Rp37
+((lp33
+S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(3015, u'(?i)(ferrets|ferret)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(930, u'(?i)(loons|loon)')"
-p44
-aS"(5131, u'(?i)(hags|hag)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(1414, u'(?i)(chars|char)')"
-p49
-aS"(3592, u'(?i)(ravens|raven)')"
-p50
-aS"(2809, u'(?i)(toms|tom)')"
-p51
-aS"(7552, u'(?i)(bats|bat)')"
-p52
-atp53
-Rp54
+((lp38
+S"(3015, u'(?i)\\\\b(ferrets|ferret)\\\\b')"
+p39
+atp40
+Rp41
 sb.

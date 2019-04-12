@@ -48,48 +48,30 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(220, u'(?i)(striatums|striatum)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p29
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
-p34
+p33
 V1995
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(202, u'\\\\bcisapride')"
-p38
-atp39
-Rp40
+((lp36
+S"(198, u'\\\\bcisapride')"
+p37
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(5229, u'(?i)(moles|mole)')"
-p48
-aS"(1414, u'(?i)(chars|char)')"
-p49
-aS"(1628, u'(?i)(cod|cod)')"
-p50
-aS"(821, u'(?i)(lice|louse)')"
-p51
-atp52
-Rp53
+((lp41
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

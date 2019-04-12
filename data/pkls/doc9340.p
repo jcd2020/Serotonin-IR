@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(113, u'\\\\bclomipramine')"
+S"(103, u'\\\\bclomipramine')"
 p5
 atp6
 Rp7
@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p30
 atp31
 Rp32
@@ -56,16 +56,6 @@ sS'species'
 p33
 g3
 ((lp34
-S"(6356, u'(?i)(ais|ai)')"
-p35
-aS"(6249, u'(?i)(ants|ant)')"
-p36
-aS"(4163, u'(?i)(ermines|ermine)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(1349, u'(?i)(rams|ram)')"
-p39
-atp40
-Rp41
+tp35
+Rp36
 sb.

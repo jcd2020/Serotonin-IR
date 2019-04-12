@@ -48,7 +48,7 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
 atp30
 Rp31
@@ -66,38 +66,20 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2323, u'(?i)(bees|bee)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p40
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p41
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p42
-aS"(2401, u'(?i)(primates|primate)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p43
-aS"(473, u'(?i)(rabbits|rabbit)')"
+aS"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
 p44
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p45
-aS"(3062, u'(?i)(guineas|guinea)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
-aS"(3726, u'(?i)(mates|mate)')"
-p47
-aS"(1054, u'(?i)(homoes|homo)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(1414, u'(?i)(chars|char)')"
-p51
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-atp56
-Rp57
+atp47
+Rp48
 sb.

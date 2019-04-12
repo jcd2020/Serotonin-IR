@@ -30,70 +30,42 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht1a'
 p19
 aS'5ht1'
 p20
-aS'5ht1a'
-p21
-aS'5ht5a'
-p22
-atp23
-Rp24
+atp21
+Rp22
 sS'regions'
+p23
+g3
+((lp24
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-g3
-((lp26
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p27
-atp28
-Rp29
+atp26
+Rp27
 sS'year'
-p30
+p28
 V2018
-p31
+p29
 sS'agonists'
-p32
+p30
 g3
-((lp33
-tp34
-Rp35
+((lp31
+tp32
+Rp33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(1070, u'(?i)(pets|pet)')"
+((lp35
+S"(1935, u'(?i)\\\\b(ephemerals|ephemeral)\\\\b')"
+p36
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p37
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p38
-aS"(2323, u'(?i)(bees|bee)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1935, u'(?i)(ephemerals|ephemeral)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(2665, u'(?i)(rays|ray)')"
-p45
-aS"(6215, u'(?i)(racers|racer)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(1057, u'(?i)(humans|human)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(3196, u'(?i)(human|humans)')"
-p53
-atp54
-Rp55
+atp40
+Rp41
 sb.

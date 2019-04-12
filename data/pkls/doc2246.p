@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(182, u'\\\\bsb ?258585')"
+S"(174, u'\\\\bsb ?258585')"
 p5
 atp6
 Rp7
@@ -70,13 +70,13 @@ sS'regions'
 p38
 g3
 ((lp39
-S"(220, u'(?i)(striatums|striatum)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p40
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p41
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p42
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p43
 atp44
 Rp45
@@ -88,7 +88,7 @@ sS'agonists'
 p48
 g3
 ((lp49
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p50
 atp51
 Rp52
@@ -96,66 +96,22 @@ sS'species'
 p53
 g3
 ((lp54
-S"(2401, u'(?i)(primates|primate)')"
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p55
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p56
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p57
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p58
-aS"(5229, u'(?i)(moles|mole)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p59
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p60
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p61
-aS"(3196, u'(?i)(human|humans)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p62
-aS"(1070, u'(?i)(pets|pet)')"
-p63
-aS"(7539, u'(?i)(mammals|mammal)')"
-p64
-aS"(468, u'(?i)(oxen|ox)')"
-p65
-aS"(3550, u'(?i)(anis|ani)')"
-p66
-aS"(2809, u'(?i)(toms|tom)')"
-p67
-aS"(5958, u'(?i)(rats|rat)')"
-p68
-aS"(2183, u'(?i)(gars|gar)')"
-p69
-aS"(280, u'(?i)(gators|gator)')"
-p70
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p71
-aS"(1055, u'(?i)(men|man)')"
-p72
-aS"(6215, u'(?i)(racers|racer)')"
-p73
-aS"(4979, u'(?i)(cats|cat)')"
-p74
-aS"(1057, u'(?i)(humans|human)')"
-p75
-aS"(1961, u'(?i)(pens|pen)')"
-p76
-aS"(1414, u'(?i)(chars|char)')"
-p77
-aS"(6325, u'(?i)(caudates|caudate)')"
-p78
-aS"(2323, u'(?i)(bees|bee)')"
-p79
-aS"(2568, u'(?i)(hens|hen)')"
-p80
-aS"(7488, u'(?i)(molas|mola)')"
-p81
-aS"(6753, u'(?i)(da|das)')"
-p82
-aS"(3051, u'(?i)(pigs|pig)')"
-p83
-aS"(3726, u'(?i)(mates|mate)')"
-p84
-atp85
-Rp86
+atp63
+Rp64
 sb.

@@ -30,54 +30,36 @@ g3
 ((lp17
 S'5ht1a'
 p18
-aS'5ht5'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(389, u'(?i)(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)')"
-p24
-atp25
-Rp26
+((lp22
+S"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
+p23
+atp24
+Rp25
 sS'year'
-p27
+p26
 V2004
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(24, u'\\\\bbuspirone')"
+((lp29
+S"(20, u'\\\\bbuspirone')"
+p30
+aS"(45, u'\\\\bipsapirone')"
 p31
-aS"(50, u'\\\\bipsapirone')"
+aS"(189, u'\\\\bethanol')"
 p32
-aS"(193, u'\\\\bethanol')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(3550, u'(?i)(anis|ani)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-atp46
-Rp47
+((lp36
+tp37
+Rp38
 sb.

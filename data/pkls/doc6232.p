@@ -50,9 +50,9 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(109, u'\\\\bcp ?122288')"
+S"(100, u'\\\\bcp ?93129')"
 p31
-aS"(107, u'\\\\bcp ?93129')"
+aS"(102, u'\\\\bcp ?122288')"
 p32
 atp33
 Rp34
@@ -60,14 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(6249, u'(?i)(ants|ant)')"
+S"(5783, u'(?i)\\\\b(hinds|hind)\\\\b')"
 p37
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(5783, u'(?i)(hinds|hind)')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sb.

@@ -8,104 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(111, u'\\\\bolanzapine')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(119, u'\\\\britanserin')"
 p6
-aS"(130, u'\\\\britanserin')"
+aS"(110, u'\\\\bclozapine')"
 p7
-aS"(123, u'\\\\bclozapine')"
+aS"(31, u'\\\\bway ?100635')"
 p8
-aS"(56, u'\\\\bclozapine')"
+aS"(113, u'\\\\brisperidone')"
 p9
-aS"(57, u'\\\\bolanzapine')"
-p10
-aS"(54, u'\\\\britanserin')"
-p11
-aS"(124, u'\\\\bolanzapine')"
-p12
-aS"(59, u'\\\\brisperidone')"
-p13
-atp14
-Rp15
+atp10
+Rp11
 sS'methods'
-p16
+p12
 g3
-((lp17
+((lp13
 S'Method.KNOCKOUT'
-p18
+p14
 aS'Method.ANTAGONIST'
-p19
-atp20
-Rp21
+p15
+atp16
+Rp17
 sS'topics'
+p18
+g3
+((lp19
+tp20
+Rp21
+sS'receptors'
 p22
 g3
 ((lp23
-tp24
-Rp25
-sS'receptors'
-p26
-g3
-((lp27
 S'5ht1a'
-p28
+p24
 aS'5ht2c'
-p29
+p25
 aS'5ht2a'
-p30
-atp31
-Rp32
+p26
+atp27
+Rp28
 sS'regions'
-p33
+p29
 g3
-((lp34
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
-p35
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p36
-atp37
-Rp38
+((lp30
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p31
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p32
+atp33
+Rp34
 sS'year'
-p39
+p35
 V2010
-p40
+p36
 sS'agonists'
-p41
+p37
 g3
-((lp42
-S"(64, u'\\\\bolanzapine')"
-p43
-aS"(27, u'\\\\bclozapine')"
-p44
-atp45
-Rp46
+((lp38
+S"(57, u'\\\\bolanzapine')"
+p39
+aS"(23, u'\\\\bclozapine')"
+p40
+atp41
+Rp42
 sS'species'
-p47
+p43
 g3
-((lp48
-S"(6753, u'(?i)(da|das)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(163, u'(?i)(mice|mouse)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(3726, u'(?i)(mates|mate)')"
-p54
-aS"(4964, u'(?i)(serins|serin)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(5743, u'(?i)(bots|bot)')"
-p58
-aS"(7058, u'(?i)(does|doe)')"
-p59
-atp60
-Rp61
+((lp44
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p45
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p46
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p47
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

@@ -8,17 +8,17 @@ c__builtin__
 set
 p3
 ((lp4
-S"(200, u'\\\\bmesulergine')"
+S"(14, u'\\\\bmethiothepin')"
 p5
-aS"(14, u'\\\\bmethiothepin')"
+aS"(146, u'\\\\bgr ?125487')"
 p6
-aS"(155, u'\\\\bgr ?125487')"
+aS"(43, u'\\\\bgr ?127935')"
 p7
-aS"(135, u'\\\\bondansetron')"
+aS"(124, u'\\\\bondansetron')"
 p8
-aS"(31, u'\\\\bway ?100135')"
+aS"(193, u'\\\\bmesulergine')"
 p9
-aS"(45, u'\\\\bgr ?127935')"
+aS"(30, u'\\\\bway ?100135')"
 p10
 atp11
 Rp12
@@ -66,48 +66,26 @@ sS'regions'
 p36
 g3
 ((lp37
-S"(34, u'(?i)(pon|pons)')"
-p38
-atp39
-Rp40
+tp38
+Rp39
 sS'year'
-p41
+p40
 V1999
-p42
+p41
 sS'agonists'
-p43
+p42
 g3
-((lp44
-S"(171, u'\\\\bmesulergine')"
-p45
-atp46
-Rp47
+((lp43
+S"(165, u'\\\\bmesulergine')"
+p44
+atp45
+Rp46
 sS'species'
-p48
+p47
 g3
-((lp49
-S"(6753, u'(?i)(da|das)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(6580, u'(?i)(dams|dam)')"
-p55
-aS"(2942, u'(?i)(daws|daw)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(2809, u'(?i)(toms|tom)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-atp61
-Rp62
+((lp48
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

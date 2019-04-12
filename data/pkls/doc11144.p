@@ -38,54 +38,34 @@ g3
 ((lp21
 S'5ht1b'
 p22
-aS'5ht5'
-p23
 aS'5ht2c'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p29
-atp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V2011
-p33
+p31
 sS'agonists'
-p34
+p32
 g3
-((lp35
-tp36
-Rp37
+((lp33
+tp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(1070, u'(?i)(pets|pet)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(867, u'(?i)(tits|tit)')"
-p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(107, u'(?i)(stags|stag)')"
-p45
-aS"(6215, u'(?i)(racers|racer)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(4520, u'(?i)(agoutis|agouti)')"
-p49
-atp50
-Rp51
+((lp37
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p38
+aS"(4520, u'(?i)\\\\b(agoutis|agouti)\\\\b')"
+p39
+atp40
+Rp41
 sb.

@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(58, u'\\\\bhaloperidol')"
 p5
-aS"(34, u'\\\\byohimbine')"
+aS"(31, u'\\\\bway ?100635')"
 p6
-aS"(67, u'\\\\bhaloperidol')"
+aS"(33, u'\\\\byohimbine')"
 p7
 atp8
 Rp9
@@ -38,58 +38,34 @@ g3
 ((lp21
 S'5ht1a'
 p22
-aS'5ht5'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+((lp26
+tp27
+Rp28
 sS'year'
-p31
+p29
 V2005
-p32
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(82, u'\\\\byohimbine')"
 p33
-g3
-((lp34
-S"(89, u'\\\\byohimbine')"
-p35
-aS"(48, u'\\\\bhaloperidol')"
-p36
-atp37
-Rp38
+aS"(43, u'\\\\bhaloperidol')"
+p34
+atp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+((lp38
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

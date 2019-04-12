@@ -8,76 +8,58 @@ c__builtin__
 set
 p3
 ((lp4
-S"(123, u'\\\\bclozapine')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(56, u'\\\\bclozapine')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+p10
+atp11
+Rp12
 sS'topics'
-p14
+p13
 g3
-((lp15
-tp16
-Rp17
+((lp14
+tp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht5'
-p20
-aS'5ht2a'
-p21
-atp22
-Rp23
+((lp18
+S'5ht2a'
+p19
+atp20
+Rp21
 sS'regions'
-p24
+p22
 g3
-((lp25
-tp26
-Rp27
+((lp23
+tp24
+Rp25
 sS'year'
-p28
+p26
 V1998
-p29
+p27
 sS'agonists'
+p28
+g3
+((lp29
+S"(23, u'\\\\bclozapine')"
 p30
-g3
-((lp31
-S"(66, u'\\\\bperospirone')"
-p32
-aS"(27, u'\\\\bclozapine')"
-p33
-atp34
-Rp35
+aS"(59, u'\\\\bperospirone')"
+p31
+atp32
+Rp33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(5743, u'(?i)(bots|bot)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(1961, u'(?i)(pens|pen)')"
-p43
-aS"(1414, u'(?i)(chars|char)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-atp46
-Rp47
+((lp35
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

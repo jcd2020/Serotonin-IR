@@ -38,56 +38,34 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p24
-aS"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p25
-aS"(267, u'(?i)(precuneuses|precuneus)')"
+aS"(267, u'(?i)\\\\b(precuneuses|precuneus)\\\\b')"
 p26
-aS"(276, u'(?i)(cuneuses|cuneus)')"
+aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p27
-aS"(223, u'(?i)(putamens|putamen)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2005
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(13, u'\\\\baet')"
-p35
-atp36
-Rp37
+((lp33
+S"(10, u'\\\\baet')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(4176, u'(?i)(greys|grey)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(2809, u'(?i)(toms|tom)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+((lp38
+S"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
+p39
+atp40
+Rp41
 sb.

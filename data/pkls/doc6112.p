@@ -50,26 +50,10 @@ sS'species'
 p30
 g3
 ((lp31
-S"(2323, u'(?i)(bees|bee)')"
+S"(2621, u'(?i)\\\\b(vertebrates|vertebrate)\\\\b')"
 p32
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p33
-aS"(6753, u'(?i)(da|das)')"
-p34
-aS"(1266, u'(?i)(embryos|embryo)')"
-p35
-aS"(6682, u'(?i)(tera|teras)')"
-p36
-aS"(1055, u'(?i)(men|man)')"
-p37
-aS"(4979, u'(?i)(cats|cat)')"
-p38
-aS"(3550, u'(?i)(anis|ani)')"
-p39
-aS"(3812, u'(?i)(studs|stud)')"
-p40
-aS"(2621, u'(?i)(vertebrates|vertebrate)')"
-p41
-atp42
-Rp43
+atp34
+Rp35
 sb.

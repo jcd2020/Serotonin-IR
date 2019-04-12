@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bsb ?242084')"
+S"(99, u'\\\\bsb ?242084')"
 p5
 atp6
 Rp7
@@ -48,58 +48,36 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+tp29
+Rp30
 sS'year'
-p32
+p31
 V1997
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(161, u'\\\\bmcpp')"
-p36
-atp37
-Rp38
+((lp34
+S"(155, u'\\\\bmcpp')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(7058, u'(?i)(does|doe)')"
+((lp39
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p40
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(5131, u'(?i)(hags|hag)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(2395, u'(?i)(mutants|mutant)')"
-p51
-aS"(1057, u'(?i)(humans|human)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(1414, u'(?i)(chars|char)')"
-p54
-aS"(3196, u'(?i)(human|humans)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+atp46
+Rp47
 sb.

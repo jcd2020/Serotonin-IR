@@ -46,9 +46,9 @@ sS'agonists'
 p27
 g3
 ((lp28
-S"(206, u'\\\\bprucalopride')"
+S"(197, u'\\\\bbimu ?8')"
 p29
-aS"(201, u'\\\\bbimu ?8')"
+aS"(202, u'\\\\bprucalopride')"
 p30
 atp31
 Rp32
@@ -56,18 +56,8 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(5537, u'(?i)(hippos|hippo)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(3812, u'(?i)(studs|stud)')"
-p39
-aS"(821, u'(?i)(lice|louse)')"
-p40
-atp41
-Rp42
+atp36
+Rp37
 sb.

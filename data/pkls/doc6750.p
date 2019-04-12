@@ -36,11 +36,11 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p23
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p24
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,28 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1064, u'(?i)\\\\b(houses|house)(-|\\\\s+)?(mice|mouse)\\\\b')"
 p38
-aS"(702, u'(?i)(genets|genet)')"
-p39
-aS"(163, u'(?i)(mice|mouse)')"
-p40
-aS"(5967, u'(?i)(males|male)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(1414, u'(?i)(chars|char)')"
-p44
-aS"(1064, u'(?i)(houses|house)(-|\\\\s+)?(mice|mouse)')"
-p45
-aS"(1795, u'(?i)(mounts|mount)')"
-p46
-atp47
-Rp48
+atp39
+Rp40
 sb.

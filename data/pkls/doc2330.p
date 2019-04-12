@@ -34,7 +34,7 @@ g3
 ((lp19
 S'5ht1b'
 p20
-aS'5ht5'
+aS'5ht1a'
 p21
 aS'5ht2c'
 p22
@@ -42,52 +42,30 @@ aS'5ht3c'
 p23
 aS'5ht2a'
 p24
-aS'5ht1a'
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp28
+tp29
+Rp30
 sS'year'
-p33
+p31
 V1996
-p34
+p32
 sS'agonists'
-p35
+p33
 g3
-((lp36
-tp37
-Rp38
+((lp34
+tp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(2323, u'(?i)(bees|bee)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(702, u'(?i)(genets|genet)')"
-p43
-aS"(867, u'(?i)(tits|tit)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(7003, u'(?i)(murines|murine)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+((lp38
+S"(7003, u'(?i)\\\\b(murines|murine)\\\\b')"
+p39
+atp40
+Rp41
 sb.

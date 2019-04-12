@@ -50,62 +50,34 @@ aS'5ht2c'
 p27
 aS'5ht2a'
 p28
-aS'5ht5'
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-S"(234, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(basali|basalis)')"
-p34
-atp35
-Rp36
+((lp32
+S"(234, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(basali|basalis)\\\\b')"
+p33
+atp34
+Rp35
 sS'year'
-p37
+p36
 V2000
-p38
+p37
 sS'agonists'
-p39
+p38
 g3
-((lp40
-S"(155, u'\\\\bmem')"
-p41
-atp42
-Rp43
+((lp39
+S"(149, u'\\\\bmem')"
+p40
+atp41
+Rp42
 sS'species'
-p44
+p43
 g3
-((lp45
-S"(5537, u'(?i)(hippos|hippo)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(702, u'(?i)(genets|genet)')"
-p48
-aS"(163, u'(?i)(mice|mouse)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(3726, u'(?i)(mates|mate)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(5229, u'(?i)(moles|mole)')"
-p55
-aS"(4371, u'(?i)(lizas|liza)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-aS"(5743, u'(?i)(bots|bot)')"
-p59
-atp60
-Rp61
+((lp44
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p45
+atp46
+Rp47
 sb.

@@ -50,9 +50,9 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(161, u'\\\\bmcpp')"
+S"(155, u'\\\\bmcpp')"
 p31
-aS"(169, u'\\\\bfenfluramine')"
+aS"(163, u'\\\\bfenfluramine')"
 p32
 atp33
 Rp34
@@ -60,28 +60,12 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2568, u'(?i)(hens|hen)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p37
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
 p38
-aS"(479, u'(?i)(lings|ling)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1349, u'(?i)(rams|ram)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(2395, u'(?i)(mutants|mutant)')"
-p43
-aS"(7552, u'(?i)(bats|bat)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(391, u'(?i)(alli|allis)')"
-p46
-aS"(7058, u'(?i)(does|doe)')"
-p47
-atp48
-Rp49
+atp40
+Rp41
 sb.

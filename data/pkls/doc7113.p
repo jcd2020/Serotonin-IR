@@ -34,11 +34,11 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(220, u'(?i)(striatums|striatum)')"
+S"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
 p22
-aS"(225, u'(?i)(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p23
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p24
 atp25
 Rp26
@@ -56,26 +56,10 @@ sS'species'
 p33
 g3
 ((lp34
-S"(6753, u'(?i)(da|das)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p35
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(6857, u'(?i)(ormers|ormer)')"
-p37
-aS"(4979, u'(?i)(cats|cat)')"
-p38
-aS"(5967, u'(?i)(males|male)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(1553, u'(?i)(mews|mew)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(3431, u'(?i)(roans|roan)')"
-p43
-aS"(2809, u'(?i)(toms|tom)')"
-p44
-atp45
-Rp46
+atp37
+Rp38
 sb.

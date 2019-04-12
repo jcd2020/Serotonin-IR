@@ -28,68 +28,44 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht1a'
 p18
-aS'5ht1a'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
-p24
-atp25
-Rp26
+((lp22
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+p23
+atp24
+Rp25
 sS'year'
-p27
+p26
 V2001
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(24, u'\\\\bbuspirone')"
+((lp29
+S"(20, u'\\\\bbuspirone')"
+p30
+aS"(45, u'\\\\bipsapirone')"
 p31
-aS"(50, u'\\\\bipsapirone')"
+aS"(189, u'\\\\bethanol')"
 p32
-aS"(193, u'\\\\bethanol')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(6753, u'(?i)(da|das)')"
+((lp36
+S"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
+p37
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(3248, u'(?i)(offspring|offspring)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(7609, u'(?i)(erns|ern)')"
-p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(3726, u'(?i)(mates|mate)')"
-p45
-aS"(6580, u'(?i)(dams|dam)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(1683, u'(?i)(terns|tern)')"
-p51
-atp52
-Rp53
+atp40
+Rp41
 sb.

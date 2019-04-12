@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(156, u'\\\\brs ?39604')"
+S"(147, u'\\\\brs ?39604')"
 p5
 atp6
 Rp7
@@ -66,42 +66,12 @@ sS'species'
 p38
 g3
 ((lp39
-S"(4624, u'(?i)(apes|ape)')"
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p40
-aS"(2670, u'(?i)(arabs|arab)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p42
-aS"(867, u'(?i)(tits|tit)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(3051, u'(?i)(pigs|pig)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(3062, u'(?i)(guineas|guinea)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(5229, u'(?i)(moles|mole)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p55
-aS"(2809, u'(?i)(toms|tom)')"
-p56
-aS"(7488, u'(?i)(molas|mola)')"
-p57
-atp58
-Rp59
+atp43
+Rp44
 sb.

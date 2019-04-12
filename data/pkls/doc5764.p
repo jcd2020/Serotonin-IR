@@ -22,54 +22,44 @@ sS'topics'
 p12
 g3
 ((lp13
-tp14
-Rp15
+S"(37, u'\\\\baddict')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
+((lp18
 S'5ht3'
-p18
-atp19
-Rp20
+p19
+atp20
+Rp21
 sS'regions'
-p21
+p22
 g3
-((lp22
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
-p23
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+((lp23
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p24
-atp25
-Rp26
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p27
-V1989
 p28
-sS'agonists'
+V1989
 p29
+sS'agonists'
+p30
 g3
-((lp30
-tp31
-Rp32
+((lp31
+tp32
+Rp33
 sS'species'
-p33
+p34
 g3
-((lp34
-S"(5958, u'(?i)(rats|rat)')"
-p35
-aS"(5176, u'(?i)(tegs|teg)')"
+((lp35
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(1055, u'(?i)(men|man)')"
-p37
-aS"(2334, u'(?i)(eels|eel)')"
-p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-atp42
-Rp43
+atp37
+Rp38
 sb.

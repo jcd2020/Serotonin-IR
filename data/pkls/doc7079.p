@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(141, u'\\\\bzacopride')"
+S"(130, u'\\\\bzacopride')"
 p5
 atp6
 Rp7
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(212, u'\\\\bzacopride')"
+S"(208, u'\\\\bzacopride')"
 p32
 atp33
 Rp34
@@ -60,24 +60,12 @@ sS'species'
 p35
 g3
 ((lp36
-S"(5958, u'(?i)(rats|rat)')"
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p37
-aS"(7488, u'(?i)(molas|mola)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p38
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1349, u'(?i)(rams|ram)')"
-p41
-aS"(3062, u'(?i)(guineas|guinea)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(1553, u'(?i)(mews|mew)')"
-p44
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p45
-atp46
-Rp47
+atp40
+Rp41
 sb.

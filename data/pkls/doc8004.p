@@ -40,72 +40,34 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2018
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(33, u'\\\\bdoi')"
-p34
-atp35
-Rp36
+((lp32
+S"(175, u'\\\\bdoi')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(2323, u'(?i)(bees|bee)')"
+((lp37
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p38
+aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p39
-aS"(2054, u'(?i)(heads|head)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(3726, u'(?i)(mates|mate)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(853, u'(?i)(minas|mina)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(6331, u'(?i)(mares|mare)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(4624, u'(?i)(apes|ape)')"
-p54
-aS"(3152, u'(?i)(layers|layer)')"
-p55
-aS"(5568, u'(?i)(hakes|hake)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-aS"(821, u'(?i)(lice|louse)')"
-p58
-aS"(7552, u'(?i)(bats|bat)')"
-p59
-atp60
-Rp61
+atp41
+Rp42
 sb.

@@ -8,138 +8,96 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(112, u'\\\\bquetiapine')"
 p5
-aS"(36, u'\\\\baripiprazole')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(56, u'\\\\bclozapine')"
+aS"(114, u'\\\\bziprasidone')"
 p7
-aS"(57, u'\\\\bolanzapine')"
+aS"(113, u'\\\\brisperidone')"
 p8
-aS"(41, u'\\\\bziprasidone')"
+aS"(50, u'\\\\bquetiapine')"
 p9
-aS"(124, u'\\\\bolanzapine')"
+aS"(111, u'\\\\bolanzapine')"
 p10
-aS"(125, u'\\\\bquetiapine')"
+aS"(35, u'\\\\baripiprazole')"
 p11
-aS"(59, u'\\\\brisperidone')"
+aS"(58, u'\\\\bhaloperidol')"
 p12
-aS"(67, u'\\\\bhaloperidol')"
-p13
-aS"(58, u'\\\\bquetiapine')"
-p14
-aS"(123, u'\\\\bclozapine')"
-p15
-atp16
-Rp17
+atp13
+Rp14
 sS'methods'
-p18
+p15
 g3
-((lp19
+((lp16
 S'Method.ANTAGONIST'
-p20
+p17
 aS'Method.AGONIST'
-p21
-atp22
-Rp23
+p18
+atp19
+Rp20
 sS'topics'
-p24
+p21
 g3
-((lp25
+((lp22
 S"(15, u'\\\\bschizophreni')"
-p26
-atp27
-Rp28
+p23
+atp24
+Rp25
 sS'receptors'
-p29
+p26
 g3
-((lp30
+((lp27
 S'5ht6'
-p31
-aS'5ht5'
-p32
-aS'5ht2c'
-p33
+p28
 aS'5ht1a'
-p34
+p29
+aS'5ht2c'
+p30
 aS'5ht2a'
-p35
-atp36
-Rp37
+p31
+atp32
+Rp33
 sS'regions'
+p34
+g3
+((lp35
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p36
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p37
+aS"(90, u'(?i)\\\\b(tegmentums|tegmentum)\\\\b')"
 p38
-g3
-((lp39
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p40
-aS"(90, u'(?i)(tegmentums|tegmentum)')"
-p41
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p42
-atp43
-Rp44
+atp39
+Rp40
 sS'year'
-p45
+p41
 V2003
-p46
+p42
 sS'agonists'
+p43
+g3
+((lp44
+S"(64, u'\\\\bquetiapine')"
+p45
+aS"(223, u'\\\\baripiprazole')"
+p46
+aS"(57, u'\\\\bolanzapine')"
 p47
-g3
-((lp48
-S"(91, u'\\\\bziprasidone')"
+aS"(84, u'\\\\bziprasidone')"
+p48
+aS"(43, u'\\\\bhaloperidol')"
 p49
-aS"(16, u'\\\\baripiprazole')"
+aS"(23, u'\\\\bclozapine')"
 p50
-aS"(48, u'\\\\bhaloperidol')"
-p51
-aS"(27, u'\\\\bclozapine')"
-p52
-aS"(71, u'\\\\bquetiapine')"
-p53
-aS"(64, u'\\\\bolanzapine')"
-p54
-atp55
-Rp56
+atp51
+Rp52
 sS'species'
-p57
+p53
 g3
-((lp58
-S"(2323, u'(?i)(bees|bee)')"
-p59
-aS"(5537, u'(?i)(hippos|hippo)')"
-p60
-aS"(6753, u'(?i)(da|das)')"
-p61
-aS"(2568, u'(?i)(hens|hen)')"
-p62
-aS"(7609, u'(?i)(erns|ern)')"
-p63
-aS"(867, u'(?i)(tits|tit)')"
-p64
-aS"(5176, u'(?i)(tegs|teg)')"
-p65
-aS"(6249, u'(?i)(ants|ant)')"
-p66
-aS"(1349, u'(?i)(rams|ram)')"
-p67
-aS"(3726, u'(?i)(mates|mate)')"
-p68
-aS"(1055, u'(?i)(men|man)')"
-p69
-aS"(4979, u'(?i)(cats|cat)')"
-p70
-aS"(7094, u'(?i)(curs|cur)')"
-p71
-aS"(3550, u'(?i)(anis|ani)')"
-p72
-aS"(5958, u'(?i)(rats|rat)')"
-p73
-aS"(7610, u'(?i)(ernes|erne)')"
-p74
-aS"(107, u'(?i)(stags|stag)')"
-p75
-aS"(1683, u'(?i)(terns|tern)')"
-p76
-atp77
-Rp78
+((lp54
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p55
+atp56
+Rp57
 sb.

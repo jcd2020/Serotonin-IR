@@ -32,68 +32,38 @@ g3
 ((lp18
 S'5ht1b'
 p19
-aS'5ht5'
-p20
 aS'5ht1d'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(270, u'(?i)(v1s|v1)')"
-p26
-aS"(379, u'(?i)(subarachnoids|subarachnoid)(-|\\\\s+)?(spaces|space)')"
-p27
-atp28
-Rp29
+((lp24
+S"(379, u'(?i)\\\\b(subarachnoids|subarachnoid)(-|\\\\s+)?(spaces|space)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p30
+p28
 V2010
-p31
+p29
 sS'agonists'
-p32
+p30
 g3
-((lp33
-tp34
-Rp35
+((lp31
+tp32
+Rp33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(2054, u'(?i)(heads|head)')"
+((lp35
+S"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
+p36
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(745, u'(?i)(arachnoids|arachnoid)')"
-p43
-aS"(5131, u'(?i)(hags|hag)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(853, u'(?i)(minas|mina)')"
-p46
-aS"(3926, u'(?i)(games|game)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(6521, u'(?i)(macaques|macaque)')"
-p50
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p51
-aS"(6642, u'(?i)(lions|lion)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+atp39
+Rp40
 sb.

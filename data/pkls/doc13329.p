@@ -8,106 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(131, u'\\\\bm1')"
 p7
-aS"(142, u'\\\\bm1')"
+aS"(52, u'\\\\bmdl ?100907')"
 p8
-aS"(56, u'\\\\bclozapine')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(15, u'\\\\bschizophreni')"
-p19
+p18
 aS"(6, u'\\\\bcognit')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp28
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p29
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'year'
-p35
+p33
 V1998
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(23, u'\\\\bclozapine')"
 p37
-g3
-((lp38
-S"(48, u'\\\\bhaloperidol')"
-p39
-aS"(27, u'\\\\bclozapine')"
-p40
-atp41
-Rp42
+aS"(43, u'\\\\bhaloperidol')"
+p38
+atp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(4624, u'(?i)(apes|ape)')"
+((lp42
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p43
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(6857, u'(?i)(ormers|ormer)')"
-p47
-aS"(81, u'(?i)(asps|asp)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(6753, u'(?i)(da|das)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(1057, u'(?i)(humans|human)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(3196, u'(?i)(human|humans)')"
-p57
-aS"(1823, u'(?i)(merls|merl)')"
-p58
-aS"(2809, u'(?i)(toms|tom)')"
-p59
-aS"(821, u'(?i)(lice|louse)')"
-p60
-atp61
-Rp62
+atp46
+Rp47
 sb.

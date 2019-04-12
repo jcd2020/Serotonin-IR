@@ -36,50 +36,30 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'year'
-p26
+p25
 V1996
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-S"(24, u'\\\\bbuspirone')"
+((lp28
+S"(20, u'\\\\bbuspirone')"
+p29
+aS"(189, u'\\\\bethanol')"
 p30
-aS"(193, u'\\\\bethanol')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(6753, u'(?i)(da|das)')"
+((lp34
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p35
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(949, u'(?i)(cohoes|coho)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(5743, u'(?i)(bots|bot)')"
-p39
-aS"(5967, u'(?i)(males|male)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-atp47
-Rp48
+atp37
+Rp38
 sb.

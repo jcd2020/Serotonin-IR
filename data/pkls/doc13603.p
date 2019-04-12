@@ -38,82 +38,52 @@ g3
 ((lp21
 S'5ht1a'
 p22
-aS'5ht5'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+((lp26
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p27
+aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p28
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p29
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2013
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-tp39
-Rp40
+((lp37
+tp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(1070, u'(?i)(pets|pet)')"
+((lp41
+S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
+p42
+aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p43
-aS"(2323, u'(?i)(bees|bee)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p44
-aS"(6753, u'(?i)(da|das)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p45
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p46
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p47
-aS"(2401, u'(?i)(primates|primate)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(479, u'(?i)(lings|ling)')"
-p50
-aS"(5967, u'(?i)(males|male)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(3726, u'(?i)(mates|mate)')"
-p53
-aS"(4597, u'(?i)(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)')"
-p54
-aS"(6215, u'(?i)(racers|racer)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(1057, u'(?i)(humans|human)')"
-p58
-aS"(6125, u'(?i)(females|female)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-aS"(3196, u'(?i)(human|humans)')"
-p61
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p62
-aS"(4596, u'(?i)(rhesuses|rhesus)')"
-p63
-atp64
-Rp65
+atp49
+Rp50
 sb.

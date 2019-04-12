@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(74, u'\\\\bcariprazine')"
 p5
-aS"(83, u'\\\\bcariprazine')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -50,11 +50,11 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
+aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p31
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p32
 atp33
 Rp34
@@ -66,7 +66,7 @@ sS'agonists'
 p37
 g3
 ((lp38
-S"(26, u'\\\\bcariprazine')"
+S"(22, u'\\\\bcariprazine')"
 p39
 atp40
 Rp41
@@ -74,42 +74,10 @@ sS'species'
 p42
 g3
 ((lp43
-S"(4624, u'(?i)(apes|ape)')"
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p44
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(4163, u'(?i)(ermines|ermine)')"
-p48
-aS"(4091, u'(?i)(adults|adult)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(1349, u'(?i)(rams|ram)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(6682, u'(?i)(tera|teras)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(6391, u'(?i)(asses|ass)')"
-p59
-aS"(6580, u'(?i)(dams|dam)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-atp62
-Rp63
+atp46
+Rp47
 sb.

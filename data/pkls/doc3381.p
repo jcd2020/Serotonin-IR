@@ -8,15 +8,15 @@ c__builtin__
 set
 p3
 ((lp4
-S"(114, u'\\\\bimipramine')"
+S"(48, u'\\\\btrazodone')"
 p5
-aS"(34, u'\\\\byohimbine')"
+aS"(192, u'\\\\bmaprotiline')"
 p6
-aS"(142, u'\\\\bm1')"
+aS"(104, u'\\\\bimipramine')"
 p7
-aS"(50, u'\\\\btrazodone')"
+aS"(131, u'\\\\bm1')"
 p8
-aS"(199, u'\\\\bmaprotiline')"
+aS"(33, u'\\\\byohimbine')"
 p9
 atp10
 Rp11
@@ -40,58 +40,40 @@ sS'receptors'
 p22
 g3
 ((lp23
-S'5ht5'
+S'5ht3'
 p24
-aS'5ht3'
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'year'
-p32
+p31
 V1997
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(89, u'\\\\byohimbine')"
+((lp34
+S"(75, u'\\\\btrazodone')"
+p35
+aS"(82, u'\\\\byohimbine')"
 p36
-aS"(82, u'\\\\btrazodone')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(2054, u'(?i)(heads|head)')"
+((lp40
+S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+p41
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p42
-aS"(4301, u'(?i)(hydras|hydra)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(2568, u'(?i)(hens|hen)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1349, u'(?i)(rams|ram)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-atp53
-Rp54
+atp44
+Rp45
 sb.

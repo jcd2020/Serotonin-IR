@@ -36,60 +36,34 @@ g3
 ((lp20
 S'5ht4a'
 p21
-aS'5ht5'
-p22
 aS'5ht2a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+((lp26
+tp27
+Rp28
 sS'year'
-p31
+p29
 V2012
-p32
+p30
 sS'agonists'
-p33
+p31
 g3
-((lp34
-tp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(1070, u'(?i)(pets|pet)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(3527, u'(?i)(permits|permit)')"
-p42
-aS"(867, u'(?i)(tits|tit)')"
-p43
-aS"(4201, u'(?i)(kines|kine)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(7094, u'(?i)(curs|cur)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+((lp36
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+p37
+aS"(3527, u'(?i)\\\\b(permits|permit)\\\\b')"
+p38
+atp39
+Rp40
 sb.

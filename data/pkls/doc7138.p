@@ -54,38 +54,12 @@ sS'species'
 p32
 g3
 ((lp33
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p34
-aS"(2670, u'(?i)(arabs|arab)')"
+aS"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
 p35
-aS"(6753, u'(?i)(da|das)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(2401, u'(?i)(primates|primate)')"
-p38
-aS"(479, u'(?i)(lings|ling)')"
-p39
-aS"(81, u'(?i)(asps|asp)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(3726, u'(?i)(mates|mate)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(1057, u'(?i)(humans|human)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(3196, u'(?i)(human|humans)')"
-p47
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p48
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p49
-atp50
-Rp51
+atp37
+Rp38
 sb.

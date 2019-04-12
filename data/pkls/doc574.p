@@ -42,76 +42,42 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
 p26
-aS"(100, u'(?i)(caudals|caudal)(-|\\\\s+)?(linears|linear)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p28
-aS"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
+aS"(100, u'(?i)\\\\b(caudals|caudal)(-|\\\\s+)?(linears|linear)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p31
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p32
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'year'
-p36
+p35
 V1991
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-tp40
-Rp41
+((lp38
+tp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(513, u'(?i)(uruses|urus)')"
+((lp42
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p43
+aS"(1449, u'(?i)\\\\b(giants|giant)\\\\b')"
 p44
-aS"(6753, u'(?i)(da|das)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(4694, u'(?i)(gnus|gnu)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(7539, u'(?i)(mammals|mammal)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(4091, u'(?i)(adults|adult)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(7094, u'(?i)(curs|cur)')"
-p54
-aS"(6580, u'(?i)(dams|dam)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-aS"(391, u'(?i)(alli|allis)')"
-p60
-aS"(2809, u'(?i)(toms|tom)')"
-p61
-aS"(1449, u'(?i)(giants|giant)')"
-p62
-atp63
-Rp64
+atp46
+Rp47
 sb.

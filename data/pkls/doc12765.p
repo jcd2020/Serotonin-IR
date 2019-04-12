@@ -40,40 +40,22 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1991
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5917, u'(?i)(roaches|roach)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(479, u'(?i)(lings|ling)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(4979, u'(?i)(cats|cat)')"
-p40
-aS"(5229, u'(?i)(moles|mole)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-aS"(2809, u'(?i)(toms|tom)')"
-p43
-atp44
-Rp45
+((lp34
+tp35
+Rp36
 sb.

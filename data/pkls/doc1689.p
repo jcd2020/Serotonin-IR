@@ -44,7 +44,7 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(374, u'(?i)(duras|dura)(-|\\\\s+)?(maters|mater)')"
+S"(374, u'(?i)\\\\b(duras|dura)(-|\\\\s+)?(maters|mater)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,13 +56,13 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(103, u'\\\\bsumatriptan')"
+S"(25, u'\\\\bdihydroergotamine')"
 p34
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(96, u'\\\\bsumatriptan')"
 p35
-aS"(5, u'\\\\b5 ?ct')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-aS"(29, u'\\\\bdihydroergotamine')"
+aS"(219, u'\\\\b5 ?ct')"
 p37
 atp38
 Rp39
@@ -70,38 +70,8 @@ sS'species'
 p40
 g3
 ((lp41
-S"(4624, u'(?i)(apes|ape)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(2054, u'(?i)(heads|head)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(3726, u'(?i)(mates|mate)')"
-p50
-aS"(7082, u'(?i)(sagittas|sagitta)')"
-p51
-aS"(853, u'(?i)(minas|mina)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(7094, u'(?i)(curs|cur)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(6642, u'(?i)(lions|lion)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-atp58
-Rp59
+atp43
+Rp44
 sb.

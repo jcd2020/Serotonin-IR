@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\byohimbine')"
+S"(33, u'\\\\byohimbine')"
 p5
 atp6
 Rp7
@@ -50,11 +50,11 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(72, u'\\\\brauwolscine')"
+S"(65, u'\\\\brauwolscine')"
 p31
-aS"(89, u'\\\\byohimbine')"
+aS"(149, u'\\\\bmem')"
 p32
-aS"(155, u'\\\\bmem')"
+aS"(82, u'\\\\byohimbine')"
 p33
 atp34
 Rp35
@@ -62,38 +62,10 @@ sS'species'
 p36
 g3
 ((lp37
-S"(1070, u'(?i)(pets|pet)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p38
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p39
-aS"(867, u'(?i)(tits|tit)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(3726, u'(?i)(mates|mate)')"
-p44
-aS"(3404, u'(?i)(titis|titi)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(3522, u'(?i)(tetras|tetra)')"
-p49
-aS"(1057, u'(?i)(humans|human)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(3196, u'(?i)(human|humans)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+atp40
+Rp41
 sb.

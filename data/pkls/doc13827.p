@@ -8,106 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(25, u'\\\\bsdz ?216525')"
 p5
-aS"(52, u'\\\\bmetergoline')"
-p6
 aS"(17, u'\\\\bnan ?190')"
+p6
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(128, u'\\\\bketanserin')"
+aS"(34, u'\\\\bmetergoline')"
 p8
 aS"(22, u'\\\\bpropranolol')"
 p9
-aS"(26, u'\\\\bsdz ?216525')"
-p10
-aS"(35, u'\\\\bmetergoline')"
-p11
-atp12
-Rp13
+atp10
+Rp11
 sS'methods'
-p14
+p12
 g3
-((lp15
+((lp13
 S'Method.ANTAGONIST'
-p16
+p14
 aS'Method.AGONIST'
-p17
-atp18
-Rp19
+p15
+atp16
+Rp17
 sS'topics'
-p20
+p18
 g3
-((lp21
-tp22
-Rp23
+((lp19
+tp20
+Rp21
 sS'receptors'
+p22
+g3
+((lp23
+S'5ht1a'
 p24
-g3
-((lp25
-S'5ht5'
-p26
-aS'5ht1a'
-p27
-atp28
-Rp29
+atp25
+Rp26
 sS'regions'
+p27
+g3
+((lp28
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-g3
-((lp31
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-aS"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p33
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p34
-aS"(34, u'(?i)(pon|pons)')"
-p35
-atp36
-Rp37
+atp31
+Rp32
 sS'year'
-p38
+p33
 V1994
-p39
+p34
 sS'agonists'
-p40
+p35
 g3
-((lp41
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p42
-aS"(5, u'\\\\b5 ?ct')"
-p43
-aS"(181, u'\\\\bdom')"
-p44
-atp45
-Rp46
+((lp36
+S"(176, u'\\\\bdom')"
+p37
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p38
+aS"(219, u'\\\\b5 ?ct')"
+p39
+atp40
+Rp41
 sS'species'
-p47
+p42
 g3
-((lp48
-S"(6753, u'(?i)(da|das)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(7539, u'(?i)(mammals|mammal)')"
-p52
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(1949, u'(?i)(pacemakers|pacemaker)')"
-p59
-aS"(4979, u'(?i)(cats|cat)')"
-p60
-atp61
-Rp62
+((lp43
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p44
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p45
+aS"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
+p46
+atp47
+Rp48
 sb.

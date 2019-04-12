@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,9 +52,9 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(153, u'\\\\bmdma')"
+S"(147, u'\\\\bmdma')"
 p32
-aS"(33, u'\\\\bdoi')"
+aS"(175, u'\\\\bdoi')"
 p33
 atp34
 Rp35
@@ -62,36 +62,12 @@ sS'species'
 p36
 g3
 ((lp37
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(7094, u'(?i)(curs|cur)')"
-p48
-aS"(4371, u'(?i)(lizas|liza)')"
-p49
-aS"(3247, u'(?i)(youngs|young)')"
-p50
-aS"(4074, u'(?i)(bulls|bull)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+atp41
+Rp42
 sb.

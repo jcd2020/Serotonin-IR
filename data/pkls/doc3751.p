@@ -38,13 +38,13 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(283, u'(?i)(middles|middle)(-|\\\\s+)?(temporals|temporal)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(283, u'(?i)\\\\b(middles|middle)(-|\\\\s+)?(temporals|temporal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p24
-aS"(282, u'(?i)(superiors|superior)(-|\\\\s+)?(temporals|temporal)(-|\\\\s+)?(gyruses|gyrus)')"
+aS"(260, u'(?i)\\\\b(inferiors|inferior)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p25
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p26
-aS"(260, u'(?i)(inferiors|inferior)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(gyruses|gyrus)')"
+aS"(282, u'(?i)\\\\b(superiors|superior)(-|\\\\s+)?(temporals|temporal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p27
 atp28
 Rp29
@@ -62,50 +62,16 @@ sS'species'
 p36
 g3
 ((lp37
-S"(81, u'(?i)(asps|asp)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p38
-aS"(2183, u'(?i)(gars|gar)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p39
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p40
-aS"(3196, u'(?i)(human|humans)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p41
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(6391, u'(?i)(asses|ass)')"
-p43
-aS"(1070, u'(?i)(pets|pet)')"
-p44
-aS"(3601, u'(?i)(efts|eft)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(1349, u'(?i)(rams|ram)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(2809, u'(?i)(toms|tom)')"
-p49
-aS"(5537, u'(?i)(hippos|hippo)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6753, u'(?i)(da|das)')"
-p54
-aS"(1057, u'(?i)(humans|human)')"
-p55
-aS"(4371, u'(?i)(lizas|liza)')"
-p56
-aS"(6125, u'(?i)(females|female)')"
-p57
-aS"(3726, u'(?i)(mates|mate)')"
-p58
-aS"(5917, u'(?i)(roaches|roach)')"
-p59
-atp60
-Rp61
+atp43
+Rp44
 sb.

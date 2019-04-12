@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -34,76 +34,40 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
-p21
-atp22
-Rp23
+tp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+((lp24
+tp25
+Rp26
 sS'year'
-p29
+p27
 V1998
-p30
+p28
 sS'agonists'
+p29
+g3
+((lp30
+S"(192, u'\\\\bquipazine')"
 p31
-g3
-((lp32
-S"(196, u'\\\\bquipazine')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(6753, u'(?i)(da|das)')"
+((lp35
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p36
+aS"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
+p37
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6125, u'(?i)(females|female)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(4091, u'(?i)(adults|adult)')"
-p43
-aS"(5967, u'(?i)(males|male)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6580, u'(?i)(dams|dam)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(5674, u'(?i)(ewes|ewe)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(7609, u'(?i)(erns|ern)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(1683, u'(?i)(terns|tern)')"
-p57
-aS"(7127, u'(?i)(monitors|monitor)')"
-p58
-atp59
-Rp60
+atp41
+Rp42
 sb.

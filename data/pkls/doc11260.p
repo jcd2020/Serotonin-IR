@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bgranisetron')"
+S"(59, u'\\\\bchlorpromazine')"
 p5
-aS"(144, u'\\\\bquinine')"
+aS"(123, u'\\\\bgranisetron')"
 p6
-aS"(139, u'\\\\bmetoclopramide')"
+aS"(135, u'\\\\bquinine')"
 p7
-aS"(68, u'\\\\bchlorpromazine')"
+aS"(128, u'\\\\bmetoclopramide')"
 p8
 atp9
 Rp10
@@ -62,9 +62,9 @@ sS'agonists'
 p35
 g3
 ((lp36
-S"(181, u'\\\\bdom')"
+S"(209, u'\\\\bmetoclopramide')"
 p37
-aS"(213, u'\\\\bmetoclopramide')"
+aS"(176, u'\\\\bdom')"
 p38
 atp39
 Rp40
@@ -72,46 +72,8 @@ sS'species'
 p41
 g3
 ((lp42
-S"(2323, u'(?i)(bees|bee)')"
+S"(2603, u'(?i)\\\\b(soldiers|soldier)\\\\b')"
 p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(6601, u'(?i)(oscines|oscine)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(4624, u'(?i)(apes|ape)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(7094, u'(?i)(curs|cur)')"
-p55
-aS"(2603, u'(?i)(soldiers|soldier)')"
-p56
-aS"(6981, u'(?i)(moths|moth)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(6391, u'(?i)(asses|ass)')"
-p60
-aS"(391, u'(?i)(alli|allis)')"
-p61
-aS"(6356, u'(?i)(ais|ai)')"
-p62
-atp63
-Rp64
+atp44
+Rp45
 sb.

@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(87, u'\\\\bvilazodone')"
+S"(80, u'\\\\bvilazodone')"
 p31
 atp32
 Rp33
@@ -58,18 +58,6 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(867, u'(?i)(tits|tit)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(6356, u'(?i)(ais|ai)')"
-p39
-aS"(3812, u'(?i)(studs|stud)')"
-p40
-aS"(2809, u'(?i)(toms|tom)')"
-p41
-atp42
-Rp43
+tp36
+Rp37
 sb.

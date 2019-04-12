@@ -38,62 +38,30 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V1989
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp29
+S"(146, u'\\\\bguanfacine')"
+p30
+aS"(39, u'\\\\bflesinoxan')"
 p31
-aS"(44, u'\\\\bflesinoxan')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p32
-aS"(152, u'\\\\bguanfacine')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(4624, u'(?i)(apes|ape)')"
-p38
-aS"(2670, u'(?i)(arabs|arab)')"
-p39
-aS"(4301, u'(?i)(hydras|hydra)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(3592, u'(?i)(ravens|raven)')"
-p44
-aS"(937, u'(?i)(kids|kid)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(3522, u'(?i)(tetras|tetra)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(6878, u'(?i)(guans|guan)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-atp54
-Rp55
+((lp36
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+p37
+atp38
+Rp39
 sb.

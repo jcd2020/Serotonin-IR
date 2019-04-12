@@ -38,54 +38,34 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2014
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p31
-atp32
-Rp33
+((lp29
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(2323, u'(?i)(bees|bee)')"
+((lp34
+S"(3883, u'(?i)\\\\b(teleosts|teleost)\\\\b')"
+p35
+aS"(5747, u'(?i)\\\\b(toadfish|toadfish)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
 p37
-aS"(3882, u'(?i)(teleosts|teleost)(-|\\\\s+)?(fish|fish)')"
+aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
 p38
-aS"(3230, u'(?i)(crows|crow)')"
+aS"(3882, u'(?i)\\\\b(teleosts|teleost)(-|\\\\s+)?(fish|fish)\\\\b')"
 p39
-aS"(7539, u'(?i)(mammals|mammal)')"
-p40
-aS"(3592, u'(?i)(ravens|raven)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(5747, u'(?i)(toadfish|toadfish)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(7094, u'(?i)(curs|cur)')"
-p45
-aS"(4657, u'(?i)(fish|fish)')"
-p46
-aS"(1396, u'(?i)(toads|toad)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(3883, u'(?i)(teleosts|teleost)')"
-p49
-atp50
-Rp51
+atp40
+Rp41
 sb.

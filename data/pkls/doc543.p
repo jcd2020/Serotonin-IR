@@ -8,108 +8,88 @@ c__builtin__
 set
 p3
 ((lp4
-S"(200, u'\\\\bmesulergine')"
+S"(34, u'\\\\bmetergoline')"
 p5
-aS"(130, u'\\\\britanserin')"
+aS"(133, u'\\\\bmianserin')"
 p6
-aS"(52, u'\\\\bmetergoline')"
-p7
-aS"(54, u'\\\\britanserin')"
-p8
 aS"(22, u'\\\\bpropranolol')"
+p7
+aS"(193, u'\\\\bmesulergine')"
+p8
+aS"(26, u'\\\\bspiperone')"
 p9
-aS"(117, u'\\\\bmianserin')"
+aS"(119, u'\\\\britanserin')"
 p10
-aS"(27, u'\\\\bspiperone')"
-p11
-aS"(35, u'\\\\bmetergoline')"
-p12
-atp13
-Rp14
+atp11
+Rp12
 sS'methods'
-p15
+p13
 g3
-((lp16
+((lp14
 S'Method.ANTAGONIST'
-p17
-atp18
-Rp19
+p15
+atp16
+Rp17
 sS'topics'
-p20
+p18
 g3
-((lp21
-tp22
-Rp23
+((lp19
+tp20
+Rp21
 sS'receptors'
-p24
+p22
 g3
-((lp25
+((lp23
 S'5ht1c'
-p26
+p24
 aS'5ht1b'
-p27
+p25
 aS'5ht1a'
-p28
+p26
 aS'5ht3a'
-p29
+p27
 aS'5ht2'
-p30
+p28
 aS'5ht1'
-p31
+p29
+aS'5ht1d'
+p30
 aS'5ht2a'
-p32
-aS'5ht5'
-p33
-aS'5ht5d'
-p34
+p31
 aS'5ht2d'
-p35
-atp36
-Rp37
+p32
+atp33
+Rp34
 sS'regions'
-p38
+p35
 g3
-((lp39
-tp40
-Rp41
+((lp36
+tp37
+Rp38
 sS'year'
-p42
+p39
 V1992
-p43
+p40
 sS'agonists'
+p41
+g3
+((lp42
+S"(165, u'\\\\bmesulergine')"
+p43
+aS"(155, u'\\\\bmcpp')"
 p44
-g3
-((lp45
-S"(161, u'\\\\bmcpp')"
-p46
-aS"(171, u'\\\\bmesulergine')"
-p47
-aS"(33, u'\\\\bdoi')"
-p48
-atp49
-Rp50
+aS"(175, u'\\\\bdoi')"
+p45
+atp46
+Rp47
 sS'species'
-p51
+p48
 g3
-((lp52
-S"(2568, u'(?i)(hens|hen)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(468, u'(?i)(oxen|ox)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(5743, u'(?i)(bots|bot)')"
-p58
-aS"(5958, u'(?i)(rats|rat)')"
-p59
-aS"(736, u'(?i)(fawns|fawn)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-atp62
-Rp63
+((lp49
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+aS"(736, u'(?i)\\\\b(fawns|fawn)\\\\b')"
+p51
+atp52
+Rp53
 sb.

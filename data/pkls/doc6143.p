@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -46,66 +46,38 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(272, u'(?i)(v3s|v3)')"
+S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p28
-aS"(104, u'(?i)(par|pars)(-|\\\\s+)?(compactas|compacta)')"
+aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
 p29
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V2010
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(14, u'\\\\bamphetamine')"
+((lp35
+S"(210, u'\\\\bsulpiride')"
+p36
+aS"(11, u'\\\\bamphetamine')"
 p37
-aS"(214, u'\\\\bsulpiride')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(4624, u'(?i)(apes|ape)')"
+((lp41
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p42
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p43
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
 p44
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(4201, u'(?i)(kines|kine)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(3522, u'(?i)(tetras|tetra)')"
-p54
-aS"(5917, u'(?i)(roaches|roach)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(1414, u'(?i)(chars|char)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p59
-atp60
-Rp61
+atp46
+Rp47
 sb.

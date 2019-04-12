@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -40,9 +40,9 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(174, u'(?i)(posteriors|posterior)')"
+S"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p25
-aS"(307, u'(?i)(fornixes|fornix)')"
+aS"(307, u'(?i)\\\\b(fornixes|fornix)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p33
 atp34
 Rp35
@@ -62,40 +62,12 @@ sS'species'
 p36
 g3
 ((lp37
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(3191, u'(?i)\\\\b(worlds|world)\\\\b')"
 p38
-aS"(5626, u'(?i)(posters|poster)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
+aS"(1181, u'(?i)\\\\b(ridleys|ridley)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(2401, u'(?i)(primates|primate)')"
-p42
-aS"(2389, u'(?i)(spats|spat)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(1249, u'(?i)(carp|carp)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(3191, u'(?i)(worlds|world)')"
-p51
-aS"(1181, u'(?i)(ridleys|ridley)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-atp55
-Rp56
+atp41
+Rp42
 sb.

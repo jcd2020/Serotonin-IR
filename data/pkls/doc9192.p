@@ -8,104 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(197, u'\\\\blurasidone')"
+S"(111, u'\\\\bolanzapine')"
 p5
-aS"(57, u'\\\\bolanzapine')"
+aS"(190, u'\\\\blurasidone')"
 p6
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(52, u'\\\\bmdl ?100907')"
 p7
-aS"(124, u'\\\\bolanzapine')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.PET'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht7'
-p22
+p21
 aS'5ht7a'
-p23
+p22
 aS'5ht5'
-p24
+p23
 aS'5ht1a'
-p25
+p24
 aS'5ht2a'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(220, u'(?i)(striatums|striatum)')"
-p31
-atp32
-Rp33
+((lp29
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p34
+p33
 V2013
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(53, u'\\\\blurasidone')"
+((lp36
+S"(57, u'\\\\bolanzapine')"
+p37
+aS"(47, u'\\\\blurasidone')"
 p38
-aS"(64, u'\\\\bolanzapine')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(1070, u'(?i)(pets|pet)')"
+((lp42
+S"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
+p43
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p44
-aS"(2670, u'(?i)(arabs|arab)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1349, u'(?i)(rams|ram)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(2809, u'(?i)(toms|tom)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p59
-atp60
-Rp61
+atp45
+Rp46
 sb.

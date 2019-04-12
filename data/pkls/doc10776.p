@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(33, u'\\\\bdoi')"
+S"(175, u'\\\\bdoi')"
 p30
 atp31
 Rp32
@@ -56,58 +56,20 @@ sS'species'
 p33
 g3
 ((lp34
-S"(7610, u'(?i)(ernes|erne)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p35
-aS"(2401, u'(?i)(primates|primate)')"
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p36
-aS"(1266, u'(?i)(embryos|embryo)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(6580, u'(?i)(dams|dam)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p38
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p40
-aS"(5229, u'(?i)(moles|mole)')"
+aS"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
 p41
-aS"(3196, u'(?i)(human|humans)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-aS"(702, u'(?i)(genets|genet)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(3152, u'(?i)(layers|layer)')"
-p47
-aS"(7127, u'(?i)(monitors|monitor)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(7609, u'(?i)(erns|ern)')"
-p50
-aS"(163, u'(?i)(mice|mouse)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(1057, u'(?i)(humans|human)')"
-p55
-aS"(5799, u'(?i)(rodents|rodent)')"
-p56
-aS"(2568, u'(?i)(hens|hen)')"
-p57
-aS"(6753, u'(?i)(da|das)')"
-p58
-aS"(3726, u'(?i)(mates|mate)')"
-p59
-aS"(1683, u'(?i)(terns|tern)')"
-p60
-atp61
-Rp62
+atp42
+Rp43
 sb.

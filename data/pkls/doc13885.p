@@ -20,60 +20,52 @@ sS'topics'
 p11
 g3
 ((lp12
-S"(9, u'\\\\bdepress')"
+S"(36, u'\\\\bcompulsiv')"
 p13
-atp14
-Rp15
+aS"(37, u'\\\\baddict')"
+p14
+aS"(9, u'\\\\bdepress')"
+p15
+atp16
+Rp17
 sS'receptors'
-p16
-g3
-((lp17
-S'5ht1a'
 p18
-atp19
-Rp20
+g3
+((lp19
+S'5ht1a'
+p20
+atp21
+Rp22
 sS'regions'
-p21
-g3
-((lp22
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
 p23
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p24
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+g3
+((lp24
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-atp26
-Rp27
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p26
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p28
-V2016
-p29
-sS'agonists'
 p30
+V2016
+p31
+sS'agonists'
+p32
 g3
-((lp31
-tp32
-Rp33
+((lp33
+tp34
+Rp35
 sS'species'
-p34
-g3
-((lp35
-S"(6753, u'(?i)(da|das)')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(163, u'(?i)(mice|mouse)')"
+g3
+((lp37
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5176, u'(?i)(tegs|teg)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-atp44
-Rp45
+atp40
+Rp41
 sb.

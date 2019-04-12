@@ -42,66 +42,28 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2013
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(155, u'\\\\bmem')"
-p33
-atp34
-Rp35
+((lp31
+S"(149, u'\\\\bmem')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(1070, u'(?i)(pets|pet)')"
+((lp36
+S"(5747, u'(?i)\\\\b(toadfish|toadfish)\\\\b')"
+p37
+aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
 p38
-aS"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(702, u'(?i)(genets|genet)')"
-p40
-aS"(867, u'(?i)(tits|tit)')"
-p41
-aS"(4201, u'(?i)(kines|kine)')"
-p42
-aS"(4163, u'(?i)(ermines|ermine)')"
-p43
-aS"(3230, u'(?i)(crows|crow)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3726, u'(?i)(mates|mate)')"
-p48
-aS"(3404, u'(?i)(titis|titi)')"
-p49
-aS"(4657, u'(?i)(fish|fish)')"
-p50
-aS"(4964, u'(?i)(serins|serin)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-aS"(1396, u'(?i)(toads|toad)')"
-p54
-aS"(5747, u'(?i)(toadfish|toadfish)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(4979, u'(?i)(cats|cat)')"
-p57
-atp58
-Rp59
+atp39
+Rp40
 sb.

@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(210, u'\\\\btrifluoperazine')"
+S"(59, u'\\\\bchlorpromazine')"
 p5
-aS"(68, u'\\\\bchlorpromazine')"
+aS"(108, u'\\\\bfluphenazine')"
 p6
-aS"(120, u'\\\\bfluphenazine')"
+aS"(204, u'\\\\btrifluoperazine')"
 p7
 atp8
 Rp9
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p33
 atp34
 Rp35
@@ -62,36 +62,6 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p39
-aS"(6878, u'(?i)(guans|guan)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(5838, u'(?i)(cubs|cub)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(2809, u'(?i)(toms|tom)')"
-p51
-aS"(7552, u'(?i)(bats|bat)')"
-p52
-atp53
-Rp54
+tp38
+Rp39
 sb.

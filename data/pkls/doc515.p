@@ -40,88 +40,52 @@ S'5ht7'
 p22
 aS'5ht1a'
 p23
-aS'5ht5'
-p24
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp28
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p31
-aS"(165, u'(?i)(preoptics|preoptic)(-|\\\\s+)?(areas|area)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p32
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
 p33
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'year'
-p37
+p36
 V2013
-p38
+p37
 sS'agonists'
-p39
+p38
 g3
-((lp40
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp39
+S"(149, u'\\\\bmem')"
+p40
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p41
-aS"(155, u'\\\\bmem')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp45
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p46
+aS"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
 p47
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p48
-aS"(6125, u'(?i)(females|female)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p49
-aS"(867, u'(?i)(tits|tit)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(4163, u'(?i)(ermines|ermine)')"
-p52
-aS"(5967, u'(?i)(males|male)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(3726, u'(?i)(mates|mate)')"
-p56
-aS"(2665, u'(?i)(rays|ray)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-aS"(3522, u'(?i)(tetras|tetra)')"
-p60
-aS"(5917, u'(?i)(roaches|roach)')"
-p61
-aS"(6682, u'(?i)(tera|teras)')"
-p62
-aS"(3812, u'(?i)(studs|stud)')"
-p63
-aS"(6391, u'(?i)(asses|ass)')"
-p64
-aS"(2809, u'(?i)(toms|tom)')"
-p65
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p66
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p67
-atp68
-Rp69
+atp50
+Rp51
 sb.

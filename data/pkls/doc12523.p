@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(81, u'\\\\bagomelatine')"
+S"(72, u'\\\\bagomelatine')"
 p5
 atp6
 Rp7
@@ -40,76 +40,46 @@ sS'receptors'
 p22
 g3
 ((lp23
-S'5ht5'
+S'5ht2c'
 p24
-aS'5ht2c'
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(215, u'(?i)(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+((lp28
+S"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
+p29
+aS"(277, u'(?i)\\\\b(temporals|temporal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
 p30
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p31
-aS"(277, u'(?i)(temporals|temporal)(-|\\\\s+)?(lobes|lobe)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p32
-aS"(214, u'(?i)(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+aS"(244, u'(?i)\\\\b(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-aS"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
-p35
-aS"(244, u'(?i)(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)')"
-p36
-atp37
-Rp38
+atp34
+Rp35
 sS'year'
-p39
+p36
 V2017
-p40
+p37
 sS'agonists'
-p41
+p38
 g3
-((lp42
-S"(155, u'\\\\bmem')"
-p43
-atp44
-Rp45
+((lp39
+S"(149, u'\\\\bmem')"
+p40
+atp41
+Rp42
 sS'species'
-p46
+p43
 g3
-((lp47
-S"(5537, u'(?i)(hippos|hippo)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(2389, u'(?i)(spats|spat)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(1349, u'(?i)(rams|ram)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(4247, u'(?i)(tatus|tatu)')"
-p59
-aS"(6580, u'(?i)(dams|dam)')"
-p60
-aS"(7552, u'(?i)(bats|bat)')"
-p61
-atp62
-Rp63
+((lp44
+S"(1349, u'(?i)\\\\b(rams|ram)\\\\b')"
+p45
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bgranisetron')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(135, u'\\\\bondansetron')"
+aS"(123, u'\\\\bgranisetron')"
 p6
-aS"(139, u'\\\\bmetoclopramide')"
+aS"(125, u'\\\\btropisetron')"
 p7
-aS"(136, u'\\\\btropisetron')"
+aS"(128, u'\\\\bmetoclopramide')"
 p8
 atp9
 Rp10
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(213, u'\\\\bmetoclopramide')"
+S"(209, u'\\\\bmetoclopramide')"
 p33
 atp34
 Rp35
@@ -62,42 +62,14 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(2670, u'(?i)(arabs|arab)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(1928, u'(?i)(bears|bear)')"
-p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(3051, u'(?i)(pigs|pig)')"
-p45
-aS"(4163, u'(?i)(ermines|ermine)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(3062, u'(?i)(guineas|guinea)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(5229, u'(?i)(moles|mole)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p55
-atp56
-Rp57
+atp42
+Rp43
 sb.

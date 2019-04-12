@@ -54,40 +54,12 @@ sS'species'
 p32
 g3
 ((lp33
-S"(1070, u'(?i)(pets|pet)')"
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p34
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4635, u'(?i)\\\\b(baboons|baboon)\\\\b')"
 p35
-aS"(4635, u'(?i)(baboons|baboon)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p36
-aS"(867, u'(?i)(tits|tit)')"
-p37
-aS"(4201, u'(?i)(kines|kine)')"
-p38
-aS"(7539, u'(?i)(mammals|mammal)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(7094, u'(?i)(curs|cur)')"
-p41
-aS"(3404, u'(?i)(titis|titi)')"
-p42
-aS"(6215, u'(?i)(racers|racer)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(2809, u'(?i)(toms|tom)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp37
+Rp38
 sb.

@@ -30,48 +30,30 @@ S'5ht7'
 p17
 aS'5ht7a'
 p18
-aS'5ht5'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+((lp22
+tp23
+Rp24
 sS'year'
-p27
+p25
 V1999
-p28
+p26
 sS'agonists'
-p29
+p27
 g3
-((lp30
-tp31
-Rp32
+((lp28
+tp29
+Rp30
 sS'species'
-p33
+p31
 g3
-((lp34
-S"(3527, u'(?i)(permits|permit)')"
-p35
-aS"(4979, u'(?i)(cats|cat)')"
-p36
-aS"(468, u'(?i)(oxen|ox)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(7094, u'(?i)(curs|cur)')"
-p39
-aS"(853, u'(?i)(minas|mina)')"
-p40
-aS"(1961, u'(?i)(pens|pen)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-atp43
-Rp44
+((lp32
+S"(3527, u'(?i)\\\\b(permits|permit)\\\\b')"
+p33
+atp34
+Rp35
 sb.

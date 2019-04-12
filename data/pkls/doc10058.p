@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(204, u'\\\\bsb ?269970')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -50,58 +50,30 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+tp30
+Rp31
 sS'year'
-p33
+p32
 V2008
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp35
+S"(224, u'\\\\bas ?19')"
+p36
+aS"(149, u'\\\\bmem')"
 p37
-aS"(226, u'\\\\bas ?19')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p38
-aS"(155, u'\\\\bmem')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(7539, u'(?i)(mammals|mammal)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(2183, u'(?i)(gars|gar)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(3726, u'(?i)(mates|mate)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(7094, u'(?i)(curs|cur)')"
-p54
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+((lp42
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p43
+atp44
+Rp45
 sb.

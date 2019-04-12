@@ -46,7 +46,7 @@ sS'agonists'
 p27
 g3
 ((lp28
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p29
 atp30
 Rp31
@@ -54,56 +54,16 @@ sS'species'
 p32
 g3
 ((lp33
-S"(4624, u'(?i)(apes|ape)')"
+S"(3883, u'(?i)\\\\b(teleosts|teleost)\\\\b')"
 p34
-aS"(6580, u'(?i)(dams|dam)')"
+aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
 p35
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(1415, u'(?i)\\\\b(charrs|charr)\\\\b')"
 p36
-aS"(3048, u'(?i)(hogs|hog)')"
+aS"(2985, u'(?i)\\\\b(salvelinuses|salvelinus)(-|\\\\s+)?(alpinuses|alpinus)\\\\b')"
 p37
-aS"(1688, u'(?i)(ounces|ounce)')"
+aS"(3882, u'(?i)\\\\b(teleosts|teleost)(-|\\\\s+)?(fish|fish)\\\\b')"
 p38
-aS"(3882, u'(?i)(teleosts|teleost)(-|\\\\s+)?(fish|fish)')"
-p39
-aS"(1049, u'(?i)(elands|eland)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(2984, u'(?i)(arctics|arctic)(-|\\\\s+)?(chars|char)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(3522, u'(?i)(tetras|tetra)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(7609, u'(?i)(erns|ern)')"
-p47
-aS"(2985, u'(?i)(salvelinuses|salvelinus)(-|\\\\s+)?(alpinuses|alpinus)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(1415, u'(?i)(charrs|charr)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-aS"(2568, u'(?i)(hens|hen)')"
-p54
-aS"(4657, u'(?i)(fish|fish)')"
-p55
-aS"(6753, u'(?i)(da|das)')"
-p56
-aS"(1683, u'(?i)(terns|tern)')"
-p57
-aS"(3883, u'(?i)(teleosts|teleost)')"
-p58
-atp59
-Rp60
+atp39
+Rp40
 sb.

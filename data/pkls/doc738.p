@@ -32,64 +32,46 @@ g3
 ((lp18
 S'5ht1a'
 p19
-aS'5ht5'
-p20
 aS'5ht1d'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp24
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p25
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p27
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp27
+Rp28
 sS'year'
-p32
+p29
 V1996
-p33
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(96, u'\\\\bsumatriptan')"
+p33
+aS"(112, u'\\\\bgr ?46611')"
 p34
-g3
-((lp35
-S"(103, u'\\\\bsumatriptan')"
-p36
-aS"(119, u'\\\\bgr ?46611')"
-p37
-atp38
-Rp39
+atp35
+Rp36
 sS'species'
-p40
+p37
 g3
-((lp41
-S"(5958, u'(?i)(rats|rat)')"
+((lp38
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p40
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p41
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p42
-aS"(867, u'(?i)(tits|tit)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(3051, u'(?i)(pigs|pig)')"
-p45
-aS"(4163, u'(?i)(ermines|ermine)')"
-p46
-aS"(3062, u'(?i)(guineas|guinea)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p51
-atp52
-Rp53
+atp43
+Rp44
 sb.

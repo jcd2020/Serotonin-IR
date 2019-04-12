@@ -42,11 +42,11 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(220, u'(?i)(striatums|striatum)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p26
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p27
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p28
 atp29
 Rp30
@@ -58,7 +58,7 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(169, u'\\\\bfenfluramine')"
+S"(163, u'\\\\bfenfluramine')"
 p35
 atp36
 Rp37
@@ -66,42 +66,18 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2323, u'(?i)(bees|bee)')"
+S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p41
-aS"(2401, u'(?i)(primates|primate)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p42
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p43
-aS"(1349, u'(?i)(rams|ram)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p44
-aS"(3726, u'(?i)(mates|mate)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(7094, u'(?i)(curs|cur)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1057, u'(?i)(humans|human)')"
-p50
-aS"(4597, u'(?i)(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(3196, u'(?i)(human|humans)')"
-p53
-aS"(2809, u'(?i)(toms|tom)')"
-p54
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p55
-aS"(4596, u'(?i)(rhesuses|rhesus)')"
-p56
-aS"(5949, u'(?i)(dogs|dog)')"
-p57
-atp58
-Rp59
+atp46
+Rp47
 sb.

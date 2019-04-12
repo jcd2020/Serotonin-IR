@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(36, u'\\\\baripiprazole')"
+S"(35, u'\\\\baripiprazole')"
 p5
 atp6
 Rp7
@@ -34,60 +34,40 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht1a'
 p21
-aS'5ht1a'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(249, u'(?i)(frontals|frontal)(-|\\\\s+)?(lobes|lobe)')"
-p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+((lp25
+S"(249, u'(?i)\\\\b(frontals|frontal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
+p26
+atp27
+Rp28
 sS'year'
-p31
+p29
 V2007
-p32
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(223, u'\\\\baripiprazole')"
 p33
-g3
-((lp34
-S"(16, u'\\\\baripiprazole')"
-p35
-atp36
-Rp37
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(1070, u'(?i)(pets|pet)')"
+((lp37
+S"(3191, u'(?i)\\\\b(worlds|world)\\\\b')"
+p38
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p39
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p40
-aS"(2323, u'(?i)(bees|bee)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(5967, u'(?i)(males|male)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(3191, u'(?i)(worlds|world)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(4247, u'(?i)(tatus|tatu)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-atp51
-Rp52
+atp41
+Rp42
 sb.

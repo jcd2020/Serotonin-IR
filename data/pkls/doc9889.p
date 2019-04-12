@@ -50,8 +50,6 @@ sS'species'
 p30
 g3
 ((lp31
-S"(2323, u'(?i)(bees|bee)')"
-p32
-atp33
-Rp34
+tp32
+Rp33
 sb.

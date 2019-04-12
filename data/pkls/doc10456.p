@@ -46,54 +46,38 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+tp28
+Rp29
 sS'year'
-p31
+p30
 V2001
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(103, u'\\\\bsumatriptan')"
-p35
-atp36
-Rp37
+((lp33
+S"(96, u'\\\\bsumatriptan')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(2323, u'(?i)(bees|bee)')"
+((lp38
+S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+p39
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(473, u'(?i)(rabbits|rabbit)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p42
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
 p43
-aS"(1055, u'(?i)(men|man)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p44
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(3051, u'(?i)(pigs|pig)')"
-p46
-aS"(3062, u'(?i)(guineas|guinea)')"
-p47
-aS"(7094, u'(?i)(curs|cur)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(1057, u'(?i)(humans|human)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p52
-aS"(821, u'(?i)(lice|louse)')"
-p53
-atp54
-Rp55
+atp46
+Rp47
 sb.

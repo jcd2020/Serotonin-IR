@@ -8,96 +8,70 @@ c__builtin__
 set
 p3
 ((lp4
-S"(136, u'\\\\btropisetron')"
+S"(194, u'\\\\bmethysergide')"
 p5
-aS"(54, u'\\\\britanserin')"
+aS"(124, u'\\\\bondansetron')"
 p6
-aS"(105, u'\\\\bmethysergide')"
+aS"(125, u'\\\\btropisetron')"
 p7
-aS"(135, u'\\\\bondansetron')"
+aS"(119, u'\\\\britanserin')"
 p8
-aS"(130, u'\\\\britanserin')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
-S'5ht5'
-p23
-aS'5ht4'
-p24
+((lp21
+S'5ht4'
+p22
 aS'5ht3'
-p25
+p23
 aS'5ht2c'
-p26
+p24
 aS'5ht2a'
-p27
-atp28
-Rp29
+p25
+atp26
+Rp27
 sS'regions'
-p30
+p28
 g3
-((lp31
-S"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+((lp29
+tp30
+Rp31
 sS'year'
-p35
+p32
 V1994
-p36
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(176, u'\\\\bdom')"
+p36
+aS"(53, u'\\\\bmethysergide')"
 p37
-g3
-((lp38
-S"(181, u'\\\\bdom')"
-p39
-aS"(60, u'\\\\bmethysergide')"
-p40
-atp41
-Rp42
+atp38
+Rp39
 sS'species'
-p43
+p40
 g3
-((lp44
-S"(6753, u'(?i)(da|das)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(163, u'(?i)(mice|mouse)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(4964, u'(?i)(serins|serin)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+((lp41
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p42
+atp43
+Rp44
 sb.

@@ -52,40 +52,8 @@ sS'species'
 p31
 g3
 ((lp32
-S"(7609, u'(?i)(erns|ern)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p33
-aS"(6753, u'(?i)(da|das)')"
-p34
-aS"(5958, u'(?i)(rats|rat)')"
-p35
-aS"(6356, u'(?i)(ais|ai)')"
-p36
-aS"(3527, u'(?i)(permits|permit)')"
-p37
-aS"(867, u'(?i)(tits|tit)')"
-p38
-aS"(4201, u'(?i)(kines|kine)')"
-p39
-aS"(4163, u'(?i)(ermines|ermine)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(7488, u'(?i)(molas|mola)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(7127, u'(?i)(monitors|monitor)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(1683, u'(?i)(terns|tern)')"
-p49
-atp50
-Rp51
+atp34
+Rp35
 sb.

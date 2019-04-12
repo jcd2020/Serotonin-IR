@@ -8,126 +8,98 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(34, u'\\\\bmetergoline')"
 p5
-aS"(200, u'\\\\bmesulergine')"
+aS"(33, u'\\\\byohimbine')"
 p6
-aS"(52, u'\\\\bmetergoline')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(34, u'\\\\byohimbine')"
+aS"(194, u'\\\\bmethysergide')"
 p8
-aS"(105, u'\\\\bmethysergide')"
+aS"(203, u'\\\\btfmpp')"
 p9
-aS"(128, u'\\\\bketanserin')"
+aS"(193, u'\\\\bmesulergine')"
 p10
 aS"(22, u'\\\\bpropranolol')"
 p11
-aS"(209, u'\\\\btfmpp')"
-p12
-aS"(35, u'\\\\bmetergoline')"
-p13
-atp14
-Rp15
+atp12
+Rp13
 sS'methods'
-p16
+p14
 g3
-((lp17
+((lp15
 S'Method.ANTAGONIST'
-p18
+p16
 aS'Method.AGONIST'
-p19
-atp20
-Rp21
+p17
+atp18
+Rp19
 sS'topics'
-p22
+p20
 g3
-((lp23
-tp24
-Rp25
+((lp21
+tp22
+Rp23
 sS'receptors'
-p26
+p24
 g3
-((lp27
+((lp25
 S'5ht1c'
-p28
+p26
 aS'5ht1b'
-p29
-aS'5ht5'
-p30
-aS'5ht2'
-p31
-aS'5ht1'
-p32
-aS'5ht1d'
-p33
+p27
 aS'5ht1a'
-p34
-atp35
-Rp36
+p28
+aS'5ht2'
+p29
+aS'5ht1'
+p30
+aS'5ht1d'
+p31
+atp32
+Rp33
 sS'regions'
-p37
+p34
 g3
-((lp38
-tp39
-Rp40
+((lp35
+tp36
+Rp37
 sS'year'
-p41
+p38
 V1991
-p42
+p39
 sS'agonists'
+p40
+g3
+((lp41
+S"(53, u'\\\\bmethysergide')"
+p42
+aS"(165, u'\\\\bmesulergine')"
 p43
-g3
-((lp44
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(76, u'\\\\btrifluoromethylphenylpiperazine')"
+p44
+aS"(178, u'\\\\btfmpp')"
 p45
-aS"(29, u'\\\\bdihydroergotamine')"
+aS"(192, u'\\\\bquipazine')"
 p46
-aS"(89, u'\\\\byohimbine')"
+aS"(25, u'\\\\bdihydroergotamine')"
 p47
-aS"(83, u'\\\\btrifluoromethylphenylpiperazine')"
+aS"(82, u'\\\\byohimbine')"
 p48
-aS"(183, u'\\\\btfmpp')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p49
-aS"(60, u'\\\\bmethysergide')"
-p50
-aS"(171, u'\\\\bmesulergine')"
-p51
-aS"(196, u'\\\\bquipazine')"
-p52
-atp53
-Rp54
+atp50
+Rp51
 sS'species'
-p55
+p52
 g3
-((lp56
-S"(5537, u'(?i)(hippos|hippo)')"
-p57
-aS"(2568, u'(?i)(hens|hen)')"
-p58
-aS"(6753, u'(?i)(da|das)')"
-p59
-aS"(3051, u'(?i)(pigs|pig)')"
-p60
-aS"(468, u'(?i)(oxen|ox)')"
-p61
-aS"(3062, u'(?i)(guineas|guinea)')"
-p62
-aS"(1055, u'(?i)(men|man)')"
-p63
-aS"(4964, u'(?i)(serins|serin)')"
-p64
-aS"(6249, u'(?i)(ants|ant)')"
-p65
-aS"(3522, u'(?i)(tetras|tetra)')"
-p66
-aS"(3426, u'(?i)(hares|hare)')"
-p67
-aS"(1961, u'(?i)(pens|pen)')"
-p68
-aS"(3812, u'(?i)(studs|stud)')"
-p69
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p70
-atp71
-Rp72
+((lp53
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p54
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p55
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+p56
+atp57
+Rp58
 sb.

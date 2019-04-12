@@ -8,114 +8,80 @@ c__builtin__
 set
 p3
 ((lp4
-S"(197, u'\\\\blurasidone')"
+S"(111, u'\\\\bolanzapine')"
 p5
-aS"(57, u'\\\\bolanzapine')"
+aS"(190, u'\\\\blurasidone')"
 p6
-aS"(124, u'\\\\bolanzapine')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
-aS"(67, u'\\\\bhaloperidol')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(15, u'\\\\bschizophreni')"
-p19
+p18
 aS"(6, u'\\\\bcognit')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
-S'5ht5'
-p25
-aS'5ht1a'
-p26
+((lp23
+S'5ht1a'
+p24
 aS'5ht2a'
-p27
-atp28
-Rp29
+p25
+atp26
+Rp27
 sS'regions'
+p28
+g3
+((lp29
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p30
-g3
-((lp31
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'year'
-p35
+p33
 V2014
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(57, u'\\\\bolanzapine')"
 p37
-g3
-((lp38
-S"(80, u'\\\\btandospirone')"
+aS"(47, u'\\\\blurasidone')"
+p38
+aS"(73, u'\\\\btandospirone')"
 p39
-aS"(53, u'\\\\blurasidone')"
+aS"(43, u'\\\\bhaloperidol')"
 p40
-aS"(64, u'\\\\bolanzapine')"
-p41
-aS"(48, u'\\\\bhaloperidol')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(2323, u'(?i)(bees|bee)')"
+((lp44
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p45
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p46
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p47
-aS"(5537, u'(?i)(hippos|hippo)')"
-p48
-aS"(5799, u'(?i)(rodents|rodent)')"
-p49
-aS"(2568, u'(?i)(hens|hen)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(6753, u'(?i)(da|das)')"
-p52
-aS"(81, u'(?i)(asps|asp)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(3726, u'(?i)(mates|mate)')"
-p56
-aS"(1054, u'(?i)(homoes|homo)')"
-p57
-aS"(4964, u'(?i)(serins|serin)')"
-p58
-aS"(3550, u'(?i)(anis|ani)')"
-p59
-aS"(3426, u'(?i)(hares|hare)')"
-p60
-aS"(1414, u'(?i)(chars|char)')"
-p61
-aS"(6391, u'(?i)(asses|ass)')"
-p62
-aS"(6356, u'(?i)(ais|ai)')"
-p63
-aS"(6249, u'(?i)(ants|ant)')"
-p64
-atp65
-Rp66
+atp48
+Rp49
 sb.

@@ -40,48 +40,28 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(126, u'(?i)(thalamuses|thalamus)')"
+S"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2002
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(1070, u'(?i)(pets|pet)')"
+((lp35
+S"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
+p36
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(7094, u'(?i)(curs|cur)')"
-p39
-aS"(6215, u'(?i)(racers|racer)')"
-p40
-aS"(853, u'(?i)(minas|mina)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(3522, u'(?i)(tetras|tetra)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(2809, u'(?i)(toms|tom)')"
-p45
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-atp48
-Rp49
+atp38
+Rp39
 sb.

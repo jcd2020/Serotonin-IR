@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(93, u'(?i)(midbrains|midbrain)(-|\\\\s+)?(reticulars|reticular)(-|\\\\s+)?(formations|formation)')"
+S"(93, u'(?i)\\\\b(midbrains|midbrain)(-|\\\\s+)?(reticulars|reticular)(-|\\\\s+)?(formations|formation)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,13 +54,13 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(47, u'\\\\bgepirone')"
+S"(20, u'\\\\bbuspirone')"
 p33
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(45, u'\\\\bipsapirone')"
 p34
-aS"(24, u'\\\\bbuspirone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p35
-aS"(50, u'\\\\bipsapirone')"
+aS"(42, u'\\\\bgepirone')"
 p36
 atp37
 Rp38
@@ -68,32 +68,8 @@ sS'species'
 p39
 g3
 ((lp40
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(3592, u'(?i)(ravens|raven)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(7609, u'(?i)(erns|ern)')"
-p52
-aS"(1683, u'(?i)(terns|tern)')"
-p53
-atp54
-Rp55
+atp42
+Rp43
 sb.

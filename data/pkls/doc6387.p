@@ -32,52 +32,34 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2a'
 p20
-aS'5ht2a'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(249, u'(?i)(frontals|frontal)(-|\\\\s+)?(lobes|lobe)')"
-p26
-atp27
-Rp28
+((lp24
+S"(249, u'(?i)\\\\b(frontals|frontal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2001
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(6125, u'(?i)(females|female)')"
-p38
-aS"(5967, u'(?i)(males|male)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(4964, u'(?i)(serins|serin)')"
-p42
-aS"(1414, u'(?i)(chars|char)')"
-p43
-aS"(2809, u'(?i)(toms|tom)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-atp46
-Rp47
+((lp35
+S"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+p36
+atp37
+Rp38
 sb.

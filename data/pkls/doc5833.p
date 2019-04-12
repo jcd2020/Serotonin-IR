@@ -8,80 +8,66 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(54, u'\\\\britanserin')"
-p6
 aS"(17, u'\\\\bnan ?190')"
+p6
+aS"(58, u'\\\\bhaloperidol')"
 p7
-aS"(130, u'\\\\britanserin')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht2d'
-p22
+p21
 aS'5ht1a'
-p23
+p22
 aS'5ht2'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(220, u'(?i)(striatums|striatum)')"
-p29
-atp30
-Rp31
+((lp27
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p32
+p31
 V1996
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(48, u'\\\\bhaloperidol')"
-p36
-atp37
-Rp38
+((lp34
+S"(43, u'\\\\bhaloperidol')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(7609, u'(?i)(erns|ern)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(4964, u'(?i)(serins|serin)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-atp48
-Rp49
+((lp39
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

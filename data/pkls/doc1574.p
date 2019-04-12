@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p32
 atp33
 Rp34
@@ -60,46 +60,12 @@ sS'species'
 p35
 g3
 ((lp36
-S"(6753, u'(?i)(da|das)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p37
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3072, u'(?i)\\\\b(piglets|piglet)\\\\b')"
 p38
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(7552, u'(?i)\\\\b(bats|bat)\\\\b')"
 p39
-aS"(3072, u'(?i)(piglets|piglet)')"
-p40
-aS"(5176, u'(?i)(tegs|teg)')"
-p41
-aS"(7552, u'(?i)(bats|bat)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(3051, u'(?i)(pigs|pig)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(107, u'(?i)(stags|stag)')"
-p48
-aS"(853, u'(?i)(minas|mina)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(3522, u'(?i)(tetras|tetra)')"
-p51
-aS"(7058, u'(?i)(does|doe)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(1683, u'(?i)(terns|tern)')"
-p55
-aS"(6682, u'(?i)(tera|teras)')"
-p56
-atp57
-Rp58
+atp40
+Rp41
 sb.

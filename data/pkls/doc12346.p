@@ -8,118 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(6, u'\\\\bcyproheptadine')"
 p5
-aS"(6, u'\\\\bcyproheptadine')"
+aS"(53, u'\\\\bcyproheptadine')"
 p6
-aS"(105, u'\\\\bmethysergide')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(62, u'\\\\bcyproheptadine')"
+aS"(194, u'\\\\bmethysergide')"
 p8
-aS"(128, u'\\\\bketanserin')"
+aS"(26, u'\\\\bspiperone')"
 p9
-aS"(111, u'\\\\btramadol')"
+aS"(101, u'\\\\btramadol')"
 p10
-aS"(27, u'\\\\bspiperone')"
-p11
-atp12
-Rp13
+atp11
+Rp12
 sS'methods'
-p14
+p13
 g3
-((lp15
+((lp14
 S'Method.ANTAGONIST'
-p16
+p15
 aS'Method.AGONIST'
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'topics'
-p20
+p19
 g3
-((lp21
+((lp20
 S"(24, u'\\\\banalgesi')"
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'receptors'
-p25
+p24
 g3
-((lp26
+((lp25
 S'5ht3'
-p27
+p26
 aS'5ht1b'
-p28
+p27
 aS'5ht3a'
-p29
+p28
 aS'5ht2'
-p30
-atp31
-Rp32
+p29
+atp30
+Rp31
 sS'regions'
-p33
+p32
 g3
-((lp34
-S"(34, u'(?i)(pon|pons)')"
-p35
-atp36
-Rp37
+((lp33
+tp34
+Rp35
 sS'year'
-p38
+p36
 V1992
-p39
+p37
 sS'agonists'
+p38
+g3
+((lp39
+S"(49, u'\\\\blysergic acid diethylamide')"
 p40
-g3
-((lp41
-S"(55, u'\\\\blysergic acid diethylamide')"
+aS"(53, u'\\\\bmethysergide')"
+p41
+aS"(192, u'\\\\bquipazine')"
 p42
-aS"(196, u'\\\\bquipazine')"
+aS"(67, u'\\\\bru ?24969')"
 p43
-aS"(74, u'\\\\bru ?24969')"
-p44
-aS"(60, u'\\\\bmethysergide')"
-p45
-atp46
-Rp47
+atp44
+Rp45
 sS'species'
-p48
+p46
 g3
-((lp49
-S"(4624, u'(?i)(apes|ape)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(2568, u'(?i)(hens|hen)')"
-p52
-aS"(867, u'(?i)(tits|tit)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(468, u'(?i)(oxen|ox)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(1349, u'(?i)(rams|ram)')"
-p58
-aS"(853, u'(?i)(minas|mina)')"
-p59
-aS"(3550, u'(?i)(anis|ani)')"
-p60
-aS"(3522, u'(?i)(tetras|tetra)')"
-p61
-aS"(5958, u'(?i)(rats|rat)')"
-p62
-aS"(1961, u'(?i)(pens|pen)')"
-p63
-aS"(6356, u'(?i)(ais|ai)')"
-p64
-aS"(6391, u'(?i)(asses|ass)')"
-p65
-aS"(1628, u'(?i)(cod|cod)')"
-p66
-atp67
-Rp68
+((lp47
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

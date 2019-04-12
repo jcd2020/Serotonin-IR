@@ -30,62 +30,36 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht1a'
 p19
-aS'5ht1a'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+((lp23
+tp24
+Rp25
 sS'year'
-p28
+p26
 V1998
-p29
+p27
 sS'agonists'
+p28
+g3
+((lp29
+S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p30
-g3
-((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p31
+aS"(175, u'\\\\bdoi')"
 p32
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
-p33
-aS"(33, u'\\\\bdoi')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(6753, u'(?i)(da|das)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(1414, u'(?i)(chars|char)')"
-p48
-aS"(821, u'(?i)(lice|louse)')"
-p49
-atp50
-Rp51
+((lp36
+tp37
+Rp38
 sb.

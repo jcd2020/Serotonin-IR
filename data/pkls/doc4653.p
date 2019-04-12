@@ -8,108 +8,80 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(123, u'\\\\bgranisetron')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(134, u'\\\\bgranisetron')"
+aS"(194, u'\\\\bmethysergide')"
 p7
-aS"(105, u'\\\\bmethysergide')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(35, u'\\\\bstress')"
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht1b'
-p24
-aS'5ht5'
-p25
-aS'5ht3'
-p26
-aS'5ht2'
-p27
-aS'5ht1'
-p28
-aS'5ht2a'
-p29
+p23
 aS'5ht1a'
-p30
-atp31
-Rp32
+p24
+aS'5ht3'
+p25
+aS'5ht2'
+p26
+aS'5ht1'
+p27
+aS'5ht2a'
+p28
+atp29
+Rp30
 sS'regions'
+p31
+g3
+((lp32
+S"(390, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)\\\\b')"
 p33
-g3
-((lp34
-S"(390, u'(?i)(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)')"
-p35
-atp36
-Rp37
+atp34
+Rp35
 sS'year'
-p38
+p36
 V1993
-p39
+p37
 sS'agonists'
+p38
+g3
+((lp39
+S"(20, u'\\\\bbuspirone')"
 p40
-g3
-((lp41
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(53, u'\\\\bmethysergide')"
+p41
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p42
-aS"(24, u'\\\\bbuspirone')"
-p43
-aS"(60, u'\\\\bmethysergide')"
-p44
-atp45
-Rp46
+atp43
+Rp44
 sS'species'
-p47
+p45
 g3
-((lp48
-S"(2568, u'(?i)(hens|hen)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(4201, u'(?i)(kines|kine)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(4964, u'(?i)(serins|serin)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(3522, u'(?i)(tetras|tetra)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-aS"(4979, u'(?i)(cats|cat)')"
-p60
-aS"(4133, u'(?i)(pikes|pike)')"
-p61
-atp62
-Rp63
+((lp46
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

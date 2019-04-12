@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(200, u'\\\\bmesulergine')"
+S"(30, u'\\\\bway ?100135')"
 p5
-aS"(31, u'\\\\bway ?100135')"
+aS"(203, u'\\\\btfmpp')"
 p6
 aS"(14, u'\\\\bmethiothepin')"
 p7
-aS"(209, u'\\\\btfmpp')"
+aS"(193, u'\\\\bmesulergine')"
 p8
 atp9
 Rp10
@@ -40,72 +40,42 @@ g3
 ((lp22
 S'5ht1b'
 p23
-aS'5ht5'
-p24
 aS'5ht1a'
-p25
+p24
 aS'5ht2'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+((lp29
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p35
+p33
 V1996
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(165, u'\\\\bmesulergine')"
 p37
-g3
-((lp38
-S"(106, u'\\\\bcgs ?12066a')"
+aS"(99, u'\\\\bcgs ?12066a')"
+p38
+aS"(178, u'\\\\btfmpp')"
 p39
-aS"(183, u'\\\\btfmpp')"
-p40
-aS"(171, u'\\\\bmesulergine')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(6753, u'(?i)(da|das)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(7539, u'(?i)(mammals|mammal)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(81, u'(?i)(asps|asp)')"
-p52
-aS"(4163, u'(?i)(ermines|ermine)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p55
-aS"(853, u'(?i)(minas|mina)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(1414, u'(?i)(chars|char)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-atp60
-Rp61
+((lp43
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p44
+atp45
+Rp46
 sb.

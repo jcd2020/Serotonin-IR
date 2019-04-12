@@ -56,22 +56,8 @@ sS'species'
 p33
 g3
 ((lp34
-S"(5799, u'(?i)(rodents|rodent)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p35
-aS"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(6682, u'(?i)(tera|teras)')"
-p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(6356, u'(?i)(ais|ai)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(6391, u'(?i)(asses|ass)')"
-p42
-atp43
-Rp44
+atp36
+Rp37
 sb.

@@ -30,62 +30,36 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht1a'
 p19
-aS'5ht1a'
-p20
 aS'5ht2'
-p21
-aS'5ht5a'
-p22
+p20
 aS'5ht2a'
-p23
-atp24
-Rp25
+p21
+atp22
+Rp23
 sS'regions'
-p26
+p24
 g3
-((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+((lp25
+tp26
+Rp27
 sS'year'
-p31
+p28
 V1994
-p32
+p29
 sS'agonists'
-p33
+p30
 g3
-((lp34
-tp35
-Rp36
+((lp31
+tp32
+Rp33
 sS'species'
-p37
+p34
 g3
-((lp38
-S"(6753, u'(?i)(da|das)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1349, u'(?i)(rams|ram)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(1054, u'(?i)(homoes|homo)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-atp50
-Rp51
+((lp35
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p36
+atp37
+Rp38
 sb.

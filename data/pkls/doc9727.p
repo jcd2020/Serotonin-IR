@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(60, u'\\\\basenapine')"
+S"(51, u'\\\\basenapine')"
 p5
 atp6
 Rp7
@@ -38,78 +38,42 @@ g3
 ((lp21
 S'5ht1b'
 p22
-aS'5ht5'
-p23
 aS'5ht1a'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp28
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p30
-aS"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p31
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p32
-aS"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
-p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'year'
-p37
+p35
 V2015
-p38
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(13, u'\\\\basenapine')"
 p39
-g3
-((lp40
-S"(17, u'\\\\basenapine')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(5537, u'(?i)(hippos|hippo)')"
-p46
-aS"(5176, u'(?i)(tegs|teg)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(1349, u'(?i)(rams|ram)')"
-p54
-aS"(853, u'(?i)(minas|mina)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(3522, u'(?i)(tetras|tetra)')"
-p57
-aS"(1414, u'(?i)(chars|char)')"
-p58
-aS"(6391, u'(?i)(asses|ass)')"
-p59
-aS"(5743, u'(?i)(bots|bot)')"
-p60
-aS"(3812, u'(?i)(studs|stud)')"
-p61
-atp62
-Rp63
+((lp43
+tp44
+Rp45
 sb.

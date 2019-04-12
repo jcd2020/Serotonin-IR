@@ -10,7 +10,7 @@ p3
 ((lp4
 S"(13, u'\\\\bmefway')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -32,80 +32,50 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht1a'
 p20
-aS'5ht1a'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(71, u'(?i)(cerebellums|cerebellum)')"
-p26
-atp27
-Rp28
+((lp24
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2006
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(2401, u'(?i)(primates|primate)')"
+((lp35
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p36
+aS"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
 p37
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p38
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p39
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p40
-aS"(3196, u'(?i)(human|humans)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p41
-aS"(1070, u'(?i)(pets|pet)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p43
-aS"(2341, u'(?i)(monkeys|monkey)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(821, u'(?i)(lice|louse)')"
-p45
-aS"(5537, u'(?i)(hippos|hippo)')"
-p46
-aS"(2670, u'(?i)(arabs|arab)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(4604, u'(?i)(mites|mite)')"
-p50
-aS"(4597, u'(?i)(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(1057, u'(?i)(humans|human)')"
-p53
-aS"(4596, u'(?i)(rhesuses|rhesus)')"
-p54
-aS"(2323, u'(?i)(bees|bee)')"
-p55
-aS"(5799, u'(?i)(rodents|rodent)')"
-p56
-aS"(2568, u'(?i)(hens|hen)')"
-p57
-aS"(3726, u'(?i)(mates|mate)')"
-p58
-aS"(7472, u'(?i)(saigas|saiga)')"
-p59
-atp60
-Rp61
+atp45
+Rp46
 sb.

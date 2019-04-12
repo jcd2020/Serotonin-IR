@@ -8,96 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(48, u'\\\\btrazodone')"
 p5
-aS"(55, u'\\\\bnefazodone')"
+aS"(49, u'\\\\bnefazodone')"
 p6
-aS"(130, u'\\\\britanserin')"
+aS"(133, u'\\\\bmianserin')"
 p7
-aS"(50, u'\\\\btrazodone')"
+aS"(119, u'\\\\britanserin')"
 p8
-aS"(117, u'\\\\bmianserin')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(9, u'\\\\bdepress')"
-p19
+p18
 aS"(3, u'\\\\bsleep')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht2c'
-p25
+p24
 aS'5ht2a'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'year'
-p33
+p32
 V1995
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(63, u'\\\\bnefazodone')"
+((lp35
+S"(75, u'\\\\btrazodone')"
+p36
+aS"(56, u'\\\\bnefazodone')"
 p37
-aS"(82, u'\\\\btrazodone')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(931, u'(?i)(divers|diver)')"
-p44
-aS"(4200, u'(?i)(cow|cows)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(4964, u'(?i)(serins|serin)')"
-p51
-aS"(805, u'(?i)(cows|cow)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(6682, u'(?i)(tera|teras)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+((lp41
+tp42
+Rp43
 sb.

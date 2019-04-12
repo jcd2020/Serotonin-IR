@@ -32,54 +32,42 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2b'
 p20
-aS'5ht2b'
-p21
 aS'5ht2c'
-p22
+p21
 aS'5ht2'
-p23
+p22
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-tp29
-Rp30
+((lp27
+tp28
+Rp29
 sS'year'
-p31
+p30
 V2005
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(158, u'\\\\bnorfenfluramine')"
+((lp33
+S"(163, u'\\\\bfenfluramine')"
+p34
+aS"(152, u'\\\\bnorfenfluramine')"
 p35
-aS"(169, u'\\\\bfenfluramine')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(1869, u'(?i)(millers|miller)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(3191, u'(?i)(worlds|world)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(5229, u'(?i)(moles|mole)')"
-p46
-atp47
-Rp48
+((lp39
+S"(1869, u'(?i)\\\\b(millers|miller)\\\\b')"
+p40
+atp41
+Rp42
 sb.

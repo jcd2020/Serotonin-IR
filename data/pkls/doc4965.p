@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(180, u'\\\\bphenethylamines')"
+S"(174, u'\\\\bphenethylamines')"
 p30
 atp31
 Rp32
@@ -56,22 +56,6 @@ sS'species'
 p33
 g3
 ((lp34
-S"(4624, u'(?i)(apes|ape)')"
-p35
-aS"(2568, u'(?i)(hens|hen)')"
-p36
-aS"(867, u'(?i)(tits|tit)')"
-p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(1349, u'(?i)(rams|ram)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(6391, u'(?i)(asses|ass)')"
-p42
-atp43
-Rp44
+tp35
+Rp36
 sb.

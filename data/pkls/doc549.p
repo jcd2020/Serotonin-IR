@@ -32,80 +32,42 @@ g3
 ((lp18
 S'5ht1b'
 p19
-aS'5ht5'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp23
+S"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+p24
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2001
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(1266, u'(?i)(embryos|embryo)')"
+((lp35
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p36
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p37
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(3196, u'(?i)(human|humans)')"
-p41
-aS"(479, u'(?i)(lings|ling)')"
-p42
-aS"(3152, u'(?i)(layers|layer)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(2809, u'(?i)(toms|tom)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(7609, u'(?i)(erns|ern)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(1057, u'(?i)(humans|human)')"
-p52
-aS"(4371, u'(?i)(lizas|liza)')"
-p53
-aS"(7058, u'(?i)(does|doe)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-aS"(1169, u'(?i)(grades|grade)')"
-p56
-aS"(3726, u'(?i)(mates|mate)')"
-p57
-aS"(1683, u'(?i)(terns|tern)')"
-p58
-aS"(5674, u'(?i)(ewes|ewe)')"
-p59
-atp60
-Rp61
+atp41
+Rp42
 sb.

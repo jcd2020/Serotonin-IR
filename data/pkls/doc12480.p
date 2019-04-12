@@ -44,7 +44,7 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(44, u'(?i)(cochlears|cochlear)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)')"
+S"(44, u'(?i)\\\\b(cochlears|cochlear)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)\\\\b')"
 p27
 atp28
 Rp29
@@ -62,30 +62,8 @@ sS'species'
 p36
 g3
 ((lp37
-S"(5958, u'(?i)(rats|rat)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(702, u'(?i)(genets|genet)')"
-p39
-aS"(163, u'(?i)(mice|mouse)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(4371, u'(?i)(lizas|liza)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(821, u'(?i)(lice|louse)')"
-p49
-atp50
-Rp51
+atp39
+Rp40
 sb.

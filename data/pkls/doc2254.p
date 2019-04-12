@@ -32,64 +32,38 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2a'
 p20
-aS'5ht2a'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
-p26
-atp27
-Rp28
+((lp24
+S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2009
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(1070, u'(?i)(pets|pet)')"
+((lp35
+S"(4096, u'(?i)\\\\b(chows|chow)\\\\b')"
+p36
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p37
-aS"(2670, u'(?i)(arabs|arab)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(4096, u'(?i)(chows|chow)')"
-p41
-aS"(1885, u'(?i)(apars|apar)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6215, u'(?i)(racers|racer)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(3247, u'(?i)(youngs|young)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(2809, u'(?i)(toms|tom)')"
-p49
-aS"(4091, u'(?i)(adults|adult)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-atp52
-Rp53
+atp39
+Rp40
 sb.

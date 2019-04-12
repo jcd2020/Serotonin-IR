@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(85, u'\\\\blisuride')"
+S"(76, u'\\\\blisuride')"
 p5
 atp6
 Rp7
@@ -42,56 +42,32 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2007
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(56, u'\\\\blsd')"
+((lp31
+S"(137, u'\\\\blisuride')"
+p32
+aS"(63, u'\\\\bpsilocybin')"
 p33
-aS"(55, u'\\\\blysergic acid diethylamide')"
+aS"(158, u'\\\\blsd')"
 p34
-aS"(57, u'\\\\bmescaline')"
+aS"(49, u'\\\\blysergic acid diethylamide')"
 p35
-aS"(70, u'\\\\bpsilocybin')"
+aS"(50, u'\\\\bmescaline')"
 p36
-aS"(52, u'\\\\blisuride')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(2670, u'(?i)(arabs|arab)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(7609, u'(?i)(erns|ern)')"
-p44
-aS"(702, u'(?i)(genets|genet)')"
-p45
-aS"(479, u'(?i)(lings|ling)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(1683, u'(?i)(terns|tern)')"
-p52
-atp53
-Rp54
+((lp40
+tp41
+Rp42
 sb.

@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(29, u'\\\\bspiroxatrine')"
+S"(104, u'\\\\bimipramine')"
 p5
-aS"(67, u'\\\\bhaloperidol')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
-aS"(114, u'\\\\bimipramine')"
+aS"(28, u'\\\\bspiroxatrine')"
 p7
 aS"(22, u'\\\\bpropranolol')"
 p8
@@ -56,11 +56,11 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(48, u'\\\\bhaloperidol')"
+S"(20, u'\\\\bbuspirone')"
 p34
-aS"(24, u'\\\\bbuspirone')"
+aS"(210, u'\\\\bsulpiride')"
 p35
-aS"(214, u'\\\\bsulpiride')"
+aS"(43, u'\\\\bhaloperidol')"
 p36
 atp37
 Rp38
@@ -68,32 +68,8 @@ sS'species'
 p39
 g3
 ((lp40
-S"(5958, u'(?i)(rats|rat)')"
+S"(5811, u'(?i)\\\\b(goldfish|goldfish)\\\\b')"
 p41
-aS"(4657, u'(?i)(fish|fish)')"
-p42
-aS"(5811, u'(?i)(goldfish|goldfish)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(2453, u'(?i)(topis|topi)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(1414, u'(?i)(chars|char)')"
-p51
-aS"(7488, u'(?i)(molas|mola)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-atp54
-Rp55
+atp42
+Rp43
 sb.

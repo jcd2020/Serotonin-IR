@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(136, u'\\\\btropisetron')"
+S"(125, u'\\\\btropisetron')"
 p5
 atp6
 Rp7
@@ -34,84 +34,48 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht1a'
 p21
-aS'5ht1a'
-p22
 aS'5ht3'
-p23
+p22
 aS'5ht2c'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p30
-aS"(170, u'(?i)(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)')"
-p31
-atp32
-Rp33
+((lp28
+S"(170, u'(?i)\\\\b(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p34
+p32
 V1998
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-g3
-((lp37
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p38
-aS"(33, u'\\\\bdoi')"
-p39
-atp40
-Rp41
+aS"(175, u'\\\\bdoi')"
+p37
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(6249, u'(?i)(ants|ant)')"
+((lp41
+S"(1795, u'(?i)\\\\b(mounts|mount)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p46
-aS"(6878, u'(?i)(guans|guan)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(5967, u'(?i)(males|male)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(4462, u'(?i)(monals|monal)')"
-p53
-aS"(5176, u'(?i)(tegs|teg)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(3522, u'(?i)(tetras|tetra)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(6125, u'(?i)(females|female)')"
-p59
-aS"(2809, u'(?i)(toms|tom)')"
-p60
-aS"(1795, u'(?i)(mounts|mount)')"
-p61
-aS"(6356, u'(?i)(ais|ai)')"
-p62
-atp63
-Rp64
+atp45
+Rp46
 sb.

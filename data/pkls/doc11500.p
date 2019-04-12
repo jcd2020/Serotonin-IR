@@ -46,46 +46,26 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+tp28
+Rp29
 sS'year'
-p31
+p30
 V1999
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(161, u'\\\\bmcpp')"
+((lp33
+S"(45, u'\\\\bipsapirone')"
+p34
+aS"(155, u'\\\\bmcpp')"
 p35
-aS"(50, u'\\\\bipsapirone')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(3592, u'(?i)(ravens|raven)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(1414, u'(?i)(chars|char)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-atp50
-Rp51
+((lp39
+tp40
+Rp41
 sb.

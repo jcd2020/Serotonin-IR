@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bgranisetron')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(140, u'\\\\brenzapride')"
-p6
-aS"(135, u'\\\\bondansetron')"
-p7
 aS"(14, u'\\\\bmethiothepin')"
+p6
+aS"(123, u'\\\\bgranisetron')"
+p7
+aS"(129, u'\\\\brenzapride')"
 p8
 atp9
 Rp10
@@ -50,64 +50,34 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p30
-aS"(157, u'(?i)(limbics|limbic)(-|\\\\s+)?(systems|system)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p31
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V1996
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p38
-g3
-((lp39
-S"(207, u'\\\\brenzapride')"
+aS"(203, u'\\\\brenzapride')"
+p39
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p40
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
-p41
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(5176, u'(?i)(tegs|teg)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(479, u'(?i)(lings|ling)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(3726, u'(?i)(mates|mate)')"
-p55
-aS"(853, u'(?i)(minas|mina)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(6682, u'(?i)(tera|teras)')"
-p58
-aS"(7127, u'(?i)(monitors|monitor)')"
-p59
-aS"(2809, u'(?i)(toms|tom)')"
-p60
-atp61
-Rp62
+((lp44
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

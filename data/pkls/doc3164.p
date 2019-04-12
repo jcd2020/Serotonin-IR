@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
 atp6
 Rp7
@@ -42,62 +42,34 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p26
-aS"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2017
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+tp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(6753, u'(?i)(da|das)')"
+((lp37
+S"(3348, u'(?i)\\\\b(babies|baby)\\\\b')"
+p38
+aS"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(6391, u'(?i)(asses|ass)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(6682, u'(?i)(tera|teras)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(3726, u'(?i)(mates|mate)')"
-p47
-aS"(3348, u'(?i)(babies|baby)')"
-p48
-aS"(853, u'(?i)(minas|mina)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(7058, u'(?i)(does|doe)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3722, u'(?i)(pups|pup)')"
-p53
-aS"(3048, u'(?i)(hogs|hog)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-atp56
-Rp57
+atp42
+Rp43
 sb.

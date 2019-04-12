@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -40,50 +40,26 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2012
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p32
-atp33
-Rp34
+((lp30
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(5176, u'(?i)(tegs|teg)')"
-p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(3592, u'(?i)(ravens|raven)')"
-p41
-aS"(3726, u'(?i)(mates|mate)')"
-p42
-aS"(853, u'(?i)(minas|mina)')"
-p43
-aS"(1147, u'(?i)(bronchoes|broncho)')"
-p44
-aS"(3522, u'(?i)(tetras|tetra)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(2809, u'(?i)(toms|tom)')"
-p47
-aS"(1146, u'(?i)(broncs|bronc)')"
-p48
-atp49
-Rp50
+((lp35
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

@@ -56,28 +56,12 @@ sS'species'
 p33
 g3
 ((lp34
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(3191, u'(?i)\\\\b(worlds|world)\\\\b')"
 p35
-aS"(3550, u'(?i)(anis|ani)')"
+aS"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
 p36
-aS"(949, u'(?i)(cohoes|coho)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(867, u'(?i)(tits|tit)')"
-p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(2395, u'(?i)(mutants|mutant)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(3191, u'(?i)(worlds|world)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-atp46
-Rp47
+atp38
+Rp39
 sb.

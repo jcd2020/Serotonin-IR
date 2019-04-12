@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(140, u'\\\\brenzapride')"
+S"(129, u'\\\\brenzapride')"
 p5
-aS"(143, u'\\\\bmosapride')"
+aS"(132, u'\\\\bmosapride')"
 p6
 atp7
 Rp8
@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,11 +52,11 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(207, u'\\\\brenzapride')"
+S"(198, u'\\\\bcisapride')"
 p32
-aS"(205, u'\\\\bmosapride')"
+aS"(203, u'\\\\brenzapride')"
 p33
-aS"(202, u'\\\\bcisapride')"
+aS"(201, u'\\\\bmosapride')"
 p34
 atp35
 Rp36
@@ -64,26 +64,14 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5958, u'(?i)(rats|rat)')"
+S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p39
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p41
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p42
-aS"(3062, u'(?i)(guineas|guinea)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(1414, u'(?i)(chars|char)')"
-p46
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-atp49
-Rp50
+atp43
+Rp44
 sb.

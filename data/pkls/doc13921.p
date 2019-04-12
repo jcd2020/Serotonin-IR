@@ -46,68 +46,48 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(374, u'(?i)(duras|dura)(-|\\\\s+)?(maters|mater)')"
+S"(374, u'(?i)\\\\b(duras|dura)(-|\\\\s+)?(maters|mater)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V1996
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(103, u'\\\\bsumatriptan')"
+((lp34
+S"(96, u'\\\\bsumatriptan')"
+p35
+aS"(100, u'\\\\bcp ?93129')"
 p36
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(25, u'\\\\bdihydroergotamine')"
 p37
-aS"(5, u'\\\\b5 ?ct')"
+aS"(102, u'\\\\bcp ?122288')"
 p38
-aS"(107, u'\\\\bcp ?93129')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p39
-aS"(29, u'\\\\bdihydroergotamine')"
+aS"(219, u'\\\\b5 ?ct')"
 p40
-aS"(109, u'\\\\bcp ?122288')"
-p41
-atp42
-Rp43
+atp41
+Rp42
 sS'species'
-p44
+p43
 g3
-((lp45
-S"(6249, u'(?i)(ants|ant)')"
+((lp44
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p45
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p46
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p47
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p48
-aS"(6642, u'(?i)(lions|lion)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p49
-aS"(6682, u'(?i)(tera|teras)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p50
-aS"(3051, u'(?i)(pigs|pig)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(3062, u'(?i)(guineas|guinea)')"
-p53
-aS"(3726, u'(?i)(mates|mate)')"
-p54
-aS"(853, u'(?i)(minas|mina)')"
-p55
-aS"(2395, u'(?i)(mutants|mutant)')"
-p56
-aS"(3522, u'(?i)(tetras|tetra)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p59
-aS"(5743, u'(?i)(bots|bot)')"
-p60
-atp61
-Rp62
+atp51
+Rp52
 sb.

@@ -52,44 +52,30 @@ sS'regions'
 p29
 g3
 ((lp30
-S"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+tp31
+Rp32
 sS'year'
-p34
+p33
 V1992
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(74, u'\\\\bru ?24969')"
+((lp36
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p37
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p38
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(67, u'\\\\bru ?24969')"
 p39
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(7609, u'(?i)(erns|ern)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(1683, u'(?i)(terns|tern)')"
-p51
-atp52
-Rp53
+((lp43
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

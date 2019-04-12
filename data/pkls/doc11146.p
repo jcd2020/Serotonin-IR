@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\byohimbine')"
+S"(194, u'\\\\bmethysergide')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(33, u'\\\\byohimbine')"
 p6
 atp7
 Rp8
@@ -46,7 +46,7 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
 atp29
 Rp30
@@ -58,11 +58,11 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(89, u'\\\\byohimbine')"
+S"(53, u'\\\\bmethysergide')"
 p35
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-aS"(60, u'\\\\bmethysergide')"
+aS"(82, u'\\\\byohimbine')"
 p37
 atp38
 Rp39
@@ -70,34 +70,12 @@ sS'species'
 p40
 g3
 ((lp41
-S"(6753, u'(?i)(da|das)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p43
-aS"(5743, u'(?i)(bots|bot)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(4091, u'(?i)(adults|adult)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(2942, u'(?i)(daws|daw)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(3522, u'(?i)(tetras|tetra)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(2809, u'(?i)(toms|tom)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+atp45
+Rp46
 sb.

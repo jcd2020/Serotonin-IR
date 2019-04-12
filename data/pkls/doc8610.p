@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(81, u'\\\\bagomelatine')"
+S"(72, u'\\\\bagomelatine')"
 p5
 atp6
 Rp7
@@ -48,66 +48,36 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p29
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p30
-aS"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2003
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(147, u'\\\\bro60 ?0175')"
-p39
-atp40
-Rp41
+((lp37
+S"(141, u'\\\\bro60 ?0175')"
+p38
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(1070, u'(?i)(pets|pet)')"
+((lp42
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p43
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p45
-aS"(867, u'(?i)(tits|tit)')"
-p46
-aS"(7604, u'(?i)(cyclop|cyclops)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(1686, u'(?i)(gibs|gib)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(3404, u'(?i)(titis|titi)')"
-p53
-aS"(2334, u'(?i)(eels|eel)')"
-p54
-aS"(5176, u'(?i)(tegs|teg)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(1057, u'(?i)(humans|human)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-aS"(3196, u'(?i)(human|humans)')"
-p60
-atp61
-Rp62
+atp46
+Rp47
 sb.

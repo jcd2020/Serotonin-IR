@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(161, u'\\\\bmcpp')"
+S"(155, u'\\\\bmcpp')"
 p30
 atp31
 Rp32
@@ -56,36 +56,12 @@ sS'species'
 p33
 g3
 ((lp34
-S"(6249, u'(?i)(ants|ant)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p35
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(5967, u'(?i)(males|male)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(5131, u'(?i)(hags|hag)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(7058, u'(?i)(does|doe)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+atp38
+Rp39
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(204, u'\\\\bsb ?269970')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(205, u'\\\\bsb ?656104 ?a')"
+aS"(199, u'\\\\bsb ?656104 ?a')"
 p6
 atp7
 Rp8
@@ -50,9 +50,9 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p30
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
 atp32
 Rp33
@@ -70,40 +70,8 @@ sS'species'
 p40
 g3
 ((lp41
-S"(2323, u'(?i)(bees|bee)')"
+S"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
 p42
-aS"(4624, u'(?i)(apes|ape)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(4163, u'(?i)(ermines|ermine)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(5131, u'(?i)(hags|hag)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(7094, u'(?i)(curs|cur)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(1949, u'(?i)(pacemakers|pacemaker)')"
-p55
-aS"(5537, u'(?i)(hippos|hippo)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(5783, u'(?i)(hinds|hind)')"
-p58
-atp59
-Rp60
+atp43
+Rp44
 sb.

@@ -8,126 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(52, u'\\\\bmetergoline')"
+S"(34, u'\\\\bmetergoline')"
 p5
 aS"(9, u'\\\\bgr ?46611')"
 p6
-aS"(35, u'\\\\bmetergoline')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(3, u'\\\\bsleep')"
-p18
+p17
 aS"(16, u'\\\\bfeed')"
-p19
+p18
 aS"(4, u'\\\\blocomot')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht1b'
-p25
+p24
 aS'5ht1a'
-p26
+p25
 aS'5ht2'
-p27
+p26
 aS'5ht1'
-p28
+p27
 aS'5ht1d'
-p29
-atp30
-Rp31
+p28
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp32
+S"(390, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)\\\\b')"
+p33
+aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p34
-aS"(174, u'(?i)(posteriors|posterior)')"
-p35
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p36
-aS"(390, u'(?i)(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)')"
-p37
-aS"(34, u'(?i)(pon|pons)')"
-p38
-atp39
-Rp40
+atp35
+Rp36
 sS'year'
-p41
+p37
 V2007
-p42
+p38
 sS'agonists'
-p43
+p39
 g3
-((lp44
-S"(119, u'\\\\bgr ?46611')"
-p45
-atp46
-Rp47
+((lp40
+S"(112, u'\\\\bgr ?46611')"
+p41
+atp42
+Rp43
 sS'species'
-p48
+p44
 g3
-((lp49
-S"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(5626, u'(?i)(posters|poster)')"
-p51
-aS"(5799, u'(?i)(rodents|rodent)')"
-p52
-aS"(2568, u'(?i)(hens|hen)')"
-p53
-aS"(1454, u'(?i)(doves|dove)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(6753, u'(?i)(da|das)')"
-p57
-aS"(3051, u'(?i)(pigs|pig)')"
-p58
-aS"(6682, u'(?i)(tera|teras)')"
-p59
-aS"(1055, u'(?i)(men|man)')"
-p60
-aS"(5131, u'(?i)(hags|hag)')"
-p61
-aS"(3592, u'(?i)(ravens|raven)')"
-p62
-aS"(6215, u'(?i)(racers|racer)')"
-p63
-aS"(4979, u'(?i)(cats|cat)')"
-p64
-aS"(3550, u'(?i)(anis|ani)')"
-p65
-aS"(3812, u'(?i)(studs|stud)')"
-p66
-aS"(6391, u'(?i)(asses|ass)')"
-p67
-aS"(4661, u'(?i)(hacks|hack)')"
-p68
-aS"(1312, u'(?i)(pigeons|pigeon)')"
-p69
-aS"(6356, u'(?i)(ais|ai)')"
-p70
-atp71
-Rp72
+((lp45
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p46
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p47
+aS"(1312, u'(?i)\\\\b(pigeons|pigeon)\\\\b')"
+p48
+atp49
+Rp50
 sb.

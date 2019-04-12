@@ -44,50 +44,28 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2012
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p34
-atp35
-Rp36
+((lp32
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(2323, u'(?i)(bees|bee)')"
+((lp37
+S"(5747, u'(?i)\\\\b(toadfish|toadfish)\\\\b')"
+p38
+aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
 p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(3230, u'(?i)(crows|crow)')"
-p41
-aS"(4657, u'(?i)(fish|fish)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(5747, u'(?i)(toadfish|toadfish)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(5838, u'(?i)(cubs|cub)')"
-p47
-aS"(7552, u'(?i)(bats|bat)')"
-p48
-aS"(1396, u'(?i)(toads|toad)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp40
+Rp41
 sb.

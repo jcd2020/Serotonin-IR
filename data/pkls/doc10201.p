@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(30, u'\\\\bway ?100135')"
 p5
-aS"(31, u'\\\\bway ?100135')"
+aS"(133, u'\\\\bmianserin')"
 p6
-aS"(117, u'\\\\bmianserin')"
+aS"(203, u'\\\\btfmpp')"
 p7
 aS"(22, u'\\\\bpropranolol')"
 p8
@@ -54,64 +54,34 @@ sS'regions'
 p30
 g3
 ((lp31
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p32
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p33
-aS"(90, u'(?i)(tegmentums|tegmentum)')"
+aS"(90, u'(?i)\\\\b(tegmentums|tegmentum)\\\\b')"
 p34
-aS"(34, u'(?i)(pon|pons)')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'year'
-p38
+p37
 V1996
-p39
+p38
 sS'agonists'
-p40
+p39
 g3
-((lp41
-S"(74, u'\\\\bru ?24969')"
+((lp40
+S"(178, u'\\\\btfmpp')"
+p41
+aS"(67, u'\\\\bru ?24969')"
 p42
-aS"(183, u'\\\\btfmpp')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sS'species'
-p46
+p45
 g3
-((lp47
-S"(5176, u'(?i)(tegs|teg)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(479, u'(?i)(lings|ling)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(3592, u'(?i)(ravens|raven)')"
-p53
-aS"(7094, u'(?i)(curs|cur)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(4964, u'(?i)(serins|serin)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(2809, u'(?i)(toms|tom)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-aS"(4133, u'(?i)(pikes|pike)')"
-p62
-atp63
-Rp64
+((lp46
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

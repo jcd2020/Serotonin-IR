@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
 atp6
 Rp7
@@ -34,66 +34,44 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht3'
 p21
-aS'5ht3'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+((lp25
+tp26
+Rp27
 sS'year'
-p30
+p28
 V1997
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(149, u'\\\\bmem')"
 p32
-g3
-((lp33
-S"(155, u'\\\\bmem')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(6753, u'(?i)(da|das)')"
+((lp36
+S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
+p37
+aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
+p38
+aS"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
 p39
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p40
-aS"(4979, u'(?i)(cats|cat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p41
-aS"(2389, u'(?i)(spats|spat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(4597, u'(?i)(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(1057, u'(?i)(humans|human)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(3196, u'(?i)(human|humans)')"
-p49
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(4596, u'(?i)(rhesuses|rhesus)')"
-p52
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p53
-atp54
-Rp55
+atp43
+Rp44
 sb.

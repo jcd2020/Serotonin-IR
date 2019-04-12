@@ -40,68 +40,42 @@ g3
 ((lp22
 S'5ht3a'
 p23
-aS'5ht5'
-p24
 aS'5ht4'
-p25
+p24
 aS'5ht3'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+((lp29
+S"(290, u'(?i)\\\\b(insulars|insular)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p30
+aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p31
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p32
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p33
-aS"(290, u'(?i)(insulars|insular)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p34
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'year'
-p38
+p37
 V2015
-p39
+p38
 sS'agonists'
-p40
+p39
 g3
-((lp41
-tp42
-Rp43
+((lp40
+tp41
+Rp42
 sS'species'
-p44
+p43
 g3
-((lp45
-S"(5176, u'(?i)(tegs|teg)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(3601, u'(?i)(efts|eft)')"
-p48
-aS"(2431, u'(?i)(rheas|rhea)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(853, u'(?i)(minas|mina)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(2809, u'(?i)(toms|tom)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-atp58
-Rp59
+((lp44
+tp45
+Rp46
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(108, u'\\\\bfluphenazine')"
 p5
-aS"(120, u'\\\\bfluphenazine')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
 atp7
 Rp8
@@ -42,66 +42,38 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(157, u'(?i)(limbics|limbic)(-|\\\\s+)?(systems|system)')"
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p26
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p27
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp28
+Rp29
 sS'year'
-p32
+p30
 V1987
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(176, u'\\\\bdom')"
 p34
-g3
-((lp35
-S"(181, u'\\\\bdom')"
+aS"(210, u'\\\\bsulpiride')"
+p35
+aS"(11, u'\\\\bamphetamine')"
 p36
-aS"(48, u'\\\\bhaloperidol')"
+aS"(43, u'\\\\bhaloperidol')"
 p37
-aS"(14, u'\\\\bamphetamine')"
-p38
-aS"(214, u'\\\\bsulpiride')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(4624, u'(?i)(apes|ape)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(3601, u'(?i)(efts|eft)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(853, u'(?i)(minas|mina)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(7094, u'(?i)(curs|cur)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p57
-atp58
-Rp59
+((lp41
+S"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

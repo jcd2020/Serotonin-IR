@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(204, u'\\\\bsb ?269970')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(45, u'\\\\bgr ?127935')"
+aS"(198, u'\\\\bsb ?269970')"
 p6
 atp7
 Rp8
@@ -44,64 +44,32 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(374, u'(?i)(duras|dura)(-|\\\\s+)?(maters|mater)')"
+S"(374, u'(?i)\\\\b(duras|dura)(-|\\\\s+)?(maters|mater)\\\\b')"
 p27
-aS"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2009
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
+((lp34
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p35
+aS"(219, u'\\\\b5 ?ct')"
 p36
-aS"(5, u'\\\\b5 ?ct')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(2323, u'(?i)(bees|bee)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(3636, u'(?i)(martins|martin)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(2183, u'(?i)(gars|gar)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(2453, u'(?i)(topis|topi)')"
-p50
-aS"(3592, u'(?i)(ravens|raven)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(3726, u'(?i)(mates|mate)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

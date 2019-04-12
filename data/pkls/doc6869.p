@@ -28,64 +28,34 @@ g3
 ((lp16
 S'5ht1a'
 p17
-aS'5ht5'
-p18
 aS'5ht2a'
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-tp24
-Rp25
+((lp22
+tp23
+Rp24
 sS'year'
-p26
+p25
 V1999
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(6249, u'(?i)(ants|ant)')"
+((lp32
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p33
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p34
-aS"(3404, u'(?i)(titis|titi)')"
-p35
-aS"(6753, u'(?i)(da|das)')"
-p36
-aS"(2568, u'(?i)(hens|hen)')"
-p37
-aS"(867, u'(?i)(tits|tit)')"
-p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(5967, u'(?i)(males|male)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(4462, u'(?i)(monals|monal)')"
-p43
-aS"(1349, u'(?i)(rams|ram)')"
-p44
-aS"(4964, u'(?i)(serins|serin)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(2809, u'(?i)(toms|tom)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+atp35
+Rp36
 sb.

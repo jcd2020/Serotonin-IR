@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bquetiapine')"
+S"(50, u'\\\\bquetiapine')"
 p5
-aS"(125, u'\\\\bquetiapine')"
+aS"(112, u'\\\\bquetiapine')"
 p6
 atp7
 Rp8
@@ -38,68 +38,44 @@ sS'receptors'
 p21
 g3
 ((lp22
-S'5ht5'
+S'5ht2a'
 p23
-aS'5ht2a'
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp27
+S"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p33
+p31
 V2013
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(64, u'\\\\bquetiapine')"
 p35
-g3
-((lp36
-S"(71, u'\\\\bquetiapine')"
-p37
-atp38
-Rp39
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(1070, u'(?i)(pets|pet)')"
+((lp39
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p40
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p41
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p43
-aS"(6753, u'(?i)(da|das)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p44
-aS"(7127, u'(?i)(monitors|monitor)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3726, u'(?i)(mates|mate)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(1057, u'(?i)(humans|human)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(3196, u'(?i)(human|humans)')"
-p53
-aS"(2809, u'(?i)(toms|tom)')"
-p54
-aS"(6325, u'(?i)(caudates|caudate)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-atp57
-Rp58
+atp45
+Rp46
 sb.

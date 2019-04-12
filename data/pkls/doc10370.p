@@ -32,70 +32,40 @@ g3
 ((lp18
 S'5ht1a'
 p19
-aS'5ht5'
-p20
 aS'5ht2a'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+((lp24
+S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p25
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(259, u'(?i)\\\\b(middles|middle)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p27
-aS"(259, u'(?i)(middles|middle)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(gyruses|gyrus)')"
-p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp28
+Rp29
 sS'year'
-p32
+p30
 V2016
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(63, u'\\\\bpsilocybin')"
 p34
-g3
-((lp35
-S"(70, u'\\\\bpsilocybin')"
-p36
-atp37
-Rp38
+atp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(81, u'(?i)(asps|asp)')"
-p44
-aS"(6682, u'(?i)(tera|teras)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(2334, u'(?i)(eels|eel)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(4371, u'(?i)(lizas|liza)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+((lp38
+S"(81, u'(?i)\\\\b(asps|asp)\\\\b')"
+p39
+atp40
+Rp41
 sb.

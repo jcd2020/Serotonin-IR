@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(203, u'\\\\btfmpp')"
 p5
 aS"(11, u'\\\\bisamoltane')"
 p6
@@ -48,7 +48,7 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p29
 atp30
 Rp31
@@ -60,11 +60,11 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(161, u'\\\\bmcpp')"
+S"(178, u'\\\\btfmpp')"
 p36
-aS"(196, u'\\\\bquipazine')"
+aS"(192, u'\\\\bquipazine')"
 p37
-aS"(183, u'\\\\btfmpp')"
+aS"(155, u'\\\\bmcpp')"
 p38
 atp39
 Rp40
@@ -72,34 +72,12 @@ sS'species'
 p41
 g3
 ((lp42
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p43
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(1883, u'(?i)\\\\b(calves|calf)\\\\b')"
 p44
-aS"(4979, u'(?i)(cats|cat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(4163, u'(?i)(ermines|ermine)')"
-p46
-aS"(1883, u'(?i)(calves|calf)')"
-p47
-aS"(3051, u'(?i)(pigs|pig)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(853, u'(?i)(minas|mina)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(6682, u'(?i)(tera|teras)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+atp46
+Rp47
 sb.

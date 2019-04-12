@@ -8,98 +8,70 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(59, u'\\\\brisperidone')"
+aS"(113, u'\\\\brisperidone')"
 p6
-aS"(102, u'\\\\bfluoxetine')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
-S'5ht5'
-p22
-aS'5ht1a'
-p23
+((lp20
+S'5ht1a'
+p21
 aS'5ht2'
-p24
+p22
 aS'5ht2a'
-p25
-atp26
-Rp27
+p23
+atp24
+Rp25
 sS'regions'
-p28
+p26
 g3
-((lp29
-tp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V2011
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(20, u'\\\\bbuspirone')"
 p34
-g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(149, u'\\\\bmem')"
+p35
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-aS"(24, u'\\\\bbuspirone')"
-p37
-aS"(155, u'\\\\bmem')"
-p38
-atp39
-Rp40
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(1070, u'(?i)(pets|pet)')"
-p43
-aS"(3404, u'(?i)(titis|titi)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(867, u'(?i)(tits|tit)')"
-p46
-aS"(163, u'(?i)(mice|mouse)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(4091, u'(?i)(adults|adult)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(1054, u'(?i)(homoes|homo)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(5537, u'(?i)(hippos|hippo)')"
-p56
-atp57
-Rp58
+((lp40
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p41
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p42
+atp43
+Rp44
 sb.

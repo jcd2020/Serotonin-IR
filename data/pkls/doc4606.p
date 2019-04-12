@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(27, u'\\\\bspiperone')"
+S"(26, u'\\\\bspiperone')"
 p5
 atp6
 Rp7
@@ -48,42 +48,28 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p29
-atp30
-Rp31
+tp29
+Rp30
 sS'year'
-p32
+p31
 V1996
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(161, u'\\\\bmcpp')"
+((lp34
+S"(155, u'\\\\bmcpp')"
+p35
+aS"(67, u'\\\\bru ?24969')"
 p36
-aS"(74, u'\\\\bru ?24969')"
+aS"(175, u'\\\\bdoi')"
 p37
-aS"(33, u'\\\\bdoi')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(1349, u'(?i)(rams|ram)')"
-p44
-aS"(5131, u'(?i)(hags|hag)')"
-p45
-aS"(3592, u'(?i)(ravens|raven)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-atp49
-Rp50
+((lp41
+tp42
+Rp43
 sb.

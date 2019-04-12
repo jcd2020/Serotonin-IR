@@ -56,30 +56,14 @@ sS'species'
 p33
 g3
 ((lp34
-S"(1070, u'(?i)(pets|pet)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p35
-aS"(2323, u'(?i)(bees|bee)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p37
-aS"(6125, u'(?i)(females|female)')"
+aS"(3527, u'(?i)\\\\b(permits|permit)\\\\b')"
 p38
-aS"(3527, u'(?i)(permits|permit)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(5967, u'(?i)(males|male)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(7094, u'(?i)(curs|cur)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(2809, u'(?i)(toms|tom)')"
-p46
-atp47
-Rp48
+atp39
+Rp40
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(61, u'\\\\bmdl ?100907')"
+S"(97, u'\\\\bsb ?200646')"
 p5
-aS"(93, u'\\\\bsb ?200646')"
+aS"(52, u'\\\\bmdl ?100907')"
 p6
 atp7
 Rp8
@@ -54,9 +54,9 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(196, u'\\\\bquipazine')"
+S"(166, u'\\\\bmk ?212')"
 p33
-aS"(172, u'\\\\bmk ?212')"
+aS"(192, u'\\\\bquipazine')"
 p34
 atp35
 Rp36
@@ -64,24 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(2568, u'(?i)(hens|hen)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(5967, u'(?i)(males|male)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-atp48
-Rp49
+atp40
+Rp41
 sb.

@@ -56,26 +56,10 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2568, u'(?i)(hens|hen)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p35
-aS"(5917, u'(?i)(roaches|roach)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p36
-aS"(4201, u'(?i)(kines|kine)')"
-p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(1057, u'(?i)(humans|human)')"
-p41
-aS"(5229, u'(?i)(moles|mole)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(3196, u'(?i)(human|humans)')"
-p44
-atp45
-Rp46
+atp37
+Rp38
 sb.

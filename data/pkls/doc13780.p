@@ -36,66 +36,44 @@ g3
 ((lp20
 S'5ht1b'
 p21
-aS'5ht5'
+aS'5ht1a'
 p22
 aS'5ht2c'
 p23
-aS'5ht1a'
-p24
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(24, u'(?i)(intercalateds|intercalated)(-|\\\\s+)?(nuclei|nucleus)')"
-p30
-atp31
-Rp32
+((lp28
+S"(24, u'(?i)\\\\b(intercalateds|intercalated)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p33
+p32
 V1994
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp35
+S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+p36
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p37
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+aS"(175, u'\\\\bdoi')"
 p38
-aS"(33, u'\\\\bdoi')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(853, u'(?i)(minas|mina)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6642, u'(?i)(lions|lion)')"
-p54
-atp55
-Rp56
+((lp42
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

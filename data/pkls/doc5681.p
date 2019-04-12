@@ -38,11 +38,11 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
+aS"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p25
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,34 +60,8 @@ sS'species'
 p35
 g3
 ((lp36
-S"(6249, u'(?i)(ants|ant)')"
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p37
-aS"(7609, u'(?i)(erns|ern)')"
-p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(1169, u'(?i)(grades|grade)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(2665, u'(?i)(rays|ray)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(7610, u'(?i)(ernes|erne)')"
-p47
-aS"(4177, u'(?i)(grays|gray)')"
-p48
-aS"(1683, u'(?i)(terns|tern)')"
-p49
-aS"(5949, u'(?i)(dogs|dog)')"
-p50
-atp51
-Rp52
+atp38
+Rp39
 sb.

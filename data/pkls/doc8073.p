@@ -52,9 +52,9 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(74, u'\\\\bru ?24969')"
+S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p32
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+aS"(67, u'\\\\bru ?24969')"
 p33
 atp34
 Rp35
@@ -62,36 +62,10 @@ sS'species'
 p36
 g3
 ((lp37
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(4301, u'(?i)(hydras|hydra)')"
+aS"(3636, u'(?i)\\\\b(martins|martin)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(3636, u'(?i)(martins|martin)')"
-p41
-aS"(867, u'(?i)(tits|tit)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6215, u'(?i)(racers|racer)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(3522, u'(?i)(tetras|tetra)')"
-p51
-aS"(7094, u'(?i)(curs|cur)')"
-p52
-atp53
-Rp54
+atp40
+Rp41
 sb.

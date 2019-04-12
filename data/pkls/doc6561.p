@@ -40,70 +40,34 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2006
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(153, u'\\\\bmdma')"
+((lp30
+S"(99, u'\\\\bcgs ?12066a')"
+p31
+aS"(147, u'\\\\bmdma')"
 p32
-aS"(106, u'\\\\bcgs ?12066a')"
+aS"(101, u'\\\\bcp ?94253')"
 p33
-aS"(108, u'\\\\bcp ?94253')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(6753, u'(?i)(da|das)')"
+((lp37
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+aS"(4520, u'(?i)\\\\b(agoutis|agouti)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(7609, u'(?i)(erns|ern)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(6580, u'(?i)(dams|dam)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(4371, u'(?i)(lizas|liza)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(3431, u'(?i)(roans|roan)')"
-p55
-aS"(2809, u'(?i)(toms|tom)')"
-p56
-aS"(1683, u'(?i)(terns|tern)')"
-p57
-aS"(4520, u'(?i)(agoutis|agouti)')"
-p58
-atp59
-Rp60
+atp41
+Rp42
 sb.

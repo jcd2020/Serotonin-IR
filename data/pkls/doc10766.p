@@ -48,9 +48,9 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(163, u'\\\\bdmt')"
+S"(157, u'\\\\bdmt')"
 p30
-aS"(237, u'\\\\bnn ?dimethyltryptamine')"
+aS"(235, u'\\\\bnn ?dimethyltryptamine')"
 p31
 atp32
 Rp33
@@ -58,40 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(2568, u'(?i)(hens|hen)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p37
-aS"(6391, u'(?i)(asses|ass)')"
-p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(2725, u'(?i)(mokes|moke)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(2665, u'(?i)(rays|ray)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(1057, u'(?i)(humans|human)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(1414, u'(?i)(chars|char)')"
-p49
-aS"(3196, u'(?i)(human|humans)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(7127, u'(?i)(monitors|monitor)')"
-p52
-atp53
-Rp54
+atp38
+Rp39
 sb.

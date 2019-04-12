@@ -36,13 +36,13 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p23
-aS"(224, u'(?i)(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p24
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p33
 atp34
 Rp35
@@ -62,30 +62,10 @@ sS'species'
 p36
 g3
 ((lp37
-S"(4624, u'(?i)(apes|ape)')"
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
+aS"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(6857, u'(?i)(ormers|ormer)')"
-p41
-aS"(4201, u'(?i)(kines|kine)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6325, u'(?i)(caudates|caudate)')"
-p48
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p49
-atp50
-Rp51
+atp40
+Rp41
 sb.

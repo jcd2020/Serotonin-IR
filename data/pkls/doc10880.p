@@ -34,9 +34,9 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p22
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p23
 atp24
 Rp25
@@ -54,24 +54,8 @@ sS'species'
 p32
 g3
 ((lp33
-S"(5958, u'(?i)(rats|rat)')"
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p34
-aS"(6753, u'(?i)(da|das)')"
-p35
-aS"(6682, u'(?i)(tera|teras)')"
-p36
-aS"(1055, u'(?i)(men|man)')"
-p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(5229, u'(?i)(moles|mole)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(6325, u'(?i)(caudates|caudate)')"
-p42
-atp43
-Rp44
+atp35
+Rp36
 sb.

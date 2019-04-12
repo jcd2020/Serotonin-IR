@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,30 +58,14 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
 p36
-aS"(3248, u'(?i)(offspring|offspring)')"
+aS"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
 p37
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(1651, u'(?i)\\\\b(huntings|hunting)(-|\\\\s+)?(dogs|dog)\\\\b')"
 p38
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(3726, u'(?i)(mates|mate)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(1651, u'(?i)(huntings|hunting)(-|\\\\s+)?(dogs|dog)')"
-p45
-aS"(1683, u'(?i)(terns|tern)')"
-p46
-aS"(5949, u'(?i)(dogs|dog)')"
-p47
-atp48
-Rp49
+atp40
+Rp41
 sb.

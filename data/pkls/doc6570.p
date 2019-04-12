@@ -44,9 +44,9 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(40, u'(?i)(abducen|abducens)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(40, u'(?i)\\\\b(abducen|abducens)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
-aS"(43, u'(?i)(vestibulars|vestibular)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(43, u'(?i)\\\\b(vestibulars|vestibular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
 atp29
 Rp30
@@ -58,11 +58,11 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(161, u'\\\\bmcpp')"
+S"(155, u'\\\\bmcpp')"
 p35
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-aS"(33, u'\\\\bdoi')"
+aS"(175, u'\\\\bdoi')"
 p37
 atp38
 Rp39
@@ -70,28 +70,8 @@ sS'species'
 p40
 g3
 ((lp41
-S"(2568, u'(?i)(hens|hen)')"
+S"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3522, u'(?i)(tetras|tetra)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(4133, u'(?i)(pikes|pike)')"
-p52
-atp53
-Rp54
+atp43
+Rp44
 sb.

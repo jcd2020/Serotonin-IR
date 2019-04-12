@@ -30,54 +30,34 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht1d'
 p19
-aS'5ht1d'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+((lp23
+tp24
+Rp25
 sS'year'
-p28
+p26
 V2001
-p29
+p27
 sS'agonists'
+p28
+g3
+((lp29
+S"(97, u'\\\\bzolmitriptan')"
 p30
-g3
-((lp31
-S"(104, u'\\\\bzolmitriptan')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'species'
-p35
+p33
 g3
-((lp36
-S"(2323, u'(?i)(bees|bee)')"
-p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(3767, u'(?i)(olms|olm)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(4046, u'(?i)(brits|brit)')"
-p42
-aS"(125, u'(?i)(whales|whale)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-atp46
-Rp47
+((lp34
+S"(125, u'(?i)\\\\b(whales|whale)\\\\b')"
+p35
+atp36
+Rp37
 sb.

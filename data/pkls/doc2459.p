@@ -34,76 +34,42 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(85, u'(?i)(tectums|tectum)')"
+S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
 p22
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p23
-aS"(89, u'(?i)(pretectums|pretectum)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p24
-aS"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+aS"(125, u'(?i)\\\\b(subcommissurals|subcommissural)(-|\\\\s+)?(organs|organ)\\\\b')"
 p25
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(89, u'(?i)\\\\b(pretectums|pretectum)\\\\b')"
 p26
-aS"(125, u'(?i)(subcommissurals|subcommissural)(-|\\\\s+)?(organs|organ)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2013
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(1070, u'(?i)(pets|pet)')"
+((lp36
+S"(2877, u'(?i)\\\\b(seas|sea)(-|\\\\s+)?(lampreys|lamprey)\\\\b')"
+p37
+aS"(2621, u'(?i)\\\\b(vertebrates|vertebrate)\\\\b')"
 p38
-aS"(7309, u'(?i)(gnats|gnat)')"
+aS"(2223, u'(?i)\\\\b(lampreys|lamprey)\\\\b')"
 p39
-aS"(2621, u'(?i)(vertebrates|vertebrate)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p40
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(2610, u'(?i)\\\\b(gnathostomes|gnathostome)\\\\b')"
 p41
-aS"(702, u'(?i)(genets|genet)')"
-p42
-aS"(2610, u'(?i)(gnathostomes|gnathostome)')"
-p43
-aS"(4091, u'(?i)(adults|adult)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(107, u'(?i)(stags|stag)')"
-p48
-aS"(2877, u'(?i)(seas|sea)(-|\\\\s+)?(lampreys|lamprey)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(3529, u'(?i)(larvas|larva)')"
-p51
-aS"(2809, u'(?i)(toms|tom)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-aS"(7609, u'(?i)(erns|ern)')"
-p54
-aS"(391, u'(?i)(alli|allis)')"
-p55
-aS"(1538, u'(?i)(preys|prey)')"
-p56
-aS"(2223, u'(?i)(lampreys|lamprey)')"
-p57
-aS"(1683, u'(?i)(terns|tern)')"
-p58
-atp59
-Rp60
+atp42
+Rp43
 sb.

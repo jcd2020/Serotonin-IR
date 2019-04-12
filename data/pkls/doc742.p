@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(139, u'\\\\bmetoclopramide')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(194, u'\\\\bmethysergide')"
 p6
-aS"(141, u'\\\\bzacopride')"
+aS"(130, u'\\\\bzacopride')"
 p7
 atp8
 Rp9
@@ -50,11 +50,11 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p30
-aS"(32, u'(?i)(hypoglossals|hypoglossal)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p31
-aS"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
+aS"(32, u'(?i)\\\\b(hypoglossals|hypoglossal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p32
 atp33
 Rp34
@@ -66,11 +66,11 @@ sS'agonists'
 p37
 g3
 ((lp38
-S"(212, u'\\\\bzacopride')"
+S"(209, u'\\\\bmetoclopramide')"
 p39
-aS"(60, u'\\\\bmethysergide')"
+aS"(208, u'\\\\bzacopride')"
 p40
-aS"(213, u'\\\\bmetoclopramide')"
+aS"(53, u'\\\\bmethysergide')"
 p41
 atp42
 Rp43
@@ -78,32 +78,12 @@ sS'species'
 p44
 g3
 ((lp45
-S"(1070, u'(?i)(pets|pet)')"
+S"(81, u'(?i)\\\\b(asps|asp)\\\\b')"
 p46
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p47
-aS"(81, u'(?i)(asps|asp)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(1054, u'(?i)(homoes|homo)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(1057, u'(?i)(humans|human)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(3196, u'(?i)(human|humans)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(5783, u'(?i)(hinds|hind)')"
-p58
-atp59
-Rp60
+atp49
+Rp50
 sb.

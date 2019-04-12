@@ -8,136 +8,100 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(31, u'\\\\bway ?100635')"
 p6
-aS"(130, u'\\\\britanserin')"
+aS"(133, u'\\\\bmianserin')"
 p7
-aS"(14, u'\\\\bmethiothepin')"
+aS"(117, u'\\\\bketanserin')"
 p8
-aS"(123, u'\\\\bclozapine')"
+aS"(14, u'\\\\bmethiothepin')"
 p9
-aS"(56, u'\\\\bclozapine')"
+aS"(193, u'\\\\bmesulergine')"
 p10
-aS"(128, u'\\\\bketanserin')"
+aS"(43, u'\\\\bgr ?127935')"
 p11
-aS"(54, u'\\\\britanserin')"
+aS"(119, u'\\\\britanserin')"
 p12
-aS"(200, u'\\\\bmesulergine')"
-p13
-aS"(117, u'\\\\bmianserin')"
-p14
-aS"(45, u'\\\\bgr ?127935')"
-p15
-atp16
-Rp17
+atp13
+Rp14
 sS'methods'
-p18
+p15
 g3
-((lp19
+((lp16
 S'Method.ANTAGONIST'
-p20
+p17
 aS'Method.AGONIST'
-p21
-atp22
-Rp23
+p18
+atp19
+Rp20
 sS'topics'
-p24
+p21
 g3
-((lp25
-tp26
-Rp27
+((lp22
+tp23
+Rp24
 sS'receptors'
-p28
+p25
 g3
-((lp29
+((lp26
 S'5ht7'
-p30
+p27
 aS'5ht6'
-p31
+p28
 aS'5ht6a'
-p32
-atp33
-Rp34
+p29
+atp30
+Rp31
 sS'regions'
-p35
+p32
 g3
-((lp36
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
-p37
-aS"(34, u'(?i)(pon|pons)')"
-p38
-atp39
-Rp40
+((lp33
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+p34
+atp35
+Rp36
 sS'year'
-p41
+p37
 V1997
-p42
+p38
 sS'agonists'
+p39
+g3
+((lp40
+S"(220, u'\\\\b5 ?methoxytryptamine')"
+p41
+aS"(23, u'\\\\bclozapine')"
+p42
+aS"(96, u'\\\\bsumatriptan')"
 p43
-g3
-((lp44
-S"(103, u'\\\\bsumatriptan')"
+aS"(165, u'\\\\bmesulergine')"
+p44
+aS"(222, u'\\\\b5 ?meot')"
 p45
-aS"(74, u'\\\\bru ?24969')"
+aS"(175, u'\\\\bdoi')"
 p46
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(67, u'\\\\bru ?24969')"
 p47
-aS"(5, u'\\\\b5 ?ct')"
+aS"(198, u'\\\\bcisapride')"
 p48
-aS"(171, u'\\\\bmesulergine')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p49
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(176, u'\\\\bdom')"
 p50
-aS"(181, u'\\\\bdom')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p51
-aS"(202, u'\\\\bcisapride')"
+aS"(219, u'\\\\b5 ?ct')"
 p52
-aS"(27, u'\\\\bclozapine')"
-p53
-aS"(225, u'\\\\b5 ?meot')"
-p54
-aS"(33, u'\\\\bdoi')"
-p55
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p56
-atp57
-Rp58
+atp53
+Rp54
 sS'species'
-p59
+p55
 g3
-((lp60
-S"(6753, u'(?i)(da|das)')"
-p61
-aS"(5958, u'(?i)(rats|rat)')"
-p62
-aS"(6356, u'(?i)(ais|ai)')"
-p63
-aS"(2942, u'(?i)(daws|daw)')"
-p64
-aS"(479, u'(?i)(lings|ling)')"
-p65
-aS"(468, u'(?i)(oxen|ox)')"
-p66
-aS"(1055, u'(?i)(men|man)')"
-p67
-aS"(853, u'(?i)(minas|mina)')"
-p68
-aS"(6249, u'(?i)(ants|ant)')"
-p69
-aS"(3522, u'(?i)(tetras|tetra)')"
-p70
-aS"(1961, u'(?i)(pens|pen)')"
-p71
-aS"(1414, u'(?i)(chars|char)')"
-p72
-aS"(5743, u'(?i)(bots|bot)')"
-p73
-aS"(4979, u'(?i)(cats|cat)')"
-p74
-aS"(4964, u'(?i)(serins|serin)')"
-p75
-atp76
-Rp77
+((lp56
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p57
+atp58
+Rp59
 sb.

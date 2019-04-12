@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(39, u'\\\\bsb ?224289')"
+S"(38, u'\\\\bsb ?224289')"
 p5
 atp6
 Rp7
@@ -44,48 +44,28 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2004
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(108, u'\\\\bcp ?94253')"
-p34
-atp35
-Rp36
+((lp32
+S"(101, u'\\\\bcp ?94253')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(6249, u'(?i)(ants|ant)')"
+((lp37
+S"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+p38
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(7539, u'(?i)(mammals|mammal)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(1414, u'(?i)(chars|char)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(5949, u'(?i)(dogs|dog)')"
-p49
-atp50
-Rp51
+atp40
+Rp41
 sb.

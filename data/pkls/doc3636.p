@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(29, u'\\\\bspiroxatrine')"
+S"(133, u'\\\\bmianserin')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(28, u'\\\\bspiroxatrine')"
 p6
-aS"(117, u'\\\\bmianserin')"
+aS"(194, u'\\\\bmethysergide')"
 p7
 atp8
 Rp9
@@ -52,64 +52,38 @@ sS'regions'
 p29
 g3
 ((lp30
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p31
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p32
-aS"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'year'
-p37
+p36
 V1994
-p38
+p37
 sS'agonists'
-p39
+p38
 g3
-((lp40
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
+((lp39
+S"(219, u'\\\\b5 ?ct')"
+p40
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p41
-aS"(5, u'\\\\b5 ?ct')"
+aS"(53, u'\\\\bmethysergide')"
 p42
-aS"(60, u'\\\\bmethysergide')"
+aS"(175, u'\\\\bdoi')"
 p43
-aS"(33, u'\\\\bdoi')"
-p44
-atp45
-Rp46
+atp44
+Rp45
 sS'species'
-p47
+p46
 g3
-((lp48
-S"(5176, u'(?i)(tegs|teg)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(3726, u'(?i)(mates|mate)')"
-p55
-aS"(4964, u'(?i)(serins|serin)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(821, u'(?i)(lice|louse)')"
-p60
-aS"(7552, u'(?i)(bats|bat)')"
-p61
-atp62
-Rp63
+((lp47
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

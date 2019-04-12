@@ -28,60 +28,38 @@ g3
 ((lp16
 S'5ht1b'
 p17
-aS'5ht5'
-p18
 aS'5ht1d'
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-tp24
-Rp25
+((lp22
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2005
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(6753, u'(?i)(da|das)')"
+((lp32
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p33
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p34
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(2603, u'(?i)\\\\b(soldiers|soldier)\\\\b')"
 p35
-aS"(1049, u'(?i)(elands|eland)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p36
-aS"(4201, u'(?i)(kines|kine)')"
-p37
-aS"(5967, u'(?i)(males|male)')"
-p38
-aS"(1349, u'(?i)(rams|ram)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(2603, u'(?i)(soldiers|soldier)')"
-p42
-aS"(1057, u'(?i)(humans|human)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(3196, u'(?i)(human|humans)')"
-p46
-aS"(7552, u'(?i)(bats|bat)')"
-p47
-atp48
-Rp49
+atp37
+Rp38
 sb.

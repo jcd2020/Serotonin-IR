@@ -38,11 +38,11 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(216, u'(?i)(strias|stria)(-|\\\\s+)?(terminali|terminalis)')"
+S"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
 p24
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p25
-aS"(217, u'(?i)(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)')"
+aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p33
 atp34
 Rp35
@@ -62,30 +62,12 @@ sS'species'
 p36
 g3
 ((lp37
-S"(5626, u'(?i)(posters|poster)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
+aS"(1795, u'(?i)\\\\b(mounts|mount)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(5967, u'(?i)(males|male)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(7609, u'(?i)(erns|ern)')"
-p47
-aS"(1795, u'(?i)(mounts|mount)')"
-p48
-aS"(1683, u'(?i)(terns|tern)')"
-p49
-atp50
-Rp51
+atp41
+Rp42
 sb.

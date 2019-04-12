@@ -36,60 +36,28 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(6, u'(?i)(rostrals|rostral)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)')"
+S"(6, u'(?i)\\\\b(rostrals|rostral)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)\\\\b')"
 p23
-aS"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'year'
-p27
+p26
 V2003
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(195, u'\\\\bphenylbiguanide')"
-p31
-atp32
-Rp33
+((lp29
+S"(191, u'\\\\bphenylbiguanide')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(7610, u'(?i)(ernes|erne)')"
-p36
-aS"(2568, u'(?i)(hens|hen)')"
-p37
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(1414, u'(?i)(chars|char)')"
-p47
-aS"(7609, u'(?i)(erns|ern)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(6878, u'(?i)(guans|guan)')"
-p50
-aS"(5863, u'(?i)(entires|entire)')"
-p51
-atp52
-Rp53
+((lp34
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

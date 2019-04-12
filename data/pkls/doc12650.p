@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(114, u'\\\\bimipramine')"
+S"(104, u'\\\\bimipramine')"
 p5
 atp6
 Rp7
@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(121, u'(?i)(habenulars|habenular)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(121, u'(?i)\\\\b(habenulars|habenular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(169, u'(?i)(dorsomedials|dorsomedial)(-|\\\\s+)?(hypothalamics|hypothalamic)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(169, u'(?i)\\\\b(dorsomedials|dorsomedial)(-|\\\\s+)?(hypothalamics|hypothalamic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,22 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(1349, u'(?i)(rams|ram)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-atp44
-Rp45
+atp37
+Rp38
 sb.

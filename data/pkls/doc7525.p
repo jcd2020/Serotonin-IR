@@ -30,56 +30,34 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
-p19
-atp20
-Rp21
+tp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-tp24
-Rp25
+((lp22
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2010
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(1070, u'(?i)(pets|pet)')"
+((lp32
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p33
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p34
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p35
-aS"(5917, u'(?i)(roaches|roach)')"
-p36
-aS"(163, u'(?i)(mice|mouse)')"
-p37
-aS"(4091, u'(?i)(adults|adult)')"
-p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(1349, u'(?i)(rams|ram)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(3534, u'(?i)(scads|scad)')"
-p43
-aS"(3048, u'(?i)(hogs|hog)')"
-p44
-aS"(107, u'(?i)(stags|stag)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-atp47
-Rp48
+atp36
+Rp37
 sb.

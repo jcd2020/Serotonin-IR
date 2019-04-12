@@ -60,18 +60,6 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2323, u'(?i)(bees|bee)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(4163, u'(?i)(ermines|ermine)')"
-p39
-aS"(7094, u'(?i)(curs|cur)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-atp43
-Rp44
+tp37
+Rp38
 sb.

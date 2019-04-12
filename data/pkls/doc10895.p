@@ -8,80 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(133, u'\\\\bmianserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(89, u'\\\\beltoprazine')"
 p6
-aS"(100, u'\\\\beltoprazine')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(117, u'\\\\bmianserin')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1c'
-p23
+p22
 aS'5ht1b'
-p24
-aS'5ht5'
-p25
+p23
 aS'5ht2'
-p26
-atp27
-Rp28
+p24
+atp25
+Rp26
 sS'regions'
-p29
+p27
 g3
-((lp30
-tp31
-Rp32
+((lp28
+tp29
+Rp30
 sS'year'
-p33
+p31
 V1993
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(155, u'\\\\bmcpp')"
 p35
-g3
-((lp36
-S"(36, u'\\\\beltoprazine')"
-p37
-aS"(161, u'\\\\bmcpp')"
-p38
-atp39
-Rp40
+aS"(31, u'\\\\beltoprazine')"
+p36
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(4964, u'(?i)(serins|serin)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-atp48
-Rp49
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

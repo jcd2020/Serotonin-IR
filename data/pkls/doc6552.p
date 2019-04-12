@@ -8,112 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(29, u'\\\\bspiroxatrine')"
+aS"(203, u'\\\\btfmpp')"
 p6
-aS"(27, u'\\\\bspiperone')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(209, u'\\\\btfmpp')"
+aS"(28, u'\\\\bspiroxatrine')"
 p8
-aS"(128, u'\\\\bketanserin')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
+p13
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
+((lp18
 S"(26, u'\\\\bcardiovascular')"
-p20
+p19
 aS"(9, u'\\\\bdepress')"
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'receptors'
-p24
+p23
 g3
-((lp25
+((lp24
 S'5ht1b'
-p26
+p25
 aS'5ht1a'
+p26
+aS'5ht2'
 p27
 aS'5ht2a'
 p28
-aS'5ht5'
-p29
-aS'5ht2'
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'regions'
-p33
+p31
 g3
-((lp34
-tp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'year'
-p37
+p35
 V1990
-p38
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(178, u'\\\\btfmpp')"
 p39
-g3
-((lp40
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p40
+aS"(175, u'\\\\bdoi')"
 p41
-aS"(183, u'\\\\btfmpp')"
-p42
-aS"(33, u'\\\\bdoi')"
-p43
-atp44
-Rp45
+atp42
+Rp43
 sS'species'
-p46
+p44
 g3
-((lp47
-S"(2568, u'(?i)(hens|hen)')"
-p48
-aS"(4964, u'(?i)(serins|serin)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(1349, u'(?i)(rams|ram)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(5958, u'(?i)(rats|rat)')"
-p56
-aS"(3522, u'(?i)(tetras|tetra)')"
-p57
-aS"(7094, u'(?i)(curs|cur)')"
-p58
-aS"(1961, u'(?i)(pens|pen)')"
-p59
-aS"(1414, u'(?i)(chars|char)')"
-p60
-aS"(2809, u'(?i)(toms|tom)')"
-p61
-aS"(5743, u'(?i)(bots|bot)')"
-p62
-aS"(4979, u'(?i)(cats|cat)')"
-p63
-atp64
-Rp65
+((lp45
+tp46
+Rp47
 sb.

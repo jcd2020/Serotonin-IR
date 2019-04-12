@@ -36,46 +36,30 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p23
-aS"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'year'
-p27
+p26
 V1998
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p31
-atp32
-Rp33
+((lp29
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(1070, u'(?i)(pets|pet)')"
+((lp34
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p36
-aS"(5537, u'(?i)(hippos|hippo)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(3812, u'(?i)(studs|stud)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(1961, u'(?i)(pens|pen)')"
-p41
-aS"(3247, u'(?i)(youngs|young)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(4133, u'(?i)(pikes|pike)')"
-p44
-atp45
-Rp46
+atp37
+Rp38
 sb.

@@ -8,90 +8,60 @@ c__builtin__
 set
 p3
 ((lp4
-S"(57, u'\\\\bolanzapine')"
+S"(111, u'\\\\bolanzapine')"
 p5
-aS"(142, u'\\\\bm1')"
+aS"(131, u'\\\\bm1')"
 p6
-aS"(124, u'\\\\bolanzapine')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
-tp17
-Rp18
+((lp15
+tp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
-S'5ht5'
-p21
-aS'5ht2a'
-p22
-atp23
-Rp24
+((lp19
+S'5ht2a'
+p20
+atp21
+Rp22
 sS'regions'
-p25
+p23
 g3
-((lp26
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p27
-atp28
-Rp29
+((lp24
+tp25
+Rp26
 sS'year'
-p30
+p27
 V2013
-p31
+p28
 sS'agonists'
-p32
+p29
 g3
-((lp33
-S"(64, u'\\\\bolanzapine')"
-p34
-atp35
-Rp36
+((lp30
+S"(57, u'\\\\bolanzapine')"
+p31
+atp32
+Rp33
 sS'species'
-p37
+p34
 g3
-((lp38
-S"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(7609, u'(?i)(erns|ern)')"
-p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(5967, u'(?i)(males|male)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(1683, u'(?i)(terns|tern)')"
-p52
-atp53
-Rp54
+((lp35
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p36
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p37
+atp38
+Rp39
 sb.

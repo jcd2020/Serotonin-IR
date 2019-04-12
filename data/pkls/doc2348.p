@@ -38,74 +38,48 @@ aS'5ht1b'
 p21
 aS'5ht1a'
 p22
-aS'5ht5'
-p23
 aS'5ht1'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp27
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p33
+p31
 V2013
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(224, u'\\\\bas ?19')"
 p35
-g3
-((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(100, u'\\\\bcp ?93129')"
+p36
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p37
-aS"(5, u'\\\\b5 ?ct')"
+aS"(219, u'\\\\b5 ?ct')"
 p38
-aS"(226, u'\\\\bas ?19')"
-p39
-aS"(107, u'\\\\bcp ?93129')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(2323, u'(?i)(bees|bee)')"
+((lp42
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p43
+aS"(4096, u'(?i)\\\\b(chows|chow)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(4096, u'(?i)(chows|chow)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(479, u'(?i)(lings|ling)')"
-p50
-aS"(4163, u'(?i)(ermines|ermine)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(7094, u'(?i)(curs|cur)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(1057, u'(?i)(humans|human)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(3196, u'(?i)(human|humans)')"
-p59
-atp60
-Rp61
+atp47
+Rp48
 sb.

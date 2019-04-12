@@ -50,26 +50,8 @@ sS'species'
 p30
 g3
 ((lp31
-S"(5958, u'(?i)(rats|rat)')"
+S"(5685, u'(?i)\\\\b(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)\\\\b')"
 p32
-aS"(479, u'(?i)(lings|ling)')"
-p33
-aS"(1725, u'(?i)(clams|clam)')"
-p34
-aS"(1055, u'(?i)(men|man)')"
-p35
-aS"(7094, u'(?i)(curs|cur)')"
-p36
-aS"(4979, u'(?i)(cats|cat)')"
-p37
-aS"(1961, u'(?i)(pens|pen)')"
-p38
-aS"(6391, u'(?i)(asses|ass)')"
-p39
-aS"(5685, u'(?i)(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)')"
-p40
-aS"(5949, u'(?i)(dogs|dog)')"
-p41
-atp42
-Rp43
+atp33
+Rp34
 sb.

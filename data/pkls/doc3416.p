@@ -28,42 +28,30 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht2c'
 p18
-aS'5ht2c'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-tp24
-Rp25
+((lp22
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2014
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(2323, u'(?i)(bees|bee)')"
-p34
-aS"(6249, u'(?i)(ants|ant)')"
-p35
-aS"(2568, u'(?i)(hens|hen)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(4201, u'(?i)(kines|kine)')"
-p38
-atp39
-Rp40
+((lp32
+tp33
+Rp34
 sb.

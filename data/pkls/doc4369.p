@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(217, u'\\\\b2 ?ethyl ?5 ?methoxy ?nn ?dimethyltryptamine')"
+S"(212, u'\\\\b2 ?ethyl ?5 ?methoxy ?nn ?dimethyltryptamine')"
 p34
 atp35
 Rp36
@@ -64,30 +64,10 @@ sS'species'
 p37
 g3
 ((lp38
-S"(2670, u'(?i)(arabs|arab)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(867, u'(?i)(tits|tit)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1057, u'(?i)(humans|human)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(1414, u'(?i)(chars|char)')"
-p49
-aS"(3196, u'(?i)(human|humans)')"
-p50
-atp51
-Rp52
+atp41
+Rp42
 sb.

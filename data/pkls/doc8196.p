@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(38, u'\\\\bsb ?216641')"
+S"(37, u'\\\\bsb ?216641')"
 p5
 atp6
 Rp7
@@ -44,7 +44,7 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(236, u'(?i)(septals|septal)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(236, u'(?i)\\\\b(septals|septal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(107, u'\\\\bcp ?93129')"
+S"(100, u'\\\\bcp ?93129')"
 p34
 atp35
 Rp36
@@ -64,20 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(6249, u'(?i)(ants|ant)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(5967, u'(?i)(males|male)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(7094, u'(?i)(curs|cur)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(1725, u'(?i)(clams|clam)')"
-p45
-atp46
-Rp47
+atp40
+Rp41
 sb.

@@ -40,48 +40,30 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1991
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(47, u'\\\\bgepirone')"
+((lp30
+S"(192, u'\\\\bquipazine')"
+p31
+aS"(42, u'\\\\bgepirone')"
 p32
-aS"(196, u'\\\\bquipazine')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(2054, u'(?i)(heads|head)')"
+((lp36
+S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(7094, u'(?i)(curs|cur)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(5568, u'(?i)(hakes|hake)')"
-p47
-atp48
-Rp49
+atp39
+Rp40
 sb.

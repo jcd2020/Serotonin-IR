@@ -50,30 +50,6 @@ sS'species'
 p30
 g3
 ((lp31
-S"(4624, u'(?i)(apes|ape)')"
-p32
-aS"(2054, u'(?i)(heads|head)')"
-p33
-aS"(6249, u'(?i)(ants|ant)')"
-p34
-aS"(6753, u'(?i)(da|das)')"
-p35
-aS"(2183, u'(?i)(gars|gar)')"
-p36
-aS"(468, u'(?i)(oxen|ox)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(853, u'(?i)(minas|mina)')"
-p39
-aS"(3550, u'(?i)(anis|ani)')"
-p40
-aS"(5229, u'(?i)(moles|mole)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(5674, u'(?i)(ewes|ewe)')"
-p43
-atp44
-Rp45
+tp32
+Rp33
 sb.

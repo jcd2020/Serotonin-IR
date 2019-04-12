@@ -42,46 +42,26 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(174, u'(?i)(posteriors|posterior)')"
+S"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2011
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(70, u'\\\\bpsilocybin')"
-p34
-atp35
-Rp36
+((lp32
+S"(63, u'\\\\bpsilocybin')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(5626, u'(?i)(posters|poster)')"
-p39
-aS"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(2389, u'(?i)(spats|spat)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-atp48
-Rp49
+((lp37
+tp38
+Rp39
 sb.

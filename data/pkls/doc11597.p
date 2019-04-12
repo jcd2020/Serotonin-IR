@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(223, u'(?i)(putamens|putamen)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p23
 atp24
 Rp25
@@ -54,34 +54,10 @@ sS'species'
 p32
 g3
 ((lp33
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p34
-aS"(1688, u'(?i)(ounces|ounce)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(6753, u'(?i)(da|das)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(5743, u'(?i)(bots|bot)')"
-p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(3726, u'(?i)(mates|mate)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(1961, u'(?i)(pens|pen)')"
-p44
-aS"(1414, u'(?i)(chars|char)')"
-p45
-aS"(6325, u'(?i)(caudates|caudate)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-atp48
-Rp49
+atp36
+Rp37
 sb.

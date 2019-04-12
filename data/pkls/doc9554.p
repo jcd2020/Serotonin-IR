@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(51, u'\\\\bmirtazapine')"
+S"(134, u'\\\\bmirtazapine')"
 p5
 atp6
 Rp7
@@ -58,12 +58,6 @@ sS'species'
 p34
 g3
 ((lp35
-S"(6391, u'(?i)(asses|ass)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-atp39
-Rp40
+tp36
+Rp37
 sb.

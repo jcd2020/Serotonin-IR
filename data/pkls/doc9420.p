@@ -8,130 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(210, u'\\\\btrifluoperazine')"
+S"(59, u'\\\\bchlorpromazine')"
 p5
-aS"(57, u'\\\\bolanzapine')"
+aS"(204, u'\\\\btrifluoperazine')"
 p6
-aS"(41, u'\\\\bziprasidone')"
+aS"(131, u'\\\\bm1')"
 p7
-aS"(142, u'\\\\bm1')"
+aS"(114, u'\\\\bziprasidone')"
 p8
-aS"(124, u'\\\\bolanzapine')"
+aS"(111, u'\\\\bolanzapine')"
 p9
-aS"(68, u'\\\\bchlorpromazine')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.ANTAGONIST'
-p15
+p14
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
+((lp19
 S"(15, u'\\\\bschizophreni')"
-p21
+p20
 aS"(6, u'\\\\bcognit')"
-p22
+p21
 aS"(4, u'\\\\blocomot')"
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'receptors'
-p26
+p25
 g3
-((lp27
-S'5ht5'
-p28
-aS'5ht2a'
-p29
-atp30
-Rp31
+((lp26
+S'5ht2a'
+p27
+atp28
+Rp29
 sS'regions'
-p32
+p30
 g3
-((lp33
-S"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+((lp31
+tp32
+Rp33
 sS'year'
-p37
+p34
 V2006
-p38
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(57, u'\\\\bolanzapine')"
+p38
+aS"(176, u'\\\\bdom')"
 p39
-g3
-((lp40
-S"(91, u'\\\\bziprasidone')"
-p41
-aS"(181, u'\\\\bdom')"
-p42
-aS"(64, u'\\\\bolanzapine')"
-p43
-atp44
-Rp45
+aS"(84, u'\\\\bziprasidone')"
+p40
+atp41
+Rp42
 sS'species'
-p46
+p43
 g3
-((lp47
-S"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(1070, u'(?i)(pets|pet)')"
-p52
-aS"(931, u'(?i)(divers|diver)')"
-p53
-aS"(479, u'(?i)(lings|ling)')"
-p54
-aS"(81, u'(?i)(asps|asp)')"
-p55
-aS"(468, u'(?i)(oxen|ox)')"
-p56
-aS"(3404, u'(?i)(titis|titi)')"
-p57
-aS"(391, u'(?i)(alli|allis)')"
-p58
-aS"(5958, u'(?i)(rats|rat)')"
-p59
-aS"(7609, u'(?i)(erns|ern)')"
-p60
-aS"(867, u'(?i)(tits|tit)')"
-p61
-aS"(163, u'(?i)(mice|mouse)')"
-p62
-aS"(6682, u'(?i)(tera|teras)')"
-p63
-aS"(1055, u'(?i)(men|man)')"
-p64
-aS"(853, u'(?i)(minas|mina)')"
-p65
-aS"(1414, u'(?i)(chars|char)')"
-p66
-aS"(5799, u'(?i)(rodents|rodent)')"
-p67
-aS"(6753, u'(?i)(da|das)')"
-p68
-aS"(2389, u'(?i)(spats|spat)')"
-p69
-aS"(3726, u'(?i)(mates|mate)')"
-p70
-aS"(1683, u'(?i)(terns|tern)')"
-p71
-aS"(5674, u'(?i)(ewes|ewe)')"
-p72
-atp73
-Rp74
+((lp44
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p45
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p46
+atp47
+Rp48
 sb.

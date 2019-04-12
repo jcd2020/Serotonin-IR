@@ -30,62 +30,48 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht1a'
 p19
-aS'5ht1a'
-p20
 aS'5ht2c'
-p21
+p20
 aS'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+((lp25
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+p26
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p27
-aS"(220, u'(?i)(striatums|striatum)')"
-p28
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p29
-atp30
-Rp31
+atp28
+Rp29
 sS'year'
-p32
+p30
 V1994
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(45, u'\\\\bipsapirone')"
 p34
-g3
-((lp35
-S"(161, u'\\\\bmcpp')"
+aS"(155, u'\\\\bmcpp')"
+p35
+aS"(175, u'\\\\bdoi')"
 p36
-aS"(50, u'\\\\bipsapirone')"
-p37
-aS"(33, u'\\\\bdoi')"
-p38
-atp39
-Rp40
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(5537, u'(?i)(hippos|hippo)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(702, u'(?i)(genets|genet)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(736, u'(?i)(fawns|fawn)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+aS"(736, u'(?i)\\\\b(fawns|fawn)\\\\b')"
+p42
+atp43
+Rp44
 sb.

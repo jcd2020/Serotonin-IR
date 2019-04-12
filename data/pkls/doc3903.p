@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,24 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(2568, u'(?i)(hens|hen)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5686, u'(?i)\\\\b(foxes|fox)\\\\b')"
 p37
-aS"(6682, u'(?i)(tera|teras)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(3550, u'(?i)(anis|ani)')"
-p42
-aS"(5686, u'(?i)(foxes|fox)')"
-p43
-aS"(7058, u'(?i)(does|doe)')"
-p44
-atp45
-Rp46
+atp39
+Rp40
 sb.

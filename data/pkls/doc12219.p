@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(63, u'\\\\bpizotifen')"
+S"(54, u'\\\\bpizotifen')"
 p5
 atp6
 Rp7
@@ -30,52 +30,34 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht2c'
 p19
-aS'5ht2c'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+((lp23
+tp24
+Rp25
 sS'year'
-p28
+p26
 V2005
-p29
+p27
 sS'agonists'
-p30
+p28
 g3
-((lp31
-tp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'species'
-p34
+p32
 g3
-((lp35
-S"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(6125, u'(?i)(females|female)')"
-p37
-aS"(5967, u'(?i)(males|male)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(107, u'(?i)(stags|stag)')"
-p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-atp45
-Rp46
+((lp33
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p34
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+p35
+atp36
+Rp37
 sb.

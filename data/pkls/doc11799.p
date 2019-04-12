@@ -28,50 +28,34 @@ g3
 ((lp16
 S'5ht1a'
 p17
-aS'5ht5'
-p18
-atp19
-Rp20
+atp18
+Rp19
 sS'regions'
-p21
+p20
 g3
-((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+((lp21
+tp22
+Rp23
 sS'year'
-p26
+p24
 V1990
-p27
+p25
 sS'agonists'
+p26
+g3
+((lp27
+S"(149, u'\\\\bmem')"
 p28
-g3
-((lp29
-S"(155, u'\\\\bmem')"
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'species'
-p33
+p31
 g3
-((lp34
-S"(2323, u'(?i)(bees|bee)')"
-p35
-aS"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(7539, u'(?i)(mammals|mammal)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(3550, u'(?i)(anis|ani)')"
-p40
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-atp43
-Rp44
+((lp32
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p33
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
 sb.

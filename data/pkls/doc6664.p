@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(390, u'(?i)(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)')"
+S"(390, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)\\\\b')"
 p24
 atp25
 Rp26
@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(8, u'\\\\b5 ?meo ?dmt')"
+S"(179, u'\\\\b5 ?meo ?dmt')"
 p31
 atp32
 Rp33
@@ -58,24 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(4096, u'(?i)(chows|chow)')"
+S"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4096, u'(?i)\\\\b(chows|chow)\\\\b')"
 p37
-aS"(6682, u'(?i)(tera|teras)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6215, u'(?i)(racers|racer)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(5568, u'(?i)(hakes|hake)')"
-p43
-aS"(5949, u'(?i)(dogs|dog)')"
-p44
-atp45
-Rp46
+atp39
+Rp40
 sb.

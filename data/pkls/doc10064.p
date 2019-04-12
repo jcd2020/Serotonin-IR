@@ -28,66 +28,46 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht1a'
 p18
-aS'5ht1a'
-p19
 aS'5ht2c'
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p25
-atp26
-Rp27
+((lp23
+tp24
+Rp25
 sS'year'
-p28
+p26
 V2016
-p29
+p27
 sS'agonists'
+p28
+g3
+((lp29
+S"(166, u'\\\\bmk ?212')"
 p30
-g3
-((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(11, u'\\\\bamphetamine')"
+p31
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p32
-aS"(186, u'\\\\bway ?161503')"
+aS"(182, u'\\\\bway ?161503')"
 p33
-aS"(14, u'\\\\bamphetamine')"
-p34
-aS"(172, u'\\\\bmk ?212')"
-p35
-atp36
-Rp37
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(5958, u'(?i)(rats|rat)')"
+((lp37
+S"(233, u'(?i)\\\\b(rainbows|rainbow)(-|\\\\s+)?(trout|trout)\\\\b')"
+p38
+aS"(4392, u'(?i)\\\\b(trout|trout)\\\\b')"
+p39
+aS"(4520, u'(?i)\\\\b(agoutis|agouti)\\\\b')"
 p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(7094, u'(?i)(curs|cur)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(233, u'(?i)(rainbows|rainbow)(-|\\\\s+)?(trout|trout)')"
-p48
-aS"(4392, u'(?i)(trout|trout)')"
-p49
-aS"(4520, u'(?i)(agoutis|agouti)')"
-p50
-atp51
-Rp52
+atp41
+Rp42
 sb.

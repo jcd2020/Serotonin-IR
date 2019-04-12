@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p31
 atp32
 Rp33
@@ -58,24 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(163, u'(?i)(mice|mouse)')"
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p36
-aS"(1266, u'(?i)(embryos|embryo)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(4091, u'(?i)(adults|adult)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(107, u'(?i)(stags|stag)')"
-p40
-aS"(1054, u'(?i)(homoes|homo)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(1345, u'(?i)(boas|boa)')"
-p43
-aS"(1085, u'(?i)(boars|boar)')"
-p44
-atp45
-Rp46
+atp38
+Rp39
 sb.

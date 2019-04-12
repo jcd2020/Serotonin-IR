@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(211, u'\\\\bzotepine')"
+S"(35, u'\\\\baripiprazole')"
 p5
-aS"(41, u'\\\\bziprasidone')"
+aS"(205, u'\\\\bzotepine')"
 p6
-aS"(36, u'\\\\baripiprazole')"
+aS"(114, u'\\\\bziprasidone')"
 p7
-aS"(82, u'\\\\bamisulpride')"
+aS"(73, u'\\\\bamisulpride')"
 p8
 atp9
 Rp10
@@ -56,9 +56,9 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(91, u'\\\\bziprasidone')"
+S"(223, u'\\\\baripiprazole')"
 p34
-aS"(16, u'\\\\baripiprazole')"
+aS"(84, u'\\\\bziprasidone')"
 p35
 atp36
 Rp37
@@ -66,20 +66,6 @@ sS'species'
 p38
 g3
 ((lp39
-S"(1688, u'(?i)(ounces|ounce)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(2809, u'(?i)(toms|tom)')"
-p46
-atp47
-Rp48
+tp40
+Rp41
 sb.

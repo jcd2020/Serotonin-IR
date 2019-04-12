@@ -8,104 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(194, u'\\\\bmethysergide')"
 p5
-aS"(14, u'\\\\bmethiothepin')"
+aS"(26, u'\\\\bspiperone')"
 p6
-aS"(105, u'\\\\bmethysergide')"
+aS"(14, u'\\\\bmethiothepin')"
 p7
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p8
 aS"(22, u'\\\\bpropranolol')"
 p9
-aS"(27, u'\\\\bspiperone')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.ANTAGONIST'
-p15
+p14
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
-tp21
-Rp22
+((lp19
+tp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
-S'5ht5'
-p25
-aS'5ht1a'
-p26
+((lp23
+S'5ht1a'
+p24
 aS'5ht2'
-p27
+p25
 aS'5ht1'
-p28
-atp29
-Rp30
+p26
+atp27
+Rp28
 sS'regions'
+p29
+g3
+((lp30
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p31
-g3
-((lp32
-S"(71, u'(?i)(cerebellums|cerebellum)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V1991
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(53, u'\\\\bmethysergide')"
 p38
-g3
-((lp39
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p39
+aS"(175, u'\\\\bdoi')"
 p40
-aS"(60, u'\\\\bmethysergide')"
-p41
-aS"(33, u'\\\\bdoi')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(81, u'(?i)(asps|asp)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(3522, u'(?i)(tetras|tetra)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(821, u'(?i)(lice|louse)')"
-p58
-aS"(5949, u'(?i)(dogs|dog)')"
-p59
-atp60
-Rp61
+((lp44
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

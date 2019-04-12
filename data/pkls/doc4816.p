@@ -8,108 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(204, u'\\\\bsb ?269970')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(52, u'\\\\bmetergoline')"
+aS"(34, u'\\\\bmetergoline')"
 p6
-aS"(35, u'\\\\bmetergoline')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(3, u'\\\\bsleep')"
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht7'
-p22
+p21
 aS'5ht7a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(126, u'(?i)(thalamuses|thalamus)')"
+((lp26
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p27
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p28
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'year'
-p33
+p31
 V2000
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(149, u'\\\\bmem')"
 p35
-g3
-((lp36
-S"(5, u'\\\\b5 ?ct')"
-p37
-aS"(155, u'\\\\bmem')"
-p38
-atp39
-Rp40
+aS"(219, u'\\\\b5 ?ct')"
+p36
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp40
+S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+p41
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p42
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(6753, u'(?i)(da|das)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p45
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p46
-aS"(3051, u'(?i)(pigs|pig)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(5131, u'(?i)(hags|hag)')"
-p50
-aS"(3062, u'(?i)(guineas|guinea)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(6682, u'(?i)(tera|teras)')"
-p54
-aS"(1057, u'(?i)(humans|human)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(1414, u'(?i)(chars|char)')"
-p57
-aS"(3196, u'(?i)(human|humans)')"
-p58
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-aS"(6249, u'(?i)(ants|ant)')"
-p61
-atp62
-Rp63
+atp47
+Rp48
 sb.

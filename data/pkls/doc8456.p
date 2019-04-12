@@ -90,7 +90,7 @@ sS'agonists'
 p49
 g3
 ((lp50
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p51
 atp52
 Rp53
@@ -98,34 +98,6 @@ sS'species'
 p54
 g3
 ((lp55
-S"(1070, u'(?i)(pets|pet)')"
-p56
-aS"(2323, u'(?i)(bees|bee)')"
-p57
-aS"(2568, u'(?i)(hens|hen)')"
-p58
-aS"(931, u'(?i)(divers|diver)')"
-p59
-aS"(867, u'(?i)(tits|tit)')"
-p60
-aS"(468, u'(?i)(oxen|ox)')"
-p61
-aS"(1055, u'(?i)(men|man)')"
-p62
-aS"(6249, u'(?i)(ants|ant)')"
-p63
-aS"(3404, u'(?i)(titis|titi)')"
-p64
-aS"(4979, u'(?i)(cats|cat)')"
-p65
-aS"(5958, u'(?i)(rats|rat)')"
-p66
-aS"(3812, u'(?i)(studs|stud)')"
-p67
-aS"(4624, u'(?i)(apes|ape)')"
-p68
-aS"(6356, u'(?i)(ais|ai)')"
-p69
-atp70
-Rp71
+tp56
+Rp57
 sb.

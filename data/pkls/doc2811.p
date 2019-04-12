@@ -8,114 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(104, u'\\\\bimipramine')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(114, u'\\\\bimipramine')"
+aS"(31, u'\\\\bway ?100635')"
 p8
-aS"(102, u'\\\\bfluoxetine')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.STIMULATION'
-p14
+p13
 aS'Method.ANTAGONIST'
-p15
+p14
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
-tp21
-Rp22
+((lp19
+tp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht1a'
-p25
+p24
 aS'5ht2c'
-p26
+p25
 aS'5ht2a'
-p27
-atp28
-Rp29
+p26
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-S"(169, u'(?i)(dorsomedials|dorsomedial)(-|\\\\s+)?(hypothalamics|hypothalamic)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp30
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+p31
+aS"(169, u'(?i)\\\\b(dorsomedials|dorsomedial)(-|\\\\s+)?(hypothalamics|hypothalamic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p32
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p33
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
-p34
-aS"(34, u'(?i)(pon|pons)')"
-p35
-atp36
-Rp37
+atp33
+Rp34
 sS'year'
-p38
+p35
 V2013
-p39
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(166, u'\\\\bmk ?212')"
+p39
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p40
-g3
-((lp41
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p42
-aS"(172, u'\\\\bmk ?212')"
-p43
-aS"(33, u'\\\\bdoi')"
-p44
-atp45
-Rp46
+aS"(175, u'\\\\bdoi')"
+p41
+atp42
+Rp43
 sS'species'
-p47
+p44
 g3
-((lp48
-S"(2323, u'(?i)(bees|bee)')"
-p49
-aS"(4624, u'(?i)(apes|ape)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(5967, u'(?i)(males|male)')"
-p54
-aS"(468, u'(?i)(oxen|ox)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(2665, u'(?i)(rays|ray)')"
-p58
-aS"(4964, u'(?i)(serins|serin)')"
-p59
-aS"(3550, u'(?i)(anis|ani)')"
-p60
-aS"(6391, u'(?i)(asses|ass)')"
-p61
-aS"(1349, u'(?i)(rams|ram)')"
-p62
-aS"(4177, u'(?i)(grays|gray)')"
-p63
-aS"(5743, u'(?i)(bots|bot)')"
-p64
-atp65
-Rp66
+((lp45
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p46
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p47
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

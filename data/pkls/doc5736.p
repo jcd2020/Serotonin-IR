@@ -8,92 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(41, u'\\\\bziprasidone')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(114, u'\\\\bziprasidone')"
 p6
-aS"(56, u'\\\\bclozapine')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht1b'
-p22
+p21
 aS'5ht5'
-p23
+p22
 aS'5ht1a'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(220, u'(?i)(striatums|striatum)')"
+((lp28
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p29
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p30
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'year'
-p35
+p33
 V1999
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(45, u'\\\\bipsapirone')"
 p37
-g3
-((lp38
-S"(91, u'\\\\bziprasidone')"
+aS"(23, u'\\\\bclozapine')"
+p38
+aS"(84, u'\\\\bziprasidone')"
 p39
-aS"(50, u'\\\\bipsapirone')"
-p40
-aS"(27, u'\\\\bclozapine')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(2670, u'(?i)(arabs|arab)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-atp54
-Rp55
+((lp43
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

@@ -8,118 +8,86 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(58, u'\\\\bhaloperidol')"
 p5
 aS"(21, u'\\\\bpindolol')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(29, u'\\\\bspiroxatrine')"
+aS"(28, u'\\\\bspiroxatrine')"
 p8
 aS"(22, u'\\\\bpropranolol')"
 p9
-aS"(67, u'\\\\bhaloperidol')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.ANTAGONIST'
-p15
+p14
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
+((lp19
 S"(11, u'\\\\banxiolyt')"
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'receptors'
-p24
+p23
 g3
-((lp25
+((lp24
 S'5ht1a'
-p26
+p25
 aS'5ht3'
-p27
+p26
 aS'5ht2'
-p28
+p27
 aS'5ht1'
-p29
-atp30
-Rp31
+p28
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-S"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'year'
-p37
+p35
 V1992
-p38
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(20, u'\\\\bbuspirone')"
 p39
-g3
-((lp40
-S"(48, u'\\\\bhaloperidol')"
+aS"(42, u'\\\\bgepirone')"
+p40
+aS"(192, u'\\\\bquipazine')"
 p41
-aS"(50, u'\\\\bipsapirone')"
+aS"(43, u'\\\\bhaloperidol')"
 p42
-aS"(47, u'\\\\bgepirone')"
+aS"(45, u'\\\\bipsapirone')"
 p43
-aS"(24, u'\\\\bbuspirone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p44
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p45
-aS"(196, u'\\\\bquipazine')"
-p46
-atp47
-Rp48
+atp45
+Rp46
 sS'species'
-p49
+p47
 g3
-((lp50
-S"(6753, u'(?i)(da|das)')"
-p51
-aS"(2568, u'(?i)(hens|hen)')"
-p52
-aS"(3636, u'(?i)(martins|martin)')"
-p53
-aS"(867, u'(?i)(tits|tit)')"
-p54
-aS"(163, u'(?i)(mice|mouse)')"
-p55
-aS"(468, u'(?i)(oxen|ox)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(5958, u'(?i)(rats|rat)')"
-p60
-aS"(3522, u'(?i)(tetras|tetra)')"
-p61
-aS"(1961, u'(?i)(pens|pen)')"
-p62
-aS"(1414, u'(?i)(chars|char)')"
-p63
-aS"(6356, u'(?i)(ais|ai)')"
-p64
-aS"(4979, u'(?i)(cats|cat)')"
-p65
-aS"(4964, u'(?i)(serins|serin)')"
-p66
-atp67
-Rp68
+((lp48
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p49
+aS"(3636, u'(?i)\\\\b(martins|martin)\\\\b')"
+p50
+atp51
+Rp52
 sb.

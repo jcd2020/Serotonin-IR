@@ -8,112 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
 aS"(6, u'\\\\bcyproheptadine')"
+p6
+aS"(53, u'\\\\bcyproheptadine')"
 p7
-aS"(102, u'\\\\bfluoxetine')"
+aS"(117, u'\\\\bketanserin')"
 p8
-aS"(62, u'\\\\bcyproheptadine')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
+p13
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
-tp20
-Rp21
+((lp18
+tp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht1a'
-p24
+p23
 aS'5ht2c'
-p25
+p24
 aS'5ht2a'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+((lp29
+tp30
+Rp31
 sS'year'
-p35
+p32
 V1996
-p36
+p33
 sS'agonists'
-p37
+p34
 g3
-((lp38
-tp39
-Rp40
+((lp35
+tp36
+Rp37
 sS'species'
-p41
+p38
 g3
-((lp42
-S"(4979, u'(?i)(cats|cat)')"
+((lp39
+S"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
+p40
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p41
+aS"(6580, u'(?i)\\\\b(dams|dam)\\\\b')"
+p42
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p43
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p44
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(4964, u'(?i)(serins|serin)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(4091, u'(?i)(adults|adult)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(280, u'(?i)(gators|gator)')"
-p52
-aS"(3726, u'(?i)(mates|mate)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(853, u'(?i)(minas|mina)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(1057, u'(?i)(humans|human)')"
-p57
-aS"(4371, u'(?i)(lizas|liza)')"
-p58
-aS"(3722, u'(?i)(pups|pup)')"
-p59
-aS"(3196, u'(?i)(human|humans)')"
-p60
-aS"(6580, u'(?i)(dams|dam)')"
-p61
-aS"(5743, u'(?i)(bots|bot)')"
-p62
-aS"(1683, u'(?i)(terns|tern)')"
-p63
-atp64
-Rp65
+atp46
+Rp47
 sb.

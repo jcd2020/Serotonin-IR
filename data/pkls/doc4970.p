@@ -38,40 +38,26 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2000
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(44, u'\\\\bflesinoxan')"
-p31
-atp32
-Rp33
+((lp29
+S"(39, u'\\\\bflesinoxan')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(2323, u'(?i)(bees|bee)')"
-p36
-aS"(6249, u'(?i)(ants|ant)')"
-p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(4604, u'(?i)(mites|mite)')"
-p39
-aS"(4979, u'(?i)(cats|cat)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(7058, u'(?i)(does|doe)')"
-p42
-atp43
-Rp44
+((lp34
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p35
+atp36
+Rp37
 sb.

@@ -8,15 +8,15 @@ c__builtin__
 set
 p3
 ((lp4
-S"(115, u'\\\\bnortriptyline')"
+S"(49, u'\\\\bnefazodone')"
 p5
-aS"(112, u'\\\\bamitriptyline')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
-aS"(55, u'\\\\bnefazodone')"
+aS"(94, u'\\\\bnorfluoxetine')"
 p7
-aS"(102, u'\\\\bfluoxetine')"
+aS"(102, u'\\\\bamitriptyline')"
 p8
-aS"(106, u'\\\\bnorfluoxetine')"
+aS"(105, u'\\\\bnortriptyline')"
 p9
 atp10
 Rp11
@@ -48,54 +48,24 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+tp29
+Rp30
 sS'year'
-p32
+p31
 V1999
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(63, u'\\\\bnefazodone')"
-p36
-atp37
-Rp38
+((lp34
+S"(56, u'\\\\bnefazodone')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(2323, u'(?i)(bees|bee)')"
-p41
-aS"(4624, u'(?i)(apes|ape)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(5551, u'(?i)(owls|owl)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(3726, u'(?i)(mates|mate)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(3426, u'(?i)(hares|hare)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-atp55
-Rp56
+((lp39
+tp40
+Rp41
 sb.

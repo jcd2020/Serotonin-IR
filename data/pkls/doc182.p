@@ -28,54 +28,36 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht1a'
 p18
-aS'5ht1a'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(378, u'(?i)(subdurals|subdural)(-|\\\\s+)?(spaces|space)')"
-p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+((lp22
+S"(378, u'(?i)\\\\b(subdurals|subdural)(-|\\\\s+)?(spaces|space)\\\\b')"
+p23
+atp24
+Rp25
 sS'year'
-p28
+p26
 V1999
-p29
+p27
 sS'agonists'
-p30
+p28
 g3
-((lp31
-tp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'species'
-p34
+p32
 g3
-((lp35
-S"(6249, u'(?i)(ants|ant)')"
-p36
-aS"(5510, u'(?i)(bays|bay)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(6580, u'(?i)(dams|dam)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(3550, u'(?i)(anis|ani)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(2809, u'(?i)(toms|tom)')"
-p44
-atp45
-Rp46
+((lp33
+S"(5510, u'(?i)\\\\b(bays|bay)\\\\b')"
+p34
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

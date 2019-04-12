@@ -42,13 +42,13 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(249, u'(?i)(frontals|frontal)(-|\\\\s+)?(lobes|lobe)')"
+S"(249, u'(?i)\\\\b(frontals|frontal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
 p26
-aS"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p27
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
 atp30
 Rp31
@@ -66,30 +66,10 @@ sS'species'
 p38
 g3
 ((lp39
-S"(6249, u'(?i)(ants|ant)')"
+S"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
 p40
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(4426, u'(?i)\\\\b(eggers|egger)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(4176, u'(?i)(greys|grey)')"
-p48
-aS"(4426, u'(?i)(eggers|egger)')"
-p49
-aS"(391, u'(?i)(alli|allis)')"
-p50
-aS"(2809, u'(?i)(toms|tom)')"
-p51
-atp52
-Rp53
+atp42
+Rp43
 sb.

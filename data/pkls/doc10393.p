@@ -54,40 +54,10 @@ sS'species'
 p32
 g3
 ((lp33
-S"(6695, u'(?i)(ruffs|ruff)')"
+S"(3592, u'(?i)\\\\b(ravens|raven)\\\\b')"
 p34
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p35
-aS"(931, u'(?i)(divers|diver)')"
-p36
-aS"(6548, u'(?i)(takins|takin)')"
-p37
-aS"(867, u'(?i)(tits|tit)')"
-p38
-aS"(5743, u'(?i)(bots|bot)')"
-p39
-aS"(4091, u'(?i)(adults|adult)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(3592, u'(?i)(ravens|raven)')"
-p42
-aS"(853, u'(?i)(minas|mina)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(7609, u'(?i)(erns|ern)')"
-p49
-aS"(1683, u'(?i)(terns|tern)')"
-p50
-atp51
-Rp52
+atp36
+Rp37
 sb.

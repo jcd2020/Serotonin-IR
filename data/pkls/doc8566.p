@@ -10,102 +10,86 @@ p3
 ((lp4
 S"(5, u'\\\\bcyanopindolol')"
 p5
-aS"(200, u'\\\\bmesulergine')"
+aS"(193, u'\\\\bmesulergine')"
 p6
-aS"(52, u'\\\\bmetergoline')"
+aS"(34, u'\\\\bmetergoline')"
 p7
-aS"(34, u'\\\\byohimbine')"
+aS"(194, u'\\\\bmethysergide')"
 p8
-aS"(105, u'\\\\bmethysergide')"
+aS"(33, u'\\\\byohimbine')"
 p9
-aS"(35, u'\\\\bmetergoline')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.ANTAGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
-tp20
-Rp21
+((lp18
+tp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht7'
-p24
+p23
 aS'5ht3'
-p25
+p24
 aS'5ht3a'
-p26
+p25
 aS'5ht2'
-p27
+p26
 aS'5ht1'
-p28
-atp29
-Rp30
+p27
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-S"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+((lp31
+tp32
+Rp33
 sS'year'
-p36
+p34
 V1988
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(53, u'\\\\bmethysergide')"
 p38
-g3
-((lp39
-S"(74, u'\\\\bru ?24969')"
+aS"(165, u'\\\\bmesulergine')"
+p39
+aS"(67, u'\\\\bru ?24969')"
 p40
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(82, u'\\\\byohimbine')"
 p41
-aS"(89, u'\\\\byohimbine')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p42
-aS"(60, u'\\\\bmethysergide')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p43
-aS"(171, u'\\\\bmesulergine')"
-p44
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p45
-atp46
-Rp47
+atp44
+Rp45
 sS'species'
-p48
+p46
 g3
-((lp49
-S"(5958, u'(?i)(rats|rat)')"
+((lp47
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p48
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p49
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p50
-aS"(867, u'(?i)(tits|tit)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p51
-aS"(3051, u'(?i)(pigs|pig)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(3062, u'(?i)(guineas|guinea)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(7058, u'(?i)(does|doe)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p58
-aS"(821, u'(?i)(lice|louse)')"
-p59
-atp60
-Rp61
+atp52
+Rp53
 sb.

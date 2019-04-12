@@ -8,106 +8,66 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(111, u'\\\\bolanzapine')"
 p5
-aS"(57, u'\\\\bolanzapine')"
+aS"(113, u'\\\\brisperidone')"
 p6
-aS"(59, u'\\\\brisperidone')"
-p7
-aS"(124, u'\\\\bolanzapine')"
-p8
-atp9
-Rp10
+atp7
+Rp8
 sS'methods'
-p11
+p9
 g3
-((lp12
+((lp10
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p11
+atp12
+Rp13
 sS'topics'
-p16
+p14
 g3
-((lp17
+((lp15
 S"(33, u'\\\\balzheimers')"
-p18
+p16
 aS"(6, u'\\\\bcognit')"
-p19
+p17
 aS"(34, u'\\\\bdementia')"
-p20
+p18
 aS"(20, u'\\\\baggressi')"
-p21
-atp22
-Rp23
+p19
+atp20
+Rp21
 sS'receptors'
-p24
+p22
 g3
-((lp25
+((lp23
 S'5ht6a'
-p26
-atp27
-Rp28
+p24
+atp25
+Rp26
 sS'regions'
-p29
+p27
 g3
-((lp30
-S"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+((lp28
+tp29
+Rp30
 sS'year'
-p34
+p31
 V2004
-p35
+p32
 sS'agonists'
-p36
+p33
 g3
-((lp37
-S"(64, u'\\\\bolanzapine')"
-p38
-atp39
-Rp40
+((lp34
+S"(57, u'\\\\bolanzapine')"
+p35
+atp36
+Rp37
 sS'species'
-p41
+p38
 g3
-((lp42
-S"(2670, u'(?i)(arabs|arab)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(479, u'(?i)(lings|ling)')"
-p48
-aS"(2183, u'(?i)(gars|gar)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(853, u'(?i)(minas|mina)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(5674, u'(?i)(ewes|ewe)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(1414, u'(?i)(chars|char)')"
-p57
-aS"(6391, u'(?i)(asses|ass)')"
-p58
-aS"(2809, u'(?i)(toms|tom)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-atp61
-Rp62
+((lp39
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+p40
+atp41
+Rp42
 sb.

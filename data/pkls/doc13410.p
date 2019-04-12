@@ -52,22 +52,12 @@ sS'species'
 p31
 g3
 ((lp32
-S"(5958, u'(?i)(rats|rat)')"
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
 p33
-aS"(473, u'(?i)(rabbits|rabbit)')"
+aS"(5863, u'(?i)\\\\b(entires|entire)\\\\b')"
 p34
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(2568, u'(?i)(hens|hen)')"
-p36
-aS"(4964, u'(?i)(serins|serin)')"
-p37
-aS"(3550, u'(?i)(anis|ani)')"
-p38
-aS"(6356, u'(?i)(ais|ai)')"
-p39
-aS"(5863, u'(?i)(entires|entire)')"
-p40
-atp41
-Rp42
+atp36
+Rp37
 sb.

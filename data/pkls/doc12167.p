@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(44, u'\\\\bvortioxetine')"
+S"(42, u'\\\\bvortioxetine')"
 p5
 atp6
 Rp7
@@ -42,56 +42,28 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V2013
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(101, u'\\\\bvortioxetine')"
-p34
-atp35
-Rp36
+((lp32
+S"(94, u'\\\\bvortioxetine')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(1070, u'(?i)(pets|pet)')"
-p39
-aS"(2323, u'(?i)(bees|bee)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(6580, u'(?i)(dams|dam)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(2809, u'(?i)(toms|tom)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+((lp37
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+p38
+atp39
+Rp40
 sb.

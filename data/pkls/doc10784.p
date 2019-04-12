@@ -54,9 +54,9 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(103, u'\\\\bsumatriptan')"
+S"(96, u'\\\\bsumatriptan')"
 p33
-aS"(107, u'\\\\bcp ?93129')"
+aS"(100, u'\\\\bcp ?93129')"
 p34
 atp35
 Rp36
@@ -64,42 +64,10 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(702, u'(?i)(genets|genet)')"
-p42
-aS"(163, u'(?i)(mice|mouse)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(853, u'(?i)(minas|mina)')"
-p48
-aS"(2395, u'(?i)(mutants|mutant)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(821, u'(?i)(lice|louse)')"
-p56
-atp57
-Rp58
+atp41
+Rp42
 sb.

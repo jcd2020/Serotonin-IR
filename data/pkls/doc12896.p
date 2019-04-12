@@ -40,50 +40,30 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(170, u'(?i)(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(170, u'(?i)\\\\b(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp26
+Rp27
 sS'year'
-p30
+p28
 V2010
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(100, u'\\\\bcp ?93129')"
 p32
-g3
-((lp33
-S"(107, u'\\\\bcp ?93129')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(2568, u'(?i)(hens|hen)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(6682, u'(?i)(tera|teras)')"
-p41
-aS"(4462, u'(?i)(monals|monal)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(3522, u'(?i)(tetras|tetra)')"
-p45
-aS"(7127, u'(?i)(monitors|monitor)')"
-p46
-aS"(2809, u'(?i)(toms|tom)')"
-p47
-aS"(1795, u'(?i)(mounts|mount)')"
-p48
-atp49
-Rp50
+((lp36
+S"(1795, u'(?i)\\\\b(mounts|mount)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

@@ -20,17 +20,17 @@ sS'topics'
 p11
 g3
 ((lp12
-S"(18, u'\\\\bpsychostim')"
+S"(37, u'\\\\baddict')"
 p13
-atp14
-Rp15
+aS"(18, u'\\\\bpsychostim')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
+((lp18
 S'5ht3a'
-p18
-aS'5ht5'
 p19
 aS'5ht3'
 p20
@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(14, u'\\\\bamphetamine')"
+S"(11, u'\\\\bamphetamine')"
 p32
 atp33
 Rp34
@@ -60,32 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2323, u'(?i)(bees|bee)')"
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p37
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(1054, u'(?i)(homoes|homo)')"
-p43
-aS"(5176, u'(?i)(tegs|teg)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(5497, u'(?i)(fices|fice)')"
-p49
-atp50
-Rp51
+atp39
+Rp40
 sb.

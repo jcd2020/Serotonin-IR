@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(68, u'\\\\bchlorpromazine')"
+S"(59, u'\\\\bchlorpromazine')"
 p5
 aS"(22, u'\\\\bpropranolol')"
 p6
@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(195, u'(?i)(telencephalons|telencephalon)')"
+S"(195, u'(?i)\\\\b(telencephalons|telencephalon)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p33
 atp34
 Rp35
@@ -62,26 +62,10 @@ sS'species'
 p36
 g3
 ((lp37
-S"(5958, u'(?i)(rats|rat)')"
+S"(1266, u'(?i)\\\\b(embryos|embryo)\\\\b')"
 p38
-aS"(1266, u'(?i)(embryos|embryo)')"
+aS"(709, u'(?i)\\\\b(chicks|chick)\\\\b')"
 p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(1961, u'(?i)(pens|pen)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(709, u'(?i)(chicks|chick)')"
-p46
-aS"(1795, u'(?i)(mounts|mount)')"
-p47
-atp48
-Rp49
+atp40
+Rp41
 sb.

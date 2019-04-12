@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(156, u'\\\\brs ?39604')"
+S"(147, u'\\\\brs ?39604')"
 p5
 atp6
 Rp7
@@ -40,70 +40,42 @@ g3
 ((lp22
 S'5ht4a'
 p23
-aS'5ht5'
-p24
 aS'5ht4'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
-p30
-aS"(390, u'(?i)(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)')"
-p31
-atp32
-Rp33
+((lp28
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p34
+p32
 V2002
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(205, u'\\\\brs ?67333')"
 p36
-g3
-((lp37
-S"(155, u'\\\\bmem')"
-p38
-aS"(209, u'\\\\brs ?67333')"
-p39
-atp40
-Rp41
+aS"(149, u'\\\\bmem')"
+p37
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
+((lp41
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p44
-aS"(5537, u'(?i)(hippos|hippo)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(5967, u'(?i)(males|male)')"
-p48
-aS"(2183, u'(?i)(gars|gar)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(3152, u'(?i)(layers|layer)')"
-p52
-aS"(2334, u'(?i)(eels|eel)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(6682, u'(?i)(tera|teras)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(1414, u'(?i)(chars|char)')"
-p58
-atp59
-Rp60
+atp45
+Rp46
 sb.

@@ -8,108 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(112, u'\\\\bquetiapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(56, u'\\\\bclozapine')"
+aS"(59, u'\\\\bchlorpromazine')"
 p7
-aS"(128, u'\\\\bketanserin')"
+aS"(131, u'\\\\bm1')"
 p8
-aS"(57, u'\\\\bolanzapine')"
+aS"(117, u'\\\\bketanserin')"
 p9
-aS"(142, u'\\\\bm1')"
+aS"(50, u'\\\\bquetiapine')"
 p10
-aS"(124, u'\\\\bolanzapine')"
+aS"(111, u'\\\\bolanzapine')"
 p11
-aS"(125, u'\\\\bquetiapine')"
+aS"(58, u'\\\\bhaloperidol')"
 p12
-aS"(68, u'\\\\bchlorpromazine')"
-p13
-aS"(67, u'\\\\bhaloperidol')"
-p14
-aS"(58, u'\\\\bquetiapine')"
-p15
-atp16
-Rp17
+atp13
+Rp14
 sS'methods'
-p18
+p15
 g3
-((lp19
+((lp16
 S'Method.ANTAGONIST'
-p20
+p17
 aS'Method.AGONIST'
-p21
-atp22
-Rp23
+p18
+atp19
+Rp20
 sS'topics'
-p24
+p21
 g3
-((lp25
+((lp22
 S"(15, u'\\\\bschizophreni')"
-p26
-atp27
-Rp28
+p23
+atp24
+Rp25
 sS'receptors'
-p29
+p26
 g3
-((lp30
+((lp27
 S'5ht2a'
-p31
-atp32
-Rp33
+p28
+atp29
+Rp30
 sS'regions'
-p34
+p31
 g3
-((lp35
-S"(34, u'(?i)(pon|pons)')"
-p36
-atp37
-Rp38
+((lp32
+tp33
+Rp34
 sS'year'
-p39
+p35
 V2017
-p40
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(64, u'\\\\bquetiapine')"
+p39
+aS"(57, u'\\\\bolanzapine')"
+p40
+aS"(210, u'\\\\bsulpiride')"
 p41
-g3
-((lp42
-S"(71, u'\\\\bquetiapine')"
+aS"(23, u'\\\\bclozapine')"
+p42
+aS"(43, u'\\\\bhaloperidol')"
 p43
-aS"(64, u'\\\\bolanzapine')"
-p44
-aS"(48, u'\\\\bhaloperidol')"
-p45
-aS"(214, u'\\\\bsulpiride')"
-p46
-aS"(27, u'\\\\bclozapine')"
-p47
-atp48
-Rp49
+atp44
+Rp45
 sS'species'
-p50
+p46
 g3
-((lp51
-S"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(7488, u'(?i)(molas|mola)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(4964, u'(?i)(serins|serin)')"
-p57
-aS"(3550, u'(?i)(anis|ani)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(1795, u'(?i)(mounts|mount)')"
-p60
-aS"(4979, u'(?i)(cats|cat)')"
-p61
-atp62
-Rp63
+((lp47
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

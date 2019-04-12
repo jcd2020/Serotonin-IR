@@ -28,58 +28,40 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht4a'
 p18
-aS'5ht4'
-p19
-aS'5ht4a'
-p20
 aS'5ht4b'
-p21
+p19
+aS'5ht4'
+p20
 aS'5ht4e'
-p22
+p21
 aS'5ht4f'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-tp28
-Rp29
+((lp26
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2010
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(6753, u'(?i)(da|das)')"
-p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(867, u'(?i)(tits|tit)')"
-p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(1266, u'(?i)(embryos|embryo)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(821, u'(?i)(lice|louse)')"
-p46
-atp47
-Rp48
+((lp36
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p37
+atp38
+Rp39
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(136, u'\\\\btropisetron')"
+S"(130, u'\\\\bzacopride')"
 p5
-aS"(141, u'\\\\bzacopride')"
+aS"(125, u'\\\\btropisetron')"
 p6
 atp7
 Rp8
@@ -48,64 +48,34 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+tp29
+Rp30
 sS'year'
-p32
+p31
 V2000
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(196, u'\\\\bquipazine')"
+((lp34
+S"(208, u'\\\\bzacopride')"
+p35
+aS"(149, u'\\\\bmem')"
 p36
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+aS"(192, u'\\\\bquipazine')"
 p37
-aS"(155, u'\\\\bmem')"
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p38
-aS"(212, u'\\\\bzacopride')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(3550, u'(?i)(anis|ani)')"
+((lp42
+S"(1280, u'(?i)\\\\b(shrews|shrew)\\\\b')"
+p43
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(1280, u'(?i)(shrews|shrew)')"
-p45
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p46
-aS"(867, u'(?i)(tits|tit)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(2568, u'(?i)(hens|hen)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(1414, u'(?i)(chars|char)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(6878, u'(?i)(guans|guan)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-atp60
-Rp61
+atp45
+Rp46
 sb.

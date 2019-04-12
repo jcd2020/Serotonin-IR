@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(156, u'\\\\brs ?39604')"
+S"(147, u'\\\\brs ?39604')"
 p5
 atp6
 Rp7
@@ -42,44 +42,30 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V1999
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(224, u'\\\\b5 ?methoxytryptamine')"
+((lp31
+S"(220, u'\\\\b5 ?methoxytryptamine')"
+p32
+aS"(149, u'\\\\bmem')"
 p33
-aS"(225, u'\\\\b5 ?meot')"
+aS"(222, u'\\\\b5 ?meot')"
 p34
-aS"(155, u'\\\\bmem')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(204, u'(?i)(moas|moa)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-atp47
-Rp48
+((lp38
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

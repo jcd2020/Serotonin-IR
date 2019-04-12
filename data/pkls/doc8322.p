@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(51, u'\\\\bmirtazapine')"
+S"(134, u'\\\\bmirtazapine')"
 p5
 atp6
 Rp7
@@ -26,27 +26,27 @@ sS'topics'
 p14
 g3
 ((lp15
-tp16
-Rp17
+S"(37, u'\\\\baddict')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
+((lp20
 S'5ht3a'
-p20
-aS'5ht3'
 p21
-aS'5ht2'
+aS'5ht3'
 p22
-atp23
-Rp24
+aS'5ht2'
+p23
+atp24
+Rp25
 sS'regions'
-p25
+p26
 g3
-((lp26
-S"(230, u'(?i)(ventrals|ventral)(-|\\\\s+)?(pallidums|pallidum)')"
-p27
-aS"(34, u'(?i)(pon|pons)')"
+((lp27
+S"(230, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(pallidums|pallidum)\\\\b')"
 p28
 atp29
 Rp30
@@ -64,30 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(4624, u'(?i)(apes|ape)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(949, u'(?i)(cohoes|coho)')"
-p40
-aS"(1049, u'(?i)(elands|eland)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(391, u'(?i)(alli|allis)')"
-p50
-atp51
-Rp52
+atp40
+Rp41
 sb.

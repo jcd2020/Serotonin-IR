@@ -20,74 +20,50 @@ sS'topics'
 p11
 g3
 ((lp12
-S"(4, u'\\\\blocomot')"
+S"(37, u'\\\\baddict')"
 p13
-atp14
-Rp15
+aS"(4, u'\\\\blocomot')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
-S'5ht5'
-p18
-atp19
+((lp18
+tp19
 Rp20
 sS'regions'
 p21
 g3
 ((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2005
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-S"(14, u'\\\\bamphetamine')"
-p30
-atp31
-Rp32
+((lp28
+S"(11, u'\\\\bamphetamine')"
+p29
+atp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(4624, u'(?i)(apes|ape)')"
+((lp33
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p34
+aS"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
 p35
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(4597, u'(?i)(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(1553, u'(?i)(mews|mew)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(2809, u'(?i)(toms|tom)')"
-p48
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p49
-aS"(4596, u'(?i)(rhesuses|rhesus)')"
-p50
-atp51
-Rp52
+atp39
+Rp40
 sb.

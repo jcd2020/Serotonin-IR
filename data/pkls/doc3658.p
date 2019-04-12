@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
+S"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p24
 atp25
 Rp26
@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p31
 atp32
 Rp33
@@ -58,28 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(2323, u'(?i)(bees|bee)')"
+S"(2665, u'(?i)\\\\b(rays|ray)\\\\b')"
 p36
-aS"(2670, u'(?i)(arabs|arab)')"
+aS"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(7609, u'(?i)(erns|ern)')"
-p39
-aS"(2327, u'(?i)(bovines|bovine)')"
-p40
-aS"(4163, u'(?i)(ermines|ermine)')"
-p41
-aS"(2665, u'(?i)(rays|ray)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(5229, u'(?i)(moles|mole)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-atp47
-Rp48
+atp38
+Rp39
 sb.

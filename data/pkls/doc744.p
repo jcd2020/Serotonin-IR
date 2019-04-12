@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bgranisetron')"
+S"(123, u'\\\\bgranisetron')"
 p5
 atp6
 Rp7
@@ -42,74 +42,34 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V1992
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(195, u'\\\\bphenylbiguanide')"
+((lp32
+S"(192, u'\\\\bquipazine')"
+p33
+aS"(149, u'\\\\bmem')"
 p34
-aS"(196, u'\\\\bquipazine')"
+aS"(191, u'\\\\bphenylbiguanide')"
 p35
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p36
-aS"(155, u'\\\\bmem')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(1070, u'(?i)(pets|pet)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(931, u'(?i)(divers|diver)')"
-p44
-aS"(867, u'(?i)(tits|tit)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(3404, u'(?i)(titis|titi)')"
-p51
-aS"(1054, u'(?i)(homoes|homo)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(5229, u'(?i)(moles|mole)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p59
-aS"(6878, u'(?i)(guans|guan)')"
-p60
-aS"(7488, u'(?i)(molas|mola)')"
-p61
-atp62
-Rp63
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(108, u'\\\\brs ?102221')"
+S"(78, u'\\\\brs ?127445')"
 p5
-aS"(87, u'\\\\brs ?127445')"
+aS"(96, u'\\\\brs ?102221')"
 p6
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(52, u'\\\\bmdl ?100907')"
 p7
 atp8
 Rp9
@@ -36,84 +36,50 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht5'
+S'5ht2b'
 p22
-aS'5ht2b'
-p23
 aS'5ht2c'
-p24
+p23
 aS'5ht2'
-p25
+p24
 aS'5ht2a'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'year'
-p34
+p32
 V2004
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(142, u'\\\\bver ?3323')"
 p36
-g3
-((lp37
-S"(175, u'\\\\borg ?37684')"
+aS"(140, u'\\\\bbw ?723c86')"
+p37
+aS"(169, u'\\\\borg ?37684')"
 p38
-aS"(148, u'\\\\bver ?3323')"
+aS"(175, u'\\\\bdoi')"
 p39
-aS"(146, u'\\\\bbw ?723c86')"
-p40
-aS"(33, u'\\\\bdoi')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(1070, u'(?i)(pets|pet)')"
+((lp43
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p44
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p45
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p46
-aS"(2323, u'(?i)(bees|bee)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(867, u'(?i)(tits|tit)')"
-p50
-aS"(4964, u'(?i)(serins|serin)')"
-p51
-aS"(7539, u'(?i)(mammals|mammal)')"
-p52
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(3726, u'(?i)(mates|mate)')"
-p55
-aS"(3404, u'(?i)(titis|titi)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(1057, u'(?i)(humans|human)')"
-p59
-aS"(1291, u'(?i)(ratels|ratel)')"
-p60
-aS"(1414, u'(?i)(chars|char)')"
-p61
-aS"(3196, u'(?i)(human|humans)')"
-p62
-aS"(4979, u'(?i)(cats|cat)')"
-p63
-atp64
-Rp65
+atp47
+Rp48
 sb.

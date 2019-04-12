@@ -36,44 +36,22 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2010
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(4624, u'(?i)(apes|ape)')"
-p34
-aS"(6356, u'(?i)(ais|ai)')"
-p35
-aS"(6753, u'(?i)(da|das)')"
-p36
-aS"(5551, u'(?i)(owls|owl)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(7094, u'(?i)(curs|cur)')"
-p39
-aS"(4979, u'(?i)(cats|cat)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(7609, u'(?i)(erns|ern)')"
-p42
-aS"(1683, u'(?i)(terns|tern)')"
-p43
-atp44
-Rp45
+((lp32
+tp33
+Rp34
 sb.

@@ -32,62 +32,34 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
-p20
-aS'5ht5a'
-p21
-atp22
-Rp23
+tp20
+Rp21
 sS'regions'
-p24
+p22
 g3
-((lp25
-tp26
-Rp27
+((lp23
+tp24
+Rp25
 sS'year'
-p28
+p26
 V2006
-p29
+p27
 sS'agonists'
-p30
+p28
 g3
-((lp31
-tp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'species'
-p34
+p32
 g3
-((lp35
-S"(2323, u'(?i)(bees|bee)')"
+((lp33
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p34
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p35
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p36
-aS"(5799, u'(?i)(rodents|rodent)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(702, u'(?i)(genets|genet)')"
-p39
-aS"(3767, u'(?i)(olms|olm)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(1057, u'(?i)(humans|human)')"
-p46
-aS"(5229, u'(?i)(moles|mole)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(3196, u'(?i)(human|humans)')"
-p49
-aS"(1795, u'(?i)(mounts|mount)')"
-p50
-atp51
-Rp52
+atp37
+Rp38
 sb.

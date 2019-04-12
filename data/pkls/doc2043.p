@@ -8,114 +8,84 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(193, u'\\\\bmesulergine')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
 aS"(14, u'\\\\bmethiothepin')"
+p6
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(200, u'\\\\bmesulergine')"
-p8
 aS"(22, u'\\\\bpropranolol')"
-p9
-atp10
-Rp11
+p8
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
+p13
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
+((lp18
 S"(25, u'\\\\bvasoconstrict')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht1a'
-p25
+p24
 aS'5ht2'
-p26
+p25
 aS'5ht1'
-p27
-atp28
-Rp29
+p26
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-S"(368, u'(?i)(basilars|basilar)(-|\\\\s+)?(arteries|artery)')"
-p32
-atp33
-Rp34
+((lp30
+S"(368, u'(?i)\\\\b(basilars|basilar)(-|\\\\s+)?(arteries|artery)\\\\b')"
+p31
+atp32
+Rp33
 sS'year'
-p35
+p34
 V1989
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp37
+S"(165, u'\\\\bmesulergine')"
+p38
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p39
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p40
-aS"(5, u'\\\\b5 ?ct')"
+aS"(219, u'\\\\b5 ?ct')"
 p41
-aS"(171, u'\\\\bmesulergine')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(1070, u'(?i)(pets|pet)')"
+((lp45
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p47
-aS"(3404, u'(?i)(titis|titi)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p48
-aS"(6753, u'(?i)(da|das)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(867, u'(?i)(tits|tit)')"
-p51
-aS"(4964, u'(?i)(serins|serin)')"
-p52
-aS"(3051, u'(?i)(pigs|pig)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(3062, u'(?i)(guineas|guinea)')"
-p56
-aS"(853, u'(?i)(minas|mina)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(3522, u'(?i)(tetras|tetra)')"
-p59
-aS"(1414, u'(?i)(chars|char)')"
-p60
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p61
-aS"(1795, u'(?i)(mounts|mount)')"
-p62
-aS"(5743, u'(?i)(bots|bot)')"
-p63
-aS"(6356, u'(?i)(ais|ai)')"
-p64
-atp65
-Rp66
+atp50
+Rp51
 sb.

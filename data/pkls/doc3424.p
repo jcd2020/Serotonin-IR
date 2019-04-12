@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,42 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(6249, u'(?i)(ants|ant)')"
+S"(1449, u'(?i)\\\\b(giants|giant)\\\\b')"
 p36
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(2223, u'(?i)\\\\b(lampreys|lamprey)\\\\b')"
 p37
-aS"(4201, u'(?i)(kines|kine)')"
-p38
-aS"(479, u'(?i)(lings|ling)')"
-p39
-aS"(81, u'(?i)(asps|asp)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(7094, u'(?i)(curs|cur)')"
-p43
-aS"(1538, u'(?i)(preys|prey)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(7610, u'(?i)(ernes|erne)')"
-p49
-aS"(6642, u'(?i)(lions|lion)')"
-p50
-aS"(1449, u'(?i)(giants|giant)')"
-p51
-aS"(2223, u'(?i)(lampreys|lamprey)')"
-p52
-aS"(1683, u'(?i)(terns|tern)')"
-p53
-atp54
-Rp55
+atp38
+Rp39
 sb.

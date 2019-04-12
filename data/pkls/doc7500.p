@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(37, u'\\\\bar ?a000002')"
+S"(36, u'\\\\bar ?a000002')"
 p5
 atp6
 Rp7
@@ -42,64 +42,28 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2017
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(169, u'\\\\bfenfluramine')"
-p33
-atp34
-Rp35
+((lp31
+S"(163, u'\\\\bfenfluramine')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(1070, u'(?i)(pets|pet)')"
+((lp36
+S"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
+p37
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p38
-aS"(3404, u'(?i)(titis|titi)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(867, u'(?i)(tits|tit)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(1349, u'(?i)(rams|ram)')"
-p47
-aS"(853, u'(?i)(minas|mina)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(1414, u'(?i)(chars|char)')"
-p51
-aS"(391, u'(?i)(alli|allis)')"
-p52
-aS"(2809, u'(?i)(toms|tom)')"
-p53
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(5949, u'(?i)(dogs|dog)')"
-p56
-atp57
-Rp58
+atp39
+Rp40
 sb.

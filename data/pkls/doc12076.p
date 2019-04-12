@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(50, u'\\\\btrazodone')"
+S"(42, u'\\\\bvortioxetine')"
 p5
-aS"(44, u'\\\\bvortioxetine')"
+aS"(48, u'\\\\btrazodone')"
 p6
-aS"(51, u'\\\\bmirtazapine')"
+aS"(134, u'\\\\bmirtazapine')"
 p7
 atp8
 Rp9
@@ -54,68 +54,38 @@ aS'5ht7a'
 p29
 aS'5ht1a'
 p30
-aS'5ht5a'
-p31
 aS'5ht3'
-p32
-atp33
-Rp34
+p31
+atp32
+Rp33
 sS'regions'
-p35
+p34
 g3
-((lp36
-S"(34, u'(?i)(pon|pons)')"
-p37
-atp38
-Rp39
+((lp35
+tp36
+Rp37
 sS'year'
-p40
+p38
 V2013
-p41
+p39
 sS'agonists'
+p40
+g3
+((lp41
+S"(20, u'\\\\bbuspirone')"
 p42
-g3
-((lp43
-S"(101, u'\\\\bvortioxetine')"
+aS"(94, u'\\\\bvortioxetine')"
+p43
+aS"(75, u'\\\\btrazodone')"
 p44
-aS"(24, u'\\\\bbuspirone')"
+aS"(80, u'\\\\bvilazodone')"
 p45
-aS"(87, u'\\\\bvilazodone')"
-p46
-aS"(82, u'\\\\btrazodone')"
-p47
-atp48
-Rp49
+atp46
+Rp47
 sS'species'
-p50
+p48
 g3
-((lp51
-S"(4624, u'(?i)(apes|ape)')"
-p52
-aS"(6753, u'(?i)(da|das)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(5917, u'(?i)(roaches|roach)')"
-p55
-aS"(5176, u'(?i)(tegs|teg)')"
-p56
-aS"(468, u'(?i)(oxen|ox)')"
-p57
-aS"(1055, u'(?i)(men|man)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-aS"(853, u'(?i)(minas|mina)')"
-p60
-aS"(3550, u'(?i)(anis|ani)')"
-p61
-aS"(7094, u'(?i)(curs|cur)')"
-p62
-aS"(5229, u'(?i)(moles|mole)')"
-p63
-aS"(2809, u'(?i)(toms|tom)')"
-p64
-atp65
-Rp66
+((lp49
+tp50
+Rp51
 sb.

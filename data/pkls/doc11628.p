@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(390, u'(?i)(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)')"
+S"(390, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)\\\\b')"
 p24
 atp25
 Rp26
@@ -50,9 +50,9 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(117, u'\\\\bpnu ?142633')"
+S"(110, u'\\\\bpnu ?142633')"
 p31
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p32
 atp33
 Rp34
@@ -60,28 +60,8 @@ sS'species'
 p35
 g3
 ((lp36
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(7094, u'(?i)(curs|cur)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(2568, u'(?i)(hens|hen)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(4133, u'(?i)(pikes|pike)')"
-p47
-atp48
-Rp49
+atp38
+Rp39
 sb.

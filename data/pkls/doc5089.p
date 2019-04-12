@@ -36,44 +36,28 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2009
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(2323, u'(?i)(bees|bee)')"
+((lp32
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p33
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p34
-aS"(3527, u'(?i)(permits|permit)')"
+aS"(3527, u'(?i)\\\\b(permits|permit)\\\\b')"
 p35
-aS"(163, u'(?i)(mice|mouse)')"
-p36
-aS"(479, u'(?i)(lings|ling)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(3152, u'(?i)(layers|layer)')"
-p39
-aS"(853, u'(?i)(minas|mina)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(6642, u'(?i)(lions|lion)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-atp44
-Rp45
+atp36
+Rp37
 sb.

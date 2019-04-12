@@ -36,9 +36,9 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(174, u'(?i)(posteriors|posterior)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p23
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p24
 atp25
 Rp26
@@ -56,34 +56,12 @@ sS'species'
 p33
 g3
 ((lp34
-S"(5626, u'(?i)(posters|poster)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p35
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p37
-aS"(6094, u'(?i)(emus|emu)')"
-p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(3152, u'(?i)(layers|layer)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(5229, u'(?i)(moles|mole)')"
-p44
-aS"(4371, u'(?i)(lizas|liza)')"
-p45
-aS"(3247, u'(?i)(youngs|young)')"
-p46
-aS"(2809, u'(?i)(toms|tom)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-atp49
-Rp50
+atp38
+Rp39
 sb.

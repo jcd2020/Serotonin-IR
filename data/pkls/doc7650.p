@@ -40,46 +40,30 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p25
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V1993
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(5958, u'(?i)(rats|rat)')"
+((lp36
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(7539, u'(?i)(mammals|mammal)')"
-p40
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p41
-aS"(853, u'(?i)(minas|mina)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(1414, u'(?i)(chars|char)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(7309, u'(?i)(gnats|gnat)')"
-p46
-atp47
-Rp48
+atp39
+Rp40
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(149, u'\\\\bmemantine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(140, u'\\\\bmemantine')"
 p6
 atp7
 Rp8
@@ -48,84 +48,32 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+tp29
+Rp30
 sS'year'
-p32
+p31
 V1999
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(193, u'\\\\bethanol')"
+((lp34
+S"(11, u'\\\\bamphetamine')"
+p35
+aS"(149, u'\\\\bmem')"
 p36
-aS"(14, u'\\\\bamphetamine')"
+aS"(189, u'\\\\bethanol')"
 p37
-aS"(155, u'\\\\bmem')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(949, u'(?i)(cohoes|coho)')"
+((lp41
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p42
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p43
-aS"(7609, u'(?i)(erns|ern)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(3196, u'(?i)(human|humans)')"
-p50
-aS"(6878, u'(?i)(guans|guan)')"
-p51
-aS"(1070, u'(?i)(pets|pet)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(3404, u'(?i)(titis|titi)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(6753, u'(?i)(da|das)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p59
-aS"(867, u'(?i)(tits|tit)')"
-p60
-aS"(1055, u'(?i)(men|man)')"
-p61
-aS"(4979, u'(?i)(cats|cat)')"
-p62
-aS"(1057, u'(?i)(humans|human)')"
-p63
-aS"(4371, u'(?i)(lizas|liza)')"
-p64
-aS"(1414, u'(?i)(chars|char)')"
-p65
-aS"(2568, u'(?i)(hens|hen)')"
-p66
-aS"(853, u'(?i)(minas|mina)')"
-p67
-aS"(3726, u'(?i)(mates|mate)')"
-p68
-aS"(1683, u'(?i)(terns|tern)')"
-p69
-atp70
-Rp71
+atp44
+Rp45
 sb.

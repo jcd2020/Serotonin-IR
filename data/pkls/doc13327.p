@@ -8,66 +8,56 @@ c__builtin__
 set
 p3
 ((lp4
-S"(123, u'\\\\bclozapine')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(56, u'\\\\bclozapine')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.AGONIST'
-p11
-atp12
-Rp13
+p10
+atp11
+Rp12
 sS'topics'
-p14
+p13
 g3
-((lp15
-tp16
-Rp17
+((lp14
+tp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
+((lp18
 S'5ht3'
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-tp25
-Rp26
+((lp23
+tp24
+Rp25
 sS'year'
-p27
+p26
 V1994
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+((lp29
+S"(23, u'\\\\bclozapine')"
+p30
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p31
-aS"(27, u'\\\\bclozapine')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(6682, u'(?i)(tera|teras)')"
-p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(4371, u'(?i)(lizas|liza)')"
-p40
-atp41
-Rp42
+((lp35
+tp36
+Rp37
 sb.

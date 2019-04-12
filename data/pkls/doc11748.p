@@ -38,11 +38,11 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(302, u'(?i)(corpuses|corpus)(-|\\\\s+)?(callosums|callosum)')"
+S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p24
-aS"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p25
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(302, u'(?i)\\\\b(corpuses|corpus)(-|\\\\s+)?(callosums|callosum)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,34 +60,8 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(949, u'(?i)(cohoes|coho)')"
-p38
-aS"(2183, u'(?i)(gars|gar)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(3592, u'(?i)(ravens|raven)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6580, u'(?i)(dams|dam)')"
-p45
-aS"(1488, u'(?i)(yaks|yak)')"
-p46
-aS"(5917, u'(?i)(roaches|roach)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-atp51
-Rp52
+atp38
+Rp39
 sb.

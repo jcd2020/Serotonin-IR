@@ -38,74 +38,40 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2006
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp31
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p32
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p33
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(219, u'\\\\b5 ?ct')"
 p34
-aS"(5, u'\\\\b5 ?ct')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(3550, u'(?i)(anis|ani)')"
+((lp38
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p39
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p42
-aS"(6125, u'(?i)(females|female)')"
-p43
-aS"(163, u'(?i)(mice|mouse)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(1725, u'(?i)(clams|clam)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(7094, u'(?i)(curs|cur)')"
-p51
-aS"(2395, u'(?i)(mutants|mutant)')"
-p52
-aS"(3522, u'(?i)(tetras|tetra)')"
-p53
-aS"(5967, u'(?i)(males|male)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(1414, u'(?i)(chars|char)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(6878, u'(?i)(guans|guan)')"
-p58
-aS"(4133, u'(?i)(pikes|pike)')"
-p59
-atp60
-Rp61
+atp43
+Rp44
 sb.

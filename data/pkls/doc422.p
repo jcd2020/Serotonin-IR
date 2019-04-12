@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(25, u'\\\\bcannabidiol')"
+S"(21, u'\\\\bcannabidiol')"
 p31
 atp32
 Rp33
@@ -58,36 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5958, u'(?i)(rats|rat)')"
+S"(3072, u'(?i)\\\\b(piglets|piglet)\\\\b')"
 p36
-aS"(3072, u'(?i)(piglets|piglet)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p37
-aS"(4163, u'(?i)(ermines|ermine)')"
-p38
-aS"(3051, u'(?i)(pigs|pig)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(3592, u'(?i)(ravens|raven)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(1147, u'(?i)(bronchoes|broncho)')"
-p45
-aS"(7127, u'(?i)(monitors|monitor)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(6580, u'(?i)(dams|dam)')"
-p49
-aS"(1146, u'(?i)(broncs|bronc)')"
-p50
-atp51
-Rp52
+atp38
+Rp39
 sb.

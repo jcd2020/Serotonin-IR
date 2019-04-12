@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(139, u'\\\\bmetoclopramide')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
 atp6
 Rp7
@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
+S"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,9 +52,9 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(213, u'\\\\bmetoclopramide')"
+S"(209, u'\\\\bmetoclopramide')"
 p32
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p33
 atp34
 Rp35
@@ -62,30 +62,10 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2670, u'(?i)(arabs|arab)')"
+S"(2665, u'(?i)\\\\b(rays|ray)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
 p39
-aS"(867, u'(?i)(tits|tit)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(2327, u'(?i)(bovines|bovine)')"
-p42
-aS"(4163, u'(?i)(ermines|ermine)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(2665, u'(?i)(rays|ray)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-atp50
-Rp51
+atp40
+Rp41
 sb.

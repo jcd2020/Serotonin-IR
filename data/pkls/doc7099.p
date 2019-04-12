@@ -50,9 +50,9 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p31
-aS"(5, u'\\\\b5 ?ct')"
+aS"(219, u'\\\\b5 ?ct')"
 p32
 atp33
 Rp34
@@ -60,14 +60,6 @@ sS'species'
 p35
 g3
 ((lp36
-S"(5537, u'(?i)(hippos|hippo)')"
-p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-atp41
-Rp42
+tp37
+Rp38
 sb.

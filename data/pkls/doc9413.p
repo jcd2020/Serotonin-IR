@@ -22,19 +22,19 @@ sS'topics'
 p12
 g3
 ((lp13
-S"(35, u'\\\\bstress')"
+S"(36, u'\\\\bcompulsiv')"
 p14
-aS"(10, u'\\\\banxiety')"
+aS"(35, u'\\\\bstress')"
 p15
-atp16
-Rp17
+aS"(10, u'\\\\banxiety')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
-S'5ht5'
-p20
-aS'5ht1a'
+((lp20
+S'5ht1a'
 p21
 aS'5ht2'
 p22
@@ -46,19 +46,19 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(157, u'(?i)(limbics|limbic)(-|\\\\s+)?(systems|system)')"
+S"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
 p28
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p29
-aS"(34, u'(?i)(pon|pons)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p30
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p31
-aS"(225, u'(?i)(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)')"
+aS"(222, u'(?i)\\\\b(neostriatums|neostriatum)\\\\b')"
 p32
-aS"(222, u'(?i)(neostriatums|neostriatum)')"
+aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
 p33
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(34, u'(?i)\\\\b(pon|pons)\\\\b')"
 p34
 atp35
 Rp36
@@ -76,32 +76,10 @@ sS'species'
 p43
 g3
 ((lp44
-S"(1070, u'(?i)(pets|pet)')"
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p45
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p46
-aS"(867, u'(?i)(tits|tit)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(479, u'(?i)(lings|ling)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(3152, u'(?i)(layers|layer)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+atp47
+Rp48
 sb.

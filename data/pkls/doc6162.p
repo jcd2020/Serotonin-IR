@@ -30,7 +30,7 @@ g3
 ((lp17
 S'5ht7'
 p18
-aS'5ht5'
+aS'5ht1a'
 p19
 aS'5ht3'
 p20
@@ -38,76 +38,42 @@ aS'5ht2'
 p21
 aS'5ht1'
 p22
-aS'5ht1a'
-p23
 aS'5ht4a'
-p24
+p23
 aS'5ht2b'
-p25
+p24
 aS'5ht2c'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+((lp29
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+p30
+aS"(6, u'(?i)\\\\b(rostrals|rostral)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)\\\\b')"
 p31
-aS"(6, u'(?i)(rostrals|rostral)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)')"
+aS"(30, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(ambiguuses|ambiguus)\\\\b')"
 p32
-aS"(30, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(ambiguuses|ambiguus)')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'year'
-p36
+p35
 V2005
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-tp40
-Rp41
+((lp38
+tp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(6753, u'(?i)(da|das)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(7539, u'(?i)(mammals|mammal)')"
-p48
-aS"(479, u'(?i)(lings|ling)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(3726, u'(?i)(mates|mate)')"
-p53
-aS"(853, u'(?i)(minas|mina)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(7609, u'(?i)(erns|ern)')"
-p58
-aS"(6642, u'(?i)(lions|lion)')"
-p59
-aS"(1683, u'(?i)(terns|tern)')"
-p60
-atp61
-Rp62
+((lp42
+S"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+p43
+atp44
+Rp45
 sb.

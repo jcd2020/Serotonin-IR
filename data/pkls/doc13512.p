@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(103, u'\\\\bsumatriptan')"
+S"(96, u'\\\\bsumatriptan')"
 p30
 atp31
 Rp32
@@ -56,30 +56,14 @@ sS'species'
 p33
 g3
 ((lp34
-S"(6249, u'(?i)(ants|ant)')"
+S"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
 p35
-aS"(867, u'(?i)(tits|tit)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p36
-aS"(4979, u'(?i)(cats|cat)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p37
-aS"(2327, u'(?i)(bovines|bovine)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p38
-aS"(3051, u'(?i)(pigs|pig)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(3062, u'(?i)(guineas|guinea)')"
-p41
-aS"(1054, u'(?i)(homoes|homo)')"
-p42
-aS"(853, u'(?i)(minas|mina)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-atp47
-Rp48
+atp39
+Rp40
 sb.

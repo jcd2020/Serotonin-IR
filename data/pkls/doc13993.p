@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(99, u'\\\\bsb ?242084')"
 p5
-aS"(110, u'\\\\bsb ?242084')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
 atp7
 Rp8
@@ -38,52 +38,28 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(390, u'(?i)(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)')"
+S"(390, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2013
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p32
-atp33
-Rp34
+((lp30
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(2323, u'(?i)(bees|bee)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(4163, u'(?i)(ermines|ermine)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(5131, u'(?i)(hags|hag)')"
-p42
-aS"(6215, u'(?i)(racers|racer)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(2512, u'(?i)(chickens|chicken)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(709, u'(?i)(chicks|chick)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-atp49
-Rp50
+((lp35
+S"(2512, u'(?i)\\\\b(chickens|chicken)\\\\b')"
+p36
+atp37
+Rp38
 sb.

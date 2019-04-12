@@ -38,56 +38,36 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V1995
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(153, u'\\\\bmdma')"
+((lp29
+S"(147, u'\\\\bmdma')"
+p30
+aS"(175, u'\\\\bdoi')"
 p31
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(11, u'\\\\bamphetamine')"
 p32
-aS"(169, u'\\\\bfenfluramine')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p33
-aS"(14, u'\\\\bamphetamine')"
+aS"(163, u'\\\\bfenfluramine')"
 p34
-aS"(33, u'\\\\bdoi')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(2568, u'(?i)(hens|hen)')"
+((lp38
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+p39
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(1885, u'(?i)(apars|apar)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(3522, u'(?i)(tetras|tetra)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-atp51
-Rp52
+atp41
+Rp42
 sb.

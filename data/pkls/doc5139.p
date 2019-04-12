@@ -50,7 +50,7 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(126, u'(?i)(thalamuses|thalamus)')"
+S"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p30
 atp31
 Rp32
@@ -62,7 +62,7 @@ sS'agonists'
 p35
 g3
 ((lp36
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p37
 atp38
 Rp39
@@ -70,34 +70,8 @@ sS'species'
 p40
 g3
 ((lp41
-S"(2323, u'(?i)(bees|bee)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p42
-aS"(5537, u'(?i)(hippos|hippo)')"
-p43
-aS"(5176, u'(?i)(tegs|teg)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(163, u'(?i)(mice|mouse)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(5551, u'(?i)(owls|owl)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(5229, u'(?i)(moles|mole)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+atp43
+Rp44
 sb.

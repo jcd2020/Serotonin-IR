@@ -56,50 +56,28 @@ aS'5ht2c'
 p30
 aS'5ht2a'
 p31
-aS'5ht5'
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'regions'
-p35
+p34
 g3
-((lp36
-tp37
-Rp38
+((lp35
+tp36
+Rp37
 sS'year'
-p39
+p38
 V2015
-p40
+p39
 sS'agonists'
-p41
+p40
 g3
-((lp42
-tp43
-Rp44
+((lp41
+tp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(2323, u'(?i)(bees|bee)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(479, u'(?i)(lings|ling)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(5229, u'(?i)(moles|mole)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-atp57
-Rp58
+((lp45
+tp46
+Rp47
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(21, u'\\\\bpindolol')"
 p5
-aS"(21, u'\\\\bpindolol')"
+aS"(31, u'\\\\bway ?100635')"
 p6
 atp7
 Rp8
@@ -52,9 +52,9 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(20, u'\\\\bbuspirone')"
 p32
-aS"(24, u'\\\\bbuspirone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p33
 atp34
 Rp35
@@ -62,32 +62,8 @@ sS'species'
 p36
 g3
 ((lp37
-S"(5967, u'(?i)(males|male)')"
+S"(1312, u'(?i)\\\\b(pigeons|pigeon)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(2568, u'(?i)(hens|hen)')"
-p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(3051, u'(?i)(pigs|pig)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(6282, u'(?i)(wolves|wolf)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(3522, u'(?i)(tetras|tetra)')"
-p47
-aS"(4371, u'(?i)(lizas|liza)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(1312, u'(?i)(pigeons|pigeon)')"
-p50
-atp51
-Rp52
+atp39
+Rp40
 sb.

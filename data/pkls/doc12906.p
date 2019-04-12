@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(95, u'\\\\bsb ?206553')"
+S"(84, u'\\\\bsb ?206553')"
 p5
 atp6
 Rp7
@@ -52,11 +52,11 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(6, u'\\\\b5 ?mt')"
+S"(221, u'\\\\b5 ?mt')"
 p32
-aS"(146, u'\\\\bbw ?723c86')"
+aS"(140, u'\\\\bbw ?723c86')"
 p33
-aS"(161, u'\\\\bmcpp')"
+aS"(155, u'\\\\bmcpp')"
 p34
 atp35
 Rp36
@@ -64,36 +64,16 @@ sS'species'
 p37
 g3
 ((lp38
-S"(3550, u'(?i)(anis|ani)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p39
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p41
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(163, u'(?i)(mice|mouse)')"
-p44
-aS"(4091, u'(?i)(adults|adult)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(2395, u'(?i)(mutants|mutant)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-atp54
-Rp55
+atp44
+Rp45
 sb.

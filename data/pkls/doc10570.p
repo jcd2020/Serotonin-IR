@@ -44,78 +44,36 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(214, u'(?i)(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+S"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
 p27
-aS"(215, u'(?i)(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p28
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'year'
-p33
+p31
 V1999
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(99, u'\\\\bcgs ?12066a')"
 p35
-g3
-((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(176, u'\\\\bdom')"
+p36
+aS"(149, u'\\\\bmem')"
 p37
-aS"(106, u'\\\\bcgs ?12066a')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p38
-aS"(181, u'\\\\bdom')"
-p39
-aS"(155, u'\\\\bmem')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(7609, u'(?i)(erns|ern)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(4163, u'(?i)(ermines|ermine)')"
-p51
-aS"(1725, u'(?i)(clams|clam)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(3726, u'(?i)(mates|mate)')"
-p54
-aS"(853, u'(?i)(minas|mina)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(3522, u'(?i)(tetras|tetra)')"
-p57
-aS"(7094, u'(?i)(curs|cur)')"
-p58
-aS"(1961, u'(?i)(pens|pen)')"
-p59
-aS"(1414, u'(?i)(chars|char)')"
-p60
-aS"(6391, u'(?i)(asses|ass)')"
-p61
-aS"(7610, u'(?i)(ernes|erne)')"
-p62
-aS"(1683, u'(?i)(terns|tern)')"
-p63
-aS"(6682, u'(?i)(tera|teras)')"
-p64
-atp65
-Rp66
+((lp42
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

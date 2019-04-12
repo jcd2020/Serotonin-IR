@@ -34,72 +34,42 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht1a'
 p21
-aS'5ht1a'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+((lp25
+tp26
+Rp27
 sS'year'
-p30
+p28
 V2008
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p32
-g3
-((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(2323, u'(?i)(bees|bee)')"
+((lp36
+S"(93, u'(?i)\\\\b(sunfish|sunfish)\\\\b')"
+p37
+aS"(3685, u'(?i)\\\\b(bluegills|bluegill)\\\\b')"
+p38
+aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3883, u'(?i)\\\\b(teleosts|teleost)\\\\b')"
 p40
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
 p41
-aS"(4657, u'(?i)(fish|fish)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(7539, u'(?i)(mammals|mammal)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(2183, u'(?i)(gars|gar)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(4604, u'(?i)(mites|mite)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(3685, u'(?i)(bluegills|bluegill)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(7094, u'(?i)(curs|cur)')"
-p53
-aS"(4749, u'(?i)(blues|blue)')"
-p54
-aS"(93, u'(?i)(sunfish|sunfish)')"
-p55
-aS"(3883, u'(?i)(teleosts|teleost)')"
-p56
-atp57
-Rp58
+atp42
+Rp43
 sb.

@@ -8,108 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(57, u'\\\\bolanzapine')"
+S"(111, u'\\\\bolanzapine')"
 p5
-aS"(124, u'\\\\bolanzapine')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(15, u'\\\\bschizophreni')"
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
-S'5ht5'
-p22
-aS'5ht2a'
-p23
-atp24
-Rp25
+((lp20
+S'5ht2a'
+p21
+atp22
+Rp23
 sS'regions'
+p24
+g3
+((lp25
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p26
-g3
-((lp27
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p27
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p29
-aS"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p30
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p31
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p32
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V2013
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(57, u'\\\\bolanzapine')"
 p38
-g3
-((lp39
-S"(181, u'\\\\bdom')"
-p40
-aS"(64, u'\\\\bolanzapine')"
-p41
-atp42
-Rp43
+aS"(176, u'\\\\bdom')"
+p39
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(4624, u'(?i)(apes|ape)')"
-p46
-aS"(5176, u'(?i)(tegs|teg)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(6125, u'(?i)(females|female)')"
-p49
-aS"(867, u'(?i)(tits|tit)')"
-p50
-aS"(4964, u'(?i)(serins|serin)')"
-p51
-aS"(6753, u'(?i)(da|das)')"
-p52
-aS"(5967, u'(?i)(males|male)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(2942, u'(?i)(daws|daw)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(2809, u'(?i)(toms|tom)')"
-p59
-aS"(5743, u'(?i)(bots|bot)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-atp62
-Rp63
+((lp43
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+p45
+atp46
+Rp47
 sb.

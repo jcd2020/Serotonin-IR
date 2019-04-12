@@ -40,9 +40,9 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,9 +54,9 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(47, u'\\\\bgepirone')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p33
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(42, u'\\\\bgepirone')"
 p34
 atp35
 Rp36
@@ -64,16 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(6356, u'(?i)(ais|ai)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(3522, u'(?i)(tetras|tetra)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-atp44
-Rp45
+atp40
+Rp41
 sb.

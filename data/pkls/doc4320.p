@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(133, u'\\\\bmianserin')"
 p5
-aS"(117, u'\\\\bmianserin')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
 atp7
 Rp8
@@ -38,56 +38,34 @@ S'5ht1c'
 p21
 aS'5ht1b'
 p22
-aS'5ht5'
-p23
 aS'5ht1a'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'year'
-p32
+p31
 V1989
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p36
-atp37
-Rp38
+((lp34
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(1070, u'(?i)(pets|pet)')"
-p41
-aS"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(867, u'(?i)(tits|tit)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(3404, u'(?i)(titis|titi)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(7488, u'(?i)(molas|mola)')"
-p47
-aS"(4964, u'(?i)(serins|serin)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-atp51
-Rp52
+((lp39
+tp40
+Rp41
 sb.

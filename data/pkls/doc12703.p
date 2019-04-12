@@ -36,11 +36,11 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(220, u'(?i)(striatums|striatum)')"
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p23
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p24
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,50 +58,22 @@ sS'species'
 p34
 g3
 ((lp35
-S"(2183, u'(?i)(gars|gar)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p36
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p39
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p40
-aS"(2665, u'(?i)(rays|ray)')"
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p41
-aS"(5783, u'(?i)(hinds|hind)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p42
-aS"(1070, u'(?i)(pets|pet)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(3062, u'(?i)(guineas|guinea)')"
-p45
-aS"(2809, u'(?i)(toms|tom)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(163, u'(?i)(mice|mouse)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p52
-aS"(5799, u'(?i)(rodents|rodent)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(3051, u'(?i)(pigs|pig)')"
-p55
-aS"(3726, u'(?i)(mates|mate)')"
-p56
-aS"(4177, u'(?i)(grays|gray)')"
-p57
-atp58
-Rp59
+atp44
+Rp45
 sb.

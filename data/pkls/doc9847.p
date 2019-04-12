@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(127, u'\\\\bderamciclane')"
+S"(116, u'\\\\bderamciclane')"
 p5
 atp6
 Rp7
@@ -34,62 +34,34 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht2c'
 p21
-aS'5ht2c'
-p22
 aS'5ht2a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-tp28
-Rp29
+((lp26
+tp27
+Rp28
 sS'year'
-p30
+p29
 V1998
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(6753, u'(?i)(da|das)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(867, u'(?i)(tits|tit)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(4163, u'(?i)(ermines|ermine)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(7058, u'(?i)(does|doe)')"
-p48
-aS"(1414, u'(?i)(chars|char)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+((lp36
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p37
+atp38
+Rp39
 sb.

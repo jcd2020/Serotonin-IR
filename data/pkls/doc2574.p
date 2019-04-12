@@ -8,102 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(130, u'\\\\britanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(3, u'\\\\bsleep')"
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht1a'
-p22
+p21
 aS'5ht2c'
-p23
+p22
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(165, u'(?i)(preoptics|preoptic)(-|\\\\s+)?(areas|area)')"
+((lp27
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p28
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(187, u'(?i)(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(185, u'(?i)\\\\b(tuberomammillaries|tuberomammillary)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(175, u'(?i)(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)')"
+aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
 p31
-aS"(185, u'(?i)(tuberomammillaries|tuberomammillary)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p34
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p35
-atp36
-Rp37
+atp32
+Rp33
 sS'year'
-p38
+p34
 V2011
-p39
+p35
 sS'agonists'
-p40
+p36
 g3
-((lp41
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p42
-aS"(33, u'\\\\bdoi')"
-p43
-atp44
-Rp45
+((lp37
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p38
+aS"(175, u'\\\\bdoi')"
+p39
+atp40
+Rp41
 sS'species'
-p46
+p42
 g3
-((lp47
-S"(2323, u'(?i)(bees|bee)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(5949, u'(?i)(dogs|dog)')"
-p58
-atp59
-Rp60
+((lp43
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

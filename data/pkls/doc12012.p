@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(141, u'\\\\bzacopride')"
+S"(130, u'\\\\bzacopride')"
 p5
-aS"(153, u'\\\\bgr ?113808')"
+aS"(144, u'\\\\bgr ?113808')"
 p6
 atp7
 Rp8
@@ -48,7 +48,7 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(157, u'(?i)(limbics|limbic)(-|\\\\s+)?(systems|system)')"
+S"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
 p29
 atp30
 Rp31
@@ -60,11 +60,11 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(206, u'\\\\bprucalopride')"
+S"(206, u'\\\\bsl650155')"
 p36
-aS"(212, u'\\\\bzacopride')"
+aS"(208, u'\\\\bzacopride')"
 p37
-aS"(210, u'\\\\bsl650155')"
+aS"(202, u'\\\\bprucalopride')"
 p38
 atp39
 Rp40
@@ -72,34 +72,10 @@ sS'species'
 p41
 g3
 ((lp42
-S"(2323, u'(?i)(bees|bee)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p43
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(163, u'(?i)(mice|mouse)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(5537, u'(?i)(hippos|hippo)')"
-p54
-aS"(821, u'(?i)(lice|louse)')"
-p55
-aS"(4133, u'(?i)(pikes|pike)')"
-p56
-atp57
-Rp58
+atp45
+Rp46
 sb.

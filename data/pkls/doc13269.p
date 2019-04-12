@@ -50,36 +50,14 @@ sS'species'
 p30
 g3
 ((lp31
-S"(5958, u'(?i)(rats|rat)')"
+S"(4208, u'(?i)\\\\b(canines|canine)\\\\b')"
 p32
-aS"(3601, u'(?i)(efts|eft)')"
+aS"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
 p33
-aS"(6682, u'(?i)(tera|teras)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p34
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p35
-aS"(1055, u'(?i)(men|man)')"
-p36
-aS"(6249, u'(?i)(ants|ant)')"
-p37
-aS"(4979, u'(?i)(cats|cat)')"
-p38
-aS"(4208, u'(?i)(canines|canine)')"
-p39
-aS"(3550, u'(?i)(anis|ani)')"
-p40
-aS"(1057, u'(?i)(humans|human)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-aS"(3196, u'(?i)(human|humans)')"
-p43
-aS"(2809, u'(?i)(toms|tom)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(5949, u'(?i)(dogs|dog)')"
-p46
-atp47
-Rp48
+atp36
+Rp37
 sb.

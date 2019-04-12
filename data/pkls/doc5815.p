@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -54,9 +54,9 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(80, u'\\\\btandospirone')"
+S"(73, u'\\\\btandospirone')"
 p33
-aS"(76, u'\\\\bsarizotan')"
+aS"(69, u'\\\\bsarizotan')"
 p34
 atp35
 Rp36
@@ -64,42 +64,12 @@ sS'species'
 p37
 g3
 ((lp38
-S"(4624, u'(?i)(apes|ape)')"
+S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p39
-aS"(5967, u'(?i)(males|male)')"
+aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(2401, u'(?i)(primates|primate)')"
-p43
-aS"(4201, u'(?i)(kines|kine)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(3726, u'(?i)(mates|mate)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(3522, u'(?i)(tetras|tetra)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(6521, u'(?i)(macaques|macaque)')"
-p55
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p56
-atp57
-Rp58
+atp42
+Rp43
 sb.

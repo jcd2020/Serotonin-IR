@@ -46,7 +46,7 @@ sS'agonists'
 p27
 g3
 ((lp28
-S"(169, u'\\\\bfenfluramine')"
+S"(163, u'\\\\bfenfluramine')"
 p29
 atp30
 Rp31
@@ -54,46 +54,24 @@ sS'species'
 p32
 g3
 ((lp33
-S"(1070, u'(?i)(pets|pet)')"
+S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
 p34
-aS"(5917, u'(?i)(roaches|roach)')"
+aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p35
-aS"(4635, u'(?i)(baboons|baboon)')"
+aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
 p36
-aS"(2401, u'(?i)(primates|primate)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p37
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p38
-aS"(1349, u'(?i)(rams|ram)')"
+aS"(4635, u'(?i)\\\\b(baboons|baboon)\\\\b')"
 p39
-aS"(3726, u'(?i)(mates|mate)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p40
-aS"(1055, u'(?i)(men|man)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p41
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p42
-aS"(7094, u'(?i)(curs|cur)')"
-p43
-aS"(1057, u'(?i)(humans|human)')"
-p44
-aS"(4597, u'(?i)(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(3196, u'(?i)(human|humans)')"
-p48
-aS"(6521, u'(?i)(macaques|macaque)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p51
-aS"(4596, u'(?i)(rhesuses|rhesus)')"
-p52
-aS"(5949, u'(?i)(dogs|dog)')"
-p53
-atp54
-Rp55
+atp43
+Rp44
 sb.

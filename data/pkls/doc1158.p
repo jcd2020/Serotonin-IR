@@ -34,7 +34,7 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p22
 atp23
 Rp24
@@ -52,38 +52,16 @@ sS'species'
 p31
 g3
 ((lp32
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(6580, u'(?i)\\\\b(dams|dam)\\\\b')"
 p33
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p34
-aS"(6125, u'(?i)(females|female)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(6753, u'(?i)(da|das)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p36
-aS"(479, u'(?i)(lings|ling)')"
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p37
-aS"(4091, u'(?i)(adults|adult)')"
-p38
-aS"(5967, u'(?i)(males|male)')"
-p39
-aS"(4163, u'(?i)(ermines|ermine)')"
-p40
-aS"(1349, u'(?i)(rams|ram)')"
-p41
-aS"(6580, u'(?i)(dams|dam)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6682, u'(?i)(tera|teras)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(4074, u'(?i)(bulls|bull)')"
-p48
-atp49
-Rp50
+atp38
+Rp39
 sb.

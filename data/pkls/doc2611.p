@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(27, u'\\\\bspiperone')"
-p6
 aS"(21, u'\\\\bpindolol')"
+p6
+aS"(31, u'\\\\bway ?100635')"
 p7
 atp8
 Rp9
@@ -54,17 +54,17 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(44, u'\\\\bflesinoxan')"
+S"(20, u'\\\\bbuspirone')"
 p33
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(37, u'\\\\bf ?13714')"
 p34
-aS"(24, u'\\\\bbuspirone')"
+aS"(39, u'\\\\bflesinoxan')"
 p35
-aS"(121, u'\\\\bl ?694247')"
+aS"(114, u'\\\\bl ?694247')"
 p36
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p37
-aS"(42, u'\\\\bf ?13714')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p38
 atp39
 Rp40
@@ -72,48 +72,12 @@ sS'species'
 p41
 g3
 ((lp42
-S"(4624, u'(?i)(apes|ape)')"
+S"(5685, u'(?i)\\\\b(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)\\\\b')"
 p43
-aS"(3550, u'(?i)(anis|ani)')"
+aS"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
 p44
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(81, u'(?i)(asps|asp)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(5944, u'(?i)(soles|sole)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p53
-aS"(2395, u'(?i)(mutants|mutant)')"
-p54
-aS"(3522, u'(?i)(tetras|tetra)')"
-p55
-aS"(7094, u'(?i)(curs|cur)')"
-p56
-aS"(5917, u'(?i)(roaches|roach)')"
-p57
-aS"(4371, u'(?i)(lizas|liza)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-aS"(6391, u'(?i)(asses|ass)')"
-p60
-aS"(6878, u'(?i)(guans|guan)')"
-p61
-aS"(5685, u'(?i)(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)')"
-p62
-aS"(6249, u'(?i)(ants|ant)')"
-p63
-atp64
-Rp65
+atp46
+Rp47
 sb.

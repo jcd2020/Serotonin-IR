@@ -52,11 +52,11 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(74, u'\\\\bru ?24969')"
+S"(39, u'\\\\bflesinoxan')"
 p32
-aS"(44, u'\\\\bflesinoxan')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p33
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(67, u'\\\\bru ?24969')"
 p34
 atp35
 Rp36
@@ -64,18 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(2568, u'(?i)(hens|hen)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(163, u'(?i)(mice|mouse)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(7094, u'(?i)(curs|cur)')"
-p44
-atp45
-Rp46
+atp40
+Rp41
 sb.

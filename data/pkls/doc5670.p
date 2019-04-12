@@ -40,56 +40,34 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2019
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(33, u'\\\\bdoi')"
-p32
-atp33
-Rp34
+((lp30
+S"(175, u'\\\\bdoi')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(2323, u'(?i)(bees|bee)')"
+((lp35
+S"(73, u'(?i)\\\\b(royals|royal)\\\\b')"
+p36
+aS"(3191, u'(?i)\\\\b(worlds|world)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p38
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(6548, u'(?i)(takins|takin)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6580, u'(?i)(dams|dam)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(73, u'(?i)(royals|royal)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(1057, u'(?i)(humans|human)')"
-p47
-aS"(3191, u'(?i)(worlds|world)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(3196, u'(?i)(human|humans)')"
-p50
-aS"(1795, u'(?i)(mounts|mount)')"
-p51
-atp52
-Rp53
+atp41
+Rp42
 sb.

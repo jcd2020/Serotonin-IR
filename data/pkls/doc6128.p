@@ -30,58 +30,38 @@ S'5ht1c'
 p17
 aS'5ht1a'
 p18
-aS'5ht5'
+aS'5ht2'
 p19
 aS'5ht1'
 p20
-aS'5ht2'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-tp26
-Rp27
+((lp24
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1993
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp34
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p35
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(4964, u'(?i)(serins|serin)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(5967, u'(?i)(males|male)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(2942, u'(?i)(daws|daw)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(7058, u'(?i)(does|doe)')"
-p46
-aS"(5497, u'(?i)(fices|fice)')"
-p47
-atp48
-Rp49
+atp38
+Rp39
 sb.

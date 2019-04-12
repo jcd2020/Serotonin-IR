@@ -8,112 +8,80 @@ c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\britanserin')"
+S"(130, u'\\\\bzacopride')"
 p5
-aS"(141, u'\\\\bzacopride')"
+aS"(124, u'\\\\bondansetron')"
 p6
-aS"(54, u'\\\\britanserin')"
+aS"(123, u'\\\\bgranisetron')"
 p7
-aS"(134, u'\\\\bgranisetron')"
+aS"(129, u'\\\\brenzapride')"
 p8
-aS"(140, u'\\\\brenzapride')"
+aS"(119, u'\\\\britanserin')"
 p9
-aS"(135, u'\\\\bondansetron')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
+((lp18
 S"(11, u'\\\\banxiolyt')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht1c'
-p25
+p24
 aS'5ht1a'
+p25
+aS'5ht3b'
 p26
 aS'5ht3'
 p27
-aS'5ht3b'
-p28
 aS'5ht2a'
-p29
-aS'5ht5'
-p30
-atp31
-Rp32
+p28
+atp29
+Rp30
 sS'regions'
-p33
+p31
 g3
-((lp34
-S"(34, u'(?i)(pon|pons)')"
-p35
-atp36
-Rp37
+((lp32
+tp33
+Rp34
 sS'year'
-p38
+p35
 V1992
-p39
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(146, u'\\\\bguanfacine')"
+p39
+aS"(208, u'\\\\bzacopride')"
 p40
-g3
-((lp41
-S"(207, u'\\\\brenzapride')"
+aS"(203, u'\\\\brenzapride')"
+p41
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p42
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p43
-aS"(152, u'\\\\bguanfacine')"
-p44
-aS"(212, u'\\\\bzacopride')"
-p45
-atp46
-Rp47
+atp43
+Rp44
 sS'species'
-p48
+p45
 g3
-((lp49
-S"(6753, u'(?i)(da|das)')"
-p50
-aS"(2568, u'(?i)(hens|hen)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(163, u'(?i)(mice|mouse)')"
-p53
-aS"(6682, u'(?i)(tera|teras)')"
-p54
-aS"(468, u'(?i)(oxen|ox)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(4964, u'(?i)(serins|serin)')"
-p58
-aS"(3550, u'(?i)(anis|ani)')"
-p59
-aS"(3522, u'(?i)(tetras|tetra)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-aS"(6878, u'(?i)(guans|guan)')"
-p62
-aS"(7552, u'(?i)(bats|bat)')"
-p63
-atp64
-Rp65
+((lp46
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p47
+atp48
+Rp49
 sb.

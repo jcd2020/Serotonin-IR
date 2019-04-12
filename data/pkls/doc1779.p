@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(114, u'\\\\bimipramine')"
+S"(104, u'\\\\bimipramine')"
 p5
-aS"(34, u'\\\\byohimbine')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
-aS"(102, u'\\\\bfluoxetine')"
+aS"(33, u'\\\\byohimbine')"
 p7
 atp8
 Rp9
@@ -36,66 +36,40 @@ g3
 ((lp20
 S'5ht1a'
 p21
-aS'5ht5'
-p22
 aS'5ht2'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-tp28
-Rp29
+((lp26
+tp27
+Rp28
 sS'year'
-p30
+p29
 V2013
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(89, u'\\\\byohimbine')"
-p34
-atp35
-Rp36
+((lp32
+S"(82, u'\\\\byohimbine')"
+p33
+atp34
+Rp35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(5958, u'(?i)(rats|rat)')"
+((lp37
+S"(6115, u'(?i)\\\\b(predators|predator)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(1055, u'(?i)(men|man)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(1538, u'(?i)\\\\b(preys|prey)\\\\b')"
 p41
-aS"(2389, u'(?i)(spats|spat)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(4462, u'(?i)(monals|monal)')"
-p47
-aS"(1538, u'(?i)(preys|prey)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(6115, u'(?i)(predators|predator)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-atp55
-Rp56
+atp42
+Rp43
 sb.

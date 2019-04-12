@@ -10,7 +10,7 @@ p3
 ((lp4
 S"(21, u'\\\\bpindolol')"
 p5
-aS"(51, u'\\\\bmirtazapine')"
+aS"(134, u'\\\\bmirtazapine')"
 p6
 atp7
 Rp8
@@ -38,62 +38,34 @@ g3
 ((lp21
 S'5ht1b'
 p22
-aS'5ht5'
-p23
 aS'5ht1a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp27
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p33
+p31
 V2001
-p34
+p32
 sS'agonists'
-p35
+p33
 g3
-((lp36
-tp37
-Rp38
+((lp34
+tp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(2323, u'(?i)(bees|bee)')"
-p41
-aS"(4624, u'(?i)(apes|ape)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(5176, u'(?i)(tegs|teg)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(853, u'(?i)(minas|mina)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(1795, u'(?i)(mounts|mount)')"
-p52
-aS"(7058, u'(?i)(does|doe)')"
-p53
-atp54
-Rp55
+((lp38
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p39
+atp40
+Rp41
 sb.

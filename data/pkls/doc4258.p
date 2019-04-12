@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(137, u'\\\\balosetron')"
+S"(126, u'\\\\balosetron')"
 p5
 atp6
 Rp7
@@ -32,62 +32,40 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht3'
+S'5ht2b'
 p20
-aS'5ht5'
+aS'5ht3a'
 p21
 aS'5ht4'
 p22
-aS'5ht2b'
+aS'5ht3'
 p23
 aS'5ht1'
 p24
-aS'5ht3a'
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'year'
-p32
+p31
 V2000
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(155, u'\\\\bmem')"
-p36
-atp37
-Rp38
+((lp34
+S"(149, u'\\\\bmem')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(5743, u'(?i)(bots|bot)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(7094, u'(?i)(curs|cur)')"
-p45
-aS"(5176, u'(?i)(tegs|teg)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(5229, u'(?i)(moles|mole)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(3048, u'(?i)(hogs|hog)')"
-p50
-atp51
-Rp52
+((lp39
+tp40
+Rp41
 sb.

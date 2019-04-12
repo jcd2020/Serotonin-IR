@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(194, u'\\\\bmethysergide')"
 p6
 atp7
 Rp8
@@ -42,68 +42,40 @@ S'5ht1a'
 p23
 aS'5ht3'
 p24
-aS'5ht5'
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(13, u'(?i)(b(\\xf6|oe|[a-z])tzingers|b(\\xf6|oe|[a-z])tzinger)(-|\\\\s+)?(complexes|complex)')"
-p30
-aS"(12, u'(?i)(pres|pre)(-|\\\\s+)?(b(\\xf6|oe|[a-z])tzingers|b(\\xf6|oe|[a-z])tzinger)(-|\\\\s+)?(complexes|complex)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+((lp28
+S"(12, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(b(\\xf6|oe|[a-z])tzingers|b(\\xf6|oe|[a-z])tzinger)(-|\\\\s+)?(complexes|complex)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p35
+p32
 V2019
-p36
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(53, u'\\\\bmethysergide')"
+p36
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p37
-g3
-((lp38
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p39
-aS"(60, u'\\\\bmethysergide')"
-p40
-atp41
-Rp42
+atp38
+Rp39
 sS'species'
-p43
+p40
 g3
-((lp44
-S"(2323, u'(?i)(bees|bee)')"
-p45
-aS"(5799, u'(?i)(rodents|rodent)')"
-p46
-aS"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(4091, u'(?i)(adults|adult)')"
-p50
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-atp59
-Rp60
+((lp41
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p42
+aS"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+p43
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p44
+atp45
+Rp46
 sb.

@@ -60,18 +60,6 @@ sS'species'
 p35
 g3
 ((lp36
-S"(6249, u'(?i)(ants|ant)')"
-p37
-aS"(2666, u'(?i)(mantas|manta)')"
-p38
-aS"(4201, u'(?i)(kines|kine)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6580, u'(?i)(dams|dam)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-atp43
-Rp44
+tp37
+Rp38
 sb.

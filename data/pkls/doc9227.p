@@ -34,72 +34,38 @@ g3
 ((lp19
 S'5ht4a'
 p20
-aS'5ht5'
-p21
 aS'5ht4'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+((lp25
+tp26
+Rp27
 sS'year'
-p30
+p28
 V2017
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(205, u'\\\\brs ?67333')"
 p32
-g3
-((lp33
-S"(155, u'\\\\bmem')"
-p34
-aS"(209, u'\\\\brs ?67333')"
-p35
-atp36
-Rp37
+aS"(149, u'\\\\bmem')"
+p33
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(2323, u'(?i)(bees|bee)')"
-p40
-aS"(4624, u'(?i)(apes|ape)')"
-p41
-aS"(5799, u'(?i)(rodents|rodent)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(163, u'(?i)(mice|mouse)')"
-p44
-aS"(2389, u'(?i)(spats|spat)')"
-p45
-aS"(479, u'(?i)(lings|ling)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(7604, u'(?i)(cyclop|cyclops)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(1628, u'(?i)(cod|cod)')"
-p54
-aS"(5537, u'(?i)(hippos|hippo)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+((lp37
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p38
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p39
+atp40
+Rp41
 sb.

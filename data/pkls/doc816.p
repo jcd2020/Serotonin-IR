@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(142, u'\\\\bm1')"
+S"(131, u'\\\\bm1')"
 p5
 atp6
 Rp7
@@ -58,11 +58,11 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(153, u'\\\\bmdma')"
+S"(147, u'\\\\bmdma')"
 p35
-aS"(154, u'\\\\bmda')"
+aS"(11, u'\\\\bamphetamine')"
 p36
-aS"(14, u'\\\\bamphetamine')"
+aS"(148, u'\\\\bmda')"
 p37
 atp38
 Rp39
@@ -70,42 +70,10 @@ sS'species'
 p40
 g3
 ((lp41
-S"(6753, u'(?i)(da|das)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p42
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p43
-aS"(867, u'(?i)(tits|tit)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(4163, u'(?i)(ermines|ermine)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(1057, u'(?i)(humans|human)')"
-p53
-aS"(4371, u'(?i)(lizas|liza)')"
-p54
-aS"(1414, u'(?i)(chars|char)')"
-p55
-aS"(3196, u'(?i)(human|humans)')"
-p56
-aS"(2809, u'(?i)(toms|tom)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(7552, u'(?i)(bats|bat)')"
-p59
-atp60
-Rp61
+atp44
+Rp45
 sb.

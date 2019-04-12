@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(43, u'\\\\bbrl ?15572')"
+aS"(41, u'\\\\bbrl ?15572')"
 p6
-aS"(45, u'\\\\bgr ?127935')"
+aS"(38, u'\\\\bsb ?224289')"
 p7
-aS"(39, u'\\\\bsb ?224289')"
+aS"(31, u'\\\\bway ?100635')"
 p8
 atp9
 Rp10
@@ -52,15 +52,15 @@ sS'regions'
 p29
 g3
 ((lp30
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p31
-aS"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p32
-aS"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p33
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p34
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p35
 atp36
 Rp37
@@ -72,7 +72,7 @@ sS'agonists'
 p40
 g3
 ((lp41
-S"(107, u'\\\\bcp ?93129')"
+S"(100, u'\\\\bcp ?93129')"
 p42
 atp43
 Rp44
@@ -80,42 +80,12 @@ sS'species'
 p45
 g3
 ((lp46
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p47
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p48
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p49
-aS"(7609, u'(?i)(erns|ern)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(5838, u'(?i)(cubs|cub)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(1057, u'(?i)(humans|human)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(1414, u'(?i)(chars|char)')"
-p58
-aS"(3196, u'(?i)(human|humans)')"
-p59
-aS"(391, u'(?i)(alli|allis)')"
-p60
-aS"(2809, u'(?i)(toms|tom)')"
-p61
-aS"(6325, u'(?i)(caudates|caudate)')"
-p62
-aS"(1683, u'(?i)(terns|tern)')"
-p63
-aS"(7552, u'(?i)(bats|bat)')"
-p64
-atp65
-Rp66
+atp50
+Rp51
 sb.

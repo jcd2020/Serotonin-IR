@@ -40,62 +40,36 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1989
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(47, u'\\\\bgepirone')"
+((lp30
+S"(20, u'\\\\bbuspirone')"
+p31
+aS"(45, u'\\\\bipsapirone')"
 p32
-aS"(74, u'\\\\bru ?24969')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p33
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(67, u'\\\\bru ?24969')"
 p34
-aS"(24, u'\\\\bbuspirone')"
+aS"(42, u'\\\\bgepirone')"
 p35
-aS"(50, u'\\\\bipsapirone')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp39
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p40
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(4301, u'(?i)(hydras|hydra)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(6215, u'(?i)(racers|racer)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(3522, u'(?i)(tetras|tetra)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(7058, u'(?i)(does|doe)')"
-p53
-aS"(5949, u'(?i)(dogs|dog)')"
-p54
-atp55
-Rp56
+atp42
+Rp43
 sb.

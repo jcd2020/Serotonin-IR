@@ -32,72 +32,48 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2b'
 p20
-aS'5ht2b'
-p21
 aS'5ht2c'
-p22
+p21
 aS'5ht2a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
-p28
-atp29
-Rp30
+((lp26
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2009
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(33, u'\\\\bdoi')"
-p35
-atp36
-Rp37
+((lp33
+S"(175, u'\\\\bdoi')"
+p34
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(1395, u'(?i)(frogs|frog)')"
+((lp38
+S"(1395, u'(?i)\\\\b(frogs|frog)\\\\b')"
+p39
+aS"(5685, u'(?i)\\\\b(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p41
-aS"(6125, u'(?i)(females|female)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p42
-aS"(5684, u'(?i)(africans|african)(-|\\\\s+)?(claweds|clawed)(-|\\\\s+)?(frogs|frog)')"
+aS"(5684, u'(?i)\\\\b(africans|african)(-|\\\\s+)?(claweds|clawed)(-|\\\\s+)?(frogs|frog)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(5967, u'(?i)(males|male)')"
-p46
-aS"(5685, u'(?i)(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(3426, u'(?i)(hares|hare)')"
-p51
-aS"(4371, u'(?i)(lizas|liza)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(7609, u'(?i)(erns|ern)')"
-p54
-aS"(1683, u'(?i)(terns|tern)')"
-p55
-atp56
-Rp57
+atp44
+Rp45
 sb.

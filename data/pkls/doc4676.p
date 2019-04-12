@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(42, u'\\\\bvortioxetine')"
 p5
-aS"(44, u'\\\\bvortioxetine')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
 atp7
 Rp8
@@ -38,76 +38,46 @@ sS'receptors'
 p21
 g3
 ((lp22
-S'5ht1b'
+S'5ht7a'
 p23
-aS'5ht5'
+aS'5ht1b'
 p24
-aS'5ht3'
-p25
-aS'5ht1d'
-p26
-aS'5ht7a'
-p27
 aS'5ht1a'
-p28
-atp29
-Rp30
+p25
+aS'5ht3'
+p26
+aS'5ht1d'
+p27
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
-p33
-atp34
-Rp35
+((lp31
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+p32
+atp33
+Rp34
 sS'year'
-p36
+p35
 V2013
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(101, u'\\\\bvortioxetine')"
-p40
-atp41
-Rp42
+((lp38
+S"(94, u'\\\\bvortioxetine')"
+p39
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp43
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p44
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p45
-aS"(1688, u'(?i)(ounces|ounce)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(7609, u'(?i)(erns|ern)')"
-p48
-aS"(163, u'(?i)(mice|mouse)')"
-p49
-aS"(4091, u'(?i)(adults|adult)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(107, u'(?i)(stags|stag)')"
-p54
-aS"(6753, u'(?i)(da|das)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(6391, u'(?i)(asses|ass)')"
-p59
-aS"(1683, u'(?i)(terns|tern)')"
-p60
-atp61
-Rp62
+atp46
+Rp47
 sb.

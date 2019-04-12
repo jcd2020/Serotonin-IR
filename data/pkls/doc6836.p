@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p24
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,20 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5958, u'(?i)(rats|rat)')"
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p37
-aS"(1055, u'(?i)(men|man)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(7094, u'(?i)(curs|cur)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(6325, u'(?i)(caudates|caudate)')"
-p42
-atp43
-Rp44
+atp39
+Rp40
 sb.

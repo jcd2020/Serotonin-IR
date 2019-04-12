@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(86, u'\\\\btegaserod')"
+S"(144, u'\\\\bgr ?113808')"
 p5
-aS"(34, u'\\\\byohimbine')"
+aS"(77, u'\\\\btegaserod')"
 p6
-aS"(153, u'\\\\bgr ?113808')"
+aS"(33, u'\\\\byohimbine')"
 p7
 atp8
 Rp9
@@ -50,60 +50,32 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+tp30
+Rp31
 sS'year'
-p33
+p32
 V2014
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(89, u'\\\\byohimbine')"
+((lp35
+S"(207, u'\\\\btegaserod')"
+p36
+aS"(82, u'\\\\byohimbine')"
 p37
-aS"(211, u'\\\\btegaserod')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(2323, u'(?i)(bees|bee)')"
+((lp41
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(5176, u'(?i)\\\\b(tegs|teg)\\\\b')"
 p44
-aS"(1438, u'(?i)(ceroes|cero)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(5176, u'(?i)(tegs|teg)')"
-p48
-aS"(81, u'(?i)(asps|asp)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(6215, u'(?i)(racers|racer)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(5967, u'(?i)(males|male)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+atp45
+Rp46
 sb.

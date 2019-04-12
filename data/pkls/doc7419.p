@@ -8,104 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(35, u'\\\\baripiprazole')"
 p5
-aS"(57, u'\\\\bolanzapine')"
+aS"(111, u'\\\\bolanzapine')"
 p6
-aS"(59, u'\\\\brisperidone')"
+aS"(113, u'\\\\brisperidone')"
 p7
-aS"(36, u'\\\\baripiprazole')"
-p8
-aS"(124, u'\\\\bolanzapine')"
-p9
-atp10
-Rp11
+atp8
+Rp9
 sS'methods'
-p12
+p10
 g3
-((lp13
-tp14
-Rp15
+((lp11
+tp12
+Rp13
 sS'topics'
-p16
+p14
 g3
-((lp17
+((lp15
 S"(15, u'\\\\bschizophreni')"
-p18
-atp19
-Rp20
+p16
+atp17
+Rp18
 sS'receptors'
+p19
+g3
+((lp20
+S'5ht2c'
 p21
-g3
-((lp22
-S'5ht5'
-p23
-aS'5ht2c'
-p24
 aS'5ht2a'
-p25
-atp26
-Rp27
+p22
+atp23
+Rp24
 sS'regions'
+p25
+g3
+((lp26
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p27
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-g3
-((lp29
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p29
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p30
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p31
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p32
-aS"(223, u'(?i)(putamens|putamen)')"
-p33
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
-p34
-atp35
-Rp36
+atp32
+Rp33
 sS'year'
-p37
+p34
 V2016
-p38
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(57, u'\\\\bolanzapine')"
+p38
+aS"(223, u'\\\\baripiprazole')"
 p39
-g3
-((lp40
-S"(64, u'\\\\bolanzapine')"
-p41
-aS"(16, u'\\\\baripiprazole')"
-p42
-atp43
-Rp44
+atp40
+Rp41
 sS'species'
-p45
+p42
 g3
-((lp46
-S"(2323, u'(?i)(bees|bee)')"
+((lp43
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p44
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p45
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p46
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p47
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p48
-aS"(6125, u'(?i)(females|female)')"
-p49
-aS"(867, u'(?i)(tits|tit)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(4091, u'(?i)(adults|adult)')"
-p52
-aS"(5967, u'(?i)(males|male)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(5743, u'(?i)(bots|bot)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(6325, u'(?i)(caudates|caudate)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-atp60
-Rp61
+atp49
+Rp50
 sb.

@@ -48,58 +48,36 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V2018
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(103, u'\\\\bsumatriptan')"
+((lp35
+S"(219, u'\\\\b5 ?ct')"
+p36
+aS"(96, u'\\\\bsumatriptan')"
 p37
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p38
-aS"(5, u'\\\\b5 ?ct')"
+aS"(175, u'\\\\bdoi')"
 p39
-aS"(33, u'\\\\bdoi')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(5958, u'(?i)(rats|rat)')"
+((lp43
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(5967, u'(?i)(males|male)')"
-p48
-aS"(4163, u'(?i)(ermines|ermine)')"
-p49
-aS"(3592, u'(?i)(ravens|raven)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(3522, u'(?i)(tetras|tetra)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+atp46
+Rp47
 sb.

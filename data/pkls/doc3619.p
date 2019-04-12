@@ -30,90 +30,46 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht2a'
 p19
-aS'5ht2a'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+((lp23
+S"(30, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(ambiguuses|ambiguus)\\\\b')"
+p24
+aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p25
-aS"(30, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(ambiguuses|ambiguus)')"
+aS"(7, u'(?i)\\\\b(caudals|caudal)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)\\\\b')"
 p26
-aS"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
+aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p27
-aS"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p28
-aS"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
+aS"(51, u'(?i)\\\\b(laterodorsals|laterodorsal)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(34, u'(?i)(pon|pons)')"
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p30
-aS"(7, u'(?i)(caudals|caudal)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)')"
-p31
-aS"(51, u'(?i)(laterodorsals|laterodorsal)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'year'
-p35
+p33
 V2000
-p36
+p34
 sS'agonists'
-p37
+p35
 g3
-((lp38
-tp39
-Rp40
+((lp36
+tp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(513, u'(?i)(uruses|urus)')"
-p43
-aS"(2670, u'(?i)(arabs|arab)')"
-p44
-aS"(4404, u'(?i)(duns|dun)')"
-p45
-aS"(5176, u'(?i)(tegs|teg)')"
-p46
-aS"(4694, u'(?i)(gnus|gnu)')"
-p47
-aS"(867, u'(?i)(tits|tit)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(479, u'(?i)(lings|ling)')"
-p51
-aS"(4163, u'(?i)(ermines|ermine)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(3404, u'(?i)(titis|titi)')"
-p55
-aS"(853, u'(?i)(minas|mina)')"
-p56
-aS"(5958, u'(?i)(rats|rat)')"
-p57
-aS"(6682, u'(?i)(tera|teras)')"
-p58
-aS"(7094, u'(?i)(curs|cur)')"
-p59
-aS"(1961, u'(?i)(pens|pen)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-aS"(6391, u'(?i)(asses|ass)')"
-p62
-aS"(2809, u'(?i)(toms|tom)')"
-p63
-atp64
-Rp65
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

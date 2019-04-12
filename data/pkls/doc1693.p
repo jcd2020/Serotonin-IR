@@ -8,116 +8,94 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(112, u'\\\\bquetiapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(56, u'\\\\bclozapine')"
+aS"(114, u'\\\\bziprasidone')"
 p7
-aS"(57, u'\\\\bolanzapine')"
+aS"(113, u'\\\\brisperidone')"
 p8
-aS"(41, u'\\\\bziprasidone')"
+aS"(50, u'\\\\bquetiapine')"
 p9
-aS"(124, u'\\\\bolanzapine')"
+aS"(111, u'\\\\bolanzapine')"
 p10
-aS"(125, u'\\\\bquetiapine')"
+aS"(124, u'\\\\bondansetron')"
 p11
-aS"(59, u'\\\\brisperidone')"
+aS"(58, u'\\\\bhaloperidol')"
 p12
-aS"(67, u'\\\\bhaloperidol')"
-p13
-aS"(58, u'\\\\bquetiapine')"
-p14
-aS"(135, u'\\\\bondansetron')"
-p15
-atp16
-Rp17
+atp13
+Rp14
 sS'methods'
-p18
+p15
 g3
-((lp19
+((lp16
 S'Method.ANTAGONIST'
-p20
+p17
 aS'Method.AGONIST'
-p21
-atp22
-Rp23
+p18
+atp19
+Rp20
 sS'topics'
-p24
+p21
 g3
-((lp25
-tp26
-Rp27
+((lp22
+tp23
+Rp24
 sS'receptors'
-p28
+p25
 g3
-((lp29
+((lp26
 S'5ht3'
-p30
+p27
 aS'5ht6'
-p31
-aS'5ht5'
-p32
+p28
 aS'5ht3a'
-p33
+p29
 aS'5ht2c'
-p34
-atp35
-Rp36
+p30
+atp31
+Rp32
 sS'regions'
-p37
+p33
 g3
-((lp38
-tp39
-Rp40
+((lp34
+tp35
+Rp36
 sS'year'
-p41
+p37
 V2001
-p42
+p38
 sS'agonists'
+p39
+g3
+((lp40
+S"(64, u'\\\\bquetiapine')"
+p41
+aS"(57, u'\\\\bolanzapine')"
+p42
+aS"(23, u'\\\\bclozapine')"
 p43
-g3
-((lp44
-S"(71, u'\\\\bquetiapine')"
+aS"(84, u'\\\\bziprasidone')"
+p44
+aS"(43, u'\\\\bhaloperidol')"
 p45
-aS"(64, u'\\\\bolanzapine')"
-p46
-aS"(48, u'\\\\bhaloperidol')"
-p47
-aS"(91, u'\\\\bziprasidone')"
-p48
-aS"(27, u'\\\\bclozapine')"
-p49
-atp50
-Rp51
+atp46
+Rp47
 sS'species'
-p52
+p48
 g3
-((lp53
-S"(6249, u'(?i)(ants|ant)')"
+((lp49
+S"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p50
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p51
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p52
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p53
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p54
-aS"(6753, u'(?i)(da|das)')"
-p55
-aS"(3051, u'(?i)(pigs|pig)')"
-p56
-aS"(6682, u'(?i)(tera|teras)')"
-p57
-aS"(3062, u'(?i)(guineas|guinea)')"
-p58
-aS"(1055, u'(?i)(men|man)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-aS"(1057, u'(?i)(humans|human)')"
-p61
-aS"(3812, u'(?i)(studs|stud)')"
-p62
-aS"(3196, u'(?i)(human|humans)')"
-p63
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p64
-aS"(6878, u'(?i)(guans|guan)')"
-p65
-atp66
-Rp67
+atp55
+Rp56
 sb.

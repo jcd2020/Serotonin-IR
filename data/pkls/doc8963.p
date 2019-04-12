@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(203, u'\\\\btfmpp')"
 p5
-aS"(100, u'\\\\beltoprazine')"
+aS"(89, u'\\\\beltoprazine')"
 p6
 atp7
 Rp8
@@ -46,7 +46,7 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(390, u'(?i)(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)')"
+S"(390, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)\\\\b')"
 p28
 atp29
 Rp30
@@ -58,11 +58,11 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(36, u'\\\\beltoprazine')"
+S"(178, u'\\\\btfmpp')"
 p35
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-aS"(183, u'\\\\btfmpp')"
+aS"(31, u'\\\\beltoprazine')"
 p37
 atp38
 Rp39
@@ -70,30 +70,10 @@ sS'species'
 p40
 g3
 ((lp41
-S"(2568, u'(?i)(hens|hen)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(5967, u'(?i)(males|male)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(3592, u'(?i)(ravens|raven)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(3522, u'(?i)(tetras|tetra)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+atp44
+Rp45
 sb.

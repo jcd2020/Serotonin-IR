@@ -38,82 +38,40 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+S"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(224, u'(?i)(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2012
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(161, u'\\\\bmcpp')"
-p33
-atp34
-Rp35
+((lp31
+S"(155, u'\\\\bmcpp')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(4624, u'(?i)(apes|ape)')"
+((lp36
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p37
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p38
-aS"(6771, u'(?i)(squirrels|squirrel)')"
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p39
-aS"(2401, u'(?i)(primates|primate)')"
+aS"(2418, u'(?i)\\\\b(squirrels|squirrel)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p40
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p41
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(6771, u'(?i)\\\\b(squirrels|squirrel)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(3196, u'(?i)(human|humans)')"
-p46
-aS"(1795, u'(?i)(mounts|mount)')"
-p47
-aS"(2418, u'(?i)(squirrels|squirrel)(-|\\\\s+)?(monkeys|monkey)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(853, u'(?i)(minas|mina)')"
-p54
-aS"(1057, u'(?i)(humans|human)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(6325, u'(?i)(caudates|caudate)')"
-p57
-aS"(6744, u'(?i)(maras|mara)')"
-p58
-aS"(2323, u'(?i)(bees|bee)')"
-p59
-aS"(5799, u'(?i)(rodents|rodent)')"
-p60
-aS"(2568, u'(?i)(hens|hen)')"
-p61
-aS"(4979, u'(?i)(cats|cat)')"
-p62
-aS"(3726, u'(?i)(mates|mate)')"
-p63
-atp64
-Rp65
+atp43
+Rp44
 sb.

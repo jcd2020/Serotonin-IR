@@ -54,62 +54,36 @@ sS'regions'
 p30
 g3
 ((lp31
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p32
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p33
-aS"(270, u'(?i)(v1s|v1)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p34
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p35
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'year'
-p39
+p38
 V2012
-p40
+p39
 sS'agonists'
-p41
+p40
 g3
-((lp42
-S"(181, u'\\\\bdom')"
+((lp41
+S"(176, u'\\\\bdom')"
+p42
+aS"(149, u'\\\\bmem')"
 p43
-aS"(155, u'\\\\bmem')"
-p44
-atp45
-Rp46
+atp44
+Rp45
 sS'species'
-p47
+p46
 g3
-((lp48
-S"(5537, u'(?i)(hippos|hippo)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(2568, u'(?i)(hens|hen)')"
-p51
-aS"(867, u'(?i)(tits|tit)')"
-p52
-aS"(163, u'(?i)(mice|mouse)')"
-p53
-aS"(6682, u'(?i)(tera|teras)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(853, u'(?i)(minas|mina)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(5958, u'(?i)(rats|rat)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(6391, u'(?i)(asses|ass)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-atp62
-Rp63
+((lp47
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p48
+atp49
+Rp50
 sb.

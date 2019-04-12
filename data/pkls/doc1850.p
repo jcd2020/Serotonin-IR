@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -26,27 +26,27 @@ sS'topics'
 p14
 g3
 ((lp15
-S"(18, u'\\\\bpsychostim')"
+S"(37, u'\\\\baddict')"
 p16
-aS"(4, u'\\\\blocomot')"
+aS"(18, u'\\\\bpsychostim')"
 p17
-atp18
-Rp19
+aS"(4, u'\\\\blocomot')"
+p18
+atp19
+Rp20
 sS'receptors'
-p20
+p21
 g3
-((lp21
+((lp22
 S'5ht1a'
-p22
-atp23
-Rp24
+p23
+atp24
+Rp25
 sS'regions'
-p25
+p26
 g3
-((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
+((lp27
+tp28
 Rp29
 sS'year'
 p30
@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p34
 atp35
 Rp36
@@ -64,26 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5958, u'(?i)(rats|rat)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(931, u'(?i)(divers|diver)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(7609, u'(?i)(erns|ern)')"
-p47
-aS"(1683, u'(?i)(terns|tern)')"
-p48
-atp49
-Rp50
+atp40
+Rp41
 sb.

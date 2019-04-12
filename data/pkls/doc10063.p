@@ -52,22 +52,10 @@ sS'species'
 p31
 g3
 ((lp32
-S"(5958, u'(?i)(rats|rat)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p33
-aS"(479, u'(?i)(lings|ling)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p34
-aS"(468, u'(?i)(oxen|ox)')"
-p35
-aS"(3152, u'(?i)(layers|layer)')"
-p36
-aS"(4979, u'(?i)(cats|cat)')"
-p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(6642, u'(?i)(lions|lion)')"
-p39
-aS"(1628, u'(?i)(cod|cod)')"
-p40
-atp41
-Rp42
+atp35
+Rp36
 sb.

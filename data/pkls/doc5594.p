@@ -56,30 +56,14 @@ sS'species'
 p33
 g3
 ((lp34
-S"(1280, u'(?i)(shrews|shrew)')"
+S"(3191, u'(?i)\\\\b(worlds|world)\\\\b')"
 p35
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p36
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(1280, u'(?i)\\\\b(shrews|shrew)\\\\b')"
 p37
-aS"(1055, u'(?i)(men|man)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(3550, u'(?i)(anis|ani)')"
-p41
-aS"(1057, u'(?i)(humans|human)')"
-p42
-aS"(3191, u'(?i)(worlds|world)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(3196, u'(?i)(human|humans)')"
-p45
-aS"(2809, u'(?i)(toms|tom)')"
-p46
-atp47
-Rp48
+atp39
+Rp40
 sb.

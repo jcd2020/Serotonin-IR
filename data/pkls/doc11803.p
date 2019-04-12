@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(139, u'\\\\bmetoclopramide')"
+S"(35, u'\\\\baripiprazole')"
 p5
-aS"(36, u'\\\\baripiprazole')"
+aS"(59, u'\\\\bchlorpromazine')"
 p6
-aS"(68, u'\\\\bchlorpromazine')"
+aS"(128, u'\\\\bmetoclopramide')"
 p7
 atp8
 Rp9
@@ -56,9 +56,9 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(16, u'\\\\baripiprazole')"
+S"(209, u'\\\\bmetoclopramide')"
 p34
-aS"(213, u'\\\\bmetoclopramide')"
+aS"(223, u'\\\\baripiprazole')"
 p35
 atp36
 Rp37
@@ -66,26 +66,6 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2323, u'(?i)(bees|bee)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(867, u'(?i)(tits|tit)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(7094, u'(?i)(curs|cur)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(6391, u'(?i)(asses|ass)')"
-p49
-atp50
-Rp51
+tp40
+Rp41
 sb.

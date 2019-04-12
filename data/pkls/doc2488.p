@@ -58,20 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(2323, u'(?i)(bees|bee)')"
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
 p36
-aS"(4624, u'(?i)(apes|ape)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(4979, u'(?i)(cats|cat)')"
-p40
-aS"(3550, u'(?i)(anis|ani)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-atp43
-Rp44
+atp37
+Rp38
 sb.

@@ -8,114 +8,86 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(119, u'\\\\britanserin')"
 p6
-aS"(54, u'\\\\britanserin')"
-p7
-aS"(130, u'\\\\britanserin')"
-p8
-atp9
-Rp10
+atp7
+Rp8
 sS'methods'
-p11
+p9
 g3
-((lp12
+((lp10
 S'Method.ANTAGONIST'
-p13
+p11
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p12
+atp13
+Rp14
 sS'topics'
-p17
+p15
 g3
-((lp18
+((lp16
 S"(35, u'\\\\bstress')"
-p19
+p17
 aS"(12, u'\\\\banxiogen')"
-p20
+p18
 aS"(10, u'\\\\banxiety')"
-p21
-atp22
-Rp23
+p19
+atp20
+Rp21
 sS'receptors'
-p24
+p22
 g3
-((lp25
+((lp23
 S'5ht1b'
-p26
+p24
 aS'5ht1a'
-p27
+p25
 aS'5ht3'
-p28
+p26
 aS'5ht2c'
-p29
+p27
 aS'5ht2a'
-p30
+p28
 aS'5ht4a'
-p31
+p29
 aS'5ht3a'
-p32
+p30
 aS'5ht2'
-p33
-atp34
-Rp35
+p31
+atp32
+Rp33
 sS'regions'
-p36
+p34
 g3
-((lp37
-S"(34, u'(?i)(pon|pons)')"
-p38
-atp39
-Rp40
+((lp35
+tp36
+Rp37
 sS'year'
-p41
+p38
 V1999
-p42
+p39
 sS'agonists'
+p40
+g3
+((lp41
+S"(188, u'\\\\bchlorophenylbiguanide')"
+p42
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p43
-g3
-((lp44
-S"(192, u'\\\\bchlorophenylbiguanide')"
+aS"(155, u'\\\\bmcpp')"
+p44
+aS"(175, u'\\\\bdoi')"
 p45
-aS"(161, u'\\\\bmcpp')"
-p46
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
-p47
-aS"(33, u'\\\\bdoi')"
-p48
-atp49
-Rp50
+atp46
+Rp47
 sS'species'
-p51
+p48
 g3
-((lp52
-S"(2568, u'(?i)(hens|hen)')"
-p53
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-aS"(468, u'(?i)(oxen|ox)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(4964, u'(?i)(serins|serin)')"
-p59
-aS"(3550, u'(?i)(anis|ani)')"
-p60
-aS"(3812, u'(?i)(studs|stud)')"
-p61
-aS"(6391, u'(?i)(asses|ass)')"
-p62
-aS"(6878, u'(?i)(guans|guan)')"
-p63
-aS"(5743, u'(?i)(bots|bot)')"
-p64
-atp65
-Rp66
+((lp49
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

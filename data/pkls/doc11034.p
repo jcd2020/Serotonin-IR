@@ -48,9 +48,9 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(196, u'\\\\bquipazine')"
+S"(192, u'\\\\bquipazine')"
 p30
-aS"(33, u'\\\\bdoi')"
+aS"(175, u'\\\\bdoi')"
 p31
 atp32
 Rp33
@@ -58,34 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(4624, u'(?i)(apes|ape)')"
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
 p36
-aS"(2568, u'(?i)(hens|hen)')"
-p37
-aS"(7609, u'(?i)(erns|ern)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(2395, u'(?i)(mutants|mutant)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(1683, u'(?i)(terns|tern)')"
-p49
-atp50
-Rp51
+atp37
+Rp38
 sb.

@@ -28,56 +28,38 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht2b'
 p18
-aS'5ht2b'
-p19
 aS'5ht2c'
-p20
+p19
 aS'5ht2a'
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
-p26
-aS"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+((lp24
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p30
+p28
 V2000
-p31
+p29
 sS'agonists'
-p32
+p30
 g3
-((lp33
-tp34
-Rp35
+((lp31
+tp32
+Rp33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(7609, u'(?i)(erns|ern)')"
-p39
-aS"(3592, u'(?i)(ravens|raven)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(7552, u'(?i)(bats|bat)')"
-p42
-aS"(821, u'(?i)(lice|louse)')"
-p43
-aS"(1961, u'(?i)(pens|pen)')"
-p44
-aS"(1683, u'(?i)(terns|tern)')"
-p45
-atp46
-Rp47
+((lp35
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

@@ -56,22 +56,6 @@ sS'species'
 p33
 g3
 ((lp34
-S"(6249, u'(?i)(ants|ant)')"
-p35
-aS"(931, u'(?i)(divers|diver)')"
-p36
-aS"(4163, u'(?i)(ermines|ermine)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(853, u'(?i)(minas|mina)')"
-p39
-aS"(1961, u'(?i)(pens|pen)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-atp43
-Rp44
+tp35
+Rp36
 sb.

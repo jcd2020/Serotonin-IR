@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p24
 atp25
 Rp26
@@ -56,30 +56,10 @@ sS'species'
 p33
 g3
 ((lp34
-S"(5958, u'(?i)(rats|rat)')"
+S"(6399, u'(?i)\\\\b(salmon|salmon)\\\\b')"
 p35
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(468, u'(?i)(oxen|ox)')"
-p37
-aS"(1961, u'(?i)(pens|pen)')"
-p38
-aS"(4163, u'(?i)(ermines|ermine)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(4371, u'(?i)(lizas|liza)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(6399, u'(?i)(salmon|salmon)')"
-p46
-atp47
-Rp48
+atp37
+Rp38
 sb.

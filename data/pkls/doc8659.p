@@ -34,68 +34,38 @@ g3
 ((lp19
 S'5ht3a'
 p20
-aS'5ht5'
-p21
 aS'5ht4'
-p22
+p21
 aS'5ht3'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
-p28
-atp29
-Rp30
+((lp26
+S"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p31
+p30
 V1996
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(224, u'\\\\b5 ?methoxytryptamine')"
+((lp33
+S"(220, u'\\\\b5 ?methoxytryptamine')"
+p34
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p35
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(6753, u'(?i)(da|das)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(4371, u'(?i)(lizas|liza)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(1488, u'(?i)(yaks|yak)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(2809, u'(?i)(toms|tom)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-atp55
-Rp56
+((lp39
+tp40
+Rp41
 sb.

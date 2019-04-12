@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(114, u'\\\\bimipramine')"
+S"(104, u'\\\\bimipramine')"
 p5
-aS"(113, u'\\\\bclomipramine')"
+aS"(103, u'\\\\bclomipramine')"
 p6
 atp7
 Rp8
@@ -54,9 +54,9 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(161, u'\\\\bmcpp')"
+S"(155, u'\\\\bmcpp')"
 p33
-aS"(33, u'\\\\bdoi')"
+aS"(175, u'\\\\bdoi')"
 p34
 atp35
 Rp36
@@ -64,34 +64,12 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5967, u'(?i)(males|male)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(702, u'(?i)(genets|genet)')"
+aS"(736, u'(?i)\\\\b(fawns|fawn)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(736, u'(?i)(fawns|fawn)')"
-p50
-aS"(1291, u'(?i)(ratels|ratel)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-atp53
-Rp54
+atp42
+Rp43
 sb.

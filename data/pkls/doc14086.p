@@ -52,20 +52,8 @@ sS'species'
 p31
 g3
 ((lp32
-S"(2568, u'(?i)(hens|hen)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p33
-aS"(4694, u'(?i)(gnus|gnu)')"
-p34
-aS"(7094, u'(?i)(curs|cur)')"
-p35
-aS"(6356, u'(?i)(ais|ai)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(4371, u'(?i)(lizas|liza)')"
-p38
-aS"(3812, u'(?i)(studs|stud)')"
-p39
-atp40
-Rp41
+atp34
+Rp35
 sb.

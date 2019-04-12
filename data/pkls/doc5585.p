@@ -8,124 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(139, u'\\\\bmetoclopramide')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
-aS"(52, u'\\\\bmetergoline')"
+aS"(26, u'\\\\bspiperone')"
 p6
-aS"(27, u'\\\\bspiperone')"
+aS"(34, u'\\\\bmetergoline')"
 p7
-aS"(35, u'\\\\bmetergoline')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
-S'5ht5'
-p23
-aS'5ht3'
-p24
+((lp21
+S'5ht3'
+p22
 aS'5ht1'
-p25
+p23
 aS'5ht2a'
-p26
-atp27
-Rp28
+p24
+atp25
+Rp26
 sS'regions'
+p27
+g3
+((lp28
+S"(2, u'(?i)\\\\b(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)\\\\b')"
 p29
-g3
-((lp30
-S"(2, u'(?i)(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)')"
-p31
-atp32
-Rp33
+atp30
+Rp31
 sS'year'
-p34
+p32
 V1989
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(149, u'\\\\bmem')"
 p36
-g3
-((lp37
-S"(195, u'\\\\bphenylbiguanide')"
+aS"(191, u'\\\\bphenylbiguanide')"
+p37
+aS"(192, u'\\\\bquipazine')"
 p38
-aS"(181, u'\\\\bdom')"
+aS"(155, u'\\\\bmcpp')"
 p39
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+aS"(209, u'\\\\bmetoclopramide')"
 p40
-aS"(213, u'\\\\bmetoclopramide')"
+aS"(176, u'\\\\bdom')"
 p41
-aS"(161, u'\\\\bmcpp')"
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p42
-aS"(196, u'\\\\bquipazine')"
-p43
-aS"(155, u'\\\\bmem')"
-p44
-atp45
-Rp46
+atp43
+Rp44
 sS'species'
-p47
+p45
 g3
-((lp48
-S"(1070, u'(?i)(pets|pet)')"
-p49
-aS"(3404, u'(?i)(titis|titi)')"
-p50
-aS"(2568, u'(?i)(hens|hen)')"
-p51
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p52
-aS"(867, u'(?i)(tits|tit)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p55
-aS"(468, u'(?i)(oxen|ox)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(4604, u'(?i)(mites|mite)')"
-p58
-aS"(1349, u'(?i)(rams|ram)')"
-p59
-aS"(1054, u'(?i)(homoes|homo)')"
-p60
-aS"(4979, u'(?i)(cats|cat)')"
-p61
-aS"(3550, u'(?i)(anis|ani)')"
-p62
-aS"(7094, u'(?i)(curs|cur)')"
-p63
-aS"(1414, u'(?i)(chars|char)')"
-p64
-aS"(6391, u'(?i)(asses|ass)')"
-p65
-aS"(6642, u'(?i)(lions|lion)')"
-p66
-aS"(6878, u'(?i)(guans|guan)')"
-p67
-aS"(821, u'(?i)(lice|louse)')"
-p68
-aS"(6249, u'(?i)(ants|ant)')"
-p69
-atp70
-Rp71
+((lp46
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+p47
+aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

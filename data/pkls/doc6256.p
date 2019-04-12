@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(364, u'(?i)(middles|middle)(-|\\\\s+)?(cerebrals|cerebral)(-|\\\\s+)?(arteries|artery)')"
+S"(364, u'(?i)\\\\b(middles|middle)(-|\\\\s+)?(cerebrals|cerebral)(-|\\\\s+)?(arteries|artery)\\\\b')"
 p23
 atp24
 Rp25
@@ -54,14 +54,6 @@ sS'species'
 p32
 g3
 ((lp33
-S"(3522, u'(?i)(tetras|tetra)')"
-p34
-aS"(6249, u'(?i)(ants|ant)')"
-p35
-aS"(468, u'(?i)(oxen|ox)')"
-p36
-aS"(867, u'(?i)(tits|tit)')"
-p37
-atp38
-Rp39
+tp34
+Rp35
 sb.

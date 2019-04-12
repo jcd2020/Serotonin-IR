@@ -34,9 +34,9 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p22
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p23
 atp24
 Rp25
@@ -48,13 +48,13 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(47, u'\\\\bgepirone')"
+S"(20, u'\\\\bbuspirone')"
 p30
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(39, u'\\\\bflesinoxan')"
 p31
-aS"(44, u'\\\\bflesinoxan')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p32
-aS"(24, u'\\\\bbuspirone')"
+aS"(42, u'\\\\bgepirone')"
 p33
 atp34
 Rp35
@@ -62,18 +62,6 @@ sS'species'
 p36
 g3
 ((lp37
-S"(5537, u'(?i)(hippos|hippo)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(3522, u'(?i)(tetras|tetra)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-atp44
-Rp45
+tp38
+Rp39
 sb.

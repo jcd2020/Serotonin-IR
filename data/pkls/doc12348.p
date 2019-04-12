@@ -48,9 +48,9 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(14, u'\\\\bamphetamine')"
+S"(11, u'\\\\bamphetamine')"
 p30
-aS"(33, u'\\\\bdoi')"
+aS"(175, u'\\\\bdoi')"
 p31
 atp32
 Rp33
@@ -58,28 +58,16 @@ sS'species'
 p34
 g3
 ((lp35
-S"(3248, u'(?i)(offspring|offspring)')"
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p38
-aS"(1055, u'(?i)(men|man)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(2942, u'(?i)(daws|daw)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(1057, u'(?i)(humans|human)')"
-p42
-aS"(6391, u'(?i)(asses|ass)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(3196, u'(?i)(human|humans)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-atp47
-Rp48
+atp41
+Rp42
 sb.

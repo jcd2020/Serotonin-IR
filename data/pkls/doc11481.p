@@ -12,11 +12,11 @@ S"(1, u'\\\\balprenolol')"
 p5
 aS"(21, u'\\\\bpindolol')"
 p6
-aS"(17, u'\\\\bnan ?190')"
+aS"(30, u'\\\\bway ?100135')"
 p7
-aS"(31, u'\\\\bway ?100135')"
+aS"(17, u'\\\\bnan ?190')"
 p8
-aS"(26, u'\\\\bsdz ?216525')"
+aS"(25, u'\\\\bsdz ?216525')"
 p9
 atp10
 Rp11
@@ -42,80 +42,42 @@ g3
 ((lp23
 S'5ht1a'
 p24
-aS'5ht5'
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp28
+tp29
+Rp30
 sS'year'
-p33
+p31
 V1995
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(39, u'\\\\bflesinoxan')"
 p35
-g3
-((lp36
-S"(44, u'\\\\bflesinoxan')"
+aS"(83, u'\\\\bzalospirone')"
+p36
+aS"(68, u'\\\\bs ?15535')"
 p37
-aS"(75, u'\\\\bs ?15535')"
+aS"(60, u'\\\\bpyrimidinylpiperazine')"
 p38
-aS"(90, u'\\\\bzalospirone')"
+aS"(45, u'\\\\bipsapirone')"
 p39
-aS"(67, u'\\\\bpyrimidinylpiperazine')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p40
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p41
-aS"(50, u'\\\\bipsapirone')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(4624, u'(?i)(apes|ape)')"
-p47
-aS"(5537, u'(?i)(hippos|hippo)')"
-p48
-aS"(2568, u'(?i)(hens|hen)')"
-p49
-aS"(931, u'(?i)(divers|diver)')"
-p50
-aS"(867, u'(?i)(tits|tit)')"
-p51
-aS"(6753, u'(?i)(da|das)')"
-p52
-aS"(479, u'(?i)(lings|ling)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(468, u'(?i)(oxen|ox)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(3726, u'(?i)(mates|mate)')"
-p57
-aS"(853, u'(?i)(minas|mina)')"
-p58
-aS"(5958, u'(?i)(rats|rat)')"
-p59
-aS"(3522, u'(?i)(tetras|tetra)')"
-p60
-aS"(4371, u'(?i)(lizas|liza)')"
-p61
-aS"(1414, u'(?i)(chars|char)')"
-p62
-aS"(6356, u'(?i)(ais|ai)')"
-p63
-aS"(3812, u'(?i)(studs|stud)')"
-p64
-atp65
-Rp66
+((lp44
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

@@ -12,108 +12,92 @@ S"(5, u'\\\\bcyanopindolol')"
 p5
 aS"(14, u'\\\\bmethiothepin')"
 p6
-aS"(34, u'\\\\byohimbine')"
-p7
-aS"(105, u'\\\\bmethysergide')"
-p8
-aS"(22, u'\\\\bpropranolol')"
-p9
-aS"(209, u'\\\\btfmpp')"
-p10
-aS"(52, u'\\\\bmetergoline')"
-p11
 aS"(21, u'\\\\bpindolol')"
+p7
+aS"(22, u'\\\\bpropranolol')"
+p8
+aS"(203, u'\\\\btfmpp')"
+p9
+aS"(34, u'\\\\bmetergoline')"
+p10
+aS"(33, u'\\\\byohimbine')"
+p11
+aS"(194, u'\\\\bmethysergide')"
 p12
-aS"(35, u'\\\\bmetergoline')"
-p13
 aS"(11, u'\\\\bisamoltane')"
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'methods'
-p17
+p16
 g3
-((lp18
+((lp17
 S'Method.ANTAGONIST'
-p19
+p18
 aS'Method.AGONIST'
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'topics'
-p23
+p22
 g3
-((lp24
-tp25
-Rp26
+((lp23
+tp24
+Rp25
 sS'receptors'
-p27
+p26
 g3
-((lp28
+((lp27
 S'5ht1b'
-p29
+p28
 aS'5ht1'
-p30
+p29
 aS'5ht1d'
-p31
-atp32
-Rp33
+p30
+atp31
+Rp32
 sS'regions'
-p34
+p33
 g3
-((lp35
-tp36
-Rp37
+((lp34
+tp35
+Rp36
 sS'year'
-p38
+p37
 V1994
-p39
+p38
 sS'agonists'
-p40
+p39
 g3
-((lp41
-S"(103, u'\\\\bsumatriptan')"
+((lp40
+S"(96, u'\\\\bsumatriptan')"
+p41
+aS"(178, u'\\\\btfmpp')"
 p42
-aS"(89, u'\\\\byohimbine')"
+aS"(100, u'\\\\bcp ?93129')"
 p43
-aS"(74, u'\\\\bru ?24969')"
+aS"(65, u'\\\\brauwolscine')"
 p44
-aS"(5, u'\\\\b5 ?ct')"
+aS"(25, u'\\\\bdihydroergotamine')"
 p45
-aS"(29, u'\\\\bdihydroergotamine')"
+aS"(155, u'\\\\bmcpp')"
 p46
-aS"(107, u'\\\\bcp ?93129')"
+aS"(82, u'\\\\byohimbine')"
 p47
-aS"(72, u'\\\\brauwolscine')"
+aS"(53, u'\\\\bmethysergide')"
 p48
-aS"(183, u'\\\\btfmpp')"
+aS"(67, u'\\\\bru ?24969')"
 p49
-aS"(60, u'\\\\bmethysergide')"
+aS"(219, u'\\\\b5 ?ct')"
 p50
-aS"(161, u'\\\\bmcpp')"
-p51
-atp52
-Rp53
+atp51
+Rp52
 sS'species'
-p54
+p53
 g3
-((lp55
-S"(5721, u'(?i)(opossums|opossum)')"
-p56
-aS"(2183, u'(?i)(gars|gar)')"
-p57
-aS"(7488, u'(?i)(molas|mola)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-aS"(5722, u'(?i)(possums|possum)')"
-p60
-aS"(5958, u'(?i)(rats|rat)')"
-p61
-aS"(1961, u'(?i)(pens|pen)')"
-p62
-aS"(3812, u'(?i)(studs|stud)')"
-p63
-atp64
-Rp65
+((lp54
+S"(5721, u'(?i)\\\\b(opossums|opossum)\\\\b')"
+p55
+atp56
+Rp57
 sb.

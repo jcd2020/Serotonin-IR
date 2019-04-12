@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(83, u'\\\\btrifluoromethylphenylpiperazine')"
+S"(76, u'\\\\btrifluoromethylphenylpiperazine')"
 p34
 atp35
 Rp36
@@ -64,34 +64,8 @@ sS'species'
 p37
 g3
 ((lp38
-S"(2670, u'(?i)(arabs|arab)')"
+S"(5721, u'(?i)\\\\b(opossums|opossum)\\\\b')"
 p39
-aS"(4163, u'(?i)(ermines|ermine)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(5721, u'(?i)(opossums|opossum)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(937, u'(?i)(kids|kid)')"
-p48
-aS"(5722, u'(?i)(possums|possum)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+atp40
+Rp41
 sb.

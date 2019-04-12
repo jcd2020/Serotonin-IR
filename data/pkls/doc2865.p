@@ -40,58 +40,32 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(246, u'(?i)(uncuses|uncus)')"
+S"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p26
-aS"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p27
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p28
-aS"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
-p29
-atp30
-Rp31
+atp28
+Rp29
 sS'year'
-p32
+p30
 V2009
-p33
+p31
 sS'agonists'
-p34
+p32
 g3
-((lp35
-tp36
-Rp37
+((lp33
+tp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(2670, u'(?i)(arabs|arab)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(1280, u'(?i)(shrews|shrew)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(5176, u'(?i)(tegs|teg)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(6981, u'(?i)(moths|moth)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(5783, u'(?i)(hinds|hind)')"
-p52
-atp53
-Rp54
+((lp37
+S"(1280, u'(?i)\\\\b(shrews|shrew)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

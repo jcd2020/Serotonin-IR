@@ -8,144 +8,108 @@ c__builtin__
 set
 p3
 ((lp4
-S"(200, u'\\\\bmesulergine')"
+S"(32, u'\\\\bxylamidine')"
 p5
-aS"(130, u'\\\\britanserin')"
-p6
-aS"(52, u'\\\\bmetergoline')"
-p7
-aS"(34, u'\\\\byohimbine')"
-p8
-aS"(105, u'\\\\bmethysergide')"
-p9
-aS"(67, u'\\\\bhaloperidol')"
-p10
-aS"(33, u'\\\\bxylamidine')"
-p11
-aS"(117, u'\\\\bmianserin')"
-p12
 aS"(14, u'\\\\bmethiothepin')"
+p6
+aS"(133, u'\\\\bmianserin')"
+p7
+aS"(193, u'\\\\bmesulergine')"
+p8
+aS"(194, u'\\\\bmethysergide')"
+p9
+aS"(34, u'\\\\bmetergoline')"
+p10
+aS"(33, u'\\\\byohimbine')"
+p11
+aS"(119, u'\\\\britanserin')"
+p12
+aS"(58, u'\\\\bhaloperidol')"
 p13
-aS"(54, u'\\\\britanserin')"
-p14
-aS"(35, u'\\\\bmetergoline')"
-p15
-atp16
-Rp17
+atp14
+Rp15
 sS'methods'
-p18
+p16
 g3
-((lp19
+((lp17
 S'Method.ANTAGONIST'
-p20
+p18
 aS'Method.AGONIST'
-p21
-atp22
-Rp23
+p19
+atp20
+Rp21
 sS'topics'
-p24
+p22
 g3
-((lp25
-tp26
-Rp27
+((lp23
+tp24
+Rp25
 sS'receptors'
-p28
+p26
 g3
-((lp29
+((lp27
 S'5ht1c'
-p30
+p28
 aS'5ht1a'
-p31
-aS'5ht5'
-p32
+p29
 aS'5ht2'
-p33
+p30
 aS'5ht1d'
-p34
-atp35
-Rp36
+p31
+atp32
+Rp33
 sS'regions'
-p37
+p34
 g3
-((lp38
-tp39
-Rp40
+((lp35
+tp36
+Rp37
 sS'year'
-p41
+p38
 V1991
-p42
+p39
 sS'agonists'
+p40
+g3
+((lp41
+S"(220, u'\\\\b5 ?methoxytryptamine')"
+p42
+aS"(166, u'\\\\bmk ?212')"
 p43
-g3
-((lp44
-S"(181, u'\\\\bdom')"
+aS"(19, u'\\\\bbufotenin')"
+p44
+aS"(53, u'\\\\bmethysergide')"
 p45
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(165, u'\\\\bmesulergine')"
 p46
-aS"(48, u'\\\\bhaloperidol')"
+aS"(43, u'\\\\bhaloperidol')"
 p47
-aS"(225, u'\\\\b5 ?meot')"
+aS"(222, u'\\\\b5 ?meot')"
 p48
-aS"(23, u'\\\\bbufotenin')"
+aS"(192, u'\\\\bquipazine')"
 p49
-aS"(171, u'\\\\bmesulergine')"
+aS"(163, u'\\\\bfenfluramine')"
 p50
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(175, u'\\\\bdoi')"
 p51
-aS"(89, u'\\\\byohimbine')"
+aS"(82, u'\\\\byohimbine')"
 p52
-aS"(169, u'\\\\bfenfluramine')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p53
-aS"(60, u'\\\\bmethysergide')"
+aS"(176, u'\\\\bdom')"
 p54
-aS"(33, u'\\\\bdoi')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p55
-aS"(5, u'\\\\b5 ?ct')"
+aS"(219, u'\\\\b5 ?ct')"
 p56
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p57
-aS"(196, u'\\\\bquipazine')"
-p58
-aS"(172, u'\\\\bmk ?212')"
-p59
-atp60
-Rp61
+atp57
+Rp58
 sS'species'
-p62
+p59
 g3
-((lp63
-S"(6753, u'(?i)(da|das)')"
-p64
-aS"(2568, u'(?i)(hens|hen)')"
-p65
-aS"(6356, u'(?i)(ais|ai)')"
-p66
-aS"(4964, u'(?i)(serins|serin)')"
-p67
-aS"(401, u'(?i)(bufos|bufo)')"
-p68
-aS"(468, u'(?i)(oxen|ox)')"
-p69
-aS"(1349, u'(?i)(rams|ram)')"
-p70
-aS"(6249, u'(?i)(ants|ant)')"
-p71
-aS"(6682, u'(?i)(tera|teras)')"
-p72
-aS"(3812, u'(?i)(studs|stud)')"
-p73
-aS"(5958, u'(?i)(rats|rat)')"
-p74
-aS"(3522, u'(?i)(tetras|tetra)')"
-p75
-aS"(1961, u'(?i)(pens|pen)')"
-p76
-aS"(1414, u'(?i)(chars|char)')"
-p77
-aS"(4979, u'(?i)(cats|cat)')"
-p78
-aS"(5783, u'(?i)(hinds|hind)')"
-p79
-atp80
-Rp81
+((lp60
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p61
+atp62
+Rp63
 sb.

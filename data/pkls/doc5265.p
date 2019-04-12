@@ -8,110 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
-aS"(123, u'\\\\bclozapine')"
+aS"(113, u'\\\\brisperidone')"
 p7
-aS"(56, u'\\\\bclozapine')"
+aS"(31, u'\\\\bway ?100635')"
 p8
-aS"(67, u'\\\\bhaloperidol')"
+aS"(52, u'\\\\bmdl ?100907')"
 p9
-aS"(59, u'\\\\brisperidone')"
-p10
-aS"(61, u'\\\\bmdl ?100907')"
-p11
-atp12
-Rp13
+atp10
+Rp11
 sS'methods'
-p14
+p12
 g3
-((lp15
+((lp13
 S'Method.ANTAGONIST'
-p16
-atp17
-Rp18
+p14
+atp15
+Rp16
 sS'topics'
-p19
+p17
 g3
-((lp20
+((lp18
 S"(15, u'\\\\bschizophreni')"
-p21
+p19
 aS"(9, u'\\\\bdepress')"
-p22
-atp23
-Rp24
+p20
+atp21
+Rp22
 sS'receptors'
-p25
+p23
 g3
-((lp26
+((lp24
 S'5ht1a'
-p27
+p25
 aS'5ht2a'
-p28
-atp29
-Rp30
+p26
+atp27
+Rp28
 sS'regions'
+p29
+g3
+((lp30
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-g3
-((lp32
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p33
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p34
-atp35
-Rp36
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p32
+atp33
+Rp34
 sS'year'
-p37
+p35
 V1997
-p38
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(23, u'\\\\bclozapine')"
 p39
-g3
-((lp40
-S"(48, u'\\\\bhaloperidol')"
-p41
-aS"(27, u'\\\\bclozapine')"
-p42
-atp43
-Rp44
+aS"(43, u'\\\\bhaloperidol')"
+p40
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(6753, u'(?i)(da|das)')"
-p47
-aS"(2568, u'(?i)(hens|hen)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(1349, u'(?i)(rams|ram)')"
-p54
-aS"(853, u'(?i)(minas|mina)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(3426, u'(?i)(hares|hare)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(6391, u'(?i)(asses|ass)')"
-p60
-aS"(5743, u'(?i)(bots|bot)')"
-p61
-aS"(6356, u'(?i)(ais|ai)')"
-p62
-atp63
-Rp64
+((lp44
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p45
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

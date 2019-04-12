@@ -10,7 +10,7 @@ p3
 ((lp4
 S"(5, u'\\\\bcyanopindolol')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(194, u'\\\\bmethysergide')"
 p6
 atp7
 Rp8
@@ -48,7 +48,7 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p29
 atp30
 Rp31
@@ -60,13 +60,13 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(20, u'\\\\bbuspirone')"
 p36
-aS"(24, u'\\\\bbuspirone')"
+aS"(53, u'\\\\bmethysergide')"
 p37
-aS"(196, u'\\\\bquipazine')"
+aS"(192, u'\\\\bquipazine')"
 p38
-aS"(60, u'\\\\bmethysergide')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p39
 atp40
 Rp41
@@ -74,34 +74,8 @@ sS'species'
 p42
 g3
 ((lp43
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(3601, u'(?i)(efts|eft)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(1054, u'(?i)(homoes|homo)')"
-p51
-aS"(5743, u'(?i)(bots|bot)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(5949, u'(?i)(dogs|dog)')"
-p57
-atp58
-Rp59
+atp45
+Rp46
 sb.

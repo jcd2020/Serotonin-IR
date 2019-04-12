@@ -8,108 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(84, u'\\\\bsb ?206553')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(95, u'\\\\bsb ?206553')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
-tp17
-Rp18
+((lp15
+tp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
+((lp19
 S'5ht2b'
-p21
+p20
 aS'5ht2c'
-p22
+p21
 aS'5ht2a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp26
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p27
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'year'
-p33
+p31
 V2013
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(158, u'\\\\blsd')"
 p35
-g3
-((lp36
-S"(56, u'\\\\blsd')"
+aS"(49, u'\\\\blysergic acid diethylamide')"
+p36
+aS"(175, u'\\\\bdoi')"
 p37
-aS"(55, u'\\\\blysergic acid diethylamide')"
-p38
-aS"(33, u'\\\\bdoi')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(2054, u'(?i)(heads|head)')"
+((lp41
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+p42
+aS"(204, u'(?i)\\\\b(moas|moa)\\\\b')"
+p43
+aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(479, u'(?i)(lings|ling)')"
-p48
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(4964, u'(?i)(serins|serin)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(204, u'(?i)(moas|moa)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(6391, u'(?i)(asses|ass)')"
-p58
-aS"(5783, u'(?i)(hinds|hind)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-aS"(3426, u'(?i)(hares|hare)')"
-p61
-atp62
-Rp63
+atp45
+Rp46
 sb.

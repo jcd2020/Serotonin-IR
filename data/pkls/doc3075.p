@@ -8,108 +8,86 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(111, u'\\\\bolanzapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(56, u'\\\\bclozapine')"
+aS"(114, u'\\\\bziprasidone')"
 p7
-aS"(67, u'\\\\bhaloperidol')"
+aS"(31, u'\\\\bway ?100635')"
 p8
-aS"(41, u'\\\\bziprasidone')"
+aS"(58, u'\\\\bhaloperidol')"
 p9
-aS"(124, u'\\\\bolanzapine')"
-p10
-aS"(57, u'\\\\bolanzapine')"
-p11
-atp12
-Rp13
+atp10
+Rp11
 sS'methods'
-p14
+p12
 g3
-((lp15
+((lp13
 S'Method.ANTAGONIST'
-p16
+p14
 aS'Method.AGONIST'
-p17
-atp18
-Rp19
+p15
+atp16
+Rp17
 sS'topics'
-p20
+p18
 g3
-((lp21
+((lp19
 S"(6, u'\\\\bcognit')"
-p22
-atp23
-Rp24
+p20
+atp21
+Rp22
 sS'receptors'
-p25
+p23
 g3
-((lp26
+((lp24
 S'5ht1a'
-p27
-atp28
-Rp29
+p25
+atp26
+Rp27
 sS'regions'
+p28
+g3
+((lp29
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p30
-g3
-((lp31
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p31
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p32
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
-p33
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'year'
-p37
+p35
 V2005
-p38
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(57, u'\\\\bolanzapine')"
 p39
-g3
-((lp40
-S"(91, u'\\\\bziprasidone')"
+aS"(23, u'\\\\bclozapine')"
+p40
+aS"(84, u'\\\\bziprasidone')"
 p41
-aS"(64, u'\\\\bolanzapine')"
+aS"(43, u'\\\\bhaloperidol')"
 p42
-aS"(48, u'\\\\bhaloperidol')"
-p43
-aS"(27, u'\\\\bclozapine')"
-p44
-atp45
-Rp46
+atp43
+Rp44
 sS'species'
-p47
+p45
 g3
-((lp48
-S"(6753, u'(?i)(da|das)')"
+((lp46
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p47
+aS"(5510, u'(?i)\\\\b(bays|bay)\\\\b')"
+p48
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p49
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p50
-aS"(5510, u'(?i)(bays|bay)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(163, u'(?i)(mice|mouse)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(5176, u'(?i)(tegs|teg)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(6391, u'(?i)(asses|ass)')"
-p59
-aS"(2809, u'(?i)(toms|tom)')"
-p60
-aS"(5743, u'(?i)(bots|bot)')"
-p61
-atp62
-Rp63
+atp51
+Rp52
 sb.

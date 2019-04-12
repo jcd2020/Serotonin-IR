@@ -30,54 +30,34 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht3'
 p19
-aS'5ht3'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(315, u'(?i)(mesolimbics|mesolimbic)(-|\\\\s+)?(pathways|pathway)')"
-p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+((lp23
+S"(315, u'(?i)\\\\b(mesolimbics|mesolimbic)(-|\\\\s+)?(pathways|pathway)\\\\b')"
+p24
+atp25
+Rp26
 sS'year'
-p29
+p27
 V2001
-p30
+p28
 sS'agonists'
-p31
+p29
 g3
-((lp32
-tp33
-Rp34
+((lp30
+tp31
+Rp32
 sS'species'
-p35
+p33
 g3
-((lp36
-S"(6753, u'(?i)(da|das)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(3550, u'(?i)(anis|ani)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(1795, u'(?i)(mounts|mount)')"
-p44
-aS"(821, u'(?i)(lice|louse)')"
-p45
-atp46
-Rp47
+((lp34
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p35
+atp36
+Rp37
 sb.

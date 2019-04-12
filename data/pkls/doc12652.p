@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(114, u'\\\\bimipramine')"
+S"(104, u'\\\\bimipramine')"
 p5
-aS"(117, u'\\\\bmianserin')"
+aS"(133, u'\\\\bmianserin')"
 p6
 atp7
 Rp8
@@ -58,22 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(6249, u'(?i)(ants|ant)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(1349, u'(?i)(rams|ram)')"
-p39
-aS"(4964, u'(?i)(serins|serin)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(1961, u'(?i)(pens|pen)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-atp44
-Rp45
+atp37
+Rp38
 sb.

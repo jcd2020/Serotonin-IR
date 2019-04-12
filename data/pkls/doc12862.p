@@ -46,54 +46,30 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(246, u'(?i)(uncuses|uncus)')"
-p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+tp28
+Rp29
 sS'year'
-p32
+p30
 V2017
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(149, u'\\\\bmem')"
 p34
-g3
-((lp35
-S"(155, u'\\\\bmem')"
-p36
-atp37
-Rp38
+atp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(2670, u'(?i)(arabs|arab)')"
+((lp38
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+p39
+aS"(6967, u'(?i)\\\\b(scavengers|scavenger)\\\\b')"
+p40
+aS"(1280, u'(?i)\\\\b(shrews|shrew)\\\\b')"
 p41
-aS"(1280, u'(?i)(shrews|shrew)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(6967, u'(?i)(scavengers|scavenger)')"
-p44
-aS"(4663, u'(?i)(nags|nag)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3726, u'(?i)(mates|mate)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(6981, u'(?i)(moths|moth)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-atp54
-Rp55
+atp42
+Rp43
 sb.

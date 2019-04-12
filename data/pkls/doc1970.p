@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(194, u'\\\\bmethysergide')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
 atp7
 Rp8
@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,9 +52,9 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(48, u'\\\\bhaloperidol')"
+S"(53, u'\\\\bmethysergide')"
 p32
-aS"(60, u'\\\\bmethysergide')"
+aS"(43, u'\\\\bhaloperidol')"
 p33
 atp34
 Rp35
@@ -62,26 +62,12 @@ sS'species'
 p36
 g3
 ((lp37
-S"(6753, u'(?i)(da|das)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p38
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p39
-aS"(867, u'(?i)(tits|tit)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(7488, u'(?i)(molas|mola)')"
-p44
-aS"(4964, u'(?i)(serins|serin)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(7058, u'(?i)(does|doe)')"
-p47
-atp48
-Rp49
+atp41
+Rp42
 sb.

@@ -8,98 +8,62 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(113, u'\\\\brisperidone')"
 p5
-aS"(59, u'\\\\brisperidone')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.KNOCKOUT'
-p11
+p10
 aS'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
-tp17
-Rp18
+((lp15
+tp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
-S'5ht5'
-p21
-aS'5ht2a'
-p22
-atp23
-Rp24
+((lp19
+S'5ht2a'
+p20
+atp21
+Rp22
 sS'regions'
-p25
+p23
 g3
-((lp26
-tp27
-Rp28
+((lp24
+tp25
+Rp26
 sS'year'
-p29
+p27
 V2012
-p30
+p28
 sS'agonists'
-p31
+p29
 g3
-((lp32
-tp33
-Rp34
+((lp30
+tp31
+Rp32
 sS'species'
-p35
+p33
 g3
-((lp36
-S"(2323, u'(?i)(bees|bee)')"
+((lp34
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p35
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p36
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(2670, u'(?i)(arabs|arab)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(4201, u'(?i)(kines|kine)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(4964, u'(?i)(serins|serin)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(1057, u'(?i)(humans|human)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(3196, u'(?i)(human|humans)')"
-p52
-aS"(7058, u'(?i)(does|doe)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-aS"(7552, u'(?i)(bats|bat)')"
-p56
-atp57
-Rp58
+atp39
+Rp40
 sb.

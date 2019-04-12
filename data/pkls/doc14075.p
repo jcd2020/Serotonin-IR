@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(61, u'\\\\bmdl ?100907')"
+S"(99, u'\\\\bsb ?242084')"
 p5
-aS"(110, u'\\\\bsb ?242084')"
+aS"(52, u'\\\\bmdl ?100907')"
 p6
 atp7
 Rp8
@@ -46,56 +46,30 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(174, u'(?i)(posteriors|posterior)')"
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V2002
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(33, u'\\\\bdoi')"
-p37
-atp38
-Rp39
+((lp35
+S"(175, u'\\\\bdoi')"
+p36
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(5626, u'(?i)(posters|poster)')"
-p42
-aS"(2568, u'(?i)(hens|hen)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(1291, u'(?i)(ratels|ratel)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(3592, u'(?i)(ravens|raven)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(853, u'(?i)(minas|mina)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-atp55
-Rp56
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

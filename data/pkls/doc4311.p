@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p24
 atp25
 Rp26
@@ -56,16 +56,8 @@ sS'species'
 p33
 g3
 ((lp34
-S"(3812, u'(?i)(studs|stud)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(6356, u'(?i)(ais|ai)')"
-p36
-aS"(4301, u'(?i)(hydras|hydra)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-atp40
-Rp41
+atp36
+Rp37
 sb.

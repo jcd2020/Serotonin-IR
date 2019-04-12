@@ -10,100 +10,82 @@ p3
 ((lp4
 S"(5, u'\\\\bcyanopindolol')"
 p5
-aS"(52, u'\\\\bmetergoline')"
+aS"(203, u'\\\\btfmpp')"
 p6
 aS"(22, u'\\\\bpropranolol')"
 p7
-aS"(209, u'\\\\btfmpp')"
+aS"(34, u'\\\\bmetergoline')"
 p8
-aS"(35, u'\\\\bmetergoline')"
-p9
 aS"(11, u'\\\\bisamoltane')"
-p10
-atp11
-Rp12
+p9
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.ANTAGONIST'
-p15
+p14
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
-tp21
-Rp22
+((lp19
+tp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht1b'
-p25
+p24
 aS'5ht1d'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
-p31
-atp32
-Rp33
+((lp29
+S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p34
+p33
 V1990
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(161, u'\\\\bmcpp')"
+((lp36
+S"(178, u'\\\\btfmpp')"
+p37
+aS"(155, u'\\\\bmcpp')"
 p38
-aS"(74, u'\\\\bru ?24969')"
+aS"(67, u'\\\\bru ?24969')"
 p39
-aS"(5, u'\\\\b5 ?ct')"
+aS"(219, u'\\\\b5 ?ct')"
 p40
-aS"(183, u'\\\\btfmpp')"
-p41
-atp42
-Rp43
+atp41
+Rp42
 sS'species'
-p44
+p43
 g3
-((lp45
-S"(2323, u'(?i)(bees|bee)')"
+((lp44
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+p45
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p46
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p47
-aS"(867, u'(?i)(tits|tit)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p48
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(4604, u'(?i)(mites|mite)')"
-p51
-aS"(853, u'(?i)(minas|mina)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(1057, u'(?i)(humans|human)')"
-p54
-aS"(3196, u'(?i)(human|humans)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(2292, u'(?i)(adders|adder)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+atp50
+Rp51
 sb.

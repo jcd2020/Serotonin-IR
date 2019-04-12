@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(159, u'\\\\bsb ?204070')"
+S"(150, u'\\\\bsb ?204070')"
 p5
 atp6
 Rp7
@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(14, u'\\\\bamphetamine')"
+S"(11, u'\\\\bamphetamine')"
 p31
 atp32
 Rp33
@@ -58,22 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(6249, u'(?i)(ants|ant)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(6682, u'(?i)(tera|teras)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(3550, u'(?i)(anis|ani)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(7058, u'(?i)(does|doe)')"
-p43
-atp44
-Rp45
+atp38
+Rp39
 sb.

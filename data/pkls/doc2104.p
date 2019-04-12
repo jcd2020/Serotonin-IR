@@ -50,9 +50,9 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(195, u'(?i)\\\\b(telencephalons|telencephalon)\\\\b')"
 p30
-aS"(195, u'(?i)(telencephalons|telencephalon)')"
+aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p31
 atp32
 Rp33
@@ -70,38 +70,8 @@ sS'species'
 p40
 g3
 ((lp41
-S"(2568, u'(?i)(hens|hen)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p42
-aS"(7609, u'(?i)(erns|ern)')"
-p43
-aS"(867, u'(?i)(tits|tit)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(1266, u'(?i)(embryos|embryo)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(3726, u'(?i)(mates|mate)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1683, u'(?i)(terns|tern)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(1628, u'(?i)(cod|cod)')"
-p55
-aS"(821, u'(?i)(lice|louse)')"
-p56
-aS"(7552, u'(?i)(bats|bat)')"
-p57
-atp58
-Rp59
+atp43
+Rp44
 sb.

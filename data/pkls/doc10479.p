@@ -22,78 +22,46 @@ sS'topics'
 p12
 g3
 ((lp13
-S"(29, u'\\\\bsex')"
+S"(37, u'\\\\baddict')"
 p14
-atp15
-Rp16
+aS"(29, u'\\\\bsex')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
+((lp19
 S'5ht1a'
-p19
-atp20
-Rp21
+p20
+atp21
+Rp22
 sS'regions'
-p22
+p23
 g3
-((lp23
-tp24
-Rp25
+((lp24
+tp25
+Rp26
 sS'year'
-p26
-V2017
 p27
-sS'agonists'
+V2017
 p28
+sS'agonists'
+p29
 g3
-((lp29
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p30
-atp31
-Rp32
+((lp30
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p31
+atp32
+Rp33
 sS'species'
-p33
+p34
 g3
-((lp34
-S"(2323, u'(?i)(bees|bee)')"
-p35
-aS"(6753, u'(?i)(da|das)')"
+((lp35
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(7609, u'(?i)(erns|ern)')"
-p39
-aS"(2942, u'(?i)(daws|daw)')"
-p40
-aS"(5967, u'(?i)(males|male)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(3726, u'(?i)(mates|mate)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(3522, u'(?i)(tetras|tetra)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(2292, u'(?i)(adders|adder)')"
-p50
-aS"(6642, u'(?i)(lions|lion)')"
-p51
-aS"(2809, u'(?i)(toms|tom)')"
-p52
-aS"(1683, u'(?i)(terns|tern)')"
-p53
-atp54
-Rp55
+atp38
+Rp39
 sb.

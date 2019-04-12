@@ -8,100 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(203, u'\\\\btfmpp')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(209, u'\\\\btfmpp')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(29, u'\\\\bsex')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht2c'
-p23
+p22
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p29
-aS"(170, u'(?i)(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)')"
-p30
-atp31
-Rp32
+((lp27
+S"(170, u'(?i)\\\\b(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p33
+p31
 V1998
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(178, u'\\\\btfmpp')"
 p35
-g3
-((lp36
-S"(196, u'\\\\bquipazine')"
+aS"(192, u'\\\\bquipazine')"
+p36
+aS"(175, u'\\\\bdoi')"
 p37
-aS"(183, u'\\\\btfmpp')"
-p38
-aS"(33, u'\\\\bdoi')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(6249, u'(?i)(ants|ant)')"
+((lp41
+S"(6282, u'(?i)\\\\b(wolves|wolf)\\\\b')"
+p42
+aS"(1795, u'(?i)\\\\b(mounts|mount)\\\\b')"
+p43
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p45
-aS"(6125, u'(?i)(females|female)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(5967, u'(?i)(males|male)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(4462, u'(?i)(monals|monal)')"
-p50
-aS"(6282, u'(?i)(wolves|wolf)')"
-p51
-aS"(4964, u'(?i)(serins|serin)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(7094, u'(?i)(curs|cur)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(2809, u'(?i)(toms|tom)')"
-p56
-aS"(1795, u'(?i)(mounts|mount)')"
-p57
-atp58
-Rp59
+atp46
+Rp47
 sb.

@@ -24,39 +24,39 @@ sS'topics'
 p13
 g3
 ((lp14
-S"(9, u'\\\\bdepress')"
+S"(37, u'\\\\baddict')"
 p15
-aS"(10, u'\\\\banxiety')"
+aS"(9, u'\\\\bdepress')"
 p16
-atp17
-Rp18
+aS"(10, u'\\\\banxiety')"
+p17
+atp18
+Rp19
 sS'receptors'
-p19
+p20
 g3
-((lp20
+((lp21
 S'5ht1a'
-p21
-aS'5ht2a'
 p22
-atp23
-Rp24
+aS'5ht2a'
+p23
+atp24
+Rp25
 sS'regions'
-p25
+p26
 g3
-((lp26
-S"(218, u'(?i)(claustrums|claustrum)')"
-p27
-aS"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
+((lp27
+S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
 p28
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p29
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p30
-aS"(34, u'(?i)(pon|pons)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p31
-aS"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p32
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(218, u'(?i)\\\\b(claustrums|claustrum)\\\\b')"
 p33
 atp34
 Rp35
@@ -68,7 +68,7 @@ sS'agonists'
 p38
 g3
 ((lp39
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p40
 atp41
 Rp42
@@ -76,42 +76,14 @@ sS'species'
 p43
 g3
 ((lp44
-S"(2323, u'(?i)(bees|bee)')"
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p45
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p46
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p47
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p48
-aS"(7609, u'(?i)(erns|ern)')"
-p49
-aS"(867, u'(?i)(tits|tit)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(4964, u'(?i)(serins|serin)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(3522, u'(?i)(tetras|tetra)')"
-p57
-aS"(1057, u'(?i)(humans|human)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(3196, u'(?i)(human|humans)')"
-p60
-aS"(6325, u'(?i)(caudates|caudate)')"
-p61
-aS"(1683, u'(?i)(terns|tern)')"
-p62
-atp63
-Rp64
+atp49
+Rp50
 sb.

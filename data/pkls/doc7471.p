@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(29, u'\\\\buh ?301')"
 p5
-aS"(30, u'\\\\buh ?301')"
+aS"(203, u'\\\\btfmpp')"
 p6
 atp7
 Rp8
@@ -50,9 +50,9 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(105, u'(?i)(par|pars)(-|\\\\s+)?(reticulatas|reticulata)')"
+S"(105, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(reticulatas|reticulata)\\\\b')"
 p30
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p31
 atp32
 Rp33
@@ -64,13 +64,13 @@ sS'agonists'
 p36
 g3
 ((lp37
-S"(161, u'\\\\bmcpp')"
+S"(179, u'\\\\b5 ?meo ?dmt')"
 p38
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(178, u'\\\\btfmpp')"
 p39
-aS"(8, u'\\\\b5 ?meo ?dmt')"
+aS"(155, u'\\\\bmcpp')"
 p40
-aS"(183, u'\\\\btfmpp')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p41
 atp42
 Rp43
@@ -78,30 +78,8 @@ sS'species'
 p44
 g3
 ((lp45
-S"(2568, u'(?i)(hens|hen)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(4201, u'(?i)(kines|kine)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(3522, u'(?i)(tetras|tetra)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(6878, u'(?i)(guans|guan)')"
-p57
-atp58
-Rp59
+atp47
+Rp48
 sb.

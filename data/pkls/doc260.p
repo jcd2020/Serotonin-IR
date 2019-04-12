@@ -8,102 +8,80 @@ c__builtin__
 set
 p3
 ((lp4
-S"(123, u'\\\\bclozapine')"
+S"(59, u'\\\\bchlorpromazine')"
 p5
-aS"(56, u'\\\\bclozapine')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(57, u'\\\\bolanzapine')"
+aS"(131, u'\\\\bm1')"
 p7
-aS"(142, u'\\\\bm1')"
+aS"(111, u'\\\\bolanzapine')"
 p8
-aS"(124, u'\\\\bolanzapine')"
+aS"(58, u'\\\\bhaloperidol')"
 p9
-aS"(68, u'\\\\bchlorpromazine')"
-p10
-aS"(67, u'\\\\bhaloperidol')"
-p11
-atp12
-Rp13
+atp10
+Rp11
 sS'methods'
-p14
+p12
 g3
-((lp15
+((lp13
 S'Method.ANTAGONIST'
-p16
-atp17
-Rp18
+p14
+atp15
+Rp16
 sS'topics'
-p19
+p17
 g3
-((lp20
+((lp18
 S"(15, u'\\\\bschizophreni')"
-p21
-atp22
-Rp23
+p19
+atp20
+Rp21
 sS'receptors'
+p22
+g3
+((lp23
+S'5ht2'
 p24
-g3
-((lp25
-S'5ht5'
-p26
-aS'5ht2'
-p27
 aS'5ht2a'
-p28
-atp29
-Rp30
+p25
+atp26
+Rp27
 sS'regions'
+p28
+g3
+((lp29
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p30
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p31
-g3
-((lp32
-S"(220, u'(?i)(striatums|striatum)')"
-p33
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
-p34
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p35
-atp36
-Rp37
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p32
+atp33
+Rp34
 sS'year'
-p38
+p35
 V2007
-p39
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(57, u'\\\\bolanzapine')"
+p39
+aS"(23, u'\\\\bclozapine')"
 p40
-g3
-((lp41
-S"(64, u'\\\\bolanzapine')"
-p42
-aS"(48, u'\\\\bhaloperidol')"
-p43
-aS"(27, u'\\\\bclozapine')"
-p44
-atp45
-Rp46
+aS"(43, u'\\\\bhaloperidol')"
+p41
+atp42
+Rp43
 sS'species'
-p47
+p44
 g3
-((lp48
-S"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1349, u'(?i)(rams|ram)')"
-p53
-aS"(3726, u'(?i)(mates|mate)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(3426, u'(?i)(hares|hare)')"
-p57
-aS"(6391, u'(?i)(asses|ass)')"
-p58
-atp59
-Rp60
+((lp45
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p46
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

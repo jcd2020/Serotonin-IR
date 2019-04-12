@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(374, u'(?i)(duras|dura)(-|\\\\s+)?(maters|mater)')"
+S"(374, u'(?i)\\\\b(duras|dura)(-|\\\\s+)?(maters|mater)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(103, u'\\\\bsumatriptan')"
+S"(96, u'\\\\bsumatriptan')"
 p32
 atp33
 Rp34
@@ -60,50 +60,20 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2930, u'(?i)(beagles|beagle)')"
+S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p37
-aS"(3592, u'(?i)(ravens|raven)')"
+aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
 p38
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
 p40
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(2930, u'(?i)\\\\b(beagles|beagle)\\\\b')"
 p41
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(3569, u'(?i)\\\\b(constrictors|constrictor)\\\\b')"
 p42
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p43
-aS"(3062, u'(?i)(guineas|guinea)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(2809, u'(?i)(toms|tom)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(6642, u'(?i)(lions|lion)')"
-p51
-aS"(3569, u'(?i)(constrictors|constrictor)')"
-p52
-aS"(5949, u'(?i)(dogs|dog)')"
-p53
-aS"(2323, u'(?i)(bees|bee)')"
-p54
-aS"(4913, u'(?i)(eagles|eagle)')"
-p55
-aS"(853, u'(?i)(minas|mina)')"
-p56
-aS"(3051, u'(?i)(pigs|pig)')"
-p57
-aS"(3726, u'(?i)(mates|mate)')"
-p58
-atp59
-Rp60
+atp44
+Rp45
 sb.

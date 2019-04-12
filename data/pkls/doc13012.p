@@ -42,64 +42,42 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(302, u'(?i)(corpuses|corpus)(-|\\\\s+)?(callosums|callosum)')"
+S"(302, u'(?i)\\\\b(corpuses|corpus)(-|\\\\s+)?(callosums|callosum)\\\\b')"
 p26
-aS"(293, u'(?i)(posteriors|posterior)(-|\\\\s+)?(cingulates|cingulate)')"
+aS"(293, u'(?i)\\\\b(posteriors|posterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p27
-aS"(267, u'(?i)(precuneuses|precuneus)')"
+aS"(267, u'(?i)\\\\b(precuneuses|precuneus)\\\\b')"
 p28
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p29
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p30
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p31
-aS"(276, u'(?i)(cuneuses|cuneus)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V1997
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-tp39
-Rp40
+((lp37
+tp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(1070, u'(?i)(pets|pet)')"
+((lp41
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p42
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p43
-aS"(5626, u'(?i)(posters|poster)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(2665, u'(?i)(rays|ray)')"
-p48
-aS"(1054, u'(?i)(homoes|homo)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(1057, u'(?i)(humans|human)')"
-p51
-aS"(3592, u'(?i)(ravens|raven)')"
-p52
-aS"(3196, u'(?i)(human|humans)')"
-p53
-aS"(4177, u'(?i)(grays|gray)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(7127, u'(?i)(monitors|monitor)')"
-p56
-atp57
-Rp58
+atp46
+Rp47
 sb.

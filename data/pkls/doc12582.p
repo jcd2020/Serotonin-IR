@@ -8,96 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(14, u'\\\\bmethiothepin')"
 p5
-aS"(52, u'\\\\bmetergoline')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(34, u'\\\\byohimbine')"
+aS"(34, u'\\\\bmetergoline')"
 p7
-aS"(128, u'\\\\bketanserin')"
+aS"(33, u'\\\\byohimbine')"
 p8
-aS"(14, u'\\\\bmethiothepin')"
-p9
-aS"(35, u'\\\\bmetergoline')"
-p10
-atp11
-Rp12
+atp9
+Rp10
 sS'methods'
-p13
+p11
 g3
-((lp14
+((lp12
 S'Method.AGONIST'
-p15
-atp16
-Rp17
+p13
+atp14
+Rp15
 sS'topics'
-p18
+p16
 g3
-((lp19
-tp20
-Rp21
+((lp17
+tp18
+Rp19
 sS'receptors'
-p22
+p20
 g3
-((lp23
+((lp21
 S'5ht1d'
-p24
-atp25
-Rp26
+p22
+atp23
+Rp24
 sS'regions'
-p27
+p25
 g3
-((lp28
-tp29
-Rp30
+((lp26
+tp27
+Rp28
 sS'year'
-p31
+p29
 V1995
-p32
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(219, u'\\\\b5 ?ct')"
 p33
-g3
-((lp34
-S"(89, u'\\\\byohimbine')"
+aS"(96, u'\\\\bsumatriptan')"
+p34
+aS"(149, u'\\\\bmem')"
 p35
-aS"(103, u'\\\\bsumatriptan')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(82, u'\\\\byohimbine')"
 p37
-aS"(5, u'\\\\b5 ?ct')"
-p38
-aS"(155, u'\\\\bmem')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
+((lp41
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p42
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p43
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(4964, u'(?i)(serins|serin)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p51
-aS"(1057, u'(?i)(humans|human)')"
-p52
-aS"(1414, u'(?i)(chars|char)')"
-p53
-aS"(3196, u'(?i)(human|humans)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+atp45
+Rp46
 sb.

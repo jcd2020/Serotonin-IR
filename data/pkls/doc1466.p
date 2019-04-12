@@ -22,78 +22,48 @@ sS'topics'
 p12
 g3
 ((lp13
-S"(6, u'\\\\bcognit')"
+S"(37, u'\\\\baddict')"
 p14
-atp15
-Rp16
+aS"(6, u'\\\\bcognit')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
+((lp19
 S'5ht2a'
-p19
-atp20
-Rp21
+p20
+atp21
+Rp22
 sS'regions'
-p22
+p23
 g3
-((lp23
-tp24
-Rp25
+((lp24
+tp25
+Rp26
 sS'year'
-p26
-V2012
 p27
-sS'agonists'
+V2012
 p28
+sS'agonists'
+p29
 g3
-((lp29
-S"(163, u'\\\\bdmt')"
-p30
-aS"(237, u'\\\\bnn ?dimethyltryptamine')"
+((lp30
+S"(157, u'\\\\bdmt')"
 p31
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p32
-atp33
-Rp34
+aS"(235, u'\\\\bnn ?dimethyltryptamine')"
+p33
+atp34
+Rp35
 sS'species'
-p35
+p36
 g3
-((lp36
-S"(6753, u'(?i)(da|das)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
+((lp37
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p38
-aS"(6356, u'(?i)(ais|ai)')"
-p39
-aS"(7609, u'(?i)(erns|ern)')"
-p40
-aS"(867, u'(?i)(tits|tit)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(6391, u'(?i)(asses|ass)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(3522, u'(?i)(tetras|tetra)')"
-p48
-aS"(7058, u'(?i)(does|doe)')"
-p49
-aS"(1961, u'(?i)(pens|pen)')"
-p50
-aS"(1414, u'(?i)(chars|char)')"
-p51
-aS"(664, u'(?i)(amazons|amazon)')"
-p52
-aS"(1683, u'(?i)(terns|tern)')"
-p53
-atp54
-Rp55
+atp39
+Rp40
 sb.

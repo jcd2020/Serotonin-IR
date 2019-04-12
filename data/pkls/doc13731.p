@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -50,66 +50,42 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(215, u'(?i)(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p30
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p31
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p32
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
 p33
-aS"(34, u'(?i)(pon|pons)')"
+aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p34
-aS"(214, u'(?i)(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p35
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p36
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p37
-atp38
-Rp39
+atp36
+Rp37
 sS'year'
-p40
+p38
 V2019
-p41
+p39
 sS'agonists'
+p40
+g3
+((lp41
+S"(166, u'\\\\bmk ?212')"
 p42
-g3
-((lp43
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p43
+aS"(175, u'\\\\bdoi')"
 p44
-aS"(172, u'\\\\bmk ?212')"
-p45
-aS"(33, u'\\\\bdoi')"
-p46
-atp47
-Rp48
+atp45
+Rp46
 sS'species'
-p49
+p47
 g3
-((lp50
-S"(4624, u'(?i)(apes|ape)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(6753, u'(?i)(da|das)')"
-p53
-aS"(479, u'(?i)(lings|ling)')"
-p54
-aS"(468, u'(?i)(oxen|ox)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(3550, u'(?i)(anis|ani)')"
-p58
-aS"(3522, u'(?i)(tetras|tetra)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-aS"(6682, u'(?i)(tera|teras)')"
-p61
-atp62
-Rp63
+((lp48
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

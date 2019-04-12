@@ -34,7 +34,7 @@ S'5ht7'
 p19
 aS'5ht1b'
 p20
-aS'5ht5'
+aS'5ht1a'
 p21
 aS'5ht4'
 p22
@@ -46,50 +46,36 @@ aS'5ht1'
 p25
 aS'5ht2a'
 p26
-aS'5ht1a'
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p32
-atp33
-Rp34
+((lp30
+tp31
+Rp32
 sS'year'
-p35
+p33
 V2002
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(99, u'\\\\bcgs ?12066a')"
 p37
-g3
-((lp38
-S"(161, u'\\\\bmcpp')"
+aS"(155, u'\\\\bmcpp')"
+p38
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p39
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(175, u'\\\\bdoi')"
 p40
-aS"(106, u'\\\\bcgs ?12066a')"
-p41
-aS"(33, u'\\\\bdoi')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-atp52
-Rp53
+((lp44
+tp45
+Rp46
 sb.

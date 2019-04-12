@@ -52,64 +52,34 @@ sS'regions'
 p29
 g3
 ((lp30
-S"(214, u'(?i)(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+S"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
 p31
-aS"(215, u'(?i)(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p32
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'year'
-p37
+p35
 V2014
-p38
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(205, u'\\\\brs ?67333')"
 p39
-g3
-((lp40
-S"(155, u'\\\\bmem')"
-p41
-aS"(209, u'\\\\brs ?67333')"
-p42
-atp43
-Rp44
+aS"(149, u'\\\\bmem')"
+p40
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(2323, u'(?i)(bees|bee)')"
-p47
-aS"(4624, u'(?i)(apes|ape)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(2568, u'(?i)(hens|hen)')"
-p50
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(163, u'(?i)(mice|mouse)')"
-p53
-aS"(5967, u'(?i)(males|male)')"
-p54
-aS"(6682, u'(?i)(tera|teras)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(3550, u'(?i)(anis|ani)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-aS"(6878, u'(?i)(guans|guan)')"
-p61
-atp62
-Rp63
+((lp44
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p45
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p46
+atp47
+Rp48
 sb.

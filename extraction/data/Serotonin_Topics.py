@@ -34,4 +34,6 @@ ur"\bobesity",
 ur"\bnausea",
 ur"\balzheimers",
 ur"\bdementia",
-ur"\bstress"]
+ur"\bstress",
+ur"\bcompulsiv",
+ur"\baddict"]

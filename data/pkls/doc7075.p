@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(141, u'\\\\bzacopride')"
+S"(130, u'\\\\bzacopride')"
 p5
 atp6
 Rp7
@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(212, u'\\\\bzacopride')"
+S"(208, u'\\\\bzacopride')"
 p31
 atp32
 Rp33
@@ -58,12 +58,6 @@ sS'species'
 p34
 g3
 ((lp35
-S"(3812, u'(?i)(studs|stud)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-atp39
-Rp40
+tp36
+Rp37
 sb.

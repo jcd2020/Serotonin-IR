@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(108, u'\\\\bcp ?94253')"
+S"(101, u'\\\\bcp ?94253')"
 p30
 atp31
 Rp32
@@ -56,24 +56,10 @@ sS'species'
 p33
 g3
 ((lp34
-S"(5958, u'(?i)(rats|rat)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(6753, u'(?i)(da|das)')"
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p36
-aS"(1055, u'(?i)(men|man)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(1349, u'(?i)(rams|ram)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(3550, u'(?i)(anis|ani)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(4074, u'(?i)(bulls|bull)')"
-p43
-atp44
-Rp45
+atp37
+Rp38
 sb.

@@ -8,98 +8,64 @@ c__builtin__
 set
 p3
 ((lp4
-S"(57, u'\\\\bolanzapine')"
+S"(111, u'\\\\bolanzapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(124, u'\\\\bolanzapine')"
-p7
-aS"(56, u'\\\\bclozapine')"
-p8
-atp9
-Rp10
+atp7
+Rp8
 sS'methods'
-p11
+p9
 g3
-((lp12
+((lp10
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p11
+atp12
+Rp13
 sS'topics'
-p16
+p14
 g3
-((lp17
+((lp15
 S"(15, u'\\\\bschizophreni')"
-p18
-atp19
-Rp20
+p16
+atp17
+Rp18
 sS'receptors'
-p21
+p19
 g3
-((lp22
+((lp20
 S'5ht2a'
-p23
-atp24
-Rp25
+p21
+atp22
+Rp23
 sS'regions'
-p26
+p24
 g3
-((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+((lp25
+tp26
+Rp27
 sS'year'
-p31
+p28
 V2003
-p32
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(57, u'\\\\bolanzapine')"
+p32
+aS"(23, u'\\\\bclozapine')"
 p33
-g3
-((lp34
-S"(64, u'\\\\bolanzapine')"
-p35
-aS"(27, u'\\\\bclozapine')"
-p36
-atp37
-Rp38
+atp34
+Rp35
 sS'species'
-p39
+p36
 g3
-((lp40
-S"(3196, u'(?i)(human|humans)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(702, u'(?i)(genets|genet)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(1291, u'(?i)(ratels|ratel)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(4371, u'(?i)(lizas|liza)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(1057, u'(?i)(humans|human)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(3048, u'(?i)(hogs|hog)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-atp57
-Rp58
+((lp37
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p38
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p39
+atp40
+Rp41
 sb.

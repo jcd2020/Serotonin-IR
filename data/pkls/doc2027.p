@@ -30,68 +30,42 @@ g3
 ((lp17
 S'5ht7'
 p18
-aS'5ht5'
-p19
 aS'5ht1a'
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp23
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p24
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp27
+Rp28
 sS'year'
-p31
+p29
 V1998
-p32
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p33
-g3
-((lp34
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(2323, u'(?i)(bees|bee)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(4163, u'(?i)(ermines|ermine)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(2334, u'(?i)(eels|eel)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p49
-aS"(3522, u'(?i)(tetras|tetra)')"
-p50
-aS"(5216, u'(?i)(goldens|golden)(-|\\\\s+)?(hamsters|hamster)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-atp53
-Rp54
+((lp37
+S"(5216, u'(?i)\\\\b(goldens|golden)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
+p38
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p39
+atp40
+Rp41
 sb.

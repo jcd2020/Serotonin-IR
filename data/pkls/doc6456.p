@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(234, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(basali|basalis)')"
+S"(234, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(basali|basalis)\\\\b')"
 p24
-aS"(231, u'(?i)(basals|basal)(-|\\\\s+)?(forebrains|forebrain)')"
+aS"(231, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(forebrains|forebrain)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,26 +58,14 @@ sS'species'
 p34
 g3
 ((lp35
-S"(6127, u'(?i)(chats|chat)')"
+S"(6127, u'(?i)\\\\b(chats|chat)\\\\b')"
 p36
-aS"(479, u'(?i)(lings|ling)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p37
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p38
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p39
-aS"(3062, u'(?i)(guineas|guinea)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(7552, u'(?i)(bats|bat)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p44
-aS"(821, u'(?i)(lice|louse)')"
-p45
-atp46
-Rp47
+atp40
+Rp41
 sb.

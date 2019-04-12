@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\byohimbine')"
+S"(10, u'\\\\biodocyanopindolol')"
 p5
-aS"(10, u'\\\\biodocyanopindolol')"
+aS"(33, u'\\\\byohimbine')"
 p6
 atp7
 Rp8
@@ -38,82 +38,46 @@ S'5ht1c'
 p21
 aS'5ht1b'
 p22
-aS'5ht5'
+aS'5ht1a'
 p23
 aS'5ht3'
 p24
 aS'5ht2'
 p25
-aS'5ht1a'
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'year'
-p33
+p32
 V1992
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(72, u'\\\\brauwolscine')"
+((lp35
+S"(65, u'\\\\brauwolscine')"
+p36
+aS"(220, u'\\\\b5 ?methoxytryptamine')"
 p37
-aS"(89, u'\\\\byohimbine')"
+aS"(67, u'\\\\bru ?24969')"
 p38
-aS"(74, u'\\\\bru ?24969')"
+aS"(82, u'\\\\byohimbine')"
 p39
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(1070, u'(?i)(pets|pet)')"
+((lp43
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(4624, u'(?i)(apes|ape)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(2568, u'(?i)(hens|hen)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(867, u'(?i)(tits|tit)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(3726, u'(?i)(mates|mate)')"
-p55
-aS"(3404, u'(?i)(titis|titi)')"
-p56
-aS"(853, u'(?i)(minas|mina)')"
-p57
-aS"(5958, u'(?i)(rats|rat)')"
-p58
-aS"(3522, u'(?i)(tetras|tetra)')"
-p59
-aS"(7058, u'(?i)(does|doe)')"
-p60
-aS"(1414, u'(?i)(chars|char)')"
-p61
-aS"(6391, u'(?i)(asses|ass)')"
-p62
-aS"(3812, u'(?i)(studs|stud)')"
-p63
-atp64
-Rp65
+atp46
+Rp47
 sb.

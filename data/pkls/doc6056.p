@@ -30,60 +30,34 @@ S'5ht7'
 p17
 aS'5ht1a'
 p18
-aS'5ht5'
-p19
 aS'5ht7d'
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-tp25
-Rp26
+((lp23
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2018
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp33
+S"(1054, u'(?i)\\\\b(homoes|homo)\\\\b')"
+p34
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p35
-aS"(6215, u'(?i)(racers|racer)')"
-p36
-aS"(2568, u'(?i)(hens|hen)')"
-p37
-aS"(163, u'(?i)(mice|mouse)')"
-p38
-aS"(479, u'(?i)(lings|ling)')"
-p39
-aS"(4201, u'(?i)(kines|kine)')"
-p40
-aS"(1349, u'(?i)(rams|ram)')"
-p41
-aS"(1054, u'(?i)(homoes|homo)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(5917, u'(?i)(roaches|roach)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-atp49
-Rp50
+atp36
+Rp37
 sb.

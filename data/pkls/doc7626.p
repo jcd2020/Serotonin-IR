@@ -54,18 +54,6 @@ sS'species'
 p32
 g3
 ((lp33
-S"(2568, u'(?i)(hens|hen)')"
-p34
-aS"(6753, u'(?i)(da|das)')"
-p35
-aS"(468, u'(?i)(oxen|ox)')"
-p36
-aS"(7488, u'(?i)(molas|mola)')"
-p37
-aS"(853, u'(?i)(minas|mina)')"
-p38
-aS"(3812, u'(?i)(studs|stud)')"
-p39
-atp40
-Rp41
+tp34
+Rp35
 sb.

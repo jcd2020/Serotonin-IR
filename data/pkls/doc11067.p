@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(203, u'\\\\btfmpp')"
 p5
 atp6
 Rp7
@@ -34,76 +34,44 @@ g3
 ((lp19
 S'5ht1b'
 p20
-aS'5ht5'
-p21
 aS'5ht2c'
-p22
+p21
 aS'5ht1'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(126, u'(?i)(thalamuses|thalamus)')"
+((lp26
+S"(55, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(parabrachials|parabrachial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p27
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p28
-aS"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p29
-aS"(55, u'(?i)(laterals|lateral)(-|\\\\s+)?(parabrachials|parabrachial)(-|\\\\s+)?(nuclei|nucleus)')"
-p30
-aS"(220, u'(?i)(striatums|striatum)')"
-p31
-atp32
-Rp33
+atp30
+Rp31
 sS'year'
-p34
+p32
 V2001
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(178, u'\\\\btfmpp')"
 p36
-g3
-((lp37
-S"(161, u'\\\\bmcpp')"
-p38
-aS"(183, u'\\\\btfmpp')"
-p39
-atp40
-Rp41
+aS"(155, u'\\\\bmcpp')"
+p37
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(2670, u'(?i)(arabs|arab)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(867, u'(?i)(tits|tit)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(5551, u'(?i)(owls|owl)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(1349, u'(?i)(rams|ram)')"
-p54
-aS"(2942, u'(?i)(daws|daw)')"
-p55
-aS"(5958, u'(?i)(rats|rat)')"
-p56
-aS"(3592, u'(?i)(ravens|raven)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-atp59
-Rp60
+((lp41
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

@@ -50,9 +50,9 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+S"(149, u'\\\\bmem')"
 p31
-aS"(155, u'\\\\bmem')"
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p32
 atp33
 Rp34
@@ -60,52 +60,20 @@ sS'species'
 p35
 g3
 ((lp36
-S"(7094, u'(?i)(curs|cur)')"
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p37
-aS"(4099, u'(?i)(hamsters|hamster)')"
+aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(5229, u'(?i)(moles|mole)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(3196, u'(?i)(human|humans)')"
+aS"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
 p42
-aS"(7539, u'(?i)(mammals|mammal)')"
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(1725, u'(?i)(clams|clam)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(821, u'(?i)(lice|louse)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(163, u'(?i)(mice|mouse)')"
-p49
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(1057, u'(?i)(humans|human)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(1414, u'(?i)(chars|char)')"
-p56
-aS"(2568, u'(?i)(hens|hen)')"
-p57
-aS"(2453, u'(?i)(topis|topi)')"
-p58
-aS"(4964, u'(?i)(serins|serin)')"
-p59
-atp60
-Rp61
+atp44
+Rp45
 sb.

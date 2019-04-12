@@ -38,21 +38,21 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(218, u'(?i)(claustrums|claustrum)')"
+S"(293, u'(?i)\\\\b(posteriors|posterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p24
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p25
-aS"(293, u'(?i)(posteriors|posterior)(-|\\\\s+)?(cingulates|cingulate)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(218, u'(?i)\\\\b(claustrums|claustrum)\\\\b')"
 p29
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p31
 atp32
 Rp33
@@ -70,38 +70,14 @@ sS'species'
 p40
 g3
 ((lp41
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p42
-aS"(1350, u'(?i)(tups|tup)')"
+aS"(1891, u'(?i)\\\\b(trees|tree)(-|\\\\s+)?(shrews|shrew)\\\\b')"
 p43
-aS"(1280, u'(?i)(shrews|shrew)')"
+aS"(1280, u'(?i)\\\\b(shrews|shrew)\\\\b')"
 p44
-aS"(5626, u'(?i)(posters|poster)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p45
-aS"(4371, u'(?i)(lizas|liza)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3152, u'(?i)(layers|layer)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(7094, u'(?i)(curs|cur)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(3522, u'(?i)(tetras|tetra)')"
-p53
-aS"(5967, u'(?i)(males|male)')"
-p54
-aS"(3099, u'(?i)(lugs|lug)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(1891, u'(?i)(trees|tree)(-|\\\\s+)?(shrews|shrew)')"
-p57
-atp58
-Rp59
+atp46
+Rp47
 sb.

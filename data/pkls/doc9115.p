@@ -22,23 +22,23 @@ sS'topics'
 p12
 g3
 ((lp13
-tp14
-Rp15
+S"(37, u'\\\\baddict')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
+((lp18
 S'5ht2a'
-p18
-atp19
-Rp20
+p19
+atp20
+Rp21
 sS'regions'
-p21
+p22
 g3
-((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
+((lp23
+tp24
 Rp25
 sS'year'
 p26
@@ -54,32 +54,8 @@ sS'species'
 p32
 g3
 ((lp33
-S"(2568, u'(?i)(hens|hen)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p34
-aS"(7609, u'(?i)(erns|ern)')"
-p35
-aS"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(4163, u'(?i)(ermines|ermine)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(949, u'(?i)(cohoes|coho)')"
-p41
-aS"(5743, u'(?i)(bots|bot)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(1961, u'(?i)(pens|pen)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(1683, u'(?i)(terns|tern)')"
-p46
-atp47
-Rp48
+atp35
+Rp36
 sb.

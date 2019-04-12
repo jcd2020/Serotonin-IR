@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p23
 atp24
 Rp25
@@ -54,50 +54,20 @@ sS'species'
 p32
 g3
 ((lp33
-S"(4624, u'(?i)(apes|ape)')"
+S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
 p34
-aS"(2183, u'(?i)(gars|gar)')"
+aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p35
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p36
-aS"(4099, u'(?i)(hamsters|hamster)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p38
-aS"(3196, u'(?i)(human|humans)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p40
-aS"(6391, u'(?i)(asses|ass)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(3522, u'(?i)(tetras|tetra)')"
-p43
-aS"(2809, u'(?i)(toms|tom)')"
-p44
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(4201, u'(?i)(kines|kine)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(4597, u'(?i)(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(1057, u'(?i)(humans|human)')"
-p51
-aS"(4596, u'(?i)(rhesuses|rhesus)')"
-p52
-aS"(2323, u'(?i)(bees|bee)')"
-p53
-aS"(2568, u'(?i)(hens|hen)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-atp56
-Rp57
+atp41
+Rp42
 sb.

@@ -8,104 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
-aS"(130, u'\\\\britanserin')"
-p6
-aS"(34, u'\\\\byohimbine')"
-p7
-aS"(67, u'\\\\bhaloperidol')"
-p8
-aS"(54, u'\\\\britanserin')"
-p9
 aS"(22, u'\\\\bpropranolol')"
+p6
+aS"(124, u'\\\\bondansetron')"
+p7
+aS"(33, u'\\\\byohimbine')"
+p8
+aS"(119, u'\\\\britanserin')"
+p9
+aS"(58, u'\\\\bhaloperidol')"
 p10
-aS"(135, u'\\\\bondansetron')"
-p11
-atp12
-Rp13
+atp11
+Rp12
 sS'methods'
-p14
+p13
 g3
-((lp15
+((lp14
 S'Method.ANTAGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
-tp21
-Rp22
+((lp19
+tp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
-S'5ht2c'
-p25
-aS'5ht5'
-p26
+((lp23
+S'5ht1a'
+p24
 aS'5ht3'
-p27
-aS'5ht1a'
-p28
+p25
+aS'5ht2c'
+p26
 aS'5ht2a'
-p29
-atp30
-Rp31
+p27
+atp28
+Rp29
 sS'regions'
-p32
+p30
 g3
-((lp33
-tp34
-Rp35
+((lp31
+tp32
+Rp33
 sS'year'
-p36
+p34
 V2014
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(210, u'\\\\bsulpiride')"
 p38
-g3
-((lp39
-S"(89, u'\\\\byohimbine')"
+aS"(82, u'\\\\byohimbine')"
+p39
+aS"(43, u'\\\\bhaloperidol')"
 p40
-aS"(48, u'\\\\bhaloperidol')"
-p41
-aS"(214, u'\\\\bsulpiride')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(6753, u'(?i)(da|das)')"
-p47
-aS"(2568, u'(?i)(hens|hen)')"
-p48
-aS"(163, u'(?i)(mice|mouse)')"
-p49
-aS"(4163, u'(?i)(ermines|ermine)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(1414, u'(?i)(chars|char)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(4964, u'(?i)(serins|serin)')"
-p59
-atp60
-Rp61
+((lp44
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p45
+atp46
+Rp47
 sb.

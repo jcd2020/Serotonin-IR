@@ -46,13 +46,13 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(220, u'(?i)(striatums|striatum)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p28
-aS"(225, u'(?i)(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)')"
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p29
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
 p30
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p31
 atp32
 Rp33
@@ -70,40 +70,16 @@ sS'species'
 p40
 g3
 ((lp41
-S"(1070, u'(?i)(pets|pet)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p42
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p44
-aS"(6753, u'(?i)(da|das)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p45
-aS"(5551, u'(?i)(owls|owl)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p46
-aS"(5967, u'(?i)(males|male)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-aS"(1057, u'(?i)(humans|human)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(3196, u'(?i)(human|humans)')"
-p56
-aS"(391, u'(?i)(alli|allis)')"
-p57
-aS"(6325, u'(?i)(caudates|caudate)')"
-p58
-atp59
-Rp60
+atp47
+Rp48
 sb.

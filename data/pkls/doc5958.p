@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(99, u'\\\\bsb ?242084')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
-aS"(110, u'\\\\bsb ?242084')"
+aS"(31, u'\\\\bway ?100635')"
 p7
 atp8
 Rp9
@@ -58,7 +58,7 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(161, u'\\\\bmcpp')"
+S"(155, u'\\\\bmcpp')"
 p35
 atp36
 Rp37
@@ -66,42 +66,8 @@ sS'species'
 p38
 g3
 ((lp39
-S"(4624, u'(?i)(apes|ape)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(702, u'(?i)(genets|genet)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(6215, u'(?i)(racers|racer)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(1414, u'(?i)(chars|char)')"
-p54
-aS"(5949, u'(?i)(dogs|dog)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(4133, u'(?i)(pikes|pike)')"
-p57
-atp58
-Rp59
+atp41
+Rp42
 sb.

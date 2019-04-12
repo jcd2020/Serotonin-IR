@@ -32,60 +32,34 @@ g3
 ((lp18
 S'5ht1a'
 p19
-aS'5ht5'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(282, u'(?i)(superiors|superior)(-|\\\\s+)?(temporals|temporal)(-|\\\\s+)?(gyruses|gyrus)')"
+((lp23
+S"(260, u'(?i)\\\\b(inferiors|inferior)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+p24
+aS"(282, u'(?i)\\\\b(superiors|superior)(-|\\\\s+)?(temporals|temporal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p25
-aS"(260, u'(?i)(inferiors|inferior)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(gyruses|gyrus)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2008
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(1070, u'(?i)(pets|pet)')"
-p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(2809, u'(?i)(toms|tom)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(5949, u'(?i)(dogs|dog)')"
-p49
-atp50
-Rp51
+((lp35
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+p36
+atp37
+Rp38
 sb.

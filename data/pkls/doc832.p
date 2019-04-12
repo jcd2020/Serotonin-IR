@@ -34,64 +34,44 @@ g3
 ((lp19
 S'5ht1b'
 p20
-aS'5ht5'
-p21
 aS'5ht1d'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-tp27
-Rp28
+((lp25
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2001
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(181, u'\\\\bdom')"
-p33
-atp34
-Rp35
+((lp31
+S"(176, u'\\\\bdom')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(6249, u'(?i)(ants|ant)')"
+((lp36
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p37
+aS"(3952, u'(?i)\\\\b(anoles|anole)\\\\b')"
 p38
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
 p39
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(7539, u'(?i)(mammals|mammal)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p41
-aS"(5333, u'(?i)(reptiles|reptile)')"
+aS"(5333, u'(?i)\\\\b(reptiles|reptile)\\\\b')"
 p42
-aS"(5967, u'(?i)(males|male)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(3726, u'(?i)(mates|mate)')"
-p45
-aS"(853, u'(?i)(minas|mina)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(4247, u'(?i)(tatus|tatu)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(3952, u'(?i)(anoles|anole)')"
-p52
-atp53
-Rp54
+atp43
+Rp44
 sb.

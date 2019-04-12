@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(388, u'(?i)(ventriculars|ventricular)(-|\\\\s+)?(systems|system)')"
+S"(388, u'(?i)\\\\b(ventriculars|ventricular)(-|\\\\s+)?(systems|system)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,32 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(5967, u'(?i)(males|male)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(7609, u'(?i)(erns|ern)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(81, u'(?i)(asps|asp)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(4604, u'(?i)(mites|mite)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(1683, u'(?i)(terns|tern)')"
-p49
-atp50
-Rp51
+atp39
+Rp40
 sb.

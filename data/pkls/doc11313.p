@@ -8,104 +8,86 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(99, u'\\\\bsb ?242084')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(110, u'\\\\bsb ?242084')"
+aS"(31, u'\\\\bway ?100635')"
 p8
-aS"(61, u'\\\\bmdl ?100907')"
+aS"(52, u'\\\\bmdl ?100907')"
 p9
-aS"(102, u'\\\\bfluoxetine')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.ANTAGONIST'
-p15
+p14
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
+((lp19
 S"(9, u'\\\\bdepress')"
-p21
+p20
 aS"(10, u'\\\\banxiety')"
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'receptors'
-p25
+p24
 g3
-((lp26
+((lp25
 S'5ht1a'
-p27
+p26
 aS'5ht2c'
-p28
+p27
 aS'5ht2'
-p29
+p28
 aS'5ht2a'
-p30
-atp31
-Rp32
+p29
+atp30
+Rp31
 sS'regions'
-p33
+p32
 g3
-((lp34
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp33
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p34
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p35
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'year'
-p39
+p38
 V2014
-p40
+p39
 sS'agonists'
-p41
+p40
 g3
-((lp42
-S"(33, u'\\\\bdoi')"
-p43
-atp44
-Rp45
+((lp41
+S"(175, u'\\\\bdoi')"
+p42
+atp43
+Rp44
 sS'species'
-p46
+p45
 g3
-((lp47
-S"(5799, u'(?i)(rodents|rodent)')"
+((lp46
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p47
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p48
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p49
-aS"(4979, u'(?i)(cats|cat)')"
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p50
-aS"(479, u'(?i)(lings|ling)')"
-p51
-aS"(4091, u'(?i)(adults|adult)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(4964, u'(?i)(serins|serin)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(3722, u'(?i)(pups|pup)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-atp60
-Rp61
+atp51
+Rp52
 sb.

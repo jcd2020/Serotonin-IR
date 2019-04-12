@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(277, u'(?i)(temporals|temporal)(-|\\\\s+)?(lobes|lobe)')"
+S"(277, u'(?i)\\\\b(temporals|temporal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,26 +60,8 @@ sS'species'
 p35
 g3
 ((lp36
-S"(1070, u'(?i)(pets|pet)')"
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p37
-aS"(2323, u'(?i)(bees|bee)')"
-p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6215, u'(?i)(racers|racer)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(6391, u'(?i)(asses|ass)')"
-p44
-aS"(2809, u'(?i)(toms|tom)')"
-p45
-aS"(5537, u'(?i)(hippos|hippo)')"
-p46
-atp47
-Rp48
+atp38
+Rp39
 sb.

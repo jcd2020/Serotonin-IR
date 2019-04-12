@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(114, u'\\\\bimipramine')"
+S"(104, u'\\\\bimipramine')"
 p5
 atp6
 Rp7
@@ -50,9 +50,9 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(74, u'\\\\bru ?24969')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p31
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(67, u'\\\\bru ?24969')"
 p32
 atp33
 Rp34
@@ -60,20 +60,8 @@ sS'species'
 p35
 g3
 ((lp36
-S"(6249, u'(?i)(ants|ant)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(163, u'(?i)(mice|mouse)')"
-p38
-aS"(4163, u'(?i)(ermines|ermine)')"
-p39
-aS"(1349, u'(?i)(rams|ram)')"
-p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(1961, u'(?i)(pens|pen)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-atp44
-Rp45
+atp38
+Rp39
 sb.

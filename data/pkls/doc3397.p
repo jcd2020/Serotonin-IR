@@ -52,38 +52,16 @@ sS'species'
 p31
 g3
 ((lp32
-S"(1070, u'(?i)(pets|pet)')"
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p33
-aS"(6753, u'(?i)(da|das)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p34
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4635, u'(?i)\\\\b(baboons|baboon)\\\\b')"
 p35
-aS"(4635, u'(?i)(baboons|baboon)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p36
-aS"(5743, u'(?i)(bots|bot)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p37
-aS"(1686, u'(?i)(gibs|gib)')"
-p38
-aS"(280, u'(?i)(gators|gator)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6215, u'(?i)(racers|racer)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(1057, u'(?i)(humans|human)')"
-p43
-aS"(5229, u'(?i)(moles|mole)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(3196, u'(?i)(human|humans)')"
-p47
-aS"(2809, u'(?i)(toms|tom)')"
-p48
-atp49
-Rp50
+atp38
+Rp39
 sb.

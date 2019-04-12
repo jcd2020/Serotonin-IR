@@ -8,102 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(130, u'\\\\britanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(12, u'\\\\banxiogen')"
-p17
+p16
 aS"(3, u'\\\\bsleep')"
-p18
+p17
 aS"(11, u'\\\\banxiolyt')"
-p19
+p18
 aS"(10, u'\\\\banxiety')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
-S'5ht5'
-p25
-aS'5ht1a'
-p26
+((lp23
+S'5ht1a'
+p24
 aS'5ht2'
-p27
-atp28
-Rp29
+p25
+atp26
+Rp27
 sS'regions'
+p28
+g3
+((lp29
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p30
-g3
-((lp31
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'year'
-p35
+p33
 V2003
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(20, u'\\\\bbuspirone')"
 p37
-g3
-((lp38
-S"(24, u'\\\\bbuspirone')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(949, u'(?i)(cohoes|coho)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(163, u'(?i)(mice|mouse)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(1054, u'(?i)(homoes|homo)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(2568, u'(?i)(hens|hen)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(4979, u'(?i)(cats|cat)')"
-p58
-atp59
-Rp60
+((lp41
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p42
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p43
+atp44
+Rp45
 sb.

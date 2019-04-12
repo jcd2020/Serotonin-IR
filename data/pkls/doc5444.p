@@ -10,13 +10,13 @@ p3
 ((lp4
 S"(5, u'\\\\bcyanopindolol')"
 p5
-aS"(108, u'\\\\brs ?102221')"
+aS"(198, u'\\\\bsb ?269970')"
 p6
-aS"(204, u'\\\\bsb ?269970')"
+aS"(38, u'\\\\bsb ?224289')"
 p7
-aS"(153, u'\\\\bgr ?113808')"
+aS"(96, u'\\\\brs ?102221')"
 p8
-aS"(39, u'\\\\bsb ?224289')"
+aS"(144, u'\\\\bgr ?113808')"
 p9
 atp10
 Rp11
@@ -58,7 +58,7 @@ sS'regions'
 p32
 g3
 ((lp33
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p34
 atp35
 Rp36
@@ -70,9 +70,9 @@ sS'agonists'
 p39
 g3
 ((lp40
-S"(107, u'\\\\bcp ?93129')"
+S"(100, u'\\\\bcp ?93129')"
 p41
-aS"(33, u'\\\\bdoi')"
+aS"(175, u'\\\\bdoi')"
 p42
 atp43
 Rp44
@@ -80,28 +80,8 @@ sS'species'
 p45
 g3
 ((lp46
-S"(2568, u'(?i)(hens|hen)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(1725, u'(?i)(clams|clam)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(3592, u'(?i)(ravens|raven)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(7094, u'(?i)(curs|cur)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-atp58
-Rp59
+atp48
+Rp49
 sb.

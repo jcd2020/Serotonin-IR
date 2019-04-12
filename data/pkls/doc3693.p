@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(121, u'\\\\bloxapine')"
+S"(189, u'\\\\bloxapine')"
 p5
 atp6
 Rp7
@@ -44,72 +44,38 @@ aS'5ht2a'
 p24
 aS'5ht6a'
 p25
-aS'5ht5'
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'year'
-p33
+p32
 V2018
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-tp37
-Rp38
+((lp35
+tp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(1070, u'(?i)(pets|pet)')"
+((lp39
+S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
+p40
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p42
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p43
-aS"(867, u'(?i)(tits|tit)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p44
-aS"(2401, u'(?i)(primates|primate)')"
-p45
-aS"(5551, u'(?i)(owls|owl)')"
-p46
-aS"(5967, u'(?i)(males|male)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(3726, u'(?i)(mates|mate)')"
-p50
-aS"(3404, u'(?i)(titis|titi)')"
-p51
-aS"(853, u'(?i)(minas|mina)')"
-p52
-aS"(7094, u'(?i)(curs|cur)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(1057, u'(?i)(humans|human)')"
-p55
-aS"(5229, u'(?i)(moles|mole)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(3196, u'(?i)(human|humans)')"
-p59
-aS"(4979, u'(?i)(cats|cat)')"
-p60
-aS"(4964, u'(?i)(serins|serin)')"
-p61
-atp62
-Rp63
+atp45
+Rp46
 sb.

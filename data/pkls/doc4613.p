@@ -30,58 +30,34 @@ g3
 ((lp17
 S'5ht1b'
 p18
-aS'5ht5'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p24
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p25
-atp26
-Rp27
+((lp22
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p23
+atp24
+Rp25
 sS'year'
-p28
+p26
 V2006
-p29
+p27
 sS'agonists'
-p30
+p28
 g3
-((lp31
-tp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'species'
-p34
+p32
 g3
-((lp35
-S"(2568, u'(?i)(hens|hen)')"
-p36
-aS"(5218, u'(?i)(mesocricetuses|mesocricetus)(-|\\\\s+)?(auratuses|auratus)')"
-p37
-aS"(479, u'(?i)(lings|ling)')"
-p38
-aS"(4663, u'(?i)(nags|nag)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(4371, u'(?i)(lizas|liza)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-atp48
-Rp49
+((lp33
+S"(5218, u'(?i)\\\\b(mesocricetuses|mesocricetus)(-|\\\\s+)?(auratuses|auratus)\\\\b')"
+p34
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p35
+atp36
+Rp37
 sb.

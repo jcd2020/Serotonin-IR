@@ -36,52 +36,26 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p23
-aS"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp23
+Rp24
 sS'year'
-p27
+p25
 V2008
-p28
+p26
 sS'agonists'
-p29
+p27
 g3
-((lp30
-tp31
-Rp32
+((lp28
+tp29
+Rp30
 sS'species'
-p33
+p31
 g3
-((lp34
-S"(5958, u'(?i)(rats|rat)')"
-p35
-aS"(6125, u'(?i)(females|female)')"
-p36
-aS"(702, u'(?i)(genets|genet)')"
-p37
-aS"(4979, u'(?i)(cats|cat)')"
-p38
-aS"(5967, u'(?i)(males|male)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(1414, u'(?i)(chars|char)')"
-p44
-aS"(6521, u'(?i)(macaques|macaque)')"
-p45
-aS"(5674, u'(?i)(ewes|ewe)')"
-p46
-aS"(7552, u'(?i)(bats|bat)')"
-p47
-atp48
-Rp49
+((lp32
+S"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
+p33
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+p34
+atp35
+Rp36
 sb.

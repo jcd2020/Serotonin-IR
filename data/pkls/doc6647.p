@@ -28,62 +28,36 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht1a'
 p18
-aS'5ht1a'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+((lp22
+tp23
+Rp24
 sS'year'
-p27
+p25
 V2008
-p28
+p26
 sS'agonists'
+p27
+g3
+((lp28
+S"(149, u'\\\\bmem')"
 p29
-g3
-((lp30
-S"(155, u'\\\\bmem')"
-p31
-atp32
-Rp33
+atp30
+Rp31
 sS'species'
-p34
+p32
 g3
-((lp35
-S"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(6682, u'(?i)(tera|teras)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(6249, u'(?i)(ants|ant)')"
-p39
-aS"(1054, u'(?i)(homoes|homo)')"
-p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(2395, u'(?i)(mutants|mutant)')"
-p42
-aS"(7170, u'(?i)(toys|toy)')"
-p43
-aS"(5917, u'(?i)(roaches|roach)')"
-p44
-aS"(1961, u'(?i)(pens|pen)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(2809, u'(?i)(toms|tom)')"
-p47
-aS"(4582, u'(?i)(kobs|kob)')"
-p48
-atp49
-Rp50
+((lp33
+S"(1054, u'(?i)\\\\b(homoes|homo)\\\\b')"
+p34
+aS"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p35
+atp36
+Rp37
 sb.

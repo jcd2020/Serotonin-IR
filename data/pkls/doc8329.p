@@ -36,60 +36,28 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2016
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-S"(155, u'\\\\bmem')"
-p30
-atp31
-Rp32
+((lp28
+S"(149, u'\\\\bmem')"
+p29
+atp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(2323, u'(?i)(bees|bee)')"
+((lp33
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p34
+aS"(4749, u'(?i)\\\\b(blues|blue)\\\\b')"
 p35
-aS"(6753, u'(?i)(da|das)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(5917, u'(?i)(roaches|roach)')"
-p39
-aS"(4201, u'(?i)(kines|kine)')"
-p40
-aS"(7539, u'(?i)(mammals|mammal)')"
-p41
-aS"(479, u'(?i)(lings|ling)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(1349, u'(?i)(rams|ram)')"
-p44
-aS"(4604, u'(?i)(mites|mite)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p47
-aS"(4749, u'(?i)(blues|blue)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(821, u'(?i)(lice|louse)')"
-p51
-atp52
-Rp53
+atp36
+Rp37
 sb.

@@ -32,90 +32,54 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht1a'
 p20
-aS'5ht1a'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+((lp24
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p25
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p26
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p27
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(224, u'(?i)(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V2016
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(42, u'\\\\bf ?13714')"
-p37
-atp38
-Rp39
+((lp35
+S"(37, u'\\\\bf ?13714')"
+p36
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(949, u'(?i)(cohoes|coho)')"
+((lp40
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+p41
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p42
-aS"(2401, u'(?i)(primates|primate)')"
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p43
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
 p44
-aS"(3196, u'(?i)(human|humans)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p45
-aS"(5783, u'(?i)(hinds|hind)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p46
-aS"(1070, u'(?i)(pets|pet)')"
-p47
-aS"(479, u'(?i)(lings|ling)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(2809, u'(?i)(toms|tom)')"
-p51
-aS"(5537, u'(?i)(hippos|hippo)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(7609, u'(?i)(erns|ern)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(6215, u'(?i)(racers|racer)')"
-p56
-aS"(6753, u'(?i)(da|das)')"
-p57
-aS"(1057, u'(?i)(humans|human)')"
-p58
-aS"(1414, u'(?i)(chars|char)')"
-p59
-aS"(6325, u'(?i)(caudates|caudate)')"
-p60
-aS"(2323, u'(?i)(bees|bee)')"
-p61
-aS"(3726, u'(?i)(mates|mate)')"
-p62
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p63
-aS"(1683, u'(?i)(terns|tern)')"
-p64
-atp65
-Rp66
+atp47
+Rp48
 sb.

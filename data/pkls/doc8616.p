@@ -52,34 +52,8 @@ sS'species'
 p31
 g3
 ((lp32
-S"(4624, u'(?i)(apes|ape)')"
+S"(3527, u'(?i)\\\\b(permits|permit)\\\\b')"
 p33
-aS"(6249, u'(?i)(ants|ant)')"
-p34
-aS"(931, u'(?i)(divers|diver)')"
-p35
-aS"(3527, u'(?i)(permits|permit)')"
-p36
-aS"(479, u'(?i)(lings|ling)')"
-p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(3726, u'(?i)(mates|mate)')"
-p39
-aS"(4979, u'(?i)(cats|cat)')"
-p40
-aS"(3550, u'(?i)(anis|ani)')"
-p41
-aS"(7094, u'(?i)(curs|cur)')"
-p42
-aS"(5551, u'(?i)(owls|owl)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(2183, u'(?i)(gars|gar)')"
-p46
-atp47
-Rp48
+atp34
+Rp35
 sb.

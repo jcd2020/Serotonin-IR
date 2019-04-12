@@ -36,96 +36,52 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(106, u'(?i)(interpedunculars|interpeduncular)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(106, u'(?i)\\\\b(interpedunculars|interpeduncular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p23
-aS"(165, u'(?i)(preoptics|preoptic)(-|\\\\s+)?(areas|area)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p24
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p25
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
 p26
-aS"(187, u'(?i)(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
-aS"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p28
-aS"(175, u'(?i)(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p29
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(51, u'(?i)\\\\b(laterodorsals|laterodorsal)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p32
-aS"(51, u'(?i)(laterodorsals|laterodorsal)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(nuclei|nucleus)')"
-p33
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'year'
-p37
+p35
 V1997
-p38
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p39
-g3
-((lp40
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(4404, u'(?i)(duns|dun)')"
+((lp43
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p44
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p45
+aS"(4952, u'(?i)\\\\b(felines|feline)\\\\b')"
 p46
-aS"(3592, u'(?i)(ravens|raven)')"
+aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
 p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(5176, u'(?i)(tegs|teg)')"
-p52
-aS"(4952, u'(?i)(felines|feline)')"
-p53
-aS"(479, u'(?i)(lings|ling)')"
-p54
-aS"(1349, u'(?i)(rams|ram)')"
-p55
-aS"(3152, u'(?i)(layers|layer)')"
-p56
-aS"(2809, u'(?i)(toms|tom)')"
-p57
-aS"(5537, u'(?i)(hippos|hippo)')"
-p58
-aS"(2670, u'(?i)(arabs|arab)')"
-p59
-aS"(6753, u'(?i)(da|das)')"
-p60
-aS"(6249, u'(?i)(ants|ant)')"
-p61
-aS"(7609, u'(?i)(erns|ern)')"
-p62
-aS"(867, u'(?i)(tits|tit)')"
-p63
-aS"(1055, u'(?i)(men|man)')"
-p64
-aS"(4979, u'(?i)(cats|cat)')"
-p65
-aS"(1414, u'(?i)(chars|char)')"
-p66
-aS"(6325, u'(?i)(caudates|caudate)')"
-p67
-aS"(853, u'(?i)(minas|mina)')"
-p68
-aS"(1683, u'(?i)(terns|tern)')"
-p69
-atp70
-Rp71
+atp48
+Rp49
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(84, u'\\\\bsarpogrelate')"
+S"(75, u'\\\\bsarpogrelate')"
 p5
 atp6
 Rp7
@@ -48,48 +48,28 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+tp29
+Rp30
 sS'year'
-p32
+p31
 V2006
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(14, u'\\\\bamphetamine')"
-p36
-atp37
-Rp38
+((lp34
+S"(11, u'\\\\bamphetamine')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(1070, u'(?i)(pets|pet)')"
+((lp39
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+aS"(4520, u'(?i)\\\\b(agoutis|agouti)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(867, u'(?i)(tits|tit)')"
-p43
-aS"(4201, u'(?i)(kines|kine)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(2453, u'(?i)(topis|topi)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(4520, u'(?i)(agoutis|agouti)')"
-p51
-atp52
-Rp53
+atp42
+Rp43
 sb.

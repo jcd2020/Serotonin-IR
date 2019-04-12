@@ -42,9 +42,9 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p26
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p27
 atp28
 Rp29
@@ -56,15 +56,15 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(23, u'\\\\bbufotenin')"
+S"(179, u'\\\\b5 ?meo ?dmt')"
 p34
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(220, u'\\\\b5 ?methoxytryptamine')"
 p35
-aS"(8, u'\\\\b5 ?meo ?dmt')"
+aS"(19, u'\\\\bbufotenin')"
 p36
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(222, u'\\\\b5 ?meot')"
 p37
-aS"(225, u'\\\\b5 ?meot')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p38
 atp39
 Rp40
@@ -72,26 +72,8 @@ sS'species'
 p41
 g3
 ((lp42
-S"(5958, u'(?i)(rats|rat)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(867, u'(?i)(tits|tit)')"
-p44
-aS"(401, u'(?i)(bufos|bufo)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3522, u'(?i)(tetras|tetra)')"
-p49
-aS"(5229, u'(?i)(moles|mole)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-atp53
-Rp54
+atp44
+Rp45
 sb.

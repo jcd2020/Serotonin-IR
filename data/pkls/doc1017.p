@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
+S"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p24
 atp25
 Rp26
@@ -56,40 +56,14 @@ sS'species'
 p33
 g3
 ((lp34
-S"(1070, u'(?i)(pets|pet)')"
+S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p35
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(4635, u'(?i)\\\\b(baboons|baboon)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p38
-aS"(4635, u'(?i)(baboons|baboon)')"
-p39
-aS"(2401, u'(?i)(primates|primate)')"
-p40
-aS"(4201, u'(?i)(kines|kine)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(5917, u'(?i)(roaches|roach)')"
-p46
-aS"(4371, u'(?i)(lizas|liza)')"
-p47
-aS"(1414, u'(?i)(chars|char)')"
-p48
-aS"(2809, u'(?i)(toms|tom)')"
-p49
-aS"(1795, u'(?i)(mounts|mount)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-atp52
-Rp53
+atp39
+Rp40
 sb.

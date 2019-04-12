@@ -34,76 +34,44 @@ g3
 ((lp19
 S'5ht1a'
 p20
-aS'5ht5'
-p21
 aS'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp25
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p26
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V1997
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp34
+S"(149, u'\\\\bmem')"
+p35
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-aS"(155, u'\\\\bmem')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(1070, u'(?i)(pets|pet)')"
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p42
-aS"(5537, u'(?i)(hippos|hippo)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(867, u'(?i)(tits|tit)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(4163, u'(?i)(ermines|ermine)')"
-p48
-aS"(2183, u'(?i)(gars|gar)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(3404, u'(?i)(titis|titi)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(6682, u'(?i)(tera|teras)')"
-p54
-aS"(4371, u'(?i)(lizas|liza)')"
-p55
-aS"(1414, u'(?i)(chars|char)')"
-p56
-aS"(4074, u'(?i)(bulls|bull)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+atp43
+Rp44
 sb.

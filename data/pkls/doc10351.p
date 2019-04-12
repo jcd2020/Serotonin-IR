@@ -8,110 +8,84 @@ c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\britanserin')"
+S"(34, u'\\\\bmetergoline')"
 p5
-aS"(52, u'\\\\bmetergoline')"
-p6
 aS"(21, u'\\\\bpindolol')"
-p7
-aS"(105, u'\\\\bmethysergide')"
-p8
-aS"(54, u'\\\\britanserin')"
-p9
+p6
 aS"(10, u'\\\\biodocyanopindolol')"
-p10
+p7
 aS"(22, u'\\\\bpropranolol')"
-p11
-aS"(209, u'\\\\btfmpp')"
-p12
+p8
+aS"(203, u'\\\\btfmpp')"
+p9
 aS"(14, u'\\\\bmethiothepin')"
-p13
-aS"(35, u'\\\\bmetergoline')"
-p14
-atp15
-Rp16
+p10
+aS"(194, u'\\\\bmethysergide')"
+p11
+aS"(119, u'\\\\britanserin')"
+p12
+atp13
+Rp14
 sS'methods'
-p17
+p15
 g3
-((lp18
+((lp16
 S'Method.ANTAGONIST'
-p19
+p17
 aS'Method.AGONIST'
-p20
-atp21
-Rp22
+p18
+atp19
+Rp20
 sS'topics'
-p23
+p21
 g3
-((lp24
-tp25
-Rp26
+((lp22
+tp23
+Rp24
 sS'receptors'
-p27
+p25
 g3
-((lp28
+((lp26
 S'5ht1b'
-p29
-atp30
-Rp31
+p27
+atp28
+Rp29
 sS'regions'
+p30
+g3
+((lp31
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p32
-g3
-((lp33
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
-p34
-aS"(220, u'(?i)(striatums|striatum)')"
-p35
-aS"(34, u'(?i)(pon|pons)')"
-p36
-atp37
-Rp38
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p33
+atp34
+Rp35
 sS'year'
-p39
+p36
 V1994
-p40
+p37
 sS'agonists'
+p38
+g3
+((lp39
+S"(192, u'\\\\bquipazine')"
+p40
+aS"(178, u'\\\\btfmpp')"
 p41
-g3
-((lp42
-S"(161, u'\\\\bmcpp')"
+aS"(53, u'\\\\bmethysergide')"
+p42
+aS"(155, u'\\\\bmcpp')"
 p43
-aS"(74, u'\\\\bru ?24969')"
+aS"(67, u'\\\\bru ?24969')"
 p44
-aS"(196, u'\\\\bquipazine')"
-p45
-aS"(183, u'\\\\btfmpp')"
-p46
-aS"(60, u'\\\\bmethysergide')"
-p47
-atp48
-Rp49
+atp45
+Rp46
 sS'species'
-p50
+p47
 g3
-((lp51
-S"(5537, u'(?i)(hippos|hippo)')"
-p52
-aS"(6753, u'(?i)(da|das)')"
-p53
-aS"(2568, u'(?i)(hens|hen)')"
-p54
-aS"(4964, u'(?i)(serins|serin)')"
-p55
-aS"(468, u'(?i)(oxen|ox)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(853, u'(?i)(minas|mina)')"
-p59
-aS"(5958, u'(?i)(rats|rat)')"
-p60
-aS"(3812, u'(?i)(studs|stud)')"
-p61
-aS"(6356, u'(?i)(ais|ai)')"
-p62
-atp63
-Rp64
+((lp48
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

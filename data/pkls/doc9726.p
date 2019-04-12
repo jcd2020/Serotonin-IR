@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(36, u'\\\\baripiprazole')"
+S"(35, u'\\\\baripiprazole')"
 p5
 atp6
 Rp7
@@ -38,84 +38,48 @@ g3
 ((lp21
 S'5ht1b'
 p22
-aS'5ht5'
-p23
 aS'5ht1a'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
+((lp28
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p30
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p31
-aS"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p32
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'year'
-p36
+p35
 V2014
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(16, u'\\\\baripiprazole')"
+((lp38
+S"(223, u'\\\\baripiprazole')"
+p39
+aS"(18, u'\\\\bbrexpiprazole')"
 p40
-aS"(22, u'\\\\bbrexpiprazole')"
+aS"(175, u'\\\\bdoi')"
 p41
-aS"(33, u'\\\\bdoi')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(4624, u'(?i)(apes|ape)')"
-p47
-aS"(5537, u'(?i)(hippos|hippo)')"
-p48
-aS"(5176, u'(?i)(tegs|teg)')"
-p49
-aS"(2568, u'(?i)(hens|hen)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(6753, u'(?i)(da|das)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(1349, u'(?i)(rams|ram)')"
-p57
-aS"(853, u'(?i)(minas|mina)')"
-p58
-aS"(5958, u'(?i)(rats|rat)')"
-p59
-aS"(7094, u'(?i)(curs|cur)')"
-p60
-aS"(5229, u'(?i)(moles|mole)')"
-p61
-aS"(1414, u'(?i)(chars|char)')"
-p62
-aS"(6391, u'(?i)(asses|ass)')"
-p63
-aS"(3812, u'(?i)(studs|stud)')"
-p64
-atp65
-Rp66
+((lp45
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p46
+atp47
+Rp48
 sb.

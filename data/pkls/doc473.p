@@ -8,122 +8,88 @@ c__builtin__
 set
 p3
 ((lp4
-S"(52, u'\\\\bmetergoline')"
+S"(130, u'\\\\bzacopride')"
 p5
-aS"(21, u'\\\\bpindolol')"
+aS"(123, u'\\\\bgranisetron')"
 p6
-aS"(141, u'\\\\bzacopride')"
+aS"(34, u'\\\\bmetergoline')"
 p7
-aS"(135, u'\\\\bondansetron')"
+aS"(21, u'\\\\bpindolol')"
 p8
-aS"(134, u'\\\\bgranisetron')"
+aS"(124, u'\\\\bondansetron')"
 p9
-aS"(35, u'\\\\bmetergoline')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.STIMULATION'
-p15
+p14
 aS'Method.ANTAGONIST'
-p16
+p15
 aS'Method.AGONIST'
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'topics'
-p20
+p19
 g3
-((lp21
-tp22
-Rp23
+((lp20
+tp21
+Rp22
 sS'receptors'
-p24
+p23
 g3
-((lp25
+((lp24
 S'5ht1c'
-p26
+p25
 aS'5ht1b'
-p27
+p26
 aS'5ht1a'
-p28
+p27
 aS'5ht3a'
-p29
+p28
 aS'5ht2'
-p30
+p29
 aS'5ht3b'
-p31
+p30
 aS'5ht1d'
-p32
+p31
 aS'5ht3'
-p33
-atp34
-Rp35
+p32
+atp33
+Rp34
 sS'regions'
-p36
+p35
 g3
-((lp37
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp36
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p37
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p38
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p39
-aS"(34, u'(?i)(pon|pons)')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sS'year'
-p43
+p41
 V1991
-p44
+p42
 sS'agonists'
+p43
+g3
+((lp44
+S"(208, u'\\\\bzacopride')"
 p45
-g3
-((lp46
-S"(195, u'\\\\bphenylbiguanide')"
-p47
-aS"(212, u'\\\\bzacopride')"
-p48
-atp49
-Rp50
+aS"(191, u'\\\\bphenylbiguanide')"
+p46
+atp47
+Rp48
 sS'species'
-p51
+p49
 g3
-((lp52
-S"(6753, u'(?i)(da|das)')"
-p53
-aS"(2568, u'(?i)(hens|hen)')"
-p54
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p55
-aS"(5958, u'(?i)(rats|rat)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(3592, u'(?i)(ravens|raven)')"
-p59
-aS"(3726, u'(?i)(mates|mate)')"
-p60
-aS"(3812, u'(?i)(studs|stud)')"
-p61
-aS"(3550, u'(?i)(anis|ani)')"
-p62
-aS"(7094, u'(?i)(curs|cur)')"
-p63
-aS"(1961, u'(?i)(pens|pen)')"
-p64
-aS"(1414, u'(?i)(chars|char)')"
-p65
-aS"(931, u'(?i)(divers|diver)')"
-p66
-aS"(6878, u'(?i)(guans|guan)')"
-p67
-aS"(6356, u'(?i)(ais|ai)')"
-p68
-atp69
-Rp70
+((lp50
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
 sb.

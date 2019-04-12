@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(45, u'\\\\bgr ?127935')"
+aS"(14, u'\\\\bmethiothepin')"
 p6
 atp7
 Rp8
@@ -46,56 +46,34 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V1996
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(103, u'\\\\bsumatriptan')"
+((lp34
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p35
+aS"(96, u'\\\\bsumatriptan')"
 p36
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(6753, u'(?i)(da|das)')"
+((lp40
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p41
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p42
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(5743, u'(?i)(bots|bot)')"
-p45
-aS"(3051, u'(?i)(pigs|pig)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(3062, u'(?i)(guineas|guinea)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(853, u'(?i)(minas|mina)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p53
-aS"(821, u'(?i)(lice|louse)')"
-p54
-atp55
-Rp56
+atp44
+Rp45
 sb.

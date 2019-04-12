@@ -46,7 +46,7 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(389, u'(?i)(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)')"
+S"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
 p28
 atp29
 Rp30
@@ -64,50 +64,10 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5454, u'(?i)(brills|brill)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p39
-aS"(937, u'(?i)(kids|kid)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(5229, u'(?i)(moles|mole)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(4091, u'(?i)(adults|adult)')"
-p46
-aS"(2809, u'(?i)(toms|tom)')"
-p47
-aS"(5537, u'(?i)(hippos|hippo)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(7094, u'(?i)(curs|cur)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(1414, u'(?i)(chars|char)')"
-p54
-aS"(5799, u'(?i)(rodents|rodent)')"
-p55
-aS"(2568, u'(?i)(hens|hen)')"
-p56
-aS"(6753, u'(?i)(da|das)')"
-p57
-aS"(2665, u'(?i)(rays|ray)')"
-p58
-aS"(7552, u'(?i)(bats|bat)')"
-p59
-aS"(5917, u'(?i)(roaches|roach)')"
-p60
-atp61
-Rp62
+atp41
+Rp42
 sb.

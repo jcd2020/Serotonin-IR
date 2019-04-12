@@ -8,104 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(52, u'\\\\bmetergoline')"
-p6
-aS"(128, u'\\\\bketanserin')"
-p7
 aS"(14, u'\\\\bmethiothepin')"
+p6
+aS"(117, u'\\\\bketanserin')"
+p7
+aS"(34, u'\\\\bmetergoline')"
 p8
-aS"(35, u'\\\\bmetergoline')"
-p9
-aS"(45, u'\\\\bgr ?127935')"
-p10
-atp11
-Rp12
+atp9
+Rp10
 sS'methods'
-p13
+p11
 g3
-((lp14
+((lp12
 S'Method.ANTAGONIST'
-p15
+p13
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p14
+atp15
+Rp16
 sS'topics'
-p19
+p17
 g3
-((lp20
-tp21
-Rp22
+((lp18
+tp19
+Rp20
 sS'receptors'
-p23
+p21
 g3
-((lp24
+((lp22
 S'5ht1b'
-p25
-aS'5ht5'
-p26
-aS'5ht2'
-p27
-aS'5ht1'
-p28
-aS'5ht1d'
-p29
+p23
 aS'5ht1a'
-p30
+p24
 aS'5ht2c'
-p31
-atp32
-Rp33
+p25
+aS'5ht1'
+p26
+aS'5ht1d'
+p27
+aS'5ht2'
+p28
+atp29
+Rp30
 sS'regions'
-p34
+p31
 g3
-((lp35
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p36
-atp37
-Rp38
+((lp32
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p33
+atp34
+Rp35
 sS'year'
-p39
+p36
 V1998
-p40
+p37
 sS'agonists'
-p41
+p38
 g3
-((lp42
-S"(103, u'\\\\bsumatriptan')"
-p43
-atp44
-Rp45
+((lp39
+S"(96, u'\\\\bsumatriptan')"
+p40
+atp41
+Rp42
 sS'species'
-p46
+p43
 g3
-((lp47
-S"(2323, u'(?i)(bees|bee)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(4964, u'(?i)(serins|serin)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(3726, u'(?i)(mates|mate)')"
-p53
-aS"(853, u'(?i)(minas|mina)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(1057, u'(?i)(humans|human)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(3196, u'(?i)(human|humans)')"
-p59
-atp60
-Rp61
+((lp44
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p45
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p46
+atp47
+Rp48
 sb.

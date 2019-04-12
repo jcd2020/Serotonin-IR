@@ -52,18 +52,6 @@ sS'species'
 p31
 g3
 ((lp32
-S"(6249, u'(?i)(ants|ant)')"
-p33
-aS"(5743, u'(?i)(bots|bot)')"
-p34
-aS"(4979, u'(?i)(cats|cat)')"
-p35
-aS"(5917, u'(?i)(roaches|roach)')"
-p36
-aS"(3812, u'(?i)(studs|stud)')"
-p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-atp39
-Rp40
+tp33
+Rp34
 sb.

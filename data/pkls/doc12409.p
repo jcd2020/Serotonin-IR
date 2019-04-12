@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(143, u'\\\\bmosapride')"
+S"(150, u'\\\\bsb ?204070')"
 p5
-aS"(155, u'\\\\bgr ?125487')"
+aS"(132, u'\\\\bmosapride')"
 p6
-aS"(159, u'\\\\bsb ?204070')"
+aS"(146, u'\\\\bgr ?125487')"
 p7
 atp8
 Rp9
@@ -48,7 +48,7 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p29
 atp30
 Rp31
@@ -60,9 +60,9 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(205, u'\\\\bmosapride')"
+S"(201, u'\\\\bmosapride')"
 p36
-aS"(225, u'\\\\b5 ?meot')"
+aS"(222, u'\\\\b5 ?meot')"
 p37
 atp38
 Rp39
@@ -70,20 +70,8 @@ sS'species'
 p40
 g3
 ((lp41
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-atp49
-Rp50
+atp43
+Rp44
 sb.

@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p32
 atp33
 Rp34
@@ -60,32 +60,12 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2568, u'(?i)(hens|hen)')"
+S"(1953, u'(?i)\\\\b(cynopteruses|cynopterus)(-|\\\\s+)?(sphinxes|sphinx)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(7552, u'(?i)\\\\b(bats|bat)\\\\b')"
 p38
-aS"(7552, u'(?i)(bats|bat)')"
+aS"(5738, u'(?i)\\\\b(fruits|fruit)(-|\\\\s+)?(bats|bat)\\\\b')"
 p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(1169, u'(?i)(grades|grade)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(3534, u'(?i)(scads|scad)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(1953, u'(?i)(cynopteruses|cynopterus)(-|\\\\s+)?(sphinxes|sphinx)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(5738, u'(?i)(fruits|fruit)(-|\\\\s+)?(bats|bat)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(5674, u'(?i)(ewes|ewe)')"
-p49
-atp50
-Rp51
+atp40
+Rp41
 sb.

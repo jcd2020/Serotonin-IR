@@ -34,13 +34,13 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p22
-aS"(374, u'(?i)(duras|dura)(-|\\\\s+)?(maters|mater)')"
+aS"(374, u'(?i)\\\\b(duras|dura)(-|\\\\s+)?(maters|mater)\\\\b')"
 p23
-aS"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
+aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p24
-aS"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,13 +52,13 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(103, u'\\\\bsumatriptan')"
+S"(25, u'\\\\bdihydroergotamine')"
 p32
-aS"(109, u'\\\\bcp ?122288')"
+aS"(96, u'\\\\bsumatriptan')"
 p33
-aS"(107, u'\\\\bcp ?93129')"
+aS"(100, u'\\\\bcp ?93129')"
 p34
-aS"(29, u'\\\\bdihydroergotamine')"
+aS"(102, u'\\\\bcp ?122288')"
 p35
 atp36
 Rp37
@@ -66,48 +66,12 @@ sS'species'
 p38
 g3
 ((lp39
-S"(3062, u'(?i)(guineas|guinea)')"
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p40
-aS"(2054, u'(?i)(heads|head)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p42
-aS"(5035, u'(?i)(harts|hart)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(7609, u'(?i)(erns|ern)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(3051, u'(?i)(pigs|pig)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(3726, u'(?i)(mates|mate)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(853, u'(?i)(minas|mina)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(3592, u'(?i)(ravens|raven)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p58
-aS"(1683, u'(?i)(terns|tern)')"
-p59
-aS"(6249, u'(?i)(ants|ant)')"
-p60
-atp61
-Rp62
+atp43
+Rp44
 sb.

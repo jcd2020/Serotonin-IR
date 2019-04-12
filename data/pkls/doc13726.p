@@ -38,62 +38,34 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
-p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp24
+Rp25
 sS'year'
-p28
+p26
 V1991
-p29
+p27
 sS'agonists'
+p28
+g3
+((lp29
+S"(20, u'\\\\bbuspirone')"
 p30
-g3
-((lp31
-S"(24, u'\\\\bbuspirone')"
+aS"(45, u'\\\\bipsapirone')"
+p31
+aS"(189, u'\\\\bethanol')"
 p32
-aS"(50, u'\\\\bipsapirone')"
-p33
-aS"(193, u'\\\\bethanol')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp36
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+p37
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p38
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(949, u'(?i)(cohoes|coho)')"
-p41
-aS"(163, u'(?i)(mice|mouse)')"
-p42
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(3522, u'(?i)(tetras|tetra)')"
-p49
-aS"(4152, u'(?i)(mamoes|mamo)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(1414, u'(?i)(chars|char)')"
-p52
-aS"(2809, u'(?i)(toms|tom)')"
-p53
-atp54
-Rp55
+atp40
+Rp41
 sb.

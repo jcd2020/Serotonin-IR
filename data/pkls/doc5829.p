@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(174, u'(?i)(posteriors|posterior)')"
+S"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p24
 atp25
 Rp26
@@ -50,9 +50,9 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(193, u'\\\\bethanol')"
+S"(149, u'\\\\bmem')"
 p31
-aS"(155, u'\\\\bmem')"
+aS"(189, u'\\\\bethanol')"
 p32
 atp33
 Rp34
@@ -60,52 +60,10 @@ sS'species'
 p35
 g3
 ((lp36
-S"(4624, u'(?i)(apes|ape)')"
+S"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
 p37
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p38
-aS"(4907, u'(?i)(salps|salp)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(5229, u'(?i)(moles|mole)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(6391, u'(?i)(asses|ass)')"
-p43
-aS"(5626, u'(?i)(posters|poster)')"
-p44
-aS"(2327, u'(?i)(bovines|bovine)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(3522, u'(?i)(tetras|tetra)')"
-p48
-aS"(1628, u'(?i)(cod|cod)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6753, u'(?i)(da|das)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(1414, u'(?i)(chars|char)')"
-p55
-aS"(5949, u'(?i)(dogs|dog)')"
-p56
-aS"(2323, u'(?i)(bees|bee)')"
-p57
-aS"(1885, u'(?i)(apars|apar)')"
-p58
-aS"(1054, u'(?i)(homoes|homo)')"
-p59
-atp60
-Rp61
+atp39
+Rp40
 sb.

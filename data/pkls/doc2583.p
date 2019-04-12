@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(78, u'\\\\bpimavanserin')"
+S"(69, u'\\\\bpimavanserin')"
 p5
 atp6
 Rp7
@@ -36,68 +36,32 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht5'
+S'5ht2a'
 p22
-aS'5ht2a'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+((lp26
+tp27
+Rp28
 sS'year'
-p31
+p29
 V2014
-p32
+p30
 sS'agonists'
-p33
+p31
 g3
-((lp34
-tp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(7609, u'(?i)(erns|ern)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(3527, u'(?i)(permits|permit)')"
-p43
-aS"(4663, u'(?i)(nags|nag)')"
-p44
-aS"(4091, u'(?i)(adults|adult)')"
-p45
-aS"(1686, u'(?i)(gibs|gib)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(4964, u'(?i)(serins|serin)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(2809, u'(?i)(toms|tom)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-atp56
-Rp57
+((lp36
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p37
+atp38
+Rp39
 sb.

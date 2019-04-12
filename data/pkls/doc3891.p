@@ -10,13 +10,13 @@ p3
 ((lp4
 S"(1, u'\\\\balprenolol')"
 p5
-aS"(29, u'\\\\bspiroxatrine')"
+aS"(76, u'\\\\blisuride')"
 p6
-aS"(27, u'\\\\bspiperone')"
+aS"(26, u'\\\\bspiperone')"
 p7
 aS"(17, u'\\\\bnan ?190')"
 p8
-aS"(85, u'\\\\blisuride')"
+aS"(28, u'\\\\bspiroxatrine')"
 p9
 atp10
 Rp11
@@ -48,72 +48,36 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+tp29
+Rp30
 sS'year'
-p32
+p31
 V1992
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(44, u'\\\\bflesinoxan')"
+((lp34
+S"(20, u'\\\\bbuspirone')"
+p35
+aS"(39, u'\\\\bflesinoxan')"
 p36
-aS"(52, u'\\\\blisuride')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p37
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(137, u'\\\\blisuride')"
 p38
-aS"(24, u'\\\\bbuspirone')"
+aS"(45, u'\\\\bipsapirone')"
 p39
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p40
-aS"(50, u'\\\\bipsapirone')"
-p41
-atp42
-Rp43
+atp41
+Rp42
 sS'species'
-p44
+p43
 g3
-((lp45
-S"(1070, u'(?i)(pets|pet)')"
-p46
-aS"(5537, u'(?i)(hippos|hippo)')"
-p47
-aS"(2568, u'(?i)(hens|hen)')"
-p48
-aS"(1667, u'(?i)(polyps|polyp)')"
-p49
-aS"(867, u'(?i)(tits|tit)')"
-p50
-aS"(7552, u'(?i)(bats|bat)')"
-p51
-aS"(5551, u'(?i)(owls|owl)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(3404, u'(?i)(titis|titi)')"
-p55
-aS"(6224, u'(?i)(fowls|fowl)')"
-p56
-aS"(853, u'(?i)(minas|mina)')"
-p57
-aS"(5838, u'(?i)(cubs|cub)')"
-p58
-aS"(5958, u'(?i)(rats|rat)')"
-p59
-aS"(3522, u'(?i)(tetras|tetra)')"
-p60
-aS"(1961, u'(?i)(pens|pen)')"
-p61
-aS"(6391, u'(?i)(asses|ass)')"
-p62
-aS"(6682, u'(?i)(tera|teras)')"
-p63
-atp64
-Rp65
+((lp44
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

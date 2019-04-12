@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
 atp25
 Rp26
@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(107, u'\\\\bcp ?93129')"
+S"(100, u'\\\\bcp ?93129')"
 p31
 atp32
 Rp33
@@ -58,32 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(6249, u'(?i)(ants|ant)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(163, u'(?i)(mice|mouse)')"
-p38
-aS"(1725, u'(?i)(clams|clam)')"
-p39
-aS"(1349, u'(?i)(rams|ram)')"
-p40
-aS"(3726, u'(?i)(mates|mate)')"
-p41
-aS"(853, u'(?i)(minas|mina)')"
-p42
-aS"(7094, u'(?i)(curs|cur)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(821, u'(?i)(lice|louse)')"
-p47
-aS"(7552, u'(?i)(bats|bat)')"
-p48
-atp49
-Rp50
+atp38
+Rp39
 sb.

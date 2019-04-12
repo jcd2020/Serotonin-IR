@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p23
 atp24
 Rp25
@@ -54,34 +54,8 @@ sS'species'
 p32
 g3
 ((lp33
-S"(2568, u'(?i)(hens|hen)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p34
-aS"(6356, u'(?i)(ais|ai)')"
-p35
-aS"(5743, u'(?i)(bots|bot)')"
-p36
-aS"(6249, u'(?i)(ants|ant)')"
-p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(3726, u'(?i)(mates|mate)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(7094, u'(?i)(curs|cur)')"
-p43
-aS"(1961, u'(?i)(pens|pen)')"
-p44
-aS"(1414, u'(?i)(chars|char)')"
-p45
-aS"(821, u'(?i)(lice|louse)')"
-p46
-aS"(4133, u'(?i)(pikes|pike)')"
-p47
-atp48
-Rp49
+atp35
+Rp36
 sb.

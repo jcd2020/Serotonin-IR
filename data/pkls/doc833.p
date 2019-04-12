@@ -30,84 +30,46 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht2c'
 p19
-aS'5ht2c'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
-p25
-atp26
-Rp27
+((lp23
+S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
+p24
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2001
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(181, u'\\\\bdom')"
-p32
-atp33
-Rp34
+((lp30
+S"(176, u'\\\\bdom')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(2401, u'(?i)(primates|primate)')"
+((lp35
+S"(1861, u'(?i)\\\\b(amniotes|amniote)\\\\b')"
+p36
+aS"(3953, u'(?i)\\\\b(anoli|anolis)(-|\\\\s+)?(carolinenses|carolinensis)\\\\b')"
 p37
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3952, u'(?i)\\\\b(anoles|anole)\\\\b')"
 p39
-aS"(3726, u'(?i)(mates|mate)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p40
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p41
-aS"(6391, u'(?i)(asses|ass)')"
-p42
-aS"(931, u'(?i)(divers|diver)')"
-p43
-aS"(7539, u'(?i)(mammals|mammal)')"
-p44
-aS"(5967, u'(?i)(males|male)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(853, u'(?i)(minas|mina)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6215, u'(?i)(racers|racer)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(4247, u'(?i)(tatus|tatu)')"
-p55
-aS"(2568, u'(?i)(hens|hen)')"
-p56
-aS"(6753, u'(?i)(da|das)')"
-p57
-aS"(1861, u'(?i)(amniotes|amniote)')"
-p58
-aS"(3953, u'(?i)(anoli|anolis)(-|\\\\s+)?(carolinenses|carolinensis)')"
-p59
-aS"(3952, u'(?i)(anoles|anole)')"
-p60
-atp61
-Rp62
+atp42
+Rp43
 sb.

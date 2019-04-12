@@ -34,7 +34,7 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p22
 atp23
 Rp24
@@ -52,26 +52,10 @@ sS'species'
 p31
 g3
 ((lp32
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p33
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p34
-aS"(479, u'(?i)(lings|ling)')"
-p35
-aS"(6682, u'(?i)(tera|teras)')"
-p36
-aS"(1349, u'(?i)(rams|ram)')"
-p37
-aS"(3152, u'(?i)(layers|layer)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(5229, u'(?i)(moles|mole)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(2809, u'(?i)(toms|tom)')"
-p42
-atp43
-Rp44
+atp35
+Rp36
 sb.

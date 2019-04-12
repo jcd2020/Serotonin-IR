@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(204, u'\\\\bsb ?269970')"
+S"(43, u'\\\\bgr ?127935')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(198, u'\\\\bsb ?269970')"
 p6
-aS"(45, u'\\\\bgr ?127935')"
+aS"(31, u'\\\\bway ?100635')"
 p7
-aS"(202, u'\\\\bsb ?258719')"
+aS"(196, u'\\\\bsb ?258719')"
 p8
 atp9
 Rp10
@@ -52,52 +52,34 @@ sS'regions'
 p29
 g3
 ((lp30
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p31
-atp32
-Rp33
+tp31
+Rp32
 sS'year'
-p34
+p33
 V2003
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(5, u'\\\\b5 ?ct')"
-p38
-atp39
-Rp40
+((lp36
+S"(219, u'\\\\b5 ?ct')"
+p37
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(2323, u'(?i)(bees|bee)')"
+((lp41
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p42
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p43
-aS"(6753, u'(?i)(da|das)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p45
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p46
-aS"(2395, u'(?i)(mutants|mutant)')"
-p47
-aS"(3051, u'(?i)(pigs|pig)')"
-p48
-aS"(3062, u'(?i)(guineas|guinea)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(7094, u'(?i)(curs|cur)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p55
-atp56
-Rp57
+atp47
+Rp48
 sb.

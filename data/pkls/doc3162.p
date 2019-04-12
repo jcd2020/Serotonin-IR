@@ -8,116 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(31, u'\\\\bway ?100635')"
 p6
-aS"(128, u'\\\\bketanserin')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(9, u'\\\\bdepress')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
-S'5ht5'
-p23
+((lp21
+S'5ht1a'
+p22
 aS'5ht3'
-p24
-aS'5ht1a'
-p25
+p23
 aS'5ht2'
-p26
-atp27
-Rp28
+p24
+atp25
+Rp26
 sS'regions'
+p27
+g3
+((lp28
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p29
-g3
-((lp30
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+aS"(386, u'(?i)\\\\b(cisternas|cisterna)(-|\\\\s+)?(magnas|magna)\\\\b')"
+p30
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p31
-aS"(386, u'(?i)(cisternas|cisterna)(-|\\\\s+)?(magnas|magna)')"
-p32
-aS"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V2016
-p37
+p35
 sS'agonists'
-p38
+p36
 g3
-((lp39
-tp40
-Rp41
+((lp37
+tp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(7610, u'(?i)(ernes|erne)')"
+((lp41
+S"(3348, u'(?i)\\\\b(babies|baby)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p44
-aS"(7094, u'(?i)(curs|cur)')"
-p45
-aS"(3722, u'(?i)(pups|pup)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(7609, u'(?i)(erns|ern)')"
-p50
-aS"(6878, u'(?i)(guans|guan)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p54
-aS"(3048, u'(?i)(hogs|hog)')"
-p55
-aS"(6682, u'(?i)(tera|teras)')"
-p56
-aS"(6753, u'(?i)(da|das)')"
-p57
-aS"(5949, u'(?i)(dogs|dog)')"
-p58
-aS"(2323, u'(?i)(bees|bee)')"
-p59
-aS"(2568, u'(?i)(hens|hen)')"
-p60
-aS"(853, u'(?i)(minas|mina)')"
-p61
-aS"(3348, u'(?i)(babies|baby)')"
-p62
-aS"(4964, u'(?i)(serins|serin)')"
-p63
-aS"(1683, u'(?i)(terns|tern)')"
-p64
-aS"(6356, u'(?i)(ais|ai)')"
-p65
-atp66
-Rp67
+atp45
+Rp46
 sb.

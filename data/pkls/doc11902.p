@@ -8,100 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(52, u'\\\\bmetergoline')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(102, u'\\\\bfluoxetine')"
+aS"(34, u'\\\\bmetergoline')"
 p6
-aS"(35, u'\\\\bmetergoline')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(16, u'\\\\bfeed')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1b'
-p23
+p22
 aS'5ht5'
-p24
+p23
 aS'5ht2c'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
-p30
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+((lp28
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p35
+p32
 V1999
-p36
+p33
 sS'agonists'
-p37
+p34
 g3
-((lp38
-S"(196, u'\\\\bquipazine')"
-p39
-atp40
-Rp41
+((lp35
+S"(192, u'\\\\bquipazine')"
+p36
+atp37
+Rp38
 sS'species'
-p42
+p39
 g3
-((lp43
-S"(4301, u'(?i)(hydras|hydra)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(5176, u'(?i)(tegs|teg)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(3592, u'(?i)(ravens|raven)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(6682, u'(?i)(tera|teras)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(1349, u'(?i)(rams|ram)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-atp58
-Rp59
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

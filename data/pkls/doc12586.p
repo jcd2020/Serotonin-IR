@@ -10,11 +10,11 @@ p3
 ((lp4
 S"(5, u'\\\\bcyanopindolol')"
 p5
-aS"(32, u'\\\\bway ?100635')"
-p6
 aS"(14, u'\\\\bmethiothepin')"
+p6
+aS"(31, u'\\\\bway ?100635')"
 p7
-aS"(202, u'\\\\bsb ?258719')"
+aS"(196, u'\\\\bsb ?258719')"
 p8
 atp9
 Rp10
@@ -50,70 +50,38 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+tp30
+Rp31
 sS'year'
-p33
+p32
 V1999
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp35
+S"(149, u'\\\\bmem')"
+p36
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p37
-aS"(5, u'\\\\b5 ?ct')"
+aS"(219, u'\\\\b5 ?ct')"
 p38
-aS"(155, u'\\\\bmem')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(1070, u'(?i)(pets|pet)')"
+((lp42
+S"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p43
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p44
-aS"(3404, u'(?i)(titis|titi)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p45
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p46
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p47
-aS"(867, u'(?i)(tits|tit)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(3051, u'(?i)(pigs|pig)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(3726, u'(?i)(mates|mate)')"
-p53
-aS"(3062, u'(?i)(guineas|guinea)')"
-p54
-aS"(853, u'(?i)(minas|mina)')"
-p55
-aS"(7094, u'(?i)(curs|cur)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(3522, u'(?i)(tetras|tetra)')"
-p58
-aS"(1057, u'(?i)(humans|human)')"
-p59
-aS"(6391, u'(?i)(asses|ass)')"
-p60
-aS"(3196, u'(?i)(human|humans)')"
-p61
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p62
-aS"(1795, u'(?i)(mounts|mount)')"
-p63
-atp64
-Rp65
+atp48
+Rp49
 sb.

@@ -62,26 +62,6 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2323, u'(?i)(bees|bee)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(5176, u'(?i)(tegs|teg)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(5917, u'(?i)(roaches|roach)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(5949, u'(?i)(dogs|dog)')"
-p47
-atp48
-Rp49
+tp38
+Rp39
 sb.

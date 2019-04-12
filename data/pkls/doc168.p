@@ -42,46 +42,28 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V2003
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(2568, u'(?i)(hens|hen)')"
+((lp35
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p36
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p37
-aS"(4979, u'(?i)(cats|cat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(7539, u'(?i)(mammals|mammal)')"
-p39
-aS"(479, u'(?i)(lings|ling)')"
-p40
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(4604, u'(?i)(mites|mite)')"
-p43
-aS"(853, u'(?i)(minas|mina)')"
-p44
-aS"(1057, u'(?i)(humans|human)')"
-p45
-aS"(3196, u'(?i)(human|humans)')"
-p46
-aS"(391, u'(?i)(alli|allis)')"
-p47
-atp48
-Rp49
+atp39
+Rp40
 sb.

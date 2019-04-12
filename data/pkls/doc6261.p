@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
-aS"(90, u'\\\\bpromethazine')"
+aS"(80, u'\\\\bpromethazine')"
 p6
-aS"(139, u'\\\\bmetoclopramide')"
+aS"(124, u'\\\\bondansetron')"
 p7
 aS"(22, u'\\\\bpropranolol')"
 p8
@@ -48,54 +48,30 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(246, u'(?i)(uncuses|uncus)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+tp29
+Rp30
 sS'year'
-p33
+p31
 V2003
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(209, u'\\\\bmetoclopramide')"
 p35
-g3
-((lp36
-S"(181, u'\\\\bdom')"
+aS"(176, u'\\\\bdom')"
+p36
+aS"(163, u'\\\\bfenfluramine')"
 p37
-aS"(169, u'\\\\bfenfluramine')"
-p38
-aS"(213, u'\\\\bmetoclopramide')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(1349, u'(?i)(rams|ram)')"
-p51
-aS"(853, u'(?i)(minas|mina)')"
-p52
-aS"(1280, u'(?i)(shrews|shrew)')"
-p53
-aS"(2809, u'(?i)(toms|tom)')"
-p54
-atp55
-Rp56
+((lp41
+S"(1280, u'(?i)\\\\b(shrews|shrew)\\\\b')"
+p42
+atp43
+Rp44
 sb.

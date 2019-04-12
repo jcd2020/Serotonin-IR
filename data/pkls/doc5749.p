@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(105, u'\\\\bmethysergide')"
+S"(130, u'\\\\bzacopride')"
 p5
-aS"(141, u'\\\\bzacopride')"
+aS"(194, u'\\\\bmethysergide')"
 p6
 atp7
 Rp8
@@ -34,74 +34,46 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht3a'
 p21
 aS'5ht4'
 p22
-aS'5ht3a'
+aS'5ht3'
 p23
 aS'5ht1'
 p24
 aS'5ht2a'
 p25
-aS'5ht3'
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'year'
-p33
+p32
 V1991
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(202, u'\\\\bcisapride')"
+((lp35
+S"(198, u'\\\\bcisapride')"
+p36
+aS"(208, u'\\\\bzacopride')"
 p37
-aS"(60, u'\\\\bmethysergide')"
+aS"(53, u'\\\\bmethysergide')"
 p38
-aS"(212, u'\\\\bzacopride')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2323, u'(?i)(bees|bee)')"
-p44
-aS"(1395, u'(?i)(frogs|frog)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(4979, u'(?i)(cats|cat)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(1414, u'(?i)(chars|char)')"
-p54
-aS"(6391, u'(?i)(asses|ass)')"
-p55
-aS"(821, u'(?i)(lice|louse)')"
-p56
-aS"(5949, u'(?i)(dogs|dog)')"
-p57
-atp58
-Rp59
+((lp42
+S"(1395, u'(?i)\\\\b(frogs|frog)\\\\b')"
+p43
+atp44
+Rp45
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
 atp6
 Rp7
@@ -50,7 +50,7 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p30
 atp31
 Rp32
@@ -68,52 +68,22 @@ sS'species'
 p39
 g3
 ((lp40
-S"(4624, u'(?i)(apes|ape)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p42
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
 p43
-aS"(3196, u'(?i)(human|humans)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p44
-aS"(675, u'(?i)(marmosets|marmoset)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p45
-aS"(5743, u'(?i)(bots|bot)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p46
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p47
-aS"(3062, u'(?i)(guineas|guinea)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p48
-aS"(2942, u'(?i)(daws|daw)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(7609, u'(?i)(erns|ern)')"
-p51
-aS"(163, u'(?i)(mice|mouse)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(2334, u'(?i)(eels|eel)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-aS"(1057, u'(?i)(humans|human)')"
-p56
-aS"(1414, u'(?i)(chars|char)')"
-p57
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p58
-aS"(2568, u'(?i)(hens|hen)')"
-p59
-aS"(6753, u'(?i)(da|das)')"
-p60
-aS"(3051, u'(?i)(pigs|pig)')"
-p61
-aS"(3726, u'(?i)(mates|mate)')"
-p62
-aS"(1683, u'(?i)(terns|tern)')"
-p63
-atp64
-Rp65
+atp49
+Rp50
 sb.

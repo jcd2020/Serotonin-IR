@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(203, u'\\\\btfmpp')"
 p5
 atp6
 Rp7
@@ -30,70 +30,50 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht1b'
+S'5ht3a'
 p19
-aS'5ht5'
+aS'5ht1b'
 p20
-aS'5ht3a'
+aS'5ht3'
 p21
 aS'5ht2c'
 p22
 aS'5ht2a'
 p23
-aS'5ht3'
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V1995
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(166, u'\\\\bmk ?212')"
 p34
-g3
-((lp35
-S"(181, u'\\\\bdom')"
+aS"(178, u'\\\\btfmpp')"
+p35
+aS"(192, u'\\\\bquipazine')"
 p36
-aS"(56, u'\\\\blsd')"
+aS"(158, u'\\\\blsd')"
 p37
-aS"(183, u'\\\\btfmpp')"
+aS"(155, u'\\\\bmcpp')"
 p38
-aS"(161, u'\\\\bmcpp')"
+aS"(176, u'\\\\bdom')"
 p39
-aS"(196, u'\\\\bquipazine')"
-p40
-aS"(172, u'\\\\bmk ?212')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(2323, u'(?i)(bees|bee)')"
-p46
-aS"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(867, u'(?i)(tits|tit)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(853, u'(?i)(minas|mina)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-atp54
-Rp55
+((lp43
+tp44
+Rp45
 sb.

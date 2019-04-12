@@ -8,104 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(130, u'\\\\bzacopride')"
 p5
-aS"(67, u'\\\\bhaloperidol')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
-aS"(141, u'\\\\bzacopride')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht3a'
-p22
+p21
 aS'5ht3'
-p23
+p22
 aS'5ht2'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V1991
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(208, u'\\\\bzacopride')"
 p34
-g3
-((lp35
-S"(48, u'\\\\bhaloperidol')"
+aS"(189, u'\\\\bethanol')"
+p35
+aS"(43, u'\\\\bhaloperidol')"
 p36
-aS"(212, u'\\\\bzacopride')"
-p37
-aS"(193, u'\\\\bethanol')"
-p38
-atp39
-Rp40
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(4624, u'(?i)(apes|ape)')"
-p43
-aS"(949, u'(?i)(cohoes|coho)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(867, u'(?i)(tits|tit)')"
-p46
-aS"(4964, u'(?i)(serins|serin)')"
-p47
-aS"(3051, u'(?i)(pigs|pig)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(3726, u'(?i)(mates|mate)')"
-p51
-aS"(853, u'(?i)(minas|mina)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(7094, u'(?i)(curs|cur)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(1414, u'(?i)(chars|char)')"
-p56
-aS"(1795, u'(?i)(mounts|mount)')"
-p57
-aS"(1312, u'(?i)(pigeons|pigeon)')"
-p58
-aS"(4979, u'(?i)(cats|cat)')"
-p59
-atp60
-Rp61
+((lp40
+S"(1312, u'(?i)\\\\b(pigeons|pigeon)\\\\b')"
+p41
+atp42
+Rp43
 sb.

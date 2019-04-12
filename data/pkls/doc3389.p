@@ -8,94 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(130, u'\\\\britanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(11, u'\\\\banxiolyt')"
-p17
+p16
 aS"(10, u'\\\\banxiety')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
-S'5ht5'
-p23
-aS'5ht3'
-p24
-aS'5ht2'
-p25
-aS'5ht1'
-p26
-aS'5ht2a'
-p27
-aS'5ht1a'
-p28
+((lp21
+S'5ht1a'
+p22
 aS'5ht3a'
-p29
-atp30
-Rp31
+p23
+aS'5ht2'
+p24
+aS'5ht1'
+p25
+aS'5ht2a'
+p26
+aS'5ht3'
+p27
+atp28
+Rp29
 sS'regions'
-p32
+p30
 g3
-((lp33
-tp34
-Rp35
+((lp31
+tp32
+Rp33
 sS'year'
-p36
+p34
 V1994
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(20, u'\\\\bbuspirone')"
 p38
-g3
-((lp39
-S"(24, u'\\\\bbuspirone')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(4624, u'(?i)(apes|ape)')"
-p45
-aS"(1395, u'(?i)(frogs|frog)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(4964, u'(?i)(serins|serin)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(2809, u'(?i)(toms|tom)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+((lp42
+S"(1395, u'(?i)\\\\b(frogs|frog)\\\\b')"
+p43
+atp44
+Rp45
 sb.

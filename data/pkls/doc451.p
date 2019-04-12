@@ -36,44 +36,24 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2009
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(4624, u'(?i)(apes|ape)')"
-p34
-aS"(5176, u'(?i)(tegs|teg)')"
-p35
-aS"(163, u'(?i)(mice|mouse)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(479, u'(?i)(lings|ling)')"
-p38
-aS"(3592, u'(?i)(ravens|raven)')"
-p39
-aS"(4979, u'(?i)(cats|cat)')"
-p40
-aS"(3550, u'(?i)(anis|ani)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(5743, u'(?i)(bots|bot)')"
-p43
-atp44
-Rp45
+((lp32
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p33
+atp34
+Rp35
 sb.

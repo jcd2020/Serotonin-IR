@@ -36,74 +36,46 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(218, u'(?i)(claustrums|claustrum)')"
+S"(95, u'(?i)\\\\b(reds|red)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p23
-aS"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
+aS"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
 p25
-aS"(35, u'(?i)(pontines|pontine)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(35, u'(?i)\\\\b(pontines|pontine)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(244, u'(?i)(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(218, u'(?i)\\\\b(claustrums|claustrum)\\\\b')"
 p27
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(244, u'(?i)\\\\b(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(95, u'(?i)(reds|red)(-|\\\\s+)?(nuclei|nucleus)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V1998
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(155, u'\\\\bmem')"
-p36
-atp37
-Rp38
+((lp34
+S"(149, u'\\\\bmem')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(2323, u'(?i)(bees|bee)')"
+((lp39
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+p40
+aS"(2512, u'(?i)\\\\b(chickens|chicken)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p43
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p44
-aS"(5454, u'(?i)(brills|brill)')"
-p45
-aS"(163, u'(?i)(mice|mouse)')"
-p46
-aS"(479, u'(?i)(lings|ling)')"
-p47
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(3152, u'(?i)(layers|layer)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(2512, u'(?i)(chickens|chicken)')"
-p54
-aS"(4371, u'(?i)(lizas|liza)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(709, u'(?i)(chicks|chick)')"
-p57
-aS"(1683, u'(?i)(terns|tern)')"
-p58
-atp59
-Rp60
+atp45
+Rp46
 sb.

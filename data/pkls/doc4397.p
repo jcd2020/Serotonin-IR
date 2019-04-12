@@ -8,15 +8,15 @@ c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bsdz ?216525')"
+S"(30, u'\\\\bway ?100135')"
 p5
-aS"(31, u'\\\\bway ?100135')"
+aS"(26, u'\\\\bspiperone')"
 p6
-aS"(27, u'\\\\bspiperone')"
-p7
 aS"(17, u'\\\\bnan ?190')"
-p8
+p7
 aS"(4, u'\\\\bbmy ?7378')"
+p8
+aS"(25, u'\\\\bsdz ?216525')"
 p9
 atp10
 Rp11
@@ -42,94 +42,50 @@ g3
 ((lp23
 S'5ht1a'
 p24
-aS'5ht5'
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+((lp28
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p30
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+atp32
+Rp33
 sS'year'
-p37
+p34
 V1995
-p38
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(83, u'\\\\bzalospirone')"
+p38
+aS"(68, u'\\\\bs ?15535')"
 p39
-g3
-((lp40
-S"(80, u'\\\\btandospirone')"
+aS"(60, u'\\\\bpyrimidinylpiperazine')"
+p40
+aS"(73, u'\\\\btandospirone')"
 p41
-aS"(44, u'\\\\bflesinoxan')"
+aS"(39, u'\\\\bflesinoxan')"
 p42
-aS"(75, u'\\\\bs ?15535')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p43
-aS"(90, u'\\\\bzalospirone')"
-p44
-aS"(67, u'\\\\bpyrimidinylpiperazine')"
-p45
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p46
-atp47
-Rp48
+atp44
+Rp45
 sS'species'
-p49
+p46
 g3
-((lp50
-S"(1070, u'(?i)(pets|pet)')"
-p51
-aS"(5537, u'(?i)(hippos|hippo)')"
-p52
-aS"(6753, u'(?i)(da|das)')"
-p53
-aS"(2568, u'(?i)(hens|hen)')"
-p54
-aS"(931, u'(?i)(divers|diver)')"
-p55
-aS"(4694, u'(?i)(gnus|gnu)')"
-p56
-aS"(867, u'(?i)(tits|tit)')"
-p57
-aS"(4979, u'(?i)(cats|cat)')"
-p58
-aS"(468, u'(?i)(oxen|ox)')"
-p59
-aS"(1055, u'(?i)(men|man)')"
-p60
-aS"(6249, u'(?i)(ants|ant)')"
-p61
-aS"(3404, u'(?i)(titis|titi)')"
-p62
-aS"(3812, u'(?i)(studs|stud)')"
-p63
-aS"(5958, u'(?i)(rats|rat)')"
-p64
-aS"(3522, u'(?i)(tetras|tetra)')"
-p65
-aS"(7094, u'(?i)(curs|cur)')"
-p66
-aS"(5917, u'(?i)(roaches|roach)')"
-p67
-aS"(1414, u'(?i)(chars|char)')"
-p68
-aS"(7609, u'(?i)(erns|ern)')"
-p69
-aS"(5743, u'(?i)(bots|bot)')"
-p70
-aS"(1683, u'(?i)(terns|tern)')"
-p71
-atp72
-Rp73
+((lp47
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p48
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(195, u'(?i)(telencephalons|telencephalon)')"
+S"(195, u'(?i)\\\\b(telencephalons|telencephalon)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,32 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5958, u'(?i)(rats|rat)')"
+S"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
 p36
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(479, u'(?i)(lings|ling)')"
-p39
-aS"(4163, u'(?i)(ermines|ermine)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(6356, u'(?i)(ais|ai)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(7127, u'(?i)(monitors|monitor)')"
-p45
-aS"(5229, u'(?i)(moles|mole)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(1683, u'(?i)(terns|tern)')"
-p48
-atp49
-Rp50
+atp38
+Rp39
 sb.

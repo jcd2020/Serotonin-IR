@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(24, u'\\\\brobalzotan')"
+S"(23, u'\\\\brobalzotan')"
 p5
 atp6
 Rp7
@@ -56,34 +56,12 @@ sS'species'
 p33
 g3
 ((lp34
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p35
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p37
-aS"(5743, u'(?i)(bots|bot)')"
-p38
-aS"(479, u'(?i)(lings|ling)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(3522, u'(?i)(tetras|tetra)')"
-p44
-aS"(1057, u'(?i)(humans|human)')"
-p45
-aS"(1414, u'(?i)(chars|char)')"
-p46
-aS"(3196, u'(?i)(human|humans)')"
-p47
-aS"(6878, u'(?i)(guans|guan)')"
-p48
-atp49
-Rp50
+atp38
+Rp39
 sb.

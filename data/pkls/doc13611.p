@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(50, u'\\\\bipsapirone')"
+S"(45, u'\\\\bipsapirone')"
 p30
 atp31
 Rp32
@@ -56,16 +56,8 @@ sS'species'
 p33
 g3
 ((lp34
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(1688, u'(?i)(ounces|ounce)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(4371, u'(?i)(lizas|liza)')"
-p39
-atp40
-Rp41
+atp36
+Rp37
 sb.

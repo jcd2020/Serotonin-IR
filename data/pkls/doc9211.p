@@ -32,90 +32,46 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2c'
 p20
-aS'5ht2c'
-p21
 aS'5ht2'
-p22
+p21
 aS'5ht2a'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(244, u'(?i)(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)')"
+((lp26
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p27
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p28
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(244, u'(?i)\\\\b(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+atp30
+Rp31
 sS'year'
-p34
+p32
 V2015
-p35
+p33
 sS'agonists'
+p34
+g3
+((lp35
+S"(175, u'\\\\bdoi')"
 p36
-g3
-((lp37
-S"(33, u'\\\\bdoi')"
-p38
-atp39
-Rp40
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(7610, u'(?i)(ernes|erne)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(6580, u'(?i)(dams|dam)')"
-p45
-aS"(3812, u'(?i)(studs|stud)')"
-p46
-aS"(6249, u'(?i)(ants|ant)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(1725, u'(?i)(clams|clam)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1349, u'(?i)(rams|ram)')"
-p51
-aS"(3152, u'(?i)(layers|layer)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(7609, u'(?i)(erns|ern)')"
-p56
-aS"(6682, u'(?i)(tera|teras)')"
-p57
-aS"(1055, u'(?i)(men|man)')"
-p58
-aS"(6753, u'(?i)(da|das)')"
-p59
-aS"(1961, u'(?i)(pens|pen)')"
-p60
-aS"(2323, u'(?i)(bees|bee)')"
-p61
-aS"(2568, u'(?i)(hens|hen)')"
-p62
-aS"(4979, u'(?i)(cats|cat)')"
-p63
-aS"(1683, u'(?i)(terns|tern)')"
-p64
-atp65
-Rp66
+((lp40
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

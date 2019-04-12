@@ -8,114 +8,88 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(112, u'\\\\bquetiapine')"
 p5
-aS"(207, u'\\\\bsertindole')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(123, u'\\\\bclozapine')"
+aS"(114, u'\\\\bziprasidone')"
 p7
-aS"(56, u'\\\\bclozapine')"
+aS"(113, u'\\\\brisperidone')"
 p8
-aS"(57, u'\\\\bolanzapine')"
+aS"(50, u'\\\\bquetiapine')"
 p9
-aS"(41, u'\\\\bziprasidone')"
+aS"(111, u'\\\\bolanzapine')"
 p10
-aS"(188, u'\\\\bsertindole')"
+aS"(201, u'\\\\bsertindole')"
 p11
-aS"(124, u'\\\\bolanzapine')"
+aS"(180, u'\\\\bsertindole')"
 p12
-aS"(125, u'\\\\bquetiapine')"
-p13
-aS"(59, u'\\\\brisperidone')"
-p14
-aS"(58, u'\\\\bquetiapine')"
-p15
-atp16
-Rp17
+atp13
+Rp14
 sS'methods'
-p18
+p15
 g3
-((lp19
+((lp16
 S'Method.ANTAGONIST'
-p20
-atp21
-Rp22
+p17
+atp18
+Rp19
 sS'topics'
-p23
+p20
 g3
-((lp24
+((lp21
 S"(15, u'\\\\bschizophreni')"
-p25
+p22
 aS"(6, u'\\\\bcognit')"
-p26
+p23
 aS"(1, u'\\\\bmood')"
-p27
-atp28
-Rp29
+p24
+atp25
+Rp26
 sS'receptors'
-p30
+p27
 g3
-((lp31
+((lp28
 S'5ht7'
-p32
-aS'5ht5'
-p33
-aS'5ht2c'
-p34
-aS'5ht2a'
-p35
-aS'5ht6a'
-p36
+p29
 aS'5ht1a'
-p37
-atp38
-Rp39
+p30
+aS'5ht6a'
+p31
+aS'5ht2c'
+p32
+aS'5ht2a'
+p33
+atp34
+Rp35
 sS'regions'
-p40
+p36
 g3
-((lp41
-S"(34, u'(?i)(pon|pons)')"
-p42
-atp43
-Rp44
+((lp37
+tp38
+Rp39
 sS'year'
-p45
+p40
 V1999
-p46
+p41
 sS'agonists'
+p42
+g3
+((lp43
+S"(57, u'\\\\bolanzapine')"
+p44
+aS"(23, u'\\\\bclozapine')"
+p45
+aS"(84, u'\\\\bziprasidone')"
+p46
+aS"(64, u'\\\\bquetiapine')"
 p47
-g3
-((lp48
-S"(71, u'\\\\bquetiapine')"
-p49
-aS"(64, u'\\\\bolanzapine')"
-p50
-aS"(91, u'\\\\bziprasidone')"
-p51
-aS"(27, u'\\\\bclozapine')"
-p52
-atp53
-Rp54
+atp48
+Rp49
 sS'species'
-p55
+p50
 g3
-((lp56
-S"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(6753, u'(?i)(da|das)')"
-p58
-aS"(1055, u'(?i)(men|man)')"
-p59
-aS"(1349, u'(?i)(rams|ram)')"
-p60
-aS"(5743, u'(?i)(bots|bot)')"
-p61
-aS"(3426, u'(?i)(hares|hare)')"
-p62
-aS"(6356, u'(?i)(ais|ai)')"
-p63
-aS"(2809, u'(?i)(toms|tom)')"
-p64
-atp65
-Rp66
+((lp51
+tp52
+Rp53
 sb.

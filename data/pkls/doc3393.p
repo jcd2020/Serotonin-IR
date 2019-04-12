@@ -40,64 +40,42 @@ g3
 ((lp22
 S'5ht1a'
 p23
-aS'5ht5'
-p24
 aS'5ht1d'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp28
+tp29
+Rp30
 sS'year'
-p33
+p31
 V1992
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(220, u'\\\\b5 ?methoxytryptamine')"
 p35
-g3
-((lp36
-S"(103, u'\\\\bsumatriptan')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p36
+aS"(96, u'\\\\bsumatriptan')"
 p37
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(222, u'\\\\b5 ?meot')"
 p38
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(219, u'\\\\b5 ?ct')"
 p39
-aS"(5, u'\\\\b5 ?ct')"
-p40
-aS"(225, u'\\\\b5 ?meot')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(5783, u'(?i)(hinds|hind)')"
-p55
-atp56
-Rp57
+((lp43
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

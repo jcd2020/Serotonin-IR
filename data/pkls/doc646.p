@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(137, u'\\\\balosetron')"
+S"(126, u'\\\\balosetron')"
 p5
-aS"(86, u'\\\\btegaserod')"
+aS"(77, u'\\\\btegaserod')"
 p6
 atp7
 Rp8
@@ -56,7 +56,7 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(211, u'\\\\btegaserod')"
+S"(207, u'\\\\btegaserod')"
 p34
 atp35
 Rp36
@@ -64,34 +64,6 @@ sS'species'
 p37
 g3
 ((lp38
-S"(2323, u'(?i)(bees|bee)')"
-p39
-aS"(5176, u'(?i)(tegs|teg)')"
-p40
-aS"(5958, u'(?i)(rats|rat)')"
-p41
-aS"(2431, u'(?i)(rheas|rhea)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(479, u'(?i)(lings|ling)')"
-p44
-aS"(4663, u'(?i)(nags|nag)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(853, u'(?i)(minas|mina)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(2809, u'(?i)(toms|tom)')"
-p52
-atp53
-Rp54
+tp39
+Rp40
 sb.

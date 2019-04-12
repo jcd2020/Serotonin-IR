@@ -8,124 +8,94 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(130, u'\\\\britanserin')"
+aS"(34, u'\\\\bmetergoline')"
 p6
-aS"(52, u'\\\\bmetergoline')"
+aS"(31, u'\\\\bway ?100635')"
 p7
-aS"(54, u'\\\\britanserin')"
-p8
 aS"(4, u'\\\\bbmy ?7378')"
+p8
+aS"(52, u'\\\\bmdl ?100907')"
 p9
-aS"(61, u'\\\\bmdl ?100907')"
-p10
-aS"(35, u'\\\\bmetergoline')"
-p11
-atp12
-Rp13
+atp10
+Rp11
 sS'methods'
-p14
+p12
 g3
-((lp15
+((lp13
 S'Method.ANTAGONIST'
-p16
+p14
 aS'Method.AGONIST'
-p17
-atp18
-Rp19
+p15
+atp16
+Rp17
 sS'topics'
-p20
+p18
 g3
-((lp21
-tp22
-Rp23
+((lp19
+tp20
+Rp21
 sS'receptors'
-p24
+p22
 g3
-((lp25
+((lp23
 S'5ht7'
-p26
+p24
 aS'5ht1a'
-p27
+p25
 aS'5ht2'
-p28
+p26
 aS'5ht1'
-p29
+p27
 aS'5ht2a'
-p30
+p28
 aS'5ht2c'
-p31
-atp32
-Rp33
+p29
+atp30
+Rp31
 sS'regions'
+p32
+g3
+((lp33
+S"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p34
-g3
-((lp35
-S"(256, u'(?i)(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)')"
-p36
-aS"(224, u'(?i)(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)')"
-p37
-aS"(34, u'(?i)(pon|pons)')"
-p38
-atp39
-Rp40
+aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p35
+atp36
+Rp37
 sS'year'
-p41
+p38
 V1997
-p42
+p39
 sS'agonists'
+p40
+g3
+((lp41
+S"(175, u'\\\\bdoi')"
+p42
+aS"(155, u'\\\\bmcpp')"
 p43
-g3
-((lp44
-S"(47, u'\\\\bgepirone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p44
+aS"(42, u'\\\\bgepirone')"
 p45
-aS"(161, u'\\\\bmcpp')"
-p46
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p47
-aS"(33, u'\\\\bdoi')"
-p48
-atp49
-Rp50
+atp46
+Rp47
 sS'species'
-p51
+p48
 g3
-((lp52
-S"(2054, u'(?i)(heads|head)')"
+((lp49
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p50
+aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+p51
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p52
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p53
-aS"(6753, u'(?i)(da|das)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(4964, u'(?i)(serins|serin)')"
-p57
-aS"(3051, u'(?i)(pigs|pig)')"
-p58
-aS"(3592, u'(?i)(ravens|raven)')"
-p59
-aS"(7094, u'(?i)(curs|cur)')"
-p60
-aS"(1055, u'(?i)(men|man)')"
-p61
-aS"(3062, u'(?i)(guineas|guinea)')"
-p62
-aS"(6249, u'(?i)(ants|ant)')"
-p63
-aS"(4979, u'(?i)(cats|cat)')"
-p64
-aS"(1414, u'(?i)(chars|char)')"
-p65
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p66
-aS"(6325, u'(?i)(caudates|caudate)')"
-p67
-aS"(5743, u'(?i)(bots|bot)')"
-p68
-aS"(3812, u'(?i)(studs|stud)')"
-p69
-atp70
-Rp71
+atp55
+Rp56
 sb.

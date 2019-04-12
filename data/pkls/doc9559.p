@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(120, u'\\\\bfluphenazine')"
+S"(108, u'\\\\bfluphenazine')"
 p5
 atp6
 Rp7
@@ -56,34 +56,6 @@ sS'species'
 p33
 g3
 ((lp34
-S"(2323, u'(?i)(bees|bee)')"
-p35
-aS"(2568, u'(?i)(hens|hen)')"
-p36
-aS"(7609, u'(?i)(erns|ern)')"
-p37
-aS"(6753, u'(?i)(da|das)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(1349, u'(?i)(rams|ram)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(1961, u'(?i)(pens|pen)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(2809, u'(?i)(toms|tom)')"
-p46
-aS"(1683, u'(?i)(terns|tern)')"
-p47
-aS"(6117, u'(?i)(anoas|anoa)')"
-p48
-atp49
-Rp50
+tp35
+Rp36
 sb.

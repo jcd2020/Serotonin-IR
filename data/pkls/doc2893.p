@@ -36,78 +36,44 @@ g3
 ((lp20
 S'5ht1b'
 p21
-aS'5ht5'
-p22
 aS'5ht2c'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
-p28
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p29
-atp30
-Rp31
+((lp26
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p32
+p30
 V2008
-p33
+p31
 sS'agonists'
-p34
+p32
 g3
-((lp35
-tp36
-Rp37
+((lp33
+tp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(2323, u'(?i)(bees|bee)')"
+((lp37
+S"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
+p38
+aS"(4096, u'(?i)\\\\b(chows|chow)\\\\b')"
+p39
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p40
-aS"(4096, u'(?i)(chows|chow)')"
+aS"(6580, u'(?i)\\\\b(dams|dam)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(3248, u'(?i)(offspring|offspring)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p43
-aS"(7609, u'(?i)(erns|ern)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(4091, u'(?i)(adults|adult)')"
-p47
-aS"(5967, u'(?i)(males|male)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(5131, u'(?i)(hags|hag)')"
-p50
-aS"(3592, u'(?i)(ravens|raven)')"
-p51
-aS"(2942, u'(?i)(daws|daw)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(3722, u'(?i)(pups|pup)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(6580, u'(?i)(dams|dam)')"
-p57
-aS"(5743, u'(?i)(bots|bot)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-aS"(6249, u'(?i)(ants|ant)')"
-p60
-atp61
-Rp62
+atp44
+Rp45
 sb.

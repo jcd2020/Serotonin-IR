@@ -8,134 +8,98 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(131, u'\\\\bm1')"
 p6
-aS"(142, u'\\\\bm1')"
+aS"(31, u'\\\\bway ?100635')"
 p7
-aS"(56, u'\\\\bclozapine')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(15, u'\\\\bschizophreni')"
-p19
+p18
 aS"(6, u'\\\\bcognit')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht6'
-p25
+p24
 aS'5ht1a'
-p26
+p25
 aS'5ht4'
-p27
+p26
 aS'5ht2b'
-p28
+p27
 aS'5ht2a'
-p29
+p28
 aS'5ht7a'
-p30
+p29
 aS'5ht6a'
-p31
-aS'5ht5'
-p32
+p30
 aS'5ht3'
-p33
-atp34
-Rp35
+p31
+atp32
+Rp33
 sS'regions'
+p34
+g3
+((lp35
+S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
 p36
-g3
-((lp37
-S"(272, u'(?i)(v3s|v3)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p37
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p38
-aS"(96, u'(?i)(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)')"
-p39
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p40
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p41
-aS"(34, u'(?i)(pon|pons)')"
-p42
-atp43
-Rp44
+atp39
+Rp40
 sS'year'
-p45
+p41
 V2007
-p46
+p42
 sS'agonists'
-p47
+p43
 g3
-((lp48
-S"(44, u'\\\\bflesinoxan')"
-p49
-aS"(27, u'\\\\bclozapine')"
-p50
-atp51
-Rp52
+((lp44
+S"(23, u'\\\\bclozapine')"
+p45
+aS"(39, u'\\\\bflesinoxan')"
+p46
+atp47
+Rp48
 sS'species'
-p53
+p49
 g3
-((lp54
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp50
+S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+p51
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p52
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p53
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p54
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p55
-aS"(5176, u'(?i)(tegs|teg)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p56
-aS"(2568, u'(?i)(hens|hen)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(4979, u'(?i)(cats|cat)')"
-p59
-aS"(6391, u'(?i)(asses|ass)')"
-p60
-aS"(3051, u'(?i)(pigs|pig)')"
-p61
-aS"(468, u'(?i)(oxen|ox)')"
-p62
-aS"(1055, u'(?i)(men|man)')"
-p63
-aS"(4371, u'(?i)(lizas|liza)')"
-p64
-aS"(3062, u'(?i)(guineas|guinea)')"
-p65
-aS"(853, u'(?i)(minas|mina)')"
-p66
-aS"(5958, u'(?i)(rats|rat)')"
-p67
-aS"(1057, u'(?i)(humans|human)')"
-p68
-aS"(1961, u'(?i)(pens|pen)')"
-p69
-aS"(1414, u'(?i)(chars|char)')"
-p70
-aS"(3196, u'(?i)(human|humans)')"
-p71
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p72
-aS"(3812, u'(?i)(studs|stud)')"
-p73
-aS"(6249, u'(?i)(ants|ant)')"
-p74
-atp75
-Rp76
+atp57
+Rp58
 sb.

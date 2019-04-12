@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(61, u'\\\\bmdl ?100907')"
+S"(99, u'\\\\bsb ?242084')"
 p5
-aS"(110, u'\\\\bsb ?242084')"
+aS"(52, u'\\\\bmdl ?100907')"
 p6
 atp7
 Rp8
@@ -44,82 +44,52 @@ sS'receptors'
 p24
 g3
 ((lp25
-S'5ht5'
+S'5ht2c'
 p26
-aS'5ht2c'
-p27
 aS'5ht2a'
-p28
-atp29
-Rp30
+p27
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-S"(216, u'(?i)(strias|stria)(-|\\\\s+)?(terminali|terminalis)')"
+((lp31
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p32
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p33
-aS"(165, u'(?i)(preoptics|preoptic)(-|\\\\s+)?(areas|area)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p34
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
 p35
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
 p36
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'year'
-p40
+p39
 V2018
-p41
+p40
 sS'agonists'
-p42
+p41
 g3
-((lp43
-S"(172, u'\\\\bmk ?212')"
+((lp42
+S"(125, u'\\\\btcb ?2')"
+p43
+aS"(149, u'\\\\bmem')"
 p44
-aS"(132, u'\\\\btcb ?2')"
+aS"(166, u'\\\\bmk ?212')"
 p45
-aS"(155, u'\\\\bmem')"
-p46
-atp47
-Rp48
+atp46
+Rp47
 sS'species'
-p49
+p48
 g3
-((lp50
-S"(6753, u'(?i)(da|das)')"
+((lp49
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
 p51
-aS"(2568, u'(?i)(hens|hen)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(7609, u'(?i)(erns|ern)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(6682, u'(?i)(tera|teras)')"
-p57
-aS"(1055, u'(?i)(men|man)')"
-p58
-aS"(3726, u'(?i)(mates|mate)')"
-p59
-aS"(853, u'(?i)(minas|mina)')"
-p60
-aS"(5958, u'(?i)(rats|rat)')"
-p61
-aS"(1961, u'(?i)(pens|pen)')"
-p62
-aS"(3722, u'(?i)(pups|pup)')"
-p63
-aS"(6391, u'(?i)(asses|ass)')"
-p64
-aS"(1683, u'(?i)(terns|tern)')"
-p65
-aS"(7552, u'(?i)(bats|bat)')"
-p66
-atp67
-Rp68
+atp52
+Rp53
 sb.

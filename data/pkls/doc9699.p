@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(55, u'\\\\bnefazodone')"
+S"(49, u'\\\\bnefazodone')"
 p5
 atp6
 Rp7
@@ -48,9 +48,9 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(193, u'\\\\bethanol')"
+S"(56, u'\\\\bnefazodone')"
 p30
-aS"(63, u'\\\\bnefazodone')"
+aS"(189, u'\\\\bethanol')"
 p31
 atp32
 Rp33
@@ -58,24 +58,10 @@ sS'species'
 p34
 g3
 ((lp35
-S"(2568, u'(?i)(hens|hen)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(5967, u'(?i)(males|male)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(949, u'(?i)(cohoes|coho)')"
-p42
-aS"(1961, u'(?i)(pens|pen)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-atp45
-Rp46
+atp38
+Rp39
 sb.

@@ -8,104 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(126, u'\\\\bcinanserin')"
+aS"(115, u'\\\\bcinanserin')"
 p6
-aS"(135, u'\\\\bondansetron')"
-p7
-aS"(128, u'\\\\bketanserin')"
-p8
 aS"(21, u'\\\\bpindolol')"
-p9
-atp10
-Rp11
+p7
+aS"(117, u'\\\\bketanserin')"
+p8
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
+p13
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
-tp20
-Rp21
+((lp18
+tp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
-S'5ht5'
-p24
-aS'5ht4'
-p25
+((lp22
+S'5ht4'
+p23
 aS'5ht3'
-p26
+p24
 aS'5ht2'
-p27
+p25
 aS'5ht1'
-p28
+p26
 aS'5ht2a'
-p29
+p27
 aS'5ht4a'
-p30
+p28
 aS'5ht4b'
-p31
+p29
 aS'5ht3a'
-p32
-atp33
-Rp34
+p30
+atp31
+Rp32
 sS'regions'
+p33
+g3
+((lp34
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p35
-g3
-((lp36
-S"(220, u'(?i)(striatums|striatum)')"
-p37
-atp38
-Rp39
+atp36
+Rp37
 sS'year'
-p40
+p38
 V1995
-p41
+p39
 sS'agonists'
+p40
+g3
+((lp41
+S"(197, u'\\\\bbimu ?8')"
 p42
-g3
-((lp43
-S"(201, u'\\\\bbimu ?8')"
-p44
-atp45
-Rp46
+atp43
+Rp44
 sS'species'
-p47
+p45
 g3
-((lp48
-S"(6753, u'(?i)(da|das)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6215, u'(?i)(racers|racer)')"
-p54
-aS"(4964, u'(?i)(serins|serin)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(5743, u'(?i)(bots|bot)')"
-p59
-atp60
-Rp61
+((lp46
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p47
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

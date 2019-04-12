@@ -40,50 +40,30 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V2003
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
+((lp30
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p31
+aS"(219, u'\\\\b5 ?ct')"
 p32
-aS"(5, u'\\\\b5 ?ct')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(1070, u'(?i)(pets|pet)')"
+((lp36
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+p37
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(4624, u'(?i)(apes|ape)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(867, u'(?i)(tits|tit)')"
-p41
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(3404, u'(?i)(titis|titi)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(3522, u'(?i)(tetras|tetra)')"
-p47
-aS"(5949, u'(?i)(dogs|dog)')"
-p48
-atp49
-Rp50
+atp39
+Rp40
 sb.

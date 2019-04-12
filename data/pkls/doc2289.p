@@ -58,34 +58,14 @@ sS'species'
 p34
 g3
 ((lp35
-S"(2323, u'(?i)(bees|bee)')"
+S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
 p37
-aS"(6753, u'(?i)(da|das)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p38
-aS"(479, u'(?i)(lings|ling)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p39
-aS"(3051, u'(?i)(pigs|pig)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3062, u'(?i)(guineas|guinea)')"
-p43
-aS"(6744, u'(?i)(maras|mara)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p48
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p49
-atp50
-Rp51
+atp40
+Rp41
 sb.

@@ -34,58 +34,26 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p22
-aS"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'year'
-p26
+p25
 V2007
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(4624, u'(?i)(apes|ape)')"
-p34
-aS"(5537, u'(?i)(hippos|hippo)')"
-p35
-aS"(6753, u'(?i)(da|das)')"
-p36
-aS"(2568, u'(?i)(hens|hen)')"
-p37
-aS"(163, u'(?i)(mice|mouse)')"
-p38
-aS"(479, u'(?i)(lings|ling)')"
-p39
-aS"(5227, u'(?i)(capons|capon)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(5131, u'(?i)(hags|hag)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(3522, u'(?i)(tetras|tetra)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-atp50
-Rp51
+((lp32
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p33
+atp34
+Rp35
 sb.

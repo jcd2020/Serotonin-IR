@@ -8,98 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(105, u'\\\\bmethysergide')"
+S"(194, u'\\\\bmethysergide')"
 p5
 aS"(6, u'\\\\bcyproheptadine')"
 p6
-aS"(54, u'\\\\britanserin')"
+aS"(53, u'\\\\bcyproheptadine')"
 p7
-aS"(130, u'\\\\britanserin')"
+aS"(119, u'\\\\britanserin')"
 p8
-aS"(62, u'\\\\bcyproheptadine')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
+p13
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
-tp20
-Rp21
+((lp18
+tp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht1b'
-p24
+p23
 aS'5ht1a'
-p25
+p24
 aS'5ht2b'
-p26
+p25
 aS'5ht2'
-p27
+p26
 aS'5ht2a'
-p28
-atp29
-Rp30
+p27
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'year'
-p35
+p34
 V1988
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(74, u'\\\\bru ?24969')"
+((lp37
+S"(53, u'\\\\bmethysergide')"
+p38
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p39
-aS"(5, u'\\\\b5 ?ct')"
+aS"(67, u'\\\\bru ?24969')"
 p40
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(219, u'\\\\b5 ?ct')"
 p41
-aS"(60, u'\\\\bmethysergide')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(6753, u'(?i)(da|das)')"
-p47
-aS"(2568, u'(?i)(hens|hen)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(7094, u'(?i)(curs|cur)')"
-p52
-aS"(5150, u'(?i)(gerbils|gerbil)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(3522, u'(?i)(tetras|tetra)')"
-p55
-aS"(4964, u'(?i)(serins|serin)')"
-p56
-atp57
-Rp58
+((lp45
+S"(5150, u'(?i)\\\\b(gerbils|gerbil)\\\\b')"
+p46
+atp47
+Rp48
 sb.

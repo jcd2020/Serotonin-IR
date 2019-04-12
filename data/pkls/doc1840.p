@@ -8,116 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(17, u'\\\\bnan ?190')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(31, u'\\\\bway ?100635')"
 p6
-aS"(130, u'\\\\britanserin')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(17, u'\\\\bnan ?190')"
+aS"(104, u'\\\\bimipramine')"
 p8
-aS"(128, u'\\\\bketanserin')"
+aS"(119, u'\\\\britanserin')"
 p9
-aS"(67, u'\\\\bhaloperidol')"
+aS"(33, u'\\\\byohimbine')"
 p10
-aS"(54, u'\\\\britanserin')"
+aS"(91, u'\\\\bfluoxetine')"
 p11
-aS"(102, u'\\\\bfluoxetine')"
+aS"(58, u'\\\\bhaloperidol')"
 p12
-aS"(34, u'\\\\byohimbine')"
-p13
-aS"(114, u'\\\\bimipramine')"
-p14
-atp15
-Rp16
+atp13
+Rp14
 sS'methods'
-p17
+p15
 g3
-((lp18
+((lp16
 S'Method.ANTAGONIST'
-p19
-atp20
-Rp21
+p17
+atp18
+Rp19
 sS'topics'
-p22
+p20
 g3
-((lp23
-tp24
-Rp25
+((lp21
+tp22
+Rp23
 sS'receptors'
-p26
+p24
 g3
-((lp27
+((lp25
 S'5ht1a'
-p28
+p26
 aS'5ht2c'
-p29
+p27
 aS'5ht2a'
-p30
-atp31
-Rp32
+p28
+atp29
+Rp30
 sS'regions'
-p33
+p31
 g3
-((lp34
-tp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'year'
-p37
+p35
 V2009
-p38
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(210, u'\\\\bsulpiride')"
 p39
-g3
-((lp40
-S"(89, u'\\\\byohimbine')"
+aS"(82, u'\\\\byohimbine')"
+p40
+aS"(43, u'\\\\bhaloperidol')"
 p41
-aS"(48, u'\\\\bhaloperidol')"
-p42
-aS"(214, u'\\\\bsulpiride')"
-p43
-atp44
-Rp45
+atp42
+Rp43
 sS'species'
-p46
+p44
 g3
-((lp47
-S"(6753, u'(?i)(da|das)')"
+((lp45
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p46
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p47
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p48
-aS"(2568, u'(?i)(hens|hen)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(163, u'(?i)(mice|mouse)')"
-p52
-aS"(6391, u'(?i)(asses|ass)')"
-p53
-aS"(6682, u'(?i)(tera|teras)')"
-p54
-aS"(468, u'(?i)(oxen|ox)')"
-p55
-aS"(1349, u'(?i)(rams|ram)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(1055, u'(?i)(men|man)')"
-p58
-aS"(4964, u'(?i)(serins|serin)')"
-p59
-aS"(3550, u'(?i)(anis|ani)')"
-p60
-aS"(1057, u'(?i)(humans|human)')"
-p61
-aS"(1961, u'(?i)(pens|pen)')"
-p62
-aS"(3812, u'(?i)(studs|stud)')"
-p63
-aS"(3196, u'(?i)(human|humans)')"
-p64
-aS"(4979, u'(?i)(cats|cat)')"
-p65
-atp66
-Rp67
+atp49
+Rp50
 sb.

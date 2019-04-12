@@ -26,52 +26,30 @@ sS'receptors'
 p15
 g3
 ((lp16
-S'5ht5'
-p17
-atp18
-Rp19
+tp17
+Rp18
 sS'regions'
-p20
+p19
 g3
-((lp21
-S"(34, u'(?i)(pon|pons)')"
-p22
-atp23
-Rp24
+((lp20
+tp21
+Rp22
 sS'year'
-p25
+p23
 V2010
-p26
+p24
 sS'agonists'
-p27
+p25
 g3
-((lp28
-tp29
-Rp30
+((lp26
+tp27
+Rp28
 sS'species'
-p31
+p29
 g3
-((lp32
-S"(5799, u'(?i)(rodents|rodent)')"
-p33
-aS"(949, u'(?i)(cohoes|coho)')"
-p34
-aS"(6753, u'(?i)(da|das)')"
-p35
-aS"(1055, u'(?i)(men|man)')"
-p36
-aS"(6580, u'(?i)(dams|dam)')"
-p37
-aS"(6356, u'(?i)(ais|ai)')"
-p38
-aS"(3858, u'(?i)(cobs|cob)')"
-p39
-aS"(3550, u'(?i)(anis|ani)')"
-p40
-aS"(1961, u'(?i)(pens|pen)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-atp43
-Rp44
+((lp30
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p31
+atp32
+Rp33
 sb.

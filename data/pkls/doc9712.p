@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(59, u'\\\\bchlorpromazine')"
 p5
-aS"(100, u'\\\\beltoprazine')"
+aS"(89, u'\\\\beltoprazine')"
 p6
-aS"(68, u'\\\\bchlorpromazine')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
 atp8
 Rp9
@@ -58,13 +58,13 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(48, u'\\\\bhaloperidol')"
+S"(20, u'\\\\bbuspirone')"
 p35
-aS"(36, u'\\\\beltoprazine')"
+aS"(176, u'\\\\bdom')"
 p36
-aS"(181, u'\\\\bdom')"
+aS"(31, u'\\\\beltoprazine')"
 p37
-aS"(24, u'\\\\bbuspirone')"
+aS"(43, u'\\\\bhaloperidol')"
 p38
 atp39
 Rp40
@@ -72,42 +72,12 @@ sS'species'
 p41
 g3
 ((lp42
-S"(4624, u'(?i)(apes|ape)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p43
-aS"(6753, u'(?i)(da|das)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p44
-aS"(949, u'(?i)(cohoes|coho)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(163, u'(?i)(mice|mouse)')"
-p47
-aS"(6682, u'(?i)(tera|teras)')"
-p48
-aS"(5967, u'(?i)(males|male)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(853, u'(?i)(minas|mina)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(1553, u'(?i)(mews|mew)')"
-p55
-aS"(7094, u'(?i)(curs|cur)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(6115, u'(?i)(predators|predator)')"
-p58
-aS"(5743, u'(?i)(bots|bot)')"
-p59
-aS"(4979, u'(?i)(cats|cat)')"
-p60
-atp61
-Rp62
+atp46
+Rp47
 sb.

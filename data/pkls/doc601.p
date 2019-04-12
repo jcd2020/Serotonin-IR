@@ -26,62 +26,44 @@ sS'receptors'
 p15
 g3
 ((lp16
-S'5ht5'
+S'5ht2c'
 p17
-aS'5ht2c'
-p18
 aS'5ht2a'
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-tp24
-Rp25
+((lp22
+tp23
+Rp24
 sS'year'
-p26
+p25
 V1997
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(5967, u'(?i)(males|male)')"
+((lp32
+S"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
+p33
+aS"(2512, u'(?i)\\\\b(chickens|chicken)\\\\b')"
 p34
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(5743, u'(?i)(bots|bot)')"
+aS"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
 p36
-aS"(2327, u'(?i)(bovines|bovine)')"
+aS"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
 p37
-aS"(473, u'(?i)(rabbits|rabbit)')"
+aS"(2568, u'(?i)\\\\b(hens|hen)\\\\b')"
 p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(853, u'(?i)(minas|mina)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(2512, u'(?i)(chickens|chicken)')"
-p43
-aS"(7127, u'(?i)(monitors|monitor)')"
-p44
-aS"(5229, u'(?i)(moles|mole)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(709, u'(?i)(chicks|chick)')"
-p47
-atp48
-Rp49
+atp39
+Rp40
 sb.

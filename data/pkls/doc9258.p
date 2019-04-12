@@ -22,25 +22,25 @@ sS'topics'
 p12
 g3
 ((lp13
-S"(15, u'\\\\bschizophreni')"
+S"(37, u'\\\\baddict')"
 p14
-aS"(9, u'\\\\bdepress')"
+aS"(15, u'\\\\bschizophreni')"
 p15
-aS"(35, u'\\\\bstress')"
+aS"(9, u'\\\\bdepress')"
 p16
-aS"(19, u'\\\\bimpulsiv')"
+aS"(35, u'\\\\bstress')"
 p17
-aS"(10, u'\\\\banxiety')"
+aS"(19, u'\\\\bimpulsiv')"
 p18
-atp19
-Rp20
+aS"(10, u'\\\\banxiety')"
+p19
+atp20
+Rp21
 sS'receptors'
-p21
+p22
 g3
-((lp22
-S'5ht5'
-p23
-aS'5ht2a'
+((lp23
+S'5ht2a'
 p24
 atp25
 Rp26
@@ -58,7 +58,7 @@ sS'agonists'
 p33
 g3
 ((lp34
-S"(33, u'\\\\bdoi')"
+S"(175, u'\\\\bdoi')"
 p35
 atp36
 Rp37
@@ -66,30 +66,10 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2323, u'(?i)(bees|bee)')"
+S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p40
-aS"(2054, u'(?i)(heads|head)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(702, u'(?i)(genets|genet)')"
-p43
-aS"(163, u'(?i)(mice|mouse)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(1628, u'(?i)(cod|cod)')"
-p50
-aS"(5537, u'(?i)(hippos|hippo)')"
-p51
-atp52
-Rp53
+atp42
+Rp43
 sb.

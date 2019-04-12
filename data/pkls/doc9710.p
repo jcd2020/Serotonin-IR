@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(100, u'\\\\beltoprazine')"
+S"(21, u'\\\\bpindolol')"
 p5
-aS"(21, u'\\\\bpindolol')"
+aS"(203, u'\\\\btfmpp')"
 p6
-aS"(17, u'\\\\bnan ?190')"
+aS"(89, u'\\\\beltoprazine')"
 p7
-aS"(209, u'\\\\btfmpp')"
+aS"(17, u'\\\\bnan ?190')"
 p8
 aS"(22, u'\\\\bpropranolol')"
 p9
@@ -62,21 +62,21 @@ sS'agonists'
 p35
 g3
 ((lp36
-S"(74, u'\\\\bru ?24969')"
+S"(20, u'\\\\bbuspirone')"
 p37
-aS"(44, u'\\\\bflesinoxan')"
+aS"(39, u'\\\\bflesinoxan')"
 p38
-aS"(24, u'\\\\bbuspirone')"
+aS"(155, u'\\\\bmcpp')"
 p39
-aS"(183, u'\\\\btfmpp')"
+aS"(178, u'\\\\btfmpp')"
 p40
-aS"(161, u'\\\\bmcpp')"
+aS"(67, u'\\\\bru ?24969')"
 p41
-aS"(36, u'\\\\beltoprazine')"
+aS"(31, u'\\\\beltoprazine')"
 p42
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(45, u'\\\\bipsapirone')"
 p43
-aS"(50, u'\\\\bipsapirone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p44
 atp45
 Rp46
@@ -84,30 +84,8 @@ sS'species'
 p47
 g3
 ((lp48
-S"(2568, u'(?i)(hens|hen)')"
+S"(1312, u'(?i)\\\\b(pigeons|pigeon)\\\\b')"
 p49
-aS"(867, u'(?i)(tits|tit)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(3051, u'(?i)(pigs|pig)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(853, u'(?i)(minas|mina)')"
-p55
-aS"(5958, u'(?i)(rats|rat)')"
-p56
-aS"(3522, u'(?i)(tetras|tetra)')"
-p57
-aS"(4371, u'(?i)(lizas|liza)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-aS"(1312, u'(?i)(pigeons|pigeon)')"
-p60
-atp61
-Rp62
+atp50
+Rp51
 sb.

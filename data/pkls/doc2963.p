@@ -44,68 +44,52 @@ aS'5ht1'
 p24
 aS'5ht2a'
 p25
-aS'5ht5'
-p26
 aS'5ht3'
-p27
-atp28
-Rp29
+p26
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-atp33
-Rp34
+((lp30
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p31
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2005
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+((lp37
+S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+p38
+aS"(175, u'\\\\bdoi')"
 p39
-aS"(33, u'\\\\bdoi')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(2054, u'(?i)(heads|head)')"
+((lp43
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p44
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p45
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p46
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p47
-aS"(6682, u'(?i)(tera|teras)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p48
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p49
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p50
-aS"(1055, u'(?i)(men|man)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p51
-aS"(3062, u'(?i)(guineas|guinea)')"
-p52
-aS"(6753, u'(?i)(da|das)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(1057, u'(?i)(humans|human)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(3196, u'(?i)(human|humans)')"
-p57
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p58
-aS"(3426, u'(?i)(hares|hare)')"
-p59
-atp60
-Rp61
+atp52
+Rp53
 sb.

@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(140, u'\\\\brenzapride')"
+S"(129, u'\\\\brenzapride')"
 p5
-aS"(135, u'\\\\bondansetron')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
-aS"(102, u'\\\\bfluoxetine')"
+aS"(124, u'\\\\bondansetron')"
 p7
-aS"(136, u'\\\\btropisetron')"
+aS"(125, u'\\\\btropisetron')"
 p8
 atp9
 Rp10
@@ -62,11 +62,11 @@ sS'agonists'
 p35
 g3
 ((lp36
-S"(207, u'\\\\brenzapride')"
+S"(220, u'\\\\b5 ?methoxytryptamine')"
 p37
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(203, u'\\\\brenzapride')"
 p38
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p39
 atp40
 Rp41
@@ -74,30 +74,8 @@ sS'species'
 p42
 g3
 ((lp43
-S"(2670, u'(?i)(arabs|arab)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1349, u'(?i)(rams|ram)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(3550, u'(?i)(anis|ani)')"
-p52
-aS"(3522, u'(?i)(tetras|tetra)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(6878, u'(?i)(guans|guan)')"
-p55
-atp56
-Rp57
+atp45
+Rp46
 sb.

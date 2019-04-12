@@ -34,13 +34,13 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+S"(390, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)\\\\b')"
 p22
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
 p23
-aS"(396, u'(?i)(subventriculars|subventricular)(-|\\\\s+)?(zones|zone)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p24
-aS"(390, u'(?i)(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)')"
+aS"(396, u'(?i)\\\\b(subventriculars|subventricular)(-|\\\\s+)?(zones|zone)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,26 +58,12 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5799, u'(?i)(rodents|rodent)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p37
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(4091, u'(?i)(adults|adult)')"
-p40
-aS"(1686, u'(?i)(gibs|gib)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(7094, u'(?i)(curs|cur)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-atp46
-Rp47
+atp39
+Rp40
 sb.

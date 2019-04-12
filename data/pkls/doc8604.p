@@ -10,11 +10,11 @@ p3
 ((lp4
 S"(1, u'\\\\balprenolol')"
 p5
-aS"(34, u'\\\\byohimbine')"
-p6
 aS"(21, u'\\\\bpindolol')"
-p7
+p6
 aS"(4, u'\\\\bbmy ?7378')"
+p7
+aS"(33, u'\\\\byohimbine')"
 p8
 atp9
 Rp10
@@ -44,60 +44,40 @@ aS'5ht1a'
 p24
 aS'5ht3'
 p25
-aS'5ht5'
-p26
 aS'5ht2a'
-p27
-atp28
-Rp29
+p26
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'year'
-p34
+p33
 V1991
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(72, u'\\\\brauwolscine')"
+((lp36
+S"(65, u'\\\\brauwolscine')"
+p37
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p38
-aS"(89, u'\\\\byohimbine')"
+aS"(82, u'\\\\byohimbine')"
 p39
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(1688, u'(?i)(ounces|ounce)')"
+((lp43
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p44
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(163, u'(?i)(mice|mouse)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(6878, u'(?i)(guans|guan)')"
-p54
-aS"(7058, u'(?i)(does|doe)')"
-p55
-atp56
-Rp57
+atp46
+Rp47
 sb.

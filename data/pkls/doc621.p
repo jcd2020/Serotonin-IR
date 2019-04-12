@@ -36,66 +36,44 @@ S'5ht1a'
 p20
 aS'5ht2c'
 p21
-aS'5ht5'
-p22
 aS'5ht2'
-p23
+p22
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp27
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p33
+p31
 V1996
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(45, u'\\\\bipsapirone')"
 p35
-g3
-((lp36
-S"(161, u'\\\\bmcpp')"
+aS"(155, u'\\\\bmcpp')"
+p36
+aS"(175, u'\\\\bdoi')"
 p37
-aS"(50, u'\\\\bipsapirone')"
-p38
-aS"(33, u'\\\\bdoi')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(2568, u'(?i)(hens|hen)')"
-p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(5967, u'(?i)(males|male)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(3592, u'(?i)(ravens|raven)')"
-p49
-aS"(4462, u'(?i)(monals|monal)')"
-p50
-aS"(2334, u'(?i)(eels|eel)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(1414, u'(?i)(chars|char)')"
-p54
-atp55
-Rp56
+((lp41
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

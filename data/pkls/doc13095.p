@@ -50,11 +50,11 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(72, u'\\\\brauwolscine')"
+S"(65, u'\\\\brauwolscine')"
 p31
-aS"(103, u'\\\\bsumatriptan')"
+aS"(96, u'\\\\bsumatriptan')"
 p32
-aS"(155, u'\\\\bmem')"
+aS"(149, u'\\\\bmem')"
 p33
 atp34
 Rp35
@@ -62,50 +62,16 @@ sS'species'
 p36
 g3
 ((lp37
-S"(1349, u'(?i)(rams|ram)')"
+S"(4208, u'(?i)\\\\b(canines|canine)\\\\b')"
 p38
-aS"(4099, u'(?i)(hamsters|hamster)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p39
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p40
-aS"(3196, u'(?i)(human|humans)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(6391, u'(?i)(asses|ass)')"
-p43
-aS"(6878, u'(?i)(guans|guan)')"
-p44
-aS"(1070, u'(?i)(pets|pet)')"
-p45
-aS"(702, u'(?i)(genets|genet)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(3404, u'(?i)(titis|titi)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(1628, u'(?i)(cod|cod)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(867, u'(?i)(tits|tit)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(1057, u'(?i)(humans|human)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(1414, u'(?i)(chars|char)')"
-p57
-aS"(1054, u'(?i)(homoes|homo)')"
-p58
-aS"(4208, u'(?i)(canines|canine)')"
-p59
-atp60
-Rp61
+atp43
+Rp44
 sb.

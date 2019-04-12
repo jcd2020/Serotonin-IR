@@ -68,44 +68,24 @@ sS'regions'
 p37
 g3
 ((lp38
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p39
-aS"(34, u'(?i)(pon|pons)')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'year'
-p43
+p42
 V2016
-p44
+p43
 sS'agonists'
-p45
+p44
 g3
-((lp46
-tp47
-Rp48
+((lp45
+tp46
+Rp47
 sS'species'
-p49
+p48
 g3
-((lp50
-S"(4624, u'(?i)(apes|ape)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(3601, u'(?i)(efts|eft)')"
-p53
-aS"(6753, u'(?i)(da|das)')"
-p54
-aS"(468, u'(?i)(oxen|ox)')"
-p55
-aS"(2183, u'(?i)(gars|gar)')"
-p56
-aS"(4979, u'(?i)(cats|cat)')"
-p57
-aS"(6391, u'(?i)(asses|ass)')"
-p58
-aS"(2809, u'(?i)(toms|tom)')"
-p59
-atp60
-Rp61
+((lp49
+tp50
+Rp51
 sb.

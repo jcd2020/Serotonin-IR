@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(224, u'(?i)(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
 atp25
 Rp26
@@ -56,36 +56,12 @@ sS'species'
 p33
 g3
 ((lp34
-S"(6753, u'(?i)(da|das)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p35
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p36
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(4201, u'(?i)(kines|kine)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(3152, u'(?i)(layers|layer)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(3522, u'(?i)(tetras|tetra)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(6521, u'(?i)(macaques|macaque)')"
-p46
-aS"(6325, u'(?i)(caudates|caudate)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(1683, u'(?i)(terns|tern)')"
-p49
-atp50
-Rp51
+atp38
+Rp39
 sb.

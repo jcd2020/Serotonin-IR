@@ -8,19 +8,19 @@ c__builtin__
 set
 p3
 ((lp4
-S"(200, u'\\\\bmesulergine')"
+S"(133, u'\\\\bmianserin')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(203, u'\\\\btfmpp')"
 p6
-aS"(22, u'\\\\bpropranolol')"
+aS"(194, u'\\\\bmethysergide')"
 p7
-aS"(117, u'\\\\bmianserin')"
+aS"(115, u'\\\\bcinanserin')"
 p8
-aS"(209, u'\\\\btfmpp')"
+aS"(193, u'\\\\bmesulergine')"
 p9
-aS"(126, u'\\\\bcinanserin')"
+aS"(26, u'\\\\bspiperone')"
 p10
-aS"(27, u'\\\\bspiperone')"
+aS"(22, u'\\\\bpropranolol')"
 p11
 atp12
 Rp13
@@ -66,25 +66,25 @@ sS'agonists'
 p37
 g3
 ((lp38
-S"(74, u'\\\\bru ?24969')"
+S"(220, u'\\\\b5 ?methoxytryptamine')"
 p39
-aS"(29, u'\\\\bdihydroergotamine')"
+aS"(19, u'\\\\bbufotenin')"
 p40
-aS"(23, u'\\\\bbufotenin')"
+aS"(53, u'\\\\bmethysergide')"
 p41
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(149, u'\\\\bmem')"
 p42
-aS"(56, u'\\\\blsd')"
+aS"(165, u'\\\\bmesulergine')"
 p43
-aS"(83, u'\\\\btrifluoromethylphenylpiperazine')"
+aS"(76, u'\\\\btrifluoromethylphenylpiperazine')"
 p44
-aS"(183, u'\\\\btfmpp')"
+aS"(178, u'\\\\btfmpp')"
 p45
-aS"(60, u'\\\\bmethysergide')"
+aS"(158, u'\\\\blsd')"
 p46
-aS"(171, u'\\\\bmesulergine')"
+aS"(25, u'\\\\bdihydroergotamine')"
 p47
-aS"(155, u'\\\\bmem')"
+aS"(67, u'\\\\bru ?24969')"
 p48
 atp49
 Rp50
@@ -92,32 +92,8 @@ sS'species'
 p51
 g3
 ((lp52
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p53
-aS"(4163, u'(?i)(ermines|ermine)')"
-p54
-aS"(2568, u'(?i)(hens|hen)')"
-p55
-aS"(6753, u'(?i)(da|das)')"
-p56
-aS"(401, u'(?i)(bufos|bufo)')"
-p57
-aS"(468, u'(?i)(oxen|ox)')"
-p58
-aS"(7488, u'(?i)(molas|mola)')"
-p59
-aS"(6249, u'(?i)(ants|ant)')"
-p60
-aS"(6580, u'(?i)(dams|dam)')"
-p61
-aS"(4964, u'(?i)(serins|serin)')"
-p62
-aS"(5958, u'(?i)(rats|rat)')"
-p63
-aS"(3522, u'(?i)(tetras|tetra)')"
-p64
-aS"(6356, u'(?i)(ais|ai)')"
-p65
-atp66
-Rp67
+atp54
+Rp55
 sb.

@@ -44,58 +44,30 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(77, u'(?i)(cerebellars|cerebellar)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p27
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(77, u'(?i)\\\\b(cerebellars|cerebellar)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
-p32
+p31
 V2002
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-tp36
-Rp37
+((lp34
+tp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(5958, u'(?i)(rats|rat)')"
+((lp38
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p39
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(7609, u'(?i)(erns|ern)')"
-p41
-aS"(7610, u'(?i)(ernes|erne)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(5551, u'(?i)(owls|owl)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(3152, u'(?i)(layers|layer)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(5229, u'(?i)(moles|mole)')"
-p50
-aS"(4371, u'(?i)(lizas|liza)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(3431, u'(?i)(roans|roan)')"
-p53
-aS"(1683, u'(?i)(terns|tern)')"
-p54
-atp55
-Rp56
+atp41
+Rp42
 sb.

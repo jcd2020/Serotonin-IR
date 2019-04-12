@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(68, u'\\\\bchlorpromazine')"
+S"(59, u'\\\\bchlorpromazine')"
 p5
 atp6
 Rp7
@@ -42,46 +42,24 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'year'
-p29
+p28
 V1994
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-tp33
-Rp34
+((lp31
+tp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(6753, u'(?i)(da|das)')"
-p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(6356, u'(?i)(ais|ai)')"
-p39
-aS"(163, u'(?i)(mice|mouse)')"
-p40
-aS"(1725, u'(?i)(clams|clam)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(1961, u'(?i)(pens|pen)')"
-p44
-aS"(1414, u'(?i)(chars|char)')"
-p45
-aS"(2809, u'(?i)(toms|tom)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-atp48
-Rp49
+((lp35
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p36
+atp37
+Rp38
 sb.

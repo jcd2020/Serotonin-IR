@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(27, u'\\\\bspiperone')"
+S"(26, u'\\\\bspiperone')"
 p5
 aS"(14, u'\\\\bmethiothepin')"
 p6
@@ -50,17 +50,17 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(103, u'\\\\bsumatriptan')"
+S"(220, u'\\\\b5 ?methoxytryptamine')"
 p31
-aS"(181, u'\\\\bdom')"
+aS"(96, u'\\\\bsumatriptan')"
 p32
-aS"(5, u'\\\\b5 ?ct')"
+aS"(222, u'\\\\b5 ?meot')"
 p33
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(176, u'\\\\bdom')"
 p34
-aS"(225, u'\\\\b5 ?meot')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p35
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(219, u'\\\\b5 ?ct')"
 p36
 atp37
 Rp38
@@ -68,34 +68,14 @@ sS'species'
 p39
 g3
 ((lp40
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p42
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p43
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p44
-aS"(3062, u'(?i)(guineas|guinea)')"
-p45
-aS"(1054, u'(?i)(homoes|homo)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3522, u'(?i)(tetras|tetra)')"
-p49
-aS"(3426, u'(?i)(hares|hare)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p52
-aS"(1628, u'(?i)(cod|cod)')"
-p53
-aS"(7309, u'(?i)(gnats|gnat)')"
-p54
-atp55
-Rp56
+atp45
+Rp46
 sb.

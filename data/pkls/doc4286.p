@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(100, u'\\\\beltoprazine')"
+S"(89, u'\\\\beltoprazine')"
 p5
 atp6
 Rp7
@@ -48,7 +48,7 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p29
 atp30
 Rp31
@@ -60,7 +60,7 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(36, u'\\\\beltoprazine')"
+S"(31, u'\\\\beltoprazine')"
 p36
 atp37
 Rp38
@@ -68,50 +68,12 @@ sS'species'
 p39
 g3
 ((lp40
-S"(4624, u'(?i)(apes|ape)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(1961, u'(?i)(pens|pen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(5229, u'(?i)(moles|mole)')"
-p45
-aS"(3196, u'(?i)(human|humans)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-aS"(479, u'(?i)(lings|ling)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(4201, u'(?i)(kines|kine)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(6753, u'(?i)(da|das)')"
-p55
-aS"(1057, u'(?i)(humans|human)')"
-p56
-aS"(4371, u'(?i)(lizas|liza)')"
-p57
-aS"(2323, u'(?i)(bees|bee)')"
-p58
-aS"(2568, u'(?i)(hens|hen)')"
-p59
-aS"(4979, u'(?i)(cats|cat)')"
-p60
-aS"(7552, u'(?i)(bats|bat)')"
-p61
-aS"(5917, u'(?i)(roaches|roach)')"
-p62
-atp63
-Rp64
+atp44
+Rp45
 sb.

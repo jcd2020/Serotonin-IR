@@ -44,54 +44,32 @@ aS'5ht1d'
 p24
 aS'5ht7a'
 p25
-aS'5ht5'
-p26
 aS'5ht3'
-p27
+p26
 aS'5ht2c'
-p28
-atp29
-Rp30
+p27
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-S"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+((lp31
+tp32
+Rp33
 sS'year'
-p36
+p34
 V1996
-p37
+p35
 sS'agonists'
-p38
+p36
 g3
-((lp39
-tp40
-Rp41
+((lp37
+tp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(1628, u'(?i)(cod|cod)')"
-p52
-atp53
-Rp54
+((lp41
+tp42
+Rp43
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(203, u'\\\\btfmpp')"
 p5
 atp6
 Rp7
@@ -54,11 +54,11 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(83, u'\\\\btrifluoromethylphenylpiperazine')"
+S"(166, u'\\\\bmk ?212')"
 p33
-aS"(183, u'\\\\btfmpp')"
+aS"(76, u'\\\\btrifluoromethylphenylpiperazine')"
 p34
-aS"(172, u'\\\\bmk ?212')"
+aS"(178, u'\\\\btfmpp')"
 p35
 atp36
 Rp37
@@ -66,20 +66,8 @@ sS'species'
 p38
 g3
 ((lp39
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(5743, u'(?i)(bots|bot)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-atp47
-Rp48
+atp41
+Rp42
 sb.

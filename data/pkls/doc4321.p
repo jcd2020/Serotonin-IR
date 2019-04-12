@@ -28,70 +28,48 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
+S'5ht1a'
 p18
-aS'5ht1a'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(220, u'(?i)(striatums|striatum)')"
+((lp22
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p23
+aS"(169, u'(?i)\\\\b(dorsomedials|dorsomedial)(-|\\\\s+)?(hypothalamics|hypothalamic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
-aS"(169, u'(?i)(dorsomedials|dorsomedial)(-|\\\\s+)?(hypothalamics|hypothalamic)(-|\\\\s+)?(nuclei|nucleus)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V1997
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(24, u'\\\\bbuspirone')"
+((lp30
+S"(20, u'\\\\bbuspirone')"
+p31
+aS"(189, u'\\\\bethanol')"
 p32
-aS"(193, u'\\\\bethanol')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(3248, u'(?i)(offspring|offspring)')"
+((lp36
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p37
+aS"(6580, u'(?i)\\\\b(dams|dam)\\\\b')"
 p38
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
 p39
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(3726, u'(?i)(mates|mate)')"
-p44
-aS"(6580, u'(?i)(dams|dam)')"
-p45
-aS"(6753, u'(?i)(da|das)')"
-p46
-aS"(949, u'(?i)(cohoes|coho)')"
-p47
-aS"(7058, u'(?i)(does|doe)')"
-p48
-aS"(1291, u'(?i)(ratels|ratel)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(1683, u'(?i)(terns|tern)')"
-p52
-atp53
-Rp54
+atp42
+Rp43
 sb.

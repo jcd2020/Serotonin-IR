@@ -8,104 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(27, u'\\\\bspiperone')"
+aS"(193, u'\\\\bmesulergine')"
 p7
-aS"(200, u'\\\\bmesulergine')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.STAINING'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht1c'
-p22
+p21
 aS'5ht1b'
-p23
+p22
 aS'5ht5'
-p24
+p23
 aS'5ht1a'
-p25
+p24
 aS'5ht2'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(220, u'(?i)(striatums|striatum)')"
+((lp29
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p30
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p31
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p32
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'year'
-p36
+p35
 V1991
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp38
+S"(165, u'\\\\bmesulergine')"
+p39
+aS"(149, u'\\\\bmem')"
 p40
-aS"(155, u'\\\\bmem')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p41
-aS"(171, u'\\\\bmesulergine')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(1070, u'(?i)(pets|pet)')"
-p47
-aS"(5537, u'(?i)(hippos|hippo)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(3522, u'(?i)(tetras|tetra)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(6391, u'(?i)(asses|ass)')"
-p58
-aS"(1628, u'(?i)(cod|cod)')"
-p59
-atp60
-Rp61
+((lp45
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+p46
+atp47
+Rp48
 sb.

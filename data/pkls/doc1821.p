@@ -40,58 +40,24 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
-p28
+p27
 V1998
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(196, u'\\\\bquipazine')"
-p32
-atp33
-Rp34
+((lp30
+S"(192, u'\\\\bquipazine')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(6249, u'(?i)(ants|ant)')"
-p37
-aS"(867, u'(?i)(tits|tit)')"
-p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(1928, u'(?i)(bears|bear)')"
-p40
-aS"(6682, u'(?i)(tera|teras)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(7488, u'(?i)(molas|mola)')"
-p43
-aS"(3726, u'(?i)(mates|mate)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(5229, u'(?i)(moles|mole)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(1414, u'(?i)(chars|char)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(6878, u'(?i)(guans|guan)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+((lp35
+tp36
+Rp37
 sb.

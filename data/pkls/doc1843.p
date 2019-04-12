@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -56,16 +56,6 @@ sS'species'
 p33
 g3
 ((lp34
-S"(6356, u'(?i)(ais|ai)')"
-p35
-aS"(3550, u'(?i)(anis|ani)')"
-p36
-aS"(1055, u'(?i)(men|man)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(1961, u'(?i)(pens|pen)')"
-p39
-atp40
-Rp41
+tp35
+Rp36
 sb.

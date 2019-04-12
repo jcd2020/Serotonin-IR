@@ -32,50 +32,36 @@ g3
 ((lp18
 S'5ht1a'
 p19
-aS'5ht5'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-tp25
-Rp26
+((lp23
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2002
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(14, u'\\\\bamphetamine')"
+((lp29
+S"(11, u'\\\\bamphetamine')"
+p30
+aS"(90, u'\\\\bmkc ?242')"
 p31
-aS"(97, u'\\\\bmkc ?242')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(6753, u'(?i)(da|das)')"
+((lp35
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p36
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(5743, u'(?i)(bots|bot)')"
-p41
-aS"(3522, u'(?i)(tetras|tetra)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-atp45
-Rp46
+atp38
+Rp39
 sb.

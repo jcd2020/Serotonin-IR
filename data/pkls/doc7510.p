@@ -52,20 +52,8 @@ sS'species'
 p31
 g3
 ((lp32
-S"(6249, u'(?i)(ants|ant)')"
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p33
-aS"(6753, u'(?i)(da|das)')"
-p34
-aS"(5967, u'(?i)(males|male)')"
-p35
-aS"(1055, u'(?i)(men|man)')"
-p36
-aS"(6356, u'(?i)(ais|ai)')"
-p37
-aS"(3812, u'(?i)(studs|stud)')"
-p38
-aS"(6391, u'(?i)(asses|ass)')"
-p39
-atp40
-Rp41
+atp34
+Rp35
 sb.

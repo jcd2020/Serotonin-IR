@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(223, u'(?i)(putamens|putamen)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p24
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,46 +58,14 @@ sS'species'
 p34
 g3
 ((lp35
-S"(2323, u'(?i)(bees|bee)')"
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p36
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p37
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(3503, u'(?i)\\\\b(fishers|fisher)\\\\b')"
 p38
-aS"(4657, u'(?i)(fish|fish)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p39
-aS"(702, u'(?i)(genets|genet)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(479, u'(?i)(lings|ling)')"
-p42
-aS"(81, u'(?i)(asps|asp)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(3503, u'(?i)(fishers|fisher)')"
-p46
-aS"(1054, u'(?i)(homoes|homo)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(1057, u'(?i)(humans|human)')"
-p49
-aS"(5229, u'(?i)(moles|mole)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(3196, u'(?i)(human|humans)')"
-p53
-aS"(2809, u'(?i)(toms|tom)')"
-p54
-aS"(6325, u'(?i)(caudates|caudate)')"
-p55
-atp56
-Rp57
+atp40
+Rp41
 sb.

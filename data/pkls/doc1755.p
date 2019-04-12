@@ -8,108 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(52, u'\\\\bmetergoline')"
+S"(34, u'\\\\bmetergoline')"
 p5
 aS"(9, u'\\\\bgr ?46611')"
 p6
-aS"(35, u'\\\\bmetergoline')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(16, u'\\\\bfeed')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1b'
-p23
+p22
 aS'5ht2'
-p24
+p23
 aS'5ht1'
-p25
+p24
 aS'5ht1d'
-p26
-atp27
-Rp28
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(209, u'(?i)(amygdalas|amygdala)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+((lp29
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p35
+p33
 V2009
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(112, u'\\\\bgr ?46611')"
 p37
-g3
-((lp38
-S"(119, u'\\\\bgr ?46611')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(6249, u'(?i)(ants|ant)')"
+((lp41
+S"(1861, u'(?i)\\\\b(amniotes|amniote)\\\\b')"
+p42
+aS"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p43
+aS"(6356, u'(?i)\\\\b(ais|ai)\\\\b')"
 p44
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(6666, u'(?i)\\\\b(columbas|columba)(-|\\\\s+)?(livias|livia)\\\\b')"
 p45
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(1312, u'(?i)\\\\b(pigeons|pigeon)\\\\b')"
 p46
-aS"(331, u'(?i)(taenias|taenia)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(479, u'(?i)(lings|ling)')"
-p50
-aS"(3051, u'(?i)(pigs|pig)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(1861, u'(?i)(amniotes|amniote)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(5131, u'(?i)(hags|hag)')"
-p56
-aS"(6666, u'(?i)(columbas|columba)(-|\\\\s+)?(livias|livia)')"
-p57
-aS"(3812, u'(?i)(studs|stud)')"
-p58
-aS"(391, u'(?i)(alli|allis)')"
-p59
-aS"(1312, u'(?i)(pigeons|pigeon)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-atp62
-Rp63
+atp47
+Rp48
 sb.

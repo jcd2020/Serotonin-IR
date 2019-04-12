@@ -34,7 +34,7 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
+S"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p22
 atp23
 Rp24
@@ -52,22 +52,8 @@ sS'species'
 p31
 g3
 ((lp32
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
 p33
-aS"(6249, u'(?i)(ants|ant)')"
-p34
-aS"(4979, u'(?i)(cats|cat)')"
-p35
-aS"(853, u'(?i)(minas|mina)')"
-p36
-aS"(6356, u'(?i)(ais|ai)')"
-p37
-aS"(6391, u'(?i)(asses|ass)')"
-p38
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p39
-aS"(5783, u'(?i)(hinds|hind)')"
-p40
-atp41
-Rp42
+atp34
+Rp35
 sb.

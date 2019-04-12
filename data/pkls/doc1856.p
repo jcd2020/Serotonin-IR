@@ -38,46 +38,22 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2018
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(4624, u'(?i)(apes|ape)')"
-p35
-aS"(6249, u'(?i)(ants|ant)')"
-p36
-aS"(7609, u'(?i)(erns|ern)')"
-p37
-aS"(6682, u'(?i)(tera|teras)')"
-p38
-aS"(5035, u'(?i)(harts|hart)')"
-p39
-aS"(2183, u'(?i)(gars|gar)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(853, u'(?i)(minas|mina)')"
-p42
-aS"(3550, u'(?i)(anis|ani)')"
-p43
-aS"(3812, u'(?i)(studs|stud)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-atp46
-Rp47
+((lp33
+tp34
+Rp35
 sb.

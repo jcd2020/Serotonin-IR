@@ -8,112 +8,82 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(27, u'\\\\bspiperone')"
+aS"(76, u'\\\\blisuride')"
 p6
-aS"(130, u'\\\\britanserin')"
+aS"(119, u'\\\\britanserin')"
 p7
-aS"(85, u'\\\\blisuride')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(15, u'\\\\bschizophreni')"
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht2'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
-p30
-atp31
-Rp32
+((lp28
+S"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p33
+p32
 V2000
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(56, u'\\\\blsd')"
+((lp35
+S"(137, u'\\\\blisuride')"
+p36
+aS"(175, u'\\\\bdoi')"
 p37
-aS"(181, u'\\\\bdom')"
+aS"(157, u'\\\\bdmt')"
 p38
-aS"(163, u'\\\\bdmt')"
+aS"(176, u'\\\\bdom')"
 p39
-aS"(52, u'\\\\blisuride')"
+aS"(158, u'\\\\blsd')"
 p40
-aS"(33, u'\\\\bdoi')"
-p41
-atp42
-Rp43
+atp41
+Rp42
 sS'species'
-p44
+p43
 g3
-((lp45
-S"(2323, u'(?i)(bees|bee)')"
+((lp44
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p45
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p46
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p47
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p48
-aS"(7609, u'(?i)(erns|ern)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(4964, u'(?i)(serins|serin)')"
-p51
-aS"(4163, u'(?i)(ermines|ermine)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(3726, u'(?i)(mates|mate)')"
-p56
-aS"(853, u'(?i)(minas|mina)')"
-p57
-aS"(3550, u'(?i)(anis|ani)')"
-p58
-aS"(1057, u'(?i)(humans|human)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-aS"(3196, u'(?i)(human|humans)')"
-p61
-aS"(7610, u'(?i)(ernes|erne)')"
-p62
-aS"(1683, u'(?i)(terns|tern)')"
-p63
-atp64
-Rp65
+atp49
+Rp50
 sb.

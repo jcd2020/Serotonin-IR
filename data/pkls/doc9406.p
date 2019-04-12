@@ -30,52 +30,34 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht2a'
 p19
-aS'5ht2a'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-tp25
-Rp26
+((lp23
+tp24
+Rp25
 sS'year'
-p27
+p26
 V1995
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(2323, u'(?i)(bees|bee)')"
+((lp33
+S"(2512, u'(?i)\\\\b(chickens|chicken)\\\\b')"
+p34
+aS"(1266, u'(?i)\\\\b(embryos|embryo)\\\\b')"
 p35
-aS"(6249, u'(?i)(ants|ant)')"
-p36
-aS"(7609, u'(?i)(erns|ern)')"
-p37
-aS"(1266, u'(?i)(embryos|embryo)')"
-p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(3550, u'(?i)(anis|ani)')"
-p40
-aS"(2512, u'(?i)(chickens|chicken)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(709, u'(?i)(chicks|chick)')"
-p43
-aS"(1683, u'(?i)(terns|tern)')"
-p44
-atp45
-Rp46
+atp36
+Rp37
 sb.

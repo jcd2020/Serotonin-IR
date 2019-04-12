@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(44, u'\\\\bvortioxetine')"
+S"(42, u'\\\\bvortioxetine')"
 p5
 atp6
 Rp7
@@ -40,68 +40,36 @@ S'5ht7'
 p22
 aS'5ht1b'
 p23
-aS'5ht5'
+aS'5ht1a'
 p24
 aS'5ht3a'
 p25
 aS'5ht1d'
 p26
-aS'5ht1a'
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+tp31
+Rp32
 sS'year'
-p34
+p33
 V2014
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(101, u'\\\\bvortioxetine')"
-p38
-atp39
-Rp40
+((lp36
+S"(94, u'\\\\bvortioxetine')"
+p37
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(2323, u'(?i)(bees|bee)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(5229, u'(?i)(moles|mole)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(1686, u'(?i)(gibs|gib)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(3726, u'(?i)(mates|mate)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(3191, u'(?i)(worlds|world)')"
-p54
-aS"(1414, u'(?i)(chars|char)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+((lp41
+tp42
+Rp43
 sb.

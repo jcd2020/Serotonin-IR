@@ -54,20 +54,6 @@ sS'species'
 p32
 g3
 ((lp33
-S"(1688, u'(?i)(ounces|ounce)')"
-p34
-aS"(6249, u'(?i)(ants|ant)')"
-p35
-aS"(1055, u'(?i)(men|man)')"
-p36
-aS"(4462, u'(?i)(monals|monal)')"
-p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(6356, u'(?i)(ais|ai)')"
-p39
-aS"(6391, u'(?i)(asses|ass)')"
-p40
-atp41
-Rp42
+tp34
+Rp35
 sb.

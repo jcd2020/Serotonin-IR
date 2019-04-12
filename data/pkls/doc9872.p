@@ -8,110 +8,90 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(84, u'\\\\bsb ?206553')"
 p5
 aS"(14, u'\\\\bmethiothepin')"
 p6
-aS"(105, u'\\\\bmethysergide')"
+aS"(38, u'\\\\bsb ?224289')"
 p7
-aS"(128, u'\\\\bketanserin')"
+aS"(83, u'\\\\bsb ?204741')"
 p8
-aS"(94, u'\\\\bsb ?204741')"
+aS"(198, u'\\\\bsb ?269970')"
 p9
-aS"(204, u'\\\\bsb ?269970')"
+aS"(117, u'\\\\bketanserin')"
 p10
-aS"(39, u'\\\\bsb ?224289')"
+aS"(194, u'\\\\bmethysergide')"
 p11
-aS"(95, u'\\\\bsb ?206553')"
-p12
-atp13
-Rp14
+atp12
+Rp13
 sS'methods'
-p15
+p14
 g3
-((lp16
+((lp15
 S'Method.ANTAGONIST'
-p17
+p16
 aS'Method.AGONIST'
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'topics'
-p21
+p20
 g3
-((lp22
-tp23
-Rp24
+((lp21
+tp22
+Rp23
 sS'receptors'
-p25
+p24
 g3
-((lp26
+((lp25
 S'5ht7'
-p27
+p26
 aS'5ht1b'
-p28
-aS'5ht5'
-p29
-aS'5ht4'
-p30
-aS'5ht2b'
-p31
+p27
 aS'5ht1a'
-p32
+p28
+aS'5ht4'
+p29
+aS'5ht2b'
+p30
+aS'5ht5'
+p31
 aS'5ht5b'
-p33
+p32
 aS'5ht5a'
-p34
-atp35
-Rp36
+p33
+atp34
+Rp35
 sS'regions'
-p37
+p36
 g3
-((lp38
-S"(34, u'(?i)(pon|pons)')"
-p39
-atp40
-Rp41
+((lp37
+tp38
+Rp39
 sS'year'
-p42
+p40
 V2007
-p43
+p41
 sS'agonists'
+p42
+g3
+((lp43
+S"(96, u'\\\\bsumatriptan')"
 p44
-g3
-((lp45
-S"(103, u'\\\\bsumatriptan')"
+aS"(140, u'\\\\bbw ?723c86')"
+p45
+aS"(53, u'\\\\bmethysergide')"
 p46
-aS"(107, u'\\\\bcp ?93129')"
+aS"(100, u'\\\\bcp ?93129')"
 p47
-aS"(60, u'\\\\bmethysergide')"
-p48
-aS"(146, u'\\\\bbw ?723c86')"
-p49
-atp50
-Rp51
+atp48
+Rp49
 sS'species'
-p52
+p50
 g3
-((lp53
-S"(2568, u'(?i)(hens|hen)')"
-p54
-aS"(6753, u'(?i)(da|das)')"
-p55
-aS"(468, u'(?i)(oxen|ox)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(4964, u'(?i)(serins|serin)')"
-p58
-aS"(5958, u'(?i)(rats|rat)')"
-p59
-aS"(3522, u'(?i)(tetras|tetra)')"
-p60
-aS"(1961, u'(?i)(pens|pen)')"
-p61
-aS"(3812, u'(?i)(studs|stud)')"
-p62
-atp63
-Rp64
+((lp51
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

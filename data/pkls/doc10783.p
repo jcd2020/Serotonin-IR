@@ -8,116 +8,92 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(112, u'\\\\bquetiapine')"
 p5
-aS"(211, u'\\\\bzotepine')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(207, u'\\\\bsertindole')"
+aS"(114, u'\\\\bziprasidone')"
 p7
-aS"(123, u'\\\\bclozapine')"
+aS"(195, u'\\\\bpimozide')"
 p8
-aS"(56, u'\\\\bclozapine')"
+aS"(113, u'\\\\brisperidone')"
 p9
-aS"(57, u'\\\\bolanzapine')"
+aS"(50, u'\\\\bquetiapine')"
 p10
-aS"(41, u'\\\\bziprasidone')"
+aS"(111, u'\\\\bolanzapine')"
 p11
-aS"(188, u'\\\\bsertindole')"
+aS"(201, u'\\\\bsertindole')"
 p12
-aS"(124, u'\\\\bolanzapine')"
+aS"(205, u'\\\\bzotepine')"
 p13
-aS"(125, u'\\\\bquetiapine')"
+aS"(180, u'\\\\bsertindole')"
 p14
-aS"(59, u'\\\\brisperidone')"
+aS"(58, u'\\\\bhaloperidol')"
 p15
-aS"(201, u'\\\\bpimozide')"
-p16
-aS"(67, u'\\\\bhaloperidol')"
-p17
-aS"(58, u'\\\\bquetiapine')"
-p18
-atp19
-Rp20
+atp16
+Rp17
 sS'methods'
-p21
+p18
 g3
-((lp22
-tp23
-Rp24
+((lp19
+tp20
+Rp21
 sS'topics'
-p25
+p22
 g3
-((lp26
-tp27
-Rp28
+((lp23
+tp24
+Rp25
 sS'receptors'
-p29
+p26
 g3
-((lp30
+((lp27
 S'5ht5'
-p31
+p28
 aS'5ht2a'
-p32
+p29
 aS'5ht2c'
-p33
+p30
 aS'5ht1a'
-p34
+p31
 aS'5ht1d'
-p35
-atp36
-Rp37
+p32
+atp33
+Rp34
 sS'regions'
-p38
+p35
 g3
-((lp39
-tp40
-Rp41
+((lp36
+tp37
+Rp38
 sS'year'
-p42
+p39
 V2000
-p43
+p40
 sS'agonists'
+p41
+g3
+((lp42
+S"(64, u'\\\\bquetiapine')"
+p43
+aS"(57, u'\\\\bolanzapine')"
 p44
-g3
-((lp45
-S"(71, u'\\\\bquetiapine')"
+aS"(23, u'\\\\bclozapine')"
+p45
+aS"(84, u'\\\\bziprasidone')"
 p46
-aS"(64, u'\\\\bolanzapine')"
+aS"(43, u'\\\\bhaloperidol')"
 p47
-aS"(48, u'\\\\bhaloperidol')"
-p48
-aS"(91, u'\\\\bziprasidone')"
-p49
-aS"(27, u'\\\\bclozapine')"
-p50
-atp51
-Rp52
+atp48
+Rp49
 sS'species'
-p53
+p50
 g3
-((lp54
-S"(4624, u'(?i)(apes|ape)')"
-p55
-aS"(5958, u'(?i)(rats|rat)')"
-p56
-aS"(6682, u'(?i)(tera|teras)')"
-p57
-aS"(1055, u'(?i)(men|man)')"
-p58
-aS"(6753, u'(?i)(da|das)')"
-p59
-aS"(6249, u'(?i)(ants|ant)')"
-p60
-aS"(1057, u'(?i)(humans|human)')"
-p61
-aS"(6391, u'(?i)(asses|ass)')"
-p62
-aS"(6356, u'(?i)(ais|ai)')"
-p63
-aS"(3196, u'(?i)(human|humans)')"
-p64
-aS"(5674, u'(?i)(ewes|ewe)')"
-p65
-atp66
-Rp67
+((lp51
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p52
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p53
+atp54
+Rp55
 sb.

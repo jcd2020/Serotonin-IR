@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(364, u'(?i)(middles|middle)(-|\\\\s+)?(cerebrals|cerebral)(-|\\\\s+)?(arteries|artery)')"
+S"(364, u'(?i)\\\\b(middles|middle)(-|\\\\s+)?(cerebrals|cerebral)(-|\\\\s+)?(arteries|artery)\\\\b')"
 p23
 atp24
 Rp25
@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(68, u'\\\\bpiclozotan')"
+S"(61, u'\\\\bpiclozotan')"
 p30
 atp31
 Rp32
@@ -56,18 +56,6 @@ sS'species'
 p33
 g3
 ((lp34
-S"(6249, u'(?i)(ants|ant)')"
-p35
-aS"(468, u'(?i)(oxen|ox)')"
-p36
-aS"(7488, u'(?i)(molas|mola)')"
-p37
-aS"(5743, u'(?i)(bots|bot)')"
-p38
-aS"(3522, u'(?i)(tetras|tetra)')"
-p39
-aS"(3812, u'(?i)(studs|stud)')"
-p40
-atp41
-Rp42
+tp35
+Rp36
 sb.

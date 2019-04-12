@@ -46,64 +46,28 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(45, u'(?i)\\\\b(superiors|superior)(-|\\\\s+)?(salivatories|salivatory)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(45, u'(?i)(superiors|superior)(-|\\\\s+)?(salivatories|salivatory)(-|\\\\s+)?(nuclei|nucleus)')"
-p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+atp30
+Rp31
 sS'year'
-p34
+p32
 V2013
-p35
+p33
 sS'agonists'
-p36
+p34
 g3
-((lp37
-tp38
-Rp39
+((lp35
+tp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(2323, u'(?i)(bees|bee)')"
-p42
-aS"(2054, u'(?i)(heads|head)')"
-p43
-aS"(5176, u'(?i)(tegs|teg)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(1169, u'(?i)(grades|grade)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(3592, u'(?i)(ravens|raven)')"
-p51
-aS"(853, u'(?i)(minas|mina)')"
-p52
-aS"(3550, u'(?i)(anis|ani)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(978, u'(?i)(pacas|paca)')"
-p55
-aS"(2809, u'(?i)(toms|tom)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+((lp39
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

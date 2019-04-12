@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bfluoxetine')"
+S"(99, u'\\\\bsb ?242084')"
 p5
-aS"(110, u'\\\\bsb ?242084')"
+aS"(91, u'\\\\bfluoxetine')"
 p6
 atp7
 Rp8
@@ -38,70 +38,44 @@ g3
 ((lp21
 S'5ht1a'
 p22
-aS'5ht5'
-p23
 aS'5ht2c'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(209, u'(?i)(amygdalas|amygdala)')"
+((lp27
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+p28
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p29
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V2018
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp35
+S"(166, u'\\\\bmk ?212')"
+p36
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p37
-aS"(172, u'\\\\bmk ?212')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(2323, u'(?i)(bees|bee)')"
+((lp41
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p42
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p43
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p44
-aS"(5799, u'(?i)(rodents|rodent)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(163, u'(?i)(mice|mouse)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(2665, u'(?i)(rays|ray)')"
-p51
-aS"(6215, u'(?i)(racers|racer)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(4177, u'(?i)(grays|gray)')"
-p57
-atp58
-Rp59
+atp45
+Rp46
 sb.

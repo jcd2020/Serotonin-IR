@@ -30,58 +30,34 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
-p19
-atp20
-Rp21
+tp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
-p24
-atp25
-Rp26
+((lp22
+S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+p23
+atp24
+Rp25
 sS'year'
-p27
+p26
 V1998
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'species'
-p33
+p32
 g3
-((lp34
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp33
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+aS"(2942, u'(?i)\\\\b(daws|daw)\\\\b')"
 p35
-aS"(6753, u'(?i)(da|das)')"
-p36
-aS"(5958, u'(?i)(rats|rat)')"
-p37
-aS"(853, u'(?i)(minas|mina)')"
-p38
-aS"(4201, u'(?i)(kines|kine)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(1349, u'(?i)(rams|ram)')"
-p42
-aS"(2942, u'(?i)(daws|daw)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-atp48
-Rp49
+atp36
+Rp37
 sb.

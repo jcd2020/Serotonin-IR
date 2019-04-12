@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(44, u'\\\\bvortioxetine')"
+S"(42, u'\\\\bvortioxetine')"
 p5
 atp6
 Rp7
@@ -30,44 +30,32 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht3'
 p19
-aS'5ht3'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-tp25
-Rp26
+((lp23
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2015
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(101, u'\\\\bvortioxetine')"
-p31
-atp32
-Rp33
+((lp29
+S"(94, u'\\\\bvortioxetine')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(6356, u'(?i)(ais|ai)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(3550, u'(?i)(anis|ani)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-atp41
-Rp42
+((lp34
+tp35
+Rp36
 sb.

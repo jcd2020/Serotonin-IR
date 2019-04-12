@@ -52,68 +52,38 @@ sS'regions'
 p29
 g3
 ((lp30
-S"(236, u'(?i)(septals|septal)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(236, u'(?i)\\\\b(septals|septal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+atp32
+Rp33
 sS'year'
-p35
+p34
 V1998
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(33, u'\\\\bdoi')"
+((lp37
+S"(149, u'\\\\bmem')"
+p38
+aS"(100, u'\\\\bcp ?93129')"
 p39
-aS"(121, u'\\\\bl ?694247')"
+aS"(175, u'\\\\bdoi')"
 p40
-aS"(107, u'\\\\bcp ?93129')"
+aS"(205, u'\\\\brs ?67333')"
 p41
-aS"(209, u'\\\\brs ?67333')"
+aS"(114, u'\\\\bl ?694247')"
 p42
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p43
-aS"(155, u'\\\\bmem')"
-p44
-atp45
-Rp46
+atp44
+Rp45
 sS'species'
-p47
+p46
 g3
-((lp48
-S"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(7609, u'(?i)(erns|ern)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(1725, u'(?i)(clams|clam)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(7094, u'(?i)(curs|cur)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(3522, u'(?i)(tetras|tetra)')"
-p58
-aS"(1961, u'(?i)(pens|pen)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-aS"(6391, u'(?i)(asses|ass)')"
-p61
-aS"(6878, u'(?i)(guans|guan)')"
-p62
-aS"(6356, u'(?i)(ais|ai)')"
-p63
-atp64
-Rp65
+((lp47
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

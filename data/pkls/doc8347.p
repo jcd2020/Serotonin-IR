@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(194, u'\\\\bmethysergide')"
 p5
 aS"(14, u'\\\\bmethiothepin')"
 p6
-aS"(105, u'\\\\bmethysergide')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
 atp8
 Rp9
@@ -52,11 +52,11 @@ sS'regions'
 p29
 g3
 ((lp30
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p32
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p33
 atp34
 Rp35
@@ -68,13 +68,13 @@ sS'agonists'
 p38
 g3
 ((lp39
-S"(47, u'\\\\bgepirone')"
+S"(20, u'\\\\bbuspirone')"
 p40
-aS"(48, u'\\\\bhaloperidol')"
+aS"(43, u'\\\\bhaloperidol')"
 p41
-aS"(24, u'\\\\bbuspirone')"
+aS"(53, u'\\\\bmethysergide')"
 p42
-aS"(60, u'\\\\bmethysergide')"
+aS"(42, u'\\\\bgepirone')"
 p43
 atp44
 Rp45
@@ -82,32 +82,8 @@ sS'species'
 p46
 g3
 ((lp47
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(867, u'(?i)(tits|tit)')"
-p51
-aS"(163, u'(?i)(mice|mouse)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(4163, u'(?i)(ermines|ermine)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-aS"(6391, u'(?i)(asses|ass)')"
-p59
-aS"(7552, u'(?i)(bats|bat)')"
-p60
-atp61
-Rp62
+atp49
+Rp50
 sb.

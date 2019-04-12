@@ -56,15 +56,15 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(161, u'\\\\bmcpp')"
+S"(166, u'\\\\bmk ?212')"
 p34
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(140, u'\\\\bbw ?723c86')"
 p35
-aS"(172, u'\\\\bmk ?212')"
+aS"(155, u'\\\\bmcpp')"
 p36
-aS"(146, u'\\\\bbw ?723c86')"
+aS"(100, u'\\\\bcp ?93129')"
 p37
-aS"(107, u'\\\\bcp ?93129')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p38
 atp39
 Rp40
@@ -72,28 +72,14 @@ sS'species'
 p41
 g3
 ((lp42
-S"(5958, u'(?i)(rats|rat)')"
+S"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
 p43
-aS"(4657, u'(?i)(fish|fish)')"
+aS"(233, u'(?i)\\\\b(rainbows|rainbow)(-|\\\\s+)?(trout|trout)\\\\b')"
 p44
-aS"(7539, u'(?i)(mammals|mammal)')"
+aS"(4392, u'(?i)\\\\b(trout|trout)\\\\b')"
 p45
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
 p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(233, u'(?i)(rainbows|rainbow)(-|\\\\s+)?(trout|trout)')"
-p51
-aS"(4392, u'(?i)(trout|trout)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+atp47
+Rp48
 sb.

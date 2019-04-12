@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(58, u'\\\\bhaloperidol')"
 p5
 atp6
 Rp7
@@ -32,54 +32,34 @@ g3
 ((lp18
 S'5ht1a'
 p19
-aS'5ht5'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-tp25
-Rp26
+((lp23
+tp24
+Rp25
 sS'year'
-p27
+p26
 V2004
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(96, u'\\\\blesopitron')"
+((lp29
+S"(89, u'\\\\blesopitron')"
+p30
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p31
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(43, u'\\\\bhaloperidol')"
 p32
-aS"(48, u'\\\\bhaloperidol')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(1070, u'(?i)(pets|pet)')"
-p38
-aS"(867, u'(?i)(tits|tit)')"
-p39
-aS"(6682, u'(?i)(tera|teras)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3404, u'(?i)(titis|titi)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-atp47
-Rp48
+((lp36
+tp37
+Rp38
 sb.

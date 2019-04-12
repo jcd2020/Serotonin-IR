@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bsdz ?216525')"
+S"(30, u'\\\\bway ?100135')"
 p5
-aS"(31, u'\\\\bway ?100135')"
-p6
 aS"(14, u'\\\\bmethiothepin')"
+p6
+aS"(25, u'\\\\bsdz ?216525')"
 p7
 atp8
 Rp9
@@ -36,84 +36,46 @@ g3
 ((lp20
 S'5ht1b'
 p21
-aS'5ht5'
-p22
 aS'5ht1a'
-p23
+p22
 aS'5ht1'
-p24
+p23
 aS'5ht1d'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p30
-atp31
-Rp32
+((lp28
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p33
+p32
 V1999
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(103, u'\\\\bsumatriptan')"
+((lp35
+S"(96, u'\\\\bsumatriptan')"
+p36
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p37
-aS"(74, u'\\\\bru ?24969')"
+aS"(67, u'\\\\bru ?24969')"
 p38
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(100, u'\\\\bcp ?93129')"
 p39
-aS"(107, u'\\\\bcp ?93129')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(4301, u'(?i)(hydras|hydra)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(7609, u'(?i)(erns|ern)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(1266, u'(?i)(embryos|embryo)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(853, u'(?i)(minas|mina)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(3522, u'(?i)(tetras|tetra)')"
-p57
-aS"(5917, u'(?i)(roaches|roach)')"
-p58
-aS"(6682, u'(?i)(tera|teras)')"
-p59
-aS"(3812, u'(?i)(studs|stud)')"
-p60
-aS"(6391, u'(?i)(asses|ass)')"
-p61
-aS"(1683, u'(?i)(terns|tern)')"
-p62
-aS"(5783, u'(?i)(hinds|hind)')"
-p63
-atp64
-Rp65
+((lp43
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

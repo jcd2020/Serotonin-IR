@@ -30,70 +30,42 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht1a'
 p19
-aS'5ht1a'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(157, u'(?i)(limbics|limbic)(-|\\\\s+)?(systems|system)')"
-p25
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p26
-aS"(270, u'(?i)(v1s|v1)')"
-p27
-atp28
-Rp29
+((lp23
+S"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
+p24
+atp25
+Rp26
 sS'year'
-p30
+p27
 V2017
-p31
+p28
 sS'agonists'
-p32
+p29
 g3
-((lp33
-S"(181, u'\\\\bdom')"
-p34
-atp35
-Rp36
+((lp30
+S"(176, u'\\\\bdom')"
+p31
+atp32
+Rp33
 sS'species'
-p37
+p34
 g3
-((lp38
-S"(7539, u'(?i)(mammals|mammal)')"
+((lp35
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p36
+aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+p37
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p38
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(6125, u'(?i)(females|female)')"
-p41
-aS"(4979, u'(?i)(cats|cat)')"
-p42
-aS"(6391, u'(?i)(asses|ass)')"
-p43
-aS"(5967, u'(?i)(males|male)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(853, u'(?i)(minas|mina)')"
-p46
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(4247, u'(?i)(tatus|tatu)')"
-p51
-aS"(5743, u'(?i)(bots|bot)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-atp54
-Rp55
+atp40
+Rp41
 sb.

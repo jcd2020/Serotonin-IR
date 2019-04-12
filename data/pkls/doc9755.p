@@ -36,7 +36,7 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p23
 atp24
 Rp25
@@ -48,7 +48,7 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p30
 atp31
 Rp32
@@ -56,28 +56,12 @@ sS'species'
 p33
 g3
 ((lp34
-S"(3051, u'(?i)(pigs|pig)')"
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p35
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p36
-aS"(3062, u'(?i)(guineas|guinea)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(4979, u'(?i)(cats|cat)')"
-p39
-aS"(3550, u'(?i)(anis|ani)')"
-p40
-aS"(5229, u'(?i)(moles|mole)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-aS"(1349, u'(?i)(rams|ram)')"
-p43
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p44
-aS"(821, u'(?i)(lice|louse)')"
-p45
-atp46
-Rp47
+atp38
+Rp39
 sb.

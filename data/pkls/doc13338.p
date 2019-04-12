@@ -52,18 +52,10 @@ sS'species'
 p31
 g3
 ((lp32
-S"(6249, u'(?i)(ants|ant)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p33
-aS"(867, u'(?i)(tits|tit)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p34
-aS"(1055, u'(?i)(men|man)')"
-p35
-aS"(3550, u'(?i)(anis|ani)')"
-p36
-aS"(1057, u'(?i)(humans|human)')"
-p37
-aS"(3196, u'(?i)(human|humans)')"
-p38
-atp39
-Rp40
+atp35
+Rp36
 sb.

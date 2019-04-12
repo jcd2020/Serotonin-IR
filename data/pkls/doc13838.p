@@ -8,108 +8,74 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(34, u'\\\\byohimbine')"
+aS"(104, u'\\\\bimipramine')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(124, u'\\\\bondansetron')"
 p7
-aS"(199, u'\\\\bmaprotiline')"
+aS"(33, u'\\\\byohimbine')"
 p8
-aS"(135, u'\\\\bondansetron')"
+aS"(192, u'\\\\bmaprotiline')"
 p9
-aS"(115, u'\\\\bnortriptyline')"
+aS"(105, u'\\\\bnortriptyline')"
 p10
-aS"(114, u'\\\\bimipramine')"
-p11
-atp12
-Rp13
+atp11
+Rp12
 sS'methods'
-p14
+p13
 g3
-((lp15
+((lp14
 S'Method.ANTAGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
-tp21
-Rp22
+((lp19
+tp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
-S'5ht5'
+((lp23
+S'5ht3'
+p24
+aS'5ht4a'
 p25
-aS'5ht3'
+aS'5ht3a'
 p26
 aS'5ht2'
 p27
 aS'5ht2a'
 p28
-aS'5ht4a'
-p29
-aS'5ht3a'
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'regions'
-p33
+p31
 g3
-((lp34
-tp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'year'
-p37
+p35
 V2002
-p38
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(82, u'\\\\byohimbine')"
 p39
-g3
-((lp40
-S"(89, u'\\\\byohimbine')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(4624, u'(?i)(apes|ape)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(4964, u'(?i)(serins|serin)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(4163, u'(?i)(ermines|ermine)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(6215, u'(?i)(racers|racer)')"
-p54
-aS"(853, u'(?i)(minas|mina)')"
-p55
-aS"(3550, u'(?i)(anis|ani)')"
-p56
-aS"(6682, u'(?i)(tera|teras)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-aS"(5743, u'(?i)(bots|bot)')"
-p60
-aS"(4979, u'(?i)(cats|cat)')"
-p61
-atp62
-Rp63
+((lp43
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

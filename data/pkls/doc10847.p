@@ -8,118 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(131, u'\\\\bm1')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(31, u'\\\\bway ?100635')"
 p7
-aS"(142, u'\\\\bm1')"
+aS"(58, u'\\\\bhaloperidol')"
 p8
-aS"(67, u'\\\\bhaloperidol')"
-p9
-atp10
-Rp11
+atp9
+Rp10
 sS'methods'
-p12
+p11
 g3
-((lp13
+((lp12
 S'Method.ANTAGONIST'
-p14
+p13
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p14
+atp15
+Rp16
 sS'topics'
-p18
+p17
 g3
-((lp19
-tp20
-Rp21
+((lp18
+tp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
-S'5ht5'
-p24
-aS'5ht1a'
-p25
+((lp22
+S'5ht1a'
+p23
 aS'5ht2c'
-p26
+p24
 aS'5ht2a'
-p27
-atp28
-Rp29
+p25
+atp26
+Rp27
 sS'regions'
+p28
+g3
+((lp29
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p30
-g3
-((lp31
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
-p32
-aS"(220, u'(?i)(striatums|striatum)')"
-p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p31
+atp32
+Rp33
 sS'year'
-p37
+p34
 V2015
-p38
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(175, u'\\\\bdoi')"
+p38
+aS"(43, u'\\\\bhaloperidol')"
 p39
-g3
-((lp40
-S"(48, u'\\\\bhaloperidol')"
-p41
-aS"(33, u'\\\\bdoi')"
-p42
-atp43
-Rp44
+atp40
+Rp41
 sS'species'
-p45
+p42
 g3
-((lp46
-S"(5537, u'(?i)(hippos|hippo)')"
-p47
-aS"(2054, u'(?i)(heads|head)')"
-p48
-aS"(4163, u'(?i)(ermines|ermine)')"
-p49
-aS"(2568, u'(?i)(hens|hen)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(4964, u'(?i)(serins|serin)')"
-p52
-aS"(6753, u'(?i)(da|das)')"
-p53
-aS"(2183, u'(?i)(gars|gar)')"
-p54
-aS"(81, u'(?i)(asps|asp)')"
-p55
-aS"(468, u'(?i)(oxen|ox)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(3726, u'(?i)(mates|mate)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(3550, u'(?i)(anis|ani)')"
-p60
-aS"(7094, u'(?i)(curs|cur)')"
-p61
-aS"(1961, u'(?i)(pens|pen)')"
-p62
-aS"(1414, u'(?i)(chars|char)')"
-p63
-aS"(6391, u'(?i)(asses|ass)')"
-p64
-aS"(6356, u'(?i)(ais|ai)')"
-p65
-aS"(6249, u'(?i)(ants|ant)')"
-p66
-atp67
-Rp68
+((lp43
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p44
+aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+p45
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

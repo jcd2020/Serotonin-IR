@@ -38,7 +38,7 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p24
 atp25
 Rp26
@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(33, u'\\\\bdoi')"
+S"(175, u'\\\\bdoi')"
 p31
 atp32
 Rp33
@@ -58,16 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(3812, u'(?i)(studs|stud)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(6356, u'(?i)(ais|ai)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(6753, u'(?i)(da|das)')"
-p40
-atp41
-Rp42
+atp37
+Rp38
 sb.

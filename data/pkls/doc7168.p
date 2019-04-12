@@ -30,84 +30,60 @@ g3
 ((lp17
 S'5ht1b'
 p18
-aS'5ht5'
-p19
 aS'5ht1e'
-p20
+p19
 aS'5ht1'
-p21
+p20
 aS'5ht1d'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(126, u'(?i)(thalamuses|thalamus)')"
-p27
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p28
-atp29
-Rp30
+((lp25
+S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p26
+atp27
+Rp28
 sS'year'
-p31
+p29
 V1992
-p32
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(149, u'\\\\bmem')"
 p33
-g3
-((lp34
-S"(155, u'\\\\bmem')"
-p35
-atp36
-Rp37
+atp34
+Rp35
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(6753, u'(?i)(da|das)')"
+((lp37
+S"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
+p38
+aS"(5150, u'(?i)\\\\b(gerbils|gerbil)\\\\b')"
+p39
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p40
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p41
-aS"(5150, u'(?i)(gerbils|gerbil)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(4979, u'(?i)(cats|cat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p43
-aS"(2327, u'(?i)(bovines|bovine)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p44
-aS"(1686, u'(?i)(gibs|gib)')"
+aS"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
 p45
-aS"(1055, u'(?i)(men|man)')"
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p46
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p47
-aS"(3062, u'(?i)(guineas|guinea)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p48
-aS"(853, u'(?i)(minas|mina)')"
-p49
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(1057, u'(?i)(humans|human)')"
-p52
-aS"(4371, u'(?i)(lizas|liza)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(3196, u'(?i)(human|humans)')"
-p55
-aS"(391, u'(?i)(alli|allis)')"
-p56
-aS"(6325, u'(?i)(caudates|caudate)')"
-p57
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-aS"(5949, u'(?i)(dogs|dog)')"
-p60
-atp61
-Rp62
+atp49
+Rp50
 sb.

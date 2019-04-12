@@ -8,15 +8,15 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(104, u'\\\\bimipramine')"
 p5
 aS"(17, u'\\\\bnan ?190')"
 p6
-aS"(201, u'\\\\bpimozide')"
+aS"(195, u'\\\\bpimozide')"
 p7
 aS"(20, u'\\\\bpindobind')"
 p8
-aS"(114, u'\\\\bimipramine')"
+aS"(58, u'\\\\bhaloperidol')"
 p9
 atp10
 Rp11
@@ -38,72 +38,38 @@ sS'receptors'
 p21
 g3
 ((lp22
-S'5ht5'
+S'5ht1a'
 p23
-aS'5ht1a'
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V2003
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(20, u'\\\\bbuspirone')"
 p34
-g3
-((lp35
-S"(48, u'\\\\bhaloperidol')"
+aS"(210, u'\\\\bsulpiride')"
+p35
+aS"(43, u'\\\\bhaloperidol')"
 p36
-aS"(24, u'\\\\bbuspirone')"
-p37
-aS"(214, u'\\\\bsulpiride')"
-p38
-atp39
-Rp40
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(6753, u'(?i)(da|das)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(4201, u'(?i)(kines|kine)')"
-p45
-aS"(4163, u'(?i)(ermines|ermine)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(2453, u'(?i)(topis|topi)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(3522, u'(?i)(tetras|tetra)')"
-p53
-aS"(4371, u'(?i)(lizas|liza)')"
-p54
-aS"(1414, u'(?i)(chars|char)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(6682, u'(?i)(tera|teras)')"
-p58
-atp59
-Rp60
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -64,70 +64,38 @@ sS'regions'
 p35
 g3
 ((lp36
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p37
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p38
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p39
-aS"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p40
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p41
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sS'year'
-p45
+p44
 V2004
-p46
+p45
 sS'agonists'
-p47
+p46
 g3
-((lp48
-tp49
-Rp50
+((lp47
+tp48
+Rp49
 sS'species'
-p51
+p50
 g3
-((lp52
-S"(1070, u'(?i)(pets|pet)')"
+((lp51
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p52
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p53
-aS"(2323, u'(?i)(bees|bee)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p54
-aS"(6753, u'(?i)(da|das)')"
-p55
-aS"(2568, u'(?i)(hens|hen)')"
-p56
-aS"(931, u'(?i)(divers|diver)')"
-p57
-aS"(4979, u'(?i)(cats|cat)')"
-p58
-aS"(468, u'(?i)(oxen|ox)')"
-p59
-aS"(1055, u'(?i)(men|man)')"
-p60
-aS"(853, u'(?i)(minas|mina)')"
-p61
-aS"(6249, u'(?i)(ants|ant)')"
-p62
-aS"(1057, u'(?i)(humans|human)')"
-p63
-aS"(5229, u'(?i)(moles|mole)')"
-p64
-aS"(6391, u'(?i)(asses|ass)')"
-p65
-aS"(3812, u'(?i)(studs|stud)')"
-p66
-aS"(3196, u'(?i)(human|humans)')"
-p67
-aS"(2809, u'(?i)(toms|tom)')"
-p68
-aS"(5537, u'(?i)(hippos|hippo)')"
-p69
-aS"(6356, u'(?i)(ais|ai)')"
-p70
-atp71
-Rp72
+atp55
+Rp56
 sb.

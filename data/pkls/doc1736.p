@@ -14,98 +14,72 @@ aS"(14, u'\\\\bmethiothepin')"
 p6
 aS"(21, u'\\\\bpindolol')"
 p7
-aS"(105, u'\\\\bmethysergide')"
+aS"(53, u'\\\\bcyproheptadine')"
 p8
-aS"(62, u'\\\\bcyproheptadine')"
-p9
-aS"(54, u'\\\\britanserin')"
-p10
-aS"(130, u'\\\\britanserin')"
-p11
 aS"(22, u'\\\\bpropranolol')"
-p12
-atp13
-Rp14
+p9
+aS"(194, u'\\\\bmethysergide')"
+p10
+aS"(119, u'\\\\britanserin')"
+p11
+atp12
+Rp13
 sS'methods'
-p15
+p14
 g3
-((lp16
+((lp15
 S'Method.ANTAGONIST'
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'topics'
-p20
+p19
 g3
-((lp21
+((lp20
 S"(4, u'\\\\blocomot')"
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'receptors'
-p25
+p24
 g3
-((lp26
+((lp25
 S'5ht1b'
-p27
-aS'5ht5'
-p28
+p26
 aS'5ht2'
-p29
+p27
 aS'5ht1'
-p30
+p28
 aS'5ht2a'
-p31
-atp32
-Rp33
+p29
+atp30
+Rp31
 sS'regions'
-p34
+p32
 g3
-((lp35
-S"(34, u'(?i)(pon|pons)')"
-p36
-atp37
-Rp38
+((lp33
+tp34
+Rp35
 sS'year'
-p39
+p36
 V1992
-p40
+p37
 sS'agonists'
+p38
+g3
+((lp39
+S"(147, u'\\\\bmdma')"
+p40
+aS"(53, u'\\\\bmethysergide')"
 p41
-g3
-((lp42
-S"(153, u'\\\\bmdma')"
-p43
-aS"(60, u'\\\\bmethysergide')"
-p44
-atp45
-Rp46
+atp42
+Rp43
 sS'species'
-p47
+p44
 g3
-((lp48
-S"(2323, u'(?i)(bees|bee)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(4964, u'(?i)(serins|serin)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(280, u'(?i)(gators|gator)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(1414, u'(?i)(chars|char)')"
-p58
-aS"(4979, u'(?i)(cats|cat)')"
-p59
-atp60
-Rp61
+((lp45
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

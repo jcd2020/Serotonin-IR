@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(111, u'\\\\btramadol')"
+S"(101, u'\\\\btramadol')"
 p5
-aS"(41, u'\\\\bziprasidone')"
+aS"(114, u'\\\\bziprasidone')"
 p6
 atp7
 Rp8
@@ -42,7 +42,7 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(189, u'(?i)(subthalamics|subthalamic)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(189, u'(?i)\\\\b(subthalamics|subthalamic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(91, u'\\\\bziprasidone')"
+S"(84, u'\\\\bziprasidone')"
 p33
 atp34
 Rp35
@@ -62,24 +62,6 @@ sS'species'
 p36
 g3
 ((lp37
-S"(2323, u'(?i)(bees|bee)')"
-p38
-aS"(4624, u'(?i)(apes|ape)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(6682, u'(?i)(tera|teras)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(1349, u'(?i)(rams|ram)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(1414, u'(?i)(chars|char)')"
-p46
-atp47
-Rp48
+tp38
+Rp39
 sb.

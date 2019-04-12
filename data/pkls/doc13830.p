@@ -8,96 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(52, u'\\\\bmetergoline')"
+S"(26, u'\\\\bspiperone')"
 p5
-aS"(21, u'\\\\bpindolol')"
+aS"(34, u'\\\\bmetergoline')"
 p6
-aS"(20, u'\\\\bpindobind')"
+aS"(21, u'\\\\bpindolol')"
 p7
-aS"(22, u'\\\\bpropranolol')"
+aS"(20, u'\\\\bpindobind')"
 p8
-aS"(27, u'\\\\bspiperone')"
+aS"(22, u'\\\\bpropranolol')"
 p9
-aS"(35, u'\\\\bmetergoline')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.ANTAGONIST'
-p15
+p14
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
-tp21
-Rp22
+((lp19
+tp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
-S'5ht5'
-p25
-aS'5ht1a'
-p26
+((lp23
+S'5ht1a'
+p24
 aS'5ht2a'
-p27
-atp28
-Rp29
+p25
+atp26
+Rp27
 sS'regions'
+p28
+g3
+((lp29
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-g3
-((lp31
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp31
+Rp32
 sS'year'
-p36
+p33
 V1993
-p37
+p34
 sS'agonists'
-p38
+p35
 g3
-((lp39
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p40
-atp41
-Rp42
+((lp36
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p37
+atp38
+Rp39
 sS'species'
-p43
+p40
 g3
-((lp44
-S"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(7539, u'(?i)(mammals|mammal)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(7094, u'(?i)(curs|cur)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p53
-aS"(1414, u'(?i)(chars|char)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+((lp41
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p42
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p43
+atp44
+Rp45
 sb.

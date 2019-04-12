@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(194, u'\\\\bmethysergide')"
 p5
-aS"(105, u'\\\\bmethysergide')"
+aS"(76, u'\\\\blisuride')"
 p6
-aS"(85, u'\\\\blisuride')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
 atp8
 Rp9
@@ -38,84 +38,60 @@ g3
 ((lp21
 S'5ht1b'
 p22
-aS'5ht5'
-p23
 aS'5ht1a'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
+((lp28
+S"(236, u'(?i)\\\\b(septals|septal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+aS"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
 p30
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p31
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p32
-aS"(236, u'(?i)(septals|septal)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p33
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'year'
-p37
+p36
 V1991
-p38
+p37
 sS'agonists'
-p39
+p38
 g3
-((lp40
-S"(48, u'\\\\bhaloperidol')"
+((lp39
+S"(53, u'\\\\bmethysergide')"
+p40
+aS"(175, u'\\\\bdoi')"
 p41
-aS"(214, u'\\\\bsulpiride')"
+aS"(210, u'\\\\bsulpiride')"
 p42
-aS"(52, u'\\\\blisuride')"
+aS"(155, u'\\\\bmcpp')"
 p43
-aS"(60, u'\\\\bmethysergide')"
+aS"(43, u'\\\\bhaloperidol')"
 p44
-aS"(33, u'\\\\bdoi')"
+aS"(137, u'\\\\blisuride')"
 p45
-aS"(161, u'\\\\bmcpp')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p46
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p47
-atp48
-Rp49
+atp47
+Rp48
 sS'species'
-p50
+p49
 g3
-((lp51
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp50
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p51
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p52
-aS"(6753, u'(?i)(da|das)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(867, u'(?i)(tits|tit)')"
-p56
-aS"(4979, u'(?i)(cats|cat)')"
-p57
-aS"(6682, u'(?i)(tera|teras)')"
-p58
-aS"(853, u'(?i)(minas|mina)')"
-p59
-aS"(6249, u'(?i)(ants|ant)')"
-p60
-aS"(3812, u'(?i)(studs|stud)')"
-p61
-aS"(7609, u'(?i)(erns|ern)')"
-p62
-aS"(5743, u'(?i)(bots|bot)')"
-p63
-aS"(1683, u'(?i)(terns|tern)')"
-p64
-atp65
-Rp66
+atp53
+Rp54
 sb.

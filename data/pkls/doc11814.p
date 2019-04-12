@@ -8,112 +8,86 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(133, u'\\\\bmianserin')"
 p5
-aS"(130, u'\\\\britanserin')"
+aS"(119, u'\\\\britanserin')"
 p6
-aS"(105, u'\\\\bmethysergide')"
+aS"(194, u'\\\\bmethysergide')"
 p7
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p8
-aS"(54, u'\\\\britanserin')"
-p9
-aS"(117, u'\\\\bmianserin')"
-p10
 aS"(22, u'\\\\bpropranolol')"
-p11
-atp12
-Rp13
+p9
+atp10
+Rp11
 sS'methods'
-p14
+p12
 g3
-((lp15
+((lp13
 S'Method.ANTAGONIST'
-p16
+p14
 aS'Method.AGONIST'
-p17
-atp18
-Rp19
+p15
+atp16
+Rp17
 sS'topics'
-p20
+p18
 g3
-((lp21
-tp22
-Rp23
+((lp19
+tp20
+Rp21
 sS'receptors'
-p24
+p22
 g3
-((lp25
+((lp23
 S'5ht1c'
-p26
+p24
 aS'5ht1b'
-p27
+p25
 aS'5ht1a'
-p28
+p26
 aS'5ht3a'
-p29
+p27
 aS'5ht2'
-p30
+p28
 aS'5ht1'
-p31
+p29
 aS'5ht2a'
-p32
-atp33
-Rp34
+p30
+atp31
+Rp32
 sS'regions'
-p35
+p33
 g3
-((lp36
-tp37
-Rp38
+((lp34
+tp35
+Rp36
 sS'year'
-p39
+p37
 V1991
-p40
+p38
 sS'agonists'
+p39
+g3
+((lp40
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p41
-g3
-((lp42
-S"(74, u'\\\\bru ?24969')"
+aS"(53, u'\\\\bmethysergide')"
+p42
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p43
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(67, u'\\\\bru ?24969')"
 p44
-aS"(5, u'\\\\b5 ?ct')"
+aS"(219, u'\\\\b5 ?ct')"
 p45
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p46
-aS"(60, u'\\\\bmethysergide')"
-p47
-atp48
-Rp49
+atp46
+Rp47
 sS'species'
-p50
+p48
 g3
-((lp51
-S"(2568, u'(?i)(hens|hen)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(7488, u'(?i)(molas|mola)')"
-p57
-aS"(4964, u'(?i)(serins|serin)')"
-p58
-aS"(5958, u'(?i)(rats|rat)')"
-p59
-aS"(3522, u'(?i)(tetras|tetra)')"
-p60
-aS"(7094, u'(?i)(curs|cur)')"
-p61
-aS"(1961, u'(?i)(pens|pen)')"
-p62
-aS"(6356, u'(?i)(ais|ai)')"
-p63
-atp64
-Rp65
+((lp49
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

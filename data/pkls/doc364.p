@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(130, u'\\\\bzacopride')"
 p5
-aS"(136, u'\\\\btropisetron')"
+aS"(124, u'\\\\bondansetron')"
 p6
-aS"(141, u'\\\\bzacopride')"
+aS"(125, u'\\\\btropisetron')"
 p7
 atp8
 Rp9
@@ -52,9 +52,9 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(196, u'\\\\bquipazine')"
+S"(208, u'\\\\bzacopride')"
 p32
-aS"(212, u'\\\\bzacopride')"
+aS"(192, u'\\\\bquipazine')"
 p33
 atp34
 Rp35
@@ -62,28 +62,8 @@ sS'species'
 p36
 g3
 ((lp37
-S"(5958, u'(?i)(rats|rat)')"
+S"(2665, u'(?i)\\\\b(rays|ray)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(1928, u'(?i)(bears|bear)')"
-p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(7488, u'(?i)(molas|mola)')"
-p43
-aS"(2665, u'(?i)(rays|ray)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(5229, u'(?i)(moles|mole)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-atp49
-Rp50
+atp39
+Rp40
 sb.

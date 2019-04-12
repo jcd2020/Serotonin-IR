@@ -34,54 +34,32 @@ g3
 ((lp19
 S'5ht1b'
 p20
-aS'5ht5'
-p21
 aS'5ht1f'
-p22
+p21
 aS'5ht1d'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(270, u'(?i)(v1s|v1)')"
-p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp26
+tp27
+Rp28
 sS'year'
-p32
+p29
 V2015
-p33
+p30
 sS'agonists'
-p34
+p31
 g3
-((lp35
-tp36
-Rp37
+((lp32
+tp33
+Rp34
 sS'species'
-p38
+p35
 g3
-((lp39
-S"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3726, u'(?i)(mates|mate)')"
-p43
-aS"(3550, u'(?i)(anis|ani)')"
-p44
-aS"(5229, u'(?i)(moles|mole)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(3569, u'(?i)(constrictors|constrictor)')"
-p47
-atp48
-Rp49
+((lp36
+tp37
+Rp38
 sb.

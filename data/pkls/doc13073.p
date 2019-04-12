@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100135')"
+S"(30, u'\\\\bway ?100135')"
 p5
-aS"(212, u'\\\\bbromocriptine')"
+aS"(206, u'\\\\bbromocriptine')"
 p6
 atp7
 Rp8
@@ -52,7 +52,7 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(181, u'\\\\bdom')"
+S"(176, u'\\\\bdom')"
 p32
 atp33
 Rp34
@@ -60,18 +60,8 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2323, u'(?i)(bees|bee)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(5743, u'(?i)(bots|bot)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-atp43
-Rp44
+atp38
+Rp39
 sb.

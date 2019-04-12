@@ -32,74 +32,44 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht7'
+S'5ht7a'
 p20
-aS'5ht5'
+aS'5ht7'
 p21
 aS'5ht2'
 p22
 aS'5ht2a'
 p23
-aS'5ht7a'
-p24
-aS'5ht5a'
-p25
-atp26
-Rp27
+atp24
+Rp25
 sS'regions'
-p28
+p26
 g3
-((lp29
-tp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V2005
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p34
-g3
-((lp35
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
-p36
-aS"(5, u'\\\\b5 ?ct')"
-p37
-atp38
-Rp39
+aS"(219, u'\\\\b5 ?ct')"
+p35
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(2323, u'(?i)(bees|bee)')"
-p42
-aS"(5537, u'(?i)(hippos|hippo)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(5967, u'(?i)(males|male)')"
-p47
-aS"(4163, u'(?i)(ermines|ermine)')"
-p48
-aS"(3726, u'(?i)(mates|mate)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(7058, u'(?i)(does|doe)')"
-p53
-aS"(1414, u'(?i)(chars|char)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(7552, u'(?i)(bats|bat)')"
-p56
-atp57
-Rp58
+((lp39
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p40
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p41
+atp42
+Rp43
 sb.

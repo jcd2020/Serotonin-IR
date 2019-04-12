@@ -42,11 +42,11 @@ sS'regions'
 p24
 g3
 ((lp25
-S"(165, u'(?i)(preoptics|preoptic)(-|\\\\s+)?(areas|area)')"
+S"(166, u'(?i)\\\\b(medians|median)(-|\\\\s+)?(preoptics|preoptic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(166, u'(?i)(medians|median)(-|\\\\s+)?(preoptics|preoptic)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p27
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
+aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
 p28
 atp29
 Rp30
@@ -64,44 +64,14 @@ sS'species'
 p37
 g3
 ((lp38
-S"(6249, u'(?i)(ants|ant)')"
+S"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
 p39
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p40
-aS"(6125, u'(?i)(females|female)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(5967, u'(?i)(males|male)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(3726, u'(?i)(mates|mate)')"
-p47
-aS"(2665, u'(?i)(rays|ray)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(7094, u'(?i)(curs|cur)')"
-p52
-aS"(4176, u'(?i)(greys|grey)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(7609, u'(?i)(erns|ern)')"
-p55
-aS"(4177, u'(?i)(grays|gray)')"
-p56
-aS"(1683, u'(?i)(terns|tern)')"
-p57
-atp58
-Rp59
+atp43
+Rp44
 sb.

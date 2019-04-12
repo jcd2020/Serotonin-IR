@@ -46,72 +46,44 @@ aS'5ht1b'
 p25
 aS'5ht1a'
 p26
-aS'5ht1e'
-p27
 aS'5ht1'
+p27
+aS'5ht1e'
 p28
 aS'5ht1d'
 p29
-aS'5ht5'
-p30
 aS'5ht1f'
-p31
-atp32
-Rp33
+p30
+atp31
+Rp32
 sS'regions'
-p34
+p33
 g3
-((lp35
-S"(220, u'(?i)(striatums|striatum)')"
+((lp34
+S"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
+p35
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p36
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p37
-aS"(225, u'(?i)(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'year'
-p41
+p40
 V2004
-p42
+p41
 sS'agonists'
-p43
+p42
 g3
-((lp44
-tp45
-Rp46
+((lp43
+tp44
+Rp45
 sS'species'
-p47
+p46
 g3
-((lp48
-S"(1070, u'(?i)(pets|pet)')"
-p49
-aS"(2323, u'(?i)(bees|bee)')"
-p50
-aS"(2568, u'(?i)(hens|hen)')"
-p51
-aS"(931, u'(?i)(divers|diver)')"
-p52
-aS"(6753, u'(?i)(da|das)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(5229, u'(?i)(moles|mole)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-aS"(6391, u'(?i)(asses|ass)')"
-p60
-aS"(391, u'(?i)(alli|allis)')"
-p61
-aS"(2809, u'(?i)(toms|tom)')"
-p62
-atp63
-Rp64
+((lp47
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+p48
+atp49
+Rp50
 sb.

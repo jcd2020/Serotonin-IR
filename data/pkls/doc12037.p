@@ -52,13 +52,13 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(195, u'\\\\bphenylbiguanide')"
+S"(39, u'\\\\bflesinoxan')"
 p32
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(191, u'\\\\bphenylbiguanide')"
 p33
-aS"(44, u'\\\\bflesinoxan')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p34
-aS"(33, u'\\\\bdoi')"
+aS"(175, u'\\\\bdoi')"
 p35
 atp36
 Rp37
@@ -66,26 +66,8 @@ sS'species'
 p38
 g3
 ((lp39
-S"(2568, u'(?i)(hens|hen)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(3726, u'(?i)(mates|mate)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(3522, u'(?i)(tetras|tetra)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(6878, u'(?i)(guans|guan)')"
-p49
-atp50
-Rp51
+atp41
+Rp42
 sb.

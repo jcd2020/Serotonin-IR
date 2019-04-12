@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bquetiapine')"
+S"(35, u'\\\\baripiprazole')"
 p5
-aS"(149, u'\\\\bmemantine')"
+aS"(50, u'\\\\bquetiapine')"
 p6
-aS"(125, u'\\\\bquetiapine')"
+aS"(140, u'\\\\bmemantine')"
 p7
-aS"(36, u'\\\\baripiprazole')"
+aS"(112, u'\\\\bquetiapine')"
 p8
 atp9
 Rp10
@@ -46,50 +46,28 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+tp28
+Rp29
 sS'year'
-p31
+p30
 V2010
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(71, u'\\\\bquetiapine')"
+((lp33
+S"(64, u'\\\\bquetiapine')"
+p34
+aS"(223, u'\\\\baripiprazole')"
 p35
-aS"(16, u'\\\\baripiprazole')"
+aS"(149, u'\\\\bmem')"
 p36
-aS"(155, u'\\\\bmem')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(4624, u'(?i)(apes|ape)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(2666, u'(?i)(mantas|manta)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(1349, u'(?i)(rams|ram)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(7127, u'(?i)(monitors|monitor)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+((lp40
+tp41
+Rp42
 sb.

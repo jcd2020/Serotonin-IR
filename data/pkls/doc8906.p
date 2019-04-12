@@ -34,64 +34,42 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht5'
+S'5ht2a'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(34, u'(?i)(pon|pons)')"
-p27
-atp28
-Rp29
+((lp25
+tp26
+Rp27
 sS'year'
-p30
+p28
 V2013
-p31
+p29
 sS'agonists'
+p30
+g3
+((lp31
+S"(63, u'\\\\bpsilocybin')"
 p32
-g3
-((lp33
-S"(56, u'\\\\blsd')"
+aS"(158, u'\\\\blsd')"
+p33
+aS"(49, u'\\\\blysergic acid diethylamide')"
 p34
-aS"(55, u'\\\\blysergic acid diethylamide')"
+aS"(50, u'\\\\bmescaline')"
 p35
-aS"(57, u'\\\\bmescaline')"
-p36
-aS"(70, u'\\\\bpsilocybin')"
-p37
-atp38
-Rp39
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(2054, u'(?i)(heads|head)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3726, u'(?i)(mates|mate)')"
-p48
-aS"(4964, u'(?i)(serins|serin)')"
-p49
-aS"(7604, u'(?i)(cyclop|cyclops)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(5743, u'(?i)(bots|bot)')"
-p52
-atp53
-Rp54
+((lp39
+S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+p40
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p41
+atp42
+Rp43
 sb.

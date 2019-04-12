@@ -46,7 +46,7 @@ sS'agonists'
 p27
 g3
 ((lp28
-S"(206, u'\\\\bprucalopride')"
+S"(202, u'\\\\bprucalopride')"
 p29
 atp30
 Rp31
@@ -54,48 +54,10 @@ sS'species'
 p32
 g3
 ((lp33
-S"(2323, u'(?i)(bees|bee)')"
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p34
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5891, u'(?i)\\\\b(kits|kit)\\\\b')"
 p35
-aS"(6356, u'(?i)(ais|ai)')"
-p36
-aS"(5891, u'(?i)(kits|kit)')"
-p37
-aS"(7539, u'(?i)(mammals|mammal)')"
-p38
-aS"(479, u'(?i)(lings|ling)')"
-p39
-aS"(7609, u'(?i)(erns|ern)')"
-p40
-aS"(81, u'(?i)(asps|asp)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(5131, u'(?i)(hags|hag)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p47
-aS"(5229, u'(?i)(moles|mole)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(2809, u'(?i)(toms|tom)')"
-p51
-aS"(6548, u'(?i)(takins|takin)')"
-p52
-aS"(1683, u'(?i)(terns|tern)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-atp55
-Rp56
+atp36
+Rp37
 sb.

@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(27, u'\\\\bspiperone')"
+S"(131, u'\\\\bm1')"
 p5
-aS"(17, u'\\\\bnan ?190')"
+aS"(26, u'\\\\bspiperone')"
 p6
-aS"(142, u'\\\\bm1')"
+aS"(17, u'\\\\bnan ?190')"
 p7
 atp8
 Rp9
@@ -40,62 +40,38 @@ S'5ht1b'
 p22
 aS'5ht1a'
 p23
-aS'5ht5'
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V1996
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(20, u'\\\\bbuspirone')"
 p34
-g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p36
-aS"(24, u'\\\\bbuspirone')"
-p37
-atp38
-Rp39
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p35
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(4624, u'(?i)(apes|ape)')"
+((lp39
+S"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
+p40
+aS"(233, u'(?i)\\\\b(rainbows|rainbow)(-|\\\\s+)?(trout|trout)\\\\b')"
+p41
+aS"(4392, u'(?i)\\\\b(trout|trout)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(4657, u'(?i)(fish|fish)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-aS"(233, u'(?i)(rainbows|rainbow)(-|\\\\s+)?(trout|trout)')"
-p51
-aS"(4392, u'(?i)(trout|trout)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+atp43
+Rp44
 sb.

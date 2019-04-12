@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(36, u'\\\\baripiprazole')"
+S"(35, u'\\\\baripiprazole')"
 p5
-aS"(51, u'\\\\bmirtazapine')"
+aS"(134, u'\\\\bmirtazapine')"
 p6
 atp7
 Rp8
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(16, u'\\\\baripiprazole')"
+S"(223, u'\\\\baripiprazole')"
 p33
 atp34
 Rp35
@@ -62,30 +62,6 @@ sS'species'
 p36
 g3
 ((lp37
-S"(6753, u'(?i)(da|das)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(6548, u'(?i)(takins|takin)')"
-p41
-aS"(2666, u'(?i)(mantas|manta)')"
-p42
-aS"(4201, u'(?i)(kines|kine)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(3812, u'(?i)(studs|stud)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(1961, u'(?i)(pens|pen)')"
-p47
-aS"(1414, u'(?i)(chars|char)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-atp50
-Rp51
+tp38
+Rp39
 sb.

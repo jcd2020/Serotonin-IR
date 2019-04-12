@@ -8,126 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(99, u'\\\\bsb ?242084')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(110, u'\\\\bsb ?242084')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.PET'
-p12
+p11
 aS'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
-tp19
-Rp20
+((lp17
+tp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht2c'
-p23
+p22
 aS'5ht2'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(71, u'(?i)(cerebellums|cerebellum)')"
-p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+((lp28
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p34
+p32
 V2014
-p35
+p33
 sS'agonists'
-p36
+p34
 g3
-((lp37
-tp38
-Rp39
+((lp35
+tp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(2401, u'(?i)(primates|primate)')"
+((lp39
+S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
+p40
+aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
+p41
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p42
-aS"(3592, u'(?i)(ravens|raven)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p43
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p44
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p45
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(3196, u'(?i)(human|humans)')"
-p49
-aS"(1070, u'(?i)(pets|pet)')"
-p50
-aS"(6125, u'(?i)(females|female)')"
-p51
-aS"(479, u'(?i)(lings|ling)')"
-p52
-aS"(5967, u'(?i)(males|male)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p55
-aS"(5537, u'(?i)(hippos|hippo)')"
-p56
-aS"(6753, u'(?i)(da|das)')"
-p57
-aS"(5958, u'(?i)(rats|rat)')"
-p58
-aS"(4201, u'(?i)(kines|kine)')"
-p59
-aS"(1055, u'(?i)(men|man)')"
-p60
-aS"(4597, u'(?i)(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)')"
-p61
-aS"(4979, u'(?i)(cats|cat)')"
-p62
-aS"(1057, u'(?i)(humans|human)')"
-p63
-aS"(1414, u'(?i)(chars|char)')"
-p64
-aS"(4596, u'(?i)(rhesuses|rhesus)')"
-p65
-aS"(2323, u'(?i)(bees|bee)')"
-p66
-aS"(853, u'(?i)(minas|mina)')"
-p67
-aS"(3051, u'(?i)(pigs|pig)')"
-p68
-aS"(3726, u'(?i)(mates|mate)')"
-p69
-aS"(4964, u'(?i)(serins|serin)')"
-p70
-atp71
-Rp72
+atp47
+Rp48
 sb.

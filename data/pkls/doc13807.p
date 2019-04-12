@@ -8,128 +8,102 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(89, u'\\\\beltoprazine')"
 p5
-aS"(200, u'\\\\bmesulergine')"
-p6
-aS"(100, u'\\\\beltoprazine')"
-p7
-aS"(105, u'\\\\bmethysergide')"
-p8
-aS"(128, u'\\\\bketanserin')"
-p9
-aS"(136, u'\\\\btropisetron')"
-p10
-aS"(209, u'\\\\btfmpp')"
-p11
 aS"(21, u'\\\\bpindolol')"
-p12
-atp13
-Rp14
+p6
+aS"(125, u'\\\\btropisetron')"
+p7
+aS"(117, u'\\\\bketanserin')"
+p8
+aS"(194, u'\\\\bmethysergide')"
+p9
+aS"(203, u'\\\\btfmpp')"
+p10
+aS"(193, u'\\\\bmesulergine')"
+p11
+atp12
+Rp13
 sS'methods'
-p15
+p14
 g3
-((lp16
+((lp15
 S'Method.ANTAGONIST'
-p17
+p16
 aS'Method.AGONIST'
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'topics'
-p21
+p20
 g3
-((lp22
-tp23
-Rp24
+((lp21
+tp22
+Rp23
 sS'receptors'
-p25
+p24
 g3
-((lp26
+((lp25
 S'5ht1c'
-p27
+p26
 aS'5ht1b'
-p28
+p27
 aS'5ht1a'
-p29
+p28
 aS'5ht3a'
-p30
+p29
 aS'5ht2'
-p31
+p30
 aS'5ht1'
-p32
+p31
 aS'5ht2a'
-p33
+p32
 aS'5ht5'
-p34
-atp35
-Rp36
+p33
+atp34
+Rp35
 sS'regions'
-p37
+p36
 g3
-((lp38
-tp39
-Rp40
+((lp37
+tp38
+Rp39
 sS'year'
-p41
+p40
 V1992
-p42
+p41
 sS'agonists'
-p43
+p42
 g3
-((lp44
-S"(74, u'\\\\bru ?24969')"
+((lp43
+S"(20, u'\\\\bbuspirone')"
+p44
+aS"(53, u'\\\\bmethysergide')"
 p45
-aS"(44, u'\\\\bflesinoxan')"
+aS"(155, u'\\\\bmcpp')"
 p46
-aS"(161, u'\\\\bmcpp')"
+aS"(165, u'\\\\bmesulergine')"
 p47
-aS"(171, u'\\\\bmesulergine')"
+aS"(178, u'\\\\btfmpp')"
 p48
-aS"(24, u'\\\\bbuspirone')"
+aS"(175, u'\\\\bdoi')"
 p49
-aS"(183, u'\\\\btfmpp')"
+aS"(67, u'\\\\bru ?24969')"
 p50
-aS"(60, u'\\\\bmethysergide')"
+aS"(31, u'\\\\beltoprazine')"
 p51
-aS"(33, u'\\\\bdoi')"
+aS"(39, u'\\\\bflesinoxan')"
 p52
-aS"(36, u'\\\\beltoprazine')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p53
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p54
-atp55
-Rp56
+atp54
+Rp55
 sS'species'
-p57
+p56
 g3
-((lp58
-S"(4624, u'(?i)(apes|ape)')"
-p59
-aS"(6753, u'(?i)(da|das)')"
-p60
-aS"(2568, u'(?i)(hens|hen)')"
-p61
-aS"(867, u'(?i)(tits|tit)')"
-p62
-aS"(4964, u'(?i)(serins|serin)')"
-p63
-aS"(468, u'(?i)(oxen|ox)')"
-p64
-aS"(1055, u'(?i)(men|man)')"
-p65
-aS"(6249, u'(?i)(ants|ant)')"
-p66
-aS"(853, u'(?i)(minas|mina)')"
-p67
-aS"(5958, u'(?i)(rats|rat)')"
-p68
-aS"(3522, u'(?i)(tetras|tetra)')"
-p69
-aS"(1961, u'(?i)(pens|pen)')"
-p70
-aS"(6356, u'(?i)(ais|ai)')"
-p71
-atp72
-Rp73
+((lp57
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p58
+atp59
+Rp60
 sb.

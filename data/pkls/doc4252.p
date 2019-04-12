@@ -32,94 +32,56 @@ g3
 ((lp18
 S'5ht6'
 p19
-aS'5ht5'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+((lp23
+S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
+p24
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p25
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p26
-aS"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
+aS"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p27
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p29
-aS"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p30
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p31
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p32
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V1997
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(176, u'\\\\bdom')"
 p38
-g3
-((lp39
-S"(181, u'\\\\bdom')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(4624, u'(?i)(apes|ape)')"
+((lp42
+S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+p43
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+aS"(7364, u'(?i)\\\\b(keyholes|keyhole)(-|\\\\s+)?(limpets|limpet)\\\\b')"
 p45
-aS"(7364, u'(?i)(keyholes|keyhole)(-|\\\\s+)?(limpets|limpet)')"
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p46
-aS"(1961, u'(?i)(pens|pen)')"
+aS"(3116, u'(?i)\\\\b(limpets|limpet)\\\\b')"
 p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3116, u'(?i)(limpets|limpet)')"
-p49
-aS"(5229, u'(?i)(moles|mole)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(1070, u'(?i)(pets|pet)')"
-p53
-aS"(479, u'(?i)(lings|ling)')"
-p54
-aS"(1349, u'(?i)(rams|ram)')"
-p55
-aS"(3152, u'(?i)(layers|layer)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-aS"(3550, u'(?i)(anis|ani)')"
-p58
-aS"(5537, u'(?i)(hippos|hippo)')"
-p59
-aS"(5958, u'(?i)(rats|rat)')"
-p60
-aS"(473, u'(?i)(rabbits|rabbit)')"
-p61
-aS"(1055, u'(?i)(men|man)')"
-p62
-aS"(6753, u'(?i)(da|das)')"
-p63
-aS"(4371, u'(?i)(lizas|liza)')"
-p64
-aS"(853, u'(?i)(minas|mina)')"
-p65
-aS"(3726, u'(?i)(mates|mate)')"
-p66
-atp67
-Rp68
+atp48
+Rp49
 sb.

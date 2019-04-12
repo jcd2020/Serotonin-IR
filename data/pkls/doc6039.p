@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(44, u'\\\\bvortioxetine')"
+S"(42, u'\\\\bvortioxetine')"
 p5
 atp6
 Rp7
@@ -40,78 +40,46 @@ sS'receptors'
 p22
 g3
 ((lp23
-S'5ht1b'
+S'5ht7a'
 p24
-aS'5ht5'
+aS'5ht1b'
 p25
-aS'5ht3'
-p26
-aS'5ht1d'
-p27
-aS'5ht7a'
-p28
 aS'5ht1a'
-p29
-atp30
-Rp31
+p26
+aS'5ht3'
+p27
+aS'5ht1d'
+p28
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-S"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'year'
-p37
+p35
 V2014
-p38
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(94, u'\\\\bvortioxetine')"
 p39
-g3
-((lp40
-S"(169, u'\\\\bfenfluramine')"
+aS"(149, u'\\\\bmem')"
+p40
+aS"(163, u'\\\\bfenfluramine')"
 p41
-aS"(155, u'\\\\bmem')"
-p42
-aS"(101, u'\\\\bvortioxetine')"
-p43
-atp44
-Rp45
+atp42
+Rp43
 sS'species'
-p46
+p44
 g3
-((lp47
-S"(5537, u'(?i)(hippos|hippo)')"
-p48
-aS"(2568, u'(?i)(hens|hen)')"
-p49
-aS"(7609, u'(?i)(erns|ern)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(3726, u'(?i)(mates|mate)')"
-p55
-aS"(1349, u'(?i)(rams|ram)')"
-p56
-aS"(1054, u'(?i)(homoes|homo)')"
-p57
-aS"(6753, u'(?i)(da|das)')"
-p58
-aS"(3550, u'(?i)(anis|ani)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-aS"(6391, u'(?i)(asses|ass)')"
-p61
-aS"(1683, u'(?i)(terns|tern)')"
-p62
-atp63
-Rp64
+((lp45
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

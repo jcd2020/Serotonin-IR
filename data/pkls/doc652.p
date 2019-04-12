@@ -40,60 +40,38 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(124, u'(?i)(thirds|third)(-|\\\\s+)?(ventricles|ventricle)')"
+S"(124, u'(?i)\\\\b(thirds|third)(-|\\\\s+)?(ventricles|ventricle)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V2014
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp31
+S"(134, u'\\\\br ?doi')"
+p32
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p33
-aS"(141, u'\\\\br ?doi')"
+aS"(175, u'\\\\bdoi')"
 p34
-aS"(33, u'\\\\bdoi')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(6753, u'(?i)(da|das)')"
+((lp38
+S"(6517, u'(?i)\\\\b(birds|bird)\\\\b')"
+p39
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(2568, u'(?i)\\\\b(hens|hen)\\\\b')"
 p41
-aS"(5743, u'(?i)(bots|bot)')"
+aS"(4476, u'(?i)\\\\b(turkeys|turkey)\\\\b')"
 p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(107, u'(?i)(stags|stag)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(4371, u'(?i)(lizas|liza)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(6517, u'(?i)(birds|bird)')"
-p52
-aS"(4476, u'(?i)(turkeys|turkey)')"
-p53
-atp54
-Rp55
+atp43
+Rp44
 sb.

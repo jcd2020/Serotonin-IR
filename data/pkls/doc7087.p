@@ -20,96 +20,62 @@ sS'topics'
 p11
 g3
 ((lp12
-S"(18, u'\\\\bpsychostim')"
+S"(37, u'\\\\baddict')"
 p13
-aS"(16, u'\\\\bfeed')"
+aS"(18, u'\\\\bpsychostim')"
 p14
-aS"(4, u'\\\\blocomot')"
+aS"(16, u'\\\\bfeed')"
 p15
-atp16
-Rp17
+aS"(4, u'\\\\blocomot')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
+((lp20
 S'5ht1a'
-p20
-aS'5ht2a'
 p21
-atp22
-Rp23
+aS'5ht2a'
+p22
+atp23
+Rp24
 sS'regions'
-p24
+p25
 g3
-((lp25
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p26
-aS"(49, u'(?i)(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)')"
+((lp26
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
 p28
-atp29
-Rp30
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p31
-V2014
 p32
-sS'agonists'
+V2014
 p33
+sS'agonists'
+p34
 g3
-((lp34
-S"(153, u'\\\\bmdma')"
-p35
-atp36
-Rp37
+((lp35
+S"(147, u'\\\\bmdma')"
+p36
+atp37
+Rp38
 sS'species'
-p38
+p39
 g3
-((lp39
-S"(4624, u'(?i)(apes|ape)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
+((lp40
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(5229, u'(?i)(moles|mole)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p42
-aS"(3196, u'(?i)(human|humans)')"
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p43
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(479, u'(?i)(lings|ling)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(7127, u'(?i)(monitors|monitor)')"
-p49
-aS"(3247, u'(?i)(youngs|young)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(7609, u'(?i)(erns|ern)')"
-p52
-aS"(867, u'(?i)(tits|tit)')"
-p53
-aS"(163, u'(?i)(mice|mouse)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-aS"(1057, u'(?i)(humans|human)')"
-p57
-aS"(2323, u'(?i)(bees|bee)')"
-p58
-aS"(2568, u'(?i)(hens|hen)')"
-p59
-aS"(6753, u'(?i)(da|das)')"
-p60
-aS"(1683, u'(?i)(terns|tern)')"
-p61
-atp62
-Rp63
+atp45
+Rp46
 sb.

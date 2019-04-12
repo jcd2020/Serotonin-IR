@@ -40,19 +40,19 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(106, u'(?i)(interpedunculars|interpeduncular)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(106, u'(?i)\\\\b(interpedunculars|interpeduncular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p25
-aS"(157, u'(?i)(limbics|limbic)(-|\\\\s+)?(systems|system)')"
+aS"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
 p26
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
 p27
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p28
-aS"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p29
-aS"(230, u'(?i)(ventrals|ventral)(-|\\\\s+)?(pallidums|pallidum)')"
+aS"(230, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(pallidums|pallidum)\\\\b')"
 p30
-aS"(34, u'(?i)(pon|pons)')"
+aS"(34, u'(?i)\\\\b(pon|pons)\\\\b')"
 p31
 atp32
 Rp33
@@ -70,50 +70,20 @@ sS'species'
 p40
 g3
 ((lp41
-S"(4404, u'(?i)(duns|dun)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p42
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p43
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p44
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p45
-aS"(4091, u'(?i)(adults|adult)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p46
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p47
-aS"(3062, u'(?i)(guineas|guinea)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p48
-aS"(391, u'(?i)(alli|allis)')"
-p49
-aS"(5537, u'(?i)(hippos|hippo)')"
-p50
-aS"(2670, u'(?i)(arabs|arab)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(7609, u'(?i)(erns|ern)')"
-p53
-aS"(867, u'(?i)(tits|tit)')"
-p54
-aS"(163, u'(?i)(mice|mouse)')"
-p55
-aS"(6682, u'(?i)(tera|teras)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(6753, u'(?i)(da|das)')"
-p58
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p59
-aS"(5799, u'(?i)(rodents|rodent)')"
-p60
-aS"(4979, u'(?i)(cats|cat)')"
-p61
-aS"(3051, u'(?i)(pigs|pig)')"
-p62
-aS"(1683, u'(?i)(terns|tern)')"
-p63
-atp64
-Rp65
+atp49
+Rp50
 sb.

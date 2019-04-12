@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(182, u'\\\\bsb ?258585')"
+S"(175, u'\\\\bsb ?271046')"
 p5
-aS"(183, u'\\\\bsb ?271046')"
+aS"(174, u'\\\\bsb ?258585')"
 p6
 atp7
 Rp8
@@ -46,52 +46,36 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(220, u'(?i)(striatums|striatum)')"
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p28
-aS"(234, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(basali|basalis)')"
+aS"(234, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(basali|basalis)\\\\b')"
 p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V2008
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(218, u'\\\\bway ?181187')"
+((lp35
+S"(213, u'\\\\bway ?181187')"
+p36
+aS"(149, u'\\\\bmem')"
 p37
-aS"(155, u'\\\\bmem')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(2323, u'(?i)(bees|bee)')"
+((lp41
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p42
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p43
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(4091, u'(?i)(adults|adult)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(3726, u'(?i)(mates|mate)')"
-p48
-aS"(4979, u'(?i)(cats|cat)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(3247, u'(?i)(youngs|young)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-atp53
-Rp54
+atp45
+Rp46
 sb.

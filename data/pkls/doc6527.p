@@ -26,78 +26,50 @@ sS'topics'
 p14
 g3
 ((lp15
-S"(11, u'\\\\banxiolyt')"
+S"(37, u'\\\\baddict')"
 p16
-aS"(10, u'\\\\banxiety')"
+aS"(11, u'\\\\banxiolyt')"
 p17
-atp18
-Rp19
+aS"(10, u'\\\\banxiety')"
+p18
+atp19
+Rp20
 sS'receptors'
-p20
+p21
 g3
-((lp21
+((lp22
 S'5ht1a'
-p22
-atp23
-Rp24
+p23
+atp24
+Rp25
 sS'regions'
-p25
+p26
 g3
-((lp26
-S"(220, u'(?i)(striatums|striatum)')"
-p27
-atp28
-Rp29
+((lp27
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p30
-V2014
 p31
-sS'agonists'
+V2014
 p32
+sS'agonists'
+p33
 g3
-((lp33
-S"(24, u'\\\\bbuspirone')"
-p34
-atp35
-Rp36
+((lp34
+S"(20, u'\\\\bbuspirone')"
+p35
+atp36
+Rp37
 sS'species'
-p37
+p38
 g3
-((lp38
-S"(1070, u'(?i)(pets|pet)')"
-p39
-aS"(4624, u'(?i)(apes|ape)')"
+((lp39
+S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(2401, u'(?i)(primates|primate)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(3726, u'(?i)(mates|mate)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(7094, u'(?i)(curs|cur)')"
-p50
-aS"(1414, u'(?i)(chars|char)')"
-p51
-aS"(6391, u'(?i)(asses|ass)')"
-p52
-aS"(391, u'(?i)(alli|allis)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-atp56
-Rp57
+atp42
+Rp43
 sb.

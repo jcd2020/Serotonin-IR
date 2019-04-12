@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(136, u'\\\\btropisetron')"
+aS"(125, u'\\\\btropisetron')"
 p6
 atp7
 Rp8
@@ -50,70 +50,42 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p30
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p31
-aS"(224, u'(?i)(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p32
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'year'
-p37
+p36
 V1998
-p38
+p37
 sS'agonists'
-p39
+p38
 g3
-((lp40
-S"(5, u'\\\\b5 ?ct')"
+((lp39
+S"(197, u'\\\\bbimu ?8')"
+p40
+aS"(149, u'\\\\bmem')"
 p41
-aS"(155, u'\\\\bmem')"
+aS"(219, u'\\\\b5 ?ct')"
 p42
-aS"(201, u'\\\\bbimu ?8')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sS'species'
-p46
+p45
 g3
-((lp47
-S"(1070, u'(?i)(pets|pet)')"
+((lp46
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p47
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p48
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p49
-aS"(867, u'(?i)(tits|tit)')"
-p50
-aS"(6753, u'(?i)(da|das)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(3404, u'(?i)(titis|titi)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(5838, u'(?i)(cubs|cub)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(1057, u'(?i)(humans|human)')"
-p57
-aS"(1414, u'(?i)(chars|char)')"
-p58
-aS"(3196, u'(?i)(human|humans)')"
-p59
-aS"(6325, u'(?i)(caudates|caudate)')"
-p60
-aS"(7488, u'(?i)(molas|mola)')"
-p61
-aS"(6356, u'(?i)(ais|ai)')"
-p62
-aS"(7552, u'(?i)(bats|bat)')"
-p63
-atp64
-Rp65
+atp50
+Rp51
 sb.

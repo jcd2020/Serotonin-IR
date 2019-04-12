@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(27, u'\\\\bspiperone')"
+S"(26, u'\\\\bspiperone')"
 p5
 atp6
 Rp7
@@ -30,66 +30,44 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht1a'
 p19
-aS'5ht1a'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-tp25
-Rp26
+((lp23
+tp24
+Rp25
 sS'year'
-p27
+p26
 V1993
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(80, u'\\\\btandospirone')"
+((lp29
+S"(20, u'\\\\bbuspirone')"
+p30
+aS"(149, u'\\\\bmem')"
 p31
-aS"(90, u'\\\\bzalospirone')"
+aS"(83, u'\\\\bzalospirone')"
 p32
-aS"(47, u'\\\\bgepirone')"
+aS"(42, u'\\\\bgepirone')"
 p33
-aS"(24, u'\\\\bbuspirone')"
+aS"(73, u'\\\\btandospirone')"
 p34
-aS"(50, u'\\\\bipsapirone')"
+aS"(45, u'\\\\bipsapirone')"
 p35
-aS"(155, u'\\\\bmem')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(5537, u'(?i)(hippos|hippo)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(4979, u'(?i)(cats|cat)')"
-p44
-aS"(4163, u'(?i)(ermines|ermine)')"
-p45
-aS"(1055, u'(?i)(men|man)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(5838, u'(?i)(cubs|cub)')"
-p48
-aS"(7552, u'(?i)(bats|bat)')"
-p49
-aS"(1414, u'(?i)(chars|char)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-atp52
-Rp53
+((lp39
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

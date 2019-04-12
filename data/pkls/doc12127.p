@@ -22,78 +22,46 @@ sS'topics'
 p12
 g3
 ((lp13
-tp14
-Rp15
+S"(36, u'\\\\bcompulsiv')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
-tp18
-Rp19
+((lp18
+tp19
+Rp20
 sS'regions'
-p20
+p21
 g3
-((lp21
-S"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
-p22
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+((lp22
+S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p23
-atp24
-Rp25
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+p24
+atp25
+Rp26
 sS'year'
-p26
-V2008
 p27
-sS'agonists'
+V2008
 p28
+sS'agonists'
+p29
 g3
-((lp29
-tp30
-Rp31
+((lp30
+tp31
+Rp32
 sS'species'
-p32
+p33
 g3
-((lp33
-S"(2323, u'(?i)(bees|bee)')"
-p34
-aS"(4624, u'(?i)(apes|ape)')"
+((lp34
+S"(5686, u'(?i)\\\\b(foxes|fox)\\\\b')"
 p35
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p36
-aS"(6753, u'(?i)(da|das)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p37
-aS"(5686, u'(?i)(foxes|fox)')"
-p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(6580, u'(?i)(dams|dam)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(1057, u'(?i)(humans|human)')"
-p46
-aS"(3196, u'(?i)(human|humans)')"
-p47
-aS"(3812, u'(?i)(studs|stud)')"
-p48
-aS"(3048, u'(?i)(hogs|hog)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(2809, u'(?i)(toms|tom)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(3426, u'(?i)(hares|hare)')"
-p53
-atp54
-Rp55
+atp38
+Rp39
 sb.

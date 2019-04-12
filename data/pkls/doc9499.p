@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bsb ?242084')"
+S"(99, u'\\\\bsb ?242084')"
 p5
-aS"(39, u'\\\\bsb ?224289')"
+aS"(38, u'\\\\bsb ?224289')"
 p6
 atp7
 Rp8
@@ -38,66 +38,38 @@ g3
 ((lp21
 S'5ht1b'
 p22
-aS'5ht5'
-p23
 aS'5ht2c'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V2007
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(11, u'\\\\bamphetamine')"
 p34
-g3
-((lp35
-S"(14, u'\\\\bamphetamine')"
-p36
-aS"(169, u'\\\\bfenfluramine')"
-p37
-atp38
-Rp39
+aS"(163, u'\\\\bfenfluramine')"
+p35
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(1070, u'(?i)(pets|pet)')"
-p42
-aS"(5958, u'(?i)(rats|rat)')"
-p43
-aS"(867, u'(?i)(tits|tit)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(479, u'(?i)(lings|ling)')"
-p46
-aS"(4201, u'(?i)(kines|kine)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(2453, u'(?i)(topis|topi)')"
-p49
-aS"(5176, u'(?i)(tegs|teg)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(4520, u'(?i)(agoutis|agouti)')"
-p55
-atp56
-Rp57
+((lp39
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+aS"(4520, u'(?i)\\\\b(agoutis|agouti)\\\\b')"
+p41
+atp42
+Rp43
 sb.

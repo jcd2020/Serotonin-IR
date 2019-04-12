@@ -8,126 +8,94 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(130, u'\\\\bzacopride')"
 p5
-aS"(130, u'\\\\britanserin')"
+aS"(34, u'\\\\bmetergoline')"
 p6
-aS"(52, u'\\\\bmetergoline')"
-p7
 aS"(21, u'\\\\bpindolol')"
+p7
+aS"(133, u'\\\\bmianserin')"
 p8
-aS"(123, u'\\\\bclozapine')"
+aS"(125, u'\\\\btropisetron')"
 p9
-aS"(56, u'\\\\bclozapine')"
+aS"(117, u'\\\\bketanserin')"
 p10
-aS"(128, u'\\\\bketanserin')"
+aS"(203, u'\\\\btfmpp')"
 p11
-aS"(54, u'\\\\britanserin')"
+aS"(110, u'\\\\bclozapine')"
 p12
-aS"(136, u'\\\\btropisetron')"
+aS"(30, u'\\\\bway ?100135')"
 p13
-aS"(117, u'\\\\bmianserin')"
-p14
-aS"(209, u'\\\\btfmpp')"
-p15
-aS"(31, u'\\\\bway ?100135')"
-p16
-aS"(102, u'\\\\bfluoxetine')"
-p17
 aS"(17, u'\\\\bnan ?190')"
-p18
-aS"(35, u'\\\\bmetergoline')"
-p19
-aS"(141, u'\\\\bzacopride')"
-p20
-atp21
-Rp22
+p14
+aS"(91, u'\\\\bfluoxetine')"
+p15
+aS"(119, u'\\\\britanserin')"
+p16
+atp17
+Rp18
 sS'methods'
-p23
+p19
 g3
-((lp24
+((lp20
 S'Method.ANTAGONIST'
-p25
-atp26
-Rp27
+p21
+atp22
+Rp23
 sS'topics'
-p28
+p24
 g3
-((lp29
+((lp25
 S"(4, u'\\\\blocomot')"
-p30
-atp31
-Rp32
+p26
+atp27
+Rp28
 sS'receptors'
-p33
+p29
 g3
-((lp34
+((lp30
 S'5ht3'
-p35
+p31
 aS'5ht2'
-p36
-atp37
-Rp38
+p32
+atp33
+Rp34
 sS'regions'
-p39
+p35
 g3
-((lp40
-S"(220, u'(?i)(striatums|striatum)')"
-p41
-atp42
-Rp43
+((lp36
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p37
+atp38
+Rp39
 sS'year'
-p44
+p40
 V1996
-p45
+p41
 sS'agonists'
+p42
+g3
+((lp43
+S"(208, u'\\\\bzacopride')"
+p44
+aS"(210, u'\\\\bsulpiride')"
+p45
+aS"(23, u'\\\\bclozapine')"
 p46
-g3
-((lp47
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p47
+aS"(178, u'\\\\btfmpp')"
 p48
-aS"(214, u'\\\\bsulpiride')"
-p49
-aS"(183, u'\\\\btfmpp')"
-p50
-aS"(212, u'\\\\bzacopride')"
-p51
-aS"(27, u'\\\\bclozapine')"
-p52
-atp53
-Rp54
+atp49
+Rp50
 sS'species'
-p55
+p51
 g3
-((lp56
-S"(1070, u'(?i)(pets|pet)')"
-p57
-aS"(4624, u'(?i)(apes|ape)')"
-p58
-aS"(6753, u'(?i)(da|das)')"
-p59
-aS"(5958, u'(?i)(rats|rat)')"
-p60
-aS"(867, u'(?i)(tits|tit)')"
-p61
-aS"(4979, u'(?i)(cats|cat)')"
-p62
-aS"(5967, u'(?i)(males|male)')"
-p63
-aS"(468, u'(?i)(oxen|ox)')"
-p64
-aS"(3404, u'(?i)(titis|titi)')"
-p65
-aS"(1055, u'(?i)(men|man)')"
-p66
-aS"(4964, u'(?i)(serins|serin)')"
-p67
-aS"(6249, u'(?i)(ants|ant)')"
-p68
-aS"(6356, u'(?i)(ais|ai)')"
-p69
-aS"(1349, u'(?i)(rams|ram)')"
-p70
-atp71
-Rp72
+((lp52
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p53
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p54
+atp55
+Rp56
 sb.

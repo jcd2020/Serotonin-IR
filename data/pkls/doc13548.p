@@ -38,64 +38,40 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V1997
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p31
-atp32
-Rp33
+((lp29
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(2323, u'(?i)(bees|bee)')"
+((lp34
+S"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+p35
+aS"(5363, u'(?i)\\\\b(salmonids|salmonid)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4392, u'(?i)\\\\b(trout|trout)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3883, u'(?i)\\\\b(teleosts|teleost)\\\\b')"
 p38
-aS"(3882, u'(?i)(teleosts|teleost)(-|\\\\s+)?(fish|fish)')"
+aS"(2621, u'(?i)\\\\b(vertebrates|vertebrate)\\\\b')"
 p39
-aS"(4657, u'(?i)(fish|fish)')"
+aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
 p40
-aS"(5176, u'(?i)(tegs|teg)')"
+aS"(233, u'(?i)\\\\b(rainbows|rainbow)(-|\\\\s+)?(trout|trout)\\\\b')"
 p41
-aS"(7539, u'(?i)(mammals|mammal)')"
+aS"(3882, u'(?i)\\\\b(teleosts|teleost)(-|\\\\s+)?(fish|fish)\\\\b')"
 p42
-aS"(5363, u'(?i)(salmonids|salmonid)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(4979, u'(?i)(cats|cat)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(3522, u'(?i)(tetras|tetra)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(233, u'(?i)(rainbows|rainbow)(-|\\\\s+)?(trout|trout)')"
-p50
-aS"(2621, u'(?i)(vertebrates|vertebrate)')"
-p51
-aS"(4392, u'(?i)(trout|trout)')"
-p52
-aS"(6399, u'(?i)(salmon|salmon)')"
-p53
-aS"(3883, u'(?i)(teleosts|teleost)')"
-p54
-atp55
-Rp56
+atp43
+Rp44
 sb.

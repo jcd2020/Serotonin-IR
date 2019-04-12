@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(139, u'\\\\bmetoclopramide')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
 atp6
 Rp7
@@ -50,13 +50,13 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(196, u'\\\\bquipazine')"
+S"(209, u'\\\\bmetoclopramide')"
 p31
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
+aS"(149, u'\\\\bmem')"
 p32
-aS"(155, u'\\\\bmem')"
+aS"(192, u'\\\\bquipazine')"
 p33
-aS"(213, u'\\\\bmetoclopramide')"
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p34
 atp35
 Rp36
@@ -64,20 +64,10 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5958, u'(?i)(rats|rat)')"
+S"(5986, u'(?i)\\\\b(tritons|triton)\\\\b')"
 p39
-aS"(5986, u'(?i)(tritons|triton)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(4163, u'(?i)(ermines|ermine)')"
-p42
-aS"(1349, u'(?i)(rams|ram)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-atp46
-Rp47
+atp41
+Rp42
 sb.

@@ -50,7 +50,7 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(181, u'\\\\bdom')"
+S"(176, u'\\\\bdom')"
 p31
 atp32
 Rp33
@@ -58,42 +58,18 @@ sS'species'
 p34
 g3
 ((lp35
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5765, u'(?i)\\\\b(grounds|ground)(-|\\\\s+)?(squirrels|squirrel)\\\\b')"
 p37
-aS"(7609, u'(?i)(erns|ern)')"
+aS"(6771, u'(?i)\\\\b(squirrels|squirrel)\\\\b')"
 p38
-aS"(6771, u'(?i)(squirrels|squirrel)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p39
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(5765, u'(?i)(grounds|ground)(-|\\\\s+)?(squirrels|squirrel)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(107, u'(?i)(stags|stag)')"
-p45
-aS"(1054, u'(?i)(homoes|homo)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(1057, u'(?i)(humans|human)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(1414, u'(?i)(chars|char)')"
-p51
-aS"(3196, u'(?i)(human|humans)')"
-p52
-aS"(1628, u'(?i)(cod|cod)')"
-p53
-atp54
-Rp55
+atp42
+Rp43
 sb.

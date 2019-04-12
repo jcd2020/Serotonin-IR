@@ -50,9 +50,9 @@ sS'agonists'
 p29
 g3
 ((lp30
-S"(80, u'\\\\btandospirone')"
+S"(73, u'\\\\btandospirone')"
 p31
-aS"(193, u'\\\\bethanol')"
+aS"(189, u'\\\\bethanol')"
 p32
 atp33
 Rp34
@@ -60,38 +60,8 @@ sS'species'
 p35
 g3
 ((lp36
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(5176, u'(?i)(tegs|teg)')"
-p38
-aS"(949, u'(?i)(cohoes|coho)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(163, u'(?i)(mice|mouse)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(4979, u'(?i)(cats|cat)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(5863, u'(?i)(entires|entire)')"
-p51
-aS"(7552, u'(?i)(bats|bat)')"
-p52
-atp53
-Rp54
+atp38
+Rp39
 sb.

@@ -46,7 +46,7 @@ sS'agonists'
 p27
 g3
 ((lp28
-S"(155, u'\\\\bmem')"
+S"(149, u'\\\\bmem')"
 p29
 atp30
 Rp31
@@ -54,46 +54,14 @@ sS'species'
 p32
 g3
 ((lp33
-S"(1070, u'(?i)(pets|pet)')"
+S"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
 p34
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p35
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p36
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p37
-aS"(867, u'(?i)(tits|tit)')"
-p38
-aS"(2327, u'(?i)(bovines|bovine)')"
-p39
-aS"(479, u'(?i)(lings|ling)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(3404, u'(?i)(titis|titi)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(3522, u'(?i)(tetras|tetra)')"
-p47
-aS"(1057, u'(?i)(humans|human)')"
-p48
-aS"(1961, u'(?i)(pens|pen)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(3196, u'(?i)(human|humans)')"
-p51
-aS"(391, u'(?i)(alli|allis)')"
-p52
-aS"(6878, u'(?i)(guans|guan)')"
-p53
-atp54
-Rp55
+atp38
+Rp39
 sb.

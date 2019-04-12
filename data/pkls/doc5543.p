@@ -8,100 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(190, u'\\\\blurasidone')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(197, u'\\\\blurasidone')"
+aS"(199, u'\\\\bsb ?656104 ?a')"
 p7
-aS"(205, u'\\\\bsb ?656104 ?a')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
+p12
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p13
+atp14
+Rp15
 sS'topics'
-p17
+p16
 g3
-((lp18
+((lp17
 S"(15, u'\\\\bschizophreni')"
-p19
+p18
 aS"(8, u'\\\\blearning')"
-p20
+p19
 aS"(7, u'\\\\bmemory')"
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'receptors'
-p24
+p23
 g3
-((lp25
+((lp24
 S'5ht7'
-p26
+p25
 aS'5ht7a'
-p27
-aS'5ht5'
-p28
+p26
 aS'5ht2a'
-p29
-atp30
-Rp31
+p27
+atp28
+Rp29
 sS'regions'
-p32
+p30
 g3
-((lp33
-tp34
-Rp35
+((lp31
+tp32
+Rp33
 sS'year'
-p36
+p34
 V2013
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(224, u'\\\\bas ?19')"
 p38
-g3
-((lp39
-S"(53, u'\\\\blurasidone')"
+aS"(149, u'\\\\bmem')"
+p39
+aS"(47, u'\\\\blurasidone')"
 p40
-aS"(226, u'\\\\bas ?19')"
-p41
-aS"(155, u'\\\\bmem')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(81, u'(?i)(asps|asp)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(4964, u'(?i)(serins|serin)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(3522, u'(?i)(tetras|tetra)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+((lp44
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

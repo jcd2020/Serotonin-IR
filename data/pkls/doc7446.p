@@ -8,106 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(67, u'\\\\bhaloperidol')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(54, u'\\\\britanserin')"
+aS"(58, u'\\\\bhaloperidol')"
 p6
-aS"(130, u'\\\\britanserin')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht1a'
-p22
+p21
 aS'5ht2'
-p23
+p22
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-tp29
-Rp30
+((lp27
+tp28
+Rp29
 sS'year'
-p31
+p30
 V1989
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(47, u'\\\\bgepirone')"
+((lp33
+S"(20, u'\\\\bbuspirone')"
+p34
+aS"(43, u'\\\\bhaloperidol')"
 p35
-aS"(48, u'\\\\bhaloperidol')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(42, u'\\\\bgepirone')"
 p37
-aS"(24, u'\\\\bbuspirone')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(6753, u'(?i)(da|das)')"
+((lp41
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p42
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p43
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(2418, u'(?i)\\\\b(squirrels|squirrel)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p44
-aS"(6771, u'(?i)(squirrels|squirrel)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p45
-aS"(867, u'(?i)(tits|tit)')"
+aS"(6771, u'(?i)\\\\b(squirrels|squirrel)\\\\b')"
 p46
-aS"(2401, u'(?i)(primates|primate)')"
-p47
-aS"(4201, u'(?i)(kines|kine)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(3726, u'(?i)(mates|mate)')"
-p51
-aS"(1349, u'(?i)(rams|ram)')"
-p52
-aS"(2418, u'(?i)(squirrels|squirrel)(-|\\\\s+)?(monkeys|monkey)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(7058, u'(?i)(does|doe)')"
-p55
-aS"(1414, u'(?i)(chars|char)')"
-p56
-aS"(2809, u'(?i)(toms|tom)')"
-p57
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p58
-aS"(6356, u'(?i)(ais|ai)')"
-p59
-aS"(4964, u'(?i)(serins|serin)')"
-p60
-atp61
-Rp62
+atp47
+Rp48
 sb.

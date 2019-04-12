@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(140, u'\\\\brenzapride')"
+S"(129, u'\\\\brenzapride')"
 p5
-aS"(86, u'\\\\btegaserod')"
+aS"(77, u'\\\\btegaserod')"
 p6
-aS"(141, u'\\\\bzacopride')"
+aS"(130, u'\\\\bzacopride')"
 p7
 atp8
 Rp9
@@ -60,17 +60,17 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(206, u'\\\\bprucalopride')"
+S"(203, u'\\\\brenzapride')"
 p36
-aS"(211, u'\\\\btegaserod')"
+aS"(202, u'\\\\bprucalopride')"
 p37
-aS"(225, u'\\\\b5 ?meot')"
+aS"(222, u'\\\\b5 ?meot')"
 p38
-aS"(209, u'\\\\brs ?67333')"
+aS"(205, u'\\\\brs ?67333')"
 p39
-aS"(207, u'\\\\brenzapride')"
+aS"(208, u'\\\\bzacopride')"
 p40
-aS"(212, u'\\\\bzacopride')"
+aS"(207, u'\\\\btegaserod')"
 p41
 atp42
 Rp43
@@ -78,32 +78,10 @@ sS'species'
 p44
 g3
 ((lp45
-S"(6753, u'(?i)(da|das)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p46
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p47
-aS"(931, u'(?i)(divers|diver)')"
-p48
-aS"(5176, u'(?i)(tegs|teg)')"
-p49
-aS"(6682, u'(?i)(tera|teras)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(6580, u'(?i)(dams|dam)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(1057, u'(?i)(humans|human)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(3196, u'(?i)(human|humans)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(821, u'(?i)(lice|louse)')"
-p58
-atp59
-Rp60
+atp48
+Rp49
 sb.

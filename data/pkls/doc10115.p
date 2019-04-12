@@ -56,20 +56,6 @@ sS'species'
 p33
 g3
 ((lp34
-S"(1070, u'(?i)(pets|pet)')"
-p35
-aS"(4624, u'(?i)(apes|ape)')"
-p36
-aS"(6249, u'(?i)(ants|ant)')"
-p37
-aS"(5917, u'(?i)(roaches|roach)')"
-p38
-aS"(1961, u'(?i)(pens|pen)')"
-p39
-aS"(6356, u'(?i)(ais|ai)')"
-p40
-aS"(2809, u'(?i)(toms|tom)')"
-p41
-atp42
-Rp43
+tp35
+Rp36
 sb.

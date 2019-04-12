@@ -8,124 +8,84 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(111, u'\\\\bolanzapine')"
 p5
-aS"(57, u'\\\\bolanzapine')"
+aS"(49, u'\\\\bnefazodone')"
 p6
-aS"(59, u'\\\\brisperidone')"
+aS"(113, u'\\\\brisperidone')"
 p7
-aS"(55, u'\\\\bnefazodone')"
-p8
-aS"(124, u'\\\\bolanzapine')"
-p9
-atp10
-Rp11
+atp8
+Rp9
 sS'methods'
-p12
+p10
 g3
-((lp13
+((lp11
 S'Method.AGONIST'
-p14
-atp15
-Rp16
+p12
+atp13
+Rp14
 sS'topics'
-p17
+p15
 g3
-((lp18
+((lp16
 S"(29, u'\\\\bsex')"
-p19
+p17
 aS"(6, u'\\\\bcognit')"
-p20
+p18
 aS"(9, u'\\\\bdepress')"
-p21
+p19
 aS"(1, u'\\\\bmood')"
-p22
-atp23
-Rp24
+p20
+atp21
+Rp22
 sS'receptors'
-p25
+p23
 g3
-((lp26
+((lp24
 S'5ht7'
-p27
+p25
 aS'5ht7b'
-p28
+p26
 aS'5ht1'
-p29
+p27
 aS'5ht2a'
-p30
-atp31
-Rp32
+p28
+atp29
+Rp30
 sS'regions'
+p31
+g3
+((lp32
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p33
-g3
-((lp34
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
-p35
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p36
-atp37
-Rp38
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p34
+atp35
+Rp36
 sS'year'
-p39
+p37
 V2000
-p40
+p38
 sS'agonists'
+p39
+g3
+((lp40
+S"(57, u'\\\\bolanzapine')"
 p41
-g3
-((lp42
-S"(56, u'\\\\blsd')"
+aS"(50, u'\\\\bmescaline')"
+p42
+aS"(56, u'\\\\bnefazodone')"
 p43
-aS"(64, u'\\\\bolanzapine')"
+aS"(158, u'\\\\blsd')"
 p44
-aS"(57, u'\\\\bmescaline')"
-p45
-aS"(63, u'\\\\bnefazodone')"
-p46
-atp47
-Rp48
+atp45
+Rp46
 sS'species'
-p49
+p47
 g3
-((lp50
-S"(4624, u'(?i)(apes|ape)')"
-p51
-aS"(5176, u'(?i)(tegs|teg)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(5917, u'(?i)(roaches|roach)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-aS"(6753, u'(?i)(da|das)')"
-p57
-aS"(6682, u'(?i)(tera|teras)')"
-p58
-aS"(468, u'(?i)(oxen|ox)')"
-p59
-aS"(1055, u'(?i)(men|man)')"
-p60
-aS"(3726, u'(?i)(mates|mate)')"
-p61
-aS"(853, u'(?i)(minas|mina)')"
-p62
-aS"(6249, u'(?i)(ants|ant)')"
-p63
-aS"(6331, u'(?i)(mares|mare)')"
-p64
-aS"(5229, u'(?i)(moles|mole)')"
-p65
-aS"(1961, u'(?i)(pens|pen)')"
-p66
-aS"(3812, u'(?i)(studs|stud)')"
-p67
-aS"(5743, u'(?i)(bots|bot)')"
-p68
-aS"(821, u'(?i)(lice|louse)')"
-p69
-atp70
-Rp71
+((lp48
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

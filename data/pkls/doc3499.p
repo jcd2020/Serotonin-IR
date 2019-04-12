@@ -38,56 +38,30 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(220, u'(?i)(striatums|striatum)')"
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p24
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2011
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(153, u'\\\\bmdma')"
-p32
-atp33
-Rp34
+((lp30
+S"(147, u'\\\\bmdma')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(6753, u'(?i)(da|das)')"
+((lp35
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+p36
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(4964, u'(?i)(serins|serin)')"
-p39
-aS"(4091, u'(?i)(adults|adult)')"
-p40
-aS"(468, u'(?i)(oxen|ox)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(3247, u'(?i)(youngs|young)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(391, u'(?i)(alli|allis)')"
-p47
-aS"(2809, u'(?i)(toms|tom)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-atp51
-Rp52
+atp38
+Rp39
 sb.

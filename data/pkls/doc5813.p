@@ -38,9 +38,9 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(105, u'(?i)(par|pars)(-|\\\\s+)?(reticulatas|reticulata)')"
+S"(105, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(reticulatas|reticulata)\\\\b')"
 p24
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p25
 atp26
 Rp27
@@ -52,11 +52,11 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(106, u'\\\\bcgs ?12066a')"
+S"(99, u'\\\\bcgs ?12066a')"
 p32
-aS"(14, u'\\\\bamphetamine')"
+aS"(210, u'\\\\bsulpiride')"
 p33
-aS"(214, u'\\\\bsulpiride')"
+aS"(11, u'\\\\bamphetamine')"
 p34
 atp35
 Rp36
@@ -64,26 +64,10 @@ sS'species'
 p37
 g3
 ((lp38
-S"(5958, u'(?i)(rats|rat)')"
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p39
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(6249, u'(?i)(ants|ant)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(1414, u'(?i)(chars|char)')"
-p47
-aS"(821, u'(?i)(lice|louse)')"
-p48
-atp49
-Rp50
+atp41
+Rp42
 sb.

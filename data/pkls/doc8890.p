@@ -10,11 +10,11 @@ p3
 ((lp4
 S"(5, u'\\\\bcyanopindolol')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(43, u'\\\\bgr ?127935')"
 p6
 aS"(14, u'\\\\bmethiothepin')"
 p7
-aS"(45, u'\\\\bgr ?127935')"
+aS"(31, u'\\\\bway ?100635')"
 p8
 atp9
 Rp10
@@ -56,64 +56,38 @@ sS'regions'
 p31
 g3
 ((lp32
-S"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+tp33
+Rp34
 sS'year'
-p36
+p35
 V1998
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(103, u'\\\\bsumatriptan')"
+((lp38
+S"(96, u'\\\\bsumatriptan')"
+p39
+aS"(100, u'\\\\bcp ?93129')"
 p40
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(155, u'\\\\bmcpp')"
 p41
-aS"(5, u'\\\\b5 ?ct')"
+aS"(114, u'\\\\bl ?694247')"
 p42
-aS"(107, u'\\\\bcp ?93129')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p43
-aS"(121, u'\\\\bl ?694247')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p44
-aS"(161, u'\\\\bmcpp')"
+aS"(219, u'\\\\b5 ?ct')"
 p45
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p46
-atp47
-Rp48
+atp46
+Rp47
 sS'species'
-p49
+p48
 g3
-((lp50
-S"(2323, u'(?i)(bees|bee)')"
-p51
-aS"(1688, u'(?i)(ounces|ounce)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(5743, u'(?i)(bots|bot)')"
-p54
-aS"(468, u'(?i)(oxen|ox)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(3592, u'(?i)(ravens|raven)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(3550, u'(?i)(anis|ani)')"
-p60
-aS"(1961, u'(?i)(pens|pen)')"
-p61
-aS"(1414, u'(?i)(chars|char)')"
-p62
-aS"(6356, u'(?i)(ais|ai)')"
-p63
-atp64
-Rp65
+((lp49
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

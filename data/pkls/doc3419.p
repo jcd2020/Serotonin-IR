@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(55, u'\\\\bnefazodone')"
+S"(48, u'\\\\btrazodone')"
 p5
-aS"(114, u'\\\\bimipramine')"
+aS"(49, u'\\\\bnefazodone')"
 p6
-aS"(50, u'\\\\btrazodone')"
+aS"(104, u'\\\\bimipramine')"
 p7
 atp8
 Rp9
@@ -56,62 +56,28 @@ sS'regions'
 p31
 g3
 ((lp32
-S"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+tp33
+Rp34
 sS'year'
-p36
+p35
 V1995
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(63, u'\\\\bnefazodone')"
+((lp38
+S"(75, u'\\\\btrazodone')"
+p39
+aS"(56, u'\\\\bnefazodone')"
 p40
-aS"(82, u'\\\\btrazodone')"
-p41
-atp42
-Rp43
+atp41
+Rp42
 sS'species'
-p44
+p43
 g3
-((lp45
-S"(2054, u'(?i)(heads|head)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(2568, u'(?i)(hens|hen)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(4201, u'(?i)(kines|kine)')"
-p50
-aS"(479, u'(?i)(lings|ling)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(1349, u'(?i)(rams|ram)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-aS"(7094, u'(?i)(curs|cur)')"
-p57
-aS"(3550, u'(?i)(anis|ani)')"
-p58
-aS"(7058, u'(?i)(does|doe)')"
-p59
-aS"(1961, u'(?i)(pens|pen)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-aS"(5674, u'(?i)(ewes|ewe)')"
-p62
-atp63
-Rp64
+((lp44
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p45
+atp46
+Rp47
 sb.

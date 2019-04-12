@@ -8,102 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\britanserin')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(34, u'\\\\byohimbine')"
+aS"(131, u'\\\\bm1')"
 p6
-aS"(123, u'\\\\bclozapine')"
+aS"(96, u'\\\\brs ?102221')"
 p7
-aS"(56, u'\\\\bclozapine')"
+aS"(99, u'\\\\bsb ?242084')"
 p8
-aS"(67, u'\\\\bhaloperidol')"
+aS"(33, u'\\\\byohimbine')"
 p9
-aS"(54, u'\\\\britanserin')"
+aS"(119, u'\\\\britanserin')"
 p10
-aS"(142, u'\\\\bm1')"
+aS"(58, u'\\\\bhaloperidol')"
 p11
-aS"(110, u'\\\\bsb ?242084')"
-p12
-aS"(108, u'\\\\brs ?102221')"
-p13
-atp14
-Rp15
+atp12
+Rp13
 sS'methods'
-p16
+p14
 g3
-((lp17
+((lp15
 S'Method.ANTAGONIST'
-p18
+p16
 aS'Method.AGONIST'
-p19
-atp20
-Rp21
+p17
+atp18
+Rp19
 sS'topics'
-p22
+p20
 g3
-((lp23
-tp24
-Rp25
+((lp21
+tp22
+Rp23
 sS'receptors'
-p26
+p24
 g3
-((lp27
+((lp25
 S'5ht2c'
-p28
+p26
 aS'5ht2a'
-p29
-atp30
-Rp31
+p27
+atp28
+Rp29
 sS'regions'
-p32
+p30
 g3
-((lp33
-tp34
-Rp35
+((lp31
+tp32
+Rp33
 sS'year'
-p36
+p34
 V2003
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(82, u'\\\\byohimbine')"
 p38
-g3
-((lp39
-S"(89, u'\\\\byohimbine')"
+aS"(23, u'\\\\bclozapine')"
+p39
+aS"(43, u'\\\\bhaloperidol')"
 p40
-aS"(48, u'\\\\bhaloperidol')"
-p41
-aS"(27, u'\\\\bclozapine')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(4964, u'(?i)(serins|serin)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(3522, u'(?i)(tetras|tetra)')"
-p53
-aS"(1961, u'(?i)(pens|pen)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(2809, u'(?i)(toms|tom)')"
-p57
-aS"(5743, u'(?i)(bots|bot)')"
-p58
-atp59
-Rp60
+((lp44
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

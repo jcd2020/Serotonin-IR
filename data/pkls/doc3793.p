@@ -40,7 +40,7 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(71, u'(?i)(cerebellums|cerebellum)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p25
 atp26
 Rp27
@@ -58,46 +58,16 @@ sS'species'
 p34
 g3
 ((lp35
-S"(6753, u'(?i)(da|das)')"
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p36
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p37
-aS"(931, u'(?i)(divers|diver)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p38
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5743, u'(?i)(bots|bot)')"
+aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
 p40
-aS"(3152, u'(?i)(layers|layer)')"
-p41
-aS"(4091, u'(?i)(adults|adult)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(1055, u'(?i)(men|man)')"
-p44
-aS"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(107, u'(?i)(stags|stag)')"
-p46
-aS"(5176, u'(?i)(tegs|teg)')"
-p47
-aS"(3550, u'(?i)(anis|ani)')"
-p48
-aS"(7058, u'(?i)(does|doe)')"
-p49
-aS"(3247, u'(?i)(youngs|young)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(1628, u'(?i)(cod|cod)')"
-p53
-aS"(821, u'(?i)(lice|louse)')"
-p54
-aS"(4133, u'(?i)(pikes|pike)')"
-p55
-atp56
-Rp57
+atp41
+Rp42
 sb.

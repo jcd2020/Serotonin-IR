@@ -40,68 +40,44 @@ aS'5ht2a'
 p22
 aS'5ht7a'
 p23
-aS'5ht5'
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
-p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp27
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p33
+p31
 V2003
-p34
+p32
 sS'agonists'
+p33
+g3
+((lp34
+S"(192, u'\\\\bquipazine')"
 p35
-g3
-((lp36
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p37
-aS"(196, u'\\\\bquipazine')"
-p38
-atp39
-Rp40
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p36
+atp37
+Rp38
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(2323, u'(?i)(bees|bee)')"
+((lp40
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p41
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p43
-aS"(4624, u'(?i)(apes|ape)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p44
-aS"(6753, u'(?i)(da|das)')"
+aS"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
 p45
-aS"(5958, u'(?i)(rats|rat)')"
-p46
-aS"(163, u'(?i)(mice|mouse)')"
-p47
-aS"(7539, u'(?i)(mammals|mammal)')"
-p48
-aS"(3592, u'(?i)(ravens|raven)')"
-p49
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(6215, u'(?i)(racers|racer)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(1949, u'(?i)(pacemakers|pacemaker)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-atp58
-Rp59
+atp46
+Rp47
 sb.

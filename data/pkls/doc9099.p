@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(87, u'\\\\brs ?127445')"
+S"(78, u'\\\\brs ?127445')"
 p5
-aS"(110, u'\\\\bsb ?242084')"
+aS"(84, u'\\\\bsb ?206553')"
 p6
-aS"(95, u'\\\\bsb ?206553')"
+aS"(99, u'\\\\bsb ?242084')"
 p7
 atp8
 Rp9
@@ -62,58 +62,30 @@ sS'regions'
 p34
 g3
 ((lp35
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p36
-aS"(34, u'(?i)(pon|pons)')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'year'
-p40
+p39
 V2011
-p41
+p40
 sS'agonists'
-p42
+p41
 g3
-((lp43
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp42
+S"(140, u'\\\\bbw ?723c86')"
+p43
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p44
-aS"(146, u'\\\\bbw ?723c86')"
-p45
-atp46
-Rp47
+atp45
+Rp46
 sS'species'
-p48
+p47
 g3
-((lp49
-S"(2568, u'(?i)(hens|hen)')"
-p50
-aS"(867, u'(?i)(tits|tit)')"
-p51
-aS"(5743, u'(?i)(bots|bot)')"
-p52
-aS"(479, u'(?i)(lings|ling)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(3726, u'(?i)(mates|mate)')"
-p56
-aS"(2665, u'(?i)(rays|ray)')"
-p57
-aS"(4979, u'(?i)(cats|cat)')"
-p58
-aS"(5958, u'(?i)(rats|rat)')"
-p59
-aS"(7094, u'(?i)(curs|cur)')"
-p60
-aS"(1961, u'(?i)(pens|pen)')"
-p61
-aS"(6356, u'(?i)(ais|ai)')"
-p62
-aS"(6391, u'(?i)(asses|ass)')"
-p63
-atp64
-Rp65
+((lp48
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

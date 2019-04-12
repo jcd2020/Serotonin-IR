@@ -32,80 +32,42 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht3'
 p20
-aS'5ht3'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(241, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)')"
+((lp24
+S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
+p25
+aS"(41, u'(?i)\\\\b(facials|facial)(-|\\\\s+)?(nerves|nerve)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(41, u'(?i)(facials|facial)(-|\\\\s+)?(nerves|nerve)(-|\\\\s+)?(nuclei|nucleus)')"
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'year'
-p30
+p29
 V1993
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(7610, u'(?i)(ernes|erne)')"
+((lp36
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p37
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p38
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(5229, u'(?i)(moles|mole)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(3196, u'(?i)(human|humans)')"
-p43
-aS"(5626, u'(?i)(posters|poster)')"
-p44
-aS"(1349, u'(?i)(rams|ram)')"
-p45
-aS"(3152, u'(?i)(layers|layer)')"
-p46
-aS"(3550, u'(?i)(anis|ani)')"
-p47
-aS"(853, u'(?i)(minas|mina)')"
-p48
-aS"(5537, u'(?i)(hippos|hippo)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(7609, u'(?i)(erns|ern)')"
-p52
-aS"(163, u'(?i)(mice|mouse)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-aS"(1057, u'(?i)(humans|human)')"
-p56
-aS"(2323, u'(?i)(bees|bee)')"
-p57
-aS"(5176, u'(?i)(tegs|teg)')"
-p58
-aS"(1683, u'(?i)(terns|tern)')"
-p59
-atp60
-Rp61
+atp41
+Rp42
 sb.

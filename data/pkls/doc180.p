@@ -38,74 +38,34 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(302, u'(?i)(corpuses|corpus)(-|\\\\s+)?(callosums|callosum)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p24
-aS"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(302, u'(?i)\\\\b(corpuses|corpus)(-|\\\\s+)?(callosums|callosum)\\\\b')"
 p25
-aS"(34, u'(?i)(pon|pons)')"
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'year'
-p29
+p28
 V1998
-p30
+p29
 sS'agonists'
-p31
+p30
 g3
-((lp32
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p33
-atp34
-Rp35
+((lp31
+S"(85, u'\\\\b8 ?oh ?dpat')"
+p32
+atp33
+Rp34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(7094, u'(?i)(curs|cur)')"
+((lp36
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p37
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p38
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(3812, u'(?i)(studs|stud)')"
-p40
-aS"(6391, u'(?i)(asses|ass)')"
-p41
-aS"(479, u'(?i)(lings|ling)')"
-p42
-aS"(4091, u'(?i)(adults|adult)')"
-p43
-aS"(81, u'(?i)(asps|asp)')"
-p44
-aS"(468, u'(?i)(oxen|ox)')"
-p45
-aS"(3152, u'(?i)(layers|layer)')"
-p46
-aS"(3522, u'(?i)(tetras|tetra)')"
-p47
-aS"(821, u'(?i)(lice|louse)')"
-p48
-aS"(853, u'(?i)(minas|mina)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(7609, u'(?i)(erns|ern)')"
-p51
-aS"(163, u'(?i)(mice|mouse)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(6753, u'(?i)(da|das)')"
-p56
-aS"(3726, u'(?i)(mates|mate)')"
-p57
-aS"(7552, u'(?i)(bats|bat)')"
-p58
-aS"(1683, u'(?i)(terns|tern)')"
-p59
-atp60
-Rp61
+atp40
+Rp41
 sb.

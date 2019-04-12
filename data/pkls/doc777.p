@@ -46,70 +46,38 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(215, u'(?i)(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p28
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
 p29
-aS"(291, u'(?i)(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p30
-aS"(292, u'(?i)(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p31
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p32
-aS"(214, u'(?i)(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'year'
-p36
+p35
 V2001
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(155, u'\\\\bmem')"
-p40
-atp41
-Rp42
+((lp38
+S"(149, u'\\\\bmem')"
+p39
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(2323, u'(?i)(bees|bee)')"
+((lp43
+S"(1928, u'(?i)\\\\b(bears|bear)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(5537, u'(?i)(hippos|hippo)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(5626, u'(?i)(posters|poster)')"
-p49
-aS"(1928, u'(?i)(bears|bear)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(468, u'(?i)(oxen|ox)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(3726, u'(?i)(mates|mate)')"
-p55
-aS"(4979, u'(?i)(cats|cat)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-aS"(5783, u'(?i)(hinds|hind)')"
-p61
-atp62
-Rp63
+atp46
+Rp47
 sb.

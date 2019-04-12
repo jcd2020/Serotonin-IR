@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(34, u'\\\\byohimbine')"
-p6
 aS"(9, u'\\\\bgr ?46611')"
+p6
+aS"(31, u'\\\\bway ?100635')"
 p7
-aS"(102, u'\\\\bfluoxetine')"
+aS"(33, u'\\\\byohimbine')"
 p8
 atp9
 Rp10
@@ -42,9 +42,9 @@ g3
 ((lp23
 S'5ht1b'
 p24
-aS'5ht5'
-p25
 aS'5ht1a'
+p25
+aS'5ht5'
 p26
 aS'5ht1'
 p27
@@ -56,60 +56,42 @@ sS'regions'
 p31
 g3
 ((lp32
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p33
-aS"(34, u'(?i)(pon|pons)')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sS'year'
-p37
+p36
 V2000
-p38
+p37
 sS'agonists'
-p39
+p38
 g3
-((lp40
-S"(89, u'\\\\byohimbine')"
+((lp39
+S"(112, u'\\\\bgr ?46611')"
+p40
+aS"(82, u'\\\\byohimbine')"
 p41
-aS"(119, u'\\\\bgr ?46611')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(5537, u'(?i)(hippos|hippo)')"
+((lp45
+S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+p46
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p47
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p48
-aS"(6753, u'(?i)(da|das)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p49
-aS"(6682, u'(?i)(tera|teras)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p50
-aS"(3051, u'(?i)(pigs|pig)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p51
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p52
-aS"(3062, u'(?i)(guineas|guinea)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(2334, u'(?i)(eels|eel)')"
-p55
-aS"(5743, u'(?i)(bots|bot)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(1057, u'(?i)(humans|human)')"
-p58
-aS"(6391, u'(?i)(asses|ass)')"
-p59
-aS"(3196, u'(?i)(human|humans)')"
-p60
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p61
-atp62
-Rp63
+atp53
+Rp54
 sb.

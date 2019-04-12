@@ -36,42 +36,28 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'year'
-p26
+p25
 V1994
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-S"(80, u'\\\\btandospirone')"
+((lp28
+S"(20, u'\\\\bbuspirone')"
+p29
+aS"(73, u'\\\\btandospirone')"
 p30
-aS"(24, u'\\\\bbuspirone')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5958, u'(?i)(rats|rat)')"
-p36
-aS"(163, u'(?i)(mice|mouse)')"
-p37
-aS"(6682, u'(?i)(tera|teras)')"
-p38
-aS"(1055, u'(?i)(men|man)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(1414, u'(?i)(chars|char)')"
-p42
-atp43
-Rp44
+((lp34
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p35
+atp36
+Rp37
 sb.

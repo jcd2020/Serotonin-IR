@@ -8,122 +8,88 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
-aS"(130, u'\\\\britanserin')"
+aS"(125, u'\\\\btropisetron')"
 p6
-aS"(54, u'\\\\britanserin')"
+aS"(124, u'\\\\bondansetron')"
 p7
-aS"(136, u'\\\\btropisetron')"
+aS"(91, u'\\\\bfluoxetine')"
 p8
-aS"(134, u'\\\\bgranisetron')"
+aS"(123, u'\\\\bgranisetron')"
 p9
-aS"(102, u'\\\\bfluoxetine')"
+aS"(119, u'\\\\britanserin')"
 p10
-aS"(135, u'\\\\bondansetron')"
-p11
-atp12
-Rp13
+atp11
+Rp12
 sS'methods'
-p14
+p13
 g3
-((lp15
+((lp14
 S'Method.ANTAGONIST'
-p16
+p15
 aS'Method.AGONIST'
-p17
-atp18
-Rp19
+p16
+atp17
+Rp18
 sS'topics'
-p20
+p19
 g3
-((lp21
+((lp20
 S"(12, u'\\\\banxiogen')"
-p22
+p21
 aS"(11, u'\\\\banxiolyt')"
-p23
+p22
 aS"(10, u'\\\\banxiety')"
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'receptors'
-p27
+p26
 g3
-((lp28
+((lp27
 S'5ht1a'
-p29
+p28
 aS'5ht4'
-p30
+p29
 aS'5ht3a'
-p31
+p30
 aS'5ht2'
-p32
-aS'5ht5'
-p33
+p31
 aS'5ht4a'
-p34
+p32
 aS'5ht3'
-p35
-atp36
-Rp37
+p33
+atp34
+Rp35
 sS'regions'
+p36
+g3
+((lp37
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p38
-g3
-((lp39
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sS'year'
-p43
+p41
 V1998
-p44
+p42
 sS'agonists'
+p43
+g3
+((lp44
+S"(20, u'\\\\bbuspirone')"
 p45
-g3
-((lp46
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p47
-aS"(24, u'\\\\bbuspirone')"
-p48
-atp49
-Rp50
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p46
+atp47
+Rp48
 sS'species'
-p51
+p49
 g3
-((lp52
-S"(6753, u'(?i)(da|das)')"
-p53
-aS"(2568, u'(?i)(hens|hen)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(163, u'(?i)(mice|mouse)')"
-p56
-aS"(6682, u'(?i)(tera|teras)')"
-p57
-aS"(6249, u'(?i)(ants|ant)')"
-p58
-aS"(468, u'(?i)(oxen|ox)')"
-p59
-aS"(1055, u'(?i)(men|man)')"
-p60
-aS"(3726, u'(?i)(mates|mate)')"
-p61
-aS"(3812, u'(?i)(studs|stud)')"
-p62
-aS"(3550, u'(?i)(anis|ani)')"
-p63
-aS"(5917, u'(?i)(roaches|roach)')"
-p64
-aS"(1961, u'(?i)(pens|pen)')"
-p65
-aS"(1414, u'(?i)(chars|char)')"
-p66
-aS"(6356, u'(?i)(ais|ai)')"
-p67
-aS"(4964, u'(?i)(serins|serin)')"
-p68
-atp69
-Rp70
+((lp50
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p51
+atp52
+Rp53
 sb.

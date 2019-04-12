@@ -36,84 +36,48 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht5'
+S'5ht1a'
 p22
-aS'5ht1a'
-p23
 aS'5ht2a'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
+p30
 V2012
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(40, u'\\\\bflibanserin')"
 p34
-g3
-((lp35
-S"(45, u'\\\\bflibanserin')"
-p36
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p37
-atp38
-Rp39
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p35
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(2183, u'(?i)(gars|gar)')"
+((lp39
+S"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
+p40
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+p41
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p43
-aS"(3196, u'(?i)(human|humans)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p44
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(675, u'(?i)(marmosets|marmoset)')"
-p47
-aS"(6125, u'(?i)(females|female)')"
-p48
-aS"(2933, u'(?i)(sires|sire)')"
-p49
-aS"(5967, u'(?i)(males|male)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(2809, u'(?i)(toms|tom)')"
-p52
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p53
-aS"(2670, u'(?i)(arabs|arab)')"
-p54
-aS"(5958, u'(?i)(rats|rat)')"
-p55
-aS"(4201, u'(?i)(kines|kine)')"
-p56
-aS"(6682, u'(?i)(tera|teras)')"
-p57
-aS"(1055, u'(?i)(men|man)')"
-p58
-aS"(6753, u'(?i)(da|das)')"
-p59
-aS"(1057, u'(?i)(humans|human)')"
-p60
-aS"(4979, u'(?i)(cats|cat)')"
-p61
-aS"(3726, u'(?i)(mates|mate)')"
-p62
-aS"(4964, u'(?i)(serins|serin)')"
-p63
-atp64
-Rp65
+atp46
+Rp47
 sb.

@@ -32,82 +32,52 @@ g3
 ((lp18
 S'5ht7'
 p19
-aS'5ht5'
-p20
 aS'5ht1a'
-p21
+p20
 aS'5ht7d'
-p22
+p21
 aS'5ht2'
-p23
-atp24
-Rp25
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+((lp26
+tp27
+Rp28
 sS'year'
-p31
+p29
 V2011
-p32
+p30
 sS'agonists'
-p33
+p31
 g3
-((lp34
-tp35
-Rp36
+((lp32
+tp33
+Rp34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(3672, u'(?i)(drosophilas|drosophila)(-|\\\\s+)?(melanogasters|melanogaster)')"
+((lp36
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p37
+aS"(3381, u'(?i)\\\\b(flies|fly)\\\\b')"
+p38
+aS"(3672, u'(?i)\\\\b(drosophilas|drosophila)(-|\\\\s+)?(melanogasters|melanogaster)\\\\b')"
 p39
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(3671, u'(?i)\\\\b(drosophilas|drosophila)\\\\b')"
 p40
-aS"(3671, u'(?i)(drosophilas|drosophila)')"
+aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
 p41
-aS"(5229, u'(?i)(moles|mole)')"
+aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
 p42
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(4533, u'(?i)\\\\b(fruits|fruit)(-|\\\\s+)?(flies|fly)\\\\b')"
 p43
-aS"(6125, u'(?i)(females|female)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p44
-aS"(702, u'(?i)(genets|genet)')"
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
 p45
-aS"(3381, u'(?i)(flies|fly)')"
-p46
-aS"(7539, u'(?i)(mammals|mammal)')"
-p47
-aS"(4091, u'(?i)(adults|adult)')"
-p48
-aS"(5967, u'(?i)(males|male)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(3550, u'(?i)(anis|ani)')"
-p51
-aS"(4533, u'(?i)(fruits|fruit)(-|\\\\s+)?(flies|fly)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(1055, u'(?i)(men|man)')"
-p54
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p55
-aS"(1414, u'(?i)(chars|char)')"
-p56
-aS"(2323, u'(?i)(bees|bee)')"
-p57
-aS"(1054, u'(?i)(homoes|homo)')"
-p58
-aS"(3529, u'(?i)(larvas|larva)')"
-p59
-aS"(5917, u'(?i)(roaches|roach)')"
-p60
-atp61
-Rp62
+atp46
+Rp47
 sb.

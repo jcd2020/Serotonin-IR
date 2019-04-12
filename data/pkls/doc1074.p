@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\byohimbine')"
+S"(33, u'\\\\byohimbine')"
 p5
 atp6
 Rp7
@@ -26,31 +26,31 @@ sS'topics'
 p14
 g3
 ((lp15
-S"(12, u'\\\\banxiogen')"
+S"(37, u'\\\\baddict')"
 p16
-aS"(11, u'\\\\banxiolyt')"
+aS"(12, u'\\\\banxiogen')"
 p17
-aS"(10, u'\\\\banxiety')"
+aS"(11, u'\\\\banxiolyt')"
 p18
-aS"(16, u'\\\\bfeed')"
+aS"(10, u'\\\\banxiety')"
 p19
-atp20
-Rp21
+aS"(16, u'\\\\bfeed')"
+p20
+atp21
+Rp22
 sS'receptors'
-p22
+p23
 g3
-((lp23
+((lp24
 S'5ht1a'
-p24
-atp25
-Rp26
+p25
+atp26
+Rp27
 sS'regions'
-p27
+p28
 g3
-((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
+((lp29
+tp30
 Rp31
 sS'year'
 p32
@@ -60,11 +60,11 @@ sS'agonists'
 p34
 g3
 ((lp35
-S"(89, u'\\\\byohimbine')"
+S"(20, u'\\\\bbuspirone')"
 p36
-aS"(153, u'\\\\bmdma')"
+aS"(147, u'\\\\bmdma')"
 p37
-aS"(24, u'\\\\bbuspirone')"
+aS"(82, u'\\\\byohimbine')"
 p38
 atp39
 Rp40
@@ -72,48 +72,12 @@ sS'species'
 p41
 g3
 ((lp42
-S"(2323, u'(?i)(bees|bee)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p43
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(7609, u'(?i)(erns|ern)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(6682, u'(?i)(tera|teras)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(1349, u'(?i)(rams|ram)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(7058, u'(?i)(does|doe)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(1414, u'(?i)(chars|char)')"
-p58
-aS"(6391, u'(?i)(asses|ass)')"
-p59
-aS"(2809, u'(?i)(toms|tom)')"
-p60
-aS"(5743, u'(?i)(bots|bot)')"
-p61
-aS"(6356, u'(?i)(ais|ai)')"
-p62
-aS"(5949, u'(?i)(dogs|dog)')"
-p63
-atp64
-Rp65
+atp46
+Rp47
 sb.

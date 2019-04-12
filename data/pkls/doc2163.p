@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bway ?100635')"
+S"(31, u'\\\\bway ?100635')"
 p5
 atp6
 Rp7
@@ -68,74 +68,30 @@ sS'regions'
 p37
 g3
 ((lp38
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p39
-aS"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p40
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p41
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sS'year'
-p45
+p44
 V2004
-p46
+p45
 sS'agonists'
-p47
+p46
 g3
-((lp48
-tp49
-Rp50
+((lp47
+tp48
+Rp49
 sS'species'
-p51
+p50
 g3
-((lp52
-S"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(5229, u'(?i)(moles|mole)')"
-p54
-aS"(3048, u'(?i)(hogs|hog)')"
-p55
-aS"(3812, u'(?i)(studs|stud)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(1070, u'(?i)(pets|pet)')"
-p58
-aS"(479, u'(?i)(lings|ling)')"
-p59
-aS"(468, u'(?i)(oxen|ox)')"
-p60
-aS"(5743, u'(?i)(bots|bot)')"
-p61
-aS"(2809, u'(?i)(toms|tom)')"
-p62
-aS"(5537, u'(?i)(hippos|hippo)')"
-p63
-aS"(853, u'(?i)(minas|mina)')"
-p64
-aS"(6249, u'(?i)(ants|ant)')"
-p65
-aS"(867, u'(?i)(tits|tit)')"
-p66
-aS"(1055, u'(?i)(men|man)')"
-p67
-aS"(6215, u'(?i)(racers|racer)')"
-p68
-aS"(6753, u'(?i)(da|das)')"
-p69
-aS"(4371, u'(?i)(lizas|liza)')"
-p70
-aS"(5949, u'(?i)(dogs|dog)')"
-p71
-aS"(2323, u'(?i)(bees|bee)')"
-p72
-aS"(2568, u'(?i)(hens|hen)')"
-p73
-aS"(4979, u'(?i)(cats|cat)')"
-p74
-atp75
-Rp76
+((lp51
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+p52
+atp53
+Rp54
 sb.

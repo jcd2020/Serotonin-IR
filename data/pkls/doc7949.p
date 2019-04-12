@@ -8,124 +8,86 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(133, u'\\\\bmianserin')"
 p5
-aS"(200, u'\\\\bmesulergine')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(130, u'\\\\britanserin')"
+aS"(193, u'\\\\bmesulergine')"
 p7
-aS"(123, u'\\\\bclozapine')"
+aS"(117, u'\\\\bketanserin')"
 p8
-aS"(56, u'\\\\bclozapine')"
+aS"(119, u'\\\\britanserin')"
 p9
-aS"(128, u'\\\\bketanserin')"
-p10
-aS"(54, u'\\\\britanserin')"
-p11
-aS"(117, u'\\\\bmianserin')"
-p12
-atp13
-Rp14
+atp10
+Rp11
 sS'methods'
-p15
+p12
 g3
-((lp16
+((lp13
 S'Method.ANTAGONIST'
-p17
-atp18
-Rp19
+p14
+atp15
+Rp16
 sS'topics'
-p20
+p17
 g3
-((lp21
+((lp18
 S"(16, u'\\\\bfeed')"
-p22
+p19
 aS"(10, u'\\\\banxiety')"
-p23
+p20
 aS"(4, u'\\\\blocomot')"
-p24
-atp25
-Rp26
+p21
+atp22
+Rp23
 sS'receptors'
-p27
+p24
 g3
-((lp28
-S'5ht5'
-p29
-aS'5ht2c'
-p30
-atp31
-Rp32
+((lp25
+S'5ht2c'
+p26
+atp27
+Rp28
 sS'regions'
+p29
+g3
+((lp30
+S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p31
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p32
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p33
-g3
-((lp34
-S"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
+p34
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p35
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
 p36
-aS"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
-p37
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
-p38
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p39
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
-p40
-aS"(389, u'(?i)(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)')"
-p41
-atp42
-Rp43
+atp37
+Rp38
 sS'year'
-p44
+p39
 V1999
-p45
+p40
 sS'agonists'
-p46
+p41
 g3
-((lp47
-S"(171, u'\\\\bmesulergine')"
-p48
-aS"(27, u'\\\\bclozapine')"
-p49
-atp50
-Rp51
+((lp42
+S"(165, u'\\\\bmesulergine')"
+p43
+aS"(23, u'\\\\bclozapine')"
+p44
+atp45
+Rp46
 sS'species'
-p52
+p47
 g3
-((lp53
-S"(5537, u'(?i)(hippos|hippo)')"
-p54
-aS"(6753, u'(?i)(da|das)')"
-p55
-aS"(5958, u'(?i)(rats|rat)')"
-p56
-aS"(6744, u'(?i)(maras|mara)')"
-p57
-aS"(1686, u'(?i)(gibs|gib)')"
-p58
-aS"(2183, u'(?i)(gars|gar)')"
-p59
-aS"(1055, u'(?i)(men|man)')"
-p60
-aS"(4604, u'(?i)(mites|mite)')"
-p61
-aS"(4964, u'(?i)(serins|serin)')"
-p62
-aS"(7094, u'(?i)(curs|cur)')"
-p63
-aS"(6249, u'(?i)(ants|ant)')"
-p64
-aS"(1057, u'(?i)(humans|human)')"
-p65
-aS"(1414, u'(?i)(chars|char)')"
-p66
-aS"(3196, u'(?i)(human|humans)')"
-p67
-aS"(2809, u'(?i)(toms|tom)')"
-p68
-aS"(6356, u'(?i)(ais|ai)')"
-p69
-atp70
-Rp71
+((lp48
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p49
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+p50
+atp51
+Rp52
 sb.

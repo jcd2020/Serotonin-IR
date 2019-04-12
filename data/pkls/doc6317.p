@@ -8,122 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bquetiapine')"
+S"(50, u'\\\\bquetiapine')"
 p5
-aS"(125, u'\\\\bquetiapine')"
+aS"(112, u'\\\\bquetiapine')"
 p6
-aS"(123, u'\\\\bclozapine')"
+aS"(110, u'\\\\bclozapine')"
 p7
-aS"(56, u'\\\\bclozapine')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.PET'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(15, u'\\\\bschizophreni')"
-p18
+p17
 aS"(9, u'\\\\bdepress')"
-p19
+p18
 aS"(29, u'\\\\bsex')"
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht1a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(220, u'(?i)(striatums|striatum)')"
+((lp28
+S"(84, u'(?i)\\\\b(mesencephalons|mesencephalon)\\\\b')"
+p29
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p30
-aS"(84, u'(?i)(mesencephalons|mesencephalon)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p31
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(34, u'(?i)\\\\b(pon|pons)\\\\b')"
 p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'year'
-p36
+p35
 V2002
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(71, u'\\\\bquetiapine')"
+((lp38
+S"(64, u'\\\\bquetiapine')"
+p39
+aS"(23, u'\\\\bclozapine')"
 p40
-aS"(27, u'\\\\bclozapine')"
-p41
-atp42
-Rp43
+atp41
+Rp42
 sS'species'
-p44
+p43
 g3
-((lp45
-S"(4163, u'(?i)(ermines|ermine)')"
+((lp44
+S"(3191, u'(?i)\\\\b(worlds|world)\\\\b')"
+p45
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p46
-aS"(7094, u'(?i)(curs|cur)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(3812, u'(?i)(studs|stud)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(1070, u'(?i)(pets|pet)')"
-p52
-aS"(3601, u'(?i)(efts|eft)')"
-p53
-aS"(479, u'(?i)(lings|ling)')"
-p54
-aS"(81, u'(?i)(asps|asp)')"
-p55
-aS"(1349, u'(?i)(rams|ram)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-aS"(853, u'(?i)(minas|mina)')"
-p59
-aS"(5958, u'(?i)(rats|rat)')"
-p60
-aS"(7609, u'(?i)(erns|ern)')"
-p61
-aS"(1055, u'(?i)(men|man)')"
-p62
-aS"(6753, u'(?i)(da|das)')"
-p63
-aS"(1961, u'(?i)(pens|pen)')"
-p64
-aS"(2323, u'(?i)(bees|bee)')"
-p65
-aS"(4979, u'(?i)(cats|cat)')"
-p66
-aS"(3191, u'(?i)(worlds|world)')"
-p67
-aS"(1683, u'(?i)(terns|tern)')"
-p68
-atp69
-Rp70
+atp47
+Rp48
 sb.

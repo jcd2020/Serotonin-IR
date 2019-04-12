@@ -68,20 +68,6 @@ sS'species'
 p39
 g3
 ((lp40
-S"(2323, u'(?i)(bees|bee)')"
-p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(1414, u'(?i)(chars|char)')"
-p47
-atp48
-Rp49
+tp41
+Rp42
 sb.

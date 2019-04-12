@@ -54,22 +54,8 @@ sS'species'
 p32
 g3
 ((lp33
-S"(6249, u'(?i)(ants|ant)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p34
-aS"(7609, u'(?i)(erns|ern)')"
-p35
-aS"(7610, u'(?i)(ernes|erne)')"
-p36
-aS"(163, u'(?i)(mice|mouse)')"
-p37
-aS"(4604, u'(?i)(mites|mite)')"
-p38
-aS"(6356, u'(?i)(ais|ai)')"
-p39
-aS"(3431, u'(?i)(roans|roan)')"
-p40
-aS"(1683, u'(?i)(terns|tern)')"
-p41
-atp42
-Rp43
+atp35
+Rp36
 sb.

@@ -22,82 +22,54 @@ sS'topics'
 p12
 g3
 ((lp13
-S"(8, u'\\\\blearning')"
+S"(37, u'\\\\baddict')"
 p14
-aS"(7, u'\\\\bmemory')"
+aS"(8, u'\\\\blearning')"
 p15
-atp16
-Rp17
+aS"(7, u'\\\\bmemory')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
+((lp20
 S'5ht2a'
-p20
-atp21
-Rp22
+p21
+atp22
+Rp23
 sS'regions'
-p23
+p24
 g3
-((lp24
-tp25
-Rp26
+((lp25
+tp26
+Rp27
 sS'year'
-p27
-V2013
 p28
-sS'agonists'
+V2013
 p29
+sS'agonists'
+p30
 g3
-((lp30
-S"(153, u'\\\\bmdma')"
-p31
-aS"(14, u'\\\\bamphetamine')"
+((lp31
+S"(147, u'\\\\bmdma')"
 p32
-aS"(155, u'\\\\bmem')"
+aS"(11, u'\\\\bamphetamine')"
 p33
-aS"(33, u'\\\\bdoi')"
+aS"(149, u'\\\\bmem')"
 p34
-atp35
-Rp36
+aS"(175, u'\\\\bdoi')"
+p35
+atp36
+Rp37
 sS'species'
-p37
+p38
 g3
-((lp38
-S"(4624, u'(?i)(apes|ape)')"
-p39
-aS"(5537, u'(?i)(hippos|hippo)')"
+((lp39
+S"(1266, u'(?i)\\\\b(embryos|embryo)\\\\b')"
 p40
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(7609, u'(?i)(erns|ern)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(1266, u'(?i)(embryos|embryo)')"
-p44
-aS"(81, u'(?i)(asps|asp)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(1349, u'(?i)(rams|ram)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(3522, u'(?i)(tetras|tetra)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(1683, u'(?i)(terns|tern)')"
-p55
-atp56
-Rp57
+atp42
+Rp43
 sb.

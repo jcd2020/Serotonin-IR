@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(36, u'\\\\baripiprazole')"
+S"(35, u'\\\\baripiprazole')"
 p5
 atp6
 Rp7
@@ -54,50 +54,30 @@ sS'regions'
 p30
 g3
 ((lp31
-S"(314, u'(?i)(mesocorticals|mesocortical)(-|\\\\s+)?(pathways|pathway)')"
+S"(314, u'(?i)\\\\b(mesocorticals|mesocortical)(-|\\\\s+)?(pathways|pathway)\\\\b')"
 p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'year'
-p36
+p35
 V2014
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(16, u'\\\\baripiprazole')"
-p40
-atp41
-Rp42
+((lp38
+S"(223, u'\\\\baripiprazole')"
+p39
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(2323, u'(?i)(bees|bee)')"
+((lp43
+S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(2670, u'(?i)(arabs|arab)')"
-p46
-aS"(5958, u'(?i)(rats|rat)')"
-p47
-aS"(5967, u'(?i)(males|male)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(1349, u'(?i)(rams|ram)')"
-p50
-aS"(4518, u'(?i)(makoes|mako)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(4074, u'(?i)(bulls|bull)')"
-p55
-atp56
-Rp57
+atp46
+Rp47
 sb.

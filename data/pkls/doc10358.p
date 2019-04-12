@@ -8,102 +8,76 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
+((lp9
 S'Method.ANTAGONIST'
-p11
+p10
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p11
+atp12
+Rp13
 sS'topics'
-p15
+p14
 g3
-((lp16
+((lp15
 S"(16, u'\\\\bfeed')"
-p17
+p16
 aS"(4, u'\\\\blocomot')"
-p18
-atp19
-Rp20
+p17
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
+((lp21
 S'5ht1b'
-p23
+p22
 aS'5ht1a'
-p24
+p23
 aS'5ht2b'
-p25
+p24
 aS'5ht2'
-p26
+p25
 aS'5ht2a'
-p27
-aS'5ht5'
-p28
+p26
 aS'5ht2c'
-p29
-atp30
-Rp31
+p27
+atp28
+Rp29
 sS'regions'
+p30
+g3
+((lp31
+S"(90, u'(?i)\\\\b(tegmentums|tegmentum)\\\\b')"
 p32
-g3
-((lp33
-S"(90, u'(?i)(tegmentums|tegmentum)')"
-p34
-aS"(34, u'(?i)(pon|pons)')"
-p35
-atp36
-Rp37
+atp33
+Rp34
 sS'year'
-p38
+p35
 V2016
-p39
+p36
 sS'agonists'
-p40
+p37
 g3
-((lp41
-S"(146, u'\\\\bbw ?723c86')"
-p42
-atp43
-Rp44
+((lp38
+S"(140, u'\\\\bbw ?723c86')"
+p39
+atp40
+Rp41
 sS'species'
-p45
+p42
 g3
-((lp46
-S"(4096, u'(?i)(chows|chow)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(2568, u'(?i)(hens|hen)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(5176, u'(?i)(tegs|teg)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(7127, u'(?i)(monitors|monitor)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+((lp43
+S"(4096, u'(?i)\\\\b(chows|chow)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

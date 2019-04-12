@@ -54,26 +54,12 @@ sS'species'
 p32
 g3
 ((lp33
-S"(5958, u'(?i)(rats|rat)')"
+S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p34
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p35
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(4091, u'(?i)(adults|adult)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(853, u'(?i)(minas|mina)')"
-p39
-aS"(4979, u'(?i)(cats|cat)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(7609, u'(?i)(erns|ern)')"
-p42
-aS"(1683, u'(?i)(terns|tern)')"
-p43
-atp44
-Rp45
+atp37
+Rp38
 sb.

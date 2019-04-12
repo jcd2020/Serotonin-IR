@@ -40,9 +40,9 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(302, u'(?i)(corpuses|corpus)(-|\\\\s+)?(callosums|callosum)')"
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p25
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(302, u'(?i)\\\\b(corpuses|corpus)(-|\\\\s+)?(callosums|callosum)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,52 +60,12 @@ sS'species'
 p35
 g3
 ((lp36
-S"(7094, u'(?i)(curs|cur)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p37
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p39
-aS"(5229, u'(?i)(moles|mole)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(6391, u'(?i)(asses|ass)')"
-p42
-aS"(1070, u'(?i)(pets|pet)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(107, u'(?i)(stags|stag)')"
-p45
-aS"(3550, u'(?i)(anis|ani)')"
-p46
-aS"(7127, u'(?i)(monitors|monitor)')"
-p47
-aS"(1291, u'(?i)(ratels|ratel)')"
-p48
-aS"(5537, u'(?i)(hippos|hippo)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(4201, u'(?i)(kines|kine)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(2334, u'(?i)(eels|eel)')"
-p53
-aS"(6753, u'(?i)(da|das)')"
-p54
-aS"(7058, u'(?i)(does|doe)')"
-p55
-aS"(5799, u'(?i)(rodents|rodent)')"
-p56
-aS"(2568, u'(?i)(hens|hen)')"
-p57
-aS"(4979, u'(?i)(cats|cat)')"
-p58
-aS"(2389, u'(?i)(spats|spat)')"
-p59
-atp60
-Rp61
+atp40
+Rp41
 sb.

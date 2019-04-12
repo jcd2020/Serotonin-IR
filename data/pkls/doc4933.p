@@ -52,32 +52,14 @@ sS'species'
 p31
 g3
 ((lp32
-S"(1395, u'(?i)(frogs|frog)')"
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
 p33
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p34
-aS"(479, u'(?i)(lings|ling)')"
+aS"(2363, u'(?i)\\\\b(bullfrogs|bullfrog)\\\\b')"
 p35
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
 p36
-aS"(1055, u'(?i)(men|man)')"
-p37
-aS"(7094, u'(?i)(curs|cur)')"
-p38
-aS"(3152, u'(?i)(layers|layer)')"
-p39
-aS"(5743, u'(?i)(bots|bot)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(6391, u'(?i)(asses|ass)')"
-p42
-aS"(2363, u'(?i)(bullfrogs|bullfrog)')"
-p43
-aS"(4074, u'(?i)(bulls|bull)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-atp46
-Rp47
+atp37
+Rp38
 sb.

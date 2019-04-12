@@ -8,102 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(52, u'\\\\bmetergoline')"
+S"(34, u'\\\\bmetergoline')"
 p5
 aS"(17, u'\\\\bnan ?190')"
 p6
-aS"(35, u'\\\\bmetergoline')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.ANTAGONIST'
-p12
+p11
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
-tp18
-Rp19
+((lp16
+tp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
+((lp20
 S'5ht1c'
-p22
+p21
 aS'5ht1b'
-p23
-aS'5ht5'
-p24
-aS'5ht3'
-p25
-aS'5ht2'
-p26
-aS'5ht1'
-p27
+p22
 aS'5ht1a'
-p28
-atp29
-Rp30
+p23
+aS'5ht3'
+p24
+aS'5ht2'
+p25
+aS'5ht1'
+p26
+atp27
+Rp28
 sS'regions'
+p29
+g3
+((lp30
+S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-g3
-((lp32
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p33
-aS"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p34
-aS"(34, u'(?i)(pon|pons)')"
-p35
-atp36
-Rp37
+aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p32
+atp33
+Rp34
 sS'year'
-p38
+p35
 V1993
-p39
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(192, u'\\\\bquipazine')"
+p39
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p40
-g3
-((lp41
-S"(74, u'\\\\bru ?24969')"
-p42
-aS"(196, u'\\\\bquipazine')"
-p43
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p44
-atp45
-Rp46
+aS"(67, u'\\\\bru ?24969')"
+p41
+atp42
+Rp43
 sS'species'
-p47
+p44
 g3
-((lp48
-S"(6753, u'(?i)(da|das)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(7539, u'(?i)(mammals|mammal)')"
-p52
-aS"(4163, u'(?i)(ermines|ermine)')"
-p53
-aS"(7094, u'(?i)(curs|cur)')"
-p54
-aS"(4979, u'(?i)(cats|cat)')"
-p55
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(6356, u'(?i)(ais|ai)')"
-p58
-atp59
-Rp60
+((lp45
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p46
+atp47
+Rp48
 sb.

@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(126, u'\\\\bcinanserin')"
+S"(115, u'\\\\bcinanserin')"
 p5
-aS"(135, u'\\\\bondansetron')"
-p6
 aS"(14, u'\\\\bmethiothepin')"
+p6
+aS"(124, u'\\\\bondansetron')"
 p7
 atp8
 Rp9
@@ -38,66 +38,48 @@ g3
 ((lp21
 S'5ht7'
 p22
-aS'5ht5'
-p23
 aS'5ht4'
-p24
+p23
 aS'5ht3'
-p25
+p24
 aS'5ht2c'
-p26
+p25
 aS'5ht1'
-p27
+p26
 aS'5ht2'
-p28
-atp29
-Rp30
+p27
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+((lp31
+S"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
+p32
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p33
-aS"(214, u'(?i)(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p34
-aS"(209, u'(?i)(amygdalas|amygdala)')"
-p35
-aS"(215, u'(?i)(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)')"
-p36
-atp37
-Rp38
+atp35
+Rp36
 sS'year'
-p39
+p37
 V2009
-p40
+p38
 sS'agonists'
+p39
+g3
+((lp40
+S"(166, u'\\\\bmk ?212')"
 p41
-g3
-((lp42
-S"(172, u'\\\\bmk ?212')"
-p43
-atp44
-Rp45
+atp42
+Rp43
 sS'species'
-p46
+p44
 g3
-((lp47
-S"(5537, u'(?i)(hippos|hippo)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(6682, u'(?i)(tera|teras)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(4964, u'(?i)(serins|serin)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-atp56
-Rp57
+((lp45
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

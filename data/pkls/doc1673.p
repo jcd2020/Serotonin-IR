@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(142, u'\\\\bm1')"
+S"(131, u'\\\\bm1')"
 p5
 atp6
 Rp7
@@ -26,19 +26,19 @@ sS'topics'
 p14
 g3
 ((lp15
-S"(18, u'\\\\bpsychostim')"
+S"(37, u'\\\\baddict')"
 p16
-aS"(4, u'\\\\blocomot')"
+aS"(18, u'\\\\bpsychostim')"
 p17
-atp18
-Rp19
+aS"(4, u'\\\\blocomot')"
+p18
+atp19
+Rp20
 sS'receptors'
-p20
+p21
 g3
-((lp21
-S'5ht5'
-p22
-aS'5ht2c'
+((lp22
+S'5ht2c'
 p23
 aS'5ht2a'
 p24
@@ -48,56 +48,34 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(256, u'(?i)(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)')"
+S"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p30
-aS"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
-p34
+p33
 V2013
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(147, u'\\\\bro60 ?0175')"
-p38
-atp39
-Rp40
+((lp36
+S"(141, u'\\\\bro60 ?0175')"
+p37
+atp38
+Rp39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(6753, u'(?i)(da|das)')"
+((lp41
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p42
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p43
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(5743, u'(?i)(bots|bot)')"
-p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(2942, u'(?i)(daws|daw)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(7127, u'(?i)(monitors|monitor)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(6356, u'(?i)(ais|ai)')"
-p53
-aS"(6325, u'(?i)(caudates|caudate)')"
-p54
-aS"(5497, u'(?i)(fices|fice)')"
-p55
-atp56
-Rp57
+atp45
+Rp46
 sb.

@@ -32,7 +32,7 @@ S'5ht7'
 p18
 aS'5ht6'
 p19
-aS'5ht5'
+aS'5ht1a'
 p20
 aS'5ht4'
 p21
@@ -44,7 +44,7 @@ aS'5ht2a'
 p24
 aS'5ht6a'
 p25
-aS'5ht1a'
+aS'5ht5'
 p26
 aS'5ht2b'
 p27
@@ -70,26 +70,6 @@ sS'species'
 p40
 g3
 ((lp41
-S"(2568, u'(?i)(hens|hen)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(4163, u'(?i)(ermines|ermine)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(6215, u'(?i)(racers|racer)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-atp52
-Rp53
+tp42
+Rp43
 sb.

@@ -30,60 +30,34 @@ g3
 ((lp17
 S'5ht7'
 p18
-aS'5ht5'
-p19
 aS'5ht1a'
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+((lp23
+tp24
+Rp25
 sS'year'
-p28
+p26
 V2008
-p29
+p27
 sS'agonists'
+p28
+g3
+((lp29
+S"(234, u'\\\\bn ?1234 ?tetrahydronaphthalen ?1 ?yl ?4 ?aryl ?1 ?piperazinehexanamides')"
 p30
-g3
-((lp31
-S"(236, u'\\\\bn ?1234 ?tetrahydronaphthalen ?1 ?yl ?4 ?aryl ?1 ?piperazinehexanamides')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'species'
-p35
+p33
 g3
-((lp36
-S"(4624, u'(?i)(apes|ape)')"
-p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(7488, u'(?i)(molas|mola)')"
-p41
-aS"(2334, u'(?i)(eels|eel)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(3522, u'(?i)(tetras|tetra)')"
-p45
-aS"(1961, u'(?i)(pens|pen)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-atp49
-Rp50
+((lp34
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p35
+atp36
+Rp37
 sb.

@@ -52,15 +52,15 @@ sS'agonists'
 p30
 g3
 ((lp31
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(220, u'\\\\b5 ?methoxytryptamine')"
 p32
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(197, u'\\\\bbimu ?8')"
 p33
-aS"(225, u'\\\\b5 ?meot')"
+aS"(149, u'\\\\bmem')"
 p34
-aS"(155, u'\\\\bmem')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p35
-aS"(201, u'\\\\bbimu ?8')"
+aS"(222, u'\\\\b5 ?meot')"
 p36
 atp37
 Rp38
@@ -68,48 +68,20 @@ sS'species'
 p39
 g3
 ((lp40
-S"(2323, u'(?i)(bees|bee)')"
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p42
-aS"(6753, u'(?i)(da|das)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p43
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p44
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p45
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(1266, u'(?i)\\\\b(embryos|embryo)\\\\b')"
 p46
-aS"(1266, u'(?i)(embryos|embryo)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p47
-aS"(3051, u'(?i)(pigs|pig)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(5863, u'(?i)(entires|entire)')"
-p51
-aS"(3062, u'(?i)(guineas|guinea)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(1057, u'(?i)(humans|human)')"
-p55
-aS"(5229, u'(?i)(moles|mole)')"
-p56
-aS"(1961, u'(?i)(pens|pen)')"
-p57
-aS"(1414, u'(?i)(chars|char)')"
-p58
-aS"(3196, u'(?i)(human|humans)')"
-p59
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p60
-aS"(4979, u'(?i)(cats|cat)')"
-p61
-atp62
-Rp63
+atp48
+Rp49
 sb.

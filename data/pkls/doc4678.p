@@ -48,72 +48,46 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(209, u'(?i)(amygdalas|amygdala)')"
+S"(187, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(187, u'(?i)(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p30
-aS"(175, u'(?i)(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)')"
+aS"(175, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)\\\\b')"
 p31
-aS"(178, u'(?i)(laterals|lateral)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p32
-aS"(216, u'(?i)(strias|stria)(-|\\\\s+)?(terminali|terminalis)')"
+aS"(178, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p33
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
 p34
-aS"(34, u'(?i)(pon|pons)')"
+aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p35
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p36
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p37
-atp38
-Rp39
+atp36
+Rp37
 sS'year'
-p40
+p38
 V2005
-p41
+p39
 sS'agonists'
+p40
+g3
+((lp41
+S"(175, u'\\\\bdoi')"
 p42
-g3
-((lp43
-S"(33, u'\\\\bdoi')"
-p44
-atp45
-Rp46
+atp43
+Rp44
 sS'species'
-p47
+p45
 g3
-((lp48
-S"(6753, u'(?i)(da|das)')"
+((lp46
+S"(6967, u'(?i)\\\\b(scavengers|scavenger)\\\\b')"
+p47
+aS"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
+p48
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p49
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
 p50
-aS"(4979, u'(?i)(cats|cat)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(6967, u'(?i)(scavengers|scavenger)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(3726, u'(?i)(mates|mate)')"
-p56
-aS"(3592, u'(?i)(ravens|raven)')"
-p57
-aS"(853, u'(?i)(minas|mina)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-aS"(4176, u'(?i)(greys|grey)')"
-p60
-aS"(6356, u'(?i)(ais|ai)')"
-p61
-aS"(6878, u'(?i)(guans|guan)')"
-p62
-aS"(6744, u'(?i)(maras|mara)')"
-p63
-atp64
-Rp65
+atp51
+Rp52
 sb.

@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(96, u'\\\\bsb ?215505')"
+S"(99, u'\\\\bsb ?242084')"
 p5
-aS"(142, u'\\\\bm1')"
+aS"(85, u'\\\\bsb ?215505')"
 p6
-aS"(110, u'\\\\bsb ?242084')"
+aS"(131, u'\\\\bm1')"
 p7
 atp8
 Rp9
@@ -36,58 +36,36 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht5'
+S'5ht2b'
 p22
-aS'5ht2b'
-p23
 aS'5ht2c'
-p24
+p23
 aS'5ht2a'
-p25
-atp26
-Rp27
+p24
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+((lp28
+tp29
+Rp30
 sS'year'
-p33
+p31
 V2003
-p34
+p32
 sS'agonists'
-p35
+p33
 g3
-((lp36
-tp37
-Rp38
+((lp34
+tp35
+Rp36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(1070, u'(?i)(pets|pet)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(867, u'(?i)(tits|tit)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(81, u'(?i)(asps|asp)')"
-p45
-aS"(3404, u'(?i)(titis|titi)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(3812, u'(?i)(studs|stud)')"
-p49
-aS"(7552, u'(?i)(bats|bat)')"
-p50
-atp51
-Rp52
+((lp38
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

@@ -36,13 +36,13 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p23
-aS"(59, u'(?i)(superiors|superior)(-|\\\\s+)?(olivaries|olivary)(-|\\\\s+)?(complexes|complex)')"
+aS"(59, u'(?i)\\\\b(superiors|superior)(-|\\\\s+)?(olivaries|olivary)(-|\\\\s+)?(complexes|complex)\\\\b')"
 p24
-aS"(44, u'(?i)(cochlears|cochlear)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)')"
+aS"(44, u'(?i)\\\\b(cochlears|cochlear)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)\\\\b')"
 p25
-aS"(361, u'(?i)(laterals|lateral)(-|\\\\s+)?(lemniscuses|lemniscus)')"
+aS"(361, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(lemniscuses|lemniscus)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,20 +60,8 @@ sS'species'
 p35
 g3
 ((lp36
-S"(2054, u'(?i)(heads|head)')"
+S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p37
-aS"(4979, u'(?i)(cats|cat)')"
-p38
-aS"(6682, u'(?i)(tera|teras)')"
-p39
-aS"(853, u'(?i)(minas|mina)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(3431, u'(?i)(roans|roan)')"
-p42
-aS"(2809, u'(?i)(toms|tom)')"
-p43
-atp44
-Rp45
+atp38
+Rp39
 sb.

@@ -32,84 +32,52 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+S'5ht2c'
 p20
-aS'5ht2c'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+((lp24
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+p25
+aS"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
 p26
-aS"(389, u'(?i)(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)')"
-p27
-aS"(34, u'(?i)(pon|pons)')"
-p28
-atp29
-Rp30
+atp27
+Rp28
 sS'year'
-p31
+p29
 V2003
-p32
+p30
 sS'agonists'
+p31
+g3
+((lp32
+S"(147, u'\\\\bmdma')"
 p33
-g3
-((lp34
-S"(153, u'\\\\bmdma')"
+aS"(149, u'\\\\bmem')"
+p34
+aS"(155, u'\\\\bmcpp')"
 p35
-aS"(155, u'\\\\bmem')"
-p36
-aS"(161, u'\\\\bmcpp')"
-p37
-atp38
-Rp39
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(4163, u'(?i)(ermines|ermine)')"
+((lp39
+S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
+p40
+aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
+p41
+aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
 p42
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p43
-aS"(6753, u'(?i)(da|das)')"
+aS"(3191, u'(?i)\\\\b(worlds|world)\\\\b')"
 p44
-aS"(2389, u'(?i)(spats|spat)')"
+aS"(5784, u'(?i)\\\\b(olds|old)(-|\\\\s+)?(worlds|world)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p45
-aS"(479, u'(?i)(lings|ling)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(4597, u'(?i)(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(5958, u'(?i)(rats|rat)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-aS"(3191, u'(?i)(worlds|world)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(5784, u'(?i)(olds|old)(-|\\\\s+)?(worlds|world)(-|\\\\s+)?(monkeys|monkey)')"
-p57
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p58
-aS"(6521, u'(?i)(macaques|macaque)')"
-p59
-aS"(4596, u'(?i)(rhesuses|rhesus)')"
-p60
-aS"(7552, u'(?i)(bats|bat)')"
-p61
-atp62
-Rp63
+atp46
+Rp47
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(124, u'\\\\bondansetron')"
 p5
-aS"(136, u'\\\\btropisetron')"
+aS"(125, u'\\\\btropisetron')"
 p6
 atp7
 Rp8
@@ -48,50 +48,34 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(248, u'(?i)(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)')"
+S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p29
-aS"(34, u'(?i)(pon|pons)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V1994
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-S"(202, u'\\\\bcisapride')"
-p37
-atp38
-Rp39
+((lp35
+S"(198, u'\\\\bcisapride')"
+p36
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(5958, u'(?i)(rats|rat)')"
+((lp40
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p42
-aS"(4201, u'(?i)(kines|kine)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p43
-aS"(468, u'(?i)(oxen|ox)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p44
-aS"(3051, u'(?i)(pigs|pig)')"
-p45
-aS"(2183, u'(?i)(gars|gar)')"
-p46
-aS"(3062, u'(?i)(guineas|guinea)')"
-p47
-aS"(5131, u'(?i)(hags|hag)')"
-p48
-aS"(1054, u'(?i)(homoes|homo)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p52
-atp53
-Rp54
+atp45
+Rp46
 sb.

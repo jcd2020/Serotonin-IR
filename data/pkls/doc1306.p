@@ -8,122 +8,80 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
+atp6
+Rp7
 sS'methods'
-p9
+p8
 g3
-((lp10
-tp11
-Rp12
+((lp9
+tp10
+Rp11
 sS'topics'
-p13
+p12
 g3
-((lp14
-tp15
-Rp16
+((lp13
+tp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
+((lp17
 S'5ht1b'
-p19
-aS'5ht5'
-p20
+p18
 aS'5ht1d'
-p21
-atp22
-Rp23
+p19
+atp20
+Rp21
 sS'regions'
+p22
+g3
+((lp23
+S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
 p24
-g3
-((lp25
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p25
+aS"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p26
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p27
-aS"(209, u'(?i)(amygdalas|amygdala)')"
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(227, u'(?i)(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p29
-aS"(126, u'(?i)(thalamuses|thalamus)')"
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p30
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p31
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p32
-aS"(220, u'(?i)(striatums|striatum)')"
-p33
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'year'
-p37
+p35
 V1998
-p38
+p36
 sS'agonists'
-p39
+p37
 g3
-((lp40
-tp41
-Rp42
+((lp38
+tp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(3812, u'(?i)(studs|stud)')"
+((lp42
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p43
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p44
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p45
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p46
-aS"(3431, u'(?i)(roans|roan)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p47
-aS"(2665, u'(?i)(rays|ray)')"
-p48
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p49
-aS"(479, u'(?i)(lings|ling)')"
-p50
-aS"(3062, u'(?i)(guineas|guinea)')"
-p51
-aS"(391, u'(?i)(alli|allis)')"
-p52
-aS"(2809, u'(?i)(toms|tom)')"
-p53
-aS"(5537, u'(?i)(hippos|hippo)')"
-p54
-aS"(6249, u'(?i)(ants|ant)')"
-p55
-aS"(7609, u'(?i)(erns|ern)')"
-p56
-aS"(867, u'(?i)(tits|tit)')"
-p57
-aS"(1055, u'(?i)(men|man)')"
-p58
-aS"(853, u'(?i)(minas|mina)')"
-p59
-aS"(4371, u'(?i)(lizas|liza)')"
-p60
-aS"(6642, u'(?i)(lions|lion)')"
-p61
-aS"(6325, u'(?i)(caudates|caudate)')"
-p62
-aS"(2568, u'(?i)(hens|hen)')"
-p63
-aS"(6753, u'(?i)(da|das)')"
-p64
-aS"(3051, u'(?i)(pigs|pig)')"
-p65
-aS"(4177, u'(?i)(grays|gray)')"
-p66
-aS"(4964, u'(?i)(serins|serin)')"
-p67
-aS"(1683, u'(?i)(terns|tern)')"
-p68
-atp69
-Rp70
+atp48
+Rp49
 sb.

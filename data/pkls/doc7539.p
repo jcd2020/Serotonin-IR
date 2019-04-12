@@ -56,16 +56,8 @@ sS'species'
 p33
 g3
 ((lp34
-S"(3812, u'(?i)(studs|stud)')"
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p35
-aS"(6356, u'(?i)(ais|ai)')"
-p36
-aS"(5799, u'(?i)(rodents|rodent)')"
-p37
-aS"(1055, u'(?i)(men|man)')"
-p38
-aS"(1961, u'(?i)(pens|pen)')"
-p39
-atp40
-Rp41
+atp36
+Rp37
 sb.

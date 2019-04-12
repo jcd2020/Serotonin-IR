@@ -34,52 +34,32 @@ sS'regions'
 p20
 g3
 ((lp21
-S"(34, u'(?i)(pon|pons)')"
-p22
-atp23
-Rp24
+tp22
+Rp23
 sS'year'
-p25
+p24
 V1998
-p26
+p25
 sS'agonists'
-p27
+p26
 g3
-((lp28
-S"(181, u'\\\\bdom')"
+((lp27
+S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p28
+aS"(176, u'\\\\bdom')"
 p29
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(219, u'\\\\b5 ?ct')"
 p30
-aS"(5, u'\\\\b5 ?ct')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(6249, u'(?i)(ants|ant)')"
+((lp34
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p35
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p36
-aS"(4979, u'(?i)(cats|cat)')"
-p37
-aS"(479, u'(?i)(lings|ling)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(3812, u'(?i)(studs|stud)')"
-p41
-aS"(1057, u'(?i)(humans|human)')"
-p42
-aS"(1961, u'(?i)(pens|pen)')"
-p43
-aS"(1414, u'(?i)(chars|char)')"
-p44
-aS"(3196, u'(?i)(human|humans)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-atp47
-Rp48
+atp37
+Rp38
 sb.

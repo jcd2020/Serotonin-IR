@@ -8,13 +8,13 @@ c__builtin__
 set
 p3
 ((lp4
-S"(135, u'\\\\bondansetron')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
-aS"(139, u'\\\\bmetoclopramide')"
+aS"(124, u'\\\\bondansetron')"
 p6
-aS"(136, u'\\\\btropisetron')"
+aS"(125, u'\\\\btropisetron')"
 p7
-aS"(141, u'\\\\bzacopride')"
+aS"(130, u'\\\\bzacopride')"
 p8
 atp9
 Rp10
@@ -54,76 +54,36 @@ sS'regions'
 p30
 g3
 ((lp31
-S"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+tp32
+Rp33
 sS'year'
-p35
+p34
 V1995
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(195, u'\\\\bphenylbiguanide')"
+((lp37
+S"(209, u'\\\\bmetoclopramide')"
+p38
+aS"(208, u'\\\\bzacopride')"
 p39
-aS"(181, u'\\\\bdom')"
+aS"(176, u'\\\\bdom')"
 p40
-aS"(212, u'\\\\bzacopride')"
+aS"(149, u'\\\\bmem')"
 p41
-aS"(155, u'\\\\bmem')"
+aS"(191, u'\\\\bphenylbiguanide')"
 p42
-aS"(213, u'\\\\bmetoclopramide')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sS'species'
-p46
+p45
 g3
-((lp47
-S"(7609, u'(?i)(erns|ern)')"
+((lp46
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p47
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(2568, u'(?i)(hens|hen)')"
-p50
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p51
-aS"(6878, u'(?i)(guans|guan)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(4979, u'(?i)(cats|cat)')"
-p54
-aS"(3051, u'(?i)(pigs|pig)')"
-p55
-aS"(1055, u'(?i)(men|man)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(1349, u'(?i)(rams|ram)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(3550, u'(?i)(anis|ani)')"
-p60
-aS"(7094, u'(?i)(curs|cur)')"
-p61
-aS"(1961, u'(?i)(pens|pen)')"
-p62
-aS"(1414, u'(?i)(chars|char)')"
-p63
-aS"(3592, u'(?i)(ravens|raven)')"
-p64
-aS"(6356, u'(?i)(ais|ai)')"
-p65
-aS"(2809, u'(?i)(toms|tom)')"
-p66
-aS"(7488, u'(?i)(molas|mola)')"
-p67
-aS"(1683, u'(?i)(terns|tern)')"
-p68
-atp69
-Rp70
+atp49
+Rp50
 sb.

@@ -46,7 +46,7 @@ sS'agonists'
 p27
 g3
 ((lp28
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p29
 atp30
 Rp31
@@ -54,30 +54,8 @@ sS'species'
 p32
 g3
 ((lp33
-S"(5958, u'(?i)(rats|rat)')"
+S"(3072, u'(?i)\\\\b(piglets|piglet)\\\\b')"
 p34
-aS"(3072, u'(?i)(piglets|piglet)')"
-p35
-aS"(3051, u'(?i)(pigs|pig)')"
-p36
-aS"(468, u'(?i)(oxen|ox)')"
-p37
-aS"(930, u'(?i)(loons|loon)')"
-p38
-aS"(3726, u'(?i)(mates|mate)')"
-p39
-aS"(3592, u'(?i)(ravens|raven)')"
-p40
-aS"(6753, u'(?i)(da|das)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(3522, u'(?i)(tetras|tetra)')"
-p43
-aS"(7094, u'(?i)(curs|cur)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-atp46
-Rp47
+atp35
+Rp36
 sb.

@@ -48,80 +48,48 @@ aS'5ht1b'
 p26
 aS'5ht1a'
 p27
-aS'5ht1e'
-p28
 aS'5ht1'
+p28
+aS'5ht1e'
 p29
 aS'5ht1d'
 p30
-aS'5ht5'
-p31
 aS'5ht1f'
-p32
-atp33
-Rp34
+p31
+atp32
+Rp33
 sS'regions'
-p35
+p34
 g3
-((lp36
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp35
+S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p36
+aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p37
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p38
-aS"(71, u'(?i)(cerebellums|cerebellum)')"
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p39
-aS"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p40
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p41
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'year'
-p45
+p43
 V2004
-p46
+p44
 sS'agonists'
-p47
+p45
 g3
-((lp48
-tp49
-Rp50
+((lp46
+tp47
+Rp48
 sS'species'
-p51
+p49
 g3
-((lp52
-S"(1070, u'(?i)(pets|pet)')"
-p53
-aS"(2323, u'(?i)(bees|bee)')"
-p54
-aS"(2568, u'(?i)(hens|hen)')"
-p55
-aS"(931, u'(?i)(divers|diver)')"
-p56
-aS"(6753, u'(?i)(da|das)')"
-p57
-aS"(468, u'(?i)(oxen|ox)')"
-p58
-aS"(1055, u'(?i)(men|man)')"
-p59
-aS"(4979, u'(?i)(cats|cat)')"
-p60
-aS"(6249, u'(?i)(ants|ant)')"
-p61
-aS"(5229, u'(?i)(moles|mole)')"
-p62
-aS"(3812, u'(?i)(studs|stud)')"
-p63
-aS"(6391, u'(?i)(asses|ass)')"
-p64
-aS"(2809, u'(?i)(toms|tom)')"
-p65
-aS"(5537, u'(?i)(hippos|hippo)')"
-p66
-aS"(6356, u'(?i)(ais|ai)')"
-p67
-atp68
-Rp69
+((lp50
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+p51
+atp52
+Rp53
 sb.

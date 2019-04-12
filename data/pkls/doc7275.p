@@ -8,106 +8,80 @@ c__builtin__
 set
 p3
 ((lp4
-S"(123, u'\\\\bclozapine')"
+S"(110, u'\\\\bclozapine')"
 p5
-aS"(142, u'\\\\bm1')"
+aS"(131, u'\\\\bm1')"
 p6
-aS"(56, u'\\\\bclozapine')"
-p7
-atp8
-Rp9
+atp7
+Rp8
 sS'methods'
-p10
+p9
 g3
-((lp11
+((lp10
 S'Method.PET'
-p12
+p11
 aS'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(15, u'\\\\bschizophreni')"
-p18
+p17
 aS"(6, u'\\\\bcognit')"
-p19
+p18
 aS"(30, u'\\\\bparkinsons')"
-p20
+p19
 aS"(33, u'\\\\balzheimers')"
-p21
-atp22
-Rp23
+p20
+atp21
+Rp22
 sS'receptors'
-p24
+p23
 g3
-((lp25
+((lp24
 S'5ht1b'
-p26
+p25
 aS'5ht1a'
-p27
+p26
 aS'5ht2'
-p28
+p27
 aS'5ht2a'
-p29
-atp30
-Rp31
+p28
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-S"(126, u'(?i)(thalamuses|thalamus)')"
+((lp32
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p33
+aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
 p34
-aS"(223, u'(?i)(putamens|putamen)')"
-p35
-atp36
-Rp37
+atp35
+Rp36
 sS'year'
-p38
+p37
 V2004
-p39
+p38
 sS'agonists'
-p40
+p39
 g3
-((lp41
-S"(27, u'\\\\bclozapine')"
-p42
-atp43
-Rp44
+((lp40
+S"(23, u'\\\\bclozapine')"
+p41
+atp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(1070, u'(?i)(pets|pet)')"
+((lp45
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p46
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p47
-aS"(2323, u'(?i)(bees|bee)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(6325, u'(?i)(caudates|caudate)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(3812, u'(?i)(studs|stud)')"
-p54
-aS"(5229, u'(?i)(moles|mole)')"
-p55
-aS"(1414, u'(?i)(chars|char)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-aS"(5537, u'(?i)(hippos|hippo)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-atp61
-Rp62
+atp48
+Rp49
 sb.

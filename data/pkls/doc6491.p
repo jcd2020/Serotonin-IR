@@ -54,14 +54,6 @@ sS'species'
 p32
 g3
 ((lp33
-S"(3522, u'(?i)(tetras|tetra)')"
-p34
-aS"(6249, u'(?i)(ants|ant)')"
-p35
-aS"(468, u'(?i)(oxen|ox)')"
-p36
-aS"(867, u'(?i)(tits|tit)')"
-p37
-atp38
-Rp39
+tp34
+Rp35
 sb.

@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(140, u'\\\\brenzapride')"
+S"(129, u'\\\\brenzapride')"
 p5
-aS"(153, u'\\\\bgr ?113808')"
+aS"(144, u'\\\\bgr ?113808')"
 p6
 atp7
 Rp8
@@ -56,13 +56,13 @@ sS'agonists'
 p32
 g3
 ((lp33
-S"(207, u'\\\\brenzapride')"
+S"(198, u'\\\\bcisapride')"
 p34
-aS"(202, u'\\\\bcisapride')"
+aS"(200, u'\\\\bml ?10302')"
 p35
-aS"(155, u'\\\\bmem')"
+aS"(203, u'\\\\brenzapride')"
 p36
-aS"(204, u'\\\\bml ?10302')"
+aS"(149, u'\\\\bmem')"
 p37
 atp38
 Rp39
@@ -70,36 +70,10 @@ sS'species'
 p40
 g3
 ((lp41
-S"(1070, u'(?i)(pets|pet)')"
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p42
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p43
-aS"(867, u'(?i)(tits|tit)')"
-p44
-aS"(6391, u'(?i)(asses|ass)')"
-p45
-aS"(4163, u'(?i)(ermines|ermine)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(7094, u'(?i)(curs|cur)')"
-p48
-aS"(3404, u'(?i)(titis|titi)')"
-p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(1057, u'(?i)(humans|human)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(3196, u'(?i)(human|humans)')"
-p55
-aS"(821, u'(?i)(lice|louse)')"
-p56
-atp57
-Rp58
+atp44
+Rp45
 sb.

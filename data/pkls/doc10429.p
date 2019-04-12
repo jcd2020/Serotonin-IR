@@ -40,9 +40,9 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(220, u'(?i)(striatums|striatum)')"
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
 p25
-aS"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p26
 atp27
 Rp28
@@ -54,7 +54,7 @@ sS'agonists'
 p31
 g3
 ((lp32
-S"(104, u'\\\\bzolmitriptan')"
+S"(97, u'\\\\bzolmitriptan')"
 p33
 atp34
 Rp35
@@ -62,50 +62,12 @@ sS'species'
 p36
 g3
 ((lp37
-S"(4624, u'(?i)(apes|ape)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(4163, u'(?i)(ermines|ermine)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
 p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(6356, u'(?i)(ais|ai)')"
-p42
-aS"(6391, u'(?i)(asses|ass)')"
-p43
-aS"(4177, u'(?i)(grays|gray)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(3767, u'(?i)(olms|olm)')"
-p46
-aS"(468, u'(?i)(oxen|ox)')"
-p47
-aS"(5743, u'(?i)(bots|bot)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(7609, u'(?i)(erns|ern)')"
-p51
-aS"(163, u'(?i)(mice|mouse)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6753, u'(?i)(da|das)')"
-p54
-aS"(2323, u'(?i)(bees|bee)')"
-p55
-aS"(2568, u'(?i)(hens|hen)')"
-p56
-aS"(3726, u'(?i)(mates|mate)')"
-p57
-aS"(2665, u'(?i)(rays|ray)')"
-p58
-aS"(1683, u'(?i)(terns|tern)')"
-p59
-atp60
-Rp61
+atp41
+Rp42
 sb.

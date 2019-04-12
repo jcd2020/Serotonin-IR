@@ -48,11 +48,11 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(92, u'\\\\b8 ?oh ?dpat')"
+S"(149, u'\\\\bmem')"
 p30
-aS"(93, u'\\\\balnespirone')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p31
-aS"(155, u'\\\\bmem')"
+aS"(86, u'\\\\balnespirone')"
 p32
 atp33
 Rp34
@@ -60,30 +60,8 @@ sS'species'
 p35
 g3
 ((lp36
-S"(5537, u'(?i)(hippos|hippo)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(5967, u'(?i)(males|male)')"
-p38
-aS"(5958, u'(?i)(rats|rat)')"
-p39
-aS"(479, u'(?i)(lings|ling)')"
-p40
-aS"(81, u'(?i)(asps|asp)')"
-p41
-aS"(468, u'(?i)(oxen|ox)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(1054, u'(?i)(homoes|homo)')"
-p44
-aS"(853, u'(?i)(minas|mina)')"
-p45
-aS"(3522, u'(?i)(tetras|tetra)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(6391, u'(?i)(asses|ass)')"
-p48
-atp49
-Rp50
+atp38
+Rp39
 sb.

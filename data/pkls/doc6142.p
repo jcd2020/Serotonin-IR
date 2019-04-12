@@ -28,60 +28,36 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht5'
-p18
-atp19
-Rp20
+tp18
+Rp19
 sS'regions'
-p21
+p20
 g3
-((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+((lp21
+tp22
+Rp23
 sS'year'
-p26
+p24
 V1999
-p27
+p25
 sS'agonists'
+p26
+g3
+((lp27
+S"(20, u'\\\\bbuspirone')"
 p28
-g3
-((lp29
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(179, u'\\\\b5 ?meo ?dmt')"
+p29
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p30
-aS"(8, u'\\\\b5 ?meo ?dmt')"
-p31
-aS"(24, u'\\\\bbuspirone')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'species'
-p35
+p33
 g3
-((lp36
-S"(2323, u'(?i)(bees|bee)')"
-p37
-aS"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(468, u'(?i)(oxen|ox)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(6215, u'(?i)(racers|racer)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(3522, u'(?i)(tetras|tetra)')"
-p45
-aS"(6356, u'(?i)(ais|ai)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-atp48
-Rp49
+((lp34
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

@@ -8,15 +8,15 @@ c__builtin__
 set
 p3
 ((lp4
-S"(33, u'\\\\bxylamidine')"
+S"(91, u'\\\\bfluoxetine')"
 p5
-aS"(100, u'\\\\beltoprazine')"
+aS"(32, u'\\\\bxylamidine')"
 p6
-aS"(102, u'\\\\bfluoxetine')"
+aS"(89, u'\\\\beltoprazine')"
 p7
-aS"(135, u'\\\\bondansetron')"
+aS"(124, u'\\\\bondansetron')"
 p8
-aS"(105, u'\\\\bmethysergide')"
+aS"(194, u'\\\\bmethysergide')"
 p9
 atp10
 Rp11
@@ -44,84 +44,48 @@ g3
 ((lp24
 S'5ht1b'
 p25
-aS'5ht5'
+aS'5ht1a'
 p26
 aS'5ht3'
 p27
-aS'5ht1a'
-p28
 aS'5ht2'
-p29
-atp30
-Rp31
+p28
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+tp33
+Rp34
 sS'year'
-p36
+p35
 V1992
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(36, u'\\\\beltoprazine')"
+((lp38
+S"(53, u'\\\\bmethysergide')"
+p39
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p40
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(31, u'\\\\beltoprazine')"
 p41
-aS"(60, u'\\\\bmethysergide')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(2323, u'(?i)(bees|bee)')"
+((lp45
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p46
+aS"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p47
-aS"(5799, u'(?i)(rodents|rodent)')"
+aS"(2438, u'(?i)\\\\b(goats|goat)\\\\b')"
 p48
-aS"(2568, u'(?i)(hens|hen)')"
+aS"(7002, u'(?i)\\\\b(ruminants|ruminant)\\\\b')"
 p49
-aS"(6356, u'(?i)(ais|ai)')"
-p50
-aS"(5743, u'(?i)(bots|bot)')"
-p51
-aS"(6753, u'(?i)(da|das)')"
-p52
-aS"(6682, u'(?i)(tera|teras)')"
-p53
-aS"(468, u'(?i)(oxen|ox)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(1349, u'(?i)(rams|ram)')"
-p57
-aS"(853, u'(?i)(minas|mina)')"
-p58
-aS"(7094, u'(?i)(curs|cur)')"
-p59
-aS"(5958, u'(?i)(rats|rat)')"
-p60
-aS"(7058, u'(?i)(does|doe)')"
-p61
-aS"(7002, u'(?i)(ruminants|ruminant)')"
-p62
-aS"(2438, u'(?i)(goats|goat)')"
-p63
-aS"(3592, u'(?i)(ravens|raven)')"
-p64
-aS"(6391, u'(?i)(asses|ass)')"
-p65
-aS"(2809, u'(?i)(toms|tom)')"
-p66
-aS"(3812, u'(?i)(studs|stud)')"
-p67
-atp68
-Rp69
+atp50
+Rp51
 sb.

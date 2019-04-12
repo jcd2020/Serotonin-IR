@@ -36,54 +36,28 @@ sS'regions'
 p21
 g3
 ((lp22
-S"(34, u'(?i)(pon|pons)')"
-p23
-atp24
-Rp25
+tp23
+Rp24
 sS'year'
-p26
+p25
 V2005
-p27
+p26
 sS'agonists'
-p28
+p27
 g3
-((lp29
-tp30
-Rp31
+((lp28
+tp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(5958, u'(?i)(rats|rat)')"
+((lp32
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p33
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p34
-aS"(4201, u'(?i)(kines|kine)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p35
-aS"(6682, u'(?i)(tera|teras)')"
-p36
-aS"(1686, u'(?i)(gibs|gib)')"
-p37
-aS"(4163, u'(?i)(ermines|ermine)')"
-p38
-aS"(1349, u'(?i)(rams|ram)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(853, u'(?i)(minas|mina)')"
-p42
-aS"(2395, u'(?i)(mutants|mutant)')"
-p43
-aS"(1057, u'(?i)(humans|human)')"
-p44
-aS"(5229, u'(?i)(moles|mole)')"
-p45
-aS"(1414, u'(?i)(chars|char)')"
-p46
-aS"(3196, u'(?i)(human|humans)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-atp49
-Rp50
+atp36
+Rp37
 sb.

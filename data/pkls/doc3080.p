@@ -8,122 +8,84 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(117, u'\\\\bketanserin')"
 p5
-aS"(128, u'\\\\bketanserin')"
+aS"(119, u'\\\\britanserin')"
 p6
-aS"(54, u'\\\\britanserin')"
-p7
-aS"(130, u'\\\\britanserin')"
-p8
-atp9
-Rp10
+atp7
+Rp8
 sS'methods'
-p11
+p9
 g3
-((lp12
+((lp10
 S'Method.STIMULATION'
-p13
+p11
 aS'Method.ANTAGONIST'
-p14
+p12
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p13
+atp14
+Rp15
 sS'topics'
-p18
+p16
 g3
-((lp19
-tp20
-Rp21
+((lp17
+tp18
+Rp19
 sS'receptors'
-p22
+p20
 g3
-((lp23
+((lp21
 S'5ht5'
-p24
+p22
 aS'5ht5d'
-p25
+p23
 aS'5ht2'
-p26
+p24
 aS'5ht1d'
-p27
-atp28
-Rp29
+p25
+atp26
+Rp27
 sS'regions'
+p28
+g3
+((lp29
+S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-g3
-((lp31
-S"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p31
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p32
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p33
-aS"(94, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
-p34
-atp35
-Rp36
+atp33
+Rp34
 sS'year'
-p37
+p35
 V1995
-p38
+p36
 sS'agonists'
+p37
+g3
+((lp38
+S"(220, u'\\\\b5 ?methoxytryptamine')"
 p39
-g3
-((lp40
-S"(103, u'\\\\bsumatriptan')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p40
+aS"(96, u'\\\\bsumatriptan')"
 p41
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
 p42
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
-p43
-aS"(190, u'\\\\b2 ?methyl ?5 ?ht')"
-p44
-atp45
-Rp46
+atp43
+Rp44
 sS'species'
-p47
+p45
 g3
-((lp48
-S"(2103, u'(?i)(nesters|nester)')"
+((lp46
+S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p47
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p48
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p49
-aS"(6753, u'(?i)(da|das)')"
-p50
-aS"(2568, u'(?i)(hens|hen)')"
-p51
-aS"(6356, u'(?i)(ais|ai)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(6682, u'(?i)(tera|teras)')"
-p55
-aS"(3051, u'(?i)(pigs|pig)')"
-p56
-aS"(468, u'(?i)(oxen|ox)')"
-p57
-aS"(1055, u'(?i)(men|man)')"
-p58
-aS"(6249, u'(?i)(ants|ant)')"
-p59
-aS"(3062, u'(?i)(guineas|guinea)')"
-p60
-aS"(853, u'(?i)(minas|mina)')"
-p61
-aS"(3550, u'(?i)(anis|ani)')"
-p62
-aS"(3812, u'(?i)(studs|stud)')"
-p63
-aS"(6391, u'(?i)(asses|ass)')"
-p64
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p65
-aS"(7488, u'(?i)(molas|mola)')"
-p66
-aS"(5743, u'(?i)(bots|bot)')"
-p67
-aS"(4979, u'(?i)(cats|cat)')"
-p68
-atp69
-Rp70
+atp50
+Rp51
 sb.

@@ -40,9 +40,9 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(293, u'(?i)(posteriors|posterior)(-|\\\\s+)?(cingulates|cingulate)')"
+S"(293, u'(?i)\\\\b(posteriors|posterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p25
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p26
 atp27
 Rp28
@@ -60,28 +60,6 @@ sS'species'
 p35
 g3
 ((lp36
-S"(5626, u'(?i)(posters|poster)')"
-p37
-aS"(5958, u'(?i)(rats|rat)')"
-p38
-aS"(4964, u'(?i)(serins|serin)')"
-p39
-aS"(5551, u'(?i)(owls|owl)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(5743, u'(?i)(bots|bot)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(5917, u'(?i)(roaches|roach)')"
-p44
-aS"(6356, u'(?i)(ais|ai)')"
-p45
-aS"(6391, u'(?i)(asses|ass)')"
-p46
-aS"(2809, u'(?i)(toms|tom)')"
-p47
-atp48
-Rp49
+tp37
+Rp38
 sb.

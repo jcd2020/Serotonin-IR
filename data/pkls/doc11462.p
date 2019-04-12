@@ -48,36 +48,24 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+tp29
+Rp30
 sS'year'
-p32
+p31
 V1991
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(102, u'\\\\boxymetazoline')"
-p36
-atp37
-Rp38
+((lp34
+S"(95, u'\\\\boxymetazoline')"
+p35
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(6682, u'(?i)(tera|teras)')"
-p41
-aS"(6249, u'(?i)(ants|ant)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(7488, u'(?i)(molas|mola)')"
-p44
-aS"(5949, u'(?i)(dogs|dog)')"
-p45
-atp46
-Rp47
+((lp39
+tp40
+Rp41
 sb.

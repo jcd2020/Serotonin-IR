@@ -8,94 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brisperidone')"
+S"(133, u'\\\\bmianserin')"
 p5
-aS"(53, u'\\\\bketanserin')"
+aS"(99, u'\\\\bsb ?242084')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(117, u'\\\\bketanserin')"
 p7
-aS"(117, u'\\\\bmianserin')"
+aS"(113, u'\\\\brisperidone')"
 p8
-aS"(59, u'\\\\brisperidone')"
-p9
-aS"(110, u'\\\\bsb ?242084')"
-p10
-atp11
-Rp12
+atp9
+Rp10
 sS'methods'
-p13
+p11
 g3
-((lp14
+((lp12
 S'Method.ANTAGONIST'
-p15
+p13
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p14
+atp15
+Rp16
 sS'topics'
-p19
+p17
 g3
-((lp20
-tp21
-Rp22
+((lp18
+tp19
+Rp20
 sS'receptors'
-p23
+p21
 g3
-((lp24
+((lp22
 S'5ht2b'
-p25
+p23
 aS'5ht2c'
-p26
+p24
 aS'5ht2'
-p27
+p25
 aS'5ht2a'
-p28
-atp29
-Rp30
+p26
+atp27
+Rp28
 sS'regions'
-p31
+p29
 g3
-((lp32
-S"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+((lp30
+tp31
+Rp32
 sS'year'
-p36
+p33
 V2002
-p37
+p34
 sS'agonists'
-p38
+p35
 g3
-((lp39
-S"(181, u'\\\\bdom')"
-p40
-atp41
-Rp42
+((lp36
+S"(176, u'\\\\bdom')"
+p37
+atp38
+Rp39
 sS'species'
-p43
+p40
 g3
-((lp44
-S"(2054, u'(?i)(heads|head)')"
-p45
-aS"(2568, u'(?i)(hens|hen)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(6249, u'(?i)(ants|ant)')"
-p50
-aS"(3592, u'(?i)(ravens|raven)')"
-p51
-aS"(4964, u'(?i)(serins|serin)')"
-p52
-aS"(5958, u'(?i)(rats|rat)')"
-p53
-aS"(3522, u'(?i)(tetras|tetra)')"
-p54
-atp55
-Rp56
+((lp41
+S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

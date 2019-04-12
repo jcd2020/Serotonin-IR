@@ -34,74 +34,54 @@ g3
 ((lp19
 S'5ht1b'
 p20
-aS'5ht5'
+aS'5ht1a'
 p21
 aS'5ht2'
 p22
 aS'5ht1'
 p23
-aS'5ht1d'
-p24
 aS'5ht2a'
+p24
+aS'5ht1d'
 p25
-aS'5ht1a'
-p26
 aS'5ht2c'
-p27
-atp28
-Rp29
+p26
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-S"(91, u'(?i)(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)')"
-p32
-atp33
-Rp34
+((lp30
+S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+p31
+atp32
+Rp33
 sS'year'
-p35
+p34
 V2013
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(103, u'\\\\bsumatriptan')"
+((lp37
+S"(125, u'\\\\btcb ?2')"
+p38
+aS"(96, u'\\\\bsumatriptan')"
 p39
-aS"(132, u'\\\\btcb ?2')"
+aS"(149, u'\\\\bmem')"
 p40
-aS"(155, u'\\\\bmem')"
+aS"(175, u'\\\\bdoi')"
 p41
-aS"(33, u'\\\\bdoi')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(5958, u'(?i)(rats|rat)')"
+((lp45
+S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+p46
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(1725, u'(?i)(clams|clam)')"
-p50
-aS"(7094, u'(?i)(curs|cur)')"
-p51
-aS"(4177, u'(?i)(grays|gray)')"
-p52
-aS"(4979, u'(?i)(cats|cat)')"
-p53
-aS"(3550, u'(?i)(anis|ani)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(2665, u'(?i)(rays|ray)')"
-p56
-aS"(821, u'(?i)(lice|louse)')"
-p57
-atp58
-Rp59
+atp48
+Rp49
 sb.

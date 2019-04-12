@@ -34,74 +34,46 @@ g3
 ((lp19
 S'5ht7'
 p20
-aS'5ht5'
+aS'5ht1a'
 p21
 aS'5ht4'
 p22
-aS'5ht1a'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(165, u'(?i)(preoptics|preoptic)(-|\\\\s+)?(areas|area)')"
-p28
-aS"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+((lp26
+S"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p32
+p30
 V2013
-p33
+p31
 sS'agonists'
+p32
+g3
+((lp33
+S"(198, u'\\\\bcisapride')"
 p34
-g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p36
-aS"(202, u'\\\\bcisapride')"
-p37
-atp38
-Rp39
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p35
+atp36
+Rp37
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(4624, u'(?i)(apes|ape)')"
+((lp39
+S"(5812, u'(?i)\\\\b(carassiuses|carassius)(-|\\\\s+)?(auratuses|auratus)\\\\b')"
+p40
+aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
+p41
+aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
 p42
-aS"(2054, u'(?i)(heads|head)')"
+aS"(5811, u'(?i)\\\\b(goldfish|goldfish)\\\\b')"
 p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(5958, u'(?i)(rats|rat)')"
-p45
-aS"(4657, u'(?i)(fish|fish)')"
-p46
-aS"(5811, u'(?i)(goldfish|goldfish)')"
-p47
-aS"(479, u'(?i)(lings|ling)')"
-p48
-aS"(468, u'(?i)(oxen|ox)')"
-p49
-aS"(1055, u'(?i)(men|man)')"
-p50
-aS"(937, u'(?i)(kids|kid)')"
-p51
-aS"(5812, u'(?i)(carassiuses|carassius)(-|\\\\s+)?(auratuses|auratus)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(6391, u'(?i)(asses|ass)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-atp58
-Rp59
+atp44
+Rp45
 sb.

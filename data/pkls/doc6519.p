@@ -30,84 +30,46 @@ g3
 ((lp17
 S'5ht1a'
 p18
-aS'5ht5'
-p19
 aS'5ht2a'
-p20
-atp21
-Rp22
+p19
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(203, u'(?i)(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)')"
+((lp23
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p24
+aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p25
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p26
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p27
-aS"(103, u'(?i)(substantias|substantia)(-|\\\\s+)?(nigras|nigra)')"
-p28
-atp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V1997
-p32
+p31
 sS'agonists'
-p33
+p32
 g3
-((lp34
-S"(24, u'\\\\bbuspirone')"
+((lp33
+S"(20, u'\\\\bbuspirone')"
+p34
+aS"(189, u'\\\\bethanol')"
 p35
-aS"(193, u'\\\\bethanol')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(3248, u'(?i)(offspring|offspring)')"
+((lp39
+S"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
+p40
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(3550, u'(?i)(anis|ani)')"
-p42
-aS"(949, u'(?i)(cohoes|coho)')"
-p43
-aS"(6356, u'(?i)(ais|ai)')"
-p44
-aS"(7609, u'(?i)(erns|ern)')"
-p45
-aS"(867, u'(?i)(tits|tit)')"
-p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(4163, u'(?i)(ermines|ermine)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(3726, u'(?i)(mates|mate)')"
-p52
-aS"(4964, u'(?i)(serins|serin)')"
-p53
-aS"(2568, u'(?i)(hens|hen)')"
-p54
-aS"(3522, u'(?i)(tetras|tetra)')"
-p55
-aS"(5958, u'(?i)(rats|rat)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-aS"(6391, u'(?i)(asses|ass)')"
-p58
-aS"(1683, u'(?i)(terns|tern)')"
-p59
-aS"(6682, u'(?i)(tera|teras)')"
-p60
-atp61
-Rp62
+atp42
+Rp43
 sb.

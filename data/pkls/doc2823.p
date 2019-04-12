@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(155, u'\\\\bgr ?125487')"
+S"(130, u'\\\\bzacopride')"
 p5
 aS"(14, u'\\\\bmethiothepin')"
 p6
-aS"(141, u'\\\\bzacopride')"
+aS"(146, u'\\\\bgr ?125487')"
 p7
 atp8
 Rp9
@@ -36,68 +36,54 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht5'
+S'5ht4'
 p22
-aS'5ht4'
-p23
 aS'5ht3'
-p24
+p23
 aS'5ht2'
-p25
+p24
 aS'5ht1'
-p26
+p25
 aS'5ht6a'
-p27
+p26
 aS'5ht4a'
-p28
-atp29
-Rp30
+p27
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-S"(220, u'(?i)(striatums|striatum)')"
-p33
-atp34
-Rp35
+((lp31
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p32
+atp33
+Rp34
 sS'year'
-p36
+p35
 V1997
-p37
+p36
 sS'agonists'
-p38
+p37
 g3
-((lp39
-S"(224, u'\\\\b5 ?methoxytryptamine')"
+((lp38
+S"(220, u'\\\\b5 ?methoxytryptamine')"
+p39
+aS"(197, u'\\\\bbimu ?8')"
 p40
-aS"(225, u'\\\\b5 ?meot')"
+aS"(208, u'\\\\bzacopride')"
 p41
-aS"(212, u'\\\\bzacopride')"
+aS"(222, u'\\\\b5 ?meot')"
 p42
-aS"(201, u'\\\\bbimu ?8')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sS'species'
-p46
+p45
 g3
-((lp47
-S"(6753, u'(?i)(da|das)')"
+((lp46
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p47
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(468, u'(?i)(oxen|ox)')"
-p51
-aS"(1055, u'(?i)(men|man)')"
-p52
-aS"(853, u'(?i)(minas|mina)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(6356, u'(?i)(ais|ai)')"
-p55
-atp56
-Rp57
+atp49
+Rp50
 sb.

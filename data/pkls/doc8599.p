@@ -8,100 +8,72 @@ c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\britanserin')"
+S"(119, u'\\\\britanserin')"
 p5
-aS"(123, u'\\\\bclozapine')"
+aS"(110, u'\\\\bclozapine')"
 p6
-aS"(56, u'\\\\bclozapine')"
+aS"(73, u'\\\\bamisulpride')"
 p7
-aS"(54, u'\\\\britanserin')"
+aS"(52, u'\\\\bmdl ?100907')"
 p8
-aS"(82, u'\\\\bamisulpride')"
-p9
-aS"(61, u'\\\\bmdl ?100907')"
-p10
-atp11
-Rp12
+atp9
+Rp10
 sS'methods'
-p13
+p11
 g3
-((lp14
+((lp12
 S'Method.ANTAGONIST'
-p15
-atp16
-Rp17
+p13
+atp14
+Rp15
 sS'topics'
-p18
+p16
 g3
-((lp19
+((lp17
 S"(4, u'\\\\blocomot')"
-p20
-atp21
-Rp22
+p18
+atp19
+Rp20
 sS'receptors'
+p21
+g3
+((lp22
+S'5ht2a'
 p23
-g3
-((lp24
-S'5ht5'
-p25
-aS'5ht2a'
-p26
-atp27
-Rp28
+atp24
+Rp25
 sS'regions'
+p26
+g3
+((lp27
+S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+p28
+aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p29
-g3
-((lp30
-S"(220, u'(?i)(striatums|striatum)')"
-p31
-aS"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp30
+Rp31
 sS'year'
-p36
+p32
 V1999
-p37
+p33
 sS'agonists'
-p38
+p34
 g3
-((lp39
-S"(14, u'\\\\bamphetamine')"
-p40
-aS"(27, u'\\\\bclozapine')"
-p41
-atp42
-Rp43
+((lp35
+S"(23, u'\\\\bclozapine')"
+p36
+aS"(11, u'\\\\bamphetamine')"
+p37
+atp38
+Rp39
 sS'species'
-p44
+p40
 g3
-((lp45
-S"(6753, u'(?i)(da|das)')"
-p46
-aS"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(5743, u'(?i)(bots|bot)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1349, u'(?i)(rams|ram)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(2334, u'(?i)(eels|eel)')"
-p53
-aS"(4964, u'(?i)(serins|serin)')"
-p54
-aS"(3550, u'(?i)(anis|ani)')"
-p55
-aS"(1961, u'(?i)(pens|pen)')"
-p56
-aS"(3812, u'(?i)(studs|stud)')"
-p57
-atp58
-Rp59
+((lp41
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p42
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

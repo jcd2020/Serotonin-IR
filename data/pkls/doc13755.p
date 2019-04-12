@@ -26,64 +26,38 @@ sS'receptors'
 p15
 g3
 ((lp16
-S'5ht5'
-p17
-atp18
-Rp19
+tp17
+Rp18
 sS'regions'
-p20
+p19
 g3
-((lp21
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p22
-atp23
-Rp24
+((lp20
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p21
+atp22
+Rp23
 sS'year'
-p25
+p24
 V1999
-p26
+p25
 sS'agonists'
-p27
+p26
 g3
-((lp28
-S"(193, u'\\\\bethanol')"
-p29
-atp30
-Rp31
+((lp27
+S"(189, u'\\\\bethanol')"
+p28
+atp29
+Rp30
 sS'species'
-p32
+p31
 g3
-((lp33
-S"(6249, u'(?i)(ants|ant)')"
+((lp32
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p33
+aS"(4663, u'(?i)\\\\b(nags|nag)\\\\b')"
 p34
-aS"(6215, u'(?i)(racers|racer)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(949, u'(?i)(cohoes|coho)')"
-p36
-aS"(6753, u'(?i)(da|das)')"
-p37
-aS"(468, u'(?i)(oxen|ox)')"
-p38
-aS"(4663, u'(?i)(nags|nag)')"
-p39
-aS"(4163, u'(?i)(ermines|ermine)')"
-p40
-aS"(3726, u'(?i)(mates|mate)')"
-p41
-aS"(2334, u'(?i)(eels|eel)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6682, u'(?i)(tera|teras)')"
-p45
-aS"(7094, u'(?i)(curs|cur)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(7127, u'(?i)(monitors|monitor)')"
-p48
-atp49
-Rp50
+atp36
+Rp37
 sb.

@@ -30,76 +30,46 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
+S'5ht2c'
 p19
-aS'5ht2c'
-p20
-atp21
-Rp22
+atp20
+Rp21
 sS'regions'
-p23
+p22
 g3
-((lp24
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p25
-atp26
-Rp27
+((lp23
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p24
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2017
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(187, u'\\\\bway ?163909')"
-p32
-atp33
-Rp34
+((lp30
+S"(183, u'\\\\bway ?163909')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(6753, u'(?i)(da|das)')"
+((lp35
+S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
+p36
+aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p38
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
 p39
-aS"(2401, u'(?i)(primates|primate)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p40
-aS"(6391, u'(?i)(asses|ass)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p41
-aS"(4091, u'(?i)(adults|adult)')"
-p42
-aS"(6249, u'(?i)(ants|ant)')"
-p43
-aS"(6682, u'(?i)(tera|teras)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(3726, u'(?i)(mates|mate)')"
-p46
-aS"(4597, u'(?i)(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)')"
-p47
-aS"(4979, u'(?i)(cats|cat)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(1057, u'(?i)(humans|human)')"
-p50
-aS"(1961, u'(?i)(pens|pen)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(3196, u'(?i)(human|humans)')"
-p53
-aS"(6521, u'(?i)(macaques|macaque)')"
-p54
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p55
-aS"(4596, u'(?i)(rhesuses|rhesus)')"
-p56
-atp57
-Rp58
+atp42
+Rp43
 sb.

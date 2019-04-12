@@ -8,11 +8,11 @@ c__builtin__
 set
 p3
 ((lp4
-S"(197, u'\\\\blurasidone')"
+S"(198, u'\\\\bsb ?269970')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(190, u'\\\\blurasidone')"
 p6
-aS"(204, u'\\\\bsb ?269970')"
+aS"(31, u'\\\\bway ?100635')"
 p7
 atp8
 Rp9
@@ -56,13 +56,13 @@ sS'regions'
 p31
 g3
 ((lp32
-S"(220, u'(?i)(striatums|striatum)')"
+S"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
 p33
-aS"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p34
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p35
-aS"(221, u'(?i)(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)')"
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p36
 atp37
 Rp38
@@ -74,11 +74,11 @@ sS'agonists'
 p41
 g3
 ((lp42
-S"(53, u'\\\\blurasidone')"
+S"(224, u'\\\\bas ?19')"
 p43
-aS"(226, u'\\\\bas ?19')"
+aS"(149, u'\\\\bmem')"
 p44
-aS"(155, u'\\\\bmem')"
+aS"(47, u'\\\\blurasidone')"
 p45
 atp46
 Rp47
@@ -86,34 +86,10 @@ sS'species'
 p48
 g3
 ((lp49
-S"(2323, u'(?i)(bees|bee)')"
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p50
-aS"(5537, u'(?i)(hippos|hippo)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p51
-aS"(6753, u'(?i)(da|das)')"
-p52
-aS"(2568, u'(?i)(hens|hen)')"
-p53
-aS"(5958, u'(?i)(rats|rat)')"
-p54
-aS"(163, u'(?i)(mice|mouse)')"
-p55
-aS"(6249, u'(?i)(ants|ant)')"
-p56
-aS"(1055, u'(?i)(men|man)')"
-p57
-aS"(3726, u'(?i)(mates|mate)')"
-p58
-aS"(4979, u'(?i)(cats|cat)')"
-p59
-aS"(3550, u'(?i)(anis|ani)')"
-p60
-aS"(3812, u'(?i)(studs|stud)')"
-p61
-aS"(6391, u'(?i)(asses|ass)')"
-p62
-aS"(6356, u'(?i)(ais|ai)')"
-p63
-atp64
-Rp65
+atp52
+Rp53
 sb.

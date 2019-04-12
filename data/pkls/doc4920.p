@@ -30,60 +30,38 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht5'
-p19
-atp20
-Rp21
+tp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(354, u'(?i)(spinocerebellars|spinocerebellar)(-|\\\\s+)?(tracts|tract)')"
-p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+((lp22
+S"(354, u'(?i)\\\\b(spinocerebellars|spinocerebellar)(-|\\\\s+)?(tracts|tract)\\\\b')"
+p23
+atp24
+Rp25
 sS'year'
-p28
+p26
 V2002
-p29
+p27
 sS'agonists'
+p28
+g3
+((lp29
+S"(220, u'\\\\b5 ?methoxytryptamine')"
 p30
-g3
-((lp31
-S"(105, u'\\\\b5 ?carboxamidotryptamine')"
-p32
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
-p33
-atp34
-Rp35
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
+p31
+atp32
+Rp33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(2568, u'(?i)(hens|hen)')"
-p38
-aS"(4952, u'(?i)(felines|feline)')"
-p39
-aS"(5958, u'(?i)(rats|rat)')"
-p40
-aS"(4979, u'(?i)(cats|cat)')"
-p41
-aS"(5967, u'(?i)(males|male)')"
-p42
-aS"(468, u'(?i)(oxen|ox)')"
-p43
-aS"(853, u'(?i)(minas|mina)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(3522, u'(?i)(tetras|tetra)')"
-p46
-aS"(5743, u'(?i)(bots|bot)')"
-p47
-aS"(4133, u'(?i)(pikes|pike)')"
-p48
-atp49
-Rp50
+((lp35
+S"(4952, u'(?i)\\\\b(felines|feline)\\\\b')"
+p36
+aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

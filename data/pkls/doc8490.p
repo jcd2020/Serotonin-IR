@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100135')"
+S"(30, u'\\\\bway ?100135')"
 p5
-aS"(45, u'\\\\bgr ?127935')"
+aS"(43, u'\\\\bgr ?127935')"
 p6
 atp7
 Rp8
@@ -54,94 +54,44 @@ sS'regions'
 p30
 g3
 ((lp31
-S"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+tp32
+Rp33
 sS'year'
-p35
+p34
 V1996
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(5, u'\\\\b5 ?ct')"
-p39
-atp40
-Rp41
+((lp37
+S"(219, u'\\\\b5 ?ct')"
+p38
+atp39
+Rp40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(2401, u'(?i)(primates|primate)')"
+((lp42
+S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p43
+aS"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
 p44
-aS"(2183, u'(?i)(gars|gar)')"
+aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
 p45
-aS"(7094, u'(?i)(curs|cur)')"
+aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
 p46
-aS"(6356, u'(?i)(ais|ai)')"
+aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
 p47
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p48
-aS"(5229, u'(?i)(moles|mole)')"
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p49
-aS"(3196, u'(?i)(human|humans)')"
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
 p50
-aS"(3812, u'(?i)(studs|stud)')"
+aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p51
-aS"(3431, u'(?i)(roans|roan)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p52
-aS"(7539, u'(?i)(mammals|mammal)')"
-p53
-aS"(479, u'(?i)(lings|ling)')"
-p54
-aS"(5551, u'(?i)(owls|owl)')"
-p55
-aS"(3062, u'(?i)(guineas|guinea)')"
-p56
-aS"(5743, u'(?i)(bots|bot)')"
-p57
-aS"(5838, u'(?i)(cubs|cub)')"
-p58
-aS"(391, u'(?i)(alli|allis)')"
-p59
-aS"(2809, u'(?i)(toms|tom)')"
-p60
-aS"(2341, u'(?i)(monkeys|monkey)')"
-p61
-aS"(5958, u'(?i)(rats|rat)')"
-p62
-aS"(1055, u'(?i)(men|man)')"
-p63
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p64
-aS"(853, u'(?i)(minas|mina)')"
-p65
-aS"(1057, u'(?i)(humans|human)')"
-p66
-aS"(4371, u'(?i)(lizas|liza)')"
-p67
-aS"(1414, u'(?i)(chars|char)')"
-p68
-aS"(4480, u'(?i)(guineas|guinea)(-|\\\\s+)?(pigs|pig)')"
-p69
-aS"(2323, u'(?i)(bees|bee)')"
-p70
-aS"(5799, u'(?i)(rodents|rodent)')"
-p71
-aS"(1628, u'(?i)(cod|cod)')"
-p72
-aS"(6753, u'(?i)(da|das)')"
-p73
-aS"(3051, u'(?i)(pigs|pig)')"
-p74
-aS"(3726, u'(?i)(mates|mate)')"
-p75
-aS"(4964, u'(?i)(serins|serin)')"
-p76
-aS"(7552, u'(?i)(bats|bat)')"
-p77
-atp78
-Rp79
+atp53
+Rp54
 sb.

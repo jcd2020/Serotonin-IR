@@ -36,80 +36,50 @@ g3
 ((lp20
 S'5ht7'
 p21
-aS'5ht5'
-p22
 aS'5ht1a'
-p23
+p22
 aS'5ht1'
-p24
-atp25
-Rp26
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+((lp27
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+p28
+aS"(372, u'(?i)\\\\b(circumventriculars|circumventricular)(-|\\\\s+)?(organ|organs)\\\\b')"
 p29
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p31
-aS"(372, u'(?i)(circumventriculars|circumventricular)(-|\\\\s+)?(organ|organs)')"
-p32
-atp33
-Rp34
+atp31
+Rp32
 sS'year'
-p35
+p33
 V2015
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(85, u'\\\\b8 ?oh ?dpat')"
 p37
-g3
-((lp38
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p39
-atp40
-Rp41
+atp38
+Rp39
 sS'species'
-p42
+p40
 g3
-((lp43
-S"(5958, u'(?i)(rats|rat)')"
+((lp41
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p42
+aS"(6517, u'(?i)\\\\b(birds|bird)\\\\b')"
+p43
+aS"(6666, u'(?i)\\\\b(columbas|columba)(-|\\\\s+)?(livias|livia)\\\\b')"
 p44
-aS"(931, u'(?i)(divers|diver)')"
+aS"(6665, u'(?i)\\\\b(rocks|rock)(-|\\\\s+)?(pigeons|pigeon)\\\\b')"
 p45
-aS"(7539, u'(?i)(mammals|mammal)')"
+aS"(1312, u'(?i)\\\\b(pigeons|pigeon)\\\\b')"
 p46
-aS"(4163, u'(?i)(ermines|ermine)')"
-p47
-aS"(6517, u'(?i)(birds|bird)')"
-p48
-aS"(3051, u'(?i)(pigs|pig)')"
-p49
-aS"(468, u'(?i)(oxen|ox)')"
-p50
-aS"(1055, u'(?i)(men|man)')"
-p51
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p52
-aS"(6215, u'(?i)(racers|racer)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(6666, u'(?i)(columbas|columba)(-|\\\\s+)?(livias|livia)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(7609, u'(?i)(erns|ern)')"
-p57
-aS"(2809, u'(?i)(toms|tom)')"
-p58
-aS"(1312, u'(?i)(pigeons|pigeon)')"
-p59
-aS"(1683, u'(?i)(terns|tern)')"
-p60
-aS"(6665, u'(?i)(rocks|rock)(-|\\\\s+)?(pigeons|pigeon)')"
-p61
-atp62
-Rp63
+atp47
+Rp48
 sb.

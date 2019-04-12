@@ -8,15 +8,15 @@ c__builtin__
 set
 p3
 ((lp4
-S"(101, u'\\\\betoperidone')"
+S"(48, u'\\\\btrazodone')"
 p5
-aS"(55, u'\\\\bnefazodone')"
+aS"(49, u'\\\\bnefazodone')"
 p6
-aS"(102, u'\\\\bfluoxetine')"
+aS"(91, u'\\\\bfluoxetine')"
 p7
-aS"(50, u'\\\\btrazodone')"
+aS"(106, u'\\\\bdoxepin')"
 p8
-aS"(116, u'\\\\bdoxepin')"
+aS"(90, u'\\\\betoperidone')"
 p9
 atp10
 Rp11
@@ -38,64 +38,38 @@ g3
 ((lp21
 S'5ht1a'
 p22
-aS'5ht5'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-tp28
-Rp29
+((lp26
+tp27
+Rp28
 sS'year'
-p30
+p29
 V1994
-p31
+p30
 sS'agonists'
-p32
+p31
 g3
-((lp33
-S"(39, u'\\\\betoperidone')"
+((lp32
+S"(34, u'\\\\betoperidone')"
+p33
+aS"(75, u'\\\\btrazodone')"
 p34
-aS"(63, u'\\\\bnefazodone')"
+aS"(56, u'\\\\bnefazodone')"
 p35
-aS"(82, u'\\\\btrazodone')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(2568, u'(?i)(hens|hen)')"
+((lp39
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+p40
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p41
-aS"(6753, u'(?i)(da|das)')"
-p42
-aS"(6682, u'(?i)(tera|teras)')"
-p43
-aS"(468, u'(?i)(oxen|ox)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(6249, u'(?i)(ants|ant)')"
-p46
-aS"(6356, u'(?i)(ais|ai)')"
-p47
-aS"(5958, u'(?i)(rats|rat)')"
-p48
-aS"(1057, u'(?i)(humans|human)')"
-p49
-aS"(6391, u'(?i)(asses|ass)')"
-p50
-aS"(3812, u'(?i)(studs|stud)')"
-p51
-aS"(3196, u'(?i)(human|humans)')"
-p52
-aS"(2809, u'(?i)(toms|tom)')"
-p53
-aS"(5674, u'(?i)(ewes|ewe)')"
-p54
-atp55
-Rp56
+atp42
+Rp43
 sb.

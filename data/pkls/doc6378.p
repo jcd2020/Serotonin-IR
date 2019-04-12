@@ -10,11 +10,11 @@ p3
 ((lp4
 S"(6, u'\\\\bcyproheptadine')"
 p5
-aS"(21, u'\\\\bpindolol')"
+aS"(53, u'\\\\bcyproheptadine')"
 p6
-aS"(105, u'\\\\bmethysergide')"
+aS"(21, u'\\\\bpindolol')"
 p7
-aS"(62, u'\\\\bcyproheptadine')"
+aS"(194, u'\\\\bmethysergide')"
 p8
 atp9
 Rp10
@@ -50,46 +50,32 @@ sS'regions'
 p28
 g3
 ((lp29
-S"(159, u'(?i)(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)')"
+S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(318, u'(?i)(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p31
-aS"(126, u'(?i)(thalamuses|thalamus)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+atp32
+Rp33
 sS'year'
-p36
+p34
 V1992
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(53, u'\\\\bmethysergide')"
 p38
-g3
-((lp39
-S"(60, u'\\\\bmethysergide')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(6249, u'(?i)(ants|ant)')"
-p45
-aS"(3592, u'(?i)(ravens|raven)')"
-p46
-aS"(4979, u'(?i)(cats|cat)')"
-p47
-aS"(1961, u'(?i)(pens|pen)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-aS"(4074, u'(?i)(bulls|bull)')"
-p51
-atp52
-Rp53
+((lp42
+S"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
+p43
+aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
+p44
+atp45
+Rp46
 sb.

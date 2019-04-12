@@ -8,110 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(128, u'\\\\bmetoclopramide')"
 p5
-aS"(67, u'\\\\bhaloperidol')"
+aS"(117, u'\\\\bketanserin')"
 p6
-aS"(128, u'\\\\bketanserin')"
+aS"(58, u'\\\\bhaloperidol')"
 p7
-aS"(139, u'\\\\bmetoclopramide')"
-p8
-atp9
-Rp10
+atp8
+Rp9
 sS'methods'
-p11
+p10
 g3
-((lp12
+((lp11
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p12
+atp13
+Rp14
 sS'topics'
-p16
+p15
 g3
-((lp17
+((lp16
 S"(9, u'\\\\bdepress')"
-p18
+p17
 aS"(35, u'\\\\bstress')"
-p19
-atp20
-Rp21
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
+((lp22
 S'5ht3a'
-p24
+p23
 aS'5ht1a'
-p25
+p24
 aS'5ht3'
-p26
+p25
 aS'5ht2'
-p27
+p26
 aS'5ht3b'
-p28
-atp29
-Rp30
+p27
+atp28
+Rp29
 sS'regions'
-p31
+p30
 g3
-((lp32
-S"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+((lp31
+tp32
+Rp33
 sS'year'
-p36
+p34
 V1994
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(209, u'\\\\bmetoclopramide')"
 p38
-g3
-((lp39
-S"(48, u'\\\\bhaloperidol')"
+aS"(210, u'\\\\bsulpiride')"
+p39
+aS"(43, u'\\\\bhaloperidol')"
 p40
-aS"(214, u'\\\\bsulpiride')"
-p41
-aS"(213, u'\\\\bmetoclopramide')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(4624, u'(?i)(apes|ape)')"
-p47
-aS"(6753, u'(?i)(da|das)')"
-p48
-aS"(2568, u'(?i)(hens|hen)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(163, u'(?i)(mice|mouse)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1349, u'(?i)(rams|ram)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(4964, u'(?i)(serins|serin)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(3522, u'(?i)(tetras|tetra)')"
-p58
-aS"(1961, u'(?i)(pens|pen)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-aS"(2809, u'(?i)(toms|tom)')"
-p61
-aS"(4979, u'(?i)(cats|cat)')"
-p62
-atp63
-Rp64
+((lp44
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p45
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p46
+atp47
+Rp48
 sb.

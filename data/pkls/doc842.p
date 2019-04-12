@@ -22,84 +22,52 @@ sS'topics'
 p12
 g3
 ((lp13
-S"(19, u'\\\\bimpulsiv')"
+S"(37, u'\\\\baddict')"
 p14
-aS"(7, u'\\\\bmemory')"
+aS"(19, u'\\\\bimpulsiv')"
 p15
-atp16
-Rp17
+aS"(7, u'\\\\bmemory')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
+((lp20
 S'5ht7'
-p20
-atp21
-Rp22
+p21
+atp22
+Rp23
 sS'regions'
-p23
+p24
 g3
-((lp24
-S"(254, u'(?i)(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)')"
-p25
-aS"(255, u'(?i)(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp25
+S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p26
-atp27
-Rp28
+aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p29
-V2017
 p30
-sS'agonists'
+V2017
 p31
+sS'agonists'
+p32
 g3
-((lp32
-S"(233, u'\\\\blp ?211')"
-p33
-aS"(155, u'\\\\bmem')"
+((lp33
+S"(231, u'\\\\blp ?211')"
 p34
-atp35
-Rp36
+aS"(149, u'\\\\bmem')"
+p35
+atp36
+Rp37
 sS'species'
-p37
+p38
 g3
-((lp38
-S"(2323, u'(?i)(bees|bee)')"
-p39
-aS"(4624, u'(?i)(apes|ape)')"
+((lp39
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(2568, u'(?i)(hens|hen)')"
-p41
-aS"(5958, u'(?i)(rats|rat)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(2389, u'(?i)(spats|spat)')"
-p44
-aS"(479, u'(?i)(lings|ling)')"
-p45
-aS"(4163, u'(?i)(ermines|ermine)')"
-p46
-aS"(1055, u'(?i)(men|man)')"
-p47
-aS"(6249, u'(?i)(ants|ant)')"
-p48
-aS"(5176, u'(?i)(tegs|teg)')"
-p49
-aS"(3550, u'(?i)(anis|ani)')"
-p50
-aS"(5917, u'(?i)(roaches|roach)')"
-p51
-aS"(1961, u'(?i)(pens|pen)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(5537, u'(?i)(hippos|hippo)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-atp57
-Rp58
+atp41
+Rp42
 sb.

@@ -8,114 +8,78 @@ c__builtin__
 set
 p3
 ((lp4
-S"(200, u'\\\\bmesulergine')"
+S"(29, u'\\\\buh ?301')"
 p5
-aS"(32, u'\\\\bway ?100635')"
+aS"(198, u'\\\\bsb ?269970')"
 p6
-aS"(130, u'\\\\britanserin')"
+aS"(193, u'\\\\bmesulergine')"
 p7
-aS"(204, u'\\\\bsb ?269970')"
+aS"(31, u'\\\\bway ?100635')"
 p8
-aS"(30, u'\\\\buh ?301')"
+aS"(119, u'\\\\britanserin')"
 p9
-aS"(54, u'\\\\britanserin')"
-p10
-atp11
-Rp12
+atp10
+Rp11
 sS'methods'
-p13
+p12
 g3
-((lp14
+((lp13
 S'Method.ANTAGONIST'
-p15
+p14
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p15
+atp16
+Rp17
 sS'topics'
-p19
+p18
 g3
-((lp20
-tp21
-Rp22
+((lp19
+tp20
+Rp21
 sS'receptors'
-p23
+p22
 g3
-((lp24
+((lp23
 S'5ht7a'
-p25
+p24
 aS'5ht7'
-p26
+p25
 aS'5ht1a'
-p27
-atp28
-Rp29
+p26
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p32
-aS"(34, u'(?i)(pon|pons)')"
-p33
-atp34
-Rp35
+((lp30
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p31
+atp32
+Rp33
 sS'year'
-p36
+p34
 V2004
-p37
+p35
 sS'agonists'
+p36
+g3
+((lp37
+S"(165, u'\\\\bmesulergine')"
 p38
-g3
-((lp39
-S"(92, u'\\\\b8 ?oh ?dpat')"
-p40
-aS"(171, u'\\\\bmesulergine')"
-p41
-atp42
-Rp43
+aS"(85, u'\\\\b8 ?oh ?dpat')"
+p39
+atp40
+Rp41
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(7127, u'(?i)(monitors|monitor)')"
+((lp43
+S"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+p44
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+aS"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
 p46
-aS"(6753, u'(?i)(da|das)')"
-p47
-aS"(2568, u'(?i)(hens|hen)')"
-p48
-aS"(5958, u'(?i)(rats|rat)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(6391, u'(?i)(asses|ass)')"
-p51
-aS"(7552, u'(?i)(bats|bat)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(4964, u'(?i)(serins|serin)')"
-p55
-aS"(5838, u'(?i)(cubs|cub)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(7094, u'(?i)(curs|cur)')"
-p58
-aS"(1961, u'(?i)(pens|pen)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-aS"(1949, u'(?i)(pacemakers|pacemaker)')"
-p61
-aS"(7539, u'(?i)(mammals|mammal)')"
-p62
-aS"(821, u'(?i)(lice|louse)')"
-p63
-aS"(5949, u'(?i)(dogs|dog)')"
-p64
-atp65
-Rp66
+atp47
+Rp48
 sb.

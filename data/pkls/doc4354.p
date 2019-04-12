@@ -8,102 +8,68 @@ c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\britanserin')"
+S"(34, u'\\\\bmetergoline')"
 p5
-aS"(52, u'\\\\bmetergoline')"
-p6
 aS"(17, u'\\\\bnan ?190')"
+p6
+aS"(119, u'\\\\britanserin')"
 p7
-aS"(130, u'\\\\britanserin')"
-p8
-aS"(35, u'\\\\bmetergoline')"
-p9
-atp10
-Rp11
+atp8
+Rp9
 sS'methods'
-p12
+p10
 g3
-((lp13
+((lp11
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p12
+atp13
+Rp14
 sS'topics'
-p17
+p15
 g3
-((lp18
-tp19
-Rp20
+((lp16
+tp17
+Rp18
 sS'receptors'
-p21
+p19
 g3
-((lp22
+((lp20
 S'5ht7a'
-p23
-aS'5ht5'
-p24
+p21
 aS'5ht1a'
-p25
+p22
 aS'5ht2'
-p26
-atp27
-Rp28
+p23
+atp24
+Rp25
 sS'regions'
-p29
+p26
 g3
-((lp30
-S"(34, u'(?i)(pon|pons)')"
-p31
-atp32
-Rp33
+((lp27
+tp28
+Rp29
 sS'year'
-p34
+p30
 V1995
-p35
+p31
 sS'agonists'
+p32
+g3
+((lp33
+tp34
+Rp35
+sS'species'
 p36
 g3
 ((lp37
-tp38
-Rp39
-sS'species'
+S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+p38
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p39
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p40
-g3
-((lp41
-S"(4624, u'(?i)(apes|ape)')"
-p42
-aS"(5967, u'(?i)(males|male)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(6753, u'(?i)(da|das)')"
-p45
-aS"(7539, u'(?i)(mammals|mammal)')"
-p46
-aS"(81, u'(?i)(asps|asp)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(3726, u'(?i)(mates|mate)')"
-p49
-aS"(5217, u'(?i)(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)')"
-p50
-aS"(4964, u'(?i)(serins|serin)')"
-p51
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p52
-aS"(6249, u'(?i)(ants|ant)')"
-p53
-aS"(7540, u'(?i)(mammalians|mammalian)')"
-p54
-aS"(1961, u'(?i)(pens|pen)')"
-p55
-aS"(6356, u'(?i)(ais|ai)')"
-p56
-aS"(6391, u'(?i)(asses|ass)')"
-p57
-aS"(5949, u'(?i)(dogs|dog)')"
-p58
-atp59
-Rp60
+aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
+p41
+atp42
+Rp43
 sb.

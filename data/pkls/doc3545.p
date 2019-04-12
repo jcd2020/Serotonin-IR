@@ -22,27 +22,27 @@ sS'topics'
 p12
 g3
 ((lp13
-S"(29, u'\\\\bsex')"
+S"(37, u'\\\\baddict')"
 p14
-aS"(14, u'\\\\bpsychosis')"
+aS"(29, u'\\\\bsex')"
 p15
-atp16
-Rp17
+aS"(14, u'\\\\bpsychosis')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
+((lp20
 S'5ht1a'
-p20
-atp21
-Rp22
+p21
+atp22
+Rp23
 sS'regions'
-p23
+p24
 g3
-((lp24
-S"(34, u'(?i)(pon|pons)')"
-p25
-atp26
+((lp25
+tp26
 Rp27
 sS'year'
 p28
@@ -58,24 +58,8 @@ sS'species'
 p34
 g3
 ((lp35
-S"(1070, u'(?i)(pets|pet)')"
+S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p36
-aS"(2323, u'(?i)(bees|bee)')"
-p37
-aS"(6249, u'(?i)(ants|ant)')"
-p38
-aS"(702, u'(?i)(genets|genet)')"
-p39
-aS"(1055, u'(?i)(men|man)')"
-p40
-aS"(6356, u'(?i)(ais|ai)')"
-p41
-aS"(3812, u'(?i)(studs|stud)')"
-p42
-aS"(6391, u'(?i)(asses|ass)')"
-p43
-aS"(2809, u'(?i)(toms|tom)')"
-p44
-atp45
-Rp46
+atp37
+Rp38
 sb.

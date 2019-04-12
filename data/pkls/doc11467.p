@@ -8,126 +8,92 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(110, u'\\\\bclozapine')"
 p5
 aS"(14, u'\\\\bmethiothepin')"
 p6
-aS"(123, u'\\\\bclozapine')"
+aS"(125, u'\\\\btropisetron')"
 p7
-aS"(56, u'\\\\bclozapine')"
+aS"(117, u'\\\\bketanserin')"
 p8
-aS"(128, u'\\\\bketanserin')"
+aS"(129, u'\\\\brenzapride')"
 p9
-aS"(136, u'\\\\btropisetron')"
-p10
-aS"(140, u'\\\\brenzapride')"
-p11
-atp12
-Rp13
+atp10
+Rp11
 sS'methods'
-p14
+p12
 g3
-((lp15
+((lp13
 S'Method.ANTAGONIST'
-p16
+p14
 aS'Method.AGONIST'
-p17
-atp18
-Rp19
+p15
+atp16
+Rp17
 sS'topics'
-p20
+p18
 g3
-((lp21
+((lp19
 S"(9, u'\\\\bdepress')"
-p22
-atp23
-Rp24
+p20
+atp21
+Rp22
 sS'receptors'
-p25
+p23
 g3
-((lp26
+((lp24
 S'5ht7'
-p27
+p25
 aS'5ht6'
-p28
+p26
 aS'5ht1a'
-p29
+p27
 aS'5ht4'
-p30
+p28
 aS'5ht2'
-p31
-atp32
-Rp33
+p29
+atp30
+Rp31
 sS'regions'
-p34
+p32
 g3
-((lp35
-S"(34, u'(?i)(pon|pons)')"
-p36
-atp37
-Rp38
+((lp33
+tp34
+Rp35
 sS'year'
-p39
+p36
 V1994
-p40
+p37
 sS'agonists'
+p38
+g3
+((lp39
+S"(220, u'\\\\b5 ?methoxytryptamine')"
+p40
+aS"(23, u'\\\\bclozapine')"
 p41
-g3
-((lp42
-S"(103, u'\\\\bsumatriptan')"
+aS"(96, u'\\\\bsumatriptan')"
+p42
+aS"(149, u'\\\\bmem')"
 p43
-aS"(105, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(175, u'\\\\bdoi')"
 p44
-aS"(224, u'\\\\b5 ?methoxytryptamine')"
+aS"(203, u'\\\\brenzapride')"
 p45
-aS"(27, u'\\\\bclozapine')"
+aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
 p46
-aS"(33, u'\\\\bdoi')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p47
-aS"(207, u'\\\\brenzapride')"
-p48
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p49
-aS"(155, u'\\\\bmem')"
-p50
-atp51
-Rp52
+atp48
+Rp49
 sS'species'
-p53
+p50
 g3
-((lp54
-S"(6753, u'(?i)(da|das)')"
-p55
-aS"(2568, u'(?i)(hens|hen)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(4964, u'(?i)(serins|serin)')"
-p58
-aS"(6325, u'(?i)(caudates|caudate)')"
-p59
-aS"(3051, u'(?i)(pigs|pig)')"
-p60
-aS"(468, u'(?i)(oxen|ox)')"
-p61
-aS"(6249, u'(?i)(ants|ant)')"
-p62
-aS"(3812, u'(?i)(studs|stud)')"
-p63
-aS"(5958, u'(?i)(rats|rat)')"
-p64
-aS"(3522, u'(?i)(tetras|tetra)')"
-p65
-aS"(7094, u'(?i)(curs|cur)')"
-p66
-aS"(1961, u'(?i)(pens|pen)')"
-p67
-aS"(1414, u'(?i)(chars|char)')"
-p68
-aS"(1795, u'(?i)(mounts|mount)')"
-p69
-aS"(4979, u'(?i)(cats|cat)')"
-p70
-atp71
-Rp72
+((lp51
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p52
+aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+p53
+atp54
+Rp55
 sb.

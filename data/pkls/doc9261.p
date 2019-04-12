@@ -22,70 +22,52 @@ sS'topics'
 p12
 g3
 ((lp13
-S"(19, u'\\\\bimpulsiv')"
+S"(37, u'\\\\baddict')"
 p14
-aS"(20, u'\\\\baggressi')"
+aS"(19, u'\\\\bimpulsiv')"
 p15
-atp16
-Rp17
+aS"(20, u'\\\\baggressi')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
+((lp20
 S'5ht1b'
-p20
-atp21
-Rp22
+p21
+atp22
+Rp23
 sS'regions'
-p23
+p24
 g3
-((lp24
-S"(226, u'(?i)(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)')"
-p25
-atp26
-Rp27
+((lp25
+S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+p26
+atp27
+Rp28
 sS'year'
-p28
-V2015
 p29
-sS'agonists'
+V2015
 p30
+sS'agonists'
+p31
 g3
-((lp31
-tp32
-Rp33
+((lp32
+tp33
+Rp34
 sS'species'
-p34
+p35
 g3
-((lp35
-S"(6753, u'(?i)(da|das)')"
-p36
-aS"(2568, u'(?i)(hens|hen)')"
+((lp36
+S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p37
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p38
-aS"(163, u'(?i)(mice|mouse)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(2389, u'(?i)(spats|spat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p40
-aS"(479, u'(?i)(lings|ling)')"
-p41
-aS"(4091, u'(?i)(adults|adult)')"
-p42
-aS"(1055, u'(?i)(men|man)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(1057, u'(?i)(humans|human)')"
-p46
-aS"(6391, u'(?i)(asses|ass)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(3196, u'(?i)(human|humans)')"
-p49
-atp50
-Rp51
+atp41
+Rp42
 sb.

@@ -38,54 +38,32 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(34, u'(?i)(pon|pons)')"
-p24
-atp25
-Rp26
+tp24
+Rp25
 sS'year'
-p27
+p26
 V1999
-p28
+p27
 sS'agonists'
-p29
+p28
 g3
-((lp30
-S"(103, u'\\\\bsumatriptan')"
-p31
-atp32
-Rp33
+((lp29
+S"(96, u'\\\\bsumatriptan')"
+p30
+atp31
+Rp32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(3550, u'(?i)(anis|ani)')"
+((lp34
+S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+p35
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p36
-aS"(6249, u'(?i)(ants|ant)')"
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
 p37
-aS"(867, u'(?i)(tits|tit)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p38
-aS"(81, u'(?i)(asps|asp)')"
-p39
-aS"(468, u'(?i)(oxen|ox)')"
-p40
-aS"(1055, u'(?i)(men|man)')"
-p41
-aS"(3726, u'(?i)(mates|mate)')"
-p42
-aS"(4979, u'(?i)(cats|cat)')"
-p43
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p44
-aS"(2395, u'(?i)(mutants|mutant)')"
-p45
-aS"(1057, u'(?i)(humans|human)')"
-p46
-aS"(3812, u'(?i)(studs|stud)')"
-p47
-aS"(3196, u'(?i)(human|humans)')"
-p48
-aS"(6356, u'(?i)(ais|ai)')"
-p49
-atp50
-Rp51
+atp39
+Rp40
 sb.

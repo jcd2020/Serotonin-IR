@@ -8,9 +8,9 @@ c__builtin__
 set
 p3
 ((lp4
-S"(114, u'\\\\bimipramine')"
+S"(104, u'\\\\bimipramine')"
 p5
-aS"(34, u'\\\\byohimbine')"
+aS"(33, u'\\\\byohimbine')"
 p6
 atp7
 Rp8
@@ -54,60 +54,36 @@ sS'regions'
 p30
 g3
 ((lp31
-S"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+tp32
+Rp33
 sS'year'
-p35
+p34
 V2004
-p36
+p35
 sS'agonists'
-p37
+p36
 g3
-((lp38
-S"(89, u'\\\\byohimbine')"
+((lp37
+S"(20, u'\\\\bbuspirone')"
+p38
+aS"(163, u'\\\\bfenfluramine')"
 p39
-aS"(161, u'\\\\bmcpp')"
+aS"(155, u'\\\\bmcpp')"
 p40
-aS"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p41
-aS"(24, u'\\\\bbuspirone')"
+aS"(82, u'\\\\byohimbine')"
 p42
-aS"(169, u'\\\\bfenfluramine')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sS'species'
-p46
+p45
 g3
-((lp47
-S"(4624, u'(?i)(apes|ape)')"
+((lp46
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p47
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p48
-aS"(6753, u'(?i)(da|das)')"
-p49
-aS"(5958, u'(?i)(rats|rat)')"
-p50
-aS"(163, u'(?i)(mice|mouse)')"
-p51
-aS"(468, u'(?i)(oxen|ox)')"
-p52
-aS"(1349, u'(?i)(rams|ram)')"
-p53
-aS"(7094, u'(?i)(curs|cur)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(5176, u'(?i)(tegs|teg)')"
-p56
-aS"(6249, u'(?i)(ants|ant)')"
-p57
-aS"(1961, u'(?i)(pens|pen)')"
-p58
-aS"(3812, u'(?i)(studs|stud)')"
-p59
-aS"(6356, u'(?i)(ais|ai)')"
-p60
-atp61
-Rp62
+atp49
+Rp50
 sb.

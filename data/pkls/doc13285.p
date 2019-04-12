@@ -48,19 +48,19 @@ sS'agonists'
 p28
 g3
 ((lp29
-S"(74, u'\\\\bru ?24969')"
+S"(49, u'\\\\blysergic acid diethylamide')"
 p30
-aS"(50, u'\\\\bipsapirone')"
+aS"(149, u'\\\\bmem')"
 p31
-aS"(169, u'\\\\bfenfluramine')"
+aS"(235, u'\\\\bnn ?dimethyltryptamine')"
 p32
-aS"(55, u'\\\\blysergic acid diethylamide')"
+aS"(192, u'\\\\bquipazine')"
 p33
-aS"(237, u'\\\\bnn ?dimethyltryptamine')"
+aS"(163, u'\\\\bfenfluramine')"
 p34
-aS"(196, u'\\\\bquipazine')"
+aS"(45, u'\\\\bipsapirone')"
 p35
-aS"(155, u'\\\\bmem')"
+aS"(67, u'\\\\bru ?24969')"
 p36
 atp37
 Rp38
@@ -68,34 +68,10 @@ sS'species'
 p39
 g3
 ((lp40
-S"(4624, u'(?i)(apes|ape)')"
+S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(1312, u'(?i)\\\\b(pigeons|pigeon)\\\\b')"
 p42
-aS"(4964, u'(?i)(serins|serin)')"
-p43
-aS"(5743, u'(?i)(bots|bot)')"
-p44
-aS"(3051, u'(?i)(pigs|pig)')"
-p45
-aS"(468, u'(?i)(oxen|ox)')"
-p46
-aS"(1349, u'(?i)(rams|ram)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(1054, u'(?i)(homoes|homo)')"
-p49
-aS"(853, u'(?i)(minas|mina)')"
-p50
-aS"(3522, u'(?i)(tetras|tetra)')"
-p51
-aS"(3812, u'(?i)(studs|stud)')"
-p52
-aS"(1312, u'(?i)(pigeons|pigeon)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-atp55
-Rp56
+atp43
+Rp44
 sb.

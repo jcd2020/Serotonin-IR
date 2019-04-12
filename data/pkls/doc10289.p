@@ -22,23 +22,23 @@ sS'topics'
 p12
 g3
 ((lp13
-S"(15, u'\\\\bschizophreni')"
+S"(37, u'\\\\baddict')"
 p14
-aS"(9, u'\\\\bdepress')"
+aS"(15, u'\\\\bschizophreni')"
 p15
-aS"(10, u'\\\\banxiety')"
+aS"(9, u'\\\\bdepress')"
 p16
-aS"(20, u'\\\\baggressi')"
+aS"(10, u'\\\\banxiety')"
 p17
-atp18
-Rp19
+aS"(20, u'\\\\baggressi')"
+p18
+atp19
+Rp20
 sS'receptors'
-p20
+p21
 g3
-((lp21
+((lp22
 S'5ht1a'
-p22
-aS'5ht5'
 p23
 aS'5ht2a'
 p24
@@ -48,56 +48,28 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(34, u'(?i)(pon|pons)')"
-p29
-atp30
-Rp31
+tp29
+Rp30
 sS'year'
-p32
+p31
 V2010
-p33
+p32
 sS'agonists'
-p34
+p33
 g3
-((lp35
-S"(92, u'\\\\b8 ?oh ?dpat')"
+((lp34
+S"(149, u'\\\\bmem')"
+p35
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p36
-aS"(155, u'\\\\bmem')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(2323, u'(?i)(bees|bee)')"
-p42
-aS"(6753, u'(?i)(da|das)')"
-p43
-aS"(5958, u'(?i)(rats|rat)')"
-p44
-aS"(163, u'(?i)(mice|mouse)')"
-p45
-aS"(6682, u'(?i)(tera|teras)')"
-p46
-aS"(5967, u'(?i)(males|male)')"
-p47
-aS"(468, u'(?i)(oxen|ox)')"
-p48
-aS"(1055, u'(?i)(men|man)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(6249, u'(?i)(ants|ant)')"
-p51
-aS"(3522, u'(?i)(tetras|tetra)')"
-p52
-aS"(1961, u'(?i)(pens|pen)')"
-p53
-aS"(6356, u'(?i)(ais|ai)')"
-p54
-aS"(1628, u'(?i)(cod|cod)')"
-p55
-atp56
-Rp57
+((lp40
+S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p41
+atp42
+Rp43
 sb.

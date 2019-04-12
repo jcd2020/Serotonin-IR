@@ -38,50 +38,32 @@ sS'regions'
 p22
 g3
 ((lp23
-S"(223, u'(?i)(putamens|putamen)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'year'
-p28
+p27
 V2004
-p29
+p28
 sS'agonists'
-p30
+p29
 g3
-((lp31
-S"(14, u'\\\\bamphetamine')"
-p32
-atp33
-Rp34
+((lp30
+S"(11, u'\\\\bamphetamine')"
+p31
+atp32
+Rp33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5958, u'(?i)(rats|rat)')"
+((lp35
+S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p36
+aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
 p37
-aS"(702, u'(?i)(genets|genet)')"
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(163, u'(?i)(mice|mouse)')"
-p39
-aS"(479, u'(?i)(lings|ling)')"
-p40
-aS"(6249, u'(?i)(ants|ant)')"
-p41
-aS"(1055, u'(?i)(men|man)')"
-p42
-aS"(5131, u'(?i)(hags|hag)')"
-p43
-aS"(6753, u'(?i)(da|das)')"
-p44
-aS"(3550, u'(?i)(anis|ani)')"
-p45
-aS"(5917, u'(?i)(roaches|roach)')"
-p46
-aS"(6325, u'(?i)(caudates|caudate)')"
-p47
-atp48
-Rp49
+atp39
+Rp40
 sb.

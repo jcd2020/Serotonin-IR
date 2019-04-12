@@ -30,72 +30,40 @@ g3
 ((lp17
 S'5ht1b'
 p18
-aS'5ht5'
-p19
-atp20
-Rp21
+atp19
+Rp20
 sS'regions'
-p22
+p21
 g3
-((lp23
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p24
-aS"(34, u'(?i)(pon|pons)')"
-p25
-atp26
-Rp27
+((lp22
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p23
+atp24
+Rp25
 sS'year'
-p28
+p26
 V2015
-p29
+p27
 sS'agonists'
+p28
+g3
+((lp29
+S"(96, u'\\\\bsumatriptan')"
 p30
-g3
-((lp31
-S"(103, u'\\\\bsumatriptan')"
-p32
-aS"(104, u'\\\\bzolmitriptan')"
-p33
-atp34
-Rp35
+aS"(97, u'\\\\bzolmitriptan')"
+p31
+atp32
+Rp33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(7058, u'(?i)(does|doe)')"
+((lp35
+S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+p36
+aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p37
+aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
 p38
-aS"(6753, u'(?i)(da|das)')"
-p39
-aS"(6249, u'(?i)(ants|ant)')"
-p40
-aS"(7609, u'(?i)(erns|ern)')"
-p41
-aS"(3767, u'(?i)(olms|olm)')"
-p42
-aS"(479, u'(?i)(lings|ling)')"
-p43
-aS"(81, u'(?i)(asps|asp)')"
-p44
-aS"(1055, u'(?i)(men|man)')"
-p45
-aS"(5217, u'(?i)(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)')"
-p46
-aS"(853, u'(?i)(minas|mina)')"
-p47
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p48
-aS"(3550, u'(?i)(anis|ani)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(6356, u'(?i)(ais|ai)')"
-p51
-aS"(391, u'(?i)(alli|allis)')"
-p52
-aS"(5743, u'(?i)(bots|bot)')"
-p53
-aS"(1683, u'(?i)(terns|tern)')"
-p54
-atp55
-Rp56
+atp39
+Rp40
 sb.

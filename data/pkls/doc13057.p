@@ -34,86 +34,44 @@ aS'5ht1a'
 p19
 aS'5ht4'
 p20
-aS'5ht5'
-p21
 aS'5ht2a'
-p22
-atp23
-Rp24
+p21
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-S"(285, u'(?i)(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)')"
+((lp25
+S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
+p26
+aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
 p27
-aS"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(174, u'(?i)(posteriors|posterior)')"
+aS"(246, u'(?i)\\\\b(uncuses|uncus)\\\\b')"
 p29
-aS"(246, u'(?i)(uncuses|uncus)')"
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'year'
-p33
+p32
 V2004
-p34
+p33
 sS'agonists'
-p35
+p34
 g3
-((lp36
-tp37
-Rp38
+((lp35
+tp36
+Rp37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(6356, u'(?i)(ais|ai)')"
+((lp39
+S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+p40
+aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
 p41
-aS"(5958, u'(?i)(rats|rat)')"
+aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
 p42
-aS"(3812, u'(?i)(studs|stud)')"
-p43
-aS"(3196, u'(?i)(human|humans)')"
-p44
-aS"(5626, u'(?i)(posters|poster)')"
-p45
-aS"(1349, u'(?i)(rams|ram)')"
-p46
-aS"(3152, u'(?i)(layers|layer)')"
-p47
-aS"(5838, u'(?i)(cubs|cub)')"
-p48
-aS"(391, u'(?i)(alli|allis)')"
-p49
-aS"(2809, u'(?i)(toms|tom)')"
-p50
-aS"(5537, u'(?i)(hippos|hippo)')"
-p51
-aS"(6249, u'(?i)(ants|ant)')"
-p52
-aS"(7609, u'(?i)(erns|ern)')"
-p53
-aS"(867, u'(?i)(tits|tit)')"
-p54
-aS"(1055, u'(?i)(men|man)')"
-p55
-aS"(6753, u'(?i)(da|das)')"
-p56
-aS"(1057, u'(?i)(humans|human)')"
-p57
-aS"(4371, u'(?i)(lizas|liza)')"
-p58
-aS"(1414, u'(?i)(chars|char)')"
-p59
-aS"(2323, u'(?i)(bees|bee)')"
-p60
-aS"(853, u'(?i)(minas|mina)')"
-p61
-aS"(7552, u'(?i)(bats|bat)')"
-p62
-aS"(1683, u'(?i)(terns|tern)')"
-p63
-atp64
-Rp65
+atp43
+Rp44
 sb.

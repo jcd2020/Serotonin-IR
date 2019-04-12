@@ -8,150 +8,120 @@ c__builtin__
 set
 p3
 ((lp4
-S"(53, u'\\\\bketanserin')"
+S"(34, u'\\\\bmetergoline')"
 p5
-aS"(209, u'\\\\btfmpp')"
-p6
-aS"(130, u'\\\\britanserin')"
-p7
-aS"(52, u'\\\\bmetergoline')"
-p8
 aS"(21, u'\\\\bpindolol')"
-p9
-aS"(123, u'\\\\bclozapine')"
-p10
-aS"(56, u'\\\\bclozapine')"
-p11
+p6
 aS"(1, u'\\\\balprenolol')"
+p7
+aS"(28, u'\\\\bspiroxatrine')"
+p8
+aS"(203, u'\\\\btfmpp')"
+p9
+aS"(89, u'\\\\beltoprazine')"
+p10
+aS"(124, u'\\\\bondansetron')"
+p11
+aS"(117, u'\\\\bketanserin')"
 p12
-aS"(29, u'\\\\bspiroxatrine')"
+aS"(110, u'\\\\bclozapine')"
 p13
-aS"(54, u'\\\\britanserin')"
-p14
-aS"(100, u'\\\\beltoprazine')"
-p15
-aS"(128, u'\\\\bketanserin')"
-p16
 aS"(17, u'\\\\bnan ?190')"
-p17
-aS"(135, u'\\\\bondansetron')"
-p18
-aS"(35, u'\\\\bmetergoline')"
-p19
-atp20
-Rp21
+p14
+aS"(119, u'\\\\britanserin')"
+p15
+atp16
+Rp17
 sS'methods'
-p22
+p18
 g3
-((lp23
+((lp19
 S'Method.ANTAGONIST'
-p24
+p20
 aS'Method.AGONIST'
-p25
-atp26
-Rp27
+p21
+atp22
+Rp23
 sS'topics'
-p28
+p24
 g3
-((lp29
+((lp25
 S"(20, u'\\\\baggressi')"
-p30
-atp31
-Rp32
+p26
+atp27
+Rp28
 sS'receptors'
-p33
+p29
 g3
-((lp34
+((lp30
 S'5ht1a'
-p35
+p31
 aS'5ht3a'
-p36
+p32
 aS'5ht2'
-p37
+p33
 aS'5ht2a'
-p38
-atp39
-Rp40
+p34
+atp35
+Rp36
 sS'regions'
-p41
+p37
 g3
-((lp42
-tp43
-Rp44
+((lp38
+tp39
+Rp40
 sS'year'
-p45
+p41
 V1993
-p46
+p42
 sS'agonists'
+p43
+g3
+((lp44
+S"(20, u'\\\\bbuspirone')"
+p45
+aS"(39, u'\\\\bflesinoxan')"
+p46
+aS"(157, u'\\\\bdmt')"
 p47
-g3
-((lp48
-S"(163, u'\\\\bdmt')"
+aS"(155, u'\\\\bmcpp')"
+p48
+aS"(42, u'\\\\bgepirone')"
 p49
-aS"(74, u'\\\\bru ?24969')"
+aS"(45, u'\\\\bipsapirone')"
 p50
-aS"(44, u'\\\\bflesinoxan')"
+aS"(178, u'\\\\btfmpp')"
 p51
-aS"(161, u'\\\\bmcpp')"
+aS"(175, u'\\\\bdoi')"
 p52
-aS"(19, u'\\\\bbay r 1531')"
+aS"(15, u'\\\\bbay r 1531')"
 p53
-aS"(27, u'\\\\bclozapine')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p54
-aS"(47, u'\\\\bgepirone')"
+aS"(31, u'\\\\beltoprazine')"
 p55
-aS"(24, u'\\\\bbuspirone')"
+aS"(179, u'\\\\b5 ?meo ?dmt')"
 p56
-aS"(183, u'\\\\btfmpp')"
+aS"(23, u'\\\\bclozapine')"
 p57
-aS"(33, u'\\\\bdoi')"
+aS"(67, u'\\\\bru ?24969')"
 p58
-aS"(36, u'\\\\beltoprazine')"
-p59
-aS"(92, u'\\\\b8 ?oh ?dpat')"
-p60
-aS"(8, u'\\\\b5 ?meo ?dmt')"
-p61
-aS"(50, u'\\\\bipsapirone')"
-p62
-atp63
-Rp64
+atp59
+Rp60
 sS'species'
-p65
+p61
 g3
-((lp66
-S"(2323, u'(?i)(bees|bee)')"
+((lp62
+S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+p63
+aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+p64
+aS"(5510, u'(?i)\\\\b(bays|bay)\\\\b')"
+p65
+aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p66
+aS"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
 p67
-aS"(6753, u'(?i)(da|das)')"
-p68
-aS"(6249, u'(?i)(ants|ant)')"
-p69
-aS"(5510, u'(?i)(bays|bay)')"
-p70
-aS"(163, u'(?i)(mice|mouse)')"
-p71
-aS"(5967, u'(?i)(males|male)')"
-p72
-aS"(468, u'(?i)(oxen|ox)')"
-p73
-aS"(1349, u'(?i)(rams|ram)')"
-p74
-aS"(1055, u'(?i)(men|man)')"
-p75
-aS"(853, u'(?i)(minas|mina)')"
-p76
-aS"(3550, u'(?i)(anis|ani)')"
-p77
-aS"(7058, u'(?i)(does|doe)')"
-p78
-aS"(4371, u'(?i)(lizas|liza)')"
-p79
-aS"(3812, u'(?i)(studs|stud)')"
-p80
-aS"(4979, u'(?i)(cats|cat)')"
-p81
-aS"(4964, u'(?i)(serins|serin)')"
-p82
-atp83
-Rp84
+atp68
+Rp69
 sb.

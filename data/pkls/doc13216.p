@@ -46,15 +46,15 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(219, u'(?i)(basals|basal)(-|\\\\s+)?(ganglias|ganglia)')"
+S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p28
-aS"(225, u'(?i)(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)')"
+aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p29
-aS"(224, u'(?i)(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)')"
+aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
 p30
-aS"(223, u'(?i)(putamens|putamen)')"
+aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p31
-aS"(220, u'(?i)(striatums|striatum)')"
+aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p32
 atp33
 Rp34
@@ -66,7 +66,7 @@ sS'agonists'
 p37
 g3
 ((lp38
-S"(70, u'\\\\bpsilocybin')"
+S"(63, u'\\\\bpsilocybin')"
 p39
 atp40
 Rp41
@@ -74,36 +74,12 @@ sS'species'
 p42
 g3
 ((lp43
-S"(1070, u'(?i)(pets|pet)')"
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
 p44
-aS"(2809, u'(?i)(toms|tom)')"
+aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p45
-aS"(6753, u'(?i)(da|das)')"
+aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
 p46
-aS"(6682, u'(?i)(tera|teras)')"
-p47
-aS"(1055, u'(?i)(men|man)')"
-p48
-aS"(6249, u'(?i)(ants|ant)')"
-p49
-aS"(5743, u'(?i)(bots|bot)')"
-p50
-aS"(5958, u'(?i)(rats|rat)')"
-p51
-aS"(4371, u'(?i)(lizas|liza)')"
-p52
-aS"(3812, u'(?i)(studs|stud)')"
-p53
-aS"(6391, u'(?i)(asses|ass)')"
-p54
-aS"(3523, u'(?i)(eiders|eider)')"
-p55
-aS"(6325, u'(?i)(caudates|caudate)')"
-p56
-aS"(6356, u'(?i)(ais|ai)')"
-p57
-aS"(5949, u'(?i)(dogs|dog)')"
-p58
-atp59
-Rp60
+atp47
+Rp48
 sb.

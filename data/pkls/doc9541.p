@@ -44,78 +44,42 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(362, u'(?i)(brains|brain)(-|\\\\s+)?(stems|stem)')"
+S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p27
-aS"(386, u'(?i)(cisternas|cisterna)(-|\\\\s+)?(magnas|magna)')"
+aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
 p28
-aS"(34, u'(?i)(pon|pons)')"
+aS"(386, u'(?i)\\\\b(cisternas|cisterna)(-|\\\\s+)?(magnas|magna)\\\\b')"
 p29
-aS"(313, u'(?i)(solitaries|solitary)(-|\\\\s+)?(tracts|tract)')"
+aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
 p30
-aS"(27, u'(?i)(areas|area)(-|\\\\s+)?(postremas|postrema)')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
-p34
+p33
 V1992
-p35
+p34
 sS'agonists'
-p36
+p35
 g3
-((lp37
-S"(103, u'\\\\bsumatriptan')"
+((lp36
+S"(25, u'\\\\bdihydroergotamine')"
+p37
+aS"(96, u'\\\\bsumatriptan')"
 p38
-aS"(107, u'\\\\bcp ?93129')"
+aS"(100, u'\\\\bcp ?93129')"
 p39
-aS"(29, u'\\\\bdihydroergotamine')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(2054, u'(?i)(heads|head)')"
+((lp43
+S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+p44
+aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
 p45
-aS"(6753, u'(?i)(da|das)')"
+aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
-aS"(2568, u'(?i)(hens|hen)')"
-p47
-aS"(6356, u'(?i)(ais|ai)')"
-p48
-aS"(7609, u'(?i)(erns|ern)')"
-p49
-aS"(2942, u'(?i)(daws|daw)')"
-p50
-aS"(479, u'(?i)(lings|ling)')"
-p51
-aS"(4091, u'(?i)(adults|adult)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(3592, u'(?i)(ravens|raven)')"
-p55
-aS"(853, u'(?i)(minas|mina)')"
-p56
-aS"(5958, u'(?i)(rats|rat)')"
-p57
-aS"(4979, u'(?i)(cats|cat)')"
-p58
-aS"(5229, u'(?i)(moles|mole)')"
-p59
-aS"(1961, u'(?i)(pens|pen)')"
-p60
-aS"(5674, u'(?i)(ewes|ewe)')"
-p61
-aS"(6391, u'(?i)(asses|ass)')"
-p62
-aS"(3569, u'(?i)(constrictors|constrictor)')"
-p63
-aS"(1683, u'(?i)(terns|tern)')"
-p64
-atp65
-Rp66
+atp47
+Rp48
 sb.

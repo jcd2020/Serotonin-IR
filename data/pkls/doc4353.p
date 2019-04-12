@@ -8,7 +8,7 @@ c__builtin__
 set
 p3
 ((lp4
-S"(209, u'\\\\btfmpp')"
+S"(203, u'\\\\btfmpp')"
 p5
 aS"(17, u'\\\\bnan ?190')"
 p6
@@ -44,76 +44,40 @@ aS'5ht2'
 p24
 aS'5ht1'
 p25
-aS'5ht5'
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(158, u'(?i)(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)')"
-p31
-aS"(34, u'(?i)(pon|pons)')"
-p32
-atp33
-Rp34
+((lp29
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p35
+p33
 V1994
-p36
+p34
 sS'agonists'
+p35
+g3
+((lp36
+S"(20, u'\\\\bbuspirone')"
 p37
-g3
-((lp38
-S"(92, u'\\\\b8 ?oh ?dpat')"
+aS"(178, u'\\\\btfmpp')"
+p38
+aS"(192, u'\\\\bquipazine')"
 p39
-aS"(196, u'\\\\bquipazine')"
+aS"(85, u'\\\\b8 ?oh ?dpat')"
 p40
-aS"(24, u'\\\\bbuspirone')"
-p41
-aS"(183, u'\\\\btfmpp')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(6753, u'(?i)(da|das)')"
-p47
-aS"(2568, u'(?i)(hens|hen)')"
-p48
-aS"(3137, u'(?i)(iguanids|iguanid)')"
-p49
-aS"(4979, u'(?i)(cats|cat)')"
-p50
-aS"(479, u'(?i)(lings|ling)')"
-p51
-aS"(6682, u'(?i)(tera|teras)')"
-p52
-aS"(1055, u'(?i)(men|man)')"
-p53
-aS"(6249, u'(?i)(ants|ant)')"
-p54
-aS"(3812, u'(?i)(studs|stud)')"
-p55
-aS"(4099, u'(?i)(hamsters|hamster)')"
-p56
-aS"(3550, u'(?i)(anis|ani)')"
-p57
-aS"(1414, u'(?i)(chars|char)')"
-p58
-aS"(6391, u'(?i)(asses|ass)')"
-p59
-aS"(391, u'(?i)(alli|allis)')"
-p60
-aS"(6878, u'(?i)(guans|guan)')"
-p61
-aS"(5743, u'(?i)(bots|bot)')"
-p62
-aS"(6356, u'(?i)(ais|ai)')"
-p63
-atp64
-Rp65
+((lp44
+S"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+p45
+atp46
+Rp47
 sb.
