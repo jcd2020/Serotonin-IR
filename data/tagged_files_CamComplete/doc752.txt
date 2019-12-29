@@ -1,0 +1,4 @@
+Barnes, N. M., et al. (1988). "Identification of ##5-HT3##5ht3## recognition sites in the ferret area postrema." J Pharm Pharmacol 40(8): 586-588.
+
+	The ##5-HT3##5ht3## receptor antagonist [3H]zacopride was used to identify ##5-HT3##5ht3## recognition sites in the ferret area postrema. Specific binding was determined by the inclusion of the ##5-HT3##5ht3## receptor antagonist BRL 43694 in the incubation media, and was shown to be much higher in the area postrema than in other brain regions. The increased binding in the area postrema may reflect either a greater number of binding sites, a higher affinity for such sites, or both. The results indicate that ##5-HT3##5ht3## recognition sites are present within the area postrema and may afford an antiemetic site of action for zacopride and other ##5-HT3##5ht3## receptor antagonists.
+

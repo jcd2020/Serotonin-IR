@@ -44,7 +44,7 @@ def get_sub(suff):
         if(re.search(v,suff)):
             return k
     return ReceptorSubtype.NONE
-def extract_receptor(doc):
+def extract_receptor(doc, indices=False):
     recepts = set()
     pre = re.compile(ReceptorPrefix._5HT.value)
     for x in pre.finditer(doc):
@@ -67,10 +67,12 @@ def extract_receptor(doc):
                 recept.fam = suff_fam
                 suff = suff[end:].strip()
                 if len(suff) > 0:
-                    sub = get_sub(suff[0])
-                    recept.sub = sub
+                    if len(suff) <= 1 or not suff[1].isalnum():
+                        sub = get_sub(suff[0])
+                        recept.sub = sub
             if recept.fam != ReceptorFamily.NONE:
-                recepts.add(str(recept))
+                if indices:
+                    recepts.add((str(recept), x.start(), x.end()))
     return recepts
 def extract_agonists(doc):
     compiled = list(map(lambda x : re.compile(x), ag.strs))
@@ -149,3 +151,4 @@ def extract_methods(doc):
 def extract_year(doc):
     pat = re.compile(r"\(?\b(19|20)\d{2}\b\)?")
     return pat.search(doc).group(0).replace("(", "").replace(")", "")
+
