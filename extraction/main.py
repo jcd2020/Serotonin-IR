@@ -30,32 +30,32 @@ def create_objs():
         if count % 10 == 0:
             print(str(count) + " " + str(timers))
             timers = [0] * 9
-        ld = open_unicode_file(mypath + "/" + fname)
+        loaded_file = open_unicode_file(mypath + "/" + fname)
 
         parse = ParseObject()
         t0 = time.time()
-        parse.topics = extract_topics(ld)
+        parse.topics = extract_topics(loaded_file)
         t1 = time.time()
         timers[0] += t1 - t0
-        parse.species = extract_species(ld)
+        parse.species = extract_species(loaded_file)
         t2 = time.time()
         timers[1] += t2 - t1
-        parse.regions = extract_regions(ld)
+        parse.regions = extract_regions(loaded_file)
         t3 = time.time()
         timers[2] += t3 - t2
-        parse.antagonists = extract_antagonists(ld)
+        parse.antagonists = extract_antagonists(loaded_file)
         t4 = time.time()
         timers[3] += t4 - t3
-        parse.agonists = extract_agonists(ld)
+        parse.agonists = extract_agonists(loaded_file)
         t5 = time.time()
         timers[4] += t5 - t4
-        parse.year = extract_year(ld)
+        parse.year = extract_year(loaded_file)
         t6 = time.time()
         timers[5] += t6 - t5
-        parse.methods = extract_methods(ld)
+        parse.methods = extract_methods(loaded_file)
         t7 = time.time()
         timers[6] += t7 - t6
-        parse.receptors = extract_receptor(ld)
+        parse.receptors = extract_receptor(loaded_file)
         t8 = time.time()
         timers[7] += t8 - t7
         pkl.dump(parse, open("../data/pkls/" + fname.replace(".txt", ".p"), "wb"))
@@ -129,7 +129,9 @@ def create_parse(ld):
 def parse_receptors(ld):
     return extract_receptor(ld, True)
 
-if __name__ == "__main__":  create_objs()
+if __name__ == "__main__":
+    create_objs()
+    print_csv()
 
 
 

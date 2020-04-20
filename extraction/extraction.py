@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*-
 import re
 from file_types import Receptor,ReceptorFamily,ReceptorSubtype,ReceptorPrefix,Method
-import data.animals as animals
-import data.Brain_Regions as br
-import data.Agonists as ag
-import data.Antagonists as antag
-import data.Serotonin_Topics as topics
+import regex_data.animals as animals
+import regex_data.Brain_Regions as br
+import regex_data.Agonists as ag
+import regex_data.Antagonists as antag
+import regex_data.Serotonin_Topics as topics
 def match(s, compiled):
     matches = []
     i = 0

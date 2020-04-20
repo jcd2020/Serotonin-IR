@@ -4,12 +4,10 @@
 
 
 
-import file_types
 from nltk.corpus import wordnet as wn
-from nltk.tokenize import word_tokenize as wt
 import inflect
-import data.animals as animals
-import data.Brain_Regions as br
+import regex_data.animals as animals
+import regex_data.Brain_Regions as br
 
 
 
@@ -46,7 +44,7 @@ import re
 import codecs
 def get_regex(name):
     py_name = name.split("/")[-1].replace(".txt", ".py")
-    py_file = codecs.open("data/" + py_name, encoding='utf-8', mode='w')
+    py_file = codecs.open("regex_data/" + py_name, encoding='utf-8', mode='w')
     f = open_unicode_file(name)
     p = inflect.engine()
     counter = 0
@@ -56,7 +54,6 @@ def get_regex(name):
     for l in f:
         pattern = "ur\"(?i)" + r"\b"
         wrds = re.compile("-|\s").split(l)
-#         print(wrds)
         pattern += "(-|\s+)?".join(list(map(lambda x : "(" + p.plural(x.lower()) + "|" + x.lower() + ")", wrds))) + r"\b" + "\""
         pat = create_umlaut_variants(pattern)
         if len(pat) <= 15 or pat in ptrns:
@@ -88,7 +85,7 @@ def match(s, compiled):
     return matches
 def get_all_species():
     data = codecs.open("../data/5-HT_EndNote_Text_Apr2019.txt", encoding='utf-8', mode='r')
-    f = codecs.open("data/species.txt", encoding='utf-8', mode='w')
+    f = codecs.open("regex_data/RegexTextFiles/species.txt", encoding='utf-8', mode='w')
     compiled = list(map(lambda x : re.compile(x), animals.pats))
     count = 0
     for l in data:
@@ -100,7 +97,7 @@ def get_all_species():
             f.write("\n".join(list(map(lambda x : str(x), res))) + "\n")
 def get_all_regions():
     data = codecs.open("../data/5-HT_EndNote_Text_Apr2019.txt", encoding='utf-8', mode='r')
-    f = codecs.open("data/regions.txt", encoding='utf-8', mode='w')
+    f = codecs.open("regex_data/RegexTextFiles/regions.txt", encoding='utf-8', mode='w')
     compiled = list(map(lambda x : re.compile(x), br.pats))
     count = 0
     found = set()
@@ -117,7 +114,7 @@ def get_all_regions():
         f.write(s + "\n")
 def get_files(name):
     py_name = name.split("/")[-1].replace(".txt", ".py")
-    py_file = codecs.open("data/" + py_name, encoding='utf-8', mode='w')
+    py_file = codecs.open("regex_data/" + py_name, encoding='utf-8', mode='w')
     f = open_unicode_file(name)
     
     p1 = re.compile(u'α')
@@ -128,7 +125,6 @@ def get_files(name):
     varname =r"strs=["
     for l in f:
         st = "ur\"" + r"\b"
-#         print(wrds)
         st += pattern.sub('', p1.sub('a',l).replace("-", r" ?")).strip()
         if len(st) <= 5 or st in ptrns:
             continue
@@ -139,10 +135,12 @@ def get_files(name):
     py_file.write(varname.lower())
     py_file.close()
 def main():
-    get_files("data/Antagonists.txt")
-    get_files("data/Agonists.txt")
-    get_files("data/Serotonin_Topics.txt")
-    get_regex("data/animals.txt")
-    get_regex("data/Brain_Regions.txt")
-if __name__ == "__main__": main()
+    get_files("regex_data/RawTextFiles/Antagonists.txt")
+    get_files("regex_data/RawTextFiles/Agonists.txt")
+    get_files("regex_data/RawTextFiles/Serotonin_Topics.txt")
+    get_regex("regex_data/RawTextFiles/animals.txt")
+    get_regex("regex_data/RawTextFiles/Brain_Regions.txt")
+
+if __name__ == "__main__":
+    main()
 
