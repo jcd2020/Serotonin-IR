@@ -40,48 +40,42 @@ sS'receptors'
 p22
 g3
 ((lp23
-S'5ht1b'
-p24
-aS'5ht1a'
-p25
-aS'5ht2'
-p26
-atp27
-Rp28
+tp24
+Rp25
 sS'regions'
-p29
+p26
 g3
-((lp30
+((lp27
 S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p31
-atp32
-Rp33
+p28
+atp29
+Rp30
 sS'year'
-p34
+p31
 V1992
-p35
+p32
 sS'agonists'
-p36
+p33
 g3
-((lp37
+((lp34
 S"(76, u'\\\\btrifluoromethylphenylpiperazine')"
-p38
+p35
 aS"(149, u'\\\\bmem')"
-p39
-atp40
-Rp41
+p36
+atp37
+Rp38
 sS'species'
-p42
+p39
 g3
-((lp43
+((lp40
 S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p44
+p41
 aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
+p42
 aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p46
+p43
 aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p47
-atp48
-Rp49
+p44
+atp45
+Rp46
 sb.

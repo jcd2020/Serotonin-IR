@@ -30,50 +30,42 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht1a'
-p19
-aS'5ht3'
-p20
-aS'5ht2c'
-p21
-aS'5ht2a'
-p22
-atp23
-Rp24
+tp19
+Rp20
 sS'regions'
-p25
+p21
 g3
-((lp26
+((lp22
 S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p27
+p23
 aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
+p24
 aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-atp30
-Rp31
+p25
+atp26
+Rp27
 sS'year'
-p32
+p28
 V1994
-p33
+p29
 sS'agonists'
-p34
+p30
 g3
-((lp35
+((lp31
 S"(45, u'\\\\bipsapirone')"
-p36
+p32
 aS"(85, u'\\\\b8 ?oh ?dpat')"
-p37
-atp38
-Rp39
+p33
+atp34
+Rp35
 sS'species'
-p40
+p36
 g3
-((lp41
+((lp37
 S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p42
+p38
 aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+p39
+atp40
+Rp41
 sb.

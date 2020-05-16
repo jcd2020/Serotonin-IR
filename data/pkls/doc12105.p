@@ -36,52 +36,42 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht7'
-p22
-aS'5ht6'
-p23
-aS'5ht1a'
-p24
-aS'5ht2c'
-p25
-aS'5ht2a'
-p26
-atp27
-Rp28
+tp22
+Rp23
 sS'regions'
-p29
+p24
 g3
-((lp30
-tp31
-Rp32
+((lp25
+tp26
+Rp27
 sS'year'
-p33
+p28
 V2007
-p34
+p29
 sS'agonists'
-p35
+p30
 g3
-((lp36
+((lp31
 S"(20, u'\\\\bbuspirone')"
-p37
+p32
 aS"(223, u'\\\\baripiprazole')"
-p38
+p33
 aS"(149, u'\\\\bmem')"
-p39
+p34
 aS"(84, u'\\\\bziprasidone')"
-p40
-atp41
-Rp42
+p35
+atp36
+Rp37
 sS'species'
-p43
+p38
 g3
-((lp44
+((lp39
 S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p45
+p40
 aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p46
+p41
 aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p47
-atp48
-Rp49
+p42
+atp43
+Rp44
 sb.

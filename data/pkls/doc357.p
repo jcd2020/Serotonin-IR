@@ -38,48 +38,38 @@ sS'receptors'
 p21
 g3
 ((lp22
-S'5ht7a'
-p23
-aS'5ht1a'
-p24
-aS'5ht2'
+tp23
+Rp24
+sS'regions'
 p25
-aS'5ht1'
-p26
-aS'5ht2a'
+g3
+((lp26
+S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
 atp28
 Rp29
-sS'regions'
-p30
-g3
-((lp31
-S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p32
-atp33
-Rp34
 sS'year'
-p35
+p30
 V1998
-p36
+p31
 sS'agonists'
-p37
+p32
 g3
-((lp38
-tp39
-Rp40
+((lp33
+tp34
+Rp35
 sS'species'
-p41
+p36
 g3
-((lp42
+((lp37
 S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p43
+p38
 aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
-p44
+p39
 aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
-p45
+p40
 aS"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
-p46
-atp47
-Rp48
+p41
+atp42
+Rp43
 sb.
