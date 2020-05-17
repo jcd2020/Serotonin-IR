@@ -158,3 +158,13 @@ def make_plot(type='Topic', cutoff=1):
 if __name__ == '__main__':
     make_plot('Topic', cutoff=2)
     make_plot('Receptor', cutoff=2)
+
+    G = nx.Graph()
+    for n in receptor_to_topic:
+        G.add_node(n)
+    for n in topic_to_receptor:
+        G.add_node(n)
+    for n1,n2s in receptor_to_topic.iteritems():
+        for n2 in n2s:
+            G.add_edge(n1, n2)
+    plot_graph(G, 'Topic-Receptor co-occurrences')
