@@ -1,7 +1,6 @@
 import plotly.graph_objects as go
 
 import networkx as nx
-import matplotlib.pyplot as plt
 
 topics = ['Feeding', 'Mood', "Alzheimer's", 'Suicide', 'Locomotion', 'Memory', 'Analgesic', 'Obesity', 'Psychedelics', 'Pain',
           'Anxiolytic', 'Nausea', 'Emesis', 'Stress', 'Anxiety', 'Cognition', 'Vasoconstriction', 'Compulsivity', 'Psychosis',
@@ -40,7 +39,7 @@ receptor_to_topic = {
 
 topic_to_receptor = {}
 
-for k,v in receptor_to_topic.iteritems():
+for k, v in receptor_to_topic.iteritems():
     for topic in v:
         if topic in topic_to_receptor:
             topic_to_receptor[topic].append(k)
@@ -51,8 +50,8 @@ for k,v in receptor_to_topic.iteritems():
 
 
 
-def plot_graph(G, name):
-    pos = nx.spring_layout(G)
+def plot_graph(G, name, dynamic=False):
+    pos = nx.spring_layout(G, 1)
 
     edge_x = []
     edge_y = []
@@ -70,19 +69,28 @@ def plot_graph(G, name):
         x=edge_x, y=edge_y,
         line=dict(width=0.5, color='#888'),
         hoverinfo='none',
-        mode='lines')
-
+        mode='lines',
+        textposition='top center'
+    )
     node_x = []
     node_y = []
     for node in G.nodes():
         x, y = pos[node]
         node_x.append(x)
         node_y.append(y)
+    node_adjacencies = []
+    node_text = []
+    for node, adjacencies in enumerate(G.adjacency()):
+        node_adjacencies.append(len(adjacencies[1]))
+        node_text.append(adjacencies[0])
+
 
     node_trace = go.Scatter(
         x=node_x, y=node_y,
-        mode='markers',
-        hoverinfo='text',
+        mode='markers+text',
+        hoverinfo='none',
+        textposition='top center',
+
         marker=dict(
             showscale=True,
             # colorscale options
@@ -100,12 +108,6 @@ def plot_graph(G, name):
                 titleside='right'
             ),
             line_width=2))
-
-    node_adjacencies = []
-    node_text = []
-    for node, adjacencies in enumerate(G.adjacency()):
-        node_adjacencies.append(len(adjacencies[1]))
-        node_text.append(adjacencies[0])
 
     node_trace.marker.color = node_adjacencies
     node_trace.text = node_text
@@ -142,6 +144,7 @@ def make_plot(type='Topic', cutoff=1):
     for n in nodes:
         G.add_node(n)
 
+    edge_labels = {}
     for n1 in edges:
             for n2 in edges:
                 if n1 != n2:
@@ -151,20 +154,21 @@ def make_plot(type='Topic', cutoff=1):
                     intersection = [l for l in l1 if l in l2]
                     if len(intersection) >= cutoff:
                         G.add_weighted_edges_from([(n1, n2, len(intersection))])
+                        edge_labels[(n1, n2)] = intersection
 
-    plot_graph(G, '{} co-occurrences'.format(type))
+    plot_graph(G,'{} co-occurrences'.format(type))
 
 
 if __name__ == '__main__':
     make_plot('Topic', cutoff=2)
     make_plot('Receptor', cutoff=2)
 
-    G = nx.Graph()
-    for n in receptor_to_topic:
-        G.add_node(n)
-    for n in topic_to_receptor:
-        G.add_node(n)
-    for n1,n2s in receptor_to_topic.iteritems():
-        for n2 in n2s:
-            G.add_edge(n1, n2)
-    plot_graph(G, 'Topic-Receptor co-occurrences')
+    # G = nx.Graph()
+    # for n in receptor_to_topic:
+    #     G.add_node(n)
+    # for n in topic_to_receptor:
+    #     G.add_node(n)
+    # for n1, n2s in receptor_to_topic.iteritems():
+    #     for n2 in n2s:
+    #         G.add_edge(n1, n2)
+    # plot_graph(G, 'Topic-Receptor co-occurrences')
