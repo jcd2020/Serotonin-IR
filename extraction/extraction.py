@@ -44,10 +44,11 @@ def get_sub(suff):
         if(re.search(v,suff)):
             return k
     return ReceptorSubtype.NONE
-def extract_receptor(doc, indices=False):
+def extract_receptor(doc, indices=True):
     recepts = set()
     pre = re.compile(ReceptorPrefix._5HT.value)
     for x in pre.finditer(doc):
+        x_end = x.end()
         suffix = doc[x.end():(x.end()+10)]
         suffixes = re.split(",|/",suffix.replace("(", "").replace(")", "").replace("-", ""))
         pre_family = ReceptorFamily.NONE
@@ -65,14 +66,16 @@ def extract_receptor(doc, indices=False):
                     suff_fam = pre_family
                 pre_family = suff_fam
                 recept.fam = suff_fam
+                x_end += end
                 suff = suff[end:].strip()
                 if len(suff) > 0:
                     if len(suff) <= 1 or not suff[1].isalnum():
                         sub = get_sub(suff[0])
                         recept.sub = sub
+                        x_end = x_end + 1 if recept.sub != ReceptorSubtype.NONE else x_end
             if recept.fam != ReceptorFamily.NONE:
                 if indices:
-                    recepts.add((str(recept), x.start(), x.end()))
+                    recepts.add((str(recept), x.start(), x_end))
     return recepts
 def extract_agonists(doc):
     compiled = list(map(lambda x : re.compile(x), ag.strs))

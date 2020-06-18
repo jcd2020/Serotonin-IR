@@ -108,6 +108,8 @@ def remove_commas(st):
 
 def create_parse(ld):
     parse = ParseObject()
+    parse.receptors = remove_commas(parse_receptors(ld))
+
     parse.topics = remove_commas(extract_topics(ld))
 
     parse.species = remove_commas(extract_species(ld))
@@ -123,7 +125,6 @@ def create_parse(ld):
 
     parse.methods = remove_commas(extract_methods(ld))
 
-    parse.receptors = remove_commas(extract_receptor(ld))
     return parse
 
 def parse_receptors(ld):
