@@ -2,76 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(17, u'\\\\bgroom')"
-p14
-aS"(18, u'\\\\bpsychostim')"
-p15
-atp16
-Rp17
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2c'
+p16
+I409
+I420
+tp17
+a(S'5ht2'
 p18
-g3
-((lp19
-S'5ht2c'
+I1736
+I1741
+tp19
+a(S'5ht2'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p25
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I866
+I871
+tp21
+a(S'5ht2'
+p22
+I432
+I437
+tp23
+a(S'5ht2c'
+p24
+I40
+I51
+tp25
+a(S'5ht2'
 p26
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p27
-aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
-p28
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
+I772
+I777
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
+g3
+((lp31
+S"(13, u'\\\\bagonist')"
 p32
+atp33
+Rp34
+sS'regions'
+p35
+g3
+((lp36
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p37
+atp38
+Rp39
+sS'year'
+p40
 V2009
-p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(149, u'\\\\bmem')"
-p36
-atp37
-Rp38
-sS'species'
-p39
-g3
-((lp40
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
 p41
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+sS'species'
 p42
-atp43
-Rp44
+g3
+((lp43
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p44
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p45
+atp46
+Rp47
 sb.

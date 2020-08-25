@@ -2,72 +2,83 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(12, u'\\\\blecozotan')"
-p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.PET'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(3, u'\\\\bclinical')"
 p11
-aS'Method.ANTAGONIST'
+aS"(2, u'\\\\bdisorder')"
 p12
 atp13
 Rp14
-sS'topics'
+sS'receptors'
 p15
 g3
 ((lp16
-S"(33, u'\\\\balzheimers')"
+(S'5ht2a'
 p17
-atp18
-Rp19
-sS'receptors'
-p20
-g3
-((lp21
-S'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
+I60
+I66
+tp18
+a(S'5ht2a'
+p19
+I500
+I506
+tp20
+a(S'5ht2a'
+p21
+I773
+I779
+tp22
+a(S'5ht2a'
+p23
+I673
+I679
+tp24
+a(S'5ht2a'
 p25
-g3
-((lp26
-tp27
+I486
+I497
+tp26
+atp27
 Rp28
-sS'year'
+sS'raw_text_methods'
 p29
-V2008
-p30
-sS'agonists'
+g3
+((lp30
+S"(19, u'\\\\bpositron emission tomography')"
 p31
+atp32
+Rp33
+sS'regions'
+p34
 g3
-((lp32
-tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p37
-aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
-p38
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+((lp35
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
 p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+V2009
 p40
-atp41
-Rp42
+sS'species'
+p41
+g3
+((lp42
+tp43
+Rp44
 sb.

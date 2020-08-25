@@ -2,66 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(26, u'\\\\bbehav')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
+((lp16
+(S'5ht2c'
+p17
+I53
+I59
+tp18
+a(S'5ht2c'
+p19
+I1165
+I1171
+tp20
+a(S'5ht2c'
 p21
-g3
-((lp22
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+I224
+I230
+tp22
+a(S'5ht2c'
 p23
-atp24
-Rp25
-sS'year'
-p26
-V1997
-p27
-sS'agonists'
-p28
+I1699
+I1705
+tp24
+a(S'5ht2c'
+p25
+I428
+I434
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
 g3
-((lp29
-tp30
-Rp31
-sS'species'
+((lp30
+S"(13, u'\\\\bagonist')"
+p31
+aS"(16, u'\\\\bdiazepam')"
 p32
-g3
-((lp33
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
-p34
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p35
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+aS"(33, u'\\\\bmcpp')"
+p33
+atp34
+Rp35
+sS'regions'
 p36
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p37
-atp38
+g3
+((lp37
+tp38
 Rp39
+sS'year'
+p40
+V2008
+p41
+sS'species'
+p42
+g3
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

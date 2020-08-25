@@ -1,0 +1,4 @@
+Millan, M. J., et al. (1998). "Serotonin (5-HT)2C receptors tonically inhibit dopamine (DA) and noradrenaline (NA), but not 5-HT, release in the frontal cortex in vivo." Neuropharmacology 37(7): 953-955.
+
+	The novel, preferential 5-HT2C receptor agonist, Ro 60-0175 ((S)-2-(6-chloro-5-fluoroindol-1-yl)-1-methylethylamine) (2.5 mg,kg, s.c.), markedly suppressed dialysate levels of dopamine (DA) and noradrenaline (NA) levels in the frontal cortex of freely-moving rats without affecting levels of 5-HT. In contrast, the novel and selective 5-HT2C receptor antagonist, SB-242084 (6-chloro-5-methyl-1-[6-(2-methylpyridin-3-yloxy) pyridin-3-yl carbamoyl] indoline) (10.0 mg/kg, i.p.), markedly increased dialysate levels of DA and NA without modifying those of 5-HT. These data suggest that 5-HT2C receptors exert a tonic, inhibitory influence upon frontocortical dopaminergic and adrenergic, but not serotonergic, transmission.
+

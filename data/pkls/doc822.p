@@ -2,78 +2,98 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+aS'Method.ANTAGONIST'
+p7
+atp8
+Rp9
 sS'topics'
-p12
+p10
 g3
-((lp13
-S"(37, u'\\\\baddict')"
-p14
-atp15
-Rp16
+((lp11
+tp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht5'
-p19
-aS'5ht2c'
+((lp15
+(S'5ht7'
+p16
+I1180
+I1185
+tp17
+a(S'5ht7'
+p18
+I1050
+I1055
+tp19
+a(S'5ht1'
 p20
-aS'5ht1a'
-p21
-aS'5ht2a'
+I1301
+I1306
+tp21
+a(S'5ht7'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
+I1476
+I1481
+tp23
+a(S'5ht1'
+p24
+I1173
+I1178
+tp25
+a(S'5ht1'
+p26
+I1364
+I1369
 tp27
-Rp28
-sS'year'
-p29
-V1995
+atp28
+Rp29
+sS'raw_text_methods'
 p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(175, u'\\\\bdoi')"
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(15, u'\\\\b8ohdpat')"
 p33
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(40, u'\\\\bclozapine')"
 p34
-aS"(163, u'\\\\bfenfluramine')"
+aS"(34, u'\\\\b5ct')"
 p35
-atp36
-Rp37
-sS'species'
-p38
+aS"(12, u'\\\\bantagonist')"
+p36
+atp37
+Rp38
+sS'regions'
+p39
 g3
-((lp39
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p40
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp40
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
 p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p42
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p43
-atp44
-Rp45
+atp43
+Rp44
+sS'year'
+p45
+V2004
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

@@ -2,74 +2,108 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
-p5
-aS"(201, u'\\\\bsertindole')"
-p6
-aS"(180, u'\\\\bsertindole')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
+p5
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p6
+atp7
+Rp8
 sS'topics'
-p16
+p9
 g3
-((lp17
-S"(6, u'\\\\bcognit')"
-p18
-aS"(10, u'\\\\banxiety')"
-p19
-atp20
-Rp21
+((lp10
+S"(9, u'\\\\bstress')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1'
+p16
+I1889
+I1894
+tp17
+a(S'5ht2'
+p18
+I721
+I726
+tp19
+a(S'5ht3'
+p20
+I804
+I809
+tp21
+a(S'5ht1'
 p22
-g3
-((lp23
-S'5ht2c'
+I565
+I570
+tp23
+a(S'5ht2'
 p24
-aS'5ht2a'
-p25
-atp26
-Rp27
-sS'regions'
+I572
+I577
+tp25
+a(S'5ht1'
+p26
+I662
+I667
+tp27
+a(S'5ht3'
 p28
-g3
-((lp29
-tp30
-Rp31
-sS'year'
-p32
-V2001
-p33
-sS'agonists'
+I581
+I586
+tp29
+a(S'5ht2'
+p30
+I1899
+I1904
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
 g3
 ((lp35
-S"(23, u'\\\\bclozapine')"
+S"(13, u'\\\\bagonist')"
 p36
-atp37
-Rp38
-sS'species'
+aS"(20, u'\\\\bondansetron')"
+p37
+aS"(11, u'\\\\bfluoxetine')"
+p38
+aS"(12, u'\\\\bantagonist')"
 p39
+atp40
+Rp41
+sS'regions'
+p42
 g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+((lp43
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p44
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V1996
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p52
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p53
+atp54
+Rp55
 sb.

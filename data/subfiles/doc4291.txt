@@ -1,0 +1,4 @@
+Hanna-Elias, A., et al. (2010). "Synthesis and Preliminary Screening of Novel Tryptamines as 5-HT4 Receptor Ligands." Current Medicinal Chemistry 17(25): 2775-2787.
+
+	For the development of novel 5-HT4 receptor ligands we have designed and synthesized two series of 5-methoxytryptamine derivatives varying the substitution on the primary amine. Their biological activities were evaluated in a receptor binding assay where a subset of compounds showed comparable potency to the agonists serotonin and 5-methoxytryptamine. Structure-activity analyses have highlighted promising avenues for further synthetic work and binding modes were proposed by docking these compounds into a homology model of the 5-HT4 receptor.
+

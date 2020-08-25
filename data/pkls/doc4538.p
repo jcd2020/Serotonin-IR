@@ -2,39 +2,40 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.STAINING'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(3, u'\\\\bsleep')"
-p14
-aS"(4, u'\\\\blocomot')"
-p15
-atp16
-Rp17
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+atp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht1b'
-p20
-aS'5ht1d'
+((lp14
+(S'5ht1a'
+p15
+I757
+I763
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+S"(54, u'\\\\bautoradiography')"
 p21
 atp22
 Rp23
@@ -46,28 +47,12 @@ tp26
 Rp27
 sS'year'
 p28
-V2001
+V2014
 p29
-sS'agonists'
+sS'species'
 p30
 g3
 ((lp31
 tp32
 Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p36
-aS"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
-p37
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p38
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p39
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p40
-atp41
-Rp42
 sb.

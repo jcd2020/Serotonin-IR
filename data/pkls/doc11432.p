@@ -2,74 +2,78 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.PET'
 p5
-aS"(72, u'\\\\bagomelatine')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(9, u'\\\\bdepress')"
-p17
-aS"(35, u'\\\\bstress')"
-p18
-aS"(4, u'\\\\blocomot')"
-p19
-atp20
-Rp21
+tp11
+Rp12
 sS'receptors'
-p22
+p13
 g3
-((lp23
-S'5ht2c'
-p24
-atp25
-Rp26
-sS'regions'
+((lp14
+(S'5ht1b'
+p15
+I1014
+I1020
+tp16
+a(S'5ht1b'
+p17
+I247
+I253
+tp18
+a(S'5ht1b'
+p19
+I1482
+I1488
+tp20
+a(S'5ht1b'
+p21
+I80
+I86
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(13, u'\\\\bagonist')"
 p27
-g3
-((lp28
-tp29
-Rp30
-sS'year'
-p31
-V2014
+aS"(17, u'\\\\bpet')"
+p28
+aS"(19, u'\\\\bpositron emission tomography')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-tp35
-Rp36
-sS'species'
+((lp33
+tp34
+Rp35
+sS'year'
+p36
+V2013
 p37
+sS'species'
+p38
 g3
-((lp38
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p39
-aS"(1891, u'(?i)\\\\b(trees|tree)(-|\\\\s+)?(shrews|shrew)\\\\b')"
+((lp39
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p40
-aS"(1280, u'(?i)\\\\b(shrews|shrew)\\\\b')"
-p41
-atp42
-Rp43
+atp41
+Rp42
 sb.

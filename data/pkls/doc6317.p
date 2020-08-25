@@ -2,84 +2,122 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(50, u'\\\\bquetiapine')"
+S'Method.ANTAGONIST'
 p5
-aS"(112, u'\\\\bquetiapine')"
+aS'Method.AGONIST'
 p6
-aS"(110, u'\\\\bclozapine')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.PET'
-p12
-atp13
-Rp14
+atp7
+Rp8
 sS'topics'
-p15
+p9
 g3
-((lp16
-S"(15, u'\\\\bschizophreni')"
-p17
-aS"(9, u'\\\\bdepress')"
-p18
-aS"(29, u'\\\\bsex')"
-p19
-atp20
-Rp21
+((lp10
+tp11
+Rp12
 sS'receptors'
-p22
+p13
 g3
-((lp23
-S'5ht1a'
-p24
-atp25
-Rp26
-sS'regions'
+((lp14
+(S'5ht3'
+p15
+I58
+I63
+tp16
+a(S'5ht3'
+p17
+I353
+I358
+tp18
+a(S'5ht1'
+p19
+I1243
+I1253
+tp20
+a(S'5ht3'
+p21
+I862
+I867
+tp22
+a(S'5ht3'
+p23
+I204
+I209
+tp24
+a(S'5ht3'
+p25
+I740
+I745
+tp26
+a(S'5ht3'
 p27
-g3
-((lp28
-S"(84, u'(?i)\\\\b(mesencephalons|mesencephalon)\\\\b')"
+I1197
+I1202
+tp28
+a(S'5ht3'
 p29
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p30
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+I1795
+I1800
+tp30
+a(S'5ht3'
 p31
-aS"(34, u'(?i)\\\\b(pon|pons)\\\\b')"
-p32
-atp33
-Rp34
-sS'year'
+I1880
+I1885
+tp32
+a(S'5ht3'
+p33
+I1220
+I1225
+tp34
+a(S'5ht3'
 p35
-V2002
-p36
-sS'agonists'
+I1056
+I1061
+tp36
+a(S'5ht2'
 p37
+I1243
+I1254
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
+p41
 g3
-((lp38
-S"(64, u'\\\\bquetiapine')"
-p39
-aS"(23, u'\\\\bclozapine')"
-p40
-atp41
-Rp42
-sS'species'
+((lp42
+S"(13, u'\\\\bagonist')"
 p43
-g3
-((lp44
-S"(3191, u'(?i)\\\\b(worlds|world)\\\\b')"
+aS"(20, u'\\\\bondansetron')"
+p44
+aS"(30, u'\\\\b2methyl')"
 p45
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p46
 atp47
 Rp48
+sS'regions'
+p49
+g3
+((lp50
+tp51
+Rp52
+sS'year'
+p53
+V1993
+p54
+sS'species'
+p55
+g3
+((lp56
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p57
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p58
+atp59
+Rp60
 sb.

@@ -2,64 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-tp14
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(14, u'\\\\bcogniti')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(15, u'\\\\bmemory')"
+p13
+atp14
 Rp15
 sS'receptors'
 p16
 g3
 ((lp17
-S'5ht1a'
+(S'5ht7'
 p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p23
-atp24
-Rp25
-sS'year'
+I56
+I61
+tp19
+a(S'5ht2a'
+p20
+I932
+I938
+tp21
+a(S'5ht7'
+p22
+I233
+I238
+tp23
+a(S'5ht7'
+p24
+I564
+I569
+tp25
+a(S'5ht7'
 p26
-V1998
-p27
-sS'agonists'
+I2000
+I2005
+tp27
+a(S'5ht7'
 p28
-g3
-((lp29
-tp30
+I753
+I758
+tp29
+atp30
 Rp31
-sS'species'
+sS'raw_text_methods'
 p32
 g3
 ((lp33
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+S"(50, u'\\\\bm100907')"
 p34
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(5, u'\\\\bmk801')"
 p35
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p36
 atp37
 Rp38
+sS'regions'
+p39
+g3
+((lp40
+tp41
+Rp42
+sS'year'
+p43
+V2015
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

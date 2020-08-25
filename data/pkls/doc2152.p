@@ -2,45 +2,47 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
-sS'topics'
-p13
+tp10
+Rp11
+sS'receptors'
+p12
 g3
-((lp14
-S"(15, u'\\\\bschizophreni')"
-p15
-aS"(6, u'\\\\bcognit')"
+((lp13
+(S'5ht1b'
+p14
+I937
+I943
+tp15
+a(S'5ht1b'
 p16
-aS"(7, u'\\\\bmemory')"
-p17
+I413
+I419
+tp17
 atp18
 Rp19
-sS'receptors'
+sS'raw_text_methods'
 p20
 g3
 ((lp21
-S'5ht2b'
+S"(17, u'\\\\bpet')"
 p22
-aS'5ht2c'
+aS"(19, u'\\\\bpositron emission tomography')"
 p23
-aS'5ht2a'
+aS"(18, u'\\\\bimaging')"
 p24
 atp25
 Rp26
@@ -52,22 +54,14 @@ tp29
 Rp30
 sS'year'
 p31
-V2016
+V2011
 p32
-sS'agonists'
+sS'species'
 p33
 g3
 ((lp34
-S"(149, u'\\\\bmem')"
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
 p35
-aS"(43, u'\\\\bhaloperidol')"
-p36
-atp37
-Rp38
-sS'species'
-p39
-g3
-((lp40
-tp41
-Rp42
+atp36
+Rp37
 sb.

@@ -2,88 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(6, u'\\\\baggressi')"
 p10
-aS'Method.IMMUNOHISTOCHEMISTRY'
+aS"(26, u'\\\\bbehav')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(4, u'\\\\blocomot')"
-p16
-atp17
-Rp18
+aS"(25, u'\\\\bsocial')"
+p12
+atp13
+Rp14
 sS'receptors'
-p19
+p15
 g3
-((lp20
-S'5ht1a'
+((lp16
+(S'5ht1b'
+p17
+I475
+I481
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-atp22
-Rp23
-sS'regions'
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+aS"(18, u'\\\\bimaging')"
 p24
-g3
-((lp25
-S"(164, u'(?i)\\\\b(supraoptics|supraoptic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p27
-aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+aS"(48, u'\\\\bmdma')"
+p25
+atp26
+Rp27
+sS'regions'
 p28
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p29
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p30
-aS"(166, u'(?i)\\\\b(medians|median)(-|\\\\s+)?(preoptics|preoptic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
-aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
-p32
-atp33
-Rp34
-sS'year'
-p35
-V2011
-p36
-sS'agonists'
-p37
 g3
-((lp38
-S"(147, u'\\\\bmdma')"
+((lp29
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p30
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p31
+atp32
+Rp33
+sS'year'
+p34
+V2006
+p35
+sS'species'
+p36
+g3
+((lp37
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
 atp40
 Rp41
-sS'species'
-p42
-g3
-((lp43
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p44
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p45
-aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
-p46
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p47
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p48
-atp49
-Rp50
 sb.

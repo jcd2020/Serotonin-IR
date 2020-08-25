@@ -2,76 +2,72 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
-p5
-aS"(34, u'\\\\bmetergoline')"
-p6
-aS"(94, u'\\\\bnorfluoxetine')"
-p7
-aS"(193, u'\\\\bmesulergine')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
 S'Method.ANTAGONIST'
-p13
+p5
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p6
+atp7
+Rp8
 sS'topics'
-p17
+p9
 g3
-((lp18
-S"(16, u'\\\\bfeed')"
-p19
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I1556
+I1567
+tp17
+a(S'5ht2a'
+p18
+I1615
+I1626
+tp19
 atp20
 Rp21
-sS'receptors'
+sS'raw_text_methods'
 p22
 g3
 ((lp23
-S'5ht2c'
+S"(13, u'\\\\bagonist')"
 p24
-atp25
-Rp26
+aS"(41, u'\\\\bhaloperidol')"
+p25
+aS"(12, u'\\\\bantagonist')"
+p26
+atp27
+Rp28
 sS'regions'
-p27
+p29
 g3
-((lp28
-tp29
-Rp30
-sS'year'
+((lp30
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p31
-V1996
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(165, u'\\\\bmesulergine')"
+atp32
+Rp33
+sS'year'
+p34
+V2004
 p35
-atp36
-Rp37
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(3072, u'(?i)\\\\b(piglets|piglet)\\\\b')"
-p40
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

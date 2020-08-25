@@ -2,35 +2,37 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.ANTAGONIST'
 p5
-aS"(123, u'\\\\bgranisetron')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(14, u'\\\\bcogniti')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(16, u'\\\\blearning')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(9, u'\\\\bstress')"
 p14
-g3
-((lp15
-S"(5, u'\\\\bgastrointestin')"
+aS"(15, u'\\\\bmemory')"
+p15
+aS"(18, u'\\\\bavoidan')"
 p16
-aS"(32, u'\\\\bnausea')"
+aS"(4, u'\\\\btreatment')"
 p17
-aS"(28, u'\\\\bemesis')"
+aS"(3, u'\\\\bclinical')"
 p18
 atp19
 Rp20
@@ -38,40 +40,47 @@ sS'receptors'
 p21
 g3
 ((lp22
-S'5ht1a'
+(S'5ht2c'
 p23
-aS'5ht4'
-p24
-aS'5ht3'
-p25
-atp26
-Rp27
-sS'regions'
-p28
+I389
+I395
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp29
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+((lp28
+S"(13, u'\\\\bagonist')"
+p29
+aS"(43, u'\\\\bagomelatine')"
 p30
-atp31
-Rp32
-sS'year'
-p33
-V1995
-p34
-sS'agonists'
+aS"(35, u'\\\\badenosine')"
+p31
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
 p35
 g3
 ((lp36
 tp37
 Rp38
-sS'species'
+sS'year'
 p39
-g3
-((lp40
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+V2014
+p40
+sS'species'
 p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
+g3
+((lp42
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p43
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p44
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p45
+atp46
+Rp47
 sb.

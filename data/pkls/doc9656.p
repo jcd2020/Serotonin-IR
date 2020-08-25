@@ -2,66 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
+S'Method.STIMULATION'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-tp15
-Rp16
+tp10
+Rp11
 sS'receptors'
-p17
+p12
 g3
-((lp18
-S'5ht2a'
-p19
+((lp13
+(S'5ht2a'
+p14
+I1472
+I1478
+tp15
+a(S'5ht1b'
+p16
+I1462
+I1468
+tp17
+a(S'5ht1a'
+p18
+I1523
+I1529
+tp19
 atp20
 Rp21
-sS'regions'
+sS'raw_text_methods'
 p22
 g3
 ((lp23
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p24
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
-p28
-V2010
-p29
-sS'agonists'
-p30
+tp24
+Rp25
+sS'regions'
+p26
 g3
-((lp31
-S"(43, u'\\\\bhaloperidol')"
-p32
-atp33
-Rp34
+((lp27
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p28
+aS"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p29
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p30
+atp31
+Rp32
+sS'year'
+p33
+V2016
+p34
 sS'species'
 p35
 g3
 ((lp36
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-atp38
-Rp39
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p38
+atp39
+Rp40
 sb.

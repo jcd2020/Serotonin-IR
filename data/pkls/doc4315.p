@@ -2,29 +2,31 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(16, u'\\\\bfeed')"
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+aS"(5, u'\\\\btherap')"
+p13
+aS"(26, u'\\\\bbehav')"
 p14
-aS"(11, u'\\\\banxiolyt')"
+aS"(4, u'\\\\btreatment')"
 p15
 atp16
 Rp17
@@ -32,40 +34,93 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht1a'
+(S'5ht2c'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
+I257
+I263
+tp21
+a(S'5ht2a'
+p22
+I836
+I842
+tp23
+a(S'5ht2c'
+p24
+I1901
+I1907
 tp25
-Rp26
-sS'year'
-p27
-V1988
+a(S'5ht2c'
+p26
+I950
+I956
+tp27
+a(S'5ht2c'
 p28
-sS'agonists'
-p29
-g3
-((lp30
-S"(20, u'\\\\bbuspirone')"
-p31
-aS"(45, u'\\\\bipsapirone')"
+I354
+I360
+tp29
+a(S'5ht2c'
+p30
+I587
+I593
+tp31
+a(S'5ht2c'
 p32
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p33
-aS"(42, u'\\\\bgepirone')"
+I1221
+I1227
+tp33
+a(S'5ht2c'
 p34
-atp35
-Rp36
-sS'species'
-p37
+I755
+I761
+tp35
+a(S'5ht2c'
+p36
+I76
+I82
+tp37
+atp38
+Rp39
+sS'raw_text_methods'
+p40
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+((lp41
+S"(33, u'\\\\bmcpp')"
+p42
+aS"(22, u'\\\\bbuspirone')"
+p43
+aS"(16, u'\\\\bdiazepam')"
+p44
+aS"(36, u'\\\\bbenzodiazepine')"
+p45
+aS"(31, u'\\\\bbenzodiazepines')"
+p46
+aS"(13, u'\\\\bagonist')"
+p47
+aS"(12, u'\\\\bantagonist')"
+p48
+atp49
+Rp50
+sS'regions'
+p51
+g3
+((lp52
+tp53
+Rp54
+sS'year'
+p55
+V2006
+p56
+sS'species'
+p57
+g3
+((lp58
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p59
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p60
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p61
+atp62
+Rp63
 sb.

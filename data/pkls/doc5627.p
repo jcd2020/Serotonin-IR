@@ -2,68 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STAINING'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-tp15
-Rp16
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(3, u'\\\\bclinical')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I1712
+I1718
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(17, u'\\\\bpet')"
 p22
-g3
-((lp23
-S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
+p23
+aS"(38, u'\\\\bssri')"
 p24
-atp25
-Rp26
-sS'year'
-p27
-V1997
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p25
+atp26
+Rp27
+sS'regions'
 p28
-sS'agonists'
-p29
 g3
-((lp30
-S"(45, u'\\\\bipsapirone')"
-p31
-atp32
-Rp33
-sS'species'
+((lp29
+S"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p30
+atp31
+Rp32
+sS'year'
+p33
+V2017
 p34
+sS'species'
+p35
 g3
-((lp35
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p36
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+((lp36
+tp37
+Rp38
 sb.

@@ -2,96 +2,113 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(84, u'\\\\bsb ?206553')"
+S'Method.IMMUNOHISTOCHEMISTRY'
 p5
-aS"(14, u'\\\\bmethiothepin')"
-p6
-aS"(38, u'\\\\bsb ?224289')"
-p7
-aS"(83, u'\\\\bsb ?204741')"
+atp6
+Rp7
+sS'topics'
 p8
-aS"(198, u'\\\\bsb ?269970')"
-p9
-aS"(117, u'\\\\bketanserin')"
+g3
+((lp9
+S"(9, u'\\\\bstress')"
 p10
-aS"(194, u'\\\\bmethysergide')"
+aS"(4, u'\\\\btreatment')"
 p11
 atp12
 Rp13
-sS'methods'
+sS'receptors'
 p14
 g3
 ((lp15
-S'Method.ANTAGONIST'
+(S'5ht7'
 p16
-aS'Method.AGONIST'
-p17
-atp18
-Rp19
-sS'topics'
+I1164
+I1169
+tp17
+a(S'5ht7'
+p18
+I704
+I709
+tp19
+a(S'5ht7'
 p20
-g3
-((lp21
-tp22
-Rp23
-sS'receptors'
+I114
+I119
+tp21
+a(S'5ht7'
+p22
+I742
+I747
+tp23
+a(S'5ht7'
 p24
-g3
-((lp25
-S'5ht7'
+I1114
+I1119
+tp25
+a(S'5ht7'
 p26
-aS'5ht1b'
-p27
-aS'5ht1a'
+I294
+I299
+tp27
+a(S'5ht7'
 p28
-aS'5ht4'
-p29
-aS'5ht2b'
+I1472
+I1477
+tp29
+a(S'5ht5'
 p30
-aS'5ht5'
-p31
-aS'5ht5b'
+I742
+I748
+tp31
+a(S'5ht7'
 p32
-aS'5ht5a'
-p33
-atp34
-Rp35
-sS'regions'
+I391
+I396
+tp33
+a(S'5ht7'
+p34
+I1599
+I1604
+tp35
+a(S'5ht7'
 p36
-g3
-((lp37
-tp38
+I754
+I759
+tp37
+atp38
 Rp39
-sS'year'
+sS'raw_text_methods'
 p40
-V2007
-p41
-sS'agonists'
-p42
 g3
-((lp43
-S"(96, u'\\\\bsumatriptan')"
-p44
-aS"(140, u'\\\\bbw ?723c86')"
+((lp41
+S"(3, u'\\\\bimmunoreactiv')"
+p42
+atp43
+Rp44
+sS'regions'
 p45
-aS"(53, u'\\\\bmethysergide')"
-p46
-aS"(100, u'\\\\bcp ?93129')"
+g3
+((lp46
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p47
 atp48
 Rp49
-sS'species'
+sS'year'
 p50
-g3
-((lp51
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2019
+p51
+sS'species'
 p52
-atp53
-Rp54
+g3
+((lp53
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p54
+atp55
+Rp56
 sb.

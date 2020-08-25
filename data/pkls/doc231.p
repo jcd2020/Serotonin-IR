@@ -2,78 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
-p5
-aS"(14, u'\\\\bmethiothepin')"
-p6
-aS"(31, u'\\\\bway ?100635')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p5
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+atp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht1a'
-p22
-aS'5ht5'
+((lp14
+(S'5ht2a'
+p15
+I36
+I42
+tp16
+a(S'5ht2a'
+p17
+I401
+I407
+tp18
+a(S'5ht2a'
+p19
+I1337
+I1343
+tp20
+a(S'5ht2'
+p21
+I506
+I511
+tp22
+a(S'5ht2a'
 p23
-aS'5ht2'
-p24
-atp25
-Rp26
-sS'regions'
-p27
+I165
+I171
+tp24
+a(S'5ht2a'
+p25
+I1243
+I1249
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
 g3
-((lp28
-tp29
-Rp30
-sS'year'
+((lp30
+S"(53, u'\\\\bketanserin')"
 p31
-V1998
+aS"(42, u'\\\\bneuroleptics')"
 p32
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p33
-g3
-((lp34
-S"(20, u'\\\\bbuspirone')"
-p35
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
+atp34
+Rp35
+sS'regions'
 p36
-aS"(149, u'\\\\bmem')"
-p37
-aS"(175, u'\\\\bdoi')"
-p38
-atp39
-Rp40
-sS'species'
-p41
 g3
-((lp42
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+((lp37
+tp38
+Rp39
+sS'year'
+p40
+V2002
+p41
+sS'species'
+p42
+g3
+((lp43
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p44
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

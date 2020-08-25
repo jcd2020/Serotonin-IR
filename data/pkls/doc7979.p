@@ -2,72 +2,135 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(176, u'\\\\bsb ?357134')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(18, u'\\\\bavoidan')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(33, u'\\\\blocomot')"
 p13
-g3
-((lp14
-S"(8, u'\\\\blearning')"
-p15
-aS"(6, u'\\\\bcognit')"
-p16
-aS"(7, u'\\\\bmemory')"
-p17
-atp18
-Rp19
+aS"(15, u'\\\\bmemory')"
+p14
+atp15
+Rp16
 sS'receptors'
-p20
+p17
 g3
-((lp21
-S'5ht6'
-p22
-atp23
-Rp24
-sS'regions'
+((lp18
+(S'5ht2a'
+p19
+I684
+I690
+tp20
+a(S'5ht2c'
+p21
+I70
+I80
+tp22
+a(S'5ht1b'
+p23
+I569
+I575
+tp24
+a(S'5ht2c'
 p25
-g3
-((lp26
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I684
+I694
+tp26
+a(S'5ht1d'
 p27
-aS"(234, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(basali|basalis)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+I619
+I627
+tp28
+a(S'5ht2'
+p29
+I748
+I753
+tp30
+a(S'5ht1d'
 p31
-V2006
-p32
-sS'agonists'
+I569
+I577
+tp32
+a(S'5ht1b'
 p33
-g3
-((lp34
-S"(149, u'\\\\bmem')"
+I56
+I62
+tp34
+a(S'5ht2b'
 p35
-atp36
-Rp37
-sS'species'
-p38
+I684
+I692
+tp36
+a(S'5ht1b'
+p37
+I619
+I625
+tp38
+a(S'5ht2b'
+p39
+I70
+I78
+tp40
+a(S'5ht2a'
+p41
+I70
+I76
+tp42
+a(S'5ht1d'
+p43
+I56
+I64
+tp44
+atp45
+Rp46
+sS'raw_text_methods'
+p47
 g3
-((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+((lp48
+S"(13, u'\\\\bagonist')"
+p49
+aS"(6, u'\\\\bgr127935')"
+p50
+aS"(12, u'\\\\bantagonist')"
+p51
+atp52
+Rp53
+sS'regions'
+p54
+g3
+((lp55
+tp56
+Rp57
+sS'year'
+p58
+V2014
+p59
+sS'species'
+p60
+g3
+((lp61
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p62
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p63
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p64
+atp65
+Rp66
 sb.

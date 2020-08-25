@@ -2,78 +2,125 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(43, u'\\\\bgr ?127935')"
+S'Method.STIMULATION'
 p5
-aS"(113, u'\\\\brisperidone')"
+aS'Method.ANTAGONIST'
 p6
-aS"(11, u'\\\\bisamoltane')"
+aS'Method.AGONIST'
 p7
 atp8
 Rp9
-sS'methods'
+sS'topics'
 p10
 g3
 ((lp11
-S'Method.ANTAGONIST'
+S"(30, u'\\\\bpain')"
 p12
-aS'Method.AGONIST'
+aS"(5, u'\\\\btherap')"
 p13
-atp14
-Rp15
-sS'topics'
+aS"(7, u'\\\\bdepressi')"
+p14
+aS"(4, u'\\\\btreatment')"
+p15
+aS"(3, u'\\\\bclinical')"
 p16
-g3
-((lp17
-S"(15, u'\\\\bschizophreni')"
-p18
-aS"(6, u'\\\\bcognit')"
-p19
-aS"(10, u'\\\\banxiety')"
-p20
-atp21
-Rp22
+atp17
+Rp18
 sS'receptors'
+p19
+g3
+((lp20
+(S'5ht1b'
+p21
+I2435
+I2441
+tp22
+a(S'5ht1f'
 p23
-g3
-((lp24
-S'5ht1b'
+I2546
+I2552
+tp24
+a(S'5ht1d'
 p25
-aS'5ht1d'
-p26
-atp27
-Rp28
-sS'regions'
+I2665
+I2671
+tp26
+a(S'5ht2b'
+p27
+I2713
+I2719
+tp28
+a(S'5ht2b'
 p29
-g3
-((lp30
-tp31
-Rp32
-sS'year'
+I2905
+I2911
+tp30
+a(S'5ht1b'
+p31
+I2878
+I2884
+tp32
+a(S'5ht1f'
 p33
-V1999
-p34
-sS'agonists'
+I2894
+I2900
+tp34
+a(S'5ht1d'
 p35
-g3
-((lp36
-S"(100, u'\\\\bcp ?93129')"
+I2424
+I2430
+tp36
+a(S'5ht1d'
 p37
-aS"(103, u'\\\\bcp ?135807')"
-p38
-atp39
-Rp40
-sS'species'
+I2886
+I2892
+tp38
+a(S'5ht2b'
+p39
+I2810
+I2816
+tp40
+a(S'5ht1b'
 p41
+I2676
+I2682
+tp42
+atp43
+Rp44
+sS'raw_text_methods'
+p45
 g3
-((lp42
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+((lp46
+S"(13, u'\\\\bagonist')"
+p47
+aS"(33, u'\\\\bmcpp')"
+p48
+aS"(47, u'\\\\bsumatriptan')"
+p49
+aS"(12, u'\\\\bantagonist')"
+p50
+atp51
+Rp52
+sS'regions'
+p53
+g3
+((lp54
+tp55
+Rp56
+sS'year'
+p57
+V1998
+p58
+sS'species'
+p59
+g3
+((lp60
+tp61
+Rp62
 sb.

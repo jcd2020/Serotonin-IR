@@ -2,67 +2,72 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-tp10
-Rp11
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(9, u'\\\\bdepress')"
-p14
-aS"(35, u'\\\\bstress')"
-p15
-atp16
-Rp17
+((lp10
+S"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I1041
+I1047
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht1a'
+I796
+I802
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
+I448
+I454
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp24
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p25
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp25
+S"(13, u'\\\\bagonist')"
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2016
+aS"(12, u'\\\\bantagonist')"
+p27
+atp28
+Rp29
+sS'regions'
 p30
-sS'agonists'
-p31
 g3
-((lp32
-tp33
-Rp34
-sS'species'
+((lp31
+tp32
+Rp33
+sS'year'
+p34
+V1991
 p35
+sS'species'
+p36
 g3
-((lp36
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
 atp39
 Rp40

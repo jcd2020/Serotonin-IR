@@ -2,74 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
-p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-aS"(119, u'\\\\britanserin')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+p5
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(11, u'\\\\banxiolyt')"
-p17
-aS"(4, u'\\\\blocomot')"
-p18
-atp19
-Rp20
+((lp9
+S"(9, u'\\\\bstress')"
+p10
+aS"(3, u'\\\\bclinical')"
+p11
+atp12
+Rp13
 sS'receptors'
-p21
+p14
 g3
-((lp22
-S'5ht3'
-p23
-aS'5ht2c'
-p24
-aS'5ht2a'
-p25
-atp26
-Rp27
-sS'regions'
+((lp15
+(S'5ht2'
+p16
+I1369
+I1374
+tp17
+a(S'5ht2'
+p18
+I1103
+I1108
+tp19
+a(S'5ht2'
+p20
+I1723
+I1728
+tp21
+a(S'5ht2'
+p22
+I61
+I66
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+S"(53, u'\\\\bketanserin')"
 p28
-g3
-((lp29
-tp30
-Rp31
-sS'year'
-p32
-V2009
+aS"(48, u'\\\\bmdma')"
+p29
+aS"(12, u'\\\\bantagonist')"
+p30
+atp31
+Rp32
+sS'regions'
 p33
-sS'agonists'
-p34
 g3
-((lp35
-tp36
+((lp34
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p35
+atp36
 Rp37
-sS'species'
+sS'year'
 p38
-g3
-((lp39
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+V2007
+p39
+sS'species'
 p40
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p41
-atp42
-Rp43
+g3
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

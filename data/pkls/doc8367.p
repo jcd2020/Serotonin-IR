@@ -2,80 +2,99 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(23, u'\\\\bantipsychotic')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht1c'
-p18
-aS'5ht5'
+((lp16
+(S'5ht1a'
+p17
+I261
+I267
+tp18
+a(S'5ht7'
 p19
-aS'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+I261
+I268
+tp20
+a(S'5ht7'
+p21
+I765
+I770
+tp22
+a(S'5ht1a'
 p23
-g3
-((lp24
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I711
+I717
+tp24
+a(S'5ht1a'
 p25
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V1992
+I1412
+I1418
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
+g3
+((lp30
+S"(13, u'\\\\bagonist')"
 p31
-sS'agonists'
+aS"(15, u'\\\\b8ohdpat')"
 p32
-g3
-((lp33
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(41, u'\\\\bhaloperidol')"
+p33
+aS"(12, u'\\\\bantagonist')"
 p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
-sS'species'
-p38
+atp35
+Rp36
+sS'regions'
+p37
 g3
-((lp39
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+((lp38
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p39
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p40
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p41
-aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-aS"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
-p44
-atp45
-Rp46
+atp43
+Rp44
+sS'year'
+p45
+V2008
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p49
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p50
+atp51
+Rp52
 sb.

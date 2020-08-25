@@ -2,84 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(128, u'\\\\bmetoclopramide')"
+S'Method.STIMULATION'
 p5
-aS"(117, u'\\\\bketanserin')"
+aS'Method.ANTAGONIST'
 p6
-aS"(58, u'\\\\bhaloperidol')"
+aS'Method.AGONIST'
 p7
 atp8
 Rp9
-sS'methods'
+sS'topics'
 p10
 g3
 ((lp11
-S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(9, u'\\\\bdepress')"
-p17
-aS"(35, u'\\\\bstress')"
-p18
-atp19
-Rp20
+tp12
+Rp13
 sS'receptors'
-p21
+p14
 g3
-((lp22
-S'5ht3a'
-p23
-aS'5ht1a'
+((lp15
+(S'5ht1d'
+p16
+I937
+I943
+tp17
+a(S'5ht1d'
+p18
+I567
+I573
+tp19
+a(S'5ht1d'
+p20
+I508
+I514
+tp21
+a(S'5ht1d'
+p22
+I1083
+I1089
+tp23
+a(S'5ht1d'
 p24
-aS'5ht3'
-p25
-aS'5ht2'
+I448
+I454
+tp25
+a(S'5ht5'
 p26
-aS'5ht3b'
-p27
+I295
+I300
+tp27
 atp28
 Rp29
-sS'regions'
+sS'raw_text_methods'
 p30
 g3
 ((lp31
-tp32
-Rp33
-sS'year'
+S"(13, u'\\\\bagonist')"
+p32
+aS"(6, u'\\\\bgr127935')"
+p33
+aS"(47, u'\\\\bsumatriptan')"
 p34
-V1994
+aS"(12, u'\\\\bantagonist')"
 p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(209, u'\\\\bmetoclopramide')"
+atp36
+Rp37
+sS'regions'
 p38
-aS"(210, u'\\\\bsulpiride')"
-p39
-aS"(43, u'\\\\bhaloperidol')"
-p40
-atp41
-Rp42
-sS'species'
-p43
 g3
-((lp44
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+((lp39
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p40
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V1996
 p45
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+sS'species'
 p46
-atp47
-Rp48
+g3
+((lp47
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p48
+atp49
+Rp50
 sb.

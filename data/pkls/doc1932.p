@@ -2,68 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-tp15
-Rp16
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(9, u'\\\\bstress')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
 p17
-g3
-((lp18
-S'5ht1a'
+I81
+I92
+tp18
+a(S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
+I572
+I578
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp23
-tp24
-Rp25
-sS'year'
-p26
-V2010
-p27
-sS'agonists'
+((lp24
+S"(17, u'\\\\bpet')"
+p25
+atp26
+Rp27
+sS'regions'
 p28
 g3
 ((lp29
-S"(21, u'\\\\bcannabidiol')"
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p30
-aS"(149, u'\\\\bmem')"
-p31
-atp32
-Rp33
-sS'species'
+atp31
+Rp32
+sS'year'
+p33
+V2014
 p34
+sS'species'
+p35
 g3
-((lp35
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p36
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sb.

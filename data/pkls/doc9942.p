@@ -2,70 +2,141 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(17, u'\\\\bnan ?190')"
+S'Method.ANTAGONIST'
 p5
-aS"(15, u'\\\\bmppf')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.KNOCKOUT'
+S"(26, u'\\\\bbehav')"
 p11
-aS'Method.ANTAGONIST'
+aS"(11, u'\\\\bobsessive compulsive disorder')"
 p12
-atp13
-Rp14
-sS'topics'
+aS"(2, u'\\\\bdisorder')"
+p13
+aS"(5, u'\\\\btherap')"
+p14
+aS"(8, u'\\\\banxi')"
 p15
-g3
-((lp16
-tp17
-Rp18
+aS"(10, u'\\\\bocd')"
+p16
+aS"(4, u'\\\\btreatment')"
+p17
+atp18
+Rp19
 sS'receptors'
-p19
+p20
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp21
+(S'5ht6'
+p22
+I86
+I91
+tp23
+a(S'5ht6'
 p24
-g3
-((lp25
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+I2953
+I2958
+tp25
+a(S'5ht6'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2000
+I284
+I289
+tp27
+a(S'5ht6'
+p28
+I2811
+I2816
+tp29
+a(S'5ht6'
 p30
-sS'agonists'
-p31
-g3
-((lp32
+I375
+I380
+tp31
+a(S'5ht6'
+p32
+I1398
+I1403
 tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p37
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+a(S'5ht6'
+p34
+I2410
+I2415
+tp35
+a(S'5ht5'
+p36
+I220
+I230
+tp37
+a(S'5ht6'
 p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+I2335
+I2340
+tp39
+a(S'5ht6'
+p40
+I615
+I620
+tp41
+a(S'5ht6'
+p42
+I1340
+I1345
+tp43
+a(S'5ht6'
+p44
+I740
+I745
+tp45
+a(S'5ht6'
+p46
+I1652
+I1657
+tp47
+atp48
+Rp49
+sS'raw_text_methods'
+p50
+g3
+((lp51
+S"(13, u'\\\\bagonist')"
+p52
+aS"(12, u'\\\\bantagonist')"
+p53
+atp54
+Rp55
+sS'regions'
+p56
+g3
+((lp57
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p58
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p59
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p60
+atp61
+Rp62
+sS'year'
+p63
+V2008
+p64
+sS'species'
+p65
+g3
+((lp66
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p67
+atp68
+Rp69
 sb.

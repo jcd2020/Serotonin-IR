@@ -2,92 +2,98 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
-aS"(194, u'\\\\bmethysergide')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(14, u'\\\\bcogniti')"
 p11
-aS'Method.AGONIST'
+aS"(17, u'\\\\balzheimer')"
 p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(21, u'\\\\bpain')"
-p17
-atp18
-Rp19
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
 sS'receptors'
-p20
+p16
 g3
-((lp21
-S'5ht1b'
+((lp17
+(S'5ht1'
+p18
+I1227
+I1232
+tp19
+a(S'5ht1'
+p20
+I2618
+I2623
+tp21
+a(S'5ht1'
 p22
-aS'5ht5'
-p23
-aS'5ht3'
+I2437
+I2442
+tp23
+a(S'5ht1a'
 p24
-aS'5ht2'
-p25
-aS'5ht1'
+I2014
+I2020
+tp25
+a(S'5ht1a'
 p26
-aS'5ht2a'
-p27
-aS'5ht1a'
+I1140
+I1146
+tp27
+a(S'5ht1a'
 p28
-aS'5ht3a'
-p29
+I141
+I147
+tp29
 atp30
 Rp31
-sS'regions'
+sS'raw_text_methods'
 p32
 g3
 ((lp33
-tp34
-Rp35
-sS'year'
+S"(13, u'\\\\bagonist')"
+p34
+aS"(15, u'\\\\b8ohdpat')"
+p35
+aS"(44, u'\\\\btetrodotoxin')"
 p36
-V1991
+aS"(12, u'\\\\bantagonist')"
 p37
-sS'agonists'
-p38
-g3
-((lp39
-S"(166, u'\\\\bmk ?212')"
+atp38
+Rp39
+sS'regions'
 p40
-aS"(53, u'\\\\bmethysergide')"
-p41
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
-p42
-aS"(175, u'\\\\bdoi')"
-p43
-aS"(67, u'\\\\bru ?24969')"
-p44
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p45
-atp46
-Rp47
-sS'species'
-p48
 g3
-((lp49
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p50
-atp51
-Rp52
+((lp41
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p42
+atp43
+Rp44
+sS'year'
+p45
+V1995
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

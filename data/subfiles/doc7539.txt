@@ -1,4 +1,0 @@
-Liu, K. K. C., et al. (2010). "Orally active and brain permeable proline amides as highly selective 5HT2c agonists for the treatment of obesity." Bioorg Med Chem Lett 20(7): 2365-2369.
-
-	Brain-penetrable proline amides were developed as 5HT2c agonists with more than 1000-fold binding selectivity against 5HT2b receptor. After medicinal chemistry optimization and SAR studies, orally active proline amides with robust efficacy in a rodent food intake inhibition model were uncovered. (C) 2010 Published by Elsevier Ltd.
-

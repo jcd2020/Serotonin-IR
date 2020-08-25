@@ -2,84 +2,78 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(16, u'\\\\blearning')"
+p11
+aS"(15, u'\\\\bmemory')"
 p12
-g3
-((lp13
-S"(25, u'\\\\bvasoconstrict')"
-p14
-aS"(21, u'\\\\bpain')"
-p15
-aS"(24, u'\\\\banalgesi')"
-p16
-atp17
-Rp18
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht6'
+p17
+I1181
+I1186
+tp18
+a(S'5ht6'
 p19
-g3
-((lp20
-S'5ht1b'
+I39
+I44
+tp20
+a(S'5ht6'
 p21
-aS'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I168
+I173
+tp22
+a(S'5ht6'
+p23
+I343
+I348
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
-p28
-aS"(386, u'(?i)\\\\b(cisternas|cisterna)(-|\\\\s+)?(magnas|magna)\\\\b')"
+g3
+((lp28
+S"(12, u'\\\\bantagonist')"
 p29
-aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
-p30
-atp31
-Rp32
+atp30
+Rp31
+sS'regions'
+p32
+g3
+((lp33
+tp34
+Rp35
 sS'year'
-p33
-V1992
-p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(25, u'\\\\bdihydroergotamine')"
+p36
+V2001
 p37
-aS"(96, u'\\\\bsumatriptan')"
-p38
-aS"(100, u'\\\\bcp ?93129')"
-p39
-atp40
-Rp41
 sS'species'
-p42
+p38
 g3
-((lp43
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
-p44
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p45
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p46
-atp47
-Rp48
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

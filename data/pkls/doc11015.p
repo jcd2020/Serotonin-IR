@@ -2,78 +2,124 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-tp10
-Rp11
-sS'topics'
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(28, u'\\\\bgastrointestin')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-tp14
-Rp15
-sS'receptors'
+aS"(5, u'\\\\btherap')"
+p13
+aS"(12, u'\\\\bsleep')"
+p14
+aS"(8, u'\\\\banxi')"
+p15
+aS"(4, u'\\\\btreatment')"
 p16
-g3
-((lp17
-S'5ht7'
-p18
-aS'5ht5'
+atp17
+Rp18
+sS'receptors'
 p19
-aS'5ht2c'
-p20
-aS'5ht2a'
+g3
+((lp20
+(S'5ht7'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
+I191
+I196
+tp22
+a(S'5ht7'
+p23
+I144
+I149
+tp24
+a(S'5ht7'
+p25
+I729
+I734
 tp26
-Rp27
-sS'year'
-p28
-V2012
+a(S'5ht7'
+p27
+I830
+I835
+tp28
+a(S'5ht7'
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p32
-aS"(220, u'\\\\b5 ?methoxytryptamine')"
+I406
+I411
+tp30
+a(S'5ht7'
+p31
+I39
+I44
+tp32
+a(S'5ht7'
 p33
-aS"(23, u'\\\\bclozapine')"
-p34
-atp35
-Rp36
-sS'species'
+I1363
+I1368
+tp34
+a(S'5ht7'
+p35
+I2091
+I2096
+tp36
+a(S'5ht7'
 p37
-g3
-((lp38
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+I1039
+I1044
+tp38
+a(S'5ht7'
 p39
-aS"(4852, u'(?i)\\\\b(blows|blow)(-|\\\\s+)?(flies|fly)\\\\b')"
-p40
-aS"(4851, u'(?i)\\\\b(blowflies|blowfly)\\\\b')"
+I1186
+I1191
+tp40
+a(S'5ht7'
 p41
-aS"(2723, u'(?i)\\\\b(calliphoras|calliphora)(-|\\\\s+)?(vicinas|vicina)\\\\b')"
-p42
-aS"(3527, u'(?i)\\\\b(permits|permit)\\\\b')"
+I606
+I611
+tp42
+a(S'5ht7'
 p43
-atp44
-Rp45
+I891
+I896
+tp44
+atp45
+Rp46
+sS'raw_text_methods'
+p47
+g3
+((lp48
+S"(12, u'\\\\bantagonist')"
+p49
+atp50
+Rp51
+sS'regions'
+p52
+g3
+((lp53
+tp54
+Rp55
+sS'year'
+p56
+V2004
+p57
+sS'species'
+p58
+g3
+((lp59
+tp60
+Rp61
 sb.

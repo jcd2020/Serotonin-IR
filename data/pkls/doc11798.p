@@ -2,78 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S'Method.AGONIST'
 p5
-aS"(89, u'\\\\beltoprazine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-S"(20, u'\\\\baggressi')"
-p16
-atp17
-Rp18
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1d'
+p17
+I52
+I58
+tp18
+a(S'5ht1d'
 p19
-g3
-((lp20
-S'5ht1c'
+I388
+I394
+tp20
+a(S'5ht1d'
 p21
-aS'5ht1b'
-p22
-aS'5ht1a'
+I1177
+I1183
+tp22
+a(S'5ht1d'
 p23
-aS'5ht1'
-p24
-atp25
-Rp26
-sS'regions'
+I541
+I547
+tp24
+a(S'5ht1d'
+p25
+I1248
+I1254
+tp26
+a(S'5ht1d'
 p27
-g3
-((lp28
-S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
-p29
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p30
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+I475
+I481
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
 p31
-atp32
-Rp33
-sS'year'
+g3
+((lp32
+S"(13, u'\\\\bagonist')"
+p33
+aS"(38, u'\\\\bssri')"
 p34
-V1990
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(31, u'\\\\beltoprazine')"
+atp36
+Rp37
+sS'regions'
 p38
-atp39
-Rp40
-sS'species'
-p41
 g3
-((lp42
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp39
+tp40
+Rp41
+sS'year'
+p42
+V2001
 p43
-atp44
-Rp45
+sS'species'
+p44
+g3
+((lp45
+tp46
+Rp47
 sb.

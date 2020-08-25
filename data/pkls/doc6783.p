@@ -2,68 +2,115 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(31, u'\\\\bobesity')"
-p14
-aS"(26, u'\\\\bcardiovascular')"
-p15
-aS"(16, u'\\\\bfeed')"
-p16
-atp17
-Rp18
+((lp10
+S"(23, u'\\\\bantipsychotic')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht6'
-p21
-aS'5ht6a'
+((lp15
+(S'5ht2c'
+p16
+I888
+I896
+tp17
+a(S'5ht1a'
+p18
+I951
+I957
+tp19
+a(S'5ht2a'
+p20
+I919
+I925
+tp21
+a(S'5ht1a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
+I1944
+I1950
+tp23
+a(S'5ht2a'
+p24
+I1964
+I1970
+tp25
+a(S'5ht2c'
+p26
+I1106
+I1114
 tp27
-Rp28
-sS'year'
-p29
-V2017
+a(S'5ht2a'
+p28
+I888
+I894
+tp29
+a(S'5ht1a'
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(218, u'\\\\bemd ?386088')"
-p33
+I653
+I659
+tp31
+a(S'5ht2a'
+p32
+I1106
+I1112
+tp33
 atp34
 Rp35
-sS'species'
+sS'raw_text_methods'
 p36
 g3
 ((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(41, u'\\\\bhaloperidol')"
 p38
-atp39
-Rp40
+aS"(23, u'\\\\bmdl')"
+p39
+aS"(15, u'\\\\b8ohdpat')"
+p40
+aS"(13, u'\\\\bagonist')"
+p41
+aS"(49, u'\\\\bdoi')"
+p42
+aS"(12, u'\\\\bantagonist')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
+p51
+V2012
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p55
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p56
+atp57
+Rp58
 sb.

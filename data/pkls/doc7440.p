@@ -2,74 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
+S'Method.PET'
 p5
-aS"(117, u'\\\\bketanserin')"
+aS'Method.ANTAGONIST'
 p6
-aS"(194, u'\\\\bmethysergide')"
+aS'Method.AGONIST'
 p7
 atp8
 Rp9
-sS'methods'
+sS'topics'
 p10
 g3
 ((lp11
-S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
-sS'topics'
-p16
-g3
-((lp17
-tp18
-Rp19
+tp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I285
+I291
+tp17
+a(S'5ht1a'
+p18
+I86
+I97
+tp19
+a(S'5ht1a'
 p20
+I546
+I552
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp21
-S'5ht1a'
-p22
-aS'5ht2'
-p23
-atp24
-Rp25
-sS'regions'
+((lp25
+S"(13, u'\\\\bagonist')"
 p26
-g3
-((lp27
-S"(95, u'(?i)\\\\b(reds|red)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
+p27
+aS"(49, u'\\\\bdoi')"
 p28
-atp29
-Rp30
-sS'year'
-p31
-V1995
+aS"(12, u'\\\\bantagonist')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(53, u'\\\\bmethysergide')"
-p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p36
-atp37
-Rp38
+((lp33
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p34
+atp35
+Rp36
+sS'year'
+p37
+V2011
+p38
 sS'species'
 p39
 g3
 ((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+tp41
+Rp42
 sb.

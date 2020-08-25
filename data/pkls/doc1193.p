@@ -2,78 +2,86 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
-p5
-aS"(14, u'\\\\bmethiothepin')"
-p6
-aS"(22, u'\\\\bpropranolol')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
+p5
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+aS"(26, u'\\\\bbehav')"
 p13
 atp14
 Rp15
-sS'topics'
+sS'receptors'
 p16
 g3
 ((lp17
-S"(9, u'\\\\bdepress')"
+(S'5ht3'
 p18
-atp19
-Rp20
-sS'receptors'
-p21
+I705
+I710
+tp19
+a(S'5ht2a'
+p20
+I578
+I584
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp22
-S'5ht1a'
-p23
-atp24
-Rp25
-sS'regions'
+((lp25
+S"(53, u'\\\\bketanserin')"
 p26
-g3
-((lp27
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(7, u'\\\\bpropranolol')"
+p27
+aS"(16, u'\\\\bdiazepam')"
 p28
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(20, u'\\\\bondansetron')"
 p29
-atp30
-Rp31
-sS'year'
+aS"(36, u'\\\\bbenzodiazepine')"
+p30
+aS"(13, u'\\\\bagonist')"
+p31
+aS"(12, u'\\\\bantagonist')"
 p32
-V1989
-p33
-sS'agonists'
-p34
+atp33
+Rp34
+sS'regions'
+p35
 g3
-((lp35
-S"(158, u'\\\\blsd')"
-p36
-aS"(49, u'\\\\blysergic acid diethylamide')"
+((lp36
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
 p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p38
-atp39
-Rp40
-sS'species'
+atp38
+Rp39
+sS'year'
+p40
+V1996
 p41
+sS'species'
+p42
 g3
-((lp42
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+((lp43
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p44
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

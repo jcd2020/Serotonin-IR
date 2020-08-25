@@ -1,0 +1,107 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.KNOCKOUT'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
+sS'receptors'
+p17
+g3
+((lp18
+(S'5ht2c'
+p19
+I361
+I367
+tp20
+a(S'5ht2'
+p21
+I378
+I383
+tp22
+a(S'5ht2'
+p23
+I619
+I624
+tp24
+a(S'5ht5'
+p25
+I143
+I153
+tp26
+a(S'5ht2c'
+p27
+I42
+I48
+tp28
+a(S'5ht2'
+p29
+I479
+I484
+tp30
+a(S'5ht2'
+p31
+I821
+I826
+tp32
+a(S'5ht2'
+p33
+I549
+I554
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
+p37
+g3
+((lp38
+tp39
+Rp40
+sS'regions'
+p41
+g3
+((lp42
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p43
+atp44
+Rp45
+sS'year'
+p46
+V2007
+p47
+sS'species'
+p48
+g3
+((lp49
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p50
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p51
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p52
+atp53
+Rp54
+sb.

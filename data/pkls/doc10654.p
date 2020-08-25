@@ -1,0 +1,124 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(22, u'\\\\bschizophreni')"
+p9
+aS"(14, u'\\\\bcogniti')"
+p10
+aS"(23, u'\\\\bantipsychotic')"
+p11
+aS"(5, u'\\\\btherap')"
+p12
+aS"(1, u'\\\\bpatient')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
+Rp16
+sS'receptors'
+p17
+g3
+((lp18
+(S'5ht2a'
+p19
+I748
+I754
+tp20
+a(S'5ht2a'
+p21
+I1836
+I1842
+tp22
+a(S'5ht2a'
+p23
+I1437
+I1443
+tp24
+a(S'5ht2a'
+p25
+I649
+I655
+tp26
+a(S'5ht2a'
+p27
+I490
+I496
+tp28
+a(S'5ht2a'
+p29
+I1034
+I1040
+tp30
+a(S'5ht2a'
+p31
+I135
+I141
+tp32
+a(S'5ht2a'
+p33
+I236
+I242
+tp34
+a(S'5ht2a'
+p35
+I1584
+I1590
+tp36
+a(S'5ht2a'
+p37
+I1687
+I1693
+tp38
+a(S'5ht2a'
+p39
+I1256
+I1262
+tp40
+atp41
+Rp42
+sS'raw_text_methods'
+p43
+g3
+((lp44
+S"(41, u'\\\\bhaloperidol')"
+p45
+aS"(40, u'\\\\bclozapine')"
+p46
+aS"(54, u'\\\\bautoradiography')"
+p47
+atp48
+Rp49
+sS'regions'
+p50
+g3
+((lp51
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p52
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p53
+atp54
+Rp55
+sS'year'
+p56
+V2004
+p57
+sS'species'
+p58
+g3
+((lp59
+tp60
+Rp61
+sb.

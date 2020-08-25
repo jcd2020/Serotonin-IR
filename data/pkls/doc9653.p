@@ -2,98 +2,105 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(146, u'\\\\bgr ?125487')"
-p5
-aS"(174, u'\\\\bsb ?258585')"
-p6
-aS"(198, u'\\\\bsb ?269970')"
-p7
-aS"(124, u'\\\\bondansetron')"
-p8
-aS"(157, u'\\\\bsb ?699551')"
-p9
-aS"(30, u'\\\\bway ?100135')"
-p10
-aS"(58, u'\\\\bhaloperidol')"
-p11
-aS"(119, u'\\\\britanserin')"
-p12
-atp13
-Rp14
-sS'methods'
-p15
-g3
-((lp16
 S'Method.ANTAGONIST'
-p17
-atp18
-Rp19
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p20
+p9
 g3
-((lp21
-tp22
-Rp23
+((lp10
+tp11
+Rp12
 sS'receptors'
-p24
+p13
 g3
-((lp25
-S'5ht7'
-p26
-aS'5ht6'
+((lp14
+(S'5ht1a'
+p15
+I81
+I87
+tp16
+a(S'5ht1a'
+p17
+I794
+I800
+tp18
+a(S'5ht1a'
+p19
+I421
+I427
+tp20
+a(S'5ht1a'
+p21
+I1786
+I1792
+tp22
+a(S'5ht1a'
+p23
+I1296
+I1302
+tp24
+a(S'5ht1a'
+p25
+I847
+I853
+tp26
+a(S'5ht5'
 p27
-aS'5ht1a'
-p28
-aS'5ht3a'
+I498
+I503
+tp28
+a(S'5ht1a'
 p29
-aS'5ht2'
-p30
-aS'5ht2a'
+I253
+I259
+tp30
+a(S'5ht1a'
 p31
-aS'5ht7a'
-p32
-aS'5ht6a'
-p33
-aS'5ht4a'
-p34
-aS'5ht5a'
+I1958
+I1964
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
 p35
-atp36
-Rp37
-sS'regions'
-p38
 g3
-((lp39
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+((lp36
+S"(13, u'\\\\bagonist')"
+p37
+aS"(15, u'\\\\b8ohdpat')"
+p38
+aS"(22, u'\\\\bbuspirone')"
+p39
+aS"(12, u'\\\\bantagonist')"
 p40
 atp41
 Rp42
-sS'year'
+sS'regions'
 p43
-V2011
-p44
-sS'agonists'
-p45
 g3
-((lp46
-S"(43, u'\\\\bhaloperidol')"
+((lp44
+tp45
+Rp46
+sS'year'
 p47
-atp48
-Rp49
+V1993
+p48
 sS'species'
-p50
+p49
 g3
-((lp51
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p52
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p53
-atp54
-Rp55
+((lp50
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
 sb.

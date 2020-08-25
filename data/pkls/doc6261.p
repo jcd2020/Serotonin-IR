@@ -2,74 +2,151 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(128, u'\\\\bmetoclopramide')"
+S'Method.PET'
 p5
-aS"(80, u'\\\\bpromethazine')"
+aS'Method.ANTAGONIST'
 p6
-aS"(124, u'\\\\bondansetron')"
-p7
-aS"(22, u'\\\\bpropranolol')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
 aS'Method.AGONIST'
+p7
+atp8
+Rp9
+sS'topics'
+p10
+g3
+((lp11
+S"(13, u'\\\\bantidepress')"
+p12
+aS"(20, u'\\\\bmood')"
+p13
+aS"(2, u'\\\\bdisorder')"
 p14
 atp15
 Rp16
-sS'topics'
+sS'receptors'
 p17
 g3
 ((lp18
-S"(28, u'\\\\bemesis')"
+(S'5ht7'
 p19
-atp20
-Rp21
-sS'receptors'
-p22
-g3
-((lp23
+I243
+I248
+tp20
+a(S'5ht7'
+p21
+I1641
+I1646
+tp22
+a(S'5ht7'
+p23
+I2562
+I2567
 tp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
+a(S'5ht7'
+p25
+I2710
+I2715
+tp26
+a(S'5ht7'
+p27
+I2311
+I2316
 tp28
-Rp29
-sS'year'
-p30
-V2003
+a(S'5ht7'
+p29
+I533
+I538
+tp30
+a(S'5ht7'
 p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(209, u'\\\\bmetoclopramide')"
-p34
-aS"(176, u'\\\\bdom')"
+I84
+I89
+tp32
+a(S'5ht7'
+p33
+I2032
+I2037
+tp34
+a(S'5ht7'
 p35
-aS"(163, u'\\\\bfenfluramine')"
-p36
-atp37
-Rp38
-sS'species'
+I2455
+I2460
+tp36
+a(S'5ht7'
+p37
+I204
+I214
+tp38
+a(S'5ht7'
 p39
-g3
-((lp40
-S"(1280, u'(?i)\\\\b(shrews|shrew)\\\\b')"
+I999
+I1004
+tp40
+a(S'5ht7'
 p41
-atp42
-Rp43
+I2195
+I2200
+tp42
+a(S'5ht7'
+p43
+I1930
+I1935
+tp44
+a(S'5ht7'
+p45
+I622
+I627
+tp46
+a(S'5ht1a'
+p47
+I1771
+I1777
+tp48
+atp49
+Rp50
+sS'raw_text_methods'
+p51
+g3
+((lp52
+S"(1, u'\\\\bneuroimag')"
+p53
+aS"(17, u'\\\\bpet')"
+p54
+aS"(13, u'\\\\bagonist')"
+p55
+aS"(54, u'\\\\bautoradiography')"
+p56
+aS"(37, u'\\\\bpiperazine')"
+p57
+aS"(18, u'\\\\bimaging')"
+p58
+aS"(12, u'\\\\bantagonist')"
+p59
+atp60
+Rp61
+sS'regions'
+p62
+g3
+((lp63
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p64
+atp65
+Rp66
+sS'year'
+p67
+V2011
+p68
+sS'species'
+p69
+g3
+((lp70
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p71
+atp72
+Rp73
 sb.

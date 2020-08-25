@@ -2,74 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STAINING'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(6, u'\\\\bcognit')"
-p14
-atp15
-Rp16
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht3'
-p19
-aS'5ht3a'
-p20
-atp21
-Rp22
+((lp15
+(S'5ht2'
+p16
+I1654
+I1659
+tp17
+a(S'5ht1a'
+p18
+I1558
+I1564
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
+g3
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+atp25
+Rp26
 sS'regions'
-p23
-g3
-((lp24
-S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
-p25
-aS"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p26
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p27
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p28
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+g3
+((lp28
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p29
-aS"(34, u'(?i)\\\\b(pon|pons)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p30
-atp31
-Rp32
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p31
+atp32
+Rp33
 sS'year'
-p33
-V2017
 p34
-sS'agonists'
+V1999
 p35
-g3
-((lp36
-tp37
-Rp38
 sS'species'
-p39
+p36
 g3
-((lp40
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p41
-atp42
-Rp43
+((lp37
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

@@ -2,68 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(99, u'\\\\bsb ?242084')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-tp16
-Rp17
+((lp8
+S"(5, u'\\\\btherap')"
+p9
+aS"(7, u'\\\\bdepressi')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht2c'
+I851
+I857
+tp19
+a(S'5ht2a'
 p20
-atp21
-Rp22
+I859
+I865
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+tp26
+Rp27
 sS'regions'
-p23
+p28
 g3
-((lp24
-S"(105, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(reticulatas|reticulata)\\\\b')"
-p25
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p26
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
+((lp29
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p30
-V2001
-p31
-sS'agonists'
-p32
-g3
-((lp33
-tp34
-Rp35
+atp31
+Rp32
+sS'year'
+p33
+V2004
+p34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+((lp36
+tp37
+Rp38
 sb.

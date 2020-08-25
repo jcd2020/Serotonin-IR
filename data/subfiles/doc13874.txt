@@ -1,4 +1,0 @@
-Yoshioka, M., et al. (1998). "Central distribution and function of 5-HT6 receptor subtype in the rat brain." Life Sci 62(17-18): 1473-1477.
-
-	The purpose of the present study was to elucidate the distribution of 5-HT6 receptor mRNA and possible physiological functions of the 5-HT6 receptor subtype using antisense oligonucleotides (AOs) in rats. Continuous intracerebroventricular injection of AOs caused a 30% reduction in the number of [3H]-lysergic acid diethylamide binding sites. Conditioned fear stress-induced increase in 5-HT release from the prefrontal cortex was significantly inhibited by treatment with AOs. The present study suggests that 5-HT6 receptors may be functionally expressed in the brain, where one of the functions appears to be in the mediation of certain anxiety disorders.
-

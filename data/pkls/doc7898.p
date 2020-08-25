@@ -1,0 +1,111 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1b'
+p17
+I1490
+I1496
+tp18
+a(S'5ht1b'
+p19
+I1849
+I1855
+tp20
+a(S'5ht1b'
+p21
+I466
+I472
+tp22
+a(S'5ht1b'
+p23
+I1212
+I1218
+tp24
+a(S'5ht1b'
+p25
+I62
+I68
+tp26
+a(S'5ht1b'
+p27
+I1750
+I1756
+tp28
+a(S'5ht1b'
+p29
+I166
+I172
+tp30
+a(S'5ht1d'
+p31
+I1499
+I1505
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
+p35
+g3
+((lp36
+S"(17, u'\\\\bpet')"
+p37
+aS"(19, u'\\\\bpositron emission tomography')"
+p38
+aS"(18, u'\\\\bimaging')"
+p39
+aS"(6, u'\\\\bgr127935')"
+p40
+aS"(12, u'\\\\bantagonist')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p46
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V2010
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p54
+atp55
+Rp56
+sb.

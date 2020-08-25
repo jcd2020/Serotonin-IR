@@ -2,27 +2,29 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(9, u'\\\\bdepress')"
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(25, u'\\\\bsocial')"
+p13
+aS"(14, u'\\\\bcogniti')"
 p14
 atp15
 Rp16
@@ -30,38 +32,71 @@ sS'receptors'
 p17
 g3
 ((lp18
-tp19
-Rp20
-sS'regions'
+(S'5ht2a'
+p19
+I1341
+I1347
+tp20
+a(S'5ht2a'
 p21
-g3
-((lp22
-S"(354, u'(?i)\\\\b(spinocerebellars|spinocerebellar)(-|\\\\s+)?(tracts|tract)\\\\b')"
+I39
+I45
+tp22
+a(S'5ht2a'
 p23
-atp24
-Rp25
-sS'year'
-p26
-V2002
+I291
+I297
+tp24
+a(S'5ht2a'
+p25
+I755
+I761
+tp26
+a(S'5ht2a'
 p27
-sS'agonists'
-p28
-g3
-((lp29
-S"(220, u'\\\\b5 ?methoxytryptamine')"
-p30
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
+I1011
+I1017
+tp28
+a(S'5ht2a'
+p29
+I1208
+I1214
+tp30
+a(S'5ht2a'
 p31
-atp32
-Rp33
-sS'species'
-p34
+I543
+I549
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
+p35
 g3
-((lp35
-S"(4952, u'(?i)\\\\b(felines|feline)\\\\b')"
-p36
-aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
+((lp36
+S"(17, u'\\\\bpet')"
 p37
-atp38
-Rp39
+aS"(19, u'\\\\bpositron emission tomography')"
+p38
+atp39
+Rp40
+sS'regions'
+p41
+g3
+((lp42
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p43
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p44
+atp45
+Rp46
+sS'year'
+p47
+V2009
+p48
+sS'species'
+p49
+g3
+((lp50
+tp51
+Rp52
 sb.

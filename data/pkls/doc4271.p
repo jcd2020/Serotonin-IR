@@ -2,84 +2,57 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(6, u'\\\\bcyproheptadine')"
+S'Method.PET'
 p5
-aS"(53, u'\\\\bcyproheptadine')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(115, u'\\\\bcinanserin')"
-p8
-aS"(91, u'\\\\bfluoxetine')"
-p9
-aS"(119, u'\\\\britanserin')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
-S'Method.ANTAGONIST'
-p15
-aS'Method.AGONIST'
-p16
-atp17
-Rp18
+atp6
+Rp7
 sS'topics'
-p19
+p8
 g3
-((lp20
-tp21
-Rp22
+((lp9
+tp10
+Rp11
 sS'receptors'
-p23
+p12
 g3
-((lp24
-S'5ht1b'
-p25
-aS'5ht1a'
-p26
-aS'5ht2b'
-p27
-aS'5ht2'
-p28
-aS'5ht2a'
-p29
-atp30
-Rp31
+((lp13
+(S'5ht1a'
+p14
+I523
+I529
+tp15
+atp16
+Rp17
+sS'raw_text_methods'
+p18
+g3
+((lp19
+S"(17, u'\\\\bpet')"
+p20
+aS"(19, u'\\\\bpositron emission tomography')"
+p21
+atp22
+Rp23
 sS'regions'
-p32
+p24
 g3
-((lp33
-tp34
-Rp35
+((lp25
+tp26
+Rp27
 sS'year'
-p36
-V1988
-p37
-sS'agonists'
-p38
-g3
-((lp39
-S"(45, u'\\\\bipsapirone')"
-p40
-aS"(192, u'\\\\bquipazine')"
-p41
-atp42
-Rp43
+p28
+V2009
+p29
 sS'species'
-p44
+p30
 g3
-((lp45
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p46
-atp47
-Rp48
+((lp31
+tp32
+Rp33
 sb.

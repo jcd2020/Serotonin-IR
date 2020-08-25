@@ -2,84 +2,162 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(29, u'\\\\buh ?301')"
+S'Method.ANTAGONIST'
 p5
-aS"(203, u'\\\\btfmpp')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(9, u'\\\\bdepress')"
-p17
-atp18
-Rp19
+tp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht1b'
-p22
-aS'5ht1a'
+((lp14
+(S'5ht1a'
+p15
+I1961
+I1967
+tp16
+a(S'5ht1a'
+p17
+I1445
+I1451
+tp18
+a(S'5ht1c'
+p19
+I2063
+I2069
+tp20
+a(S'5ht1a'
+p21
+I2162
+I2168
+tp22
+a(S'5ht1c'
 p23
-aS'5ht3a'
-p24
-aS'5ht2a'
+I1328
+I1334
+tp24
+a(S'5ht1a'
 p25
-atp26
-Rp27
-sS'regions'
-p28
-g3
-((lp29
-S"(105, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(reticulatas|reticulata)\\\\b')"
-p30
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+I2828
+I2834
+tp26
+a(S'5ht1c'
+p27
+I1169
+I1175
+tp28
+a(S'5ht2'
+p29
+I1180
+I1185
+tp30
+a(S'5ht1b'
 p31
-atp32
-Rp33
-sS'year'
-p34
-V1993
+I1098
+I1104
+tp32
+a(S'5ht1a'
+p33
+I2645
+I2651
+tp34
+a(S'5ht1a'
 p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(179, u'\\\\b5 ?meo ?dmt')"
-p38
-aS"(178, u'\\\\btfmpp')"
+I2006
+I2012
+tp36
+a(S'5ht1a'
+p37
+I786
+I792
+tp38
+a(S'5ht3'
 p39
-aS"(155, u'\\\\bmcpp')"
-p40
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+I1109
+I1114
+tp40
+a(S'5ht1a'
 p41
-atp42
-Rp43
-sS'species'
-p44
+I2618
+I2624
+tp42
+a(S'5ht1a'
+p43
+I432
+I438
+tp44
+a(S'5ht3'
+p45
+I2104
+I2109
+tp46
+a(S'5ht2'
+p47
+I2063
+I2070
+tp48
+a(S'5ht2'
+p49
+I1348
+I1353
+tp50
+atp51
+Rp52
+sS'raw_text_methods'
+p53
 g3
-((lp45
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p46
-atp47
-Rp48
+((lp54
+S"(22, u'\\\\bbuspirone')"
+p55
+aS"(15, u'\\\\b8ohdpat')"
+p56
+aS"(20, u'\\\\bondansetron')"
+p57
+aS"(13, u'\\\\bagonist')"
+p58
+aS"(46, u'\\\\bspiperone')"
+p59
+aS"(9, u'\\\\britanserin')"
+p60
+aS"(12, u'\\\\bantagonist')"
+p61
+atp62
+Rp63
+sS'regions'
+p64
+g3
+((lp65
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p66
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p67
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p68
+atp69
+Rp70
+sS'year'
+p71
+V1992
+p72
+sS'species'
+p73
+g3
+((lp74
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p75
+atp76
+Rp77
 sb.

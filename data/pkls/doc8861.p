@@ -2,78 +2,111 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+tp5
+Rp6
 sS'topics'
+p7
+g3
+((lp8
+S"(1, u'\\\\bpatient')"
+p9
+aS"(7, u'\\\\bdepressi')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(29, u'\\\\bhyperactiv')"
+p12
+aS"(26, u'\\\\bbehav')"
 p13
-g3
-((lp14
-S"(3, u'\\\\bsleep')"
-p15
-aS"(11, u'\\\\banxiolyt')"
-p16
-atp17
-Rp18
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp17
+(S'5ht1a'
+p18
+I1897
+I1903
+tp19
+a(S'5ht1a'
+p20
+I1605
+I1611
+tp21
+a(S'5ht1a'
+p22
+I1285
+I1291
+tp23
+a(S'5ht1a'
 p24
-g3
-((lp25
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I716
+I722
+tp25
+a(S'5ht1a'
 p26
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p27
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I702
+I713
+tp27
+a(S'5ht1a'
 p28
-atp29
-Rp30
-sS'year'
-p31
-V1995
+I2024
+I2030
+tp29
+a(S'5ht1a'
+p30
+I1716
+I1722
+tp31
+a(S'5ht1a'
 p32
-sS'agonists'
-p33
+I1109
+I1115
+tp33
+a(S'5ht1a'
+p34
+I74
+I85
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
+p38
 g3
-((lp34
-S"(20, u'\\\\bbuspirone')"
-p35
-aS"(45, u'\\\\bipsapirone')"
-p36
-aS"(42, u'\\\\bgepirone')"
-p37
-atp38
-Rp39
-sS'species'
+((lp39
+S"(49, u'\\\\bdoi')"
 p40
+aS"(54, u'\\\\bautoradiography')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
 g3
-((lp41
-S"(1961, u'(?i)\\\\b(pens|pen)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+((lp45
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p46
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V2011
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p54
+atp55
+Rp56
 sb.

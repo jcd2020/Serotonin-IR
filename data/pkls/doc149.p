@@ -2,76 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-tp15
-Rp16
+tp10
+Rp11
 sS'receptors'
-p17
+p12
 g3
-((lp18
-S'5ht1a'
-p19
-aS'5ht2a'
+((lp13
+(S'5ht3'
+p14
+I1070
+I1075
+tp15
+a(S'5ht3'
+p16
+I1358
+I1363
+tp17
+a(S'5ht3'
+p18
+I83
+I88
+tp19
+a(S'5ht3'
 p20
-atp21
-Rp22
-sS'regions'
-p23
+I1431
+I1436
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp24
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p25
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+((lp25
+S"(13, u'\\\\bagonist')"
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2000
-p30
-sS'agonists'
+aS"(15, u'\\\\b8ohdpat')"
+p27
+aS"(53, u'\\\\bketanserin')"
+p28
+atp29
+Rp30
+sS'regions'
 p31
 g3
 ((lp32
-S"(43, u'\\\\bhaloperidol')"
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p33
-atp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p34
+atp35
+Rp36
+sS'year'
+p37
+V1995
 p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+sS'species'
 p39
-aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sb.

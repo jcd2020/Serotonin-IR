@@ -1,0 +1,113 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.STAINING'
+p5
+aS'Method.AGONIST'
+p6
+aS'Method.ANTAGONIST'
+p7
+atp8
+Rp9
+sS'topics'
+p10
+g3
+((lp11
+S"(22, u'\\\\bschizophreni')"
+p12
+aS"(23, u'\\\\bantipsychotic')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
+p18
+I2017
+I2023
+tp19
+a(S'5ht1a'
+p20
+I695
+I701
+tp21
+a(S'5ht1a'
+p22
+I410
+I416
+tp23
+a(S'5ht1a'
+p24
+I814
+I820
+tp25
+a(S'5ht1a'
+p26
+I171
+I177
+tp27
+a(S'5ht1a'
+p28
+I964
+I970
+tp29
+a(S'5ht1a'
+p30
+I1885
+I1891
+tp31
+a(S'5ht1a'
+p32
+I630
+I636
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
+g3
+((lp37
+S"(41, u'\\\\bhaloperidol')"
+p38
+aS"(40, u'\\\\bclozapine')"
+p39
+aS"(32, u'\\\\blesions')"
+p40
+aS"(13, u'\\\\bagonist')"
+p41
+aS"(51, u'\\\\bway100635')"
+p42
+aS"(12, u'\\\\bantagonist')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+tp48
+Rp49
+sS'year'
+p50
+V2005
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p54
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p55
+atp56
+Rp57
+sb.

@@ -2,66 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STIMULATION'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(7, u'\\\\bdepressi')"
+p10
+aS"(9, u'\\\\bstress')"
+p11
+aS"(20, u'\\\\bmood')"
+p12
+aS"(4, u'\\\\btreatment')"
 p13
-g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-atp16
-Rp17
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp18
+(S'5ht1a'
+p19
+I726
+I732
+tp20
+a(S'5ht1a'
+p21
+I192
+I198
+tp22
+a(S'5ht1a'
 p23
-g3
-((lp24
-S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1520
+I1526
+tp24
+a(S'5ht1a'
 p25
-atp26
-Rp27
-sS'year'
-p28
-V2014
+I1030
+I1036
+tp26
+a(S'5ht1a'
+p27
+I1138
+I1144
+tp28
+a(S'5ht1a'
 p29
-sS'agonists'
-p30
+I382
+I388
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
+p33
 g3
-((lp31
-S"(149, u'\\\\bmem')"
-p32
-atp33
-Rp34
-sS'species'
+((lp34
+S"(17, u'\\\\bpet')"
 p35
+aS"(19, u'\\\\bpositron emission tomography')"
+p36
+atp37
+Rp38
+sS'regions'
+p39
 g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-atp38
-Rp39
+((lp40
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p41
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p42
+atp43
+Rp44
+sS'year'
+p45
+V2013
+p46
+sS'species'
+p47
+g3
+((lp48
+tp49
+Rp50
 sb.

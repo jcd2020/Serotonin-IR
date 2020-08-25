@@ -2,68 +2,61 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(20, u'\\\\baggressi')"
-p14
-atp15
-Rp16
+((lp9
+S"(31, u'\\\\brespiratory')"
+p10
+aS"(3, u'\\\\bclinical')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I1163
+I1168
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(13, u'\\\\bagonist')"
 p22
-g3
-((lp23
-tp24
+aS"(35, u'\\\\badenosine')"
+p23
+atp24
 Rp25
-sS'year'
+sS'regions'
 p26
-V1992
-p27
-sS'agonists'
-p28
 g3
-((lp29
-S"(45, u'\\\\bipsapirone')"
+((lp27
+tp28
+Rp29
+sS'year'
 p30
-aS"(176, u'\\\\bdom')"
+V1997
 p31
-atp32
-Rp33
 sS'species'
-p34
+p32
 g3
-((lp35
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
-p36
-aS"(4627, u'(?i)\\\\b(domesticateds|domesticated)(-|\\\\s+)?(animals|animal)\\\\b')"
-p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+((lp33
+tp34
+Rp35
 sb.

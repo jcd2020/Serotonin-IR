@@ -2,78 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\bzacopride')"
-p5
-aS"(194, u'\\\\bmethysergide')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+tp5
+Rp6
 sS'topics'
-p15
+p7
 g3
-((lp16
-tp17
-Rp18
+((lp8
+S"(29, u'\\\\bhyperactiv')"
+p9
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(33, u'\\\\blocomot')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht3a'
-p21
-aS'5ht4'
+((lp17
+(S'5ht4'
+p18
+I761
+I766
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-aS'5ht3'
-p23
-aS'5ht1'
+g3
+((lp23
+S"(11, u'\\\\bfluoxetine')"
 p24
-aS'5ht2a'
+aS"(38, u'\\\\bssri')"
 p25
-atp26
-Rp27
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p26
+atp27
+Rp28
 sS'regions'
-p28
+p29
 g3
-((lp29
-tp30
-Rp31
+((lp30
+tp31
+Rp32
 sS'year'
-p32
-V1991
 p33
-sS'agonists'
+V2008
 p34
-g3
-((lp35
-S"(198, u'\\\\bcisapride')"
-p36
-aS"(208, u'\\\\bzacopride')"
-p37
-aS"(53, u'\\\\bmethysergide')"
-p38
-atp39
-Rp40
 sS'species'
-p41
+p35
 g3
-((lp42
-S"(1395, u'(?i)\\\\b(frogs|frog)\\\\b')"
-p43
-atp44
-Rp45
+((lp36
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p37
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p38
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p39
+atp40
+Rp41
 sb.

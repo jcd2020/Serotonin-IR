@@ -2,72 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(28, u'\\\\bspiroxatrine')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(11, u'\\\\banxiolyt')"
-p16
-atp17
-Rp18
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht3'
+p15
+I301
+I306
+tp16
+a(S'5ht3'
+p17
+I1164
+I1169
+tp18
+a(S'5ht2'
 p19
+I421
+I426
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
+((lp24
+S"(53, u'\\\\bketanserin')"
+p25
+aS"(9, u'\\\\britanserin')"
 p26
-atp27
-Rp28
-sS'year'
-p29
-V1989
-p30
-sS'agonists'
+aS"(25, u'\\\\bics205930')"
+p27
+aS"(12, u'\\\\bantagonist')"
+p28
+atp29
+Rp30
+sS'regions'
 p31
 g3
 ((lp32
-S"(20, u'\\\\bbuspirone')"
+S"(14, u'(?i)\\\\b(caudals|caudal)\\\\b')"
 p33
-aS"(149, u'\\\\bmem')"
-p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
+atp34
+Rp35
+sS'year'
+p36
+V1992
+p37
 sS'species'
 p38
 g3
 ((lp39
-S"(1312, u'(?i)\\\\b(pigeons|pigeon)\\\\b')"
-p40
-atp41
-Rp42
+tp40
+Rp41
 sb.

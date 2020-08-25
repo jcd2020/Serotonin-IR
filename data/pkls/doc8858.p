@@ -2,78 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
+S'Method.PET'
+p5
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
+((lp9
+S"(2, u'\\\\bdisorder')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(3, u'\\\\bsleep')"
+(S'5ht2a'
 p15
-atp16
-Rp17
-sS'receptors'
-p18
-g3
-((lp19
-S'5ht6'
-p20
-atp21
-Rp22
-sS'regions'
+I36
+I42
+tp16
+a(S'5ht2a'
+p17
+I757
+I763
+tp18
+a(S'5ht2a'
+p19
+I1872
+I1878
+tp20
+a(S'5ht2a'
+p21
+I632
+I643
+tp22
+a(S'5ht2a'
 p23
-g3
-((lp24
-S"(235, u'(?i)\\\\b(diagonals|diagonal)(-|\\\\s+)?(bands|band)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(brocas|broca)\\\\b')"
+I1080
+I1086
+tp24
+a(S'5ht2a'
 p25
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
-p27
-aS"(231, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(forebrains|forebrain)\\\\b')"
-p28
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I646
+I652
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-aS"(51, u'(?i)\\\\b(laterodorsals|laterodorsal)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
+g3
+((lp30
+S"(1, u'\\\\bneuroimag')"
+p31
+aS"(17, u'\\\\bpet')"
+p32
+aS"(19, u'\\\\bpositron emission tomography')"
 p33
-V2013
+aS"(18, u'\\\\bimaging')"
 p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(214, u'\\\\bway ?208466')"
+atp35
+Rp36
+sS'regions'
 p37
-atp38
-Rp39
-sS'species'
-p40
 g3
-((lp41
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+((lp38
+tp39
+Rp40
+sS'year'
+p41
+V2008
 p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p43
-atp44
-Rp45
+g3
+((lp44
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p45
+atp46
+Rp47
 sb.

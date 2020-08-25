@@ -2,88 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S'Method.PET'
 p5
-aS"(117, u'\\\\bketanserin')"
-p6
-aS"(194, u'\\\\bmethysergide')"
-p7
-aS"(193, u'\\\\bmesulergine')"
-p8
-aS"(26, u'\\\\bspiperone')"
-p9
-aS"(22, u'\\\\bpropranolol')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
-S'Method.ANTAGONIST'
-p15
-aS'Method.AGONIST'
-p16
-atp17
-Rp18
+atp6
+Rp7
 sS'topics'
-p19
+p8
 g3
-((lp20
-tp21
-Rp22
+((lp9
+S"(3, u'\\\\bclinical')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
-p23
+p16
 g3
-((lp24
-S'5ht1c'
+((lp17
+(S'5ht1b'
+p18
+I522
+I528
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
+g3
+((lp23
+S"(17, u'\\\\bpet')"
+p24
+aS"(38, u'\\\\bssri')"
 p25
-aS'5ht1b'
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p26
-aS'5ht1a'
-p27
-aS'5ht2'
-p28
-aS'5ht1'
-p29
-atp30
-Rp31
+atp27
+Rp28
 sS'regions'
+p29
+g3
+((lp30
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p31
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p32
-g3
-((lp33
-tp34
-Rp35
+atp33
+Rp34
 sS'year'
+p35
+V2013
 p36
-V1986
-p37
-sS'agonists'
-p38
-g3
-((lp39
-S"(165, u'\\\\bmesulergine')"
-p40
-aS"(53, u'\\\\bmethysergide')"
-p41
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p42
-aS"(67, u'\\\\bru ?24969')"
-p43
-atp44
-Rp45
 sS'species'
-p46
+p37
 g3
-((lp47
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p48
-atp49
-Rp50
+((lp38
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p39
+atp40
+Rp41
 sb.

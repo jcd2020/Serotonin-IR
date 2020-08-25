@@ -2,57 +2,62 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(84, u'\\\\bsb ?206553')"
-p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(113, u'\\\\brisperidone')"
-p8
-aS"(71, u'\\\\bvolinanserin')"
-p9
-aS"(35, u'\\\\baripiprazole')"
-p10
-aS"(58, u'\\\\bhaloperidol')"
-p11
-atp12
-Rp13
-sS'methods'
-p14
-g3
-((lp15
 S'Method.ANTAGONIST'
-p16
-atp17
-Rp18
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p19
+p9
 g3
-((lp20
-S"(16, u'\\\\bfeed')"
-p21
-atp22
-Rp23
+((lp10
+tp11
+Rp12
 sS'receptors'
-p24
+p13
 g3
-((lp25
-S'5ht2c'
-p26
-aS'5ht1a'
+((lp14
+(S'5ht1a'
+p15
+I1492
+I1498
+tp16
+a(S'5ht1a'
+p17
+I292
+I298
+tp18
+a(S'5ht1a'
+p19
+I303
+I309
+tp20
+a(S'5ht1'
+p21
+I980
+I985
+tp22
+a(S'5ht1a'
+p23
+I82
+I88
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-aS'5ht2b'
-p28
-aS'5ht2'
+g3
+((lp28
+S"(13, u'\\\\bagonist')"
 p29
-aS'5ht2a'
+aS"(12, u'\\\\bantagonist')"
 p30
 atp31
 Rp32
@@ -60,28 +65,20 @@ sS'regions'
 p33
 g3
 ((lp34
-tp35
-Rp36
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p35
+atp36
+Rp37
 sS'year'
-p37
-V2011
 p38
-sS'agonists'
+V1995
 p39
+sS'species'
+p40
 g3
-((lp40
-S"(223, u'\\\\baripiprazole')"
-p41
-aS"(43, u'\\\\bhaloperidol')"
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
 atp43
 Rp44
-sS'species'
-p45
-g3
-((lp46
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p47
-atp48
-Rp49
 sb.

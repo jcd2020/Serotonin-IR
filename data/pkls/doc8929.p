@@ -2,74 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(15, u'\\\\bmemory')"
 p12
-g3
-((lp13
-S"(30, u'\\\\bparkinsons')"
-p14
-atp15
-Rp16
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht1b'
-p19
-aS'5ht2a'
+((lp17
+(S'5ht2a'
+p18
+I485
+I491
+tp19
+a(S'5ht2a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p25
-aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
+I1946
+I1952
+tp21
+a(S'5ht2a'
+p22
+I1719
+I1725
+tp23
+a(S'5ht2a'
+p24
+I800
+I806
+tp25
+a(S'5ht2a'
 p26
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V2017
-p31
-sS'agonists'
+I1026
+I1032
+tp27
+a(S'5ht2a'
+p28
+I1855
+I1861
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
 p32
 g3
 ((lp33
-tp34
-Rp35
-sS'species'
+S"(13, u'\\\\bagonist')"
+p34
+aS"(27, u'\\\\blsd')"
+p35
+aS"(53, u'\\\\bketanserin')"
 p36
-g3
-((lp37
-S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
+aS"(29, u'\\\\bdiethylamide')"
+p37
+aS"(12, u'\\\\bantagonist')"
 p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+atp39
+Rp40
+sS'regions'
 p41
-atp42
-Rp43
+g3
+((lp42
+tp43
+Rp44
+sS'year'
+p45
+V2019
+p46
+sS'species'
+p47
+g3
+((lp48
+tp49
+Rp50
 sb.

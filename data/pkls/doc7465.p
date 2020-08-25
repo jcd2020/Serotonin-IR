@@ -2,74 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
-p5
-aS"(58, u'\\\\bhaloperidol')"
-p6
-aS"(28, u'\\\\bspiroxatrine')"
-p7
-aS"(22, u'\\\\bpropranolol')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
 S'Method.ANTAGONIST'
-p13
+p5
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p6
+atp7
+Rp8
 sS'topics'
-p17
+p9
 g3
-((lp18
-tp19
-Rp20
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p21
+p14
 g3
-((lp22
-S'5ht1a'
-p23
-atp24
-Rp25
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I1313
+I1319
+tp17
+a(S'5ht1a'
+p18
+I608
+I614
+tp19
+a(S'5ht1a'
+p20
+I283
+I289
+tp21
+a(S'5ht1a'
+p22
+I66
+I72
+tp23
+a(S'5ht1a'
+p24
+I184
+I190
+tp25
+a(S'5ht1b'
 p26
-g3
-((lp27
-tp28
+I863
+I869
+tp27
+atp28
 Rp29
-sS'year'
+sS'raw_text_methods'
 p30
-V1994
-p31
-sS'agonists'
+g3
+((lp31
+S"(13, u'\\\\bagonist')"
 p32
-g3
-((lp33
-S"(20, u'\\\\bbuspirone')"
+aS"(15, u'\\\\b8ohdpat')"
+p33
+aS"(51, u'\\\\bway100635')"
 p34
-aS"(210, u'\\\\bsulpiride')"
+aS"(12, u'\\\\bantagonist')"
 p35
-aS"(43, u'\\\\bhaloperidol')"
-p36
-atp37
-Rp38
-sS'species'
-p39
+atp36
+Rp37
+sS'regions'
+p38
 g3
-((lp40
-S"(5811, u'(?i)\\\\b(goldfish|goldfish)\\\\b')"
-p41
-atp42
-Rp43
+((lp39
+tp40
+Rp41
+sS'year'
+p42
+V2001
+p43
+sS'species'
+p44
+g3
+((lp45
+tp46
+Rp47
 sb.

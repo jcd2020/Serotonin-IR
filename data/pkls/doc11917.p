@@ -2,74 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.PET'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
 p12
 g3
 ((lp13
-S"(15, u'\\\\bschizophreni')"
+(S'5ht1a'
 p14
-aS"(34, u'\\\\bdementia')"
-p15
-atp16
-Rp17
-sS'receptors'
+I814
+I820
+tp15
+a(S'5ht1a'
+p16
+I1952
+I1958
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht2a'
+I359
+I365
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
+I302
+I308
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp24
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p25
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+((lp25
+S"(51, u'\\\\bway100635')"
 p26
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+aS"(17, u'\\\\bpet')"
 p27
-atp28
-Rp29
-sS'year'
-p30
-V1998
+aS"(19, u'\\\\bpositron emission tomography')"
+p28
+atp29
+Rp30
+sS'regions'
 p31
-sS'agonists'
-p32
 g3
-((lp33
-tp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp32
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p33
+aS"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p34
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
 p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2011
 p39
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+sS'species'
 p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p41
-atp42
-Rp43
+g3
+((lp41
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p42
+atp43
+Rp44
 sb.

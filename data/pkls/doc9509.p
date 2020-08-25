@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,64 +10,88 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.PET'
+S"(1, u'\\\\bpatient')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
-p14
-aS"(10, u'\\\\banxiety')"
-p15
-atp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p10
+aS"(3, u'\\\\bclinical')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht7'
+p16
+I1052
+I1057
+tp17
+a(S'5ht4'
 p18
-g3
-((lp19
-S'5ht1b'
+I1201
+I1206
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
+I922
+I928
+tp21
+a(S'5ht4'
+p22
+I428
+I433
+tp23
+a(S'5ht7'
+p24
+I435
+I440
+tp25
+a(S'5ht1a'
+p26
+I420
+I426
+tp27
+a(S'5ht7'
 p28
-V2014
-p29
-sS'agonists'
+I1211
+I1216
+tp29
+a(S'5ht4'
 p30
-g3
-((lp31
-tp32
+I990
+I995
+tp31
+atp32
 Rp33
-sS'species'
+sS'raw_text_methods'
 p34
 g3
 ((lp35
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+S"(54, u'\\\\bautoradiography')"
 p36
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+atp37
+Rp38
+sS'regions'
 p39
-aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p40
-atp41
-Rp42
+g3
+((lp40
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V2007
+p45
+sS'species'
+p46
+g3
+((lp47
+tp48
+Rp49
 sb.

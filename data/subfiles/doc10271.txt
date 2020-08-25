@@ -1,4 +1,0 @@
-Ponchant, M., et al. (1988). "[125I-BH-8-MeO-N-PAT, a new ligand for the study of 5-HT1A receptors in the central nervous system]." C R Acad Sci III 306(4): 147-152.
-
-	Specific radioactive ligands are needed for studying the pharmacological properties and the regional distribution of the different classes of 5-HT1 receptors within the central nervous system. We describe here the synthesis and some characteristics of the first iodinated specific ligand of 5-HT1A receptors. Like its parent compound, the agonist 8-hydroxy-2-(di-n-propylamino)tetralin or 8-OH-DPAT, [125I]-BH-8-MeO-N-PAT, exhibits a high affinity and excellent selectivity for 5-HT1A sites. Its high specific radioactivity makes this ligand a useful tool for studying 5-HT1A receptors in membranes and sections of the rat brain.
-

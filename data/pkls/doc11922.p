@@ -2,80 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(24, u'\\\\banxiolytic')"
 p10
-aS'Method.AGONIST'
+aS"(8, u'\\\\banxi')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht1a'
+p16
+I673
+I679
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht2b'
+I315
+I321
+tp19
+a(S'5ht1a'
 p20
-aS'5ht2c'
-p21
-aS'5ht2'
-p22
-aS'5ht2a'
-p23
-atp24
-Rp25
-sS'regions'
+I40
+I46
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+S"(13, u'\\\\bagonist')"
 p26
-g3
-((lp27
-tp28
+aS"(21, u'\\\\bipsapirone')"
+p27
+atp28
 Rp29
-sS'year'
+sS'regions'
 p30
-V1998
-p31
-sS'agonists'
+g3
+((lp31
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p32
-g3
-((lp33
-S"(157, u'\\\\bdmt')"
-p34
-aS"(235, u'\\\\bnn ?dimethyltryptamine')"
+atp33
+Rp34
+sS'year'
 p35
-aS"(175, u'\\\\bdoi')"
+V1987
 p36
-atp37
-Rp38
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p41
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p44
-atp45
-Rp46
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

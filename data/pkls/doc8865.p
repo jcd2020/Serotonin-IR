@@ -2,76 +2,124 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(3, u'\\\\bsleep')"
-p14
-atp15
-Rp16
+((lp10
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1b'
+p15
+I537
+I543
+tp16
+a(S'5ht1'
 p17
-g3
-((lp18
-S'5ht7'
+I1272
+I1277
+tp18
+a(S'5ht1b'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(235, u'(?i)\\\\b(diagonals|diagonal)(-|\\\\s+)?(bands|band)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(brocas|broca)\\\\b')"
-p24
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I892
+I898
+tp20
+a(S'5ht1a'
+p21
+I1216
+I1222
+tp22
+a(S'5ht1d'
+p23
+I537
+I545
+tp24
+a(S'5ht1b'
 p25
-aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
-p26
-aS"(231, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(forebrains|forebrain)\\\\b')"
+I318
+I324
+tp26
+a(S'5ht1'
 p27
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-aS"(51, u'(?i)\\\\b(laterodorsals|laterodorsal)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I892
+I898
+tp28
+a(S'5ht1d'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V2014
+I1175
+I1181
+tp30
+a(S'5ht1b'
+p31
+I104
+I110
+tp32
+a(S'5ht1d'
 p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(231, u'\\\\blp ?211')"
-p36
-atp37
-Rp38
-sS'species'
-p39
-g3
-((lp40
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+I1303
+I1309
+tp34
+a(S'5ht1b'
+p35
+I505
+I511
+tp36
+a(S'5ht1b'
+p37
+I468
+I474
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
 p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+g3
+((lp42
+S"(13, u'\\\\bagonist')"
+p43
+aS"(34, u'\\\\b5ct')"
+p44
+aS"(47, u'\\\\bsumatriptan')"
+p45
+aS"(12, u'\\\\bantagonist')"
+p46
+atp47
+Rp48
+sS'regions'
+p49
+g3
+((lp50
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p51
+atp52
+Rp53
+sS'year'
+p54
+V1995
+p55
+sS'species'
+p56
+g3
+((lp57
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p58
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p59
+atp60
+Rp61
 sb.

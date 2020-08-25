@@ -2,94 +2,126 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(43, u'\\\\bgr ?127935')"
-p5
-aS"(14, u'\\\\bmethiothepin')"
-p6
-aS"(38, u'\\\\bsb ?224289')"
-p7
-aS"(31, u'\\\\bway ?100635')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
 S'Method.ANTAGONIST'
-p13
+p5
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p6
+atp7
+Rp8
 sS'topics'
-p17
+p9
 g3
-((lp18
-tp19
-Rp20
+((lp10
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1'
+p15
+I257
+I262
+tp16
+a(S'5ht1'
+p17
+I921
+I926
+tp18
+a(S'5ht2'
+p19
+I1072
+I1077
+tp20
+a(S'5ht2'
 p21
-g3
-((lp22
-S'5ht1b'
+I1895
+I1900
+tp22
+a(S'5ht2'
 p23
-aS'5ht1a'
-p24
-aS'5ht1d'
+I1288
+I1293
+tp24
+a(S'5ht1'
 p25
-atp26
-Rp27
-sS'regions'
-p28
-g3
-((lp29
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p30
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+I1013
+I1018
+tp26
+a(S'5ht2'
+p27
+I1772
+I1777
+tp28
+a(S'5ht4'
+p29
+I1173
+I1178
+tp30
+a(S'5ht1'
 p31
-aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p32
-atp33
-Rp34
-sS'year'
+I1282
+I1287
+tp32
+a(S'5ht2'
+p33
+I1847
+I1852
+tp34
+a(S'5ht4'
 p35
-V1998
-p36
-sS'agonists'
+I1358
+I1363
+tp36
+a(S'5ht1'
 p37
-g3
-((lp38
-S"(114, u'\\\\bl ?694247')"
-p39
-aS"(25, u'\\\\bdihydroergotamine')"
-p40
-aS"(39, u'\\\\bflesinoxan')"
+I812
+I817
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
 p41
-aS"(96, u'\\\\bsumatriptan')"
-p42
-aS"(97, u'\\\\bzolmitriptan')"
-p43
-atp44
-Rp45
-sS'species'
-p46
 g3
-((lp47
-S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+((lp42
+S"(53, u'\\\\bketanserin')"
+p43
+aS"(13, u'\\\\bagonist')"
+p44
+aS"(49, u'\\\\bdoi')"
+p45
+aS"(47, u'\\\\bsumatriptan')"
+p46
+aS"(46, u'\\\\bspiperone')"
+p47
+aS"(12, u'\\\\bantagonist')"
 p48
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p49
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p50
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+atp49
+Rp50
+sS'regions'
 p51
-atp52
-Rp53
+g3
+((lp52
+tp53
+Rp54
+sS'year'
+p55
+V1993
+p56
+sS'species'
+p57
+g3
+((lp58
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p59
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p60
+atp61
+Rp62
 sb.

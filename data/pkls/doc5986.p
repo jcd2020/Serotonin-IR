@@ -2,78 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(24, u'\\\\banxiolytic')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(9, u'\\\\bstress')"
 p13
-g3
-((lp14
-tp15
-Rp16
-sS'receptors'
+aS"(29, u'\\\\bhyperactiv')"
+p14
+aS"(26, u'\\\\bbehav')"
+p15
+aS"(8, u'\\\\banxi')"
+p16
+aS"(4, u'\\\\btreatment')"
 p17
-g3
-((lp18
-S'5ht7'
-p19
-aS'5ht7a'
+atp18
+Rp19
+sS'receptors'
 p20
-aS'5ht7b'
-p21
-atp22
-Rp23
-sS'regions'
+g3
+((lp21
+(S'5ht3'
+p22
+I363
+I368
+tp23
+a(S'5ht3'
 p24
-g3
-((lp25
-tp26
+I36
+I41
+tp25
+atp26
 Rp27
-sS'year'
+sS'raw_text_methods'
 p28
-V1997
-p29
-sS'agonists'
+g3
+((lp29
+S"(12, u'\\\\bantagonist')"
 p30
-g3
-((lp31
-S"(220, u'\\\\b5 ?methoxytryptamine')"
-p32
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
+atp31
+Rp32
+sS'regions'
 p33
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p34
-aS"(219, u'\\\\b5 ?ct')"
-p35
-atp36
-Rp37
-sS'species'
-p38
 g3
-((lp39
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p40
-aS"(5145, u'(?i)\\\\b(placentals|placental)\\\\b')"
+((lp34
+tp35
+Rp36
+sS'year'
+p37
+V2015
+p38
+sS'species'
+p39
+g3
+((lp40
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p42
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sb.

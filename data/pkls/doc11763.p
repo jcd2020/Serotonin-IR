@@ -2,76 +2,97 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(177, u'\\\\bsb ?399885')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p11
-atp12
-Rp13
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-S"(15, u'\\\\bschizophreni')"
-p16
-aS"(6, u'\\\\bcognit')"
-p17
-aS"(7, u'\\\\bmemory')"
-p18
-aS"(4, u'\\\\blocomot')"
-p19
-atp20
-Rp21
+((lp10
+tp11
+Rp12
 sS'receptors'
-p22
+p13
 g3
-((lp23
-S'5ht6'
-p24
-atp25
-Rp26
-sS'regions'
+((lp14
+(S'5ht1a'
+p15
+I2371
+I2377
+tp16
+a(S'5ht1a'
+p17
+I1082
+I1088
+tp18
+a(S'5ht1a'
+p19
+I298
+I304
+tp20
+a(S'5ht1a'
+p21
+I1966
+I1972
+tp22
+a(S'5ht1a'
+p23
+I2095
+I2101
+tp24
+a(S'5ht1a'
+p25
+I38
+I44
+tp26
+a(S'5ht1a'
 p27
+I1678
+I1684
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
 g3
-((lp28
-S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
-p32
-V2018
+((lp32
+S"(13, u'\\\\bagonist')"
 p33
-sS'agonists'
+aS"(15, u'\\\\b8ohdpat')"
 p34
-g3
-((lp35
-S"(149, u'\\\\bmem')"
+aS"(21, u'\\\\bipsapirone')"
+p35
+aS"(12, u'\\\\bantagonist')"
 p36
 atp37
 Rp38
-sS'species'
+sS'regions'
 p39
 g3
 ((lp40
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+atp42
+Rp43
+sS'year'
+p44
+V1993
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

@@ -2,74 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(7, u'\\\\bdepressi')"
 p10
-aS'Method.AGONIST'
+aS"(2, u'\\\\bdisorder')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(9, u'\\\\bstress')"
+p13
+aS"(5, u'\\\\btherap')"
 p14
-g3
-((lp15
-tp16
-Rp17
+aS"(26, u'\\\\bbehav')"
+p15
+aS"(4, u'\\\\btreatment')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
-S'5ht1c'
-p20
-aS'5ht1a'
+((lp20
+(S'5ht1'
 p21
-aS'5ht2'
-p22
-aS'5ht1'
+I1155
+I1161
+tp22
+a(S'5ht1a'
 p23
-aS'5ht2a'
-p24
+I1155
+I1161
+tp24
 atp25
 Rp26
-sS'regions'
+sS'raw_text_methods'
 p27
 g3
 ((lp28
-tp29
-Rp30
-sS'year'
-p31
-V1990
+S"(13, u'\\\\bagonist')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(45, u'\\\\bipsapirone')"
-p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p36
-atp37
-Rp38
+((lp33
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p34
+atp35
+Rp36
+sS'year'
+p37
+V2016
+p38
 sS'species'
 p39
 g3
 ((lp40
-S"(1395, u'(?i)\\\\b(frogs|frog)\\\\b')"
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-atp42
-Rp43
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p42
+atp43
+Rp44
 sb.

@@ -2,68 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(4, u'\\\\btreatment')"
 p11
-g3
-((lp12
-tp13
-Rp14
+atp12
+Rp13
 sS'receptors'
-p15
+p14
 g3
-((lp16
-S'5ht6'
-p17
-atp18
-Rp19
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I333
+I339
+tp17
+a(S'5ht1a'
+p18
+I960
+I966
+tp19
+a(S'5ht1a'
 p20
-g3
-((lp21
-S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
-p22
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p23
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+I50
+I56
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-atp25
-Rp26
-sS'year'
+g3
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+aS"(51, u'\\\\bway100635')"
 p27
-V1993
+aS"(54, u'\\\\bautoradiography')"
 p28
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p29
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp30
-tp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p35
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+((lp33
+tp34
+Rp35
+sS'year'
 p36
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+V2001
 p37
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+sS'species'
 p38
-atp39
-Rp40
+g3
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

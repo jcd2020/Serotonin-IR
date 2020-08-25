@@ -2,82 +2,147 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(33, u'\\\\blocomot')"
+p13
+aS"(10, u'\\\\bocd')"
 p14
-g3
-((lp15
-S"(9, u'\\\\bdepress')"
+aS"(4, u'\\\\btreatment')"
+p15
+aS"(3, u'\\\\bclinical')"
 p16
-aS"(35, u'\\\\bstress')"
-p17
-aS"(10, u'\\\\banxiety')"
-p18
-atp19
-Rp20
+atp17
+Rp18
 sS'receptors'
+p19
+g3
+((lp20
+(S'5ht1'
 p21
-g3
-((lp22
-S'5ht1b'
+I478
+I483
+tp22
+a(S'5ht1a'
 p23
-aS'5ht1a'
-p24
-aS'5ht1d'
+I1035
+I1043
+tp24
+a(S'5ht1b'
 p25
-atp26
-Rp27
-sS'regions'
-p28
-g3
-((lp29
-S"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p30
-aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
+I1035
+I1041
+tp26
+a(S'5ht1b'
+p27
+I178
+I189
+tp28
+a(S'5ht1'
+p29
+I201
+I206
+tp30
+a(S'5ht1d'
 p31
-atp32
-Rp33
-sS'year'
-p34
-V2010
+I1205
+I1211
+tp32
+a(S'5ht1b'
+p33
+I71
+I77
+tp34
+a(S'5ht1'
 p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(96, u'\\\\bsumatriptan')"
-p38
-aS"(100, u'\\\\bcp ?93129')"
+I1782
+I1787
+tp36
+a(S'5ht1'
+p37
+I613
+I618
+tp38
+a(S'5ht1a'
 p39
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p40
-atp41
-Rp42
-sS'species'
+I1158
+I1164
+tp40
+a(S'5ht1'
+p41
+I1823
+I1828
+tp42
+a(S'5ht1'
 p43
-g3
-((lp44
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I818
+I823
+tp44
+a(S'5ht1b'
 p45
-atp46
-Rp47
+I1205
+I1210
+tp46
+atp47
+Rp48
+sS'raw_text_methods'
+p49
+g3
+((lp50
+S"(13, u'\\\\bagonist')"
+p51
+aS"(8, u'\\\\bru24969')"
+p52
+aS"(11, u'\\\\bfluoxetine')"
+p53
+aS"(6, u'\\\\bgr127935')"
+p54
+aS"(51, u'\\\\bway100635')"
+p55
+aS"(12, u'\\\\bantagonist')"
+p56
+atp57
+Rp58
+sS'regions'
+p59
+g3
+((lp60
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p61
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p62
+atp63
+Rp64
+sS'year'
+p65
+V2016
+p66
+sS'species'
+p67
+g3
+((lp68
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p69
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p70
+atp71
+Rp72
 sb.

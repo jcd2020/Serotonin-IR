@@ -1,0 +1,73 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht4'
+p17
+I867
+I872
+tp18
+a(S'5ht4'
+p19
+I1402
+I1407
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(46, u'\\\\bspiperone')"
+p26
+aS"(35, u'\\\\badenosine')"
+p27
+aS"(12, u'\\\\bantagonist')"
+p28
+atp29
+Rp30
+sS'regions'
+p31
+g3
+((lp32
+tp33
+Rp34
+sS'year'
+p35
+V1995
+p36
+sS'species'
+p37
+g3
+((lp38
+tp39
+Rp40
+sb.

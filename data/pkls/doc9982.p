@@ -2,102 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(5, u'\\\\bcyanopindolol')"
-p5
-aS"(14, u'\\\\bmethiothepin')"
-p6
-aS"(21, u'\\\\bpindolol')"
-p7
-aS"(22, u'\\\\bpropranolol')"
-p8
-aS"(203, u'\\\\btfmpp')"
-p9
-aS"(34, u'\\\\bmetergoline')"
-p10
-aS"(33, u'\\\\byohimbine')"
-p11
-aS"(194, u'\\\\bmethysergide')"
-p12
-aS"(11, u'\\\\bisamoltane')"
-p13
-atp14
-Rp15
-sS'methods'
-p16
-g3
-((lp17
 S'Method.ANTAGONIST'
-p18
-aS'Method.AGONIST'
-p19
-atp20
-Rp21
+p5
+atp6
+Rp7
 sS'topics'
-p22
+p8
 g3
-((lp23
-tp24
-Rp25
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+atp11
+Rp12
 sS'receptors'
-p26
+p13
 g3
-((lp27
-S'5ht1b'
-p28
-aS'5ht1'
+((lp14
+(S'5ht2a'
+p15
+I1471
+I1477
+tp16
+a(S'5ht2a'
+p17
+I1181
+I1187
+tp18
+a(S'5ht2'
+p19
+I520
+I530
+tp20
+a(S'5ht2a'
+p21
+I121
+I127
+tp22
+a(S'5ht2'
+p23
+I534
+I539
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
+g3
+((lp28
+S"(23, u'\\\\bmdl')"
 p29
-aS'5ht1d'
+aS"(5, u'\\\\bmk801')"
 p30
-atp31
-Rp32
+aS"(12, u'\\\\bantagonist')"
+p31
+atp32
+Rp33
 sS'regions'
-p33
+p34
 g3
-((lp34
-tp35
-Rp36
-sS'year'
+((lp35
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p36
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p37
-V1994
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
 p38
-sS'agonists'
-p39
-g3
-((lp40
-S"(96, u'\\\\bsumatriptan')"
+atp39
+Rp40
+sS'year'
 p41
-aS"(178, u'\\\\btfmpp')"
+V1996
 p42
-aS"(100, u'\\\\bcp ?93129')"
-p43
-aS"(65, u'\\\\brauwolscine')"
-p44
-aS"(25, u'\\\\bdihydroergotamine')"
-p45
-aS"(155, u'\\\\bmcpp')"
-p46
-aS"(82, u'\\\\byohimbine')"
-p47
-aS"(53, u'\\\\bmethysergide')"
-p48
-aS"(67, u'\\\\bru ?24969')"
-p49
-aS"(219, u'\\\\b5 ?ct')"
-p50
-atp51
-Rp52
 sS'species'
-p53
+p43
 g3
-((lp54
-S"(5721, u'(?i)\\\\b(opossums|opossum)\\\\b')"
-p55
-atp56
-Rp57
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

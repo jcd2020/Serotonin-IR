@@ -2,74 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
-p5
-aS"(21, u'\\\\bpindolol')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(9, u'\\\\bstress')"
+p13
+aS"(20, u'\\\\bmood')"
+p14
+aS"(4, u'\\\\btreatment')"
 p15
-g3
-((lp16
-S"(9, u'\\\\bdepress')"
-p17
-atp18
-Rp19
+atp16
+Rp17
 sS'receptors'
+p18
+g3
+((lp19
+(S'5ht1a'
 p20
-g3
-((lp21
-S'5ht1a'
+I1934
+I1940
+tp21
+a(S'5ht1a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
+I2235
+I2241
+tp23
+a(S'5ht1a'
+p24
+I666
+I672
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
 g3
-((lp26
-S"(6, u'(?i)\\\\b(rostrals|rostral)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
+((lp29
+S"(12, u'\\\\bantagonist')"
 p30
-V1995
-p31
-sS'agonists'
-p32
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp33
-S"(20, u'\\\\bbuspirone')"
-p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
-sS'species'
+((lp34
+tp35
+Rp36
+sS'year'
+p37
+V2006
 p38
+sS'species'
+p39
 g3
-((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
+((lp40
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-atp42
-Rp43
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p42
+atp43
+Rp44
 sb.

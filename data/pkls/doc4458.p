@@ -2,78 +2,107 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
+p7
+g3
+((lp8
+S"(26, u'\\\\bbehav')"
+p9
+aS"(2, u'\\\\bdisorder')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(12, u'\\\\bsleep')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(4, u'\\\\btreatment')"
 p14
-g3
-((lp15
-S"(29, u'\\\\bsex')"
-p16
-atp17
-Rp18
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht7'
 p19
-g3
-((lp20
-S'5ht1a'
+I1535
+I1540
+tp20
+a(S'5ht7'
 p21
-aS'5ht2'
-p22
-aS'5ht2a'
+I179
+I184
+tp22
+a(S'5ht7'
 p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
-S"(171, u'(?i)\\\\b(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-aS"(170, u'(?i)\\\\b(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1347
+I1352
+tp24
+a(S'5ht7'
+p25
+I1438
+I1443
+tp26
+a(S'5ht7'
+p27
+I853
+I858
+tp28
+a(S'5ht7'
 p29
-aS"(190, u'(?i)\\\\b(zonas|zona)(-|\\\\s+)?(incertas|incerta)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
+I740
+I745
+tp30
+a(S'5ht7'
+p31
+I48
+I53
+tp32
+a(S'5ht7'
 p33
-V1997
-p34
-sS'agonists'
+I1095
+I1100
+tp34
+a(S'5ht7'
 p35
+I414
+I419
+tp36
+atp37
+Rp38
+sS'raw_text_methods'
+p39
 g3
-((lp36
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p37
-atp38
-Rp39
-sS'species'
-p40
-g3
-((lp41
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+((lp40
+tp41
+Rp42
+sS'regions'
 p43
-atp44
-Rp45
+g3
+((lp44
+tp45
+Rp46
+sS'year'
+p47
+V2007
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p51
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p52
+atp53
+Rp54
 sb.

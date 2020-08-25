@@ -2,88 +2,88 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(144, u'\\\\bgr ?113808')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-tp10
-Rp11
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(20, u'\\\\bmood')"
 p12
-g3
-((lp13
-S"(33, u'\\\\balzheimers')"
-p14
-aS"(6, u'\\\\bcognit')"
-p15
-aS"(30, u'\\\\bparkinsons')"
-p16
-atp17
-Rp18
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht7'
-p21
-aS'5ht4'
+((lp17
+(S'5ht2'
+p18
+I1103
+I1108
+tp19
+a(S'5ht2'
+p20
+I574
+I579
+tp21
+a(S'5ht2'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p27
-aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1042
+I1047
+tp23
+a(S'5ht2'
+p24
+I444
+I449
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
-p29
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+g3
+((lp29
+S"(13, u'\\\\bagonist')"
 p30
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p31
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p32
-atp33
-Rp34
-sS'year'
-p35
-V1995
+atp32
+Rp33
+sS'regions'
+p34
+g3
+((lp35
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
 p36
-sS'agonists'
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
 p37
-g3
-((lp38
-tp39
-Rp40
-sS'species'
+atp38
+Rp39
+sS'year'
+p40
+V1999
 p41
+sS'species'
+p42
 g3
-((lp42
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p43
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+((lp43
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
 p44
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p46
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p47
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p48
-atp49
-Rp50
+atp46
+Rp47
 sb.

@@ -1,0 +1,64 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(34, u'\\\\bparkinson')"
+p10
+atp11
+Rp12
+sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I1005
+I1016
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+S"(17, u'\\\\bpet')"
+p21
+aS"(18, u'\\\\bimaging')"
+p22
+atp23
+Rp24
+sS'regions'
+p25
+g3
+((lp26
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p27
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p28
+atp29
+Rp30
+sS'year'
+p31
+V2016
+p32
+sS'species'
+p33
+g3
+((lp34
+tp35
+Rp36
+sb.

@@ -2,29 +2,31 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-S"(29, u'\\\\bsex')"
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(8, u'\\\\banxi')"
+p14
+aS"(4, u'\\\\btreatment')"
 p15
 atp16
 Rp17
@@ -32,54 +34,109 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht1a'
+(S'5ht2a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(170, u'(?i)\\\\b(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p25
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I529
+I535
+tp21
+a(S'5ht1a'
+p22
+I133
+I139
+tp23
+a(S'5ht1a'
+p24
+I290
+I296
+tp25
+a(S'5ht1a'
 p26
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
+I779
+I784
+tp27
+a(S'5ht2a'
 p28
-atp29
-Rp30
-sS'year'
-p31
-V2012
+I304
+I310
+tp29
+a(S'5ht1a'
+p30
+I1259
+I1265
+tp31
+a(S'5ht2a'
 p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
-sS'species'
+I791
+I797
+tp33
+a(S'5ht1a'
+p34
+I1986
+I1991
+tp35
+a(S'5ht1a'
+p36
+I517
+I523
+tp37
+a(S'5ht2a'
 p38
-g3
-((lp39
-S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+I144
+I150
+tp39
+a(S'5ht2a'
 p40
-aS"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
-p41
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
+I1382
+I1388
+tp41
+a(S'5ht2a'
 p42
-aS"(1795, u'(?i)\\\\b(mounts|mount)\\\\b')"
-p43
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+I1999
+I2005
+tp43
+a(S'5ht2'
 p44
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p45
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p46
-atp47
-Rp48
+I1238
+I1243
+tp45
+atp46
+Rp47
+sS'raw_text_methods'
+p48
+g3
+((lp49
+S"(22, u'\\\\bbuspirone')"
+p50
+aS"(15, u'\\\\b8ohdpat')"
+p51
+aS"(13, u'\\\\bagonist')"
+p52
+aS"(11, u'\\\\bfluoxetine')"
+p53
+aS"(49, u'\\\\bdoi')"
+p54
+aS"(37, u'\\\\bpiperazine')"
+p55
+atp56
+Rp57
+sS'regions'
+p58
+g3
+((lp59
+tp60
+Rp61
+sS'year'
+p62
+V2006
+p63
+sS'species'
+p64
+g3
+((lp65
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p66
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p67
+atp68
+Rp69
 sb.

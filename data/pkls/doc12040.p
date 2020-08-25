@@ -1,0 +1,109 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(5, u'\\\\btherap')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2a'
+p18
+I1476
+I1482
+tp19
+a(S'5ht2a'
+p20
+I49
+I55
+tp21
+a(S'5ht2c'
+p22
+I486
+I492
+tp23
+a(S'5ht2a'
+p24
+I853
+I859
+tp25
+a(S'5ht2c'
+p26
+I1126
+I1132
+tp27
+a(S'5ht2a'
+p28
+I1311
+I1317
+tp29
+a(S'5ht2a'
+p30
+I1541
+I1547
+tp31
+a(S'5ht2a'
+p32
+I1067
+I1073
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
+g3
+((lp37
+S"(53, u'\\\\bketanserin')"
+p38
+aS"(38, u'\\\\bssri')"
+p39
+aS"(33, u'\\\\bmcpp')"
+p40
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p41
+aS"(12, u'\\\\bantagonist')"
+p42
+atp43
+Rp44
+sS'regions'
+p45
+g3
+((lp46
+tp47
+Rp48
+sS'year'
+p49
+V2006
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p53
+atp54
+Rp55
+sb.

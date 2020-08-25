@@ -2,80 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(13, u'\\\\bantidepress')"
 p12
-g3
-((lp13
-S"(8, u'\\\\blearning')"
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(3, u'\\\\bclinical')"
 p14
-aS"(11, u'\\\\banxiolyt')"
-p15
-aS"(10, u'\\\\banxiety')"
-p16
-aS"(20, u'\\\\baggressi')"
-p17
-atp18
-Rp19
+atp15
+Rp16
 sS'receptors'
-p20
+p17
 g3
-((lp21
-S'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
+((lp18
+(S'5ht2a'
+p19
+I1955
+I1961
+tp20
+a(S'5ht2a'
+p21
+I905
+I911
+tp22
+a(S'5ht2a'
+p23
+I727
+I733
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+g3
+((lp28
+S"(17, u'\\\\bpet')"
+p29
+aS"(19, u'\\\\bpositron emission tomography')"
+p30
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p31
-V2000
-p32
-sS'agonists'
-p33
+atp32
+Rp33
+sS'regions'
+p34
 g3
-((lp34
-S"(20, u'\\\\bbuspirone')"
-p35
-aS"(176, u'\\\\bdom')"
+((lp35
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p36
-atp37
-Rp38
-sS'species'
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p37
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p38
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p39
-g3
-((lp40
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
-p41
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+atp40
+Rp41
+sS'year'
 p42
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+V2001
 p43
-aS"(1972, u'(?i)\\\\b(storks|stork)\\\\b')"
+sS'species'
 p44
-atp45
-Rp46
+g3
+((lp45
+tp46
+Rp47
 sb.

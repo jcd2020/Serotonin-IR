@@ -1,4 +1,0 @@
-Zareifopoulos, N. and C. Papatheodoropoulos (2016). "Effects of 5-HT-7 receptor ligands on memory and cognition." Neurobiol Learn Mem 136: 204-209.
-
-	The 5-HT7R is the most recently cloned serotonin receptor and thus one the least studied. Many drugs, experimental and in clinical use bind to 5-HT7 with high affinity, though their effects have yet to be clearly elucidated. Its physiological function, though not completely clear, is mostly associated with learning and memory, with both agonists and antagonists possessing subtle procognitive and promnesic properties. We consider it a promising area of research, though still in its infancy, which may one day lead to clinical benefits for patients with various afflictions characterised by cognitive dysfunction, particularily autism spectrum disorder, fragile X syndrome and Alzheimer's disease. (C) 2016 Elsevier Inc. All rights reserved.
-

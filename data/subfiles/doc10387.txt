@@ -1,0 +1,4 @@
+Sleight, A. J., et al. (1990). "In vivo effects of sumatriptan (GR 43175) on extracellular levels of 5-HT in the guinea pig." Neuropharmacology 29(6): 511-513.
+
+	The effect of sumatriptan, a selective 5-HT1D receptor agent, on extracellular levels of 5-HT in the frontal cortex of the guinea pig was measured by intracerebral dialysis. A constant infusion of sumatriptan (10(-8)-10(-7) M) dose-dependently reduced extracellular levels of 5-HT (e.g. 80 +/- 2% decrease from control levels of 5-HT at 10(-7) M). Peripheral administration of sumatriptan (50 micrograms/kg i.p. and 500 micrograms/kg i.p.) had no effect on extracellular levels of 5-HT in the frontal cortex. These data suggest that sumatriptan, when infused into the brain, inhibits the release of 5-HT by stimulating 5-HT autoreceptors and that the putative acute anti-migraine effects of sumatriptan are likely to be mediated by peripheral mechanisms.
+

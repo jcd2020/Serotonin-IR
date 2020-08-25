@@ -2,67 +2,72 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p11
+p8
 g3
-((lp12
-S"(37, u'\\\\baddict')"
-p13
-aS"(9, u'\\\\bdepress')"
-p14
-aS"(35, u'\\\\bstress')"
-p15
-atp16
-Rp17
+((lp9
+S"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht1b'
-p20
+((lp14
+(S'5ht1a'
+p15
+I257
+I263
+tp16
+a(S'5ht1a'
+p17
+I87
+I93
+tp18
+a(S'5ht1a'
+p19
+I2001
+I2007
+tp20
 atp21
 Rp22
-sS'regions'
+sS'raw_text_methods'
 p23
 g3
 ((lp24
-S"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p25
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
 p26
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+aS"(22, u'\\\\bbuspirone')"
 p27
 atp28
 Rp29
-sS'year'
+sS'regions'
 p30
-V2011
-p31
-sS'agonists'
-p32
 g3
-((lp33
-tp34
-Rp35
+((lp31
+tp32
+Rp33
+sS'year'
+p34
+V1994
+p35
 sS'species'
 p36
 g3
 ((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
 atp39
 Rp40

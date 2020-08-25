@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,58 +10,73 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(22, u'\\\\bschizophreni')"
 p9
-atp10
-Rp11
-sS'topics'
+aS"(23, u'\\\\bantipsychotic')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(3, u'\\\\bclinical')"
 p12
-g3
-((lp13
-S"(21, u'\\\\bpain')"
-p14
-aS"(6, u'\\\\bcognit')"
-p15
-aS"(9, u'\\\\bdepress')"
-p16
-aS"(1, u'\\\\bmood')"
-p17
-atp18
-Rp19
+atp13
+Rp14
 sS'receptors'
-p20
+p15
 g3
-((lp21
-S'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
+((lp16
+(S'5ht2c'
+p17
+I1081
+I1087
+tp18
+a(S'5ht7'
+p19
+I1103
+I1108
+tp20
+a(S'5ht6'
+p21
+I1091
+I1096
+tp22
+a(S'5ht1a'
+p23
+I1071
+I1077
+tp24
+a(S'5ht2'
 p25
-g3
-((lp26
-tp27
+I673
+I678
+tp26
+atp27
 Rp28
-sS'year'
+sS'raw_text_methods'
 p29
-V2011
-p30
-sS'agonists'
+g3
+((lp30
+S"(40, u'\\\\bclozapine')"
 p31
+atp32
+Rp33
+sS'regions'
+p34
 g3
-((lp32
-S"(88, u'\\\\bf ?15599')"
-p33
-atp34
-Rp35
+((lp35
+tp36
+Rp37
+sS'year'
+p38
+V2008
+p39
 sS'species'
-p36
+p40
 g3
-((lp37
-tp38
-Rp39
+((lp41
+tp42
+Rp43
 sb.

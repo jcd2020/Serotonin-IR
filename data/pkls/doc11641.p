@@ -2,77 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.AGONIST'
 p5
-aS"(91, u'\\\\bfluoxetine')"
-p6
-aS"(123, u'\\\\bgranisetron')"
-p7
-aS"(129, u'\\\\brenzapride')"
-p8
-aS"(128, u'\\\\bmetoclopramide')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
-S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+atp6
+Rp7
 sS'topics'
-p17
+p8
 g3
-((lp18
-tp19
-Rp20
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(25, u'\\\\bsocial')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(15, u'\\\\bmemory')"
+p13
+aS"(8, u'\\\\banxi')"
+p14
+aS"(4, u'\\\\btreatment')"
+p15
+atp16
+Rp17
 sS'receptors'
-p21
+p18
 g3
-((lp22
-S'5ht3'
-p23
-aS'5ht3b'
-p24
-atp25
-Rp26
-sS'regions'
-p27
+((lp19
+(S'5ht1'
+p20
+I29
+I34
+tp21
+a(S'5ht1a'
+p22
+I1284
+I1290
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp28
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp27
+S"(13, u'\\\\bagonist')"
+p28
+aS"(15, u'\\\\b8ohdpat')"
 p29
-atp30
-Rp31
-sS'year'
-p32
-V1991
+aS"(3, u'\\\\bimmunoreactiv')"
+p30
+atp31
+Rp32
+sS'regions'
 p33
-sS'agonists'
-p34
 g3
-((lp35
-S"(209, u'\\\\bmetoclopramide')"
+((lp34
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p35
+aS"(14, u'(?i)\\\\b(caudals|caudal)\\\\b')"
 p36
-aS"(203, u'\\\\brenzapride')"
-p37
-aS"(192, u'\\\\bquipazine')"
-p38
-atp39
-Rp40
+atp37
+Rp38
+sS'year'
+p39
+V2013
+p40
 sS'species'
 p41
 g3
 ((lp42
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
 atp44
 Rp45

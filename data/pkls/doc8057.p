@@ -2,66 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-tp14
-Rp15
+((lp9
+S"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
 sS'receptors'
-p16
+p13
 g3
-((lp17
-S'5ht2a'
-p18
-atp19
-Rp20
-sS'regions'
+((lp14
+(S'5ht1a'
+p15
+I2234
+I2240
+tp16
+a(S'5ht1'
+p17
+I411
+I417
+tp18
+a(S'5ht1a'
+p19
+I1972
+I1978
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-S"(364, u'(?i)\\\\b(middles|middle)(-|\\\\s+)?(cerebrals|cerebral)(-|\\\\s+)?(arteries|artery)\\\\b')"
+I1510
+I1516
+tp22
+a(S'5ht1a'
 p23
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
-p27
-V2013
-p28
-sS'agonists'
+I411
+I417
+tp24
+a(S'5ht1a'
+p25
+I1842
+I1848
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
 g3
 ((lp30
-tp31
-Rp32
-sS'species'
+S"(46, u'\\\\bspiperone')"
+p31
+aS"(7, u'\\\\bpropranolol')"
+p32
+aS"(9, u'\\\\britanserin')"
 p33
-g3
-((lp34
-S"(3636, u'(?i)\\\\b(martins|martin)\\\\b')"
+aS"(22, u'\\\\bbuspirone')"
+p34
+aS"(12, u'\\\\bantagonist')"
 p35
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-atp38
-Rp39
+atp36
+Rp37
+sS'regions'
+p38
+g3
+((lp39
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p40
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V1996
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

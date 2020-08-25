@@ -2,82 +2,105 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(37, u'\\\\baddict')"
-p14
-aS"(8, u'\\\\blearning')"
-p15
-aS"(3, u'\\\\bsleep')"
-p16
-aS"(4, u'\\\\blocomot')"
-p17
-aS"(9, u'\\\\bdepress')"
-p18
-aS"(1, u'\\\\bmood')"
-p19
-aS"(29, u'\\\\bsex')"
-p20
-aS"(21, u'\\\\bpain')"
-p21
-aS"(20, u'\\\\baggressi')"
-p22
-aS"(6, u'\\\\bcognit')"
-p23
-aS"(10, u'\\\\banxiety')"
-p24
-atp25
-Rp26
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p27
+p14
 g3
-((lp28
-S'5ht1a'
-p29
-atp30
-Rp31
-sS'regions'
+((lp15
+(S'5ht2a'
+p16
+I132
+I138
+tp17
+a(S'5ht2a'
+p18
+I1316
+I1322
+tp19
+a(S'5ht2a'
+p20
+I1948
+I1954
+tp21
+a(S'5ht2c'
+p22
+I1745
+I1751
+tp23
+a(S'5ht2'
+p24
+I132
+I138
+tp25
+a(S'5ht2c'
+p26
+I1327
+I1333
+tp27
+a(S'5ht2a'
+p28
+I1720
+I1726
+tp29
+a(S'5ht2c'
+p30
+I148
+I154
+tp31
+a(S'5ht2'
 p32
-g3
-((lp33
-tp34
+I148
+I154
+tp33
+atp34
 Rp35
-sS'year'
+sS'raw_text_methods'
 p36
-V2005
-p37
-sS'agonists'
+g3
+((lp37
+S"(49, u'\\\\bdoi')"
 p38
-g3
-((lp39
-S"(176, u'\\\\bdom')"
+aS"(54, u'\\\\bautoradiography')"
+p39
+aS"(12, u'\\\\bantagonist')"
 p40
-aS"(149, u'\\\\bmem')"
-p41
-atp42
-Rp43
-sS'species'
-p44
+atp41
+Rp42
+sS'regions'
+p43
 g3
-((lp45
-tp46
-Rp47
+((lp44
+tp45
+Rp46
+sS'year'
+p47
+V1999
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
 sb.

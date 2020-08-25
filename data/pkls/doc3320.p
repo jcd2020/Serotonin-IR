@@ -2,70 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(194, u'\\\\bmethysergide')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(21, u'\\\\bpain')"
-p15
-atp16
-Rp17
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p18
+p14
 g3
-((lp19
-tp20
-Rp21
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I214
+I220
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(13, u'\\\\bagonist')"
 p22
-g3
-((lp23
-S"(270, u'(?i)\\\\b(v1s|v1)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
+p23
+aS"(12, u'\\\\bantagonist')"
 p24
-aS"(376, u'(?i)\\\\b(pias|pia)(-|\\\\s+)?(maters|mater)\\\\b')"
-p25
-aS"(379, u'(?i)\\\\b(subarachnoids|subarachnoid)(-|\\\\s+)?(spaces|space)\\\\b')"
-p26
-atp27
-Rp28
+atp25
+Rp26
+sS'regions'
+p27
+g3
+((lp28
+tp29
+Rp30
 sS'year'
-p29
-V1997
-p30
-sS'agonists'
 p31
-g3
-((lp32
-S"(53, u'\\\\bmethysergide')"
-p33
-atp34
-Rp35
+V1991
+p32
 sS'species'
-p36
+p33
 g3
-((lp37
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+((lp34
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

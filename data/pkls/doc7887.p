@@ -2,60 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-tp14
-Rp15
+((lp10
+tp11
+Rp12
 sS'receptors'
-p16
+p13
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
-p21
+((lp14
+(S'5ht2a'
+p15
+I532
+I538
+tp16
+a(S'5ht2c'
+p17
+I532
+I539
+tp18
+a(S'5ht2a'
+p19
+I469
+I475
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp22
-tp23
-Rp24
-sS'year'
+((lp24
+S"(13, u'\\\\bagonist')"
 p25
-V1994
+aS"(27, u'\\\\blsd')"
 p26
-sS'agonists'
+aS"(50, u'\\\\bm100907')"
 p27
-g3
-((lp28
-S"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(29, u'\\\\bdiethylamide')"
+p28
+aS"(12, u'\\\\bantagonist')"
 p29
 atp30
 Rp31
-sS'species'
+sS'regions'
 p32
 g3
 ((lp33
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p34
-atp35
-Rp36
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
+p38
+V2004
+p39
+sS'species'
+p40
+g3
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

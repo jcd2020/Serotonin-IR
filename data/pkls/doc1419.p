@@ -2,72 +2,102 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(197, u'\\\\bsb ?258741')"
+S'Method.ANTAGONIST'
 p5
-aS"(31, u'\\\\bway ?100635')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(22, u'\\\\bschizophreni')"
 p11
-aS'Method.AGONIST'
+aS"(1, u'\\\\bpatient')"
 p12
-atp13
-Rp14
-sS'topics'
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(33, u'\\\\blocomot')"
+p14
+aS"(5, u'\\\\btherap')"
 p15
-g3
-((lp16
-tp17
-Rp18
+atp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
-S'5ht7'
-p21
-aS'5ht7a'
+((lp19
+(S'5ht1a'
+p20
+I265
+I271
+tp21
+a(S'5ht1a'
 p22
-aS'5ht1a'
-p23
-atp24
-Rp25
-sS'regions'
+I839
+I845
+tp23
+a(S'5ht1a'
+p24
+I1724
+I1730
+tp25
+a(S'5ht1a'
 p26
-g3
-((lp27
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I242
+I253
+tp27
+a(S'5ht1a'
 p28
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
-p32
-V2009
-p33
-sS'agonists'
+I1574
+I1580
+tp29
+a(S'5ht1a'
+p30
+I67
+I78
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
 g3
 ((lp35
-S"(224, u'\\\\bas ?19')"
+S"(13, u'\\\\bagonist')"
 p36
-atp37
-Rp38
-sS'species'
+aS"(41, u'\\\\bhaloperidol')"
+p37
+aS"(51, u'\\\\bway100635')"
+p38
+aS"(5, u'\\\\bmk801')"
 p39
-g3
-((lp40
-tp41
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
 Rp42
+sS'regions'
+p43
+g3
+((lp44
+tp45
+Rp46
+sS'year'
+p47
+V2010
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
 sb.

@@ -2,70 +2,133 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.IMMUNOHISTOCHEMISTRY'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(19, u'\\\\bpsychosis')"
 p12
-g3
-((lp13
-S"(7, u'\\\\bmemory')"
+aS"(23, u'\\\\bantipsychotic')"
+p13
+aS"(4, u'\\\\btreatment')"
 p14
-atp15
-Rp16
+aS"(3, u'\\\\bclinical')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp19
+(S'5ht2'
+p20
+I1839
+I1844
+tp21
+a(S'5ht1'
 p22
-g3
-((lp23
-S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+I1454
+I1459
+tp23
+a(S'5ht2a'
 p24
-atp25
-Rp26
-sS'year'
-p27
-V2013
+I52
+I63
+tp25
+a(S'5ht2'
+p26
+I234
+I239
+tp27
+a(S'5ht2'
 p28
-sS'agonists'
-p29
-g3
-((lp30
-S"(149, u'\\\\bmem')"
-p31
-atp32
-Rp33
-sS'species'
+I810
+I815
+tp29
+a(S'5ht2'
+p30
+I784
+I789
+tp31
+a(S'5ht2'
+p32
+I845
+I850
+tp33
+a(S'5ht2'
 p34
-g3
-((lp35
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+I1416
+I1421
+tp35
+a(S'5ht2'
 p36
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p37
-aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
+I346
+I351
+tp37
+a(S'5ht2a'
 p38
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p39
-atp40
-Rp41
+I210
+I221
+tp39
+a(S'5ht2a'
+p40
+I400
+I406
+tp41
+atp42
+Rp43
+sS'raw_text_methods'
+p44
+g3
+((lp45
+S"(13, u'\\\\bagonist')"
+p46
+aS"(27, u'\\\\blsd')"
+p47
+aS"(49, u'\\\\bdoi')"
+p48
+aS"(29, u'\\\\bdiethylamide')"
+p49
+atp50
+Rp51
+sS'regions'
+p52
+g3
+((lp53
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p54
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p55
+atp56
+Rp57
+sS'year'
+p58
+V2013
+p59
+sS'species'
+p60
+g3
+((lp61
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p62
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p63
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p64
+atp65
+Rp66
 sb.

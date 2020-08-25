@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,64 +10,54 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.ANTAGONIST'
+S"(28, u'\\\\bgastrointestin')"
 p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(29, u'\\\\bsex')"
-p15
-atp16
-Rp17
+atp10
+Rp11
 sS'receptors'
-p18
+p12
 g3
-((lp19
-S'5ht1a'
+((lp13
+(S'5ht1a'
+p14
+I594
+I600
+tp15
+a(S'5ht1a'
+p16
+I394
+I400
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-aS'5ht2a'
-p21
-atp22
-Rp23
+g3
+((lp21
+S"(15, u'\\\\b8ohdpat')"
+p22
+atp23
+Rp24
 sS'regions'
-p24
+p25
 g3
-((lp25
-tp26
-Rp27
+((lp26
+tp27
+Rp28
 sS'year'
-p28
-V2017
 p29
-sS'agonists'
+V1996
 p30
+sS'species'
+p31
 g3
-((lp31
-S"(40, u'\\\\bflibanserin')"
-p32
-aS"(189, u'\\\\bethanol')"
+((lp32
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p33
 atp34
 Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(3191, u'(?i)\\\\b(worlds|world)\\\\b')"
-p38
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p39
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p40
-atp41
-Rp42
 sb.

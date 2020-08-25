@@ -2,70 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(3, u'\\\\bclinical')"
 p10
-aS'Method.AGONIST'
+aS"(4, u'\\\\btreatment')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(30, u'\\\\bparkinsons')"
-p16
-atp17
-Rp18
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1b'
+p17
+I477
+I483
+tp18
+a(S'5ht1'
 p19
+I108
+I113
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(310, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)\\\\b')"
+((lp24
+S"(17, u'\\\\bpet')"
+p25
+aS"(19, u'\\\\bpositron emission tomography')"
 p26
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p27
-atp28
-Rp29
+atp27
+Rp28
+sS'regions'
+p29
+g3
+((lp30
+tp31
+Rp32
 sS'year'
-p30
-V2011
-p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(85, u'\\\\b8 ?oh ?dpat')"
+p33
+V2010
 p34
-atp35
-Rp36
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+((lp36
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p37
+atp38
+Rp39
 sb.

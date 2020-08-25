@@ -2,102 +2,107 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
-p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(193, u'\\\\bmesulergine')"
-p7
-aS"(22, u'\\\\bpropranolol')"
-p8
-aS"(34, u'\\\\bmetergoline')"
-p9
-aS"(124, u'\\\\bondansetron')"
-p10
-aS"(33, u'\\\\byohimbine')"
-p11
-aS"(26, u'\\\\bspiperone')"
-p12
-aS"(194, u'\\\\bmethysergide')"
-p13
-atp14
-Rp15
-sS'methods'
-p16
-g3
-((lp17
 S'Method.ANTAGONIST'
-p18
+p5
 aS'Method.AGONIST'
-p19
-atp20
-Rp21
+p6
+atp7
+Rp8
 sS'topics'
-p22
+p9
 g3
-((lp23
-tp24
-Rp25
+((lp10
+S"(8, u'\\\\banxi')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
+Rp16
 sS'receptors'
-p26
+p17
 g3
-((lp27
-S'5ht2'
-p28
-aS'5ht1d'
+((lp18
+(S'5ht3'
+p19
+I1134
+I1139
+tp20
+a(S'5ht3'
+p21
+I75
+I80
+tp22
+a(S'5ht3'
+p23
+I461
+I466
+tp24
+a(S'5ht3'
+p25
+I1692
+I1697
+tp26
+a(S'5ht3'
+p27
+I1220
+I1225
+tp28
+a(S'5ht3'
 p29
-atp30
-Rp31
-sS'regions'
-p32
+I685
+I690
+tp30
+a(S'5ht3'
+p31
+I518
+I523
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
+p35
 g3
-((lp33
-tp34
-Rp35
-sS'year'
-p36
-V1992
+((lp36
+S"(13, u'\\\\bagonist')"
 p37
-sS'agonists'
+aS"(20, u'\\\\bondansetron')"
 p38
-g3
-((lp39
-S"(96, u'\\\\bsumatriptan')"
-p40
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
-p41
-aS"(165, u'\\\\bmesulergine')"
+aS"(12, u'\\\\bantagonist')"
+p39
+atp40
+Rp41
+sS'regions'
 p42
-aS"(65, u'\\\\brauwolscine')"
-p43
-aS"(82, u'\\\\byohimbine')"
-p44
-aS"(53, u'\\\\bmethysergide')"
-p45
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p46
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p47
-aS"(219, u'\\\\b5 ?ct')"
-p48
-atp49
-Rp50
-sS'species'
-p51
 g3
-((lp52
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+((lp43
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p44
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V2013
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p52
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p53
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p54
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p55
-atp56
-Rp57
+atp54
+Rp55
 sb.

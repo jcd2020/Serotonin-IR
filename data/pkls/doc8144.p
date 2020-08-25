@@ -2,79 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(125, u'\\\\btropisetron')"
+S'Method.STAINING'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(8, u'\\\\banxi')"
 p10
-aS'Method.AGONIST'
+aS"(29, u'\\\\bhyperactiv')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(29, u'\\\\bsex')"
-p16
-atp17
-Rp18
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(33, u'\\\\blocomot')"
+p13
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht1a'
-p21
-aS'5ht3'
+((lp17
+(S'5ht1a'
+p18
+I1621
+I1627
+tp19
+a(S'5ht1a'
+p20
+I1036
+I1042
+tp21
+a(S'5ht1a'
 p22
-aS'5ht2c'
-p23
-aS'5ht2a'
+I2077
+I2083
+tp23
+a(S'5ht1a'
 p24
-atp25
-Rp26
-sS'regions'
-p27
+I32
+I38
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
 g3
-((lp28
-S"(170, u'(?i)\\\\b(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-atp30
+((lp29
+tp30
 Rp31
-sS'year'
+sS'regions'
 p32
-V1998
-p33
-sS'agonists'
+g3
+((lp33
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p34
-g3
-((lp35
-S"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p35
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p36
-aS"(175, u'\\\\bdoi')"
-p37
-atp38
-Rp39
-sS'species'
+atp37
+Rp38
+sS'year'
+p39
+V2020
 p40
+sS'species'
+p41
 g3
-((lp41
-S"(1795, u'(?i)\\\\b(mounts|mount)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp42
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p43
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
 atp45
 Rp46

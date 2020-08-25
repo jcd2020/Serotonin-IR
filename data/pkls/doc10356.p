@@ -2,66 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(15, u'\\\\bmppf')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
-atp11
-Rp12
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-aS"(1, u'\\\\bmood')"
-p16
-atp17
-Rp18
+((lp10
+S"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht5'
-p21
-aS'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
+((lp15
+(S'5ht1a'
+p16
+I1101
+I1107
+tp17
+a(S'5ht3'
+p18
+I911
+I916
+tp19
+a(S'5ht2'
+p20
+I505
+I510
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp26
-tp27
-Rp28
-sS'year'
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+aS"(15, u'\\\\b8ohdpat')"
+p27
+aS"(23, u'\\\\bmdl')"
+p28
+aS"(12, u'\\\\bantagonist')"
 p29
-V2004
-p30
-sS'agonists'
-p31
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp32
-tp33
-Rp34
-sS'species'
+((lp33
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p34
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p35
+atp36
+Rp37
+sS'year'
+p38
+V1993
+p39
+sS'species'
+p40
 g3
-((lp36
-S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p37
-atp38
-Rp39
+((lp41
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p42
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p43
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p44
+atp45
+Rp46
 sb.

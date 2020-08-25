@@ -1,0 +1,90 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(33, u'\\\\blocomot')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht3'
+p16
+I481
+I486
+tp17
+a(S'5ht3'
+p18
+I367
+I372
+tp19
+a(S'5ht3'
+p20
+I1527
+I1532
+tp21
+a(S'5ht3'
+p22
+I52
+I57
+tp23
+a(S'5ht3'
+p24
+I1273
+I1278
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
+g3
+((lp29
+S"(20, u'\\\\bondansetron')"
+p30
+aS"(11, u'\\\\bfluoxetine')"
+p31
+aS"(38, u'\\\\bssri')"
+p32
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p33
+aS"(12, u'\\\\bantagonist')"
+p34
+atp35
+Rp36
+sS'regions'
+p37
+g3
+((lp38
+tp39
+Rp40
+sS'year'
+p41
+V2000
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
+sb.

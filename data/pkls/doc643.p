@@ -2,68 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\bmetergoline')"
+S'Method.ANTAGONIST'
 p5
-aS"(22, u'\\\\bpropranolol')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp10
-S'Method.AGONIST'
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(4, u'\\\\btreatment')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(25, u'\\\\bvasoconstrict')"
+(S'5ht3a'
 p16
-atp17
-Rp18
-sS'receptors'
-p19
-g3
-((lp20
-S'5ht1b'
-p21
-aS'5ht1d'
+I1426
+I1431
+tp17
+a(S'5ht3'
+p18
+I1393
+I1397
+tp19
+a(S'5ht3'
+p20
+I76
+I80
+tp21
+a(S'5ht3'
 p22
-atp23
-Rp24
-sS'regions'
-p25
+I1563
+I1567
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp26
-tp27
-Rp28
-sS'year'
-p29
-V1998
-p30
-sS'agonists'
+((lp27
+S"(12, u'\\\\bantagonist')"
+p28
+atp29
+Rp30
+sS'regions'
 p31
 g3
 ((lp32
-S"(96, u'\\\\bsumatriptan')"
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p33
 atp34
 Rp35
-sS'species'
+sS'year'
 p36
-g3
-((lp37
-S"(610, u'(?i)\\\\b(equines|equine)\\\\b')"
+V2014
+p37
+sS'species'
 p38
-atp39
-Rp40
+g3
+((lp39
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p41
+atp42
+Rp43
 sb.

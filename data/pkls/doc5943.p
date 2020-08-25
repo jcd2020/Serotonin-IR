@@ -2,70 +2,72 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.KNOCKOUT'
-p10
-aS'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-tp16
-Rp17
+((lp8
+S"(24, u'\\\\banxiolytic')"
+p9
+aS"(8, u'\\\\banxi')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht1a'
-p20
+((lp16
+(S'5ht1a'
+p17
+I1160
+I1166
+tp18
+a(S'5ht1a'
+p19
+I1058
+I1064
+tp20
 atp21
 Rp22
-sS'regions'
+sS'raw_text_methods'
 p23
 g3
 ((lp24
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
-p28
-V2006
+tp25
+Rp26
+sS'regions'
+p27
+g3
+((lp28
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(163, u'\\\\bfenfluramine')"
+atp30
+Rp31
+sS'year'
 p32
-atp33
-Rp34
+V2011
+p33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+((lp35
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p36
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p37
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sb.

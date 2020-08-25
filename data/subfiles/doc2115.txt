@@ -1,4 +1,0 @@
-Chen, J., et al. (1991). "ACTIVATION OF 5-HT3 RECEPTOR BY 1-PHENYLBIGUANIDE INCREASES DOPAMINE RELEASE IN THE RAT NUCLEUS-ACCUMBENS." Brain Res 543(2): 354-357.
-
-	The serotonin-3 (5-HT3) agonist 1-phenylbiguanide (0.1-1.0 mM in perfusate) caused a robust, dose-dependent enhancement of extracellular dopamine content in nucleus accumbens as measured by in vivo microdialysis. This action was antagonized by co-perfusion of the 5-HT3 antagonists zacopride and GR38032F (1 mM in perfusate). Similar effects were observed in 5-HT-denervated rats. These findings suggest that there is a potent modulation of dopamine (DA) release in the nucleus accumbens mediated via 5-HT3 receptors, which appear to be located presynaptically on DA terminals of the mesolimbic DA pathway.
-

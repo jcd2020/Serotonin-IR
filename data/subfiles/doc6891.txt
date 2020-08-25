@@ -1,4 +1,0 @@
-Kumar, J. S., et al. (2012). "Comparison of high and low affinity serotonin 1A receptors by PET in vivo in nonhuman primates." J Pharmacol Sci 120(3): 254-257.
-
-	Serotonin (5-HT) 1A receptors exist in high and low affinity states. Agonist ligands bind preferentially to the high affinity state receptors, providing a more functionally relevant measure than antagonist binding. We now report comparison of 5-HT(1A) binding in vivo using both [(1)(1)C]CUMI-101 (agonist) and [(1)(1)C]WAY100635 (antagonist) in nonhuman primates. PET studies show that both tracers bind to known 5-HT(1A) receptor (5-HT(1A)R)-rich regions of baboon brain. The binding (BP(F)) of [(1)(1)C]CUMI-101 was lower on an average of 55% across the regions of interest (ROIs) compared to [(1)(1)C]WAY100635. This ratio is consistent with the in vitro binding data of agonist and antagonist 5-HT(1A)R ligands previously reported.
-

@@ -2,66 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
+p7
+g3
+((lp8
+S"(14, u'\\\\bcogniti')"
+p9
+aS"(13, u'\\\\bantidepress')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(9, u'\\\\bstress')"
+p13
+aS"(20, u'\\\\bmood')"
 p14
-g3
-((lp15
-S"(26, u'\\\\bcardiovascular')"
+aS"(6, u'\\\\baggressi')"
+p15
+aS"(26, u'\\\\bbehav')"
 p16
-atp17
-Rp18
+aS"(8, u'\\\\banxi')"
+p17
+aS"(4, u'\\\\btreatment')"
+p18
+atp19
+Rp20
 sS'receptors'
-p19
-g3
-((lp20
-S'5ht3'
 p21
-atp22
-Rp23
-sS'regions'
-p24
 g3
-((lp25
-S"(2, u'(?i)\\\\b(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+((lp22
+(S'5ht1a'
+p23
+I1515
+I1521
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
+g3
+((lp28
+S"(18, u'\\\\bimaging')"
 p29
-V1998
-p30
-sS'agonists'
-p31
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp32
-tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp33
+tp34
+Rp35
+sS'year'
+p36
+V2011
 p37
-atp38
-Rp39
+sS'species'
+p38
+g3
+((lp39
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p41
+atp42
+Rp43
 sb.

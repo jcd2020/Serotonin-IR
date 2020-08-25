@@ -2,74 +2,113 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(111, u'\\\\bolanzapine')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(25, u'\\\\bsocial')"
+p12
+aS"(2, u'\\\\bdisorder')"
 p13
-g3
-((lp14
-tp15
-Rp16
+aS"(7, u'\\\\bdepressi')"
+p14
+aS"(8, u'\\\\banxi')"
+p15
+aS"(4, u'\\\\btreatment')"
+p16
+atp17
+Rp18
 sS'receptors'
-p17
-g3
-((lp18
-S'5ht2'
 p19
-aS'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
+g3
+((lp20
+(S'5ht3'
+p21
+I495
+I499
+tp22
+a(S'5ht3'
 p23
-g3
-((lp24
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I478
+I482
+tp24
+a(S'5ht3'
 p25
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I597
+I601
+tp26
+a(S'5ht3'
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2003
+I1116
+I1120
+tp28
+a(S'5ht3'
+p29
+I35
+I39
+tp30
+a(S'5ht3'
 p31
-sS'agonists'
-p32
+I2094
+I2098
+tp32
+a(S'5ht3'
+p33
+I1254
+I1258
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
+p37
 g3
-((lp33
-S"(57, u'\\\\bolanzapine')"
-p34
-aS"(149, u'\\\\bmem')"
-p35
-atp36
-Rp37
-sS'species'
-p38
-g3
-((lp39
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+((lp38
+S"(13, u'\\\\bagonist')"
+p39
+aS"(11, u'\\\\bfluoxetine')"
 p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p41
 atp42
 Rp43
+sS'regions'
+p44
+g3
+((lp45
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p46
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p47
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
+p51
+V2016
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p55
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p56
+atp57
+Rp58
 sb.

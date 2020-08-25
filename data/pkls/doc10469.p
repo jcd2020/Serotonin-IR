@@ -2,80 +2,112 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.KNOCKOUT'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-aS"(7, u'\\\\bmemory')"
-p16
-aS"(35, u'\\\\bstress')"
-p17
-aS"(11, u'\\\\banxiolyt')"
-p18
-aS"(6, u'\\\\bcognit')"
-p19
-aS"(10, u'\\\\banxiety')"
-p20
-atp21
-Rp22
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p23
+p14
 g3
-((lp24
-S'5ht7'
-p25
-aS'5ht1a'
+((lp15
+(S'5ht1b'
+p16
+I1928
+I1934
+tp17
+a(S'5ht1b'
+p18
+I1570
+I1576
+tp19
+a(S'5ht1b'
+p20
+I873
+I879
+tp21
+a(S'5ht1b'
+p22
+I32
+I38
+tp23
+a(S'5ht1b'
+p24
+I357
+I363
+tp25
+a(S'5ht1b'
 p26
-atp27
-Rp28
-sS'regions'
-p29
-g3
-((lp30
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p31
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I666
+I672
+tp27
+a(S'5ht1b'
+p28
+I1000
+I1006
+tp29
+a(S'5ht1b'
+p30
+I1472
+I1478
+tp31
+a(S'5ht1b'
 p32
-atp33
-Rp34
+I189
+I195
+tp33
+a(S'5ht1b'
+p34
+I1819
+I1825
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
+p38
+g3
+((lp39
+S"(13, u'\\\\bagonist')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p45
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p46
+atp47
+Rp48
 sS'year'
-p35
-V2017
-p36
-sS'agonists'
-p37
-g3
-((lp38
-S"(149, u'\\\\bmem')"
-p39
-atp40
-Rp41
+p49
+V2002
+p50
 sS'species'
-p42
+p51
 g3
-((lp43
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p44
-atp45
-Rp46
+((lp52
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p53
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p54
+atp55
+Rp56
 sb.

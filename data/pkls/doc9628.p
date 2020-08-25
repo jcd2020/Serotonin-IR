@@ -2,84 +2,98 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(48, u'\\\\btrazodone')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.AGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-aS"(11, u'\\\\banxiolyt')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-atp18
-Rp19
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
+p16
+I1882
+I1888
+tp17
+a(S'5ht2a'
+p18
+I382
+I388
+tp19
+a(S'5ht2a'
 p20
-g3
-((lp21
-S'5ht1a'
+I611
+I617
+tp21
+a(S'5ht2a'
 p22
-aS'5ht1'
-p23
-atp24
-Rp25
-sS'regions'
+I796
+I802
+tp23
+a(S'5ht2a'
+p24
+I1195
+I1201
+tp25
+a(S'5ht2a'
 p26
-g3
-((lp27
-tp28
-Rp29
-sS'year'
+I544
+I550
+tp27
+a(S'5ht2a'
+p28
+I54
+I60
+tp29
+a(S'5ht2a'
 p30
-V2005
-p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(20, u'\\\\bbuspirone')"
+I303
+I309
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
-aS"(155, u'\\\\bmcpp')"
-p35
-aS"(75, u'\\\\btrazodone')"
+g3
+((lp35
+S"(13, u'\\\\bagonist')"
 p36
-aS"(73, u'\\\\btandospirone')"
+aS"(3, u'\\\\bimmunoreactiv')"
 p37
-aS"(149, u'\\\\bmem')"
+aS"(49, u'\\\\bdoi')"
 p38
 atp39
 Rp40
-sS'species'
+sS'regions'
 p41
 g3
 ((lp42
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p43
-aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
-p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+tp43
+Rp44
+sS'year'
 p45
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+V1995
 p46
-atp47
-Rp48
+sS'species'
+p47
+g3
+((lp48
+tp49
+Rp50
 sb.

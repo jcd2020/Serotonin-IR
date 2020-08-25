@@ -2,76 +2,92 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(112, u'\\\\bquetiapine')"
+S'Method.AGONIST'
 p5
-aS"(131, u'\\\\bm1')"
-p6
-aS"(50, u'\\\\bquetiapine')"
-p7
-aS"(111, u'\\\\bolanzapine')"
-p8
-aS"(201, u'\\\\bsertindole')"
-p9
-aS"(180, u'\\\\bsertindole')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
-S'Method.ANTAGONIST'
-p15
-atp16
-Rp17
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(16, u'\\\\blearning')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(9, u'\\\\bstress')"
+p14
+aS"(20, u'\\\\bmood')"
+p15
+aS"(15, u'\\\\bmemory')"
+p16
+aS"(26, u'\\\\bbehav')"
+p17
+aS"(4, u'\\\\btreatment')"
 p18
-g3
-((lp19
-tp20
-Rp21
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
-S'5ht2a'
-p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+((lp22
+(S'5ht2c'
+p23
+I1659
+I1665
+tp24
+a(S'5ht2a'
+p25
+I1659
+I1664
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-atp30
-Rp31
-sS'year'
+g3
+((lp30
+S"(13, u'\\\\bagonist')"
+p31
+aS"(2, u'\\\\blabeling')"
 p32
-V2000
+aS"(5, u'\\\\bmk801')"
 p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(57, u'\\\\bolanzapine')"
+atp34
+Rp35
+sS'regions'
 p36
-aS"(64, u'\\\\bquetiapine')"
-p37
-atp38
-Rp39
-sS'species'
-p40
 g3
-((lp41
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+((lp37
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p38
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p39
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
+p43
+V2017
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p47
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

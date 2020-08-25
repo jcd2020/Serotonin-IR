@@ -1,4 +1,0 @@
-Chennaoui, M., et al. (2005). "Effects of an intense training on functional activity of 5-HT1B receptors in human peripheral blood lymphocytes." Neurosci Lett 382(1-2): 1-4.
-
-	Serotonin (5-HT) is a neurotransmitter and an immune modulator. At the periphery, the serotonergic system appears to possess a regulatory activity via 5-HT1B receptors. The present study investigated the effects of a 5-day military course following 3 weeks of combat training on the functional activity of 5-HTIB/ID receptors in peripheral blood lymphocytes of male soldiers. The results of [S-35] GTP gamma S binding assays showed that h5-HT1B/1D receptors were desensitized after the training program, although serum 5-HT was unchanged. These data Suggest the existence of a control on T cells mediated through h5-HT1B/1D receptors leading cytokine production modulation after a physical training. (c) 2005 Elsevier Ireland Ltd. All rights reserved.
-

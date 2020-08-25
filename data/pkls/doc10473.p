@@ -2,68 +2,86 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-tp10
-Rp11
-sS'topics'
+S"(6, u'\\\\baggressi')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(20, u'\\\\bmood')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
-p14
-atp15
-Rp16
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht2'
-p19
-aS'5ht2a'
+((lp17
+(S'5ht2a'
+p18
+I1867
+I1872
+tp19
+a(S'5ht2a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
+I56
+I67
+tp21
+a(S'5ht2a'
+p22
+I431
+I436
+tp23
+a(S'5ht2a'
+p24
+I1699
+I1704
 tp25
-Rp26
-sS'year'
-p27
-V2016
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-sS'agonists'
-p29
 g3
-((lp30
-tp31
-Rp32
-sS'species'
-p33
+((lp29
+S"(1, u'\\\\bneuroimag')"
+p30
+aS"(17, u'\\\\bpet')"
+p31
+atp32
+Rp33
+sS'regions'
+p34
 g3
-((lp34
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
-p35
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp35
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p36
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-atp39
-Rp40
+atp37
+Rp38
+sS'year'
+p39
+V2010
+p40
+sS'species'
+p41
+g3
+((lp42
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p43
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p44
+atp45
+Rp46
 sb.

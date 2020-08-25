@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,66 +10,128 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(35, u'\\\\bstress')"
-p15
-atp16
-Rp17
+tp9
+Rp10
 sS'receptors'
-p18
+p11
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp12
+(S'5ht1b'
+p13
+I919
+I925
+tp14
+a(S'5ht1b'
+p15
+I850
+I856
+tp16
+a(S'5ht1b'
+p17
+I259
+I265
+tp18
+a(S'5ht1d'
+p19
+I1829
+I1835
+tp20
+a(S'5ht1d'
+p21
+I861
+I867
+tp22
+a(S'5ht1b'
 p23
-g3
-((lp24
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I2102
+I2108
+tp24
+a(S'5ht1d'
 p25
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+I74
+I80
+tp26
+a(S'5ht1d'
 p27
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+I270
+I276
+tp28
+a(S'5ht1b'
+p29
+I1394
+I1400
+tp30
+a(S'5ht1d'
 p31
-V2004
-p32
-sS'agonists'
+I1155
+I1161
+tp32
+a(S'5ht1d'
 p33
-g3
-((lp34
-tp35
-Rp36
-sS'species'
+I2113
+I2119
+tp34
+a(S'5ht1d'
+p35
+I1394
+I1402
+tp36
+a(S'5ht1b'
 p37
-g3
-((lp38
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+I1745
+I1751
+tp38
+a(S'5ht1b'
 p39
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+I63
+I69
+tp40
+atp41
+Rp42
+sS'raw_text_methods'
+p43
+g3
+((lp44
+S"(53, u'\\\\bketanserin')"
+p45
+aS"(54, u'\\\\bautoradiography')"
+p46
+atp47
+Rp48
+sS'regions'
+p49
+g3
+((lp50
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p51
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p52
+aS"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p53
+aS"(7, u'(?i)\\\\b(entorhinals|entorhinal)\\\\b')"
+p54
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p55
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p56
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p57
+atp58
+Rp59
+sS'year'
+p60
+V1998
+p61
+sS'species'
+p62
+g3
+((lp63
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p64
+atp65
+Rp66
 sb.

@@ -2,82 +2,61 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(111, u'\\\\bolanzapine')"
-p5
-aS"(58, u'\\\\bhaloperidol')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.PET'
-p11
-atp12
-Rp13
+p5
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-S"(15, u'\\\\bschizophreni')"
-p16
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+atp11
+Rp12
+sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1'
+p15
+I445
+I450
+tp16
 atp17
 Rp18
-sS'receptors'
+sS'raw_text_methods'
 p19
 g3
 ((lp20
-S'5ht2a'
+S"(17, u'\\\\bpet')"
 p21
-atp22
-Rp23
+aS"(19, u'\\\\bpositron emission tomography')"
+p22
+atp23
+Rp24
 sS'regions'
-p24
+p25
 g3
-((lp25
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p26
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+((lp26
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p27
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p28
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p29
-aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p30
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p31
-atp32
-Rp33
+atp28
+Rp29
 sS'year'
-p34
-V2005
-p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(57, u'\\\\bolanzapine')"
-p38
-aS"(43, u'\\\\bhaloperidol')"
-p39
-atp40
-Rp41
+p30
+V2009
+p31
 sS'species'
-p42
+p32
 g3
-((lp43
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p44
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p45
-atp46
-Rp47
+((lp33
+tp34
+Rp35
 sb.

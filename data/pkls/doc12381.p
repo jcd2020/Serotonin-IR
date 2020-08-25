@@ -2,80 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(112, u'\\\\bquetiapine')"
+S'Method.STIMULATION'
 p5
-aS"(31, u'\\\\bway ?100635')"
+aS'Method.ANTAGONIST'
 p6
-aS"(59, u'\\\\bchlorpromazine')"
-p7
-aS"(113, u'\\\\brisperidone')"
-p8
-aS"(50, u'\\\\bquetiapine')"
-p9
-aS"(58, u'\\\\bhaloperidol')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
-S'Method.ANTAGONIST'
-p15
-aS'Method.AGONIST'
-p16
-atp17
-Rp18
+atp7
+Rp8
 sS'topics'
-p19
+p9
 g3
-((lp20
-S"(15, u'\\\\bschizophreni')"
-p21
-atp22
-Rp23
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(35, u'\\\\bnocicept')"
+p12
+atp13
+Rp14
 sS'receptors'
-p24
+p15
 g3
-((lp25
-S'5ht1a'
-p26
-atp27
-Rp28
-sS'regions'
+((lp16
+(S'5ht3'
+p17
+I1874
+I1879
+tp18
+a(S'5ht1'
+p19
+I2133
+I2138
+tp20
+a(S'5ht2'
+p21
+I1823
+I1828
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(23, u'\\\\bmdl')"
+p27
+aS"(26, u'\\\\bmdl72222')"
+p28
+aS"(12, u'\\\\bantagonist')"
 p29
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp30
-tp31
-Rp32
+((lp33
+tp34
+Rp35
 sS'year'
-p33
-V2004
-p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(64, u'\\\\bquetiapine')"
+p36
+V1991
 p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p38
-aS"(43, u'\\\\bhaloperidol')"
-p39
-atp40
-Rp41
 sS'species'
-p42
+p38
 g3
-((lp43
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p44
-atp45
-Rp46
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

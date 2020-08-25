@@ -2,82 +2,150 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(194, u'\\\\bmethysergide')"
-p5
-aS"(117, u'\\\\bketanserin')"
-p6
-aS"(22, u'\\\\bpropranolol')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
+p5
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p6
+atp7
+Rp8
 sS'topics'
-p16
+p9
 g3
-((lp17
-tp18
-Rp19
+((lp10
+S"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2'
+p16
+I1504
+I1509
+tp17
+a(S'5ht2'
+p18
+I2007
+I2012
+tp19
+a(S'5ht2'
 p20
-g3
-((lp21
-S'5ht1a'
+I776
+I781
+tp21
+a(S'5ht2'
 p22
-aS'5ht2c'
-p23
-aS'5ht2a'
+I1797
+I1802
+tp23
+a(S'5ht2'
 p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
+I2292
+I2297
+tp25
+a(S'5ht2'
+p26
+I58
+I63
+tp27
+a(S'5ht3'
+p28
+I1236
+I1241
+tp29
+a(S'5ht2'
+p30
+I510
+I515
+tp31
+a(S'5ht2'
 p32
-V1998
-p33
-sS'agonists'
+I2148
+I2153
+tp33
+a(S'5ht2'
 p34
-g3
-((lp35
-S"(155, u'\\\\bmcpp')"
+I1603
+I1608
+tp35
+a(S'5ht2'
 p36
-aS"(53, u'\\\\bmethysergide')"
-p37
-aS"(149, u'\\\\bmem')"
+I1085
+I1090
+tp37
+a(S'5ht5'
 p38
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p39
-aS"(175, u'\\\\bdoi')"
+I185
+I195
+tp39
+a(S'5ht2'
 p40
-atp41
-Rp42
-sS'species'
-p43
+I2414
+I2419
+tp41
+a(S'5ht2'
+p42
+I1460
+I1465
+tp43
+a(S'5ht2'
+p44
+I676
+I681
+tp45
+a(S'5ht2'
+p46
+I963
+I968
+tp47
+atp48
+Rp49
+sS'raw_text_methods'
+p50
 g3
-((lp44
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-atp46
-Rp47
+((lp51
+S"(53, u'\\\\bketanserin')"
+p52
+aS"(33, u'\\\\bmcpp')"
+p53
+aS"(29, u'\\\\bdiethylamide')"
+p54
+aS"(15, u'\\\\b8ohdpat')"
+p55
+aS"(13, u'\\\\bagonist')"
+p56
+aS"(49, u'\\\\bdoi')"
+p57
+aS"(46, u'\\\\bspiperone')"
+p58
+aS"(12, u'\\\\bantagonist')"
+p59
+atp60
+Rp61
+sS'regions'
+p62
+g3
+((lp63
+tp64
+Rp65
+sS'year'
+p66
+V1993
+p67
+sS'species'
+p68
+g3
+((lp69
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p70
+atp71
+Rp72
 sb.

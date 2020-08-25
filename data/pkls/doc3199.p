@@ -2,31 +2,33 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(49, u'\\\\bnefazodone')"
+S'Method.PET'
 p5
-aS"(96, u'\\\\brs ?102221')"
+aS'Method.KNOCKOUT'
 p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+aS'Method.AGONIST'
+p7
+atp8
+Rp9
 sS'topics'
-p14
+p10
 g3
-((lp15
-S"(9, u'\\\\bdepress')"
+((lp11
+S"(14, u'\\\\bcogniti')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(15, u'\\\\bmemory')"
+p14
+aS"(25, u'\\\\bsocial')"
+p15
+aS"(2, u'\\\\bdisorder')"
 p16
 atp17
 Rp18
@@ -34,36 +36,43 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht2c'
+(S'5ht1a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I1539
+I1545
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp25
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+aS"(15, u'\\\\b8ohdpat')"
+p28
+aS"(17, u'\\\\bpet')"
 p29
-V2005
-p30
-sS'agonists'
-p31
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp32
-S"(56, u'\\\\bnefazodone')"
-p33
-atp34
+((lp33
+tp34
 Rp35
-sS'species'
+sS'year'
 p36
-g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2017
+p37
+sS'species'
 p38
-atp39
-Rp40
+g3
+((lp39
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p41
+atp42
+Rp43
 sb.

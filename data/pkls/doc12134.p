@@ -1,0 +1,83 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(29, u'\\\\bhyperactiv')"
+p10
+aS"(33, u'\\\\blocomot')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht3'
+p16
+I97
+I102
+tp17
+a(S'5ht3'
+p18
+I254
+I259
+tp19
+a(S'5ht3'
+p20
+I1349
+I1354
+tp21
+a(S'5ht3'
+p22
+I512
+I517
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+S"(12, u'\\\\bantagonist')"
+p28
+aS"(23, u'\\\\bmdl')"
+p29
+aS"(10, u'\\\\bmethamphetamine')"
+p30
+atp31
+Rp32
+sS'regions'
+p33
+g3
+((lp34
+tp35
+Rp36
+sS'year'
+p37
+V2008
+p38
+sS'species'
+p39
+g3
+((lp40
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p41
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p42
+atp43
+Rp44
+sb.

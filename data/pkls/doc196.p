@@ -2,74 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\bzacopride')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(33, u'\\\\blocomot')"
 p10
-aS'Method.AGONIST'
+aS"(26, u'\\\\bbehav')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(10, u'\\\\bocd')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(2, u'\\\\bdisorder')"
 p14
-g3
-((lp15
-S"(24, u'\\\\banalgesi')"
-p16
-atp17
-Rp18
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1a'
 p19
+I251
+I257
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp20
-S'5ht3a'
-p21
-aS'5ht3'
-p22
-atp23
-Rp24
-sS'regions'
+((lp24
+S"(13, u'\\\\bagonist')"
 p25
-g3
-((lp26
-tp27
+aS"(15, u'\\\\b8ohdpat')"
+p26
+atp27
 Rp28
-sS'year'
+sS'regions'
 p29
-V1991
-p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(208, u'\\\\bzacopride')"
+((lp30
+tp31
+Rp32
+sS'year'
 p33
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+V2013
 p34
-atp35
-Rp36
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p39
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p41
-atp42
-Rp43
+((lp36
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p37
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

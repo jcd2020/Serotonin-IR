@@ -2,78 +2,83 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(87, u'\\\\bly ?272015')"
+S'Method.ANTAGONIST'
 p5
-aS"(117, u'\\\\bketanserin')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-tp17
-Rp18
+tp11
+Rp12
 sS'receptors'
-p19
+p13
 g3
-((lp20
-S'5ht2c'
+((lp14
+(S'5ht1a'
+p15
+I1929
+I1935
+tp16
+a(S'5ht1a'
+p17
+I153
+I159
+tp18
+a(S'5ht1a'
+p19
+I1053
+I1059
+tp20
+a(S'5ht1a'
 p21
-aS'5ht2b'
-p22
-aS'5ht2'
+I1471
+I1477
+tp22
+a(S'5ht1a'
 p23
-aS'5ht2a'
-p24
+I290
+I296
+tp24
 atp25
 Rp26
-sS'regions'
+sS'raw_text_methods'
 p27
 g3
 ((lp28
-S"(13, u'(?i)\\\\b(b(\\xf6|oe|[a-z])tzingers|b(\\xf6|oe|[a-z])tzinger)(-|\\\\s+)?(complexes|complex)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p29
-aS"(12, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(b(\\xf6|oe|[a-z])tzingers|b(\\xf6|oe|[a-z])tzinger)(-|\\\\s+)?(complexes|complex)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
 p30
-atp31
-Rp32
-sS'year'
-p33
-V2006
+aS"(12, u'\\\\bantagonist')"
+p31
+atp32
+Rp33
+sS'regions'
 p34
-sS'agonists'
-p35
 g3
-((lp36
-S"(140, u'\\\\bbw ?723c86')"
-p37
-atp38
-Rp39
+((lp35
+tp36
+Rp37
+sS'year'
+p38
+V1990
+p39
 sS'species'
 p40
 g3
 ((lp41
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sb.

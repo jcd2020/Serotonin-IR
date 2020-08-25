@@ -2,27 +2,29 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(10, u'\\\\banxiety')"
+((lp9
+S"(6, u'\\\\baggressi')"
+p10
+aS"(18, u'\\\\bavoidan')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(20, u'\\\\bmood')"
 p14
 atp15
 Rp16
@@ -30,40 +32,40 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht1a'
+(S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p24
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I363
+I369
+tp20
+a(S'5ht1a'
+p21
+I1047
+I1053
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-atp26
-Rp27
-sS'year'
-p28
-V1999
-p29
-sS'agonists'
+g3
+((lp26
+S"(19, u'\\\\bpositron emission tomography')"
+p27
+atp28
+Rp29
+sS'regions'
 p30
 g3
 ((lp31
-S"(39, u'\\\\bflesinoxan')"
-p32
-atp33
-Rp34
-sS'species'
+tp32
+Rp33
+sS'year'
+p34
+V2011
 p35
+sS'species'
+p36
 g3
-((lp36
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p37
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p38
-atp39
-Rp40
+((lp37
+tp38
+Rp39
 sb.

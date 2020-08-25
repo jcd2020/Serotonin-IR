@@ -1,0 +1,4 @@
+Harris, R. N., et al. (2010). "Highly potent, non-basic 5-HT6 ligands. Site mutagenesis evidence for a second binding mode at 5-HT6 for antagonism." Bioorganic & Medicinal Chemistry Letters 20(11): 3436-3440.
+
+	A series of 5-HT6 ligands derived from (R)-1-(amino) methyl-6-(phenyl) sulfonyltetralin was prepared that yielded several non-basic analogs having sub-nanomolar affinity. Ligand structure-activity relationships, receptor point mutation studies, and molecular modeling of these novel ligands all combined to reveal a new alternative binding mode to 5-HT6 for antagonism. (C) 2010 Published by Elsevier Ltd.
+

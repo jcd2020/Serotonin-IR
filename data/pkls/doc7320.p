@@ -2,78 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(144, u'\\\\bgr ?113808')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(33, u'\\\\balzheimers')"
+(S'5ht5'
 p16
-aS"(8, u'\\\\blearning')"
-p17
-aS"(7, u'\\\\bmemory')"
+I297
+I307
+tp17
+a(S'5ht1a'
 p18
-atp19
-Rp20
-sS'receptors'
-p21
+I988
+I994
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
 g3
-((lp22
-S'5ht4a'
-p23
-aS'5ht4'
+((lp23
+S"(13, u'\\\\bagonist')"
 p24
-atp25
-Rp26
+aS"(51, u'\\\\bway100635')"
+p25
+aS"(12, u'\\\\bantagonist')"
+p26
+atp27
+Rp28
 sS'regions'
-p27
+p29
 g3
-((lp28
-tp29
-Rp30
-sS'year'
+((lp30
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p31
-V2003
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p32
-sS'agonists'
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
 p33
-g3
-((lp34
-S"(149, u'\\\\bmem')"
-p35
-aS"(202, u'\\\\bprucalopride')"
+atp34
+Rp35
+sS'year'
 p36
-atp37
-Rp38
+V1998
+p37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p41
-aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
-p42
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p43
-atp44
-Rp45
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

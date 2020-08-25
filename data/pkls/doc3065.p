@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,60 +10,49 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(1, u'\\\\bpatient')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
-p14
-atp15
-Rp16
+aS"(3, u'\\\\bclinical')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht1a'
-p19
-aS'5ht2'
+((lp15
+(S'5ht2a'
+p16
+I1080
+I1086
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-atp21
-Rp22
+g3
+((lp21
+tp22
+Rp23
 sS'regions'
-p23
+p24
 g3
-((lp24
-S"(178, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p25
-aS"(77, u'(?i)\\\\b(cerebellars|cerebellar)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
-p27
-atp28
-Rp29
+((lp25
+tp26
+Rp27
 sS'year'
-p30
-V2003
-p31
-sS'agonists'
-p32
-g3
-((lp33
-tp34
-Rp35
+p28
+V2019
+p29
 sS'species'
-p36
+p30
 g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+((lp31
+tp32
+Rp33
 sb.

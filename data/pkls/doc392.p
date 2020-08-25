@@ -2,66 +2,127 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+aS'Method.AGONIST'
 p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+atp8
+Rp9
 sS'topics'
+p10
+g3
+((lp11
+S"(7, u'\\\\bdepressi')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
+aS"(3, u'\\\\bclinical')"
+p13
+aS"(13, u'\\\\bantidepress')"
 p14
-aS"(16, u'\\\\bfeed')"
+aS"(4, u'\\\\btreatment')"
 p15
-atp16
-Rp17
+aS"(2, u'\\\\bdisorder')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp20
+(S'5ht3'
+p21
+I1563
+I1568
+tp22
+a(S'5ht3'
 p23
-g3
-((lp24
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1636
+I1641
+tp24
+a(S'5ht1a'
 p25
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+I1458
+I1464
+tp26
+a(S'5ht1b'
+p27
+I631
+I637
+tp28
+a(S'5ht1a'
 p29
-V1996
-p30
-sS'agonists'
+I1142
+I1148
+tp30
+a(S'5ht5'
 p31
-g3
-((lp32
-tp33
-Rp34
-sS'species'
+I370
+I380
+tp32
+a(S'5ht3'
+p33
+I695
+I700
+tp34
+a(S'5ht1'
 p35
-g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I631
+I637
+tp36
+a(S'5ht1a'
 p37
-atp38
-Rp39
+I621
+I627
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
+p41
+g3
+((lp42
+S"(17, u'\\\\bpet')"
+p43
+aS"(38, u'\\\\bssri')"
+p44
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p45
+aS"(12, u'\\\\bantagonist')"
+p46
+atp47
+Rp48
+sS'regions'
+p49
+g3
+((lp50
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p51
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p52
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p53
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p54
+atp55
+Rp56
+sS'year'
+p57
+V2018
+p58
+sS'species'
+p59
+g3
+((lp60
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p61
+aS"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p62
+atp63
+Rp64
 sb.

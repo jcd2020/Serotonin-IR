@@ -2,39 +2,40 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-aS'Method.IMMUNOHISTOCHEMISTRY'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(15, u'\\\\bschizophreni')"
+(S'5ht2b'
 p15
-aS"(6, u'\\\\bcognit')"
-p16
+I1243
+I1249
+tp16
 atp17
 Rp18
-sS'receptors'
+sS'raw_text_methods'
 p19
 g3
 ((lp20
-S'5ht2c'
+S"(12, u'\\\\bantagonist')"
 p21
 atp22
 Rp23
@@ -46,20 +47,16 @@ tp26
 Rp27
 sS'year'
 p28
-V2011
+V2016
 p29
-sS'agonists'
+sS'species'
 p30
 g3
 ((lp31
-tp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p36
-atp37
-Rp38
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p32
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p33
+atp34
+Rp35
 sb.

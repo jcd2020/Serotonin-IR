@@ -2,80 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(111, u'\\\\bolanzapine')"
+S'Method.AGONIST'
 p5
-aS"(110, u'\\\\bclozapine')"
-p6
-aS"(133, u'\\\\bmianserin')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+tp10
+Rp11
 sS'receptors'
-p19
+p12
 g3
-((lp20
-S'5ht2c'
-p21
-aS'5ht2a'
+((lp13
+(S'5ht1b'
+p14
+I887
+I893
+tp15
+a(S'5ht1b'
+p16
+I86
+I92
+tp17
+a(S'5ht1b'
+p18
+I291
+I297
+tp19
+a(S'5ht1b'
+p20
+I1788
+I1794
+tp21
+a(S'5ht1b'
 p22
-atp23
-Rp24
-sS'regions'
-p25
+I1067
+I1073
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp26
-S"(105, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(reticulatas|reticulata)\\\\b')"
-p27
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+((lp27
+S"(13, u'\\\\bagonist')"
 p28
-aS"(222, u'(?i)\\\\b(neostriatums|neostriatum)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
-p32
-V2003
+atp29
+Rp30
+sS'regions'
+p31
+g3
+((lp32
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p33
-sS'agonists'
+aS"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p34
-g3
-((lp35
-S"(57, u'\\\\bolanzapine')"
-p36
-aS"(23, u'\\\\bclozapine')"
+atp35
+Rp36
+sS'year'
 p37
-atp38
-Rp39
+V2000
+p38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p44
-atp45
-Rp46
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

@@ -2,82 +2,72 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-tp14
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+atp14
 Rp15
 sS'receptors'
 p16
 g3
 ((lp17
-S'5ht1c'
+(S'5ht1a'
 p18
-aS'5ht1b'
-p19
-aS'5ht1a'
+I1468
+I1474
+tp19
+a(S'5ht1a'
 p20
-aS'5ht2b'
-p21
-aS'5ht1e'
-p22
-aS'5ht1'
-p23
-aS'5ht1d'
+I1012
+I1018
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-aS'5ht3'
-p25
-atp26
-Rp27
-sS'regions'
+g3
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+aS"(15, u'\\\\b8ohdpat')"
+p27
+aS"(12, u'\\\\bantagonist')"
 p28
+atp29
+Rp30
+sS'regions'
+p31
 g3
-((lp29
-S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p30
-atp31
-Rp32
+((lp32
+tp33
+Rp34
 sS'year'
-p33
-V1993
-p34
-sS'agonists'
 p35
-g3
-((lp36
-S"(96, u'\\\\bsumatriptan')"
-p37
-aS"(114, u'\\\\bl ?694247')"
-p38
-atp39
-Rp40
+V2006
+p36
 sS'species'
-p41
+p37
 g3
-((lp42
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p43
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p44
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p45
-atp46
-Rp47
+((lp38
+tp39
+Rp40
 sb.

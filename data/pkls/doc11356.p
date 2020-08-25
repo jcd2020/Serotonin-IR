@@ -1,0 +1,76 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
+p16
+I2152
+I2158
+tp17
+a(S'5ht2a'
+p18
+I241
+I247
+tp19
+a(S'5ht2a'
+p20
+I55
+I61
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+S"(17, u'\\\\bpet')"
+p26
+aS"(18, u'\\\\bimaging')"
+p27
+atp28
+Rp29
+sS'regions'
+p30
+g3
+((lp31
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p32
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
+p36
+V2000
+p37
+sS'species'
+p38
+g3
+((lp39
+tp40
+Rp41
+sb.

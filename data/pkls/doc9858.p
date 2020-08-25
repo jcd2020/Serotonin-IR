@@ -1,0 +1,135 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1d'
+p15
+I1060
+I1066
+tp16
+a(S'5ht1b'
+p17
+I194
+I200
+tp18
+a(S'5ht1b'
+p19
+I1273
+I1279
+tp20
+a(S'5ht1b'
+p21
+I1707
+I1713
+tp22
+a(S'5ht3'
+p23
+I1118
+I1123
+tp24
+a(S'5ht1b'
+p25
+I455
+I461
+tp26
+a(S'5ht1b'
+p27
+I1446
+I1452
+tp28
+a(S'5ht1b'
+p29
+I28
+I34
+tp30
+a(S'5ht2'
+p31
+I1054
+I1059
+tp32
+a(S'5ht1a'
+p33
+I781
+I787
+tp34
+a(S'5ht3'
+p35
+I880
+I885
+tp36
+a(S'5ht2'
+p37
+I820
+I825
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
+p41
+g3
+((lp42
+S"(53, u'\\\\bketanserin')"
+p43
+aS"(15, u'\\\\b8ohdpat')"
+p44
+aS"(20, u'\\\\bondansetron')"
+p45
+aS"(44, u'\\\\btetrodotoxin')"
+p46
+aS"(13, u'\\\\bagonist')"
+p47
+aS"(30, u'\\\\b2methyl')"
+p48
+aS"(49, u'\\\\bdoi')"
+p49
+aS"(6, u'\\\\bgr127935')"
+p50
+aS"(45, u'\\\\bmetergoline')"
+p51
+aS"(12, u'\\\\bantagonist')"
+p52
+atp53
+Rp54
+sS'regions'
+p55
+g3
+((lp56
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p57
+atp58
+Rp59
+sS'year'
+p60
+V1999
+p61
+sS'species'
+p62
+g3
+((lp63
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p64
+atp65
+Rp66
+sb.

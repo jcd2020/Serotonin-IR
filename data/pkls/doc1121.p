@@ -2,70 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(119, u'\\\\britanserin')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(13, u'\\\\bantidepress')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(4, u'\\\\blocomot')"
+(S'5ht1b'
 p16
-atp17
-Rp18
-sS'receptors'
-p19
-g3
-((lp20
-S'5ht2'
-p21
+I877
+I883
+tp17
+a(S'5ht3'
+p18
+I523
+I528
+tp19
+a(S'5ht1'
+p20
+I425
+I430
+tp21
 atp22
 Rp23
-sS'regions'
+sS'raw_text_methods'
 p24
 g3
 ((lp25
-tp26
-Rp27
-sS'year'
+S"(13, u'\\\\bagonist')"
+p26
+aS"(46, u'\\\\bspiperone')"
+p27
+aS"(23, u'\\\\bmdl')"
 p28
-V2003
+aS"(53, u'\\\\bketanserin')"
 p29
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p30
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp31
-tp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p36
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p37
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+((lp34
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
 p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V1989
 p39
-atp40
-Rp41
+sS'species'
+p40
+g3
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

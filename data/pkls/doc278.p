@@ -2,62 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(125, u'\\\\btropisetron')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(7, u'\\\\bdepressi')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(35, u'\\\\bstress')"
-p15
-aS"(28, u'\\\\bemesis')"
-p16
-atp17
-Rp18
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1b'
+p17
+I521
+I527
+tp18
+a(S'5ht1b'
 p19
-g3
-((lp20
-S'5ht3'
+I258
+I269
+tp20
+a(S'5ht1b'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
+I1639
+I1645
+tp22
+a(S'5ht1b'
+p23
+I1290
+I1296
+tp24
+a(S'5ht1b'
+p25
+I272
+I278
 tp26
-Rp27
-sS'year'
-p28
-V2017
-p29
-sS'agonists'
-p30
+a(S'5ht1b'
+p27
+I83
+I89
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
 g3
-((lp31
-tp32
-Rp33
-sS'species'
+((lp32
+S"(37, u'\\\\bpiperazine')"
+p33
+aS"(17, u'\\\\bpet')"
 p34
+aS"(19, u'\\\\bpositron emission tomography')"
+p35
+aS"(18, u'\\\\bimaging')"
+p36
+atp37
+Rp38
+sS'regions'
+p39
 g3
-((lp35
-tp36
-Rp37
+((lp40
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V2011
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p48
+atp49
+Rp50
 sb.

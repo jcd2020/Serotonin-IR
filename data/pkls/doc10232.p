@@ -2,78 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(133, u'\\\\bmianserin')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(5, u'\\\\btherap')"
 p10
-aS'Method.AGONIST'
+aS"(23, u'\\\\bantipsychotic')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(3, u'\\\\bclinical')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2c'
 p18
-g3
-((lp19
-S'5ht2c'
+I225
+I231
+tp19
+a(S'5ht2c'
 p20
-aS'5ht2'
-p21
-aS'5ht2a'
+I1177
+I1183
+tp21
+a(S'5ht2c'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(390, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)\\\\b')"
-p27
-aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
+I1276
+I1282
+tp23
+a(S'5ht2c'
+p24
+I1924
+I1930
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p29
-aS"(222, u'(?i)\\\\b(neostriatums|neostriatum)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
-p33
-V1995
-p34
-sS'agonists'
-p35
 g3
-((lp36
-S"(155, u'\\\\bmcpp')"
-p37
-atp38
-Rp39
+((lp29
+S"(40, u'\\\\bclozapine')"
+p30
+aS"(12, u'\\\\bantagonist')"
+p31
+atp32
+Rp33
+sS'regions'
+p34
+g3
+((lp35
+tp36
+Rp37
+sS'year'
+p38
+V2005
+p39
 sS'species'
 p40
 g3
 ((lp41
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sb.

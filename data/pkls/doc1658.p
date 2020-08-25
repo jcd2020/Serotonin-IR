@@ -2,82 +2,108 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(99, u'\\\\bsb ?242084')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(3, u'\\\\bclinical')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(31, u'\\\\bobesity')"
+(S'5ht2c'
 p16
-aS"(9, u'\\\\bdepress')"
-p17
-aS"(30, u'\\\\bparkinsons')"
+I210
+I216
+tp17
+a(S'5ht2c'
 p18
-atp19
-Rp20
-sS'receptors'
-p21
-g3
-((lp22
-S'5ht2c'
-p23
-atp24
-Rp25
-sS'regions'
+I818
+I824
+tp19
+a(S'5ht2c'
+p20
+I645
+I651
+tp21
+a(S'5ht2c'
+p22
+I1349
+I1355
+tp23
+a(S'5ht2a'
+p24
+I376
+I382
+tp25
+a(S'5ht2c'
 p26
-g3
-((lp27
-S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+I133
+I139
+tp27
+a(S'5ht2c'
 p28
-aS"(105, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(reticulatas|reticulata)\\\\b')"
-p29
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I918
+I924
+tp29
+a(S'5ht2b'
 p30
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p31
-aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
+I979
+I985
+tp31
+a(S'5ht2a'
 p32
-atp33
-Rp34
-sS'year'
-p35
-V2014
-p36
-sS'agonists'
-p37
+I966
+I972
+tp33
+a(S'5ht2b'
+p34
+I389
+I395
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
+p38
 g3
-((lp38
-tp39
-Rp40
-sS'species'
+((lp39
+S"(13, u'\\\\bagonist')"
+p40
+aS"(12, u'\\\\bantagonist')"
 p41
-g3
-((lp42
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p43
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+atp42
+Rp43
+sS'regions'
 p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-atp46
+g3
+((lp45
+tp46
 Rp47
+sS'year'
+p48
+V2017
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

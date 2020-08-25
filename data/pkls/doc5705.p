@@ -2,63 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p11
+p8
 g3
-((lp12
-tp13
-Rp14
+((lp9
+tp10
+Rp11
 sS'receptors'
-p15
+p12
 g3
-((lp16
-S'5ht5a'
-p17
+((lp13
+(S'5ht1a'
+p14
+I881
+I887
+tp15
+a(S'5ht1a'
+p16
+I327
+I333
+tp17
 atp18
 Rp19
-sS'regions'
+sS'raw_text_methods'
 p20
 g3
 ((lp21
-tp22
-Rp23
-sS'year'
-p24
-V1998
-p25
-sS'agonists'
+S"(13, u'\\\\bagonist')"
+p22
+aS"(15, u'\\\\b8ohdpat')"
+p23
+atp24
+Rp25
+sS'regions'
 p26
 g3
 ((lp27
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p28
-aS"(176, u'\\\\bdom')"
+aS"(7, u'(?i)\\\\b(entorhinals|entorhinal)\\\\b')"
 p29
-aS"(219, u'\\\\b5 ?ct')"
-p30
-atp31
-Rp32
-sS'species'
+atp30
+Rp31
+sS'year'
+p32
+V1989
 p33
+sS'species'
+p34
 g3
-((lp34
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p35
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+((lp35
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
 atp37
 Rp38

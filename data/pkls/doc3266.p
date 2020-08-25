@@ -2,74 +2,88 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(25, u'\\\\bsocial')"
 p12
-g3
-((lp13
-tp14
-Rp15
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(8, u'\\\\banxi')"
+p14
+aS"(4, u'\\\\btreatment')"
+p15
+atp16
+Rp17
 sS'receptors'
-p16
-g3
-((lp17
-S'5ht1a'
 p18
-atp19
-Rp20
-sS'regions'
-p21
 g3
-((lp22
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p23
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp19
+(S'5ht1a'
+p20
+I1861
+I1867
+tp21
+a(S'5ht1a'
+p22
+I1703
+I1709
+tp23
+a(S'5ht1a'
 p24
-aS"(236, u'(?i)\\\\b(septals|septal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p25
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+I115
+I121
+tp25
+a(S'5ht1a'
 p26
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
+I276
+I282
+tp27
 atp28
 Rp29
-sS'year'
+sS'raw_text_methods'
 p30
-V1998
-p31
-sS'agonists'
+g3
+((lp31
+S"(13, u'\\\\bagonist')"
 p32
+aS"(15, u'\\\\b8ohdpat')"
+p33
+aS"(11, u'\\\\bfluoxetine')"
+p34
+atp35
+Rp36
+sS'regions'
+p37
 g3
-((lp33
-tp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+((lp38
+tp39
+Rp40
+sS'year'
 p41
-atp42
-Rp43
+V1999
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

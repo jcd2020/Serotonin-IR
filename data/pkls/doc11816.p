@@ -2,86 +2,99 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(14, u'\\\\bcogniti')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(25, u'\\\\bsocial')"
 p14
-g3
-((lp15
-S"(16, u'\\\\bfeed')"
+aS"(23, u'\\\\bantipsychotic')"
+p15
+aS"(29, u'\\\\bhyperactiv')"
 p16
-atp17
-Rp18
+aS"(3, u'\\\\bclinical')"
+p17
+atp18
+Rp19
 sS'receptors'
-p19
+p20
 g3
-((lp20
-S'5ht1b'
-p21
-aS'5ht1a'
+((lp21
+(S'5ht1a'
 p22
-aS'5ht2'
-p23
-aS'5ht1'
+I1721
+I1727
+tp23
+a(S'5ht1a'
 p24
-aS'5ht2a'
-p25
-aS'5ht2c'
+I1100
+I1106
+tp25
+a(S'5ht1a'
 p26
-atp27
-Rp28
-sS'regions'
-p29
-g3
-((lp30
-S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
+I1456
+I1462
+tp27
+a(S'5ht1a'
+p28
+I1595
+I1601
+tp29
+a(S'5ht1a'
+p30
+I686
+I692
+tp31
 atp32
 Rp33
-sS'year'
+sS'raw_text_methods'
 p34
-V1996
-p35
-sS'agonists'
+g3
+((lp35
+S"(13, u'\\\\bagonist')"
 p36
-g3
-((lp37
-S"(163, u'\\\\bfenfluramine')"
+aS"(51, u'\\\\bway100635')"
+p37
+aS"(49, u'\\\\bdoi')"
 p38
-atp39
-Rp40
-sS'species'
-p41
-g3
-((lp42
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+aS"(5, u'\\\\bmk801')"
+p39
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
 p43
-aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
-p44
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p45
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p46
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+g3
+((lp44
+tp45
+Rp46
+sS'year'
 p47
-atp48
-Rp49
+V2013
+p48
+sS'species'
+p49
+g3
+((lp50
+tp51
+Rp52
 sb.

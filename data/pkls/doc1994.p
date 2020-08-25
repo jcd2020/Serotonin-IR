@@ -2,74 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(4, u'\\\\btreatment')"
 p11
-g3
-((lp12
-S"(35, u'\\\\bstress')"
-p13
-atp14
-Rp15
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2c'
 p16
-g3
-((lp17
-S'5ht1a'
+I1225
+I1233
+tp17
+a(S'5ht3a'
 p18
-aS'5ht2c'
-p19
-aS'5ht2a'
+I1263
+I1269
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p25
-aS"(170, u'(?i)\\\\b(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1191
+I1197
+tp21
+a(S'5ht2a'
+p22
+I1225
+I1231
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
+g3
+((lp27
+S"(20, u'\\\\bondansetron')"
 p28
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(4, u'\\\\bpcpa')"
 p29
-atp30
-Rp31
-sS'year'
-p32
-V2007
-p33
-sS'agonists'
+aS"(9, u'\\\\britanserin')"
+p30
+aS"(12, u'\\\\bantagonist')"
+p31
+atp32
+Rp33
+sS'regions'
 p34
 g3
 ((lp35
 tp36
 Rp37
-sS'species'
+sS'year'
 p38
-g3
-((lp39
-S"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+V2015
+p39
+sS'species'
 p40
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p41
-atp42
-Rp43
+g3
+((lp41
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p42
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p43
+atp44
+Rp45
 sb.

@@ -2,88 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+aS"(17, u'\\\\balzheimer')"
+p11
+aS"(3, u'\\\\bclinical')"
 p12
-g3
-((lp13
-S"(29, u'\\\\bsex')"
-p14
-aS"(35, u'\\\\bstress')"
-p15
-aS"(16, u'\\\\bfeed')"
-p16
-aS"(20, u'\\\\baggressi')"
-p17
-atp18
-Rp19
+atp13
+Rp14
 sS'receptors'
-p20
+p15
 g3
-((lp21
-S'5ht1b'
-p22
-aS'5ht2b'
-p23
-aS'5ht2a'
-p24
-atp25
-Rp26
-sS'regions'
+((lp16
+(S'5ht3'
+p17
+I397
+I402
+tp18
+a(S'5ht3'
+p19
+I669
+I674
+tp20
+a(S'5ht3'
+p21
+I31
+I36
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(20, u'\\\\bondansetron')"
 p27
+aS"(12, u'\\\\bantagonist')"
+p28
+atp29
+Rp30
+sS'regions'
+p31
 g3
-((lp28
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-atp31
-Rp32
+((lp32
+tp33
+Rp34
 sS'year'
-p33
-V2011
-p34
-sS'agonists'
 p35
-g3
-((lp36
-S"(176, u'\\\\bdom')"
-p37
-atp38
-Rp39
+V2019
+p36
 sS'species'
-p40
+p37
 g3
-((lp41
-S"(526, u'(?i)\\\\b(swines|swine)\\\\b')"
-p42
-aS"(1086, u'(?i)\\\\b(suses|sus)(-|\\\\s+)?(scrofas|scrofa)\\\\b')"
-p43
-aS"(1961, u'(?i)\\\\b(pens|pen)\\\\b')"
-p44
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p45
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p46
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p47
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p48
-atp49
-Rp50
+((lp38
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p39
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p40
+atp41
+Rp42
 sb.

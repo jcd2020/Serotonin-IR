@@ -1,4 +1,0 @@
-Wu, P. H., et al. (1988). "Serotonin-1A receptor activation in hippocampal CA1 neurons by 8-hydroxy-2-(di-n-propylamino)tetralin, 5-methoxytryptamine and 5-hydroxytryptamine." Neurosci Lett 86(1): 72-76.
-
-	Serotonin (5-HT) usually induced a slow hyperpolarization lasting several minutes on first drop-application onto CA1 neurons. Subsequent applications always caused a briefer (less than 2 min) hyperpolarization, usually followed by a depolarization. 8-Hydroxy-2(di-n-propylamino)tetralin, a 5-HT1A receptor agonist, and 5-methoxytryptamine, a 5-HT1 receptor agonist, produced only the long-lasting hyperpolarization. The application of 5-HT agonists caused a persistent prolongation of the post-spike train afterhyperpolarization. These observations suggest that the long-lasting hyperpolarization produced by 5-HT may be mediated by the activation of the 5-HT1A receptor subtype.
-

@@ -2,74 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(21, u'\\\\bpain')"
-p14
-aS"(9, u'\\\\bdepress')"
-p15
-aS"(26, u'\\\\bcardiovascular')"
-p16
-atp17
-Rp18
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht4'
+p15
+I1693
+I1698
+tp16
+a(S'5ht4'
+p17
+I593
+I598
+tp18
+a(S'5ht4'
 p19
-g3
-((lp20
-S'5ht4a'
+I1028
+I1033
+tp20
+a(S'5ht4'
 p21
-aS'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I571
+I581
+tp22
+a(S'5ht4'
+p23
+I843
+I848
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2009
-p31
-sS'agonists'
+g3
+((lp28
+S"(19, u'\\\\bpositron emission tomography')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
 g3
 ((lp33
-S"(205, u'\\\\brs ?67333')"
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
 p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p35
-atp36
-Rp37
-sS'species'
-p38
-g3
-((lp39
-S"(73, u'(?i)\\\\b(royals|royal)\\\\b')"
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p36
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p37
+atp38
+Rp39
+sS'year'
 p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2015
 p41
-atp42
-Rp43
+sS'species'
+p42
+g3
+((lp43
+tp44
+Rp45
 sb.

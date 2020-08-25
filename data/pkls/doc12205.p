@@ -2,74 +2,118 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(30, u'\\\\bway ?100135')"
+S'Method.AGONIST'
 p5
-aS"(108, u'\\\\bfluphenazine')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-S"(9, u'\\\\bdepress')"
-p18
-aS"(35, u'\\\\bstress')"
-p19
-atp20
-Rp21
+((lp9
+S"(23, u'\\\\bantipsychotic')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I137
+I143
+tp17
+a(S'5ht4'
+p18
+I159
+I164
+tp19
+a(S'5ht1a'
+p20
+I805
+I811
+tp21
+a(S'5ht1a'
 p22
-g3
-((lp23
-S'5ht1a'
+I1148
+I1154
+tp23
+a(S'5ht2a'
 p24
-aS'5ht2a'
-p25
-atp26
-Rp27
-sS'regions'
+I1418
+I1424
+tp25
+a(S'5ht2'
+p26
+I1100
+I1105
+tp27
+a(S'5ht4'
 p28
-g3
-((lp29
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I963
+I968
+tp29
+a(S'5ht4'
 p30
-atp31
-Rp32
-sS'year'
-p33
-V1995
+I1161
+I1166
+tp31
+a(S'5ht2'
+p32
+I919
+I924
+tp33
+a(S'5ht2'
 p34
-sS'agonists'
-p35
+I147
+I152
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
+p38
 g3
-((lp36
-tp37
-Rp38
-sS'species'
-p39
-g3
-((lp40
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+((lp39
+S"(41, u'\\\\bhaloperidol')"
+p40
+aS"(15, u'\\\\b8ohdpat')"
 p41
-atp42
-Rp43
+aS"(40, u'\\\\bclozapine')"
+p42
+aS"(13, u'\\\\bagonist')"
+p43
+aS"(49, u'\\\\bdoi')"
+p44
+aS"(28, u'\\\\bzacopride')"
+p45
+atp46
+Rp47
+sS'regions'
+p48
+g3
+((lp49
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p50
+atp51
+Rp52
+sS'year'
+p53
+V2004
+p54
+sS'species'
+p55
+g3
+((lp56
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p57
+atp58
+Rp59
 sb.

@@ -2,70 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-tp15
-Rp16
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht3a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp15
+(S'5ht3'
+p16
+I1182
+I1187
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(13, u'\\\\bagonist')"
 p22
+aS"(12, u'\\\\bantagonist')"
+p23
+atp24
+Rp25
+sS'regions'
+p26
 g3
-((lp23
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
-p27
-V1995
+((lp27
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p28
-sS'agonists'
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p29
-g3
-((lp30
-S"(11, u'\\\\bamphetamine')"
-p31
-atp32
-Rp33
+atp30
+Rp31
+sS'year'
+p32
+V2014
+p33
 sS'species'
 p34
 g3
 ((lp35
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
-p36
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p37
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p38
-aS"(1190, u'(?i)\\\\b(weavers|weaver)\\\\b')"
-p39
-atp40
-Rp41
+tp36
+Rp37
 sb.

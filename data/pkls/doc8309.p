@@ -1,0 +1,64 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(23, u'\\\\bantipsychotic')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
+p16
+I309
+I315
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(40, u'\\\\bclozapine')"
+p22
+aS"(32, u'\\\\blesions')"
+p23
+atp24
+Rp25
+sS'regions'
+p26
+g3
+((lp27
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p28
+atp29
+Rp30
+sS'year'
+p31
+V2014
+p32
+sS'species'
+p33
+g3
+((lp34
+tp35
+Rp36
+sb.

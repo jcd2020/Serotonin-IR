@@ -2,72 +2,105 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(198, u'\\\\bsb ?269970')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
-atp11
-Rp12
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(27, u'\\\\bdyskinesia')"
+p11
+aS"(1, u'\\\\bpatient')"
+p12
+aS"(26, u'\\\\bbehav')"
 p13
-g3
-((lp14
-tp15
-Rp16
+aS"(33, u'\\\\blocomot')"
+p14
+aS"(34, u'\\\\bparkinson')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-S'5ht7'
-p19
-aS'5ht7a'
+((lp19
+(S'5ht1a'
 p20
-aS'5ht5'
-p21
-atp22
-Rp23
-sS'regions'
+I1729
+I1735
+tp21
+a(S'5ht1a'
+p22
+I346
+I352
+tp23
+a(S'5ht1a'
 p24
-g3
-((lp25
-S"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+I197
+I203
+tp25
+a(S'5ht1a'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2014
+I458
+I464
+tp27
+a(S'5ht1a'
+p28
+I52
+I58
+tp29
+a(S'5ht1a'
 p30
-sS'agonists'
-p31
-g3
-((lp32
+I534
+I540
+tp31
+a(S'5ht1a'
+p32
+I1044
+I1050
 tp33
-Rp34
-sS'species'
-p35
+atp34
+Rp35
+sS'raw_text_methods'
+p36
 g3
-((lp36
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p37
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+((lp37
+S"(13, u'\\\\bagonist')"
 p38
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+aS"(51, u'\\\\bway100635')"
 p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p40
 atp41
 Rp42
+sS'regions'
+p43
+g3
+((lp44
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V2015
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

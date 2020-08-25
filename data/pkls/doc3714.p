@@ -2,76 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\bmetergoline')"
+S'Method.STAINING'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(16, u'\\\\bfeed')"
-p16
-atp17
-Rp18
+tp10
+Rp11
 sS'receptors'
-p19
+p12
 g3
-((lp20
-S'5ht6'
-p21
-aS'5ht1d'
-p22
-atp23
-Rp24
+((lp13
+(S'5ht1a'
+p14
+I709
+I715
+tp15
+a(S'5ht1a'
+p16
+I1565
+I1571
+tp17
+a(S'5ht1a'
+p18
+I1055
+I1061
+tp19
+a(S'5ht1a'
+p20
+I120
+I126
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+S"(54, u'\\\\bautoradiography')"
+p26
+atp27
+Rp28
 sS'regions'
-p25
+p29
 g3
-((lp26
-S"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V1992
+((lp30
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p31
-sS'agonists'
+aS"(14, u'(?i)\\\\b(caudals|caudal)\\\\b')"
 p32
-g3
-((lp33
-S"(65, u'\\\\brauwolscine')"
-p34
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
+atp33
+Rp34
+sS'year'
 p35
-atp36
-Rp37
+V2005
+p36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p40
-aS"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
-p41
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p42
-atp43
-Rp44
+((lp38
+tp39
+Rp40
 sb.

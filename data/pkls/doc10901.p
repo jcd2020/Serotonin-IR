@@ -2,80 +2,102 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(30, u'\\\\bway ?100135')"
+S'Method.PET'
 p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(32, u'\\\\bnausea')"
-p17
-atp18
-Rp19
+((lp9
+S"(7, u'\\\\bdepressi')"
+p10
+aS"(22, u'\\\\bschizophreni')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht7'
+p18
+I268
+I273
+tp19
+a(S'5ht7'
 p20
-g3
-((lp21
-S'5ht1a'
+I1103
+I1108
+tp21
+a(S'5ht7'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p27
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I250
+I255
+tp23
+a(S'5ht7'
+p24
+I1280
+I1285
+tp25
+a(S'5ht7'
+p26
+I82
+I87
+tp27
+a(S'5ht7'
 p28
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
+I1182
+I1187
+tp29
+a(S'5ht7'
+p30
+I504
+I509
+tp31
+a(S'5ht7'
 p32
-V2012
-p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(21, u'\\\\bcannabidiol')"
+I826
+I831
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
 p36
-aS"(149, u'\\\\bmem')"
-p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p38
-atp39
-Rp40
-sS'species'
-p41
 g3
-((lp42
-S"(1280, u'(?i)\\\\b(shrews|shrew)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+((lp37
+S"(17, u'\\\\bpet')"
+p38
+aS"(19, u'\\\\bpositron emission tomography')"
+p39
+atp40
+Rp41
+sS'regions'
+p42
+g3
+((lp43
+tp44
+Rp45
+sS'year'
+p46
+V2019
+p47
+sS'species'
+p48
+g3
+((lp49
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

@@ -2,70 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(36, u'\\\\bar ?a000002')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-tp16
-Rp17
+((lp8
+S"(8, u'\\\\banxi')"
+p9
+aS"(9, u'\\\\bstress')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht1b'
-p20
-aS'5ht5'
+((lp16
+(S'5ht6'
+p17
+I277
+I282
+tp18
+a(S'5ht6'
+p19
+I67
+I72
+tp20
+a(S'5ht6'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I213
+I218
+tp22
+a(S'5ht6'
+p23
+I654
+I659
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp25
-tp26
-Rp27
-sS'year'
-p28
-V2004
+((lp28
+S"(29, u'\\\\bdiethylamide')"
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(103, u'\\\\bcp ?135807')"
+atp30
+Rp31
+sS'regions'
 p32
-atp33
-Rp34
-sS'species'
-p35
 g3
-((lp36
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p37
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+((lp33
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p34
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
 p38
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+V1998
 p39
-atp40
-Rp41
+sS'species'
+p40
+g3
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

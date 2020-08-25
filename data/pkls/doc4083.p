@@ -2,74 +2,128 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
-p5
-aS"(17, u'\\\\bnan ?190')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
+tp5
+Rp6
+sS'topics'
+p7
 g3
-((lp10
-S'Method.STIMULATION'
+((lp8
+S"(1, u'\\\\bpatient')"
+p9
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(9, u'\\\\bstress')"
 p11
-aS'Method.ANTAGONIST'
+aS"(4, u'\\\\btreatment')"
 p12
-aS'Method.AGONIST'
+aS"(3, u'\\\\bclinical')"
 p13
 atp14
 Rp15
-sS'topics'
+sS'receptors'
 p16
 g3
 ((lp17
-tp18
-Rp19
-sS'receptors'
+(S'5ht1a'
+p18
+I1056
+I1062
+tp19
+a(S'5ht2a'
 p20
-g3
-((lp21
-S'5ht1a'
+I1189
+I1195
+tp21
+a(S'5ht2a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
+I805
+I811
+tp23
+a(S'5ht1a'
+p24
+I476
+I482
+tp25
+a(S'5ht1a'
+p26
+I1500
+I1506
 tp27
-Rp28
-sS'year'
-p29
-V1992
+a(S'5ht2a'
+p28
+I1401
+I1407
+tp29
+a(S'5ht2a'
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p33
-aS"(219, u'\\\\b5 ?ct')"
+I487
+I493
+tp31
+a(S'5ht1a'
+p32
+I774
+I780
+tp33
+a(S'5ht1a'
 p34
-atp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p39
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+I1390
+I1396
+tp35
+a(S'5ht2a'
+p36
+I83
+I89
+tp37
+a(S'5ht1a'
+p38
+I72
+I78
+tp39
+a(S'5ht1a'
 p40
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p41
+I939
+I945
+tp41
 atp42
 Rp43
+sS'raw_text_methods'
+p44
+g3
+((lp45
+S"(38, u'\\\\bssri')"
+p46
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p47
+atp48
+Rp49
+sS'regions'
+p50
+g3
+((lp51
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p52
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p53
+atp54
+Rp55
+sS'year'
+p56
+V2008
+p57
+sS'species'
+p58
+g3
+((lp59
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p60
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p61
+atp62
+Rp63
 sb.

@@ -2,92 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(5, u'\\\\btherap')"
 p10
-aS'Method.IMMUNOHISTOCHEMISTRY'
+aS"(13, u'\\\\bantidepress')"
 p11
-aS'Method.STAINING'
+aS"(4, u'\\\\btreatment')"
 p12
 atp13
 Rp14
-sS'topics'
+sS'receptors'
 p15
 g3
 ((lp16
-S"(11, u'\\\\banxiolyt')"
+(S'5ht2a'
 p17
-atp18
-Rp19
-sS'receptors'
-p20
-g3
-((lp21
-S'5ht1a'
-p22
-aS'5ht2c'
+I1540
+I1546
+tp18
+a(S'5ht2a'
+p19
+I1572
+I1578
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-aS'5ht2a'
-p24
-atp25
-Rp26
+g3
+((lp24
+S"(53, u'\\\\bketanserin')"
+p25
+aS"(12, u'\\\\bantagonist')"
+p26
+atp27
+Rp28
 sS'regions'
-p27
-g3
-((lp28
-S"(187, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p30
-aS"(175, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)\\\\b')"
-p31
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p32
-aS"(178, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p33
-aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p34
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p35
-atp36
-Rp37
+g3
+((lp30
+tp31
+Rp32
 sS'year'
-p38
-V2005
-p39
-sS'agonists'
-p40
-g3
-((lp41
-S"(175, u'\\\\bdoi')"
-p42
-atp43
-Rp44
+p33
+V2007
+p34
 sS'species'
-p45
+p35
 g3
-((lp46
-S"(6967, u'(?i)\\\\b(scavengers|scavenger)\\\\b')"
-p47
-aS"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
-p48
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p49
-aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
-p50
-atp51
-Rp52
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

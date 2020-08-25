@@ -2,70 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+tp5
+Rp6
 sS'topics'
-p13
+p7
 g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-aS"(35, u'\\\\bstress')"
-p16
-atp17
-Rp18
+((lp8
+S"(26, u'\\\\bbehav')"
+p9
+atp10
+Rp11
 sS'receptors'
-p19
+p12
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
+((lp13
+(S'5ht1'
+p14
+I1533
+I1538
+tp15
+a(S'5ht2a'
+p16
+I1207
+I1213
+tp17
+a(S'5ht2'
+p18
+I1377
+I1382
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
+g3
+((lp23
+tp24
+Rp25
 sS'regions'
-p24
-g3
-((lp25
-S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-atp27
-Rp28
+g3
+((lp27
+tp28
+Rp29
 sS'year'
-p29
-V1989
 p30
-sS'agonists'
+V2017
 p31
-g3
-((lp32
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p33
-atp34
-Rp35
 sS'species'
-p36
+p32
 g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p39
-atp40
-Rp41
+((lp33
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p34
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p35
+atp36
+Rp37
 sb.

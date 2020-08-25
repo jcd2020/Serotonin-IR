@@ -2,76 +2,78 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(99, u'\\\\bsb ?242084')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(16, u'\\\\blearning')"
 p10
-aS'Method.AGONIST'
+aS"(15, u'\\\\bmemory')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(26, u'\\\\bcardiovascular')"
+(S'5ht2a'
 p16
-aS"(12, u'\\\\banxiogen')"
-p17
-aS"(10, u'\\\\banxiety')"
+I48
+I54
+tp17
+a(S'5ht2c'
 p18
-aS"(4, u'\\\\blocomot')"
-p19
-atp20
-Rp21
-sS'receptors'
+I551
+I559
+tp19
+a(S'5ht2a'
+p20
+I937
+I943
+tp21
+a(S'5ht2a'
 p22
+I551
+I557
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp23
-S'5ht2c'
-p24
-atp25
-Rp26
+((lp27
+S"(13, u'\\\\bagonist')"
+p28
+aS"(35, u'\\\\badenosine')"
+p29
+atp30
+Rp31
 sS'regions'
-p27
-g3
-((lp28
-tp29
-Rp30
-sS'year'
-p31
-V2007
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(166, u'\\\\bmk ?212')"
-p35
-aS"(155, u'\\\\bmcpp')"
+((lp33
+tp34
+Rp35
+sS'year'
 p36
-atp37
-Rp38
+V2003
+p37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p41
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p42
-atp43
-Rp44
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

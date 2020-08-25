@@ -1,0 +1,104 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(3, u'\\\\bclinical')"
+p15
+atp16
+Rp17
+sS'receptors'
+p18
+g3
+((lp19
+(S'5ht1a'
+p20
+I569
+I575
+tp21
+a(S'5ht1a'
+p22
+I220
+I226
+tp23
+a(S'5ht1a'
+p24
+I438
+I444
+tp25
+a(S'5ht1a'
+p26
+I1035
+I1041
+tp27
+a(S'5ht1a'
+p28
+I1421
+I1427
+tp29
+a(S'5ht1a'
+p30
+I1456
+I1462
+tp31
+a(S'5ht1a'
+p32
+I1617
+I1623
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
+g3
+((lp37
+S"(17, u'\\\\bpet')"
+p38
+aS"(19, u'\\\\bpositron emission tomography')"
+p39
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+tp45
+Rp46
+sS'year'
+p47
+V2003
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p51
+atp52
+Rp53
+sb.

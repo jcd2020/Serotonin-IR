@@ -1,0 +1,4 @@
+Marcoli, M., et al. (1997). "Serotonin inhibition of the NMDA receptor/nitric oxide/cyclic GMP pathway in rat cerebellum: involvement of 5-hydroxytryptamine2C receptors." J Neurochem 69(1): 427-430.
+
+	Previous studies have shown that 5-hydroxytryptamine (5-HT) can potently inhibit glutamatergic transmission in rat cerebellum through the activation of multiple 5-HT receptors. The aim of this study was to subclassify the 5-HT2 receptor mediating inhibition of the cyclic GMP response elicited by N-methyl-D-aspartate in adult rat cerebellar slices. Seven receptor antagonists, endowed with relative selectivities for the 5-HT2A, 5-HT2B, and 5-HT2C subtypes, differentially affected the inhibition by (+/-)-1-(2,5-dimethoxy-4-iodophenyl)-2-aminopropane of the cyclic GMP response, suggesting that the receptor involved belongs to the 5-HT2C subtype.
+

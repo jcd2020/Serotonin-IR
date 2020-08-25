@@ -2,78 +2,63 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(118, u'\\\\bly ?53857')"
+S'Method.ANTAGONIST'
 p5
-aS"(119, u'\\\\britanserin')"
+aS'Method.IMMUNOHISTOCHEMISTRY'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-tp17
-Rp18
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I1118
+I1124
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
 p19
 g3
 ((lp20
-S'5ht1c'
+S"(7, u'\\\\bpropranolol')"
 p21
-aS'5ht1a'
+aS"(12, u'\\\\bantagonist')"
 p22
-aS'5ht2'
-p23
-aS'5ht2a'
-p24
-atp25
-Rp26
+atp23
+Rp24
 sS'regions'
-p27
+p25
 g3
-((lp28
-tp29
-Rp30
+((lp26
+tp27
+Rp28
 sS'year'
-p31
-V1990
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p35
-aS"(176, u'\\\\bdom')"
-p36
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p37
-aS"(219, u'\\\\b5 ?ct')"
-p38
-atp39
-Rp40
+p29
+V2002
+p30
 sS'species'
-p41
+p31
 g3
-((lp42
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+((lp32
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p33
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
 sb.

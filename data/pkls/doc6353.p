@@ -2,82 +2,120 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
-p5
-aS"(6, u'\\\\bcyproheptadine')"
-p6
-aS"(53, u'\\\\bcyproheptadine')"
-p7
-aS"(117, u'\\\\bketanserin')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
 S'Method.ANTAGONIST'
-p13
+p5
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p6
+atp7
+Rp8
 sS'topics'
-p17
+p9
 g3
-((lp18
-tp19
-Rp20
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(33, u'\\\\blocomot')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I499
+I505
+tp18
+a(S'5ht2a'
+p19
+I1509
+I1515
+tp20
+a(S'5ht2a'
 p21
-g3
-((lp22
-S'5ht1a'
+I510
+I516
+tp22
+a(S'5ht1a'
 p23
-aS'5ht2c'
-p24
-aS'5ht2a'
+I1432
+I1438
+tp24
+a(S'5ht1a'
 p25
-atp26
-Rp27
-sS'regions'
-p28
-g3
-((lp29
+I863
+I869
+tp26
+a(S'5ht1a'
+p27
+I100
+I106
+tp28
+a(S'5ht2a'
+p29
+I832
+I838
 tp30
-Rp31
-sS'year'
-p32
-V1996
+a(S'5ht2a'
+p31
+I114
+I120
+tp32
+a(S'5ht2a'
 p33
-sS'agonists'
-p34
-g3
-((lp35
+I1103
+I1109
+tp34
+a(S'5ht1a'
+p35
+I1499
+I1505
 tp36
-Rp37
-sS'species'
-p38
+atp37
+Rp38
+sS'raw_text_methods'
+p39
 g3
-((lp39
-S"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
-p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+((lp40
+S"(13, u'\\\\bagonist')"
 p41
-aS"(6580, u'(?i)\\\\b(dams|dam)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
 p42
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+aS"(23, u'\\\\bmdl')"
 p43
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+aS"(51, u'\\\\bway100635')"
 p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p45
 atp46
 Rp47
+sS'regions'
+p48
+g3
+((lp49
+tp50
+Rp51
+sS'year'
+p52
+V2013
+p53
+sS'species'
+p54
+g3
+((lp55
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p56
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p57
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p58
+atp59
+Rp60
 sb.

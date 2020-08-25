@@ -2,78 +2,92 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(1, u'\\\\balprenolol')"
+S'Method.AGONIST'
 p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(22, u'\\\\bpropranolol')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-S"(12, u'\\\\banxiogen')"
-p18
-aS"(11, u'\\\\banxiolyt')"
-p19
-aS"(10, u'\\\\banxiety')"
-p20
-atp21
-Rp22
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p23
+p14
 g3
-((lp24
-S'5ht1a'
-p25
-aS'5ht1'
+((lp15
+(S'5ht2c'
+p16
+I587
+I593
+tp17
+a(S'5ht2c'
+p18
+I1143
+I1149
+tp19
+a(S'5ht2c'
+p20
+I1445
+I1451
+tp21
+a(S'5ht2c'
+p22
+I400
+I406
+tp23
+a(S'5ht2c'
+p24
+I90
+I96
+tp25
+a(S'5ht2c'
 p26
-atp27
-Rp28
-sS'regions'
-p29
+I755
+I761
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
 g3
-((lp30
-tp31
-Rp32
-sS'year'
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(33, u'\\\\bmcpp')"
 p33
-V1993
-p34
-sS'agonists'
-p35
+atp34
+Rp35
+sS'regions'
+p36
 g3
-((lp36
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p37
-atp38
-Rp39
-sS'species'
-p40
-g3
-((lp41
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+((lp37
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p38
+aS"(14, u'(?i)\\\\b(caudals|caudal)\\\\b')"
+p39
+atp40
+Rp41
+sS'year'
 p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2012
 p43
-atp44
-Rp45
+sS'species'
+p44
+g3
+((lp45
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

@@ -2,80 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
-p5
-aS"(22, u'\\\\bpropranolol')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(4, u'\\\\btreatment')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht3'
+p16
+I87
+I91
+tp17
+a(S'5ht3'
 p18
-g3
-((lp19
-S'5ht1b'
+I414
+I418
+tp19
+a(S'5ht3'
 p20
-aS'5ht5'
-p21
-aS'5ht1f'
+I551
+I555
+tp21
+a(S'5ht3'
 p22
-aS'5ht1e'
-p23
-aS'5ht1d'
-p24
-aS'5ht1a'
-p25
-aS'5ht1'
+I211
+I215
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-atp27
-Rp28
-sS'regions'
+g3
+((lp27
+S"(20, u'\\\\bondansetron')"
+p28
+aS"(18, u'\\\\bimaging')"
 p29
-g3
-((lp30
-tp31
+aS"(12, u'\\\\bantagonist')"
+p30
+atp31
 Rp32
-sS'year'
+sS'regions'
 p33
-V1994
-p34
-sS'agonists'
-p35
 g3
-((lp36
-S"(176, u'\\\\bdom')"
-p37
-atp38
-Rp39
+((lp34
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
+p38
+V2014
+p39
 sS'species'
 p40
 g3
 ((lp41
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
-p42
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p43
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p44
-atp45
-Rp46
+tp42
+Rp43
 sb.

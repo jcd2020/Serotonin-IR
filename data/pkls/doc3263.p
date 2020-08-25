@@ -2,82 +2,138 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(128, u'\\\\bmetoclopramide')"
+S'Method.ANTAGONIST'
 p5
-aS"(130, u'\\\\bzacopride')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(24, u'\\\\banxiolytic')"
 p11
-aS'Method.AGONIST'
+aS"(8, u'\\\\banxi')"
 p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(5, u'\\\\bgastrointestin')"
-p17
-atp18
-Rp19
+aS"(25, u'\\\\bsocial')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
+p18
+I2210
+I2216
+tp19
+a(S'5ht1a'
 p20
-g3
-((lp21
-S'5ht4'
+I1395
+I1401
+tp21
+a(S'5ht1a'
 p22
-aS'5ht3'
-p23
-aS'5ht2'
+I1829
+I1835
+tp23
+a(S'5ht1a'
 p24
-aS'5ht1'
-p25
-atp26
-Rp27
-sS'regions'
+I1154
+I1160
+tp25
+a(S'5ht1a'
+p26
+I1931
+I1937
+tp27
+a(S'5ht1a'
 p28
-g3
-((lp29
-tp30
-Rp31
-sS'year'
+I816
+I822
+tp29
+a(S'5ht1a'
+p30
+I1648
+I1654
+tp31
+a(S'5ht1a'
 p32
-V1989
-p33
-sS'agonists'
+I1709
+I1715
+tp33
+a(S'5ht1a'
 p34
-g3
-((lp35
-S"(198, u'\\\\bcisapride')"
+I363
+I369
+tp35
+a(S'5ht1a'
 p36
-aS"(209, u'\\\\bmetoclopramide')"
-p37
-aS"(208, u'\\\\bzacopride')"
+I893
+I899
+tp37
+a(S'5ht1a'
 p38
-aS"(192, u'\\\\bquipazine')"
-p39
-atp40
-Rp41
-sS'species'
+I1298
+I1304
+tp39
+a(S'5ht1a'
+p40
+I525
+I531
+tp41
+a(S'5ht1a'
 p42
-g3
-((lp43
-S"(1266, u'(?i)\\\\b(embryos|embryo)\\\\b')"
+I72
+I78
+tp43
+a(S'5ht1a'
 p44
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p45
+I287
+I293
+tp45
 atp46
 Rp47
+sS'raw_text_methods'
+p48
+g3
+((lp49
+S"(13, u'\\\\bagonist')"
+p50
+aS"(15, u'\\\\b8ohdpat')"
+p51
+aS"(12, u'\\\\bantagonist')"
+p52
+atp53
+Rp54
+sS'regions'
+p55
+g3
+((lp56
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p57
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p58
+atp59
+Rp60
+sS'year'
+p61
+V1996
+p62
+sS'species'
+p63
+g3
+((lp64
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p65
+atp66
+Rp67
 sb.

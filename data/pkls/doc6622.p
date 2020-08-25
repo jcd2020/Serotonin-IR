@@ -2,78 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(8, u'\\\\blearning')"
-p15
-aS"(7, u'\\\\bmemory')"
-p16
-atp17
-Rp18
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
-p24
+((lp15
+(S'5ht1a'
+p16
+I212
+I218
+tp17
+a(S'5ht1a'
+p18
+I618
+I624
+tp19
+a(S'5ht1a'
+p20
+I430
+I436
+tp21
+a(S'5ht1a'
+p22
+I44
+I50
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp25
-tp26
-Rp27
-sS'year'
+((lp27
+S"(19, u'\\\\bpositron emission tomography')"
 p28
-V2001
+aS"(18, u'\\\\bimaging')"
 p29
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p30
-g3
-((lp31
-S"(92, u'\\\\brepinotan')"
-p32
-aS"(149, u'\\\\bmem')"
+atp31
+Rp32
+sS'regions'
 p33
-atp34
-Rp35
-sS'species'
-p36
 g3
-((lp37
-S"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+((lp34
+tp35
+Rp36
+sS'year'
+p37
+V2008
 p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+sS'species'
 p39
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp40
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
 p41
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p42
-aS"(5510, u'(?i)\\\\b(bays|bay)\\\\b')"
-p43
-atp44
-Rp45
+atp42
+Rp43
 sb.

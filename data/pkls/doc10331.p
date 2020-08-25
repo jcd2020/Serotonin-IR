@@ -2,70 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(144, u'\\\\bgr ?113808')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(5, u'\\\\btherap')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-tp15
-Rp16
-sS'receptors'
+(S'5ht1a'
+p15
+I933
+I939
+tp16
+a(S'5ht1a'
 p17
-g3
-((lp18
-S'5ht4'
+I1657
+I1663
+tp18
+a(S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
+I1268
+I1274
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp23
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p24
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+((lp24
+S"(13, u'\\\\bagonist')"
 p25
-aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
 p26
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V1995
-p31
-sS'agonists'
-p32
+atp27
+Rp28
+sS'regions'
+p29
 g3
-((lp33
-tp34
-Rp35
+((lp30
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p31
+atp32
+Rp33
+sS'year'
+p34
+V1996
+p35
 sS'species'
 p36
 g3
 ((lp37
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sb.

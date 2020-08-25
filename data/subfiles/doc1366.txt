@@ -1,0 +1,4 @@
+Bromidge, S. M., et al. (2001). "Phenyl benzenesulfonamides are novel and selective 5-HT6 antagonists: identification of N-(2,5-dibromo-3-fluorophenyl)-4-methoxy-3-piperazin-1-ylbenzenesulfonamide (SB-357134)." Bioorg Med Chem Lett 11(1): 55-58.
+
+	Substituted N-phenyl-4-methoxy-3-piperazin-1-ylbenzenesulfonamides and conformationally restricted analogues have been identified as high affinity and selective 5-HT6 antagonists. Compounds from this series had a range of pharmacokinetic profiles in rat and in general there was a correlation between clearance and CNS penetration. Based on its overall biological profile 2 (SB-357134) was selected for further pre-clinical evaluation.
+

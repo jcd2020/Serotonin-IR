@@ -2,68 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(99, u'\\\\bsb ?242084')"
+S'Method.IMMUNOHISTOCHEMISTRY'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(37, u'\\\\baddict')"
-p16
-aS"(4, u'\\\\blocomot')"
-p17
-atp18
-Rp19
+atp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht2c'
-p22
+((lp14
+(S'5ht5'
+p15
+I476
+I486
+tp16
+a(S'5ht1a'
+p17
+I1192
+I1198
+tp18
+a(S'5ht1a'
+p19
+I1247
+I1253
+tp20
+a(S'5ht1a'
+p21
+I536
+I542
+tp22
 atp23
 Rp24
-sS'regions'
+sS'raw_text_methods'
 p25
 g3
 ((lp26
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+S"(3, u'\\\\bimmunoreactiv')"
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2015
+aS"(17, u'\\\\bpet')"
+p28
+atp29
+Rp30
+sS'regions'
 p31
-sS'agonists'
-p32
 g3
-((lp33
-tp34
+((lp32
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p33
+atp34
 Rp35
-sS'species'
+sS'year'
 p36
-g3
-((lp37
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+V2015
+p37
+sS'species'
 p38
-atp39
-Rp40
+g3
+((lp39
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p40
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p41
+atp42
+Rp43
 sb.

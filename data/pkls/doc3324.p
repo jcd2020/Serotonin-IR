@@ -2,74 +2,88 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(33, u'\\\\blocomot')"
 p11
-g3
-((lp12
-tp13
-Rp14
+atp12
+Rp13
 sS'receptors'
-p15
+p14
 g3
-((lp16
-S'5ht2c'
-p17
-atp18
-Rp19
-sS'regions'
+((lp15
+(S'5ht2c'
+p16
+I50
+I56
+tp17
+a(S'5ht2c'
+p18
+I1963
+I1969
+tp19
+a(S'5ht2c'
 p20
-g3
-((lp21
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+I1764
+I1770
+tp21
+a(S'5ht2c'
 p22
-aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
-p23
-aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
+I1488
+I1494
+tp23
+a(S'5ht2c'
 p24
-aS"(222, u'(?i)\\\\b(neostriatums|neostriatum)\\\\b')"
-p25
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+I298
+I304
+tp25
+a(S'5ht2c'
 p26
-aS"(105, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(reticulatas|reticulata)\\\\b')"
-p27
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
-p31
-V1997
+I531
+I537
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
+g3
+((lp31
+S"(13, u'\\\\bagonist')"
 p32
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p33
+atp34
+Rp35
+sS'regions'
+p36
 g3
-((lp34
-tp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p39
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+((lp37
+tp38
+Rp39
+sS'year'
 p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2004
 p41
-atp42
-Rp43
+sS'species'
+p42
+g3
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

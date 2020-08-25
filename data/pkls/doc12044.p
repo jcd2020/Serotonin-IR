@@ -2,80 +2,100 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.ANTAGONIST'
 p5
-aS"(119, u'\\\\britanserin')"
+aS'Method.IMMUNOHISTOCHEMISTRY'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.KNOCKOUT'
+S"(22, u'\\\\bschizophreni')"
 p11
-aS'Method.ANTAGONIST'
+aS"(14, u'\\\\bcogniti')"
 p12
-aS'Method.AGONIST'
+aS"(26, u'\\\\bbehav')"
 p13
-atp14
-Rp15
-sS'topics'
-p16
-g3
-((lp17
-tp18
-Rp19
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
+Rp16
 sS'receptors'
-p20
+p17
 g3
-((lp21
-S'5ht7'
-p22
-aS'5ht1a'
+((lp18
+(S'5ht5a'
+p19
+I698
+I704
+tp20
+a(S'5ht5a'
+p21
+I85
+I91
+tp22
+a(S'5ht5a'
 p23
-aS'5ht2c'
-p24
-aS'5ht2a'
+I435
+I441
+tp24
+a(S'5ht5a'
 p25
-aS'5ht7a'
-p26
-aS'5ht5a'
+I994
+I1000
+tp26
+a(S'5ht5a'
 p27
-atp28
-Rp29
-sS'regions'
-p30
+I253
+I259
+tp28
+a(S'5ht5a'
+p29
+I1767
+I1773
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
+p33
 g3
-((lp31
-tp32
-Rp33
-sS'year'
-p34
-V2005
+((lp34
+S"(12, u'\\\\bantagonist')"
 p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(85, u'\\\\b8 ?oh ?dpat')"
+atp36
+Rp37
+sS'regions'
 p38
-atp39
-Rp40
-sS'species'
-p41
 g3
-((lp42
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+((lp39
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p40
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p41
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p42
+atp43
+Rp44
+sS'year'
+p45
+V2018
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p49
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

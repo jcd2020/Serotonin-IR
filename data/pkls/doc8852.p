@@ -2,72 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-S"(3, u'\\\\bsleep')"
-p14
-atp15
-Rp16
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
 p17
-g3
-((lp18
-S'5ht2c'
+I313
+I324
+tp18
+a(S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p24
-aS"(51, u'(?i)\\\\b(laterodorsals|laterodorsal)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1297
+I1303
+tp20
+a(S'5ht1a'
+p21
+I327
+I333
+tp22
+a(S'5ht1a'
+p23
+I1628
+I1634
+tp24
+a(S'5ht1a'
 p25
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(235, u'(?i)\\\\b(diagonals|diagonal)(-|\\\\s+)?(bands|band)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(brocas|broca)\\\\b')"
+I655
+I661
+tp26
+a(S'5ht1a'
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2015
+I1687
+I1693
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
 p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(141, u'\\\\bro60 ?0175')"
+((lp32
+S"(17, u'\\\\bpet')"
+p33
+aS"(19, u'\\\\bpositron emission tomography')"
 p34
-atp35
-Rp36
-sS'species'
-p37
+aS"(18, u'\\\\bimaging')"
+p35
+atp36
+Rp37
+sS'regions'
+p38
 g3
-((lp38
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp39
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
 p40
 atp41
 Rp42
+sS'year'
+p43
+V2018
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p47
+atp48
+Rp49
 sb.

@@ -2,68 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(102, u'\\\\bamitriptyline')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-tp15
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
 Rp16
 sS'receptors'
 p17
 g3
 ((lp18
-S'5ht6'
+(S'5ht3'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
-p24
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I33
+I38
+tp20
+a(S'5ht3'
+p21
+I403
+I408
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
-p29
-V2018
-p30
-sS'agonists'
+g3
+((lp26
+S"(35, u'\\\\badenosine')"
+p27
+aS"(12, u'\\\\bantagonist')"
+p28
+atp29
+Rp30
+sS'regions'
 p31
 g3
 ((lp32
-S"(218, u'\\\\bemd ?386088')"
-p33
-atp34
-Rp35
-sS'species'
+tp33
+Rp34
+sS'year'
+p35
+V2017
 p36
+sS'species'
+p37
 g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+((lp38
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p39
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p40
+atp41
+Rp42
 sb.

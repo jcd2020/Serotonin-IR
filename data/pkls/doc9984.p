@@ -2,102 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(5, u'\\\\bcyanopindolol')"
+S'Method.PET'
 p5
-aS"(14, u'\\\\bmethiothepin')"
+aS'Method.KNOCKOUT'
 p6
-aS"(21, u'\\\\bpindolol')"
-p7
-aS"(22, u'\\\\bpropranolol')"
-p8
-aS"(203, u'\\\\btfmpp')"
-p9
-aS"(34, u'\\\\bmetergoline')"
-p10
-aS"(33, u'\\\\byohimbine')"
-p11
-aS"(194, u'\\\\bmethysergide')"
-p12
-aS"(11, u'\\\\bisamoltane')"
-p13
-atp14
-Rp15
-sS'methods'
-p16
-g3
-((lp17
-S'Method.ANTAGONIST'
-p18
-aS'Method.AGONIST'
-p19
-atp20
-Rp21
+atp7
+Rp8
 sS'topics'
-p22
+p9
 g3
-((lp23
-tp24
-Rp25
+((lp10
+tp11
+Rp12
 sS'receptors'
-p26
+p13
 g3
-((lp27
-S'5ht1b'
+((lp14
+(S'5ht2a'
+p15
+I520
+I526
+tp16
+a(S'5ht2a'
+p17
+I314
+I320
+tp18
+a(S'5ht2a'
+p19
+I206
+I212
+tp20
+a(S'5ht2a'
+p21
+I79
+I85
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(19, u'\\\\bpositron emission tomography')"
+p27
+aS"(18, u'\\\\bimaging')"
 p28
-aS'5ht1'
+aS"(23, u'\\\\bmdl')"
 p29
-aS'5ht1d'
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'regions'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p34
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p35
+atp36
+Rp37
 sS'year'
-p37
-V1994
 p38
-sS'agonists'
+V2011
 p39
-g3
-((lp40
-S"(96, u'\\\\bsumatriptan')"
-p41
-aS"(178, u'\\\\btfmpp')"
-p42
-aS"(100, u'\\\\bcp ?93129')"
-p43
-aS"(65, u'\\\\brauwolscine')"
-p44
-aS"(25, u'\\\\bdihydroergotamine')"
-p45
-aS"(155, u'\\\\bmcpp')"
-p46
-aS"(82, u'\\\\byohimbine')"
-p47
-aS"(53, u'\\\\bmethysergide')"
-p48
-aS"(67, u'\\\\bru ?24969')"
-p49
-aS"(219, u'\\\\b5 ?ct')"
-p50
-atp51
-Rp52
 sS'species'
-p53
+p40
 g3
-((lp54
-S"(5721, u'(?i)\\\\b(opossums|opossum)\\\\b')"
-p55
-atp56
-Rp57
+((lp41
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p42
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p43
+atp44
+Rp45
 sb.

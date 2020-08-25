@@ -2,80 +2,103 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(103, u'\\\\bclomipramine')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.STIMULATION'
-p10
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(10, u'\\\\bocd')"
+p13
+aS"(2, u'\\\\bdisorder')"
 p14
-g3
-((lp15
-tp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht1a'
-p20
-aS'5ht2b'
+((lp18
+(S'5ht1b'
+p19
+I134
+I140
+tp20
+a(S'5ht1b'
 p21
-aS'5ht2c'
-p22
-aS'5ht2a'
+I829
+I835
+tp22
+a(S'5ht1b'
 p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
-S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+I991
+I997
+tp24
+a(S'5ht1b'
+p25
+I398
+I404
+tp26
+a(S'5ht1b'
+p27
+I520
+I526
+tp28
+a(S'5ht1b'
+p29
+I1501
+I1507
+tp30
+a(S'5ht1b'
 p31
-V2005
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(85, u'\\\\b8 ?oh ?dpat')"
+I1327
+I1333
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
 p35
-aS"(175, u'\\\\bdoi')"
-p36
-atp37
-Rp38
-sS'species'
-p39
 g3
-((lp40
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p41
-aS"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
+((lp36
+S"(13, u'\\\\bagonist')"
+p37
+aS"(17, u'\\\\bpet')"
+p38
+aS"(19, u'\\\\bpositron emission tomography')"
+p39
+atp40
+Rp41
+sS'regions'
 p42
-aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp43
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p44
-atp45
-Rp46
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V2016
+p49
+sS'species'
+p50
+g3
+((lp51
+tp52
+Rp53
 sb.

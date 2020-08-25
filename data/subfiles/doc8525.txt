@@ -1,0 +1,4 @@
+Palfreyman, M. G., et al. (1993). "ELECTROPHYSIOLOGICAL, BIOCHEMICAL AND BEHAVIORAL EVIDENCE FOR 5-HT(2) AND 5-HT(3) MEDIATED CONTROL OF DOPAMINERGIC FUNCTION." Psychopharmacology 112(1): S60-S67.
+
+	Several lines of evidence have suggested a link between serotonergic and dopaminergic systems in the brain. The interpretation of much of these early data needs careful reevaluation in light of the recent understanding of the plethora of serotonin receptor subtypes, their distribution in the brain and the new findings with more selective serotonin antagonists. Electrophysiological, biochemical and behavioral evidence obtained using highly selective antagonists of the 5-HT2 or 5-HT3 receptor subtypes, MDL 100,907 or MDL 73,147EF, respectively, supports the thesis that serotonin modulates the dopaminergic system. This modulation is most evident when the dopaminergic system has been activated.
+

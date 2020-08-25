@@ -2,96 +2,110 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
+S'Method.AGONIST'
 p5
-aS"(178, u'\\\\bro 04 ?6790')"
-p6
-aS"(14, u'\\\\bmethiothepin')"
-p7
-aS"(193, u'\\\\bmesulergine')"
-p8
-aS"(34, u'\\\\bmetergoline')"
-p9
-aS"(194, u'\\\\bmethysergide')"
-p10
-aS"(40, u'\\\\bergotamine')"
-p11
-aS"(76, u'\\\\blisuride')"
-p12
-aS"(133, u'\\\\bmianserin')"
-p13
-aS"(119, u'\\\\britanserin')"
-p14
-atp15
-Rp16
-sS'methods'
-p17
-g3
-((lp18
-S'Method.ANTAGONIST'
-p19
-atp20
-Rp21
+atp6
+Rp7
 sS'topics'
-p22
+p8
 g3
-((lp23
-tp24
-Rp25
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(33, u'\\\\blocomot')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
-p26
+p15
 g3
-((lp27
-S'5ht6'
-p28
-atp29
-Rp30
-sS'regions'
+((lp16
+(S'5ht1b'
+p17
+I913
+I919
+tp18
+a(S'5ht1a'
+p19
+I775
+I781
+tp20
+a(S'5ht1b'
+p21
+I829
+I835
+tp22
+a(S'5ht1'
+p23
+I120
+I130
+tp24
+a(S'5ht1'
+p25
+I1574
+I1579
+tp26
+a(S'5ht1d'
+p27
+I924
+I930
+tp28
+a(S'5ht1b'
+p29
+I335
+I346
+tp30
+a(S'5ht1'
 p31
-g3
-((lp32
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I579
+I584
+tp32
+a(S'5ht1a'
 p33
-atp34
-Rp35
-sS'year'
-p36
-V1998
-p37
-sS'agonists'
-p38
+I818
+I824
+tp34
+a(S'5ht1b'
+p35
+I349
+I355
+tp36
+atp37
+Rp38
+sS'raw_text_methods'
+p39
 g3
-((lp39
-S"(53, u'\\\\bmethysergide')"
-p40
-aS"(149, u'\\\\bmem')"
+((lp40
+S"(13, u'\\\\bagonist')"
 p41
-aS"(165, u'\\\\bmesulergine')"
+aS"(15, u'\\\\b8ohdpat')"
 p42
-aS"(33, u'\\\\bergotamine')"
-p43
-aS"(137, u'\\\\blisuride')"
-p44
-aS"(23, u'\\\\bclozapine')"
+atp43
+Rp44
+sS'regions'
 p45
-atp46
-Rp47
-sS'species'
-p48
 g3
-((lp49
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp46
+tp47
+Rp48
+sS'year'
+p49
+V1995
 p50
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p51
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p52
-atp53
-Rp54
+g3
+((lp52
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p53
+atp54
+Rp55
 sb.

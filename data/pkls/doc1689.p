@@ -2,76 +2,99 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
 p13
 g3
 ((lp14
-tp15
-Rp16
-sS'receptors'
+(S'5ht1a'
+p15
+I977
+I983
+tp16
+a(S'5ht1b'
 p17
-g3
-((lp18
-S'5ht1b'
+I1059
+I1065
+tp18
+a(S'5ht1'
 p19
-aS'5ht2a'
-p20
-aS'5ht3a'
+I65
+I70
+tp20
+a(S'5ht2'
 p21
-aS'5ht1d'
-p22
-atp23
-Rp24
-sS'regions'
+I938
+I943
+tp22
+a(S'5ht1b'
+p23
+I2485
+I2491
+tp24
+a(S'5ht1'
 p25
-g3
-((lp26
-S"(374, u'(?i)\\\\b(duras|dura)(-|\\\\s+)?(maters|mater)\\\\b')"
+I932
+I937
+tp26
+a(S'5ht1b'
 p27
-atp28
-Rp29
-sS'year'
-p30
-V1991
+I2745
+I2751
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
 p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(25, u'\\\\bdihydroergotamine')"
+((lp32
+S"(13, u'\\\\bagonist')"
+p33
+aS"(15, u'\\\\b8ohdpat')"
 p34
-aS"(96, u'\\\\bsumatriptan')"
+aS"(30, u'\\\\b2methyl')"
 p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(32, u'\\\\blesions')"
 p36
-aS"(219, u'\\\\b5 ?ct')"
+aS"(12, u'\\\\bantagonist')"
 p37
 atp38
 Rp39
-sS'species'
+sS'regions'
 p40
 g3
 ((lp41
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+tp42
+Rp43
+sS'year'
+p44
+V1995
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p48
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

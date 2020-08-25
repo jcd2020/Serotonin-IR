@@ -2,68 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p11
+p8
 g3
-((lp12
-S"(35, u'\\\\bstress')"
-p13
-atp14
-Rp15
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+atp11
+Rp12
 sS'receptors'
-p16
+p13
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(277, u'(?i)\\\\b(temporals|temporal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
+((lp14
+(S'5ht1a'
+p15
+I653
+I659
+tp16
+a(S'5ht1a'
+p17
+I2675
+I2681
+tp18
+a(S'5ht1a'
+p19
+I766
+I772
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-atp24
-Rp25
-sS'year'
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(36, u'\\\\bbenzodiazepine')"
 p26
-V2010
+aS"(54, u'\\\\bautoradiography')"
 p27
-sS'agonists'
-p28
-g3
-((lp29
-S"(20, u'\\\\bbuspirone')"
+atp28
+Rp29
+sS'regions'
 p30
-atp31
-Rp32
-sS'species'
-p33
 g3
-((lp34
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp31
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p32
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p33
+aS"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p34
+aS"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
 p35
-aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
-p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+atp36
+Rp37
+sS'year'
 p38
-atp39
-Rp40
+V1998
+p39
+sS'species'
+p40
+g3
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

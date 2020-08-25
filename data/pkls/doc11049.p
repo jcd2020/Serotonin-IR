@@ -2,62 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-tp14
+((lp9
+S"(7, u'\\\\bdepressi')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
 Rp15
 sS'receptors'
 p16
 g3
 ((lp17
-tp18
-Rp19
-sS'regions'
-p20
-g3
-((lp21
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+(S'5ht1b'
+p18
+I31
+I42
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p23
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+g3
+((lp23
+S"(17, u'\\\\bpet')"
 p24
-atp25
-Rp26
-sS'year'
-p27
-V1994
-p28
-sS'agonists'
+aS"(19, u'\\\\bpositron emission tomography')"
+p25
+aS"(18, u'\\\\bimaging')"
+p26
+atp27
+Rp28
+sS'regions'
 p29
 g3
 ((lp30
-tp31
-Rp32
-sS'species'
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p31
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p32
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p33
+atp34
+Rp35
+sS'year'
+p36
+V2016
+p37
+sS'species'
+p38
 g3
-((lp34
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p35
-atp36
-Rp37
+((lp39
+tp40
+Rp41
 sb.

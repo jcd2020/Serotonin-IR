@@ -2,80 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.STIMULATION'
+S"(1, u'\\\\bpatient')"
 p10
-aS'Method.ANTAGONIST'
+aS"(7, u'\\\\bdepressi')"
 p11
-aS'Method.AGONIST'
+aS"(26, u'\\\\bbehav')"
 p12
 atp13
 Rp14
-sS'topics'
+sS'receptors'
 p15
 g3
 ((lp16
-tp17
-Rp18
-sS'receptors'
+(S'5ht1a'
+p17
+I37
+I43
+tp18
+a(S'5ht1a'
 p19
-g3
-((lp20
-S'5ht1a'
+I930
+I936
+tp20
+a(S'5ht1a'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
+I415
+I421
+tp22
+a(S'5ht1a'
+p23
+I1142
+I1148
+tp24
+a(S'5ht1a'
 p25
-g3
-((lp26
-S"(124, u'(?i)\\\\b(thirds|third)(-|\\\\s+)?(ventricles|ventricle)\\\\b')"
-p27
-aS"(170, u'(?i)\\\\b(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
+I368
+I374
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-atp30
-Rp31
-sS'year'
+g3
+((lp30
+S"(51, u'\\\\bway100635')"
+p31
+aS"(17, u'\\\\bpet')"
 p32
-V2010
+aS"(19, u'\\\\bpositron emission tomography')"
 p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(134, u'\\\\br ?doi')"
+atp34
+Rp35
+sS'regions'
 p36
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p37
-aS"(175, u'\\\\bdoi')"
-p38
-atp39
-Rp40
-sS'species'
-p41
 g3
-((lp42
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p43
-aS"(4476, u'(?i)\\\\b(turkeys|turkey)\\\\b')"
-p44
-atp45
-Rp46
+((lp37
+tp38
+Rp39
+sS'year'
+p40
+V2005
+p41
+sS'species'
+p42
+g3
+((lp43
+tp44
+Rp45
 sb.

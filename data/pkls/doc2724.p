@@ -2,43 +2,44 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(194, u'\\\\bmethysergide')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.STAINING'
-p10
-aS'Method.AGONIST'
-p11
-aS'Method.ANTAGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(2, u'\\\\bappetite')"
-p17
-atp18
-Rp19
+tp10
+Rp11
 sS'receptors'
-p20
+p12
 g3
-((lp21
-S'5ht2'
+((lp13
+(S'5ht3'
+p14
+I1565
+I1569
+tp15
+atp16
+Rp17
+sS'raw_text_methods'
+p18
+g3
+((lp19
+S"(2, u'\\\\blabeling')"
+p20
+aS"(17, u'\\\\bpet')"
+p21
+aS"(19, u'\\\\bpositron emission tomography')"
 p22
-aS'5ht1'
+aS"(18, u'\\\\bimaging')"
 p23
 atp24
 Rp25
@@ -46,32 +47,18 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(238, u'(?i)\\\\b(laminas|lamina)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p28
-aS"(55, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(parabrachials|parabrachial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'year'
-p33
-V2010
-p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(53, u'\\\\bmethysergide')"
-p37
-atp38
-Rp39
+p31
+V1999
+p32
 sS'species'
-p40
+p33
 g3
-((lp41
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+((lp34
+tp35
+Rp36
 sb.

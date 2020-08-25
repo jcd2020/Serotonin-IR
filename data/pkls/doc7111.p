@@ -2,78 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STAINING'
-p9
-atp10
-Rp11
+S'Method.IMMUNOHISTOCHEMISTRY'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(20, u'\\\\bmood')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
-p14
-aS"(35, u'\\\\bstress')"
-p15
-aS"(10, u'\\\\banxiety')"
-p16
-atp17
-Rp18
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht5'
-p21
-aS'5ht1a'
-p22
-atp23
-Rp24
+((lp17
+(S'5ht1a'
+p18
+I1323
+I1329
+tp19
+a(S'5ht1a'
+p20
+I898
+I904
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+tp26
+Rp27
 sS'regions'
-p25
-g3
-((lp26
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p28
-atp29
-Rp30
-sS'year'
+g3
+((lp29
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p30
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
 p31
-V2003
-p32
-sS'agonists'
-p33
-g3
-((lp34
-tp35
-Rp36
+atp32
+Rp33
+sS'year'
+p34
+V2012
+p35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
-p40
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p43
-atp44
-Rp45
+((lp37
+tp38
+Rp39
 sb.

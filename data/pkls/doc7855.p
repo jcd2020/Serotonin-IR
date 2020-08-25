@@ -2,68 +2,98 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(33, u'\\\\blocomot')"
+p11
+aS"(12, u'\\\\bsleep')"
 p12
-g3
-((lp13
-S"(20, u'\\\\baggressi')"
-p14
-atp15
-Rp16
+aS"(26, u'\\\\bbehav')"
+p13
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht1a'
-p19
-aS'5ht2'
+((lp17
+(S'5ht1a'
+p18
+I97
+I103
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
+I723
+I729
+tp21
+a(S'5ht1a'
+p22
+I1784
+I1790
+tp23
+a(S'5ht1a'
+p24
+I1167
+I1173
 tp25
-Rp26
-sS'year'
-p27
-V1999
+a(S'5ht1a'
+p26
+I1371
+I1377
+tp27
+a(S'5ht1a'
 p28
-sS'agonists'
-p29
-g3
-((lp30
-S"(76, u'\\\\btrifluoromethylphenylpiperazine')"
-p31
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+I683
+I689
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
 p32
-aS"(175, u'\\\\bdoi')"
-p33
-atp34
-Rp35
-sS'species'
-p36
 g3
-((lp37
-S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
-p38
-atp39
-Rp40
+((lp33
+S"(13, u'\\\\bagonist')"
+p34
+aS"(51, u'\\\\bway100635')"
+p35
+aS"(3, u'\\\\bimmunoreactiv')"
+p36
+aS"(12, u'\\\\bantagonist')"
+p37
+atp38
+Rp39
+sS'regions'
+p40
+g3
+((lp41
+tp42
+Rp43
+sS'year'
+p44
+V2004
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p48
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p49
+atp50
+Rp51
 sb.

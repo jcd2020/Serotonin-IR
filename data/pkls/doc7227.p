@@ -2,74 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(146, u'\\\\bgr ?125487')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(5, u'\\\\btherap')"
 p10
-aS'Method.AGONIST'
+aS"(15, u'\\\\bmemory')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(16, u'\\\\blearning')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(2, u'\\\\bdisorder')"
 p14
-g3
-((lp15
-S"(8, u'\\\\blearning')"
-p16
-aS"(6, u'\\\\bcognit')"
-p17
-aS"(7, u'\\\\bmemory')"
-p18
-aS"(4, u'\\\\blocomot')"
-p19
-atp20
-Rp21
+atp15
+Rp16
 sS'receptors'
-p22
+p17
 g3
-((lp23
-S'5ht4'
-p24
-atp25
-Rp26
-sS'regions'
+((lp18
+(S'5ht2c'
+p19
+I485
+I492
+tp20
+a(S'5ht2a'
+p21
+I485
+I491
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(13, u'\\\\bagonist')"
 p27
-g3
-((lp28
-tp29
+aS"(35, u'\\\\badenosine')"
+p28
+atp29
 Rp30
-sS'year'
+sS'regions'
 p31
-V2003
-p32
-sS'agonists'
+g3
+((lp32
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
 p33
-g3
-((lp34
-S"(205, u'\\\\brs ?67333')"
-p35
-aS"(149, u'\\\\bmem')"
+atp34
+Rp35
+sS'year'
 p36
-atp37
-Rp38
+V2009
+p37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p41
-atp42
-Rp43
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

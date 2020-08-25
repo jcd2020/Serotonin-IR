@@ -2,64 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.OPTOGENETICS'
-p9
-atp10
-Rp11
+S'Method.IMMUNOHISTOCHEMISTRY'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(32, u'\\\\bvomit')"
+p11
+aS"(5, u'\\\\btherap')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
+aS"(28, u'\\\\bgastrointestin')"
+p13
+aS"(3, u'\\\\bclinical')"
 p14
-aS"(30, u'\\\\bparkinsons')"
-p15
-atp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht1a'
-p20
+((lp18
+(S'5ht3'
+p19
+I492
+I497
+tp20
 atp21
 Rp22
-sS'regions'
+sS'raw_text_methods'
 p23
 g3
 ((lp24
-S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+S"(2, u'\\\\blabeling')"
 p25
 atp26
 Rp27
-sS'year'
+sS'regions'
 p28
-V2015
-p29
-sS'agonists'
-p30
 g3
-((lp31
-tp32
-Rp33
+((lp29
+tp30
+Rp31
+sS'year'
+p32
+V2017
+p33
 sS'species'
 p34
 g3
 ((lp35
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-atp37
-Rp38
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p37
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p38
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

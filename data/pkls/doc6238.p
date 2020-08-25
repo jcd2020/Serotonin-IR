@@ -2,86 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(194, u'\\\\bmethysergide')"
+S'Method.IMMUNOHISTOCHEMISTRY'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(8, u'\\\\banxi')"
 p10
-aS'Method.AGONIST'
+aS"(26, u'\\\\bbehav')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+aS"(9, u'\\\\bstress')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht7'
+I877
+I883
+tp19
+a(S'5ht1a'
 p20
-aS'5ht1b'
-p21
-aS'5ht1a'
+I1742
+I1748
+tp21
+a(S'5ht1a'
 p22
-aS'5ht2'
-p23
-aS'5ht1'
-p24
-aS'5ht2a'
-p25
-aS'5ht1d'
+I1306
+I1312
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-atp27
-Rp28
+g3
+((lp27
+tp28
+Rp29
 sS'regions'
-p29
+p30
 g3
-((lp30
-tp31
-Rp32
+((lp31
+tp32
+Rp33
 sS'year'
-p33
-V2018
 p34
-sS'agonists'
+V2016
 p35
-g3
-((lp36
-S"(96, u'\\\\bsumatriptan')"
-p37
-aS"(53, u'\\\\bmethysergide')"
-p38
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p39
-atp40
-Rp41
 sS'species'
-p42
+p36
 g3
-((lp43
-S"(1395, u'(?i)\\\\b(frogs|frog)\\\\b')"
-p44
-aS"(2621, u'(?i)\\\\b(vertebrates|vertebrate)\\\\b')"
-p45
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p46
-aS"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p47
-atp48
-Rp49
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

@@ -2,72 +2,88 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(72, u'\\\\bagomelatine')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(31, u'\\\\brespiratory')"
 p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(9, u'\\\\bdepress')"
-p16
-aS"(3, u'\\\\bsleep')"
-p17
-aS"(1, u'\\\\bmood')"
-p18
-atp19
-Rp20
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I1393
+I1399
+tp16
+a(S'5ht3'
+p17
+I507
+I512
+tp18
+a(S'5ht1a'
+p19
+I311
+I317
+tp20
+a(S'5ht1'
 p21
-g3
-((lp22
-S'5ht2c'
+I949
+I954
+tp22
+a(S'5ht1a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
+I54
+I60
+tp24
+a(S'5ht2'
+p25
+I407
+I412
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
 g3
-((lp27
-S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+((lp30
+S"(13, u'\\\\bagonist')"
 p31
-V2007
+aS"(15, u'\\\\b8ohdpat')"
 p32
-sS'agonists'
+aS"(49, u'\\\\bdoi')"
 p33
+atp34
+Rp35
+sS'regions'
+p36
 g3
-((lp34
-tp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
-p39
-aS"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
+((lp37
+tp38
+Rp39
+sS'year'
 p40
-atp41
-Rp42
+V1991
+p41
+sS'species'
+p42
+g3
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

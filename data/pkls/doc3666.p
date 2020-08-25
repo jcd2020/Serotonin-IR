@@ -2,68 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(103, u'\\\\bclomipramine')"
+S'Method.ANTAGONIST'
 p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.AGONIST'
-p11
-atp12
-Rp13
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-tp16
-Rp17
+((lp9
+tp10
+Rp11
 sS'receptors'
-p18
+p12
 g3
-((lp19
-S'5ht1a'
+((lp13
+(S'5ht3'
+p14
+I834
+I839
+tp15
+a(S'5ht3'
+p16
+I236
+I241
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-atp21
-Rp22
+g3
+((lp21
+S"(12, u'\\\\bantagonist')"
+p22
+atp23
+Rp24
 sS'regions'
-p23
+p25
 g3
-((lp24
-tp25
-Rp26
-sS'year'
+((lp26
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p27
-V2003
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p28
-sS'agonists'
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p29
-g3
-((lp30
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p31
-atp32
-Rp33
-sS'species'
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p30
+atp31
+Rp32
+sS'year'
+p33
+V1997
 p34
+sS'species'
+p35
 g3
-((lp35
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sb.

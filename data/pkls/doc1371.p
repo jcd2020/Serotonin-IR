@@ -2,78 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.AGONIST'
 p5
-aS"(58, u'\\\\bhaloperidol')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht2a'
-p21
+((lp15
+(S'5ht1'
+p16
+I171
+I176
+tp17
+a(S'5ht1a'
+p18
+I1407
+I1413
+tp19
+a(S'5ht1'
+p20
+I436
+I441
+tp21
 atp22
 Rp23
-sS'regions'
+sS'raw_text_methods'
 p24
 g3
 ((lp25
-S"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p26
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+aS"(21, u'\\\\bipsapirone')"
 p27
-aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p28
-atp29
-Rp30
+atp28
+Rp29
+sS'regions'
+p30
+g3
+((lp31
+tp32
+Rp33
 sS'year'
-p31
-V2014
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(175, u'\\\\bdoi')"
+p34
+V2002
 p35
-aS"(125, u'\\\\btcb ?2')"
-p36
-aS"(158, u'\\\\blsd')"
-p37
-aS"(43, u'\\\\bhaloperidol')"
-p38
-atp39
-Rp40
 sS'species'
-p41
+p36
 g3
-((lp42
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p43
-atp44
-Rp45
+((lp37
+tp38
+Rp39
 sb.

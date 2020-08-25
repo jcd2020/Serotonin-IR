@@ -2,72 +2,107 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(14, u'\\\\bcogniti')"
 p12
-g3
-((lp13
-tp14
-Rp15
-sS'receptors'
+aS"(25, u'\\\\bsocial')"
+p13
+aS"(2, u'\\\\bdisorder')"
+p14
+aS"(20, u'\\\\bmood')"
+p15
+aS"(23, u'\\\\bantipsychotic')"
 p16
+aS"(5, u'\\\\btherap')"
+p17
+atp18
+Rp19
+sS'receptors'
+p20
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p23
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+((lp21
+(S'5ht1a'
+p22
+I1527
+I1533
+tp23
+a(S'5ht1a'
 p24
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p25
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1685
+I1691
+tp25
+a(S'5ht1a'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2001
+I184
+I190
+tp27
+a(S'5ht1a'
+p28
+I47
+I53
+tp29
+a(S'5ht1a'
 p30
-sS'agonists'
-p31
-g3
-((lp32
+I706
+I712
+tp31
+a(S'5ht1'
+p32
+I1527
+I1533
 tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p37
-aS"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
+a(S'5ht1'
+p34
+I1685
+I1691
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
 p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-aS"(3636, u'(?i)\\\\b(martins|martin)\\\\b')"
+g3
+((lp39
+S"(13, u'\\\\bagonist')"
 p40
-atp41
-Rp42
+aS"(12, u'\\\\bantagonist')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p46
+atp47
+Rp48
+sS'year'
+p49
+V2010
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p53
+atp54
+Rp55
 sb.

@@ -2,86 +2,125 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(149, u'\\\\bsb ?203186')"
-p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-aS"(193, u'\\\\bmesulergine')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
+p5
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(4, u'\\\\btreatment')"
 p13
 atp14
 Rp15
-sS'topics'
+sS'receptors'
 p16
 g3
 ((lp17
-tp18
-Rp19
-sS'receptors'
+(S'5ht2a'
+p18
+I1673
+I1679
+tp19
+a(S'5ht2a'
 p20
-g3
-((lp21
-S'5ht7'
+I1061
+I1067
+tp21
+a(S'5ht2c'
 p22
-aS'5ht1a'
-p23
-aS'5ht4'
+I1014
+I1020
+tp23
+a(S'5ht2c'
 p24
-aS'5ht2c'
-p25
-aS'5ht1'
+I919
+I926
+tp25
+a(S'5ht2c'
 p26
-aS'5ht2a'
-p27
-aS'5ht7a'
+I626
+I633
+tp27
+a(S'5ht2a'
 p28
-atp29
-Rp30
-sS'regions'
-p31
-g3
-((lp32
+I919
+I925
+tp29
+a(S'5ht2a'
+p30
+I56
+I62
+tp31
+a(S'5ht5'
+p32
+I587
+I597
 tp33
-Rp34
-sS'year'
-p35
-V1999
+a(S'5ht2a'
+p34
+I626
+I632
+tp35
+a(S'5ht2c'
 p36
-sS'agonists'
-p37
-g3
-((lp38
-S"(165, u'\\\\bmesulergine')"
-p39
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p40
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p41
-aS"(219, u'\\\\b5 ?ct')"
+I1673
+I1680
+tp37
+a(S'5ht2a'
+p38
+I1791
+I1797
+tp39
+atp40
+Rp41
+sS'raw_text_methods'
 p42
-atp43
-Rp44
-sS'species'
-p45
 g3
-((lp46
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp43
+S"(53, u'\\\\bketanserin')"
+p44
+aS"(13, u'\\\\bagonist')"
+p45
+aS"(49, u'\\\\bdoi')"
+p46
+aS"(50, u'\\\\bm100907')"
 p47
-atp48
-Rp49
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p48
+aS"(12, u'\\\\bantagonist')"
+p49
+atp50
+Rp51
+sS'regions'
+p52
+g3
+((lp53
+tp54
+Rp55
+sS'year'
+p56
+V2015
+p57
+sS'species'
+p58
+g3
+((lp59
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p60
+atp61
+Rp62
 sb.

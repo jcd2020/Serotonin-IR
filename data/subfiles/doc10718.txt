@@ -1,0 +1,4 @@
+Sugimoto, Y., et al. (1999). "Involvement of nitric oxide in the 5-HT1A autoreceptor-mediated hyperphagia in rats." Adv Exp Med Biol 467: 109-111.
+
+	Effects of nitric oxide synthase(NOS) inhibitors on 8-hydroxy-2-di-n-(propylamino)tetralin (8-OH-DPAT)-induced hyperphagia which is mediated by the 5-HT autoreceptor were investigated. The non-selective NOS inhibitor NG-nitro-L-arginine methyl ester (L-NAME) and neuronal NOS (nNOS) inhibitor 7-nitroindazole (7-NI) clearly suppressed increases in food intake by 8-OH-DPAT. Both hypophagic effects of L-NAME and 7-NI were reversed by the nitric oxide precursor, L-arginine. The findings suggest that nitric oxide formed in the brain is involved in 8-OH-DPAT-induced hyperphagia.
+

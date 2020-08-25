@@ -2,74 +2,107 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-tp14
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(12, u'\\\\bsleep')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+atp14
 Rp15
 sS'receptors'
 p16
 g3
 ((lp17
-S'5ht1b'
+(S'5ht1a'
 p18
-aS'5ht1a'
-p19
-aS'5ht1'
+I403
+I409
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(387, u'(?i)\\\\b(spinals|spinal)(-|\\\\s+)?(subarachnoids|subarachnoid)(-|\\\\s+)?(spaces|space)\\\\b')"
-p25
-aS"(379, u'(?i)\\\\b(subarachnoids|subarachnoid)(-|\\\\s+)?(spaces|space)\\\\b')"
+I2012
+I2018
+tp21
+a(S'5ht1a'
+p22
+I1002
+I1008
+tp23
+a(S'5ht2'
+p24
+I1742
+I1747
+tp25
+a(S'5ht1a'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V1990
+I447
+I453
+tp27
+a(S'5ht1a'
+p28
+I93
+I99
+tp29
+a(S'5ht1a'
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(179, u'\\\\b5 ?meo ?dmt')"
-p33
-aS"(155, u'\\\\bmcpp')"
+I2080
+I2086
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-aS"(67, u'\\\\bru ?24969')"
-p36
-atp37
-Rp38
-sS'species'
-p39
 g3
-((lp40
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+((lp35
+S"(41, u'\\\\bhaloperidol')"
+p36
+aS"(21, u'\\\\bipsapirone')"
+p37
+aS"(22, u'\\\\bbuspirone')"
+p38
+aS"(15, u'\\\\b8ohdpat')"
+p39
+aS"(13, u'\\\\bagonist')"
+p40
+aS"(46, u'\\\\bspiperone')"
 p41
-atp42
-Rp43
+aS"(9, u'\\\\britanserin')"
+p42
+aS"(12, u'\\\\bantagonist')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+tp48
+Rp49
+sS'year'
+p50
+V1994
+p51
+sS'species'
+p52
+g3
+((lp53
+tp54
+Rp55
 sb.

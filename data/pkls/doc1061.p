@@ -2,70 +2,66 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(9, u'\\\\bdepress')"
+(S'5ht3'
 p15
-aS"(4, u'\\\\blocomot')"
-p16
-atp17
-Rp18
-sS'receptors'
-p19
-g3
-((lp20
-S'5ht3'
+I75
+I79
+tp16
+a(S'5ht3'
+p17
+I240
+I244
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-atp22
-Rp23
-sS'regions'
+g3
+((lp22
+S"(20, u'\\\\bondansetron')"
+p23
+aS"(12, u'\\\\bantagonist')"
 p24
+atp25
+Rp26
+sS'regions'
+p27
 g3
-((lp25
-tp26
-Rp27
-sS'year'
-p28
-V2013
+((lp28
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p29
-sS'agonists'
-p30
-g3
-((lp31
-tp32
-Rp33
+atp30
+Rp31
+sS'year'
+p32
+V1993
+p33
 sS'species'
 p34
 g3
 ((lp35
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p36
-aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
-p37
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+tp36
+Rp37
 sb.

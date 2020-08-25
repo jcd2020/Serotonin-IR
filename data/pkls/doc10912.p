@@ -2,74 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\bzacopride')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(24, u'\\\\banxiolytic')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(25, u'\\\\bsocial')"
+p12
+aS"(7, u'\\\\bdepressi')"
 p13
-g3
-((lp14
-tp15
-Rp16
-sS'receptors'
+aS"(9, u'\\\\bstress')"
+p14
+aS"(29, u'\\\\bhyperactiv')"
+p15
+aS"(26, u'\\\\bbehav')"
+p16
+aS"(8, u'\\\\banxi')"
 p17
-g3
-((lp18
-S'5ht3a'
-p19
-aS'5ht3'
+atp18
+Rp19
+sS'receptors'
 p20
-atp21
-Rp22
-sS'regions'
-p23
 g3
-((lp24
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p25
-aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
-p29
-V2003
+((lp21
+(S'5ht3'
+p22
+I1870
+I1875
+tp23
+a(S'5ht2a'
+p24
+I1690
+I1696
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
+g3
+((lp29
+S"(16, u'\\\\bdiazepam')"
 p30
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p31
+aS"(10, u'\\\\bmethamphetamine')"
+p32
+atp33
+Rp34
+sS'regions'
+p35
 g3
-((lp32
-S"(208, u'\\\\bzacopride')"
-p33
-aS"(189, u'\\\\bethanol')"
-p34
-atp35
-Rp36
-sS'species'
+((lp36
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p37
-g3
-((lp38
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
 p41
-atp42
-Rp43
+V2017
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p45
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p46
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p47
+atp48
+Rp49
 sb.

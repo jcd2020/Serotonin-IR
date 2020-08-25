@@ -2,70 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
 p12
 g3
 ((lp13
-tp14
-Rp15
-sS'receptors'
+(S'5ht2a'
+p14
+I908
+I914
+tp15
+a(S'5ht2a'
 p16
+I1381
+I1387
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
 g3
-((lp17
-S'5ht1b'
-p18
-aS'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp21
+S"(53, u'\\\\bketanserin')"
 p22
-g3
-((lp23
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+aS"(11, u'\\\\bfluoxetine')"
+p23
+aS"(12, u'\\\\bantagonist')"
 p24
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
-p28
-V1989
-p29
-sS'agonists'
-p30
+atp25
+Rp26
+sS'regions'
+p27
 g3
-((lp31
-tp32
-Rp33
+((lp28
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p29
+atp30
+Rp31
+sS'year'
+p32
+V1995
+p33
 sS'species'
 p34
 g3
 ((lp35
-S"(6878, u'(?i)\\\\b(guans|guan)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
-p39
-atp40
-Rp41
+atp37
+Rp38
 sb.

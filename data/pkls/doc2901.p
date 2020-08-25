@@ -2,78 +2,104 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+aS'Method.AGONIST'
 p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p10
-atp11
-Rp12
+atp8
+Rp9
 sS'topics'
-p13
+p10
 g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-atp16
-Rp17
+((lp11
+S"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht3'
-p20
-atp21
-Rp22
-sS'regions'
+((lp16
+(S'5ht2a'
+p17
+I301
+I307
+tp18
+a(S'5ht2'
+p19
+I994
+I999
+tp20
+a(S'5ht2'
+p21
+I1144
+I1149
+tp22
+a(S'5ht2a'
 p23
-g3
-((lp24
-S"(55, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(parabrachials|parabrachial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I542
+I548
+tp24
+a(S'5ht2'
 p25
-aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
-p26
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I733
+I738
+tp26
+a(S'5ht2'
 p27
-aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-aS"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+I559
+I564
+tp28
+a(S'5ht2a'
 p29
-aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
-p33
-V2005
-p34
-sS'agonists'
+I104
+I110
+tp30
+a(S'5ht2'
+p31
+I1262
+I1267
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
 p35
 g3
 ((lp36
-S"(191, u'\\\\bphenylbiguanide')"
+S"(1, u'\\\\bneuroimag')"
 p37
-atp38
-Rp39
-sS'species'
+aS"(13, u'\\\\bagonist')"
+p38
+aS"(17, u'\\\\bpet')"
+p39
+aS"(18, u'\\\\bimaging')"
 p40
+aS"(12, u'\\\\bantagonist')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
 g3
-((lp41
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p42
-aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
-p43
-atp44
-Rp45
+((lp45
+tp46
+Rp47
+sS'year'
+p48
+V2017
+p49
+sS'species'
+p50
+g3
+((lp51
+tp52
+Rp53
 sb.

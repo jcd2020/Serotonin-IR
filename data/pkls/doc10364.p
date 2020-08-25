@@ -2,74 +2,99 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(11, u'\\\\bobsessive compulsive disorder')"
+p12
+aS"(2, u'\\\\bdisorder')"
 p13
-g3
-((lp14
-tp15
-Rp16
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht1a'
-p19
-aS'5ht2a'
+((lp17
+(S'5ht1b'
+p18
+I566
+I572
+tp19
+a(S'5ht1'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(364, u'(?i)\\\\b(middles|middle)(-|\\\\s+)?(cerebrals|cerebral)(-|\\\\s+)?(arteries|artery)\\\\b')"
-p25
-aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I566
+I572
+tp21
+a(S'5ht2'
+p22
+I578
+I583
+tp23
+a(S'5ht1a'
+p24
+I854
+I860
+tp25
+a(S'5ht1a'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V1993
+I558
+I564
+tp27
+a(S'5ht1a'
+p28
+I1400
+I1406
+tp29
+a(S'5ht1a'
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(79, u'\\\\burapidil')"
-p33
-aS"(45, u'\\\\bipsapirone')"
+I734
+I740
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
-atp35
-Rp36
-sS'species'
-p37
 g3
-((lp38
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p39
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp35
+S"(13, u'\\\\bagonist')"
+p36
+aS"(15, u'\\\\b8ohdpat')"
+p37
+aS"(12, u'\\\\bantagonist')"
+p38
+atp39
+Rp40
+sS'regions'
 p41
-atp42
-Rp43
+g3
+((lp42
+tp43
+Rp44
+sS'year'
+p45
+V1995
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

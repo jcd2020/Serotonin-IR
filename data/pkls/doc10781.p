@@ -2,60 +2,64 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(1, u'\\\\bpatient')"
 p11
-g3
-((lp12
-S"(11, u'\\\\banxiolyt')"
-p13
-atp14
-Rp15
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
 p16
-g3
-((lp17
-S'5ht1a'
+I568
+I574
+tp17
+a(S'5ht2a'
 p18
-atp19
-Rp20
-sS'regions'
-p21
+I1102
+I1108
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
 g3
-((lp22
-tp23
-Rp24
-sS'year'
+((lp23
+S"(1, u'\\\\bneuroimag')"
+p24
+aS"(17, u'\\\\bpet')"
 p25
-V1994
-p26
-sS'agonists'
-p27
+atp26
+Rp27
+sS'regions'
+p28
 g3
-((lp28
-S"(20, u'\\\\bbuspirone')"
-p29
-aS"(45, u'\\\\bipsapirone')"
+((lp29
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p30
-aS"(83, u'\\\\bzalospirone')"
-p31
-aS"(42, u'\\\\bgepirone')"
-p32
-atp33
-Rp34
+atp31
+Rp32
+sS'year'
+p33
+V2005
+p34
 sS'species'
 p35
 g3

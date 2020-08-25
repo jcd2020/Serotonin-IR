@@ -1,0 +1,4 @@
+Hutson, P. H., et al. (1986). "Neurochemical and behavioural evidence for mediation of the hyperphagic action of 8-OH-DPAT by 5-HT cell body autoreceptors." Eur J Pharmacol 129(3): 347-352.
+
+	Administration of 60 micrograms/kg s.c. of the 5-HT1A agonist 8-hydroxy-2-(di-n-propylamino)-tetralin (8-OH-DPAT), a dose previously shown to cause hyperphagia in satiated rats (but not to cause the 5-HT behavioural syndrome) decreased 5-HIAA and 5-HIAA/5-HT ratio in several brain regions, the most marked effects being in pons + medulla oblongata, a region containing 5-HT cell bodies and ascending 5-HT axons. Micro-infusion of 8-OH-DPAT (250 and 500 ng) into the dorsal or medial raphe nuclei significantly increased food intake and feeding duration but did not produce the 5-HT behavioural syndrome. Results suggest that 8-OH-DPAT induced hyperphagia is mediated via a agonist action on somatodendritic 5-HT autoreceptors.
+

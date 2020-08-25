@@ -2,88 +2,102 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(3, u'\\\\bsleep')"
-p14
-atp15
-Rp16
+((lp10
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I425
+I431
+tp16
+a(S'5ht2a'
 p17
-g3
-((lp18
-S'5ht1c'
+I1869
+I1875
+tp18
+a(S'5ht2a'
 p19
-aS'5ht1b'
-p20
-aS'5ht1a'
+I1393
+I1399
+tp20
+a(S'5ht1a'
 p21
-aS'5ht3'
-p22
-aS'5ht2'
+I1274
+I1280
+tp22
+a(S'5ht1a'
 p23
-aS'5ht1'
-p24
-aS'5ht1d'
+I1626
+I1632
+tp24
+a(S'5ht2'
 p25
-atp26
-Rp27
-sS'regions'
-p28
-g3
-((lp29
+I539
+I544
+tp26
+a(S'5ht1a'
+p27
+I35
+I46
+tp28
+a(S'5ht1a'
+p29
+I296
+I302
 tp30
-Rp31
-sS'year'
-p32
-V1992
+atp31
+Rp32
+sS'raw_text_methods'
 p33
-sS'agonists'
-p34
 g3
-((lp35
-S"(50, u'\\\\bmescaline')"
+((lp34
+S"(13, u'\\\\bagonist')"
+p35
+aS"(15, u'\\\\b8ohdpat')"
 p36
-aS"(149, u'\\\\bmem')"
+aS"(49, u'\\\\bdoi')"
 p37
-atp38
-Rp39
-sS'species'
-p40
-g3
-((lp41
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+aS"(23, u'\\\\bmdl')"
+p38
+aS"(12, u'\\\\bantagonist')"
+p39
+atp40
+Rp41
+sS'regions'
 p42
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p43
-aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
-p44
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p45
-aS"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+g3
+((lp43
+tp44
+Rp45
+sS'year'
 p46
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+V2001
 p47
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p48
-atp49
-Rp50
+g3
+((lp49
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

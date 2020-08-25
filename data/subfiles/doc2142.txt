@@ -1,0 +1,4 @@
+Cornfield, L. J., et al. (1989). "MDL 73005EF: partial agonist at the 5-HT1A receptor negatively linked to adenylate cyclase." Eur J Pharmacol 173(2-3): 189-192.
+
+	MDL 73005EF has been recently described as a potent, highly selective 5-HT1A ligand. Although proposed to act predominantly as an antagonist (M. Hibert, A.K. Mir, G. Maghioros, P. Moser, D.N. Middlemiss, M.D. Trickleband and J.R. Fozard, 1988, The Pharmacological properties of MDL 73005EF: a potent and selective ligant at 5-HT1A receptors, Br. J. Pharmacol. 93, 2P), we have demonstrated that MDL 73005EF also acts as a highly efficacious partial agonist at the 5HT1A receptor, based on its ability to inhibit forskolin-stimulated adenylate cyclase in rat hippocampal membranes. Compared with two structurally related 5-HT1A partial agonists, the rank order of potency of MDL 73005EF in the FSC assay was comparable to affinity calculated by radioligand binding.
+

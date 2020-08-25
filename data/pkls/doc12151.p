@@ -2,74 +2,59 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(43, u'\\\\bgr ?127935')"
-p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-tp16
-Rp17
+((lp8
+tp9
+Rp10
 sS'receptors'
-p18
+p11
 g3
-((lp19
-S'5ht1b'
-p20
-aS'5ht1a'
-p21
-aS'5ht4'
-p22
-aS'5ht1d'
-p23
-atp24
-Rp25
+((lp12
+(S'5ht1a'
+p13
+I1867
+I1873
+tp14
+atp15
+Rp16
+sS'raw_text_methods'
+p17
+g3
+((lp18
+S"(15, u'\\\\b8ohdpat')"
+p19
+atp20
+Rp21
 sS'regions'
-p26
+p22
 g3
-((lp27
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p28
-atp29
-Rp30
+((lp23
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p24
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p31
-V1999
-p32
-sS'agonists'
-p33
-g3
-((lp34
-tp35
-Rp36
+p28
+V2004
+p29
 sS'species'
-p37
+p30
 g3
-((lp38
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p39
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p40
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p41
-atp42
-Rp43
+((lp31
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p32
+atp33
+Rp34
 sb.

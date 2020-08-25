@@ -2,66 +2,122 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(103, u'\\\\bclomipramine')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-tp10
-Rp11
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(6, u'\\\\baggressi')"
+p11
+aS"(5, u'\\\\btherap')"
 p12
-g3
-((lp13
-tp14
-Rp15
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(25, u'\\\\bsocial')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
+((lp18
+(S'5ht1a'
+p19
+I1523
+I1529
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I757
+I763
+tp22
+a(S'5ht1a'
 p23
-aS"(66, u'(?i)\\\\b(cerebellars|cerebellar)(-|\\\\s+)?(peduncle|peduncles)\\\\b')"
-p24
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I2356
+I2362
+tp24
+a(S'5ht1a'
 p25
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+I480
+I486
+tp26
+a(S'5ht1a'
+p27
+I831
+I837
+tp28
+a(S'5ht1a'
 p29
-V1993
-p30
-sS'agonists'
+I2101
+I2107
+tp30
+a(S'5ht1a'
 p31
-g3
-((lp32
-tp33
-Rp34
-sS'species'
+I1629
+I1635
+tp32
+a(S'5ht1a'
+p33
+I2200
+I2206
+tp34
+a(S'5ht1b'
 p35
-g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I887
+I895
+tp36
+a(S'5ht1a'
 p37
-atp38
-Rp39
+I887
+I893
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
+p41
+g3
+((lp42
+S"(21, u'\\\\bipsapirone')"
+p43
+aS"(22, u'\\\\bbuspirone')"
+p44
+aS"(15, u'\\\\b8ohdpat')"
+p45
+aS"(13, u'\\\\bagonist')"
+p46
+aS"(51, u'\\\\bway100635')"
+p47
+aS"(12, u'\\\\bantagonist')"
+p48
+atp49
+Rp50
+sS'regions'
+p51
+g3
+((lp52
+tp53
+Rp54
+sS'year'
+p55
+V1999
+p56
+sS'species'
+p57
+g3
+((lp58
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p59
+atp60
+Rp61
 sb.

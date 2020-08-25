@@ -2,70 +2,91 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
+S'Method.PET'
 p5
-aS"(117, u'\\\\bketanserin')"
+aS'Method.ANTAGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(14, u'\\\\bcogniti')"
 p11
-aS'Method.AGONIST'
+aS"(1, u'\\\\bpatient')"
 p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-tp17
-Rp18
+aS"(17, u'\\\\balzheimer')"
+p13
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht1a'
-p21
-aS'5ht1'
+((lp17
+(S'5ht1a'
+p18
+I241
+I247
+tp19
+a(S'5ht1a'
+p20
+I812
+I818
+tp21
+a(S'5ht1a'
 p22
-aS'5ht2a'
-p23
-atp24
-Rp25
-sS'regions'
+I550
+I556
+tp23
+a(S'5ht1a'
+p24
+I601
+I607
+tp25
+a(S'5ht1a'
 p26
-g3
-((lp27
-tp28
+I353
+I359
+tp27
+atp28
 Rp29
-sS'year'
+sS'raw_text_methods'
 p30
-V1995
-p31
-sS'agonists'
+g3
+((lp31
+S"(1, u'\\\\bneuroimag')"
 p32
-g3
-((lp33
-S"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(2, u'\\\\blabeling')"
+p33
+aS"(17, u'\\\\bpet')"
 p34
-aS"(175, u'\\\\bdoi')"
+aS"(19, u'\\\\bpositron emission tomography')"
 p35
-atp36
-Rp37
-sS'species'
-p38
+aS"(12, u'\\\\bantagonist')"
+p36
+atp37
+Rp38
+sS'regions'
+p39
 g3
-((lp39
-tp40
-Rp41
+((lp40
+tp41
+Rp42
+sS'year'
+p43
+V2008
+p44
+sS'species'
+p45
+g3
+((lp46
+tp47
+Rp48
 sb.

@@ -2,68 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.PET'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht4'
-p18
-atp19
-Rp20
-sS'regions'
+((lp16
+(S'5ht2a'
+p17
+I1798
+I1804
+tp18
+a(S'5ht2a'
+p19
+I1738
+I1744
+tp20
+a(S'5ht2a'
 p21
-g3
-((lp22
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+I1585
+I1591
+tp22
+a(S'5ht2a'
 p23
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
-p27
-V2009
-p28
-sS'agonists'
+I647
+I653
+tp24
+a(S'5ht2a'
+p25
+I31
+I42
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
 g3
 ((lp30
-tp31
-Rp32
-sS'species'
+S"(49, u'\\\\bdoi')"
+p31
+aS"(19, u'\\\\bpositron emission tomography')"
+p32
+aS"(18, u'\\\\bimaging')"
 p33
-g3
-((lp34
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p35
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+atp34
+Rp35
+sS'regions'
 p36
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+g3
+((lp37
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p38
 atp39
 Rp40
+sS'year'
+p41
+V2013
+p42
+sS'species'
+p43
+g3
+((lp44
+tp45
+Rp46
 sb.

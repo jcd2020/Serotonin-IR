@@ -2,82 +2,92 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(131, u'\\\\bm1')"
-p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+tp5
+Rp6
 sS'topics'
-p15
+p7
 g3
-((lp16
-tp17
-Rp18
+((lp8
+S"(22, u'\\\\bschizophreni')"
+p9
+aS"(8, u'\\\\banxi')"
+p10
+aS"(24, u'\\\\banxiolytic')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht1a'
-p21
-aS'5ht2c'
+((lp17
+(S'5ht2a'
+p18
+I590
+I596
+tp19
+a(S'5ht2a'
+p20
+I354
+I360
+tp21
+a(S'5ht2a'
 p22
-aS'5ht2a'
-p23
-atp24
-Rp25
-sS'regions'
-p26
+I777
+I783
+tp23
+a(S'5ht2'
+p24
+I221
+I226
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
 g3
-((lp27
-tp28
-Rp29
-sS'year'
+((lp29
+S"(27, u'\\\\blsd')"
 p30
-V2006
+aS"(49, u'\\\\bdoi')"
 p31
-sS'agonists'
+aS"(29, u'\\\\bdiethylamide')"
 p32
-g3
-((lp33
-S"(158, u'\\\\blsd')"
-p34
-aS"(5, u'\\\\b5 ?meo ?dipt')"
+atp33
+Rp34
+sS'regions'
 p35
-aS"(49, u'\\\\blysergic acid diethylamide')"
-p36
-aS"(235, u'\\\\bnn ?dimethyltryptamine')"
-p37
-atp38
-Rp39
-sS'species'
-p40
 g3
-((lp41
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+((lp36
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p37
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
+p41
+V2007
 p42
-aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+sS'species'
 p43
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp44
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p45
-atp46
-Rp47
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p46
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p47
+atp48
+Rp49
 sb.

@@ -1,0 +1,81 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(26, u'\\\\bbehav')"
+p9
+aS"(9, u'\\\\bstress')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
+p17
+I812
+I818
+tp18
+a(S'5ht2a'
+p19
+I162
+I168
+tp20
+a(S'5ht2a'
+p21
+I30
+I36
+tp22
+a(S'5ht2a'
+p23
+I643
+I649
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
+g3
+((lp28
+tp29
+Rp30
+sS'regions'
+p31
+g3
+((lp32
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p33
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p34
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
+p38
+V2007
+p39
+sS'species'
+p40
+g3
+((lp41
+tp42
+Rp43
+sb.

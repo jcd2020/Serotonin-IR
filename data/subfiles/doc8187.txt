@@ -1,0 +1,4 @@
+Nishimura, T., et al. (1988). "5-hydroxytryptamine inhibits cholinergic transmission through 5-HT1A receptor subtypes in rabbit vesical parasympathetic ganglia." Brain Res 442(2): 399-402.
+
+	Intracellular recordings were made from parasympathetic neurons of the rabbit vesical pelvic ganglia (VPG) maintained in vitro. 5-Hydroxytryptamine (5-HT) inhibited cholinergic transmission in the VPG by reducing the fast excitatory postsynaptic potential (EPSP) evoked by stimulations of pelvic nerves. 8-Hydroxy-2-(di-n-propyl-amino) tetralin hydrochloride mimicked the inhibitory effect of 5-HT on the ganglionic transmission. 5-HT-induced inhibition of the fast EPSP was antagonized by spiperone. The results suggest that 5-HT1A receptor subtypes mediate the inhibition of cholinergic transmission in the rabbit VPG.
+

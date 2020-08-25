@@ -2,78 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(125, u'\\\\btropisetron')"
+S'Method.ANTAGONIST'
 p5
-aS"(117, u'\\\\bketanserin')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(12, u'\\\\bsleep')"
 p11
-aS'Method.AGONIST'
+aS"(26, u'\\\\bbehav')"
 p12
 atp13
 Rp14
-sS'topics'
+sS'receptors'
 p15
 g3
 ((lp16
-S"(24, u'\\\\banalgesi')"
+(S'5ht1a'
 p17
-atp18
-Rp19
-sS'receptors'
-p20
-g3
-((lp21
-S'5ht3a'
-p22
-aS'5ht1a'
+I533
+I539
+tp18
+a(S'5ht1a'
+p19
+I972
+I978
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-aS'5ht3'
-p24
-aS'5ht2a'
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
 p25
-atp26
-Rp27
-sS'regions'
+aS"(15, u'\\\\b8ohdpat')"
+p26
+aS"(51, u'\\\\bway100635')"
+p27
+aS"(12, u'\\\\bantagonist')"
 p28
+atp29
+Rp30
+sS'regions'
+p31
 g3
-((lp29
-tp30
-Rp31
-sS'year'
-p32
-V1999
+((lp32
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
 p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+atp34
+Rp35
+sS'year'
 p36
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+V2001
 p37
-aS"(175, u'\\\\bdoi')"
-p38
-atp39
-Rp40
 sS'species'
-p41
+p38
 g3
-((lp42
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p43
-atp44
-Rp45
+((lp39
+tp40
+Rp41
 sb.

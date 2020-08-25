@@ -2,70 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.AGONIST'
 p5
-aS"(34, u'\\\\bmetergoline')"
-p6
-aS"(17, u'\\\\bnan ?190')"
-p7
-aS"(22, u'\\\\bpropranolol')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-S"(9, u'\\\\bdepress')"
-p18
-aS"(4, u'\\\\blocomot')"
-p19
-atp20
-Rp21
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
-p22
+p15
 g3
-((lp23
-S'5ht1a'
-p24
+((lp16
+(S'5ht1b'
+p17
+I1130
+I1136
+tp18
+a(S'5ht1b'
+p19
+I230
+I236
+tp20
+a(S'5ht1d'
+p21
+I917
+I923
+tp22
+a(S'5ht1d'
+p23
+I230
+I238
+tp24
 atp25
 Rp26
-sS'regions'
+sS'raw_text_methods'
 p27
 g3
 ((lp28
-tp29
-Rp30
-sS'year'
+S"(13, u'\\\\bagonist')"
+p29
+aS"(7, u'\\\\bpropranolol')"
+p30
+aS"(47, u'\\\\bsumatriptan')"
 p31
-V2014
-p32
-sS'agonists'
-p33
+atp32
+Rp33
+sS'regions'
+p34
 g3
-((lp34
-tp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+((lp35
+tp36
+Rp37
+sS'year'
+p38
+V2000
 p39
-atp40
-Rp41
+sS'species'
+p40
+g3
+((lp41
+tp42
+Rp43
 sb.

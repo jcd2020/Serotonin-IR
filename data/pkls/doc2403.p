@@ -2,76 +2,113 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(13, u'\\\\bantidepress')"
 p12
-g3
-((lp13
-S"(10, u'\\\\banxiety')"
+aS"(2, u'\\\\bdisorder')"
+p13
+aS"(7, u'\\\\bdepressi')"
 p14
-atp15
-Rp16
-sS'receptors'
+aS"(5, u'\\\\btherap')"
+p15
+aS"(26, u'\\\\bbehav')"
+p16
+aS"(8, u'\\\\banxi')"
 p17
+aS"(4, u'\\\\btreatment')"
+p18
+atp19
+Rp20
+sS'receptors'
+p21
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p24
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp22
+(S'5ht1b'
+p23
+I395
+I401
+tp24
+a(S'5ht1b'
 p25
-aS"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p26
-aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I65
+I71
+tp26
+a(S'5ht1b'
 p27
-aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p28
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I668
+I674
+tp28
+a(S'5ht1b'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V1996
+I1936
+I1942
+tp30
+a(S'5ht7'
+p31
+I892
+I898
+tp32
+a(S'5ht1b'
 p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(39, u'\\\\bflesinoxan')"
-p36
+I1249
+I1255
+tp34
+a(S'5ht1'
+p35
+I892
+I897
+tp36
 atp37
 Rp38
-sS'species'
+sS'raw_text_methods'
 p39
 g3
 ((lp40
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(11, u'\\\\bfluoxetine')"
 p42
-atp43
-Rp44
+aS"(12, u'\\\\bantagonist')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+tp48
+Rp49
+sS'year'
+p50
+V2006
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p54
+aS"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p55
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p56
+atp57
+Rp58
 sb.

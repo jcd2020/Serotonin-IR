@@ -2,70 +2,66 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(17, u'\\\\bnan ?190')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(5, u'\\\\btherap')"
 p10
-aS'Method.AGONIST'
+aS"(17, u'\\\\balzheimer')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht1a'
-p20
+((lp16
+(S'5ht2c'
+p17
+I1001
+I1007
+tp18
+a(S'5ht2a'
+p19
+I990
+I996
+tp20
 atp21
 Rp22
-sS'regions'
+sS'raw_text_methods'
 p23
 g3
 ((lp24
-S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p25
 atp26
 Rp27
-sS'year'
+sS'regions'
 p28
-V1996
-p29
-sS'agonists'
-p30
 g3
-((lp31
-S"(85, u'\\\\b8 ?oh ?dpat')"
+((lp29
+tp30
+Rp31
+sS'year'
 p32
-atp33
-Rp34
+V1996
+p33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p37
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p38
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p39
-atp40
-Rp41
+((lp35
+tp36
+Rp37
 sb.

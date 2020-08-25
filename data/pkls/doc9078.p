@@ -2,82 +2,61 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(128, u'\\\\bmetoclopramide')"
-p5
-aS"(26, u'\\\\bspiperone')"
-p6
-aS"(194, u'\\\\bmethysergide')"
-p7
-aS"(133, u'\\\\bmianserin')"
-p8
-aS"(22, u'\\\\bpropranolol')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
-S'Method.ANTAGONIST'
-p14
-aS'Method.AGONIST'
-p15
-atp16
-Rp17
+tp5
+Rp6
 sS'topics'
-p18
+p7
 g3
-((lp19
-tp20
-Rp21
+((lp8
+S"(13, u'\\\\bantidepress')"
+p9
+aS"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
 sS'receptors'
-p22
+p13
 g3
-((lp23
-S'5ht1b'
-p24
-aS'5ht1a'
-p25
-aS'5ht3'
-p26
-aS'5ht2'
-p27
-atp28
-Rp29
+((lp14
+(S'5ht1a'
+p15
+I743
+I749
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+S"(15, u'\\\\b8ohdpat')"
+p21
+atp22
+Rp23
 sS'regions'
-p30
+p24
 g3
-((lp31
-tp32
-Rp33
+((lp25
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p26
+atp27
+Rp28
 sS'year'
-p34
-V1988
-p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(209, u'\\\\bmetoclopramide')"
-p38
-aS"(53, u'\\\\bmethysergide')"
-p39
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p40
-atp41
-Rp42
+p29
+V1990
+p30
 sS'species'
-p43
+p31
 g3
-((lp44
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-atp46
-Rp47
+((lp32
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p33
+atp34
+Rp35
 sb.

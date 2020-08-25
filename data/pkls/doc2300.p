@@ -2,86 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STAINING'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(20, u'\\\\bmood')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht1b'
-p18
-aS'5ht1a'
+((lp16
+(S'5ht1a'
+p17
+I1240
+I1246
+tp18
+a(S'5ht1a'
 p19
-aS'5ht3'
-p20
-aS'5ht2c'
+I1786
+I1792
+tp20
+a(S'5ht1a'
 p21
-aS'5ht1d'
-p22
-aS'5ht2a'
+I532
+I538
+tp22
+a(S'5ht1a'
 p23
-aS'5ht3a'
-p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
-S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
+I1643
+I1649
+tp24
+a(S'5ht1a'
+p25
+I78
+I84
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
+g3
+((lp30
+S"(13, u'\\\\bagonist')"
+p31
+aS"(15, u'\\\\b8ohdpat')"
+p32
+aS"(11, u'\\\\bfluoxetine')"
 p33
-V2000
-p34
-sS'agonists'
-p35
+atp34
+Rp35
+sS'regions'
+p36
 g3
-((lp36
-tp37
-Rp38
-sS'species'
-p39
-g3
-((lp40
-S"(1861, u'(?i)\\\\b(amniotes|amniote)\\\\b')"
+((lp37
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
 p41
-aS"(3952, u'(?i)\\\\b(anoles|anole)\\\\b')"
+V2004
 p42
-aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+sS'species'
 p43
-aS"(5049, u'(?i)\\\\b(lizards|lizard)\\\\b')"
-p44
-aS"(6517, u'(?i)\\\\b(birds|bird)\\\\b')"
+g3
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
-p46
-aS"(3953, u'(?i)\\\\b(anoli|anolis)(-|\\\\s+)?(carolinenses|carolinensis)\\\\b')"
-p47
-atp48
-Rp49
+atp46
+Rp47
 sb.

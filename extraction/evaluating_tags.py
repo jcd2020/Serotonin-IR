@@ -7,6 +7,7 @@ from shutil import copy
 from main import parse_receptors, open_unicode_file
 import re
 
+
 def get_abstracts():
     onlyfiles = [f for f in listdir("../data/subfiles") if isfile(join("../data/subfiles", f))]
     count = 0
@@ -40,6 +41,7 @@ def find_gt_label(label, start_idx, ground_truth):
             return True
     return False
 
+
 def eval_tags(parse_res, ground_truth):
     tp, fp = 0, 0
 
@@ -56,11 +58,13 @@ def eval_tags(parse_res, ground_truth):
         else:
             fn += 1.
 
-    return tp,fp,fn
+    return tp, fp, fn
+
+
 def open_tagged_file():
     onlyfiles = [f for f in listdir("../data/tagged_files_CamComplete") if isfile(join("../data/tagged_files_CamComplete", f))]
     total = 0
-    tp,fp,fn = 0.,0.,0.
+    tp,fp,fn = 0., 0., 0.
     for f in onlyfiles:
         text = open_unicode_file("../data/tagged_files_CamComplete/" + f)
         tags_extracted, clean_text = extract_tags(text)
@@ -75,6 +79,7 @@ def open_tagged_file():
     print(precision)
     print(recall)
     print(total)
+
 
 if __name__ == "__main__":  open_tagged_file()
 

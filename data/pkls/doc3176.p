@@ -2,84 +2,102 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p5
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-S"(6, u'\\\\bcognit')"
-p15
-aS"(3, u'\\\\bsleep')"
-p16
-atp17
-Rp18
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(23, u'\\\\bantipsychotic')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht7'
-p21
-aS'5ht1a'
+((lp15
+(S'5ht2'
+p16
+I1432
+I1437
+tp17
+a(S'5ht2'
+p18
+I778
+I783
+tp19
+a(S'5ht2'
+p20
+I1120
+I1125
+tp21
+a(S'5ht2'
 p22
-aS'5ht1'
-p23
-atp24
-Rp25
-sS'regions'
+I1018
+I1023
+tp23
+a(S'5ht2'
+p24
+I414
+I419
+tp25
+a(S'5ht2'
 p26
-g3
-((lp27
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I1239
+I1244
+tp27
+a(S'5ht2'
 p28
-aS"(372, u'(?i)\\\\b(circumventriculars|circumventricular)(-|\\\\s+)?(organ|organs)\\\\b')"
-p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I42
+I47
+tp29
+a(S'5ht2'
 p30
-atp31
-Rp32
-sS'year'
-p33
-V2015
+I525
+I530
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
-sS'agonists'
-p35
 g3
-((lp36
-S"(85, u'\\\\b8 ?oh ?dpat')"
+((lp35
+S"(41, u'\\\\bhaloperidol')"
+p36
+aS"(23, u'\\\\bmdl')"
 p37
-atp38
-Rp39
-sS'species'
-p40
+aS"(12, u'\\\\bantagonist')"
+p38
+atp39
+Rp40
+sS'regions'
+p41
 g3
-((lp41
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
-p42
-aS"(6517, u'(?i)\\\\b(birds|bird)\\\\b')"
+((lp42
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p43
-aS"(6666, u'(?i)\\\\b(columbas|columba)(-|\\\\s+)?(livias|livia)\\\\b')"
-p44
-aS"(6665, u'(?i)\\\\b(rocks|rock)(-|\\\\s+)?(pigeons|pigeon)\\\\b')"
-p45
-aS"(1312, u'(?i)\\\\b(pigeons|pigeon)\\\\b')"
+atp44
+Rp45
+sS'year'
 p46
-atp47
-Rp48
+V1997
+p47
+sS'species'
+p48
+g3
+((lp49
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

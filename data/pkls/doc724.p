@@ -2,70 +2,63 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(2, u'\\\\bdisorder')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(11, u'\\\\banxiolyt')"
+(S'5ht2a'
 p15
-atp16
-Rp17
-sS'receptors'
-p18
+I1257
+I1263
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp20
+S"(19, u'\\\\bpositron emission tomography')"
+p21
+aS"(35, u'\\\\badenosine')"
+p22
+aS"(54, u'\\\\bautoradiography')"
 p23
+atp24
+Rp25
+sS'regions'
+p26
 g3
-((lp24
-tp25
-Rp26
+((lp27
+tp28
+Rp29
 sS'year'
-p27
-V2012
-p28
-sS'agonists'
-p29
-g3
-((lp30
-S"(20, u'\\\\bbuspirone')"
+p30
+V2005
 p31
-atp32
-Rp33
 sS'species'
-p34
+p32
 g3
-((lp35
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
-p36
-aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
-p37
-aS"(4749, u'(?i)\\\\b(blues|blue)\\\\b')"
-p38
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p39
-atp40
-Rp41
+((lp33
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
 sb.

@@ -2,60 +2,105 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(16, u'\\\\blearning')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(4, u'\\\\btreatment')"
 p13
-g3
-((lp14
-tp15
-Rp16
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht2b'
-p19
-atp20
-Rp21
-sS'regions'
+((lp17
+(S'5ht1b'
+p18
+I1521
+I1527
+tp19
+a(S'5ht2c'
+p20
+I60
+I66
+tp21
+a(S'5ht1b'
 p22
-g3
-((lp23
-tp24
-Rp25
-sS'year'
+I41
+I47
+tp23
+a(S'5ht2a'
+p24
+I49
+I55
+tp25
+a(S'5ht2'
 p26
-V2011
-p27
-sS'agonists'
-p28
+I1532
+I1537
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
 g3
-((lp29
-tp30
-Rp31
-sS'species'
+((lp31
+S"(53, u'\\\\bketanserin')"
 p32
-g3
-((lp33
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+aS"(7, u'\\\\bpropranolol')"
+p33
+aS"(33, u'\\\\bmcpp')"
 p34
-atp35
-Rp36
+aS"(23, u'\\\\bmdl')"
+p35
+aS"(26, u'\\\\bmdl72222')"
+p36
+aS"(13, u'\\\\bagonist')"
+p37
+aS"(49, u'\\\\bdoi')"
+p38
+aS"(9, u'\\\\britanserin')"
+p39
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p45
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p46
+atp47
+Rp48
+sS'year'
+p49
+V1997
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p53
+atp54
+Rp55
 sb.

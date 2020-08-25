@@ -2,76 +2,103 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(144, u'\\\\bgr ?113808')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-tp10
-Rp11
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
 p12
-g3
-((lp13
-tp14
-Rp15
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(9, u'\\\\bstress')"
+p14
+aS"(3, u'\\\\bclinical')"
+p15
+atp16
+Rp17
 sS'receptors'
-p16
-g3
-((lp17
-S'5ht4'
 p18
-atp19
-Rp20
-sS'regions'
-p21
 g3
-((lp22
-S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
-p23
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+((lp19
+(S'5ht1a'
+p20
+I1546
+I1552
+tp21
+a(S'5ht1'
+p22
+I431
+I437
+tp23
+a(S'5ht1a'
 p24
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
+I1682
+I1688
+tp25
+a(S'5ht1a'
+p26
+I1390
+I1396
+tp27
+a(S'5ht1a'
 p28
-V1994
-p29
-sS'agonists'
+I431
+I437
+tp29
+a(S'5ht1a'
 p30
-g3
-((lp31
-tp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+I578
+I584
+tp31
+a(S'5ht1a'
+p32
+I120
+I126
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
 p36
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p37
-aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
+g3
+((lp37
+S"(13, u'\\\\bagonist')"
 p38
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
+aS"(22, u'\\\\bbuspirone')"
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p40
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p41
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p42
-atp43
-Rp44
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+tp45
+Rp46
+sS'year'
+p47
+V2016
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
 sb.

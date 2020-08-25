@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,62 +10,90 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(7, u'\\\\bdepressi')"
 p9
 atp10
 Rp11
-sS'topics'
+sS'receptors'
 p12
 g3
 ((lp13
-S"(21, u'\\\\bpain')"
+(S'5ht1a'
 p14
-aS"(24, u'\\\\banalgesi')"
-p15
-atp16
-Rp17
-sS'receptors'
+I969
+I975
+tp15
+a(S'5ht2a'
+p16
+I1037
+I1043
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht7'
+I1321
+I1327
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
-p25
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I443
+I449
+tp21
+a(S'5ht1a'
+p22
+I1473
+I1479
+tp23
+a(S'5ht1a'
+p24
+I1156
+I1162
+tp25
+a(S'5ht1a'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2017
-p30
-sS'agonists'
-p31
+I1245
+I1251
+tp27
+a(S'5ht2a'
+p28
+I454
+I460
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
+p32
 g3
-((lp32
-S"(231, u'\\\\blp ?211')"
-p33
-atp34
-Rp35
-sS'species'
-p36
+((lp33
+S"(54, u'\\\\bautoradiography')"
+p34
+atp35
+Rp36
+sS'regions'
+p37
 g3
-((lp37
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p38
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+((lp38
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p39
-atp40
-Rp41
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
+p43
+V2012
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p47
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p48
+atp49
+Rp50
 sb.

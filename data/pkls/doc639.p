@@ -2,66 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(26, u'\\\\bbehav')"
 p12
-g3
-((lp13
-S"(16, u'\\\\bfeed')"
-p14
-aS"(10, u'\\\\banxiety')"
-p15
-atp16
-Rp17
+aS"(9, u'\\\\bstress')"
+p13
+atp14
+Rp15
 sS'receptors'
-p18
+p16
 g3
-((lp19
-S'5ht1a'
+((lp17
+(S'5ht1a'
+p18
+I283
+I289
+tp19
+a(S'5ht1a'
 p20
-aS'5ht2a'
-p21
+I84
+I90
+tp21
 atp22
 Rp23
-sS'regions'
+sS'raw_text_methods'
 p24
 g3
 ((lp25
-tp26
-Rp27
-sS'year'
-p28
-V2011
+S"(13, u'\\\\bagonist')"
+p26
+atp27
+Rp28
+sS'regions'
 p29
-sS'agonists'
-p30
 g3
-((lp31
-tp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp30
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p31
+aS"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
+p32
+atp33
+Rp34
+sS'year'
+p35
+V1996
 p36
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+sS'species'
 p37
-atp38
-Rp39
+g3
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

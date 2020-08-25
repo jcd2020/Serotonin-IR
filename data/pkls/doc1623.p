@@ -2,88 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\bzacopride')"
+S'Method.AGONIST'
 p5
-aS"(128, u'\\\\bmetoclopramide')"
-p6
-aS"(129, u'\\\\brenzapride')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(33, u'\\\\blocomot')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht4'
-p21
-aS'5ht3a'
+((lp15
+(S'5ht1a'
+p16
+I594
+I600
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(13, u'\\\\bagonist')"
 p22
-aS'5ht2'
+aS"(15, u'\\\\b8ohdpat')"
 p23
-aS'5ht1'
-p24
-aS'5ht2a'
-p25
-aS'5ht3'
-p26
-atp27
-Rp28
+atp24
+Rp25
 sS'regions'
-p29
+p26
 g3
-((lp30
-tp31
-Rp32
+((lp27
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p33
-V1992
-p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(220, u'\\\\b5 ?methoxytryptamine')"
-p37
-aS"(209, u'\\\\bmetoclopramide')"
-p38
-aS"(208, u'\\\\bzacopride')"
-p39
-aS"(203, u'\\\\brenzapride')"
-p40
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
-p41
-atp42
-Rp43
+p31
+V2008
+p32
 sS'species'
-p44
+p33
 g3
-((lp45
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p46
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p47
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p48
-atp49
-Rp50
+((lp34
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

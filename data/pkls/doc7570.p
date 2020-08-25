@@ -2,78 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(21, u'\\\\bpain')"
-p16
-aS"(24, u'\\\\banalgesi')"
-p17
-atp18
-Rp19
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht4'
+p14
+I161
+I166
+tp15
+a(S'5ht4'
+p16
+I1617
+I1622
+tp17
+a(S'5ht4'
+p18
+I1532
+I1537
+tp19
+a(S'5ht1a'
 p20
-g3
-((lp21
-S'5ht1a'
+I1707
+I1713
+tp21
+a(S'5ht4'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1468
+I1473
+tp23
+a(S'5ht4'
+p24
+I1586
+I1591
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-atp29
-Rp30
-sS'year'
-p31
-V2012
-p32
-sS'agonists'
+g3
+((lp29
+S"(48, u'\\\\bmdma')"
+p30
+atp31
+Rp32
+sS'regions'
 p33
 g3
 ((lp34
-S"(16, u'\\\\bbefiradol')"
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p35
 atp36
 Rp37
-sS'species'
+sS'year'
 p38
-g3
-((lp39
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+V2008
+p39
+sS'species'
 p40
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sb.

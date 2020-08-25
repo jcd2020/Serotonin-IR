@@ -2,72 +2,78 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(3, u'\\\\bclinical')"
 p10
-aS'Method.AGONIST'
+aS"(26, u'\\\\bbehav')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht1b'
-p20
-aS'5ht2c'
-p21
-aS'5ht2'
-p22
-aS'5ht2a'
+((lp16
+(S'5ht2a'
+p17
+I484
+I490
+tp18
+a(S'5ht2c'
+p19
+I484
+I491
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-atp24
-Rp25
-sS'regions'
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(41, u'\\\\bhaloperidol')"
 p26
-g3
-((lp27
-tp28
+aS"(49, u'\\\\bdoi')"
+p27
+atp28
 Rp29
-sS'year'
+sS'regions'
 p30
-V1998
-p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(189, u'\\\\bethanol')"
-p34
-aS"(175, u'\\\\bdoi')"
-p35
-atp36
-Rp37
+((lp31
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p32
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
+p36
+V2009
+p37
 sS'species'
 p38
 g3
 ((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-atp41
-Rp42
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p41
+atp42
+Rp43
 sb.

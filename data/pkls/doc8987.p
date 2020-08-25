@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,59 +10,66 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
 tp9
 Rp10
-sS'topics'
+sS'receptors'
 p11
 g3
 ((lp12
-tp13
-Rp14
-sS'receptors'
+(S'5ht2c'
+p13
+I1189
+I1195
+tp14
+a(S'5ht5'
 p15
-g3
-((lp16
-S'5ht5'
+I911
+I921
+tp16
+a(S'5ht1b'
 p17
-atp18
-Rp19
-sS'regions'
-p20
-g3
-((lp21
+I1742
+I1748
+tp18
+a(S'5ht1b'
+p19
+I1263
+I1269
+tp20
+a(S'5ht2c'
+p21
+I1542
+I1548
 tp22
-Rp23
-sS'year'
-p24
-V2015
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-sS'agonists'
-p26
 g3
-((lp27
-tp28
-Rp29
-sS'species'
-p30
+((lp26
+tp27
+Rp28
+sS'regions'
+p29
 g3
-((lp31
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p32
-aS"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+((lp30
+tp31
+Rp32
+sS'year'
 p33
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+V2009
 p34
-aS"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+sS'species'
 p35
-aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
-p36
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+g3
+((lp36
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
 p37
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
 atp39
 Rp40

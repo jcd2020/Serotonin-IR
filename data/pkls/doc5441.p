@@ -2,84 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(43, u'\\\\bgr ?127935')"
+S'Method.AGONIST'
 p5
-aS"(91, u'\\\\bfluoxetine')"
-p6
-aS"(31, u'\\\\bway ?100635')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-S"(17, u'\\\\bgroom')"
+((lp9
+tp10
+Rp11
+sS'receptors'
+p12
+g3
+((lp13
+(S'5ht2c'
+p14
+I239
+I247
+tp15
+a(S'5ht2a'
+p16
+I882
+I888
+tp17
+a(S'5ht2a'
 p18
-aS"(4, u'\\\\blocomot')"
-p19
+I239
+I245
+tp19
 atp20
 Rp21
-sS'receptors'
+sS'raw_text_methods'
 p22
 g3
 ((lp23
-S'5ht1b'
+S"(13, u'\\\\bagonist')"
 p24
-aS'5ht1a'
+aS"(49, u'\\\\bdoi')"
 p25
-aS'5ht1d'
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p31
-aS"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p32
-aS"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p33
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p34
-atp35
-Rp36
+((lp29
+tp30
+Rp31
 sS'year'
-p37
-V2016
-p38
-sS'agonists'
-p39
-g3
-((lp40
-S"(67, u'\\\\bru ?24969')"
-p41
-atp42
-Rp43
+p32
+V1999
+p33
 sS'species'
-p44
+p34
 g3
-((lp45
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p46
-atp47
-Rp48
+((lp35
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p36
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p37
+atp38
+Rp39
 sb.

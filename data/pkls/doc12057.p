@@ -2,72 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(107, u'\\\\bamoxapine')"
-p5
-aS"(104, u'\\\\bimipramine')"
-p6
-aS"(133, u'\\\\bmianserin')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-tp12
-Rp13
+tp5
+Rp6
 sS'topics'
+p7
+g3
+((lp8
+S"(14, u'\\\\bcogniti')"
+p9
+aS"(13, u'\\\\bantidepress')"
+p10
+aS"(23, u'\\\\bantipsychotic')"
+p11
+atp12
+Rp13
+sS'receptors'
 p14
 g3
 ((lp15
-S"(9, u'\\\\bdepress')"
+(S'5ht4'
 p16
-atp17
-Rp18
-sS'receptors'
-p19
-g3
-((lp20
-S'5ht1c'
-p21
-aS'5ht1b'
+I691
+I696
+tp17
+a(S'5ht2'
+p18
+I998
+I1003
+tp19
+a(S'5ht3'
+p20
+I1016
+I1021
+tp21
+a(S'5ht1'
 p22
-aS'5ht1a'
-p23
-aS'5ht2'
+I1005
+I1010
+tp23
+a(S'5ht2'
 p24
-atp25
-Rp26
+I500
+I505
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
+g3
+((lp29
+tp30
+Rp31
 sS'regions'
-p27
-g3
-((lp28
-tp29
-Rp30
-sS'year'
-p31
-V1994
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(10, u'\\\\baet')"
+((lp33
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p34
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p35
-atp36
-Rp37
-sS'species'
-p38
-g3
-((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p36
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p37
+atp38
+Rp39
+sS'year'
 p40
-atp41
-Rp42
+V2002
+p41
+sS'species'
+p42
+g3
+((lp43
+tp44
+Rp45
 sb.

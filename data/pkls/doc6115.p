@@ -2,74 +2,101 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(1, u'\\\\balprenolol')"
+S'Method.AGONIST'
 p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(17, u'\\\\bnan ?190')"
-p7
-aS"(22, u'\\\\bpropranolol')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-aS'Method.AGONIST'
-p14
-atp15
-Rp16
+atp6
+Rp7
 sS'topics'
-p17
+p8
 g3
-((lp18
-tp19
-Rp20
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I1331
+I1337
+tp18
+a(S'5ht1a'
+p19
+I554
+I560
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-S'5ht1a'
+I954
+I960
+tp22
+a(S'5ht1a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
-p31
-V1993
-p32
-sS'agonists'
+I1622
+I1628
+tp24
+a(S'5ht1a'
+p25
+I1846
+I1852
+tp26
+a(S'5ht1a'
+p27
+I93
+I99
+tp28
+a(S'5ht1a'
+p29
+I272
+I278
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
 p33
 g3
 ((lp34
-S"(210, u'\\\\bsulpiride')"
+S"(13, u'\\\\bagonist')"
 p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(15, u'\\\\b8ohdpat')"
 p36
-atp37
-Rp38
-sS'species'
-p39
-g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(16, u'\\\\bdiazepam')"
+p37
+aS"(36, u'\\\\bbenzodiazepine')"
+p38
+atp39
+Rp40
+sS'regions'
 p41
-atp42
-Rp43
+g3
+((lp42
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p43
+atp44
+Rp45
+sS'year'
+p46
+V1997
+p47
+sS'species'
+p48
+g3
+((lp49
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

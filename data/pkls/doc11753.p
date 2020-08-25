@@ -2,68 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(11, u'\\\\banxiolyt')"
-p14
-atp15
-Rp16
+((lp9
+S"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I1921
+I1927
+tp16
+a(S'5ht1a'
 p17
-g3
-((lp18
-S'5ht1a'
+I1828
+I1834
+tp18
+a(S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
+I210
+I216
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp23
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p24
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp24
+S"(51, u'\\\\bway100635')"
 p25
-atp26
-Rp27
-sS'year'
-p28
-V1996
-p29
-sS'agonists'
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p26
+aS"(12, u'\\\\bantagonist')"
+p27
+atp28
+Rp29
+sS'regions'
 p30
 g3
 ((lp31
-S"(45, u'\\\\bipsapirone')"
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p32
-atp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
+p36
+V2007
 p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p38
-atp39
-Rp40
+g3
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

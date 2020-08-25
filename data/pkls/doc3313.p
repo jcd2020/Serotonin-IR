@@ -2,68 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(29, u'\\\\bhyperactiv')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(23, u'\\\\bantipsychotic')"
 p12
-g3
-((lp13
-S"(4, u'\\\\blocomot')"
-p14
-atp15
-Rp16
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
 p17
+I1139
+I1145
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
 g3
-((lp18
-S'5ht1'
-p19
-atp20
-Rp21
+((lp22
+S"(41, u'\\\\bhaloperidol')"
+p23
+aS"(40, u'\\\\bclozapine')"
+p24
+aS"(12, u'\\\\bantagonist')"
+p25
+atp26
+Rp27
 sS'regions'
-p22
-g3
-((lp23
-tp24
-Rp25
-sS'year'
-p26
-V1992
-p27
-sS'agonists'
 p28
 g3
 ((lp29
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p30
-aS"(67, u'\\\\bru ?24969')"
-p31
-atp32
-Rp33
+tp30
+Rp31
+sS'year'
+p32
+V2006
+p33
 sS'species'
 p34
 g3
 ((lp35
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+atp37
+Rp38
 sb.

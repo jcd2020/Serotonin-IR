@@ -2,66 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
 p12
 g3
 ((lp13
-S"(36, u'\\\\bcompulsiv')"
+(S'5ht1a'
 p14
-atp15
-Rp16
-sS'receptors'
-p17
+I1359
+I1365
+tp15
+a(S'5ht2'
+p16
+I1370
+I1375
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
 g3
-((lp18
-tp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
+((lp21
+S"(53, u'\\\\bketanserin')"
+p22
+aS"(15, u'\\\\b8ohdpat')"
 p23
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+aS"(54, u'\\\\bautoradiography')"
 p24
-atp25
-Rp26
-sS'year'
-p27
-V2008
+aS"(12, u'\\\\bantagonist')"
+p25
+atp26
+Rp27
+sS'regions'
 p28
-sS'agonists'
-p29
 g3
-((lp30
-tp31
-Rp32
-sS'species'
+((lp29
+tp30
+Rp31
+sS'year'
+p32
+V1995
 p33
+sS'species'
+p34
 g3
-((lp34
-S"(5686, u'(?i)\\\\b(foxes|fox)\\\\b')"
-p35
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp35
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sb.

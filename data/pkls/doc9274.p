@@ -2,45 +2,47 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(84, u'\\\\bsb ?206553')"
+S'Method.AGONIST'
 p5
-aS"(99, u'\\\\bsb ?242084')"
-p6
-aS"(121, u'\\\\bsb ?243213')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+atp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht2c'
-p22
-aS'5ht2'
+((lp14
+(S'5ht1a'
+p15
+I1349
+I1355
+tp16
+a(S'5ht1a'
+p17
+I203
+I209
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
 p23
-aS'5ht2a'
+aS"(15, u'\\\\b8ohdpat')"
 p24
 atp25
 Rp26
@@ -48,30 +50,20 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p29
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p30
-atp31
-Rp32
+tp29
+Rp30
 sS'year'
-p33
-V2006
-p34
-sS'agonists'
-p35
-g3
-((lp36
-tp37
-Rp38
+p31
+V1996
+p32
 sS'species'
-p39
+p33
 g3
-((lp40
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+((lp34
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p35
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

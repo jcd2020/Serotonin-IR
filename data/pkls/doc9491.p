@@ -2,83 +2,92 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(128, u'\\\\bmetoclopramide')"
-p5
-aS"(117, u'\\\\bketanserin')"
-p6
-aS"(58, u'\\\\bhaloperidol')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p15
+p9
 g3
-((lp16
-S"(9, u'\\\\bdepress')"
-p17
-aS"(35, u'\\\\bstress')"
-p18
-atp19
-Rp20
+((lp10
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht7'
+p15
+I1304
+I1309
+tp16
+a(S'5ht7'
+p17
+I178
+I183
+tp18
+a(S'5ht7'
+p19
+I949
+I954
+tp20
+a(S'5ht7'
 p21
-g3
-((lp22
-S'5ht3a'
+I53
+I58
+tp22
+a(S'5ht7'
 p23
-aS'5ht1a'
-p24
-aS'5ht3'
+I436
+I441
+tp24
+a(S'5ht7'
 p25
-aS'5ht2'
-p26
-aS'5ht3b'
+I1073
+I1078
+tp26
+a(S'5ht7'
 p27
-atp28
-Rp29
-sS'regions'
-p30
+I302
+I307
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
 g3
-((lp31
-tp32
-Rp33
-sS'year'
+((lp32
+S"(13, u'\\\\bagonist')"
+p33
+aS"(12, u'\\\\bantagonist')"
 p34
-V1994
-p35
-sS'agonists'
-p36
+atp35
+Rp36
+sS'regions'
+p37
 g3
-((lp37
-S"(209, u'\\\\bmetoclopramide')"
-p38
-aS"(210, u'\\\\bsulpiride')"
+((lp38
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
 p39
-aS"(43, u'\\\\bhaloperidol')"
-p40
-atp41
-Rp42
-sS'species'
+atp40
+Rp41
+sS'year'
+p42
+V2004
 p43
+sS'species'
+p44
 g3
-((lp44
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p45
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+((lp45
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p46
 atp47
 Rp48

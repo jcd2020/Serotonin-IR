@@ -2,70 +2,83 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(174, u'\\\\bsb ?258585')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
-aS'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(26, u'\\\\bbehav')"
 p14
-g3
-((lp15
-tp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht6'
-p20
-atp21
-Rp22
-sS'regions'
+((lp18
+(S'5ht1a'
+p19
+I43
+I54
+tp20
+a(S'5ht1a'
+p21
+I236
+I247
+tp22
+a(S'5ht1a'
 p23
+I1384
+I1390
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp24
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p25
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+((lp28
+S"(13, u'\\\\bagonist')"
 p29
-V2017
+aS"(21, u'\\\\bipsapirone')"
 p30
-sS'agonists'
+aS"(22, u'\\\\bbuspirone')"
 p31
-g3
-((lp32
-tp33
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
 Rp34
-sS'species'
+sS'regions'
 p35
 g3
 ((lp36
-S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p37
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p38
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+tp37
+Rp38
+sS'year'
 p39
-atp40
-Rp41
+V1995
+p40
+sS'species'
+p41
+g3
+((lp42
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p43
+atp44
+Rp45
 sb.

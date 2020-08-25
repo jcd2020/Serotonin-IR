@@ -2,90 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(150, u'\\\\bsb ?204070')"
+S'Method.PET'
 p5
-aS"(123, u'\\\\bgranisetron')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(31, u'\\\\bway ?100635')"
-p8
-aS"(193, u'\\\\bmesulergine')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
-S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+atp6
+Rp7
 sS'topics'
-p17
+p8
 g3
-((lp18
-tp19
-Rp20
+((lp9
+S"(2, u'\\\\bdisorder')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2'
+p15
+I1027
+I1032
+tp16
+a(S'5ht2a'
+p17
+I837
+I848
+tp18
+a(S'5ht2'
+p19
+I1350
+I1355
+tp20
+a(S'5ht2'
 p21
-g3
-((lp22
-S'5ht1a'
-p23
-aS'5ht4'
-p24
-aS'5ht3'
+I860
+I865
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-aS'5ht2'
-p26
-atp27
-Rp28
-sS'regions'
-p29
 g3
-((lp30
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp26
+S"(1, u'\\\\bneuroimag')"
+p27
+aS"(17, u'\\\\bpet')"
+p28
+aS"(29, u'\\\\bdiethylamide')"
+p29
+aS"(27, u'\\\\blsd')"
+p30
+aS"(19, u'\\\\bpositron emission tomography')"
 p31
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(18, u'\\\\bimaging')"
 p32
 atp33
 Rp34
-sS'year'
+sS'regions'
 p35
-V2001
-p36
-sS'agonists'
-p37
 g3
-((lp38
-S"(165, u'\\\\bmesulergine')"
+((lp36
+tp37
+Rp38
+sS'year'
 p39
-aS"(49, u'\\\\blysergic acid diethylamide')"
+V2018
 p40
-aS"(149, u'\\\\bmem')"
-p41
-atp42
-Rp43
 sS'species'
-p44
+p41
 g3
-((lp45
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p46
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p47
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p48
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p49
-atp50
-Rp51
+((lp42
+tp43
+Rp44
 sb.

@@ -2,31 +2,33 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(35, u'\\\\bstress')"
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(33, u'\\\\blocomot')"
+p13
+aS"(29, u'\\\\bhyperactiv')"
 p14
-aS"(2, u'\\\\bappetite')"
+aS"(5, u'\\\\btherap')"
 p15
-aS"(16, u'\\\\bfeed')"
+aS"(4, u'\\\\btreatment')"
 p16
 atp17
 Rp18
@@ -34,48 +36,57 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht1b'
+(S'5ht1a'
 p21
-aS'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
+I291
+I297
+tp22
+a(S'5ht2a'
+p23
+I321
+I327
+tp24
+a(S'5ht1a'
 p25
-g3
-((lp26
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p27
-aS"(34, u'(?i)\\\\b(pon|pons)\\\\b')"
-p28
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I572
+I578
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V1986
-p33
-sS'agonists'
-p34
 g3
-((lp35
-S"(20, u'\\\\bbuspirone')"
+((lp30
+S"(13, u'\\\\bagonist')"
+p31
+aS"(15, u'\\\\b8ohdpat')"
+p32
+aS"(12, u'\\\\bantagonist')"
+p33
+atp34
+Rp35
+sS'regions'
 p36
-aS"(192, u'\\\\bquipazine')"
-p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+g3
+((lp37
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p38
-aS"(67, u'\\\\bru ?24969')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p39
 atp40
 Rp41
-sS'species'
+sS'year'
 p42
-g3
-((lp43
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2010
+p43
+sS'species'
 p44
-atp45
-Rp46
+g3
+((lp45
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p46
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

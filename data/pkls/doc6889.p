@@ -2,68 +2,83 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.PET'
+S"(8, u'\\\\banxi')"
 p10
-aS'Method.ANTAGONIST'
+aS"(33, u'\\\\blocomot')"
 p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-tp17
-Rp18
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1a'
-p21
+((lp15
+(S'5ht2c'
+p16
+I259
+I265
+tp17
+a(S'5ht2c'
+p18
+I1195
+I1201
+tp19
+a(S'5ht2c'
+p20
+I1568
+I1574
+tp21
 atp22
 Rp23
-sS'regions'
+sS'raw_text_methods'
 p24
 g3
 ((lp25
-tp26
-Rp27
-sS'year'
+S"(53, u'\\\\bketanserin')"
+p26
+aS"(40, u'\\\\bclozapine')"
+p27
+aS"(9, u'\\\\britanserin')"
 p28
-V2006
+aS"(12, u'\\\\bantagonist')"
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(85, u'\\\\b8 ?oh ?dpat')"
+atp30
+Rp31
+sS'regions'
 p32
-atp33
-Rp34
-sS'species'
-p35
 g3
-((lp36
-S"(4635, u'(?i)\\\\b(baboons|baboon)\\\\b')"
+((lp33
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p34
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p35
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p36
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p37
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p38
-atp39
-Rp40
+atp38
+Rp39
+sS'year'
+p40
+V1999
+p41
+sS'species'
+p42
+g3
+((lp43
+tp44
+Rp45
 sb.

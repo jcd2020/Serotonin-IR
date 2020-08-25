@@ -2,80 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(37, u'\\\\bsb ?216641')"
+S'Method.ANTAGONIST'
 p5
-aS"(41, u'\\\\bbrl ?15572')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(3, u'\\\\bclinical')"
 p11
-aS'Method.AGONIST'
+aS"(2, u'\\\\bdisorder')"
 p12
 atp13
 Rp14
-sS'topics'
+sS'receptors'
 p15
 g3
 ((lp16
-tp17
-Rp18
-sS'receptors'
-p19
-g3
-((lp20
-S'5ht1b'
+(S'5ht2'
+p17
+I1430
+I1434
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-aS'5ht1d'
-p22
-atp23
-Rp24
-sS'regions'
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+aS"(53, u'\\\\bketanserin')"
+p24
+aS"(12, u'\\\\bantagonist')"
 p25
+atp26
+Rp27
+sS'regions'
+p28
 g3
-((lp26
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
+((lp29
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p30
-V1997
-p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+atp31
+Rp32
+sS'year'
+p33
+V1990
 p34
-aS"(219, u'\\\\b5 ?ct')"
-p35
-atp36
-Rp37
 sS'species'
-p38
+p35
 g3
-((lp39
-S"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p41
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p42
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p43
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p44
-atp45
-Rp46
+((lp36
+tp37
+Rp38
 sb.

@@ -1,0 +1,71 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+aS"(17, u'\\\\balzheimer')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I673
+I679
+tp17
+a(S'5ht1'
+p18
+I329
+I334
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
+g3
+((lp23
+S"(32, u'\\\\blesions')"
+p24
+aS"(19, u'\\\\bpositron emission tomography')"
+p25
+aS"(54, u'\\\\bautoradiography')"
+p26
+atp27
+Rp28
+sS'regions'
+p29
+g3
+((lp30
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p31
+atp32
+Rp33
+sS'year'
+p34
+V1996
+p35
+sS'species'
+p36
+g3
+((lp37
+tp38
+Rp39
+sb.

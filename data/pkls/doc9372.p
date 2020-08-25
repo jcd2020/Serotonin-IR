@@ -1,0 +1,76 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I541
+I547
+tp18
+a(S'5ht1'
+p19
+I541
+I547
+tp20
+a(S'5ht1a'
+p21
+I815
+I821
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+aS"(15, u'\\\\b8ohdpat')"
+p28
+atp29
+Rp30
+sS'regions'
+p31
+g3
+((lp32
+tp33
+Rp34
+sS'year'
+p35
+V1997
+p36
+sS'species'
+p37
+g3
+((lp38
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p39
+atp40
+Rp41
+sb.

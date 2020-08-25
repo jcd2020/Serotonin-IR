@@ -2,88 +2,152 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(32, u'\\\\bxylamidine')"
+S'Method.ANTAGONIST'
 p5
-aS"(118, u'\\\\bly ?53857')"
-p6
-aS"(191, u'\\\\bly ?215840')"
-p7
-aS"(194, u'\\\\bmethysergide')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.STIMULATION'
-p13
-aS'Method.ANTAGONIST'
-p14
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(8, u'\\\\banxi')"
+p11
+aS"(5, u'\\\\btherap')"
+p12
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(26, u'\\\\bbehav')"
+p14
+aS"(14, u'\\\\bcogniti')"
 p15
 atp16
 Rp17
-sS'topics'
+sS'receptors'
 p18
 g3
 ((lp19
-S"(21, u'\\\\bpain')"
+(S'5ht1f'
 p20
-atp21
-Rp22
-sS'receptors'
-p23
-g3
-((lp24
-S'5ht1a'
-p25
-aS'5ht2b'
+I1591
+I1597
+tp21
+a(S'5ht1'
+p22
+I219
+I224
+tp23
+a(S'5ht1b'
+p24
+I289
+I295
+tp25
+a(S'5ht1a'
 p26
-aS'5ht2'
-p27
-atp28
-Rp29
-sS'regions'
+I279
+I285
+tp27
+a(S'5ht1'
+p28
+I816
+I821
+tp29
+a(S'5ht1'
 p30
-g3
-((lp31
-tp32
-Rp33
-sS'year'
+I1457
+I1462
+tp31
+a(S'5ht5'
+p32
+I131
+I141
+tp33
+a(S'5ht1d'
 p34
-V2003
-p35
-sS'agonists'
+I1578
+I1584
+tp35
+a(S'5ht1d'
 p36
-g3
-((lp37
-S"(96, u'\\\\bsumatriptan')"
+I302
+I308
+tp37
+a(S'5ht1'
 p38
-aS"(53, u'\\\\bmethysergide')"
-p39
-aS"(155, u'\\\\bmcpp')"
+I558
+I563
+tp39
+a(S'5ht1f'
 p40
-atp41
-Rp42
-sS'species'
-p43
-g3
-((lp44
-S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
-p45
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+I391
+I397
+tp41
+a(S'5ht1'
+p42
+I35
+I40
+tp43
+a(S'5ht1'
+p44
+I1153
+I1158
+tp45
+a(S'5ht1b'
 p46
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p47
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+I1568
+I1574
+tp47
+a(S'5ht1e'
 p48
-atp49
-Rp50
+I378
+I384
+tp49
+a(S'5ht1'
+p50
+I1710
+I1715
+tp51
+atp52
+Rp53
+sS'raw_text_methods'
+p54
+g3
+((lp55
+S"(13, u'\\\\bagonist')"
+p56
+aS"(12, u'\\\\bantagonist')"
+p57
+atp58
+Rp59
+sS'regions'
+p60
+g3
+((lp61
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p62
+atp63
+Rp64
+sS'year'
+p65
+V2004
+p66
+sS'species'
+p67
+g3
+((lp68
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p69
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p70
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p71
+atp72
+Rp73
 sb.

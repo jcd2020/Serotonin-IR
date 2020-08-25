@@ -1,0 +1,4 @@
+Olivier, B., et al. (1999). "The 5-HT1A receptor and its ligands: structure and function." Prog Drug Res 52: 103-165.
+
+	An overview is presented on progress made in research on 5-HT1A receptors and their ligands since their discovery in 1983. Molecular biology has offered new tools, for example cloned 5-HT1A receptors, their mutants and chimeras to study structure and function. Many compounds, belonging to different chemical classes, display high affinity and selectivity for 5-HT1A receptors. The majority of these compounds are agonists or partial agonists, full antagonists are still scarce. Agonists and partial agonists are active in various animal models of anxiety and depression. Partial receptor agonists have been proven to be effective in general anxiety disorder and depression in man. Potential therapeutic applications for 5-HT1A receptor antagonists are evaluated, for example, in cognition disorders.
+

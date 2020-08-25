@@ -1,0 +1,81 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(26, u'\\\\bbehav')"
+p9
+atp10
+Rp11
+sS'receptors'
+p12
+g3
+((lp13
+(S'5ht1a'
+p14
+I373
+I379
+tp15
+a(S'5ht1a'
+p16
+I993
+I999
+tp17
+a(S'5ht1a'
+p18
+I1139
+I1145
+tp19
+a(S'5ht1a'
+p20
+I684
+I690
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+S"(21, u'\\\\bipsapirone')"
+p26
+aS"(29, u'\\\\bdiethylamide')"
+p27
+aS"(15, u'\\\\b8ohdpat')"
+p28
+aS"(22, u'\\\\bbuspirone')"
+p29
+aS"(24, u'\\\\bgepirone')"
+p30
+aS"(23, u'\\\\bmdl')"
+p31
+atp32
+Rp33
+sS'regions'
+p34
+g3
+((lp35
+tp36
+Rp37
+sS'year'
+p38
+V1993
+p39
+sS'species'
+p40
+g3
+((lp41
+tp42
+Rp43
+sb.

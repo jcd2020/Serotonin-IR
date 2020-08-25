@@ -2,72 +2,59 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p11
+p8
 g3
-((lp12
-S"(8, u'\\\\blearning')"
-p13
-aS"(16, u'\\\\bfeed')"
-p14
-atp15
-Rp16
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+atp11
+Rp12
 sS'receptors'
-p17
+p13
 g3
-((lp18
-S'5ht5'
+((lp14
+(S'5ht3'
+p15
+I675
+I680
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
 p19
-aS'5ht2a'
-p20
-atp21
-Rp22
+g3
+((lp20
+S"(12, u'\\\\bantagonist')"
+p21
+aS"(10, u'\\\\bmethamphetamine')"
+p22
+atp23
+Rp24
 sS'regions'
-p23
-g3
-((lp24
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p25
-atp26
-Rp27
+g3
+((lp26
+tp27
+Rp28
 sS'year'
-p28
-V2019
 p29
-sS'agonists'
+V2002
 p30
-g3
-((lp31
-tp32
-Rp33
 sS'species'
-p34
+p31
 g3
-((lp35
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p36
-aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p37
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
-p40
-atp41
-Rp42
+((lp32
+tp33
+Rp34
 sb.

@@ -2,76 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(8, u'\\\\blearning')"
+((lp10
+S"(3, u'\\\\bclinical')"
+p11
+atp12
+Rp13
+sS'receptors'
 p14
-aS"(11, u'\\\\banxiolyt')"
-p15
-aS"(10, u'\\\\banxiety')"
+g3
+((lp15
+(S'5ht1a'
 p16
-aS"(20, u'\\\\baggressi')"
-p17
+I1586
+I1592
+tp17
 atp18
 Rp19
-sS'receptors'
+sS'raw_text_methods'
 p20
 g3
 ((lp21
-S'5ht1a'
+S"(13, u'\\\\bagonist')"
 p22
-atp23
-Rp24
+aS"(17, u'\\\\bpet')"
+p23
+aS"(19, u'\\\\bpositron emission tomography')"
+p24
+atp25
+Rp26
 sS'regions'
-p25
+p27
 g3
-((lp26
-tp27
-Rp28
-sS'year'
+((lp28
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p29
-V1999
-p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(20, u'\\\\bbuspirone')"
+atp30
+Rp31
+sS'year'
+p32
+V2015
 p33
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p34
-atp35
-Rp36
 sS'species'
-p37
+p34
 g3
-((lp38
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
-p39
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p40
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p41
-aS"(1972, u'(?i)\\\\b(storks|stork)\\\\b')"
-p42
-atp43
-Rp44
+((lp35
+tp36
+Rp37
 sb.

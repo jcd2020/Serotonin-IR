@@ -2,78 +2,66 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(35, u'\\\\baripiprazole')"
+S'Method.STIMULATION'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(13, u'\\\\bantidepress')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(8, u'\\\\blearning')"
+(S'5ht1'
 p16
-aS"(6, u'\\\\bcognit')"
-p17
-aS"(20, u'\\\\baggressi')"
+I1005
+I1010
+tp17
+a(S'5ht1a'
 p18
-aS"(7, u'\\\\bmemory')"
-p19
+I848
+I854
+tp19
 atp20
 Rp21
-sS'receptors'
+sS'raw_text_methods'
 p22
 g3
 ((lp23
-S'5ht1a'
+S"(15, u'\\\\b8ohdpat')"
 p24
-atp25
-Rp26
+aS"(51, u'\\\\bway100635')"
+p25
+atp26
+Rp27
 sS'regions'
-p27
+p28
 g3
-((lp28
-tp29
-Rp30
+((lp29
+tp30
+Rp31
 sS'year'
-p31
-V2017
 p32
-sS'agonists'
+V2017
 p33
-g3
-((lp34
-S"(223, u'\\\\baripiprazole')"
-p35
-aS"(149, u'\\\\bmem')"
-p36
-atp37
-Rp38
 sS'species'
-p39
+p34
 g3
-((lp40
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p41
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+((lp35
+tp36
+Rp37
 sb.

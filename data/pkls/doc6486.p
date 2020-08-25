@@ -2,74 +2,116 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(133, u'\\\\bmianserin')"
-p5
-aS"(124, u'\\\\bondansetron')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+p5
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-tp16
-Rp17
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(5, u'\\\\btherap')"
+p11
+aS"(16, u'\\\\blearning')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht6'
 p18
-g3
-((lp19
-S'5ht3'
+I64
+I74
+tp19
+a(S'5ht6'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p25
-aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I430
+I435
+tp21
+a(S'5ht6'
+p22
+I703
+I708
+tp23
+a(S'5ht6'
+p24
+I1052
+I1057
+tp25
+a(S'5ht6'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V1993
+I812
+I817
+tp27
+a(S'5ht6'
+p28
+I1181
+I1186
+tp29
+a(S'5ht6'
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(149, u'\\\\bmem')"
-p33
-atp34
-Rp35
-sS'species'
+I225
+I235
+tp31
+a(S'5ht6'
+p32
+I77
+I82
+tp33
+a(S'5ht6'
+p34
+I238
+I243
+tp35
+a(S'5ht6'
 p36
-g3
-((lp37
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
-p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I1658
+I1663
+tp37
+atp38
+Rp39
+sS'raw_text_methods'
 p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p41
-atp42
-Rp43
+g3
+((lp41
+S"(12, u'\\\\bantagonist')"
+p42
+atp43
+Rp44
+sS'regions'
+p45
+g3
+((lp46
+tp47
+Rp48
+sS'year'
+p49
+V2003
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p53
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p54
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p55
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p56
+atp57
+Rp58
 sb.

@@ -2,68 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(133, u'\\\\bmianserin')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(26, u'\\\\bbehav')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-tp15
-Rp16
-sS'receptors'
+(S'5ht1a'
+p15
+I913
+I919
+tp16
+a(S'5ht1a'
 p17
+I1365
+I1371
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
 g3
-((lp18
-S'5ht2c'
-p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(222, u'(?i)\\\\b(neostriatums|neostriatum)\\\\b')"
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+aS"(15, u'\\\\b8ohdpat')"
 p24
-atp25
-Rp26
-sS'year'
-p27
-V1999
+aS"(3, u'\\\\bimmunoreactiv')"
+p25
+atp26
+Rp27
+sS'regions'
 p28
-sS'agonists'
-p29
 g3
-((lp30
-S"(155, u'\\\\bmcpp')"
+((lp29
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p30
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p31
-atp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p32
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
 p36
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+V2009
 p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p38
-atp39
-Rp40
+g3
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

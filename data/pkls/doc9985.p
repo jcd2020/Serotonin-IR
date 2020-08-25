@@ -2,76 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(43, u'\\\\bgr ?127935')"
+S'Method.PET'
 p5
-aS"(14, u'\\\\bmethiothepin')"
+aS'Method.KNOCKOUT'
 p6
-aS"(117, u'\\\\bketanserin')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+atp7
+Rp8
 sS'topics'
-p16
+p9
 g3
-((lp17
-tp18
-Rp19
+((lp10
+tp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht1b'
-p22
-aS'5ht1d'
-p23
-atp24
-Rp25
+((lp14
+(S'5ht2a'
+p15
+I510
+I516
+tp16
+a(S'5ht2a'
+p17
+I202
+I208
+tp18
+a(S'5ht2a'
+p19
+I307
+I313
+tp20
+a(S'5ht2a'
+p21
+I79
+I85
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(19, u'\\\\bpositron emission tomography')"
+p27
+aS"(18, u'\\\\bimaging')"
+p28
+aS"(23, u'\\\\bmdl')"
+p29
+atp30
+Rp31
 sS'regions'
-p26
-g3
-((lp27
-tp28
-Rp29
-sS'year'
-p30
-V1997
-p31
-sS'agonists'
 p32
 g3
 ((lp33
-S"(25, u'\\\\bdihydroergotamine')"
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p34
-aS"(114, u'\\\\bl ?694247')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p35
-aS"(96, u'\\\\bsumatriptan')"
-p36
-aS"(149, u'\\\\bmem')"
-p37
-aS"(97, u'\\\\bzolmitriptan')"
+atp36
+Rp37
+sS'year'
 p38
-atp39
-Rp40
+V2011
+p39
 sS'species'
-p41
+p40
 g3
-((lp42
-tp43
-Rp44
+((lp41
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p42
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p43
+atp44
+Rp45
 sb.

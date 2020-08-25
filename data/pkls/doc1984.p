@@ -2,41 +2,43 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(203, u'\\\\btfmpp')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
 tp10
 Rp11
-sS'topics'
+sS'receptors'
 p12
 g3
 ((lp13
-tp14
-Rp15
-sS'receptors'
+(S'5ht3'
+p14
+I74
+I79
+tp15
+a(S'5ht3'
 p16
-g3
-((lp17
-S'5ht1c'
-p18
-aS'5ht1b'
-p19
-aS'5ht1a'
+I265
+I270
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-aS'5ht1'
-p21
-aS'5ht1d'
+g3
+((lp21
+S"(12, u'\\\\bantagonist')"
 p22
 atp23
 Rp24
@@ -44,30 +46,28 @@ sS'regions'
 p25
 g3
 ((lp26
-tp27
-Rp28
-sS'year'
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p27
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p28
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p29
-V1993
+aS"(7, u'(?i)\\\\b(entorhinals|entorhinal)\\\\b')"
 p30
-sS'agonists'
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
 p31
-g3
-((lp32
-S"(76, u'\\\\btrifluoromethylphenylpiperazine')"
-p33
-aS"(178, u'\\\\btfmpp')"
+atp32
+Rp33
+sS'year'
 p34
-atp35
-Rp36
+V1992
+p35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

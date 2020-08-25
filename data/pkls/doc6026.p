@@ -2,68 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(3, u'\\\\bclinical')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-atp16
-Rp17
+aS"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht7'
+p16
+I147
+I152
+tp17
+a(S'5ht7'
 p18
-g3
-((lp19
-tp20
-Rp21
-sS'regions'
+I214
+I219
+tp19
+a(S'5ht7'
+p20
+I970
+I975
+tp21
+a(S'5ht7'
 p22
-g3
-((lp23
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+I1334
+I1339
+tp23
+a(S'5ht7'
 p24
-atp25
-Rp26
-sS'year'
-p27
-V2000
+I198
+I203
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-sS'agonists'
-p29
 g3
-((lp30
-S"(189, u'\\\\bethanol')"
+((lp29
+S"(17, u'\\\\bpet')"
+p30
+aS"(19, u'\\\\bpositron emission tomography')"
 p31
-atp32
-Rp33
-sS'species'
-p34
+aS"(18, u'\\\\bimaging')"
+p32
+atp33
+Rp34
+sS'regions'
+p35
 g3
-((lp35
-S"(3503, u'(?i)\\\\b(fishers|fisher)\\\\b')"
-p36
-aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
-p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+((lp36
+tp37
+Rp38
+sS'year'
+p39
+V2019
+p40
+sS'species'
+p41
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

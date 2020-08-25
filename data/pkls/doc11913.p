@@ -2,74 +2,88 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(33, u'\\\\byohimbine')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(30, u'\\\\bparkinsons')"
-p16
-atp17
-Rp18
+atp11
+Rp12
 sS'receptors'
-p19
+p13
 g3
-((lp20
-S'5ht1b'
+((lp14
+(S'5ht1a'
+p15
+I1785
+I1791
+tp16
+a(S'5ht1a'
+p17
+I197
+I203
+tp18
+a(S'5ht1a'
+p19
+I647
+I653
+tp20
+a(S'5ht1a'
 p21
-aS'5ht1a'
-p22
+I1611
+I1617
+tp22
 atp23
 Rp24
-sS'regions'
+sS'raw_text_methods'
 p25
 g3
 ((lp26
-tp27
-Rp28
-sS'year'
+S"(2, u'\\\\blabeling')"
+p27
+aS"(17, u'\\\\bpet')"
+p28
+aS"(18, u'\\\\bimaging')"
 p29
-V2012
-p30
-sS'agonists'
-p31
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp32
-S"(101, u'\\\\bcp ?94253')"
-p33
-aS"(11, u'\\\\bamphetamine')"
+((lp33
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p35
-aS"(82, u'\\\\byohimbine')"
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p36
 atp37
 Rp38
-sS'species'
+sS'year'
 p39
-g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2011
+p40
+sS'species'
 p41
-atp42
-Rp43
+g3
+((lp42
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p43
+aS"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p44
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p45
+atp46
+Rp47
 sb.

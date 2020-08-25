@@ -2,72 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
+S'Method.ANTAGONIST'
 p5
-aS"(58, u'\\\\bhaloperidol')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(33, u'\\\\blocomot')"
+p12
+aS"(23, u'\\\\bantipsychotic')"
+p13
+aS"(4, u'\\\\btreatment')"
 p14
-g3
-((lp15
-S"(4, u'\\\\blocomot')"
-p16
-atp17
-Rp18
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht2a'
 p19
-g3
-((lp20
-S'5ht2a'
+I2096
+I2102
+tp20
+a(S'5ht2a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I2298
+I2304
+tp22
+a(S'5ht2c'
+p23
+I2096
+I2104
+tp24
+a(S'5ht2a'
+p25
+I411
+I417
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
 g3
-((lp25
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V2003
+((lp30
+S"(13, u'\\\\bagonist')"
 p31
-sS'agonists'
+aS"(40, u'\\\\bclozapine')"
 p32
-g3
-((lp33
-S"(23, u'\\\\bclozapine')"
+aS"(12, u'\\\\bantagonist')"
+p33
+aS"(49, u'\\\\bdoi')"
 p34
-aS"(43, u'\\\\bhaloperidol')"
+aS"(10, u'\\\\bmethamphetamine')"
 p35
 atp36
 Rp37
-sS'species'
+sS'regions'
 p38
 g3
 ((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p40
-atp41
-Rp42
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p41
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p42
+atp43
+Rp44
+sS'year'
+p45
+V2007
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

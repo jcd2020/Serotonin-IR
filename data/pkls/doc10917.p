@@ -2,66 +2,63 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(5, u'\\\\btherap')"
 p11
-g3
-((lp12
-S"(4, u'\\\\blocomot')"
-p13
-atp14
-Rp15
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht5'
-p18
-aS'5ht1a'
-p19
-atp20
-Rp21
+((lp16
+(S'5ht2'
+p17
+I30
+I35
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(53, u'\\\\bketanserin')"
+p23
+aS"(12, u'\\\\bantagonist')"
+p24
+atp25
+Rp26
 sS'regions'
-p22
-g3
-((lp23
-tp24
-Rp25
-sS'year'
-p26
-V2009
 p27
-sS'agonists'
-p28
 g3
-((lp29
-tp30
-Rp31
-sS'species'
+((lp28
+tp29
+Rp30
+sS'year'
+p31
+V2008
 p32
+sS'species'
+p33
 g3
-((lp33
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p34
-aS"(3671, u'(?i)\\\\b(drosophilas|drosophila)\\\\b')"
-p35
-aS"(4721, u'(?i)\\\\b(instars|instar)\\\\b')"
-p36
-aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
-p37
-atp38
-Rp39
+((lp34
+tp35
+Rp36
 sb.

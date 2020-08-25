@@ -2,68 +2,63 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(113, u'\\\\brisperidone')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-tp10
-Rp11
+tp5
+Rp6
 sS'topics'
-p12
+p7
 g3
-((lp13
-S"(15, u'\\\\bschizophreni')"
-p14
+((lp8
+tp9
+Rp10
+sS'receptors'
+p11
+g3
+((lp12
+(S'5ht2c'
+p13
+I1724
+I1730
+tp14
 atp15
 Rp16
-sS'receptors'
+sS'raw_text_methods'
 p17
 g3
 ((lp18
-S'5ht2'
-p19
-aS'5ht2a'
-p20
-atp21
-Rp22
+tp19
+Rp20
 sS'regions'
+p21
+g3
+((lp22
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p23
-g3
-((lp24
-tp25
-Rp26
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p24
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p27
-V2018
 p28
-sS'agonists'
+V1996
 p29
-g3
-((lp30
-tp31
-Rp32
 sS'species'
-p33
+p30
 g3
-((lp34
-S"(6679, u'(?i)\\\\b(anguses|angus)\\\\b')"
-p35
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-atp39
-Rp40
+((lp31
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p32
+aS"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p33
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
 sb.

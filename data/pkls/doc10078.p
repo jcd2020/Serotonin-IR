@@ -2,80 +2,109 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(194, u'\\\\bmethysergide')"
+S'Method.KNOCKOUT'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-tp16
-Rp17
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(25, u'\\\\bsocial')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2'
 p18
-g3
-((lp19
-S'5ht1b'
+I584
+I589
+tp19
+a(S'5ht2'
 p20
-aS'5ht1a'
-p21
-aS'5ht1'
+I464
+I469
+tp21
+a(S'5ht2'
 p22
-aS'5ht2a'
-p23
-atp24
-Rp25
-sS'regions'
+I1402
+I1407
+tp23
+a(S'5ht2c'
+p24
+I259
+I270
+tp25
+a(S'5ht2'
 p26
-g3
-((lp27
-S"(368, u'(?i)\\\\b(basilars|basilar)(-|\\\\s+)?(arteries|artery)\\\\b')"
+I382
+I387
+tp27
+a(S'5ht2'
 p28
-atp29
-Rp30
-sS'year'
-p31
-V1986
+I1553
+I1558
+tp29
+a(S'5ht2'
+p30
+I282
+I287
+tp31
+a(S'5ht2'
 p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(20, u'\\\\bbuspirone')"
-p35
-aS"(53, u'\\\\bmethysergide')"
-p36
-aS"(149, u'\\\\bmem')"
-p37
-aS"(192, u'\\\\bquipazine')"
+I1102
+I1107
+tp33
+a(S'5ht2'
+p34
+I1709
+I1714
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
 p38
-atp39
-Rp40
-sS'species'
-p41
 g3
-((lp42
-S"(4208, u'(?i)\\\\b(canines|canine)\\\\b')"
+((lp39
+S"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
 p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
+g3
+((lp44
+tp45
 Rp46
+sS'year'
+p47
+V2015
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p51
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p52
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p53
+atp54
+Rp55
 sb.

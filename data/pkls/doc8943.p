@@ -2,66 +2,59 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(17, u'\\\\bnan ?190')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+tp5
+Rp6
 sS'topics'
-p13
+p7
 g3
-((lp14
-tp15
-Rp16
+((lp8
+S"(26, u'\\\\bbehav')"
+p9
+aS"(9, u'\\\\bstress')"
+p10
+aS"(20, u'\\\\bmood')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
 p17
+I1537
+I1543
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
+((lp22
+tp23
+Rp24
 sS'regions'
-p22
+p25
 g3
-((lp23
-S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p24
-atp25
-Rp26
+((lp26
+tp27
+Rp28
 sS'year'
-p27
-V1996
-p28
-sS'agonists'
 p29
-g3
-((lp30
-tp31
-Rp32
+V2010
+p30
 sS'species'
-p33
+p31
 g3
-((lp34
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p35
-aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
-p36
-aS"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
-p37
-atp38
-Rp39
+((lp32
+tp33
+Rp34
 sb.

@@ -2,66 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.IMMUNOHISTOCHEMISTRY'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(9, u'\\\\bdepress')"
-p14
-aS"(35, u'\\\\bstress')"
-p15
-atp16
-Rp17
+((lp10
+tp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp14
+(S'5ht2a'
+p15
+I80
+I86
+tp16
+a(S'5ht2a'
+p17
+I180
+I186
+tp18
+a(S'5ht2a'
+p19
+I376
+I382
+tp20
+a(S'5ht2a'
+p21
+I944
+I950
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+g3
+((lp26
+S"(17, u'\\\\bpet')"
+p27
+aS"(18, u'\\\\bimaging')"
+p28
+aS"(23, u'\\\\bmdl')"
 p29
-V2003
+aS"(12, u'\\\\bantagonist')"
 p30
-sS'agonists'
-p31
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp32
-tp33
-Rp34
-sS'species'
+((lp34
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p35
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
+p39
+V2009
+p40
+sS'species'
+p41
 g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-atp38
-Rp39
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

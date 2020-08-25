@@ -2,68 +2,57 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(72, u'\\\\bagomelatine')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
+tp5
+Rp6
+sS'topics'
+p7
 g3
-((lp9
-S'Method.ANTAGONIST'
+((lp8
+S"(24, u'\\\\banxiolytic')"
+p9
+aS"(8, u'\\\\banxi')"
 p10
-aS'Method.AGONIST'
+aS"(23, u'\\\\bantipsychotic')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(9, u'\\\\bdepress')"
+(S'5ht1a'
 p16
-aS"(3, u'\\\\bsleep')"
-p17
+I536
+I542
+tp17
 atp18
 Rp19
-sS'receptors'
+sS'raw_text_methods'
 p20
 g3
 ((lp21
-S'5ht2c'
-p22
-atp23
-Rp24
+tp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-tp27
-Rp28
+((lp25
+tp26
+Rp27
 sS'year'
+p28
+V1996
 p29
-V2008
-p30
-sS'agonists'
-p31
-g3
-((lp32
-tp33
-Rp34
 sS'species'
-p35
+p30
 g3
-((lp36
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-atp39
-Rp40
+((lp31
+tp32
+Rp33
 sb.

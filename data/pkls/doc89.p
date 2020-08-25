@@ -2,74 +2,145 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.ANTAGONIST'
 p5
-aS"(58, u'\\\\bhaloperidol')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(14, u'\\\\bcogniti')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(30, u'\\\\bpain')"
+p13
+aS"(8, u'\\\\banxi')"
 p14
-g3
-((lp15
-tp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p15
+aS"(3, u'\\\\bclinical')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp20
+(S'5ht7'
+p21
+I1282
+I1286
+tp22
+a(S'5ht1'
 p23
-g3
-((lp24
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I1142
+I1148
+tp24
+a(S'5ht1b'
 p25
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I465
+I471
+tp26
+a(S'5ht1f'
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2005
+I954
+I960
+tp28
+a(S'5ht1f'
+p29
+I1142
+I1148
+tp30
+a(S'5ht7'
 p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(210, u'\\\\bsulpiride')"
-p34
-aS"(43, u'\\\\bhaloperidol')"
+I1198
+I1203
+tp32
+a(S'5ht7'
+p33
+I34
+I38
+tp34
+a(S'5ht1d'
 p35
-atp36
-Rp37
-sS'species'
-p38
-g3
-((lp39
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I590
+I596
+tp36
+a(S'5ht1d'
+p37
+I707
+I713
+tp38
+a(S'5ht1'
+p39
+I319
+I326
+tp40
+a(S'5ht1b'
 p41
-atp42
-Rp43
+I576
+I582
+tp42
+a(S'5ht1f'
+p43
+I23
+I28
+tp44
+a(S'5ht1f'
+p45
+I796
+I802
+tp46
+a(S'5ht1'
+p47
+I576
+I582
+tp48
+a(S'5ht1b'
+p49
+I319
+I325
+tp50
+atp51
+Rp52
+sS'raw_text_methods'
+p53
+g3
+((lp54
+S"(13, u'\\\\bagonist')"
+p55
+aS"(47, u'\\\\bsumatriptan')"
+p56
+aS"(12, u'\\\\bantagonist')"
+p57
+atp58
+Rp59
+sS'regions'
+p60
+g3
+((lp61
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p62
+atp63
+Rp64
+sS'year'
+p65
+V2007
+p66
+sS'species'
+p67
+g3
+((lp68
+tp69
+Rp70
 sb.

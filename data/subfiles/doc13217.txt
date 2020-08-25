@@ -1,4 +1,0 @@
-Volonte, M., et al. (1992). "Effect of haloperidol and clozapine on (+)SKF 10,047-induced dopamine release: role of 5-HT3 receptors." Eur J Pharmacol 213(1): 163-164.
-
-	(+)SKF 10,047 preferentially increased dopamine release in the nucleus accumbens compared to the striatum. Dopamine output was evaluated in the same freely moving rats by trans-cerebral dialysis. Clozapine and DAU 6215, a 5HT3 antagonist, which itself did not modify dopamine release in both areas, selectively antagonized (+)SKF 10,047-induced dopamine release in the nucleus accumbens. Haloperidol by itself increased dopamine release in both areas and these effects were additive with those induced by (+)SKF 10,047.
-

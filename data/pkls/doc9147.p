@@ -2,66 +2,110 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.KNOCKOUT'
 p5
-aS"(125, u'\\\\btropisetron')"
+aS'Method.AGONIST'
 p6
-aS"(58, u'\\\\bhaloperidol')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+atp7
+Rp8
 sS'topics'
-p15
+p9
 g3
-((lp16
-tp17
-Rp18
+((lp10
+S"(13, u'\\\\bantidepress')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht3'
-p21
-atp22
-Rp23
-sS'regions'
+((lp15
+(S'5ht2a'
+p16
+I645
+I651
+tp17
+a(S'5ht2c'
+p18
+I24
+I32
+tp19
+a(S'5ht2c'
+p20
+I645
+I653
+tp21
+a(S'5ht2a'
+p22
+I1005
+I1011
+tp23
+a(S'5ht2c'
 p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
+I1561
+I1569
+tp25
+a(S'5ht2c'
+p26
+I1005
+I1013
+tp27
+a(S'5ht2a'
 p28
-V2001
-p29
-sS'agonists'
+I24
+I30
+tp29
+a(S'5ht2a'
 p30
+I1561
+I1567
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
+p34
 g3
-((lp31
-S"(43, u'\\\\bhaloperidol')"
-p32
-atp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp35
+S"(13, u'\\\\bagonist')"
+p36
+aS"(49, u'\\\\bdoi')"
 p37
-atp38
-Rp39
+aS"(54, u'\\\\bautoradiography')"
+p38
+atp39
+Rp40
+sS'regions'
+p41
+g3
+((lp42
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p43
+aS"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
+p44
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p45
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p46
+atp47
+Rp48
+sS'year'
+p49
+V2005
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p53
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p54
+atp55
+Rp56
 sb.

@@ -1,4 +1,0 @@
-Sundar, B. G., et al. (2012). "Novel brain penetrant benzofuropiperidine 5-HT6 receptor antagonists." Bioorg Med Chem Lett 22(1): 120-123.
-
-	7-Arylsulfonyl substituted benzofuropiperidine was discovered as a novel scaffold for 5HT(6) receptor antagonists. Optimization by substitution at C-1 position led to identification of selective, orally bioavailable, brain penetrant antagonists with reduced hERG liability. An advanced analog tested in rat social recognition model showed significant activity suggesting potential utility in the enhancement of short-term memory. (C) 2011 Elsevier Ltd. All rights reserved.
-

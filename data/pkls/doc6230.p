@@ -1,0 +1,90 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(23, u'\\\\bantipsychotic')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
+p18
+I1608
+I1614
+tp19
+a(S'5ht1a'
+p20
+I521
+I527
+tp21
+a(S'5ht1a'
+p22
+I342
+I348
+tp23
+a(S'5ht1a'
+p24
+I171
+I177
+tp25
+a(S'5ht1a'
+p26
+I38
+I44
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
+g3
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(21, u'\\\\bipsapirone')"
+p33
+atp34
+Rp35
+sS'regions'
+p36
+g3
+((lp37
+tp38
+Rp39
+sS'year'
+p40
+V2001
+p41
+sS'species'
+p42
+g3
+((lp43
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p44
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p45
+atp46
+Rp47
+sb.

@@ -2,74 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
-p5
-aS"(91, u'\\\\bfluoxetine')"
-p6
-aS"(21, u'\\\\bpindolol')"
-p7
-aS"(31, u'\\\\bway ?100635')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
 S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(5, u'\\\\btherap')"
+p11
+aS"(15, u'\\\\bmemory')"
+p12
+aS"(2, u'\\\\bdisorder')"
 p13
 atp14
 Rp15
-sS'topics'
+sS'receptors'
 p16
 g3
 ((lp17
-S"(9, u'\\\\bdepress')"
+(S'5ht3'
 p18
-aS"(16, u'\\\\bfeed')"
-p19
-atp20
-Rp21
-sS'receptors'
+I34
+I39
+tp19
+a(S'5ht3'
+p20
+I458
+I463
+tp21
+a(S'5ht3'
 p22
+I843
+I848
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp23
-S'5ht1a'
-p24
-atp25
-Rp26
+((lp27
+S"(12, u'\\\\bantagonist')"
+p28
+atp29
+Rp30
 sS'regions'
-p27
+p31
 g3
-((lp28
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-atp31
-Rp32
+((lp32
+tp33
+Rp34
 sS'year'
-p33
-V1996
-p34
-sS'agonists'
 p35
-g3
-((lp36
-tp37
-Rp38
+V1996
+p36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p41
-atp42
-Rp43
+((lp38
+tp39
+Rp40
 sb.

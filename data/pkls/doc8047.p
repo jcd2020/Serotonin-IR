@@ -2,72 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S'Method.ANTAGONIST'
 p5
-aS"(119, u'\\\\britanserin')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-tp17
-Rp18
+tp11
+Rp12
 sS'receptors'
-p19
+p13
 g3
-((lp20
-S'5ht1a'
+((lp14
+(S'5ht7'
+p15
+I910
+I914
+tp16
+a(S'5ht7'
+p17
+I59
+I63
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-aS'5ht2'
-p22
-atp23
-Rp24
-sS'regions'
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+aS"(15, u'\\\\b8ohdpat')"
+p24
+aS"(9, u'\\\\britanserin')"
 p25
+aS"(12, u'\\\\bantagonist')"
+p26
+atp27
+Rp28
+sS'regions'
+p29
 g3
-((lp26
-S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-atp28
-Rp29
+((lp30
+tp31
+Rp32
 sS'year'
-p30
-V1986
-p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(85, u'\\\\b8 ?oh ?dpat')"
+p33
+V1995
 p34
-atp35
-Rp36
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-aS"(3636, u'(?i)\\\\b(martins|martin)\\\\b')"
-p40
-atp41
-Rp42
+((lp36
+tp37
+Rp38
 sb.

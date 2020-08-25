@@ -2,76 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(32, u'\\\\bnausea')"
-p14
-aS"(28, u'\\\\bemesis')"
-p15
-atp16
-Rp17
+((lp10
+tp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht5'
-p20
-aS'5ht3'
+((lp14
+(S'5ht3'
+p15
+I50
+I55
+tp16
+a(S'5ht3'
+p17
+I1809
+I1814
+tp18
+a(S'5ht1'
+p19
+I1521
+I1526
+tp20
+a(S'5ht2'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I1528
+I1533
+tp22
+a(S'5ht3'
+p23
+I276
+I281
+tp24
+a(S'5ht3'
+p25
+I455
+I460
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
 g3
-((lp25
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p26
-aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
-p27
-aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+((lp30
+S"(33, u'\\\\bmcpp')"
 p31
-V2011
+aS"(23, u'\\\\bmdl')"
 p32
-sS'agonists'
+aS"(13, u'\\\\bagonist')"
 p33
-g3
-((lp34
-tp35
-Rp36
-sS'species'
+aS"(30, u'\\\\b2methyl')"
+p34
+aS"(46, u'\\\\bspiperone')"
+p35
+aS"(12, u'\\\\bantagonist')"
+p36
+aS"(45, u'\\\\bmetergoline')"
 p37
-g3
-((lp38
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+atp38
+Rp39
+sS'regions'
 p40
-aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
-p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
+g3
+((lp41
+tp42
+Rp43
+sS'year'
+p44
+V1989
+p45
+sS'species'
+p46
+g3
+((lp47
+tp48
+Rp49
 sb.

@@ -2,62 +2,62 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(3, u'\\\\bclinical')"
 p12
-g3
-((lp13
-S"(3, u'\\\\bsleep')"
-p14
-aS"(24, u'\\\\banalgesi')"
-p15
-atp16
-Rp17
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp16
+tp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+S"(1, u'\\\\bneuroimag')"
+p21
+aS"(19, u'\\\\bpositron emission tomography')"
+p22
+aS"(18, u'\\\\bimaging')"
 p23
-g3
-((lp24
-tp25
+aS"(32, u'\\\\blesions')"
+p24
+atp25
 Rp26
-sS'year'
+sS'regions'
 p27
-V1999
-p28
-sS'agonists'
-p29
 g3
-((lp30
-tp31
-Rp32
+((lp28
+tp29
+Rp30
+sS'year'
+p31
+V2014
+p32
 sS'species'
 p33
 g3
 ((lp34
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p35
-atp36
-Rp37
+tp35
+Rp36
 sb.

@@ -2,60 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-tp14
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
 Rp15
 sS'receptors'
 p16
 g3
 ((lp17
-S'5ht1b'
+(S'5ht2a'
 p18
-atp19
-Rp20
-sS'regions'
-p21
+I851
+I857
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
 g3
-((lp22
-tp23
-Rp24
-sS'year'
+((lp23
+S"(17, u'\\\\bpet')"
+p24
+aS"(19, u'\\\\bpositron emission tomography')"
 p25
-V1993
+aS"(18, u'\\\\bimaging')"
 p26
-sS'agonists'
-p27
-g3
-((lp28
-S"(67, u'\\\\bru ?24969')"
+atp27
+Rp28
+sS'regions'
 p29
-atp30
-Rp31
-sS'species'
-p32
 g3
-((lp33
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp30
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p31
+atp32
+Rp33
+sS'year'
 p34
-atp35
-Rp36
+V1999
+p35
+sS'species'
+p36
+g3
+((lp37
+tp38
+Rp39
 sb.

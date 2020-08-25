@@ -2,72 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(29, u'\\\\bsex')"
-p14
-atp15
-Rp16
+((lp10
+tp11
+Rp12
 sS'receptors'
-p17
+p13
 g3
-((lp18
-S'5ht1a'
+((lp14
+(S'5ht1a'
+p15
+I1301
+I1307
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
 p19
-aS'5ht2'
-p20
-atp21
-Rp22
-sS'regions'
+g3
+((lp20
+S"(13, u'\\\\bagonist')"
+p21
+aS"(15, u'\\\\b8ohdpat')"
+p22
+aS"(12, u'\\\\bantagonist')"
 p23
+atp24
+Rp25
+sS'regions'
+p26
 g3
-((lp24
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
+((lp27
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p28
-V2005
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p29
-sS'agonists'
+aS"(14, u'(?i)\\\\b(caudals|caudal)\\\\b')"
 p30
-g3
-((lp31
-tp32
-Rp33
-sS'species'
+atp31
+Rp32
+sS'year'
+p33
+V1998
 p34
+sS'species'
+p35
 g3
-((lp35
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p36
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp36
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-atp41
-Rp42
+atp38
+Rp39
 sb.

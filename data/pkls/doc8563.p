@@ -2,94 +2,95 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(203, u'\\\\btfmpp')"
+S'Method.AGONIST'
 p5
-aS"(89, u'\\\\beltoprazine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(29, u'\\\\bsex')"
-p17
-aS"(19, u'\\\\bimpulsiv')"
-p18
-aS"(20, u'\\\\baggressi')"
-p19
-atp20
-Rp21
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(27, u'\\\\bdyskinesia')"
+p11
+aS"(34, u'\\\\bparkinson')"
+p12
+aS"(3, u'\\\\bclinical')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
+p18
+I1929
+I1935
+tp19
+a(S'5ht5'
+p20
+I328
+I338
+tp21
+a(S'5ht1b'
 p22
-g3
-((lp23
-S'5ht1b'
+I376
+I382
+tp23
+a(S'5ht1a'
 p24
-aS'5ht1a'
-p25
-aS'5ht3'
+I432
+I438
+tp25
+a(S'5ht1b'
 p26
-aS'5ht2'
-p27
-aS'5ht2a'
+I440
+I446
+tp27
+a(S'5ht1a'
 p28
-atp29
-Rp30
-sS'regions'
-p31
+I366
+I372
+tp29
+a(S'5ht1b'
+p30
+I1940
+I1946
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
+p34
 g3
-((lp32
-S"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
-p33
-atp34
-Rp35
-sS'year'
+((lp35
+S"(13, u'\\\\bagonist')"
 p36
-V1989
-p37
-sS'agonists'
-p38
+atp37
+Rp38
+sS'regions'
+p39
 g3
-((lp39
-S"(178, u'\\\\btfmpp')"
-p40
-aS"(31, u'\\\\beltoprazine')"
-p41
-atp42
-Rp43
-sS'species'
+((lp40
+tp41
+Rp42
+sS'year'
+p43
+V2015
 p44
+sS'species'
+p45
 g3
-((lp45
-S"(4545, u'(?i)\\\\b(lobsters|lobster)\\\\b')"
-p46
-aS"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+((lp46
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p47
-aS"(6249, u'(?i)\\\\b(ants|ant)\\\\b')"
-p48
-aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p49
-aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
-p50
-aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
-p51
-atp52
-Rp53
+atp48
+Rp49
 sb.

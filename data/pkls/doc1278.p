@@ -1,0 +1,64 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(18, u'\\\\bavoidan')"
+p10
+aS"(14, u'\\\\bcogniti')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
+p17
+I266
+I272
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+atp24
+Rp25
+sS'regions'
+p26
+g3
+((lp27
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p28
+atp29
+Rp30
+sS'year'
+p31
+V2012
+p32
+sS'species'
+p33
+g3
+((lp34
+tp35
+Rp36
+sb.

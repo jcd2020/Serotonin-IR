@@ -2,90 +2,132 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(17, u'\\\\bnan ?190')"
-p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-aS"(96, u'\\\\brs ?102221')"
-p7
-aS"(117, u'\\\\bketanserin')"
-p8
-aS"(125, u'\\\\btropisetron')"
-p9
-aS"(33, u'\\\\byohimbine')"
-p10
-aS"(43, u'\\\\bgr ?127935')"
-p11
-atp12
-Rp13
-sS'methods'
-p14
-g3
-((lp15
 S'Method.ANTAGONIST'
-p16
-atp17
-Rp18
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p19
+p9
 g3
-((lp20
-S"(21, u'\\\\bpain')"
-p21
-aS"(24, u'\\\\banalgesi')"
-p22
-atp23
-Rp24
+((lp10
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2c'
+p15
+I1673
+I1679
+tp16
+a(S'5ht2a'
+p17
+I2100
+I2106
+tp18
+a(S'5ht2a'
+p19
+I1853
+I1859
+tp20
+a(S'5ht2c'
+p21
+I1106
+I1112
+tp22
+a(S'5ht2c'
+p23
+I2148
+I2154
+tp24
+a(S'5ht2'
 p25
-g3
-((lp26
-S'5ht1b'
+I31
+I36
+tp26
+a(S'5ht2a'
 p27
-aS'5ht1a'
-p28
-aS'5ht4'
+I2346
+I2352
+tp28
+a(S'5ht2a'
 p29
-aS'5ht3'
-p30
-aS'5ht2c'
+I1911
+I1917
+tp30
+a(S'5ht2c'
 p31
-aS'5ht2a'
-p32
-atp33
-Rp34
-sS'regions'
+I1568
+I1574
+tp32
+a(S'5ht2a'
+p33
+I2275
+I2281
+tp34
+a(S'5ht2'
 p35
-g3
-((lp36
-tp37
-Rp38
-sS'year'
+I615
+I620
+tp36
+a(S'5ht2a'
+p37
+I1808
+I1814
+tp38
+a(S'5ht2c'
 p39
-V2006
-p40
-sS'agonists'
+I716
+I722
+tp40
+a(S'5ht2'
 p41
+I437
+I442
+tp42
+atp43
+Rp44
+sS'raw_text_methods'
+p45
 g3
-((lp42
-S"(210, u'\\\\bsulpiride')"
-p43
-aS"(82, u'\\\\byohimbine')"
-p44
-atp45
-Rp46
-sS'species'
+((lp46
+S"(13, u'\\\\bagonist')"
 p47
-g3
-((lp48
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+aS"(49, u'\\\\bdoi')"
+p48
+aS"(12, u'\\\\bantagonist')"
 p49
 atp50
 Rp51
+sS'regions'
+p52
+g3
+((lp53
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p54
+atp55
+Rp56
+sS'year'
+p57
+V2016
+p58
+sS'species'
+p59
+g3
+((lp60
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p61
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p62
+atp63
+Rp64
 sb.

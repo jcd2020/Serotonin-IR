@@ -2,72 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-tp14
-Rp15
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
 p16
-g3
-((lp17
-S'5ht1a'
+I1620
+I1626
+tp17
+a(S'5ht1a'
 p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
-p23
-aS"(294, u'(?i)\\\\b(retrosplenials|retrosplenial)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1549
+I1555
+tp19
+a(S'5ht2c'
+p20
+I1620
+I1628
+tp21
+a(S'5ht1a'
+p22
+I1799
+I1805
+tp23
+a(S'5ht2'
 p24
-aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p25
+I1831
+I1836
+tp25
 atp26
 Rp27
-sS'year'
+sS'raw_text_methods'
 p28
-V2006
-p29
-sS'agonists'
+g3
+((lp29
+S"(13, u'\\\\bagonist')"
 p30
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp31
-tp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
-p36
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p37
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+((lp34
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
 p38
-aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
+V2002
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p40
-atp41
-Rp42
+g3
+((lp41
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p42
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

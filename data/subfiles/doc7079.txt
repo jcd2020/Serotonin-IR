@@ -1,4 +1,0 @@
-Langlois, M., et al. (1994). "DESIGN OF A POTENT 5-HT4 RECEPTOR AGONIST WITH NANOMOLAR AFFINITY." Bioorg Med Chem Lett 4(12): 1433-1436.
-
-	It was demonstrated that potent and selective ligands for the 5-HT4 receptor devoid of 5-HT3 receptor antagonist properties could be designed from the esters of 4-amino-5-chloro-2-methoxybenzoic acid and the conformationally flexible piperidine framework derived from the locked structure of the quinuclidine ring of zacopride. The compounds were evaluated in binding essays with [H-3]-GR-113808 and [H-3]-BRL-43694 and fonctionally using electrically-evoked contractions in the guinea-pig ileum. Compound 7 exhibited nanomolar 5-HT4 receptor agonist activity.
-

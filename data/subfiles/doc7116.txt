@@ -1,0 +1,4 @@
+Mattson, R. J., et al. (2003). "Development of a presynaptic 5-HT1A antagonist." Bioorg Med Chem Lett 13(2): 285-288.
+
+	A new 5-HT(1A) silent antagonist 14 (5-HT(1A) IC(50)=2.2 nM) antagonizes the effects of agonists on reciprocal forepaw treading behavior, on neuronal firing in the rat dorsal raphé, and on 5-HT(1A) release in the raphé and hippocampus. While 14 alone was inactive in the social interaction paradigm, it completely reversed the social interaction activity of the serotonergic compounds (buspirone, 1, and 2).
+

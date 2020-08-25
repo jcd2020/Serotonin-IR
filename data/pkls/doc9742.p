@@ -2,76 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.STIMULATION'
+S"(20, u'\\\\bmood')"
 p10
-aS'Method.ANTAGONIST'
+aS"(2, u'\\\\bdisorder')"
 p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(25, u'\\\\bvasoconstrict')"
-p17
-atp18
-Rp19
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I2125
+I2131
+tp17
+a(S'5ht1a'
+p18
+I160
+I166
+tp19
+a(S'5ht1a'
 p20
+I52
+I58
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp21
-S'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+((lp25
+S"(51, u'\\\\bway100635')"
+p26
+aS"(17, u'\\\\bpet')"
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2004
-p31
-sS'agonists'
+aS"(19, u'\\\\bpositron emission tomography')"
+p28
+aS"(18, u'\\\\bimaging')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
 g3
 ((lp33
-S"(23, u'\\\\bclozapine')"
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p34
-aS"(147, u'\\\\bmdma')"
+aS"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p35
-aS"(175, u'\\\\bdoi')"
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p36
 atp37
 Rp38
-sS'species'
+sS'year'
 p39
-g3
-((lp40
-S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+V2013
+p40
+sS'species'
 p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+g3
+((lp42
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p43
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p44
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p45
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

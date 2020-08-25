@@ -2,70 +2,78 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(27, u'\\\\bdyskinesia')"
+p11
+aS"(1, u'\\\\bpatient')"
+p12
+aS"(26, u'\\\\bbehav')"
 p13
-g3
-((lp14
-S"(18, u'\\\\bpsychostim')"
-p15
-aS"(4, u'\\\\blocomot')"
-p16
-atp17
-Rp18
+aS"(34, u'\\\\bparkinson')"
+p14
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1b'
 p19
-g3
-((lp20
-S'5ht1b'
+I1070
+I1076
+tp20
+a(S'5ht1a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I1051
+I1057
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp25
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+aS"(15, u'\\\\b8ohdpat')"
+p28
+aS"(5, u'\\\\bmk801')"
 p29
-V2004
+aS"(12, u'\\\\bantagonist')"
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(100, u'\\\\bcp ?93129')"
+atp31
+Rp32
+sS'regions'
 p33
-atp34
-Rp35
-sS'species'
-p36
 g3
-((lp37
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+((lp34
+tp35
+Rp36
+sS'year'
+p37
+V2012
 p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p39
-atp40
-Rp41
+g3
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

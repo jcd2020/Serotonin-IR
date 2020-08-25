@@ -2,29 +2,31 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+aS'Method.ANTAGONIST'
+p6
+aS'Method.AGONIST'
+p7
+atp8
+Rp9
 sS'topics'
-p13
+p10
 g3
-((lp14
-S"(9, u'\\\\bdepress')"
+((lp11
+S"(22, u'\\\\bschizophreni')"
+p12
+aS"(1, u'\\\\bpatient')"
+p13
+aS"(23, u'\\\\bantipsychotic')"
+p14
+aS"(4, u'\\\\btreatment')"
 p15
 atp16
 Rp17
@@ -32,42 +34,37 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht1a'
+(S'5ht2a'
 p20
-aS'5ht2a'
-p21
+I383
+I389
+tp21
 atp22
 Rp23
-sS'regions'
+sS'raw_text_methods'
 p24
 g3
 ((lp25
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+S"(40, u'\\\\bclozapine')"
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2007
+aS"(19, u'\\\\bpositron emission tomography')"
+p27
+atp28
+Rp29
+sS'regions'
 p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p33
-aS"(175, u'\\\\bdoi')"
+((lp31
+tp32
+Rp33
+sS'year'
 p34
-atp35
-Rp36
+V2004
+p35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+((lp37
+tp38
+Rp39
 sb.

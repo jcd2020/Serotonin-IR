@@ -2,70 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(119, u'\\\\britanserin')"
+S'Method.PET'
 p5
-aS"(113, u'\\\\brisperidone')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+S"(18, u'\\\\bavoidan')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht2c'
-p21
-aS'5ht2'
-p22
-aS'5ht2a'
-p23
-atp24
-Rp25
-sS'regions'
+((lp15
+(S'5ht2a'
+p16
+I50
+I55
+tp17
+a(S'5ht2'
+p18
+I635
+I639
+tp19
+a(S'5ht2a'
+p20
+I1568
+I1573
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+S"(1, u'\\\\bneuroimag')"
 p26
-g3
-((lp27
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(17, u'\\\\bpet')"
+p27
+aS"(19, u'\\\\bpositron emission tomography')"
 p28
 atp29
 Rp30
-sS'year'
+sS'regions'
 p31
-V2016
-p32
-sS'agonists'
+g3
+((lp32
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p33
-g3
-((lp34
-S"(175, u'\\\\bdoi')"
-p35
-atp36
-Rp37
-sS'species'
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p34
+atp35
+Rp36
+sS'year'
+p37
+V2002
 p38
+sS'species'
+p39
 g3
-((lp39
-tp40
-Rp41
+((lp40
+tp41
+Rp42
 sb.

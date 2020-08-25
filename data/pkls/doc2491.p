@@ -2,86 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
-p5
-aS"(125, u'\\\\btropisetron')"
-p6
-aS"(119, u'\\\\britanserin')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(33, u'\\\\blocomot')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(3, u'\\\\bclinical')"
 p15
-g3
-((lp16
-S"(11, u'\\\\banxiolyt')"
-p17
-atp18
-Rp19
+atp16
+Rp17
 sS'receptors'
+p18
+g3
+((lp19
+(S'5ht1a'
 p20
-g3
-((lp21
-S'5ht1a'
+I1420
+I1426
+tp21
+a(S'5ht1a'
 p22
-aS'5ht4'
-p23
-aS'5ht3'
-p24
-aS'5ht2'
-p25
-aS'5ht1'
+I1258
+I1264
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-atp27
-Rp28
-sS'regions'
+g3
+((lp27
+S"(7, u'\\\\bpropranolol')"
+p28
+aS"(12, u'\\\\bantagonist')"
 p29
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp30
-tp31
-Rp32
+((lp33
+tp34
+Rp35
 sS'year'
-p33
-V1993
-p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(85, u'\\\\b8 ?oh ?dpat')"
+p36
+V2018
 p37
-atp38
-Rp39
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+((lp39
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p41
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p42
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p43
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p46
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p47
-atp48
-Rp49
+atp43
+Rp44
 sb.

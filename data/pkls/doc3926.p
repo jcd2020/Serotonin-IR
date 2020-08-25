@@ -1,0 +1,114 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(14, u'\\\\bcogniti')"
+p11
+aS"(1, u'\\\\bpatient')"
+p12
+aS"(23, u'\\\\bantipsychotic')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2a'
+p18
+I293
+I299
+tp19
+a(S'5ht2a'
+p20
+I275
+I281
+tp21
+a(S'5ht2'
+p22
+I1805
+I1810
+tp23
+a(S'5ht2'
+p24
+I1315
+I1320
+tp25
+a(S'5ht2'
+p26
+I1981
+I1986
+tp27
+a(S'5ht2a'
+p28
+I51
+I57
+tp29
+a(S'5ht2'
+p30
+I293
+I298
+tp31
+a(S'5ht2a'
+p32
+I530
+I536
+tp33
+a(S'5ht2'
+p34
+I758
+I763
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
+p38
+g3
+((lp39
+S"(18, u'\\\\bimaging')"
+p40
+aS"(50, u'\\\\bm100907')"
+p41
+aS"(12, u'\\\\bantagonist')"
+p42
+atp43
+Rp44
+sS'regions'
+p45
+g3
+((lp46
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p47
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
+p51
+V2010
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p55
+atp56
+Rp57
+sb.

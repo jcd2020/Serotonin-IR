@@ -2,70 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
+S'Method.STAINING'
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-tp15
-Rp16
+((lp10
+S"(17, u'\\\\balzheimer')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
 p17
-g3
-((lp18
-S'5ht1a'
+I1109
+I1115
+tp18
+a(S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
-p24
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1185
+I1191
+tp20
+a(S'5ht1a'
+p21
+I32
+I38
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+g3
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+aS"(3, u'\\\\bimmunoreactiv')"
+p28
+aS"(4, u'\\\\bpcpa')"
 p29
-V2003
+aS"(21, u'\\\\bipsapirone')"
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(20, u'\\\\bbuspirone')"
+atp31
+Rp32
+sS'regions'
 p33
-aS"(86, u'\\\\balnespirone')"
-p34
-atp35
-Rp36
-sS'species'
-p37
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp34
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
+p38
+V1995
 p39
-atp40
-Rp41
+sS'species'
+p40
+g3
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

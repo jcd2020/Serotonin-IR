@@ -2,64 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(4, u'\\\\blocomot')"
-p14
-atp15
-Rp16
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht1a'
-p19
+((lp15
+(S'5ht1a'
+p16
+I1237
+I1243
+tp17
+a(S'5ht1a'
+p18
+I875
+I881
+tp19
 atp20
 Rp21
-sS'regions'
+sS'raw_text_methods'
 p22
 g3
 ((lp23
-tp24
-Rp25
-sS'year'
+S"(15, u'\\\\b8ohdpat')"
+p24
+aS"(13, u'\\\\bagonist')"
+p25
+aS"(11, u'\\\\bfluoxetine')"
 p26
-V1994
+aS"(38, u'\\\\bssri')"
 p27
-sS'agonists'
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p28
+aS"(24, u'\\\\bgepirone')"
+p29
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp29
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p30
-atp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
-p35
-aS"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
+((lp33
+tp34
+Rp35
+sS'year'
 p36
-atp37
-Rp38
+V1995
+p37
+sS'species'
+p38
+g3
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

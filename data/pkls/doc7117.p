@@ -2,68 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-tp14
-Rp15
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(14, u'\\\\bcogniti')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
 p16
-g3
-((lp17
-S'5ht1a'
+I676
+I682
+tp17
+a(S'5ht2'
 p18
-aS'5ht1'
-p19
-atp20
-Rp21
-sS'regions'
-p22
+I1508
+I1513
+tp19
+a(S'5ht2'
+p20
+I693
+I698
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp23
-tp24
-Rp25
-sS'year'
+((lp25
+S"(17, u'\\\\bpet')"
 p26
-V1996
+aS"(19, u'\\\\bpositron emission tomography')"
 p27
-sS'agonists'
-p28
-g3
-((lp29
-S"(20, u'\\\\bbuspirone')"
+atp28
+Rp29
+sS'regions'
 p30
-aS"(149, u'\\\\bmem')"
-p31
-aS"(189, u'\\\\bethanol')"
-p32
-atp33
-Rp34
-sS'species'
-p35
 g3
-((lp36
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+((lp31
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p32
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
+p36
+V2007
 p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p38
-atp39
-Rp40
+g3
+((lp39
+tp40
+Rp41
 sb.

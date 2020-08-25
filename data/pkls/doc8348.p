@@ -2,68 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p5
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-tp15
+((lp9
+S"(33, u'\\\\blocomot')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(9, u'\\\\bstress')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
 Rp16
 sS'receptors'
 p17
 g3
 ((lp18
-S'5ht1a'
+(S'5ht2a'
 p19
-aS'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
-p23
+I1508
+I1514
+tp20
+a(S'5ht2a'
+p21
+I1825
+I1831
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp24
-tp25
-Rp26
-sS'year'
+((lp26
+S"(12, u'\\\\bantagonist')"
 p27
-V1995
-p28
-sS'agonists'
-p29
+atp28
+Rp29
+sS'regions'
+p30
 g3
-((lp30
-S"(45, u'\\\\bipsapirone')"
-p31
-aS"(189, u'\\\\bethanol')"
-p32
-atp33
-Rp34
-sS'species'
+((lp31
+tp32
+Rp33
+sS'year'
+p34
+V2018
 p35
+sS'species'
+p36
 g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-aS"(736, u'(?i)\\\\b(fawns|fawn)\\\\b')"
+((lp37
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-atp39
-Rp40
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p39
+atp40
+Rp41
 sb.

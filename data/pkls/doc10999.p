@@ -2,62 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(125, u'\\\\btropisetron')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(7, u'\\\\bdepressi')"
 p10
-aS'Method.AGONIST'
+aS"(1, u'\\\\bpatient')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+aS"(3, u'\\\\bclinical')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
 p18
+I538
+I549
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
 g3
-((lp19
-S'5ht3a'
-p20
-aS'5ht3'
-p21
-atp22
-Rp23
-sS'regions'
+((lp23
+S"(1, u'\\\\bneuroimag')"
 p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
-p28
-V1997
+aS"(19, u'\\\\bpositron emission tomography')"
+p25
+aS"(18, u'\\\\bimaging')"
+p26
+atp27
+Rp28
+sS'regions'
 p29
-sS'agonists'
-p30
 g3
-((lp31
-tp32
+((lp30
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p31
+atp32
 Rp33
-sS'species'
+sS'year'
 p34
+V2004
+p35
+sS'species'
+p36
 g3
-((lp35
-tp36
-Rp37
+((lp37
+tp38
+Rp39
 sb.

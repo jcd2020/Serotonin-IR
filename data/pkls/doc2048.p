@@ -1,0 +1,105 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(9, u'\\\\bstress')"
+p9
+atp10
+Rp11
+sS'receptors'
+p12
+g3
+((lp13
+(S'5ht1b'
+p14
+I1030
+I1036
+tp15
+a(S'5ht1b'
+p16
+I1739
+I1745
+tp17
+a(S'5ht1b'
+p18
+I1632
+I1638
+tp19
+a(S'5ht1b'
+p20
+I1498
+I1504
+tp21
+a(S'5ht1b'
+p22
+I842
+I848
+tp23
+a(S'5ht1b'
+p24
+I148
+I154
+tp25
+a(S'5ht1b'
+p26
+I1128
+I1134
+tp27
+a(S'5ht1b'
+p28
+I1268
+I1274
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
+p32
+g3
+((lp33
+S"(2, u'\\\\blabeling')"
+p34
+aS"(54, u'\\\\bautoradiography')"
+p35
+atp36
+Rp37
+sS'regions'
+p38
+g3
+((lp39
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p40
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V1997
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p48
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p49
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p50
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
+sb.

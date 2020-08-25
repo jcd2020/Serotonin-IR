@@ -2,82 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
+tp5
+Rp6
+sS'topics'
+p7
 g3
-((lp9
-S'Method.ANTAGONIST'
+((lp8
+S"(12, u'\\\\bsleep')"
+p9
+aS"(26, u'\\\\bbehav')"
 p10
-aS'Method.AGONIST'
+aS"(4, u'\\\\btreatment')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(15, u'\\\\bschizophreni')"
+(S'5ht5'
 p16
-atp17
-Rp18
-sS'receptors'
-p19
+I139
+I149
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
 g3
-((lp20
-S'5ht2a'
-p21
-atp22
-Rp23
+((lp21
+S"(4, u'\\\\bpcpa')"
+p22
+atp23
+Rp24
 sS'regions'
-p24
+p25
 g3
-((lp25
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p27
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p28
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p29
-atp30
-Rp31
+((lp26
+tp27
+Rp28
 sS'year'
-p32
-V2014
-p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(175, u'\\\\bdoi')"
-p36
-atp37
-Rp38
+p29
+V2015
+p30
 sS'species'
-p39
+p31
 g3
-((lp40
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p41
-aS"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
-p42
-aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
-p43
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p44
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p45
-atp46
-Rp47
+((lp32
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p33
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p34
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p35
+atp36
+Rp37
 sb.

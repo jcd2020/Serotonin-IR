@@ -2,68 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
 g3
-((lp9
-S'Method.PET'
-p10
-aS'Method.ANTAGONIST'
+((lp10
+S"(23, u'\\\\bantipsychotic')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht6'
+p16
+I28
+I33
+tp17
+a(S'5ht6'
 p18
-g3
-((lp19
-S'5ht2a'
+I828
+I833
+tp19
+a(S'5ht4'
 p20
-atp21
-Rp22
-sS'regions'
-p23
+I262
+I267
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp24
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
+((lp25
+S"(15, u'\\\\b8ohdpat')"
+p26
+aS"(40, u'\\\\bclozapine')"
+p27
+aS"(34, u'\\\\b5ct')"
 p28
-V2002
+aS"(13, u'\\\\bagonist')"
 p29
-sS'agonists'
+aS"(27, u'\\\\blsd')"
 p30
-g3
-((lp31
-tp32
+aS"(12, u'\\\\bantagonist')"
+p31
+atp32
 Rp33
-sS'species'
+sS'regions'
 p34
 g3
 ((lp35
-S"(4208, u'(?i)\\\\b(canines|canine)\\\\b')"
-p36
-aS"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
-p37
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+tp36
+Rp37
+sS'year'
 p38
-atp39
-Rp40
+V1994
+p39
+sS'species'
+p40
+g3
+((lp41
+tp42
+Rp43
 sb.

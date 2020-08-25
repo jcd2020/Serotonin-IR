@@ -2,68 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(13, u'\\\\bantidepress')"
 p12
-g3
-((lp13
-S"(1, u'\\\\bmood')"
-p14
-atp15
-Rp16
+atp13
+Rp14
 sS'receptors'
-p17
+p15
 g3
-((lp18
-S'5ht1b'
+((lp16
+(S'5ht7'
+p17
+I486
+I491
+tp18
+a(S'5ht7'
 p19
-aS'5ht1a'
-p20
+I97
+I102
+tp20
 atp21
 Rp22
-sS'regions'
+sS'raw_text_methods'
 p23
 g3
 ((lp24
-tp25
-Rp26
-sS'year'
-p27
-V2007
-p28
-sS'agonists'
+S"(16, u'\\\\bdiazepam')"
+p25
+aS"(12, u'\\\\bantagonist')"
+p26
+atp27
+Rp28
+sS'regions'
 p29
 g3
 ((lp30
 tp31
 Rp32
-sS'species'
+sS'year'
 p33
-g3
-((lp34
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+V2006
+p34
+sS'species'
 p35
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p36
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+g3
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sb.

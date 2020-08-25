@@ -2,82 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(48, u'\\\\btrazodone')"
+S'Method.AGONIST'
 p5
-aS"(49, u'\\\\bnefazodone')"
-p6
-aS"(104, u'\\\\bimipramine')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(32, u'\\\\bnausea')"
-p17
-aS"(29, u'\\\\bsex')"
-p18
-aS"(9, u'\\\\bdepress')"
-p19
-aS"(3, u'\\\\bsleep')"
-p20
-aS"(10, u'\\\\banxiety')"
-p21
-atp22
-Rp23
+((lp9
+S"(30, u'\\\\bpain')"
+p10
+atp11
+Rp12
 sS'receptors'
-p24
+p13
 g3
-((lp25
-S'5ht5'
-p26
-aS'5ht1a'
+((lp14
+(S'5ht1'
+p15
+I703
+I708
+tp16
+a(S'5ht1'
+p17
+I776
+I782
+tp18
+a(S'5ht1'
+p19
+I344
+I349
+tp20
+a(S'5ht1'
+p21
+I609
+I614
+tp22
+a(S'5ht1'
+p23
+I378
+I383
+tp24
+a(S'5ht1a'
+p25
+I776
+I782
+tp26
+a(S'5ht1a'
 p27
-aS'5ht2'
-p28
+I176
+I182
+tp28
 atp29
 Rp30
-sS'regions'
+sS'raw_text_methods'
 p31
 g3
 ((lp32
-tp33
-Rp34
-sS'year'
-p35
-V1995
+S"(13, u'\\\\bagonist')"
+p33
+atp34
+Rp35
+sS'regions'
 p36
-sS'agonists'
-p37
 g3
-((lp38
-S"(75, u'\\\\btrazodone')"
-p39
-aS"(56, u'\\\\bnefazodone')"
+((lp37
+tp38
+Rp39
+sS'year'
 p40
-atp41
-Rp42
+V2017
+p41
 sS'species'
-p43
+p42
 g3
-((lp44
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p45
-atp46
-Rp47
+((lp43
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p44
+atp45
+Rp46
 sb.

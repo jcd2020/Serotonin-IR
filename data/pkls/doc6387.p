@@ -2,64 +2,103 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(9, u'\\\\bstress')"
 p12
-g3
-((lp13
-S"(16, u'\\\\bfeed')"
-p14
-aS"(1, u'\\\\bmood')"
-p15
-atp16
-Rp17
+aS"(3, u'\\\\bclinical')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht2a'
+I1401
+I1407
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(249, u'(?i)\\\\b(frontals|frontal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
+I284
+I290
+tp21
+a(S'5ht1a'
+p22
+I360
+I366
+tp23
+a(S'5ht1a'
+p24
+I27
+I33
+tp25
+a(S'5ht1a'
+p26
+I674
+I680
+tp27
+a(S'5ht1a'
 p28
-V2001
-p29
-sS'agonists'
+I525
+I531
+tp29
+a(S'5ht1a'
 p30
-g3
-((lp31
-tp32
+I118
+I124
+tp31
+atp32
 Rp33
-sS'species'
+sS'raw_text_methods'
 p34
 g3
 ((lp35
-S"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p36
 atp37
 Rp38
+sS'regions'
+p39
+g3
+((lp40
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p41
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p42
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p43
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p44
+atp45
+Rp46
+sS'year'
+p47
+V2006
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
 sb.

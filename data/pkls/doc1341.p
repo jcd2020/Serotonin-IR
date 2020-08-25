@@ -2,66 +2,92 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
 p11
-g3
-((lp12
-S"(8, u'\\\\blearning')"
+aS"(14, u'\\\\bcogniti')"
+p12
+aS"(26, u'\\\\bbehav')"
 p13
-aS"(10, u'\\\\banxiety')"
+aS"(16, u'\\\\blearning')"
 p14
-aS"(7, u'\\\\bmemory')"
+aS"(23, u'\\\\bantipsychotic')"
 p15
-atp16
-Rp17
+aS"(29, u'\\\\bhyperactiv')"
+p16
+aS"(18, u'\\\\bavoidan')"
+p17
+atp18
+Rp19
 sS'receptors'
-p18
+p20
 g3
-((lp19
-tp20
-Rp21
-sS'regions'
+((lp21
+(S'5ht2a'
 p22
-g3
-((lp23
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I324
+I330
+tp23
+a(S'5ht1a'
 p24
-atp25
-Rp26
-sS'year'
-p27
-V2005
+I282
+I288
+tp25
+a(S'5ht2a'
+p26
+I77
+I83
+tp27
+a(S'5ht1a'
 p28
-sS'agonists'
-p29
-g3
-((lp30
-S"(149, u'\\\\bmem')"
-p31
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+I66
+I72
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
 p32
-atp33
-Rp34
-sS'species'
-p35
 g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp33
+S"(5, u'\\\\bmk801')"
+p34
+atp35
+Rp36
+sS'regions'
 p37
-atp38
-Rp39
+g3
+((lp38
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p39
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
+p43
+V2014
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p47
+atp48
+Rp49
 sb.

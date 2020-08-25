@@ -2,72 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.AGONIST'
 p5
-aS"(123, u'\\\\bgranisetron')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-S"(28, u'\\\\bemesis')"
-p16
-atp17
-Rp18
+((lp9
+S"(7, u'\\\\bdepressi')"
+p10
+atp11
+Rp12
 sS'receptors'
-p19
+p13
 g3
-((lp20
-S'5ht3d'
+((lp14
+(S'5ht1b'
+p15
+I1454
+I1460
+tp16
+a(S'5ht1d'
+p17
+I1454
+I1462
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-aS'5ht3'
-p22
-atp23
-Rp24
-sS'regions'
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+aS"(18, u'\\\\bimaging')"
+p24
+aS"(47, u'\\\\bsumatriptan')"
 p25
+atp26
+Rp27
+sS'regions'
+p28
 g3
-((lp26
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
+((lp29
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p30
-V1998
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p31
-sS'agonists'
-p32
-g3
-((lp33
-tp34
-Rp35
+atp32
+Rp33
+sS'year'
+p34
+V2003
+p35
 sS'species'
 p36
 g3
 ((lp37
-S"(2665, u'(?i)\\\\b(rays|ray)\\\\b')"
-p38
-aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
-p39
-aS"(3636, u'(?i)\\\\b(martins|martin)\\\\b')"
-p40
-atp41
-Rp42
+tp38
+Rp39
 sb.

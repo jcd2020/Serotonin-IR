@@ -2,64 +2,72 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(111, u'\\\\bolanzapine')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.PET'
+S"(22, u'\\\\bschizophreni')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(8, u'\\\\banxi')"
+p11
+aS"(1, u'\\\\bpatient')"
+p12
+aS"(7, u'\\\\bdepressi')"
 p13
-g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-aS"(14, u'\\\\bpsychosis')"
-p16
-atp17
-Rp18
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1'
 p19
-g3
-((lp20
-S'5ht2a'
+I625
+I630
+tp20
+a(S'5ht2'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I651
+I656
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp25
-tp26
-Rp27
-sS'year'
+((lp26
+S"(17, u'\\\\bpet')"
+p27
+aS"(18, u'\\\\bimaging')"
 p28
-V2006
-p29
-sS'agonists'
-p30
+atp29
+Rp30
+sS'regions'
+p31
 g3
-((lp31
-S"(57, u'\\\\bolanzapine')"
-p32
-atp33
+((lp32
+tp33
 Rp34
-sS'species'
+sS'year'
 p35
+V2016
+p36
+sS'species'
+p37
 g3
-((lp36
-tp37
-Rp38
+((lp38
+tp39
+Rp40
 sb.

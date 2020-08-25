@@ -2,104 +2,61 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\bmetergoline')"
+S'Method.AGONIST'
 p5
-aS"(33, u'\\\\byohimbine')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(194, u'\\\\bmethysergide')"
-p8
-aS"(203, u'\\\\btfmpp')"
-p9
-aS"(193, u'\\\\bmesulergine')"
-p10
-aS"(22, u'\\\\bpropranolol')"
-p11
-atp12
-Rp13
-sS'methods'
-p14
-g3
-((lp15
-S'Method.ANTAGONIST'
-p16
-aS'Method.AGONIST'
-p17
-atp18
-Rp19
+atp6
+Rp7
 sS'topics'
-p20
+p8
 g3
-((lp21
-tp22
-Rp23
+((lp9
+S"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
 sS'receptors'
-p24
+p13
 g3
-((lp25
-S'5ht1c'
-p26
-aS'5ht1b'
-p27
-aS'5ht1a'
-p28
-aS'5ht2'
-p29
-aS'5ht1'
-p30
-aS'5ht1d'
-p31
-atp32
-Rp33
+((lp14
+(S'5ht1a'
+p15
+I66
+I72
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+S"(13, u'\\\\bagonist')"
+p21
+aS"(27, u'\\\\blsd')"
+p22
+atp23
+Rp24
 sS'regions'
-p34
+p25
 g3
-((lp35
-tp36
-Rp37
+((lp26
+tp27
+Rp28
 sS'year'
-p38
-V1991
-p39
-sS'agonists'
-p40
-g3
-((lp41
-S"(53, u'\\\\bmethysergide')"
-p42
-aS"(165, u'\\\\bmesulergine')"
-p43
-aS"(76, u'\\\\btrifluoromethylphenylpiperazine')"
-p44
-aS"(178, u'\\\\btfmpp')"
-p45
-aS"(192, u'\\\\bquipazine')"
-p46
-aS"(25, u'\\\\bdihydroergotamine')"
-p47
-aS"(82, u'\\\\byohimbine')"
-p48
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p49
-atp50
-Rp51
+p29
+V1987
+p30
 sS'species'
-p52
+p31
 g3
-((lp53
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p54
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p55
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p56
-atp57
-Rp58
+((lp32
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p33
+atp34
+Rp35
 sb.

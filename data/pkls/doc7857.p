@@ -1,0 +1,97 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2'
+p15
+I31
+I41
+tp16
+a(S'5ht1a'
+p17
+I940
+I946
+tp18
+a(S'5ht1b'
+p19
+I951
+I957
+tp20
+a(S'5ht1a'
+p21
+I838
+I844
+tp22
+a(S'5ht3'
+p23
+I1008
+I1013
+tp24
+a(S'5ht2'
+p25
+I644
+I649
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
+g3
+((lp30
+S"(7, u'\\\\bpropranolol')"
+p31
+aS"(15, u'\\\\b8ohdpat')"
+p32
+aS"(13, u'\\\\bagonist')"
+p33
+aS"(44, u'\\\\btetrodotoxin')"
+p34
+aS"(46, u'\\\\bspiperone')"
+p35
+aS"(12, u'\\\\bantagonist')"
+p36
+atp37
+Rp38
+sS'regions'
+p39
+g3
+((lp40
+S"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V1988
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
+sb.

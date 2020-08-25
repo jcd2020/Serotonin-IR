@@ -2,68 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
-p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(22, u'\\\\bpropranolol')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p5
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+atp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht1a'
-p22
-aS'5ht2'
+((lp14
+(S'5ht1a'
+p15
+I917
+I923
+tp16
+a(S'5ht1a'
+p17
+I1723
+I1729
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(7, u'\\\\bpropranolol')"
 p23
-atp24
-Rp25
+aS"(41, u'\\\\bhaloperidol')"
+p24
+aS"(12, u'\\\\bantagonist')"
+p25
+atp26
+Rp27
 sS'regions'
-p26
+p28
 g3
-((lp27
-tp28
-Rp29
+((lp29
+tp30
+Rp31
 sS'year'
-p30
-V1995
-p31
-sS'agonists'
 p32
-g3
-((lp33
-tp34
-Rp35
+V1995
+p33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+((lp35
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

@@ -2,72 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STIMULATION'
-p9
-aS'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-S"(28, u'\\\\bemesis')"
-p16
-atp17
-Rp18
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(9, u'\\\\bstress')"
+p11
+aS"(32, u'\\\\bvomit')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht3'
+p17
+I1474
+I1479
+tp18
+a(S'5ht3'
 p19
+I1283
+I1288
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp20
-S'5ht3'
-p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
+((lp24
+S"(20, u'\\\\bondansetron')"
+p25
+aS"(12, u'\\\\bantagonist')"
 p26
 atp27
 Rp28
-sS'year'
+sS'regions'
 p29
-V1992
-p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+((lp30
+tp31
+Rp32
+sS'year'
 p33
-aS"(191, u'\\\\bphenylbiguanide')"
+V2011
 p34
-atp35
-Rp36
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(1869, u'(?i)\\\\b(millers|miller)\\\\b')"
-p39
-aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
-p40
-atp41
-Rp42
+((lp36
+tp37
+Rp38
 sb.

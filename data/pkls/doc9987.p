@@ -2,92 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(5, u'\\\\bcyanopindolol')"
+S'Method.ANTAGONIST'
 p5
-aS"(14, u'\\\\bmethiothepin')"
+aS'Method.AGONIST'
 p6
-aS"(38, u'\\\\bsb ?224289')"
-p7
-aS"(117, u'\\\\bketanserin')"
-p8
-aS"(43, u'\\\\bgr ?127935')"
+atp7
+Rp8
+sS'topics'
 p9
-aS"(119, u'\\\\britanserin')"
-p10
-atp11
+g3
+((lp10
+tp11
 Rp12
-sS'methods'
+sS'receptors'
 p13
 g3
 ((lp14
-S'Method.ANTAGONIST'
+(S'5ht1a'
 p15
-aS'Method.AGONIST'
-p16
-atp17
-Rp18
-sS'topics'
+I309
+I315
+tp16
+a(S'5ht1a'
+p17
+I366
+I372
+tp18
+a(S'5ht1a'
 p19
-g3
-((lp20
-tp21
+I62
+I68
+tp20
+atp21
 Rp22
-sS'receptors'
+sS'raw_text_methods'
 p23
 g3
 ((lp24
-S'5ht1b'
+S"(13, u'\\\\bagonist')"
 p25
-atp26
-Rp27
+aS"(15, u'\\\\b8ohdpat')"
+p26
+aS"(12, u'\\\\bantagonist')"
+p27
+atp28
+Rp29
 sS'regions'
-p28
+p30
 g3
-((lp29
-tp30
-Rp31
-sS'year'
+((lp31
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p32
-V1998
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(25, u'\\\\bdihydroergotamine')"
+atp34
+Rp35
+sS'year'
 p36
-aS"(219, u'\\\\b5 ?ct')"
+V1995
 p37
-aS"(96, u'\\\\bsumatriptan')"
+sS'species'
 p38
-aS"(149, u'\\\\bmem')"
-p39
-aS"(97, u'\\\\bzolmitriptan')"
+g3
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
 atp41
 Rp42
-sS'species'
-p43
-g3
-((lp44
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p45
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p46
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p47
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p48
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p49
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p50
-atp51
-Rp52
 sb.

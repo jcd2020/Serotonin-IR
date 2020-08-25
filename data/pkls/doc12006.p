@@ -2,66 +2,83 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(193, u'\\\\bmesulergine')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+aS"(26, u'\\\\bbehav')"
 p13
-g3
-((lp14
-tp15
-Rp16
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(2, u'\\\\bdisorder')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-S'5ht2c'
-p19
-atp20
-Rp21
-sS'regions'
+((lp19
+(S'5ht1a'
+p20
+I1285
+I1290
+tp21
+a(S'5ht1a'
 p22
-g3
-((lp23
-S"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
+I1425
+I1430
+tp23
+a(S'5ht1a'
 p24
-atp25
-Rp26
-sS'year'
-p27
-V2004
+I1879
+I1884
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-sS'agonists'
-p29
 g3
-((lp30
-S"(165, u'\\\\bmesulergine')"
+((lp29
+S"(13, u'\\\\bagonist')"
+p30
+aS"(15, u'\\\\b8ohdpat')"
 p31
-aS"(149, u'\\\\bmem')"
+aS"(12, u'\\\\bantagonist')"
 p32
 atp33
 Rp34
-sS'species'
+sS'regions'
 p35
 g3
 ((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-atp38
-Rp39
+tp37
+Rp38
+sS'year'
+p39
+V2012
+p40
+sS'species'
+p41
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

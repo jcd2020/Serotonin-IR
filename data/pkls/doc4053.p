@@ -2,80 +2,131 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(16, u'\\\\bfeed')"
-p14
-aS"(4, u'\\\\blocomot')"
-p15
-atp16
-Rp17
+((lp10
+S"(9, u'\\\\bstress')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht3'
+p16
+I73
+I78
+tp17
+a(S'5ht2'
 p18
-g3
-((lp19
-S'5ht1a'
+I1746
+I1751
+tp19
+a(S'5ht1'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p25
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I1732
+I1737
+tp21
+a(S'5ht3'
+p22
+I1756
+I1761
+tp23
+a(S'5ht1a'
+p24
+I1871
+I1877
+tp25
+a(S'5ht1'
 p26
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
+I212
+I217
+tp27
+a(S'5ht2'
 p28
-aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p29
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+I219
+I224
+tp29
+a(S'5ht3'
 p30
-aS"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p31
-atp32
-Rp33
-sS'year'
+I965
+I970
+tp31
+a(S'5ht1'
+p32
+I52
+I57
+tp33
+a(S'5ht2'
 p34
-V2005
-p35
-sS'agonists'
+I903
+I908
+tp35
+a(S'5ht3'
 p36
-g3
-((lp37
-S"(85, u'\\\\b8 ?oh ?dpat')"
+I229
+I234
+tp37
+a(S'5ht2'
 p38
-atp39
-Rp40
-sS'species'
-p41
-g3
-((lp42
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I61
+I66
+tp39
+a(S'5ht1a'
+p40
+I1099
+I1105
+tp41
+atp42
+Rp43
+sS'raw_text_methods'
 p44
-atp45
-Rp46
+g3
+((lp45
+S"(53, u'\\\\bketanserin')"
+p46
+aS"(22, u'\\\\bbuspirone')"
+p47
+aS"(15, u'\\\\b8ohdpat')"
+p48
+aS"(36, u'\\\\bbenzodiazepine')"
+p49
+aS"(13, u'\\\\bagonist')"
+p50
+aS"(12, u'\\\\bantagonist')"
+p51
+atp52
+Rp53
+sS'regions'
+p54
+g3
+((lp55
+tp56
+Rp57
+sS'year'
+p58
+V1993
+p59
+sS'species'
+p60
+g3
+((lp61
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p62
+atp63
+Rp64
 sb.

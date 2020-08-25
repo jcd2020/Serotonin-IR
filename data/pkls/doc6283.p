@@ -2,64 +2,111 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+aS"(13, u'\\\\bantidepress')"
 p11
-g3
-((lp12
-S"(11, u'\\\\banxiolyt')"
+aS"(20, u'\\\\bmood')"
+p12
+aS"(3, u'\\\\bclinical')"
 p13
-aS"(10, u'\\\\banxiety')"
-p14
-atp15
-Rp16
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
+((lp17
+(S'5ht1a'
+p18
+I1033
+I1039
 tp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p23
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+a(S'5ht1a'
+p20
+I1255
+I1261
+tp21
+a(S'5ht1a'
+p22
+I1289
+I1295
+tp23
+a(S'5ht1a'
 p24
-atp25
-Rp26
-sS'year'
-p27
-V2003
+I245
+I251
+tp25
+a(S'5ht1a'
+p26
+I1182
+I1188
+tp27
+a(S'5ht1a'
 p28
-sS'agonists'
-p29
-g3
-((lp30
+I27
+I33
+tp29
+a(S'5ht1a'
+p30
+I482
+I488
 tp31
-Rp32
-sS'species'
-p33
+a(S'5ht1a'
+p32
+I573
+I579
+tp33
+a(S'5ht1a'
+p34
+I1543
+I1549
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
+p38
 g3
-((lp34
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p35
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p36
-atp37
-Rp38
+((lp39
+S"(13, u'\\\\bagonist')"
+p40
+aS"(11, u'\\\\bfluoxetine')"
+p41
+aS"(38, u'\\\\bssri')"
+p42
+aS"(21, u'\\\\bipsapirone')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+tp48
+Rp49
+sS'year'
+p50
+V1999
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p54
+atp55
+Rp56
 sb.

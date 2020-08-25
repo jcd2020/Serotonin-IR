@@ -1,0 +1,4 @@
+Lalley, P. M., et al. (1997). "Nucleus raphe obscurus evokes 5-HT-1A receptor-mediated modulation of respiratory neurons." Brain Res 747(1): 156-159.
+
+	We analysed in vivo the synaptic mechanisms underlying serotonin-mediated depression of expiratory neuronal discharges and phrenic nerve activity. We report that nucleus raphe obscurus stimulation not only abolishes phrenic nerve activity, but also hyperpolarizes the membrane potential, depresses periodic synaptic drive potentials and thus action potential discharges in caudal medullary expiratory neurons. These effects originate from pre- and post-synaptic inhibitory processes that involve 5-HT-1A receptor activation.
+

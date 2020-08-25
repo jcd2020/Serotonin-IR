@@ -2,76 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(12, u'\\\\bsleep')"
+p12
+aS"(2, u'\\\\bdisorder')"
 p13
-g3
-((lp14
-S"(24, u'\\\\banalgesi')"
-p15
-atp16
-Rp17
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2c'
 p18
-g3
-((lp19
-S'5ht1a'
-p20
-aS'5ht2'
-p21
-aS'5ht2a'
+I1046
+I1052
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-atp23
-Rp24
-sS'regions'
+g3
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+aS"(12, u'\\\\bantagonist')"
 p25
+atp26
+Rp27
+sS'regions'
+p28
 g3
-((lp26
-S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
-p27
-atp28
-Rp29
+((lp29
+tp30
+Rp31
 sS'year'
-p30
-V2004
-p31
-sS'agonists'
 p32
-g3
-((lp33
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p34
-atp35
-Rp36
+V2002
+p33
 sS'species'
-p37
+p34
 g3
-((lp38
-S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
-p39
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p40
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p41
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p42
-atp43
-Rp44
+((lp35
+tp36
+Rp37
 sb.

@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,37 +10,39 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(26, u'\\\\bbehav')"
 p9
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(8, u'\\\\blearning')"
-p15
-aS"(7, u'\\\\bmemory')"
-p16
-aS"(3, u'\\\\bsleep')"
-p17
-aS"(1, u'\\\\bmood')"
-p18
-atp19
-Rp20
+atp10
+Rp11
 sS'receptors'
-p21
+p12
 g3
-((lp22
-S'5ht7'
+((lp13
+(S'5ht2c'
+p14
+I482
+I490
+tp15
+a(S'5ht2a'
+p16
+I482
+I488
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(1, u'\\\\bneuroimag')"
+p22
+aS"(11, u'\\\\bfluoxetine')"
 p23
-aS'5ht7a'
+aS"(38, u'\\\\bssri')"
 p24
 atp25
 Rp26
@@ -48,40 +50,22 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p29
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p30
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p31
-aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p32
-aS"(244, u'(?i)\\\\b(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p33
-atp34
-Rp35
+tp29
+Rp30
 sS'year'
-p36
-V2015
-p37
-sS'agonists'
-p38
-g3
-((lp39
-S"(231, u'\\\\blp ?211')"
-p40
-aS"(149, u'\\\\bmem')"
-p41
-atp42
-Rp43
+p31
+V2014
+p32
 sS'species'
-p44
+p33
 g3
-((lp45
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p46
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p47
-atp48
-Rp49
+((lp34
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p35
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p36
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p37
+atp38
+Rp39
 sb.

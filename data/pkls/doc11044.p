@@ -2,68 +2,86 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(25, u'\\\\bsocial')"
 p11
-g3
-((lp12
-S"(37, u'\\\\baddict')"
-p13
-aS"(4, u'\\\\blocomot')"
-p14
-atp15
-Rp16
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
 p17
-g3
-((lp18
-tp19
-Rp20
-sS'regions'
+I480
+I486
+tp18
+a(S'5ht2a'
+p19
+I1765
+I1771
+tp20
+a(S'5ht2a'
 p21
-g3
-((lp22
-tp23
-Rp24
-sS'year'
-p25
-V2005
-p26
-sS'agonists'
+I901
+I907
+tp22
+a(S'5ht2a'
+p23
+I466
+I477
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
 g3
 ((lp28
-S"(11, u'\\\\bamphetamine')"
+S"(17, u'\\\\bpet')"
 p29
-atp30
-Rp31
-sS'species'
-p32
-g3
-((lp33
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
+p30
+aS"(18, u'\\\\bimaging')"
+p31
+atp32
+Rp33
+sS'regions'
 p34
-aS"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
-p35
-aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
+g3
+((lp35
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p37
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p38
-atp39
-Rp40
+atp38
+Rp39
+sS'year'
+p40
+V2014
+p41
+sS'species'
+p42
+g3
+((lp43
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p44
+atp45
+Rp46
 sb.

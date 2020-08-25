@@ -1,0 +1,97 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2'
+p16
+I925
+I930
+tp17
+a(S'5ht1a'
+p18
+I514
+I520
+tp19
+a(S'5ht2'
+p20
+I1435
+I1440
+tp21
+a(S'5ht2'
+p22
+I59
+I64
+tp23
+a(S'5ht2'
+p24
+I623
+I628
+tp25
+a(S'5ht2'
+p26
+I733
+I738
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
+g3
+((lp31
+S"(53, u'\\\\bketanserin')"
+p32
+aS"(15, u'\\\\b8ohdpat')"
+p33
+aS"(13, u'\\\\bagonist')"
+p34
+aS"(11, u'\\\\bfluoxetine')"
+p35
+aS"(49, u'\\\\bdoi')"
+p36
+aS"(9, u'\\\\britanserin')"
+p37
+aS"(12, u'\\\\bantagonist')"
+p38
+atp39
+Rp40
+sS'regions'
+p41
+g3
+((lp42
+tp43
+Rp44
+sS'year'
+p45
+V2002
+p46
+sS'species'
+p47
+g3
+((lp48
+tp49
+Rp50
+sb.

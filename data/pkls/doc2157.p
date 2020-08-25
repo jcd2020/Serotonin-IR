@@ -2,76 +2,132 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S'Method.KNOCKOUT'
 p5
-aS"(117, u'\\\\bketanserin')"
+aS'Method.ANTAGONIST'
 p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+aS'Method.AGONIST'
+p7
+atp8
+Rp9
 sS'topics'
-p14
+p10
 g3
-((lp15
-tp16
+((lp11
+S"(5, u'\\\\btherap')"
+p12
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(16, u'\\\\blearning')"
+p14
+aS"(15, u'\\\\bmemory')"
+p15
+atp16
 Rp17
 sS'receptors'
 p18
 g3
 ((lp19
-S'5ht3'
+(S'5ht1a'
 p20
-aS'5ht2'
-p21
-aS'5ht1'
+I667
+I678
+tp21
+a(S'5ht1a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
+I681
+I687
+tp23
+a(S'5ht7'
+p24
+I706
+I711
+tp25
+a(S'5ht7'
+p26
+I1849
+I1859
 tp27
-Rp28
-sS'year'
-p29
-V1994
+a(S'5ht7'
+p28
+I1372
+I1377
+tp29
+a(S'5ht7'
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p33
-aS"(149, u'\\\\bmem')"
+I2074
+I2079
+tp31
+a(S'5ht7'
+p32
+I1106
+I1111
+tp33
+a(S'5ht1a'
 p34
-atp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+I1099
+I1105
+tp35
+a(S'5ht7'
+p36
+I1298
+I1303
+tp37
+a(S'5ht7'
+p38
+I693
+I703
+tp39
+a(S'5ht7'
 p40
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p41
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+I41
+I46
+tp41
+a(S'5ht1a'
 p42
-atp43
-Rp44
+I1231
+I1237
+tp43
+atp44
+Rp45
+sS'raw_text_methods'
+p46
+g3
+((lp47
+S"(13, u'\\\\bagonist')"
+p48
+aS"(15, u'\\\\b8ohdpat')"
+p49
+aS"(51, u'\\\\bway100635')"
+p50
+aS"(12, u'\\\\bantagonist')"
+p51
+atp52
+Rp53
+sS'regions'
+p54
+g3
+((lp55
+tp56
+Rp57
+sS'year'
+p58
+V2012
+p59
+sS'species'
+p60
+g3
+((lp61
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p62
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p63
+atp64
+Rp65
 sb.

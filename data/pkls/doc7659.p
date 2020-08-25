@@ -1,0 +1,71 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(12, u'\\\\bsleep')"
+p10
+atp11
+Rp12
+sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I1516
+I1522
+tp16
+a(S'5ht1a'
+p17
+I1104
+I1110
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(11, u'\\\\bfluoxetine')"
+p23
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p24
+aS"(12, u'\\\\bantagonist')"
+p25
+atp26
+Rp27
+sS'regions'
+p28
+g3
+((lp29
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p30
+atp31
+Rp32
+sS'year'
+p33
+V2005
+p34
+sS'species'
+p35
+g3
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
+sb.

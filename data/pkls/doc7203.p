@@ -2,29 +2,31 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.IMMUNOHISTOCHEMISTRY'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(35, u'\\\\bstress')"
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(14, u'\\\\bcogniti')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(23, u'\\\\bantipsychotic')"
 p14
-aS"(10, u'\\\\banxiety')"
+aS"(4, u'\\\\btreatment')"
 p15
 atp16
 Rp17
@@ -32,40 +34,122 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht1a'
+(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
+I1054
+I1060
+tp21
+a(S'5ht1a'
+p22
+I689
+I695
+tp23
+a(S'5ht1'
+p24
+I1739
+I1744
+tp25
+a(S'5ht2b'
+p26
+I772
+I778
+tp27
+a(S'5ht4'
 p28
-V2016
-p29
-sS'agonists'
+I895
+I900
+tp29
+a(S'5ht1a'
 p30
-g3
-((lp31
-tp32
-Rp33
-sS'species'
+I1237
+I1243
+tp31
+a(S'5ht2'
+p32
+I772
+I778
+tp33
+a(S'5ht1a'
 p34
-g3
-((lp35
-S"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
+I784
+I790
+tp35
+a(S'5ht7'
 p36
-aS"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
-p37
-aS"(1651, u'(?i)\\\\b(huntings|hunting)(-|\\\\s+)?(dogs|dog)\\\\b')"
+I823
+I828
+tp37
+a(S'5ht6'
 p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+I902
+I907
+tp39
+a(S'5ht3'
+p40
+I967
+I972
+tp41
+a(S'5ht1a'
+p42
+I1326
+I1332
+tp43
+a(S'5ht1a'
+p44
+I2157
+I2163
+tp45
+a(S'5ht1a'
+p46
+I352
+I358
+tp47
+a(S'5ht2a'
+p48
+I850
+I856
+tp49
+a(S'5ht1a'
+p50
+I199
+I205
+tp51
+atp52
+Rp53
+sS'raw_text_methods'
+p54
+g3
+((lp55
+S"(13, u'\\\\bagonist')"
+p56
+aS"(37, u'\\\\bpiperazine')"
+p57
+aS"(51, u'\\\\bway100635')"
+p58
+aS"(12, u'\\\\bantagonist')"
+p59
+atp60
+Rp61
+sS'regions'
+p62
+g3
+((lp63
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p64
+atp65
+Rp66
+sS'year'
+p67
+V2007
+p68
+sS'species'
+p69
+g3
+((lp70
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p71
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p72
+atp73
+Rp74
 sb.

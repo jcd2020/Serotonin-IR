@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,66 +10,64 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-tp9
-Rp10
-sS'topics'
-p11
-g3
-((lp12
-S"(37, u'\\\\baddict')"
-p13
-atp14
-Rp15
+S"(2, u'\\\\bdisorder')"
+p9
+atp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht2a'
+p14
+I56
+I62
+tp15
+a(S'5ht2a'
 p16
-g3
-((lp17
-S'5ht1b'
+I563
+I569
+tp17
+a(S'5ht2a'
 p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p23
-aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+I369
+I375
+tp19
+a(S'5ht2a'
+p20
+I1517
+I1523
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p25
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p26
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-atp28
-Rp29
+g3
+((lp25
+tp26
+Rp27
+sS'regions'
+p28
+g3
+((lp29
+tp30
+Rp31
 sS'year'
-p30
-V2013
-p31
-sS'agonists'
 p32
-g3
-((lp33
-tp34
-Rp35
+V2017
+p33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(3191, u'(?i)\\\\b(worlds|world)\\\\b')"
-p38
-aS"(1055, u'(?i)\\\\b(men|man)\\\\b')"
-p39
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p41
-atp42
-Rp43
+((lp35
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p36
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p37
+atp38
+Rp39
 sb.

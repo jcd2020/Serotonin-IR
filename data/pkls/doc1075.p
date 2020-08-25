@@ -2,64 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-tp10
-Rp11
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(26, u'\\\\bbehav')"
 p12
-g3
-((lp13
-tp14
-Rp15
-sS'receptors'
+aS"(2, u'\\\\bdisorder')"
+p13
+aS"(15, u'\\\\bmemory')"
+p14
+aS"(30, u'\\\\bpain')"
+p15
+aS"(1, u'\\\\bpatient')"
 p16
+atp17
+Rp18
+sS'receptors'
+p19
 g3
-((lp17
-S'5ht2a'
-p18
-atp19
-Rp20
-sS'regions'
+((lp20
+(S'5ht4'
 p21
-g3
-((lp22
-tp23
-Rp24
-sS'year'
+I683
+I688
+tp22
+a(S'5ht4'
+p23
+I106
+I116
+tp24
+a(S'5ht4'
 p25
-V2008
-p26
-sS'agonists'
+I129
+I134
+tp26
+a(S'5ht4'
 p27
-g3
-((lp28
-S"(189, u'\\\\bethanol')"
+I779
+I784
+tp28
+a(S'5ht4'
 p29
-atp30
-Rp31
-sS'species'
-p32
-g3
-((lp33
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p34
-aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+I461
+I466
+tp30
+a(S'5ht4'
+p31
+I30
+I35
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
 p35
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p36
-atp37
-Rp38
+g3
+((lp36
+S"(13, u'\\\\bagonist')"
+p37
+aS"(12, u'\\\\bantagonist')"
+p38
+atp39
+Rp40
+sS'regions'
+p41
+g3
+((lp42
+tp43
+Rp44
+sS'year'
+p45
+V2004
+p46
+sS'species'
+p47
+g3
+((lp48
+tp49
+Rp50
 sb.

@@ -2,68 +2,101 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p11
+p9
 g3
-((lp12
-S"(9, u'\\\\bdepress')"
-p13
-atp14
-Rp15
+((lp10
+tp11
+Rp12
 sS'receptors'
-p16
+p13
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
+((lp14
+(S'5ht2a'
+p15
+I2041
+I2047
+tp16
+a(S'5ht2a'
+p17
+I577
+I583
+tp18
+a(S'5ht2a'
+p19
+I499
+I505
+tp20
+a(S'5ht2a'
 p21
-g3
-((lp22
-tp23
-Rp24
-sS'year'
+I555
+I561
+tp22
+a(S'5ht2a'
+p23
+I35
+I41
+tp24
+a(S'5ht2c'
 p25
-V2008
-p26
-sS'agonists'
+I235
+I243
+tp26
+a(S'5ht2a'
 p27
+I235
+I241
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
 g3
-((lp28
-S"(20, u'\\\\bbuspirone')"
-p29
-atp30
-Rp31
-sS'species'
-p32
-g3
-((lp33
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp32
+S"(13, u'\\\\bagonist')"
+p33
+aS"(3, u'\\\\bimmunoreactiv')"
 p34
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+aS"(49, u'\\\\bdoi')"
 p35
-aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
+aS"(23, u'\\\\bmdl')"
 p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-atp39
-Rp40
+atp38
+Rp39
+sS'regions'
+p40
+g3
+((lp41
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p42
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p43
+atp44
+Rp45
+sS'year'
+p46
+V2001
+p47
+sS'species'
+p48
+g3
+((lp49
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

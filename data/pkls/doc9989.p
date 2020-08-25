@@ -1,0 +1,97 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(7, u'\\\\bdepressi')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1b'
+p16
+I1122
+I1128
+tp17
+a(S'5ht1a'
+p18
+I1866
+I1872
+tp19
+a(S'5ht1'
+p20
+I1195
+I1200
+tp21
+a(S'5ht3'
+p22
+I1122
+I1131
+tp23
+a(S'5ht2c'
+p24
+I1122
+I1130
+tp25
+a(S'5ht1'
+p26
+I1259
+I1264
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
+g3
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(15, u'\\\\b8ohdpat')"
+p33
+aS"(34, u'\\\\b5ct')"
+p34
+aS"(12, u'\\\\bantagonist')"
+p35
+atp36
+Rp37
+sS'regions'
+p38
+g3
+((lp39
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p40
+aS"(7, u'(?i)\\\\b(entorhinals|entorhinal)\\\\b')"
+p41
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p42
+atp43
+Rp44
+sS'year'
+p45
+V1998
+p46
+sS'species'
+p47
+g3
+((lp48
+tp49
+Rp50
+sb.

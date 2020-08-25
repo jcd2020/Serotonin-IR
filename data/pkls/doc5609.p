@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,60 +10,89 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.IMMUNOHISTOCHEMISTRY'
+S"(25, u'\\\\bsocial')"
 p9
-atp10
-Rp11
-sS'topics'
+aS"(7, u'\\\\bdepressi')"
+p10
+aS"(9, u'\\\\bstress')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht2a'
-p18
-atp19
-Rp20
-sS'regions'
+((lp16
+(S'5ht1a'
+p17
+I442
+I448
+tp18
+a(S'5ht1a'
+p19
+I1045
+I1051
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+I1301
+I1307
+tp22
+a(S'5ht1a'
 p23
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
+I1224
+I1230
+tp24
+a(S'5ht1a'
+p25
+I207
+I213
+tp26
+a(S'5ht1a'
 p27
-V2012
-p28
-sS'agonists'
+I68
+I74
+tp28
+a(S'5ht1a'
 p29
-g3
-((lp30
-tp31
+I184
+I195
+tp30
+atp31
 Rp32
-sS'species'
+sS'raw_text_methods'
 p33
 g3
 ((lp34
-S"(5864, u'(?i)\\\\b(fetuses|fetus)\\\\b')"
-p35
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p36
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+tp35
+Rp36
+sS'regions'
 p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-atp39
-Rp40
+g3
+((lp38
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p39
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
+p43
+V2010
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p47
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

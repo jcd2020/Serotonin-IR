@@ -2,100 +2,123 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
-p5
-aS"(133, u'\\\\bmianserin')"
-p6
-aS"(193, u'\\\\bmesulergine')"
-p7
-aS"(97, u'\\\\bsb ?200646')"
-p8
-aS"(58, u'\\\\bhaloperidol')"
-p9
-aS"(119, u'\\\\britanserin')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
-S'Method.ANTAGONIST'
-p15
-atp16
-Rp17
+tp5
+Rp6
 sS'topics'
-p18
+p7
 g3
-((lp19
-tp20
-Rp21
+((lp8
+tp9
+Rp10
 sS'receptors'
-p22
+p11
 g3
-((lp23
-S'5ht7'
-p24
-aS'5ht1b'
+((lp12
+(S'5ht1a'
+p13
+I51
+I57
+tp14
+a(S'5ht2a'
+p15
+I1245
+I1251
+tp16
+a(S'5ht1a'
+p17
+I570
+I576
+tp18
+a(S'5ht1a'
+p19
+I917
+I923
+tp20
+a(S'5ht2a'
+p21
+I62
+I68
+tp22
+a(S'5ht2a'
+p23
+I1491
+I1497
+tp24
+a(S'5ht1a'
 p25
-aS'5ht1a'
-p26
-aS'5ht3'
+I1592
+I1598
+tp26
+a(S'5ht1a'
 p27
-aS'5ht2c'
-p28
-aS'5ht6'
+I687
+I693
+tp28
+a(S'5ht1a'
 p29
-aS'5ht2a'
-p30
-aS'5ht1d'
+I1179
+I1185
+tp30
+a(S'5ht1a'
 p31
-aS'5ht5'
-p32
-aS'5ht2b'
+I756
+I762
+tp32
+a(S'5ht2a'
 p33
-atp34
-Rp35
-sS'regions'
-p36
-g3
-((lp37
+I1603
+I1609
+tp34
+a(S'5ht2a'
+p35
+I178
+I184
+tp36
+a(S'5ht1a'
+p37
+I167
+I173
 tp38
-Rp39
-sS'year'
-p40
-V1996
+atp39
+Rp40
+sS'raw_text_methods'
 p41
-sS'agonists'
-p42
 g3
-((lp43
-S"(165, u'\\\\bmesulergine')"
-p44
-aS"(163, u'\\\\bfenfluramine')"
+((lp42
+tp43
+Rp44
+sS'regions'
 p45
-aS"(11, u'\\\\bamphetamine')"
-p46
-aS"(155, u'\\\\bmcpp')"
-p47
-aS"(43, u'\\\\bhaloperidol')"
-p48
-atp49
-Rp50
-sS'species'
-p51
 g3
-((lp52
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+((lp46
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p47
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p48
+aS"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
+p49
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p50
+atp51
+Rp52
+sS'year'
 p53
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V1995
 p54
-atp55
-Rp56
+sS'species'
+p55
+g3
+((lp56
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p57
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p58
+atp59
+Rp60
 sb.

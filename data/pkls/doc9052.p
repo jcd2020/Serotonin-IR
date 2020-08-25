@@ -1,0 +1,107 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(29, u'\\\\bhyperactiv')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(1, u'\\\\bpatient')"
+p14
+aS"(4, u'\\\\btreatment')"
+p15
+aS"(3, u'\\\\bclinical')"
+p16
+atp17
+Rp18
+sS'receptors'
+p19
+g3
+((lp20
+(S'5ht1a'
+p21
+I73
+I79
+tp22
+a(S'5ht1a'
+p23
+I1159
+I1165
+tp24
+a(S'5ht1a'
+p25
+I561
+I567
+tp26
+a(S'5ht1a'
+p27
+I268
+I274
+tp28
+a(S'5ht1a'
+p29
+I655
+I661
+tp30
+a(S'5ht1a'
+p31
+I842
+I848
+tp32
+a(S'5ht1a'
+p33
+I363
+I369
+tp34
+a(S'5ht1a'
+p35
+I207
+I213
+tp36
+atp37
+Rp38
+sS'raw_text_methods'
+p39
+g3
+((lp40
+S"(13, u'\\\\bagonist')"
+p41
+aS"(21, u'\\\\bipsapirone')"
+p42
+atp43
+Rp44
+sS'regions'
+p45
+g3
+((lp46
+tp47
+Rp48
+sS'year'
+p49
+V1997
+p50
+sS'species'
+p51
+g3
+((lp52
+tp53
+Rp54
+sb.

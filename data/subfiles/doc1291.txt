@@ -1,0 +1,4 @@
+Boyé, S., et al. (1999). "N,N-disubstituted aminomethyl benzofuran derivatives: synthesis and preliminary binding evaluation." Bioorg Med Chem 7(2): 335-341.
+
+	A series of new N-substituted 2,3-dihydro-2-aminomethyl-2H-1-benzofuran derivatives was prepared and evaluated for affinity at 5-HT1A, 5-HT2A, 5-HT2C, 5-HT3, D2, and D3 receptors. Compound 9, 8-[4-[N-propyl-N-(7-hydroxy-2,3-dihydro -2H-1-benzofuran-2-yl)methyl]aminobutyl]-8-azaspiro[4,5]decane-7,9 -dione, bound at 5-HT1A sites with nanomolar affinity (IC50= 1.5 nM) and high selectivity over 5-HT2A, 5-HT2C, 5-HT3, D2, and D3 receptors.
+

@@ -2,100 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(84, u'\\\\bsb ?206553')"
-p5
-aS"(6, u'\\\\bcyproheptadine')"
-p6
-aS"(53, u'\\\\bcyproheptadine')"
+tp5
+Rp6
+sS'topics'
 p7
-aS"(72, u'\\\\bagomelatine')"
-p8
-aS"(193, u'\\\\bmesulergine')"
+g3
+((lp8
+S"(26, u'\\\\bbehav')"
 p9
 atp10
 Rp11
-sS'methods'
+sS'receptors'
 p12
 g3
 ((lp13
-S'Method.ANTAGONIST'
+(S'5ht1a'
 p14
-aS'Method.AGONIST'
-p15
-atp16
-Rp17
-sS'topics'
+I1138
+I1144
+tp15
+a(S'5ht1a'
+p16
+I1373
+I1379
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S"(37, u'\\\\baddict')"
+I538
+I544
+tp19
+a(S'5ht1a'
 p20
-aS"(15, u'\\\\bschizophreni')"
-p21
-aS"(22, u'\\\\bsuicide')"
-p22
-aS"(9, u'\\\\bdepress')"
-p23
-aS"(29, u'\\\\bsex')"
+I68
+I74
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-aS"(31, u'\\\\bobesity')"
-p25
-atp26
-Rp27
-sS'receptors'
-p28
 g3
-((lp29
-S'5ht1c'
-p30
-aS'5ht2b'
-p31
-aS'5ht2c'
-p32
-aS'5ht1'
-p33
-atp34
-Rp35
+((lp25
+S"(15, u'\\\\b8ohdpat')"
+p26
+atp27
+Rp28
 sS'regions'
+p29
+g3
+((lp30
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p31
+atp32
+Rp33
+sS'year'
+p34
+V1996
+p35
+sS'species'
 p36
 g3
 ((lp37
-tp38
-Rp39
-sS'year'
-p40
-V2017
-p41
-sS'agonists'
-p42
-g3
-((lp43
-S"(165, u'\\\\bmesulergine')"
-p44
-aS"(180, u'\\\\bvabicaserin')"
-p45
-aS"(164, u'\\\\blorcaserin')"
-p46
-aS"(149, u'\\\\bmem')"
-p47
-atp48
-Rp49
-sS'species'
-p50
-g3
-((lp51
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p52
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p53
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p54
-atp55
-Rp56
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

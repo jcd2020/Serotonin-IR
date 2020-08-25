@@ -2,64 +2,61 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
-aS"(194, u'\\\\bmethysergide')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-tp11
-Rp12
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-S"(24, u'\\\\banalgesi')"
-p15
+((lp9
+tp10
+Rp11
+sS'receptors'
+p12
+g3
+((lp13
+(S'5ht3'
+p14
+I862
+I867
+tp15
 atp16
 Rp17
-sS'receptors'
+sS'raw_text_methods'
 p18
 g3
 ((lp19
-S'5ht2a'
+S"(23, u'\\\\bmdl')"
 p20
-atp21
-Rp22
+aS"(12, u'\\\\bantagonist')"
+p21
+atp22
+Rp23
 sS'regions'
-p23
+p24
 g3
-((lp24
-tp25
-Rp26
+((lp25
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p26
+atp27
+Rp28
 sS'year'
-p27
-V2005
-p28
-sS'agonists'
 p29
-g3
-((lp30
-S"(53, u'\\\\bmethysergide')"
-p31
-atp32
-Rp33
+V2007
+p30
 sS'species'
-p34
+p31
 g3
-((lp35
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p36
-atp37
-Rp38
+((lp32
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p33
+atp34
+Rp35
 sb.

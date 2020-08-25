@@ -2,88 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(128, u'\\\\bmetoclopramide')"
-p5
-aS"(26, u'\\\\bspiperone')"
-p6
-aS"(34, u'\\\\bmetergoline')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p5
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht1a'
+p14
+I369
+I375
+tp15
+a(S'5ht1a'
+p16
+I1928
+I1934
+tp17
+a(S'5ht1a'
+p18
+I1307
+I1313
+tp19
+a(S'5ht1a'
 p20
-g3
-((lp21
-S'5ht3'
-p22
-aS'5ht1'
-p23
-aS'5ht2a'
+I114
+I120
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-atp25
-Rp26
-sS'regions'
+g3
+((lp25
+S"(51, u'\\\\bway100635')"
+p26
+aS"(54, u'\\\\bautoradiography')"
 p27
+aS"(12, u'\\\\bantagonist')"
+p28
+atp29
+Rp30
+sS'regions'
+p31
 g3
-((lp28
-S"(2, u'(?i)\\\\b(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
-p32
-V1989
+((lp32
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p33
-sS'agonists'
+aS"(7, u'(?i)\\\\b(entorhinals|entorhinal)\\\\b')"
 p34
-g3
-((lp35
-S"(149, u'\\\\bmem')"
-p36
-aS"(191, u'\\\\bphenylbiguanide')"
+atp35
+Rp36
+sS'year'
 p37
-aS"(192, u'\\\\bquipazine')"
+V1995
 p38
-aS"(155, u'\\\\bmcpp')"
-p39
-aS"(209, u'\\\\bmetoclopramide')"
-p40
-aS"(176, u'\\\\bdom')"
-p41
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
-p42
-atp43
-Rp44
 sS'species'
-p45
+p39
 g3
-((lp46
-S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
-p47
-aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
-p48
-atp49
-Rp50
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

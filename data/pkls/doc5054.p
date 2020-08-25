@@ -2,82 +2,116 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(8, u'\\\\banxi')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(4, u'\\\\btreatment')"
 p13
-g3
-((lp14
-S"(6, u'\\\\bcognit')"
-p15
-aS"(7, u'\\\\bmemory')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-aS"(1, u'\\\\bmood')"
-p18
-atp19
-Rp20
+atp14
+Rp15
 sS'receptors'
-p21
+p16
 g3
-((lp22
-S'5ht1a'
-p23
-aS'5ht2a'
+((lp17
+(S'5ht1a'
+p18
+I49
+I55
+tp19
+a(S'5ht1a'
+p20
+I931
+I937
+tp21
+a(S'5ht1a'
+p22
+I681
+I687
+tp23
+a(S'5ht1a'
 p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
+I1397
+I1403
+tp25
+a(S'5ht1a'
+p26
+I1788
+I1794
+tp27
+a(S'5ht1a'
+p28
+I1936
+I1942
 tp29
-Rp30
-sS'year'
-p31
-V2009
+a(S'5ht1a'
+p30
+I484
+I490
+tp31
+a(S'5ht1a'
 p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(147, u'\\\\bmdma')"
-p35
-aS"(149, u'\\\\bmem')"
+I241
+I247
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
 p36
-atp37
-Rp38
-sS'species'
-p39
 g3
-((lp40
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p41
-aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p42
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp37
+S"(13, u'\\\\bagonist')"
+p38
+aS"(15, u'\\\\b8ohdpat')"
+p39
+aS"(11, u'\\\\bfluoxetine')"
+p40
+atp41
+Rp42
+sS'regions'
 p43
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p44
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+g3
+((lp44
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p45
-atp46
-Rp47
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p46
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p47
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
+p51
+V2017
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p55
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p56
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p57
+atp58
+Rp59
 sb.

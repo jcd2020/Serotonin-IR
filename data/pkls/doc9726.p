@@ -2,84 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(35, u'\\\\baripiprazole')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(17, u'\\\\balzheimer')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(3, u'\\\\bclinical')"
 p14
-g3
-((lp15
-S"(15, u'\\\\bschizophreni')"
-p16
-aS"(9, u'\\\\bdepress')"
-p17
-atp18
-Rp19
+atp15
+Rp16
 sS'receptors'
-p20
+p17
 g3
-((lp21
-S'5ht1b'
-p22
-aS'5ht1a'
+((lp18
+(S'5ht6'
+p19
+I555
+I559
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-aS'5ht2a'
-p24
-atp25
-Rp26
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(12, u'\\\\bantagonist')"
+p26
+atp27
+Rp28
 sS'regions'
-p27
-g3
-((lp28
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
-p30
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p31
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p32
-atp33
-Rp34
+g3
+((lp30
+tp31
+Rp32
 sS'year'
-p35
-V2014
-p36
-sS'agonists'
-p37
-g3
-((lp38
-S"(223, u'\\\\baripiprazole')"
-p39
-aS"(18, u'\\\\bbrexpiprazole')"
-p40
-aS"(175, u'\\\\bdoi')"
-p41
-atp42
-Rp43
+p33
+V2019
+p34
 sS'species'
-p44
+p35
 g3
-((lp45
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p46
-atp47
-Rp48
+((lp36
+tp37
+Rp38
 sb.

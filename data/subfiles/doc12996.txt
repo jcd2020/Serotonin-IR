@@ -1,4 +1,0 @@
-van Loevezijn, A., et al. (2016). "Optimization of N '-(arylsulfonyl)pyrazoline-1-carboxamidines by exploiting a novel interaction site in the 5-HT6 antagonistic binding pocket." Bioorg Med Chem Lett 26(6): 1605-1611.
-
-	The discovery of non-basic N'-(arylsulfonyl)pyrazoline-1-carboxamidines as 5-HT6 antagonists with unique structural features was recently disclosed. Here we describe how this structural class was further developed by addressing an unexplored interaction site of the 5-HT6 receptor. Compound 13 resulting from this effort is a highly potent and selective 5-HT6 antagonist with improved metabolic stability. It is furthermore devoid of hERG affinity. Despite its modest CNS/plasma ratio, a high brain free fraction ensured substantial exposure to allow for rodent cognition studies. (C) 2016 Elsevier Ltd. All rights reserved.
-

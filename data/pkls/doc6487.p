@@ -2,76 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(194, u'\\\\bmethysergide')"
-p5
-aS"(119, u'\\\\britanserin')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(30, u'\\\\bpain')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+aS"(5, u'\\\\btherap')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(3, u'\\\\bclinical')"
 p14
-g3
-((lp15
-S"(21, u'\\\\bpain')"
-p16
-aS"(24, u'\\\\banalgesi')"
-p17
-atp18
-Rp19
+atp15
+Rp16
 sS'receptors'
-p20
+p17
 g3
-((lp21
-S'5ht3'
-p22
-aS'5ht3a'
+((lp18
+(S'5ht1a'
+p19
+I1232
+I1238
+tp20
+a(S'5ht1a'
+p21
+I455
+I461
+tp22
+a(S'5ht1a'
 p23
-aS'5ht2a'
-p24
+I626
+I632
+tp24
 atp25
 Rp26
-sS'regions'
+sS'raw_text_methods'
 p27
 g3
 ((lp28
-S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+S"(51, u'\\\\bway100635')"
 p29
-atp30
-Rp31
-sS'year'
-p32
-V1992
+aS"(12, u'\\\\bantagonist')"
+p30
+atp31
+Rp32
+sS'regions'
 p33
-sS'agonists'
-p34
 g3
-((lp35
-S"(53, u'\\\\bmethysergide')"
-p36
-atp37
-Rp38
+((lp34
+tp35
+Rp36
+sS'year'
+p37
+V2009
+p38
 sS'species'
 p39
 g3
 ((lp40
-S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sb.

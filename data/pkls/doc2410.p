@@ -2,80 +2,86 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(72, u'\\\\bagomelatine')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(4, u'\\\\btreatment')"
 p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(8, u'\\\\blearning')"
-p16
-aS"(35, u'\\\\bstress')"
-p17
-aS"(9, u'\\\\bdepress')"
-p18
-aS"(7, u'\\\\bmemory')"
-p19
-atp20
-Rp21
+atp11
+Rp12
 sS'receptors'
-p22
+p13
 g3
-((lp23
-S'5ht2c'
-p24
-atp25
-Rp26
-sS'regions'
-p27
+((lp14
+(S'5ht6'
+p15
+I1810
+I1815
+tp16
+a(S'5ht6'
+p17
+I1661
+I1666
+tp18
+a(S'5ht6'
+p19
+I101
+I106
+tp20
+a(S'5ht6'
+p21
+I1475
+I1480
+tp22
+a(S'5ht6'
+p23
+I208
+I213
+tp24
+a(S'5ht6'
+p25
+I524
+I529
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
 g3
-((lp28
-tp29
-Rp30
-sS'year'
+((lp30
+S"(12, u'\\\\bantagonist')"
 p31
-V2009
-p32
-sS'agonists'
-p33
+atp32
+Rp33
+sS'regions'
+p34
 g3
-((lp34
-S"(149, u'\\\\bmem')"
-p35
-atp36
-Rp37
-sS'species'
-p38
-g3
-((lp39
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+((lp35
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
+p39
+V2003
 p40
-aS"(6115, u'(?i)\\\\b(predators|predator)\\\\b')"
+sS'species'
 p41
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
-p44
-atp45
-Rp46
+atp44
+Rp45
 sb.

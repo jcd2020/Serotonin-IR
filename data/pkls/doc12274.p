@@ -2,100 +2,88 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(112, u'\\\\bquetiapine')"
+S'Method.ANTAGONIST'
 p5
-aS"(110, u'\\\\bclozapine')"
+aS'Method.AGONIST'
 p6
-aS"(113, u'\\\\brisperidone')"
-p7
-aS"(50, u'\\\\bquetiapine')"
-p8
-aS"(111, u'\\\\bolanzapine')"
-p9
-aS"(35, u'\\\\baripiprazole')"
-p10
-aS"(190, u'\\\\blurasidone')"
-p11
-atp12
-Rp13
-sS'methods'
-p14
-g3
-((lp15
-S'Method.AGONIST'
-p16
-atp17
-Rp18
+atp7
+Rp8
 sS'topics'
-p19
+p9
 g3
-((lp20
-S"(35, u'\\\\bstress')"
-p21
-aS"(15, u'\\\\bschizophreni')"
-p22
-aS"(6, u'\\\\bcognit')"
-p23
-aS"(14, u'\\\\bpsychosis')"
-p24
-aS"(1, u'\\\\bmood')"
-p25
-atp26
-Rp27
+((lp10
+tp11
+Rp12
 sS'receptors'
-p28
+p13
 g3
-((lp29
-S'5ht1a'
-p30
-atp31
-Rp32
-sS'regions'
+((lp14
+(S'5ht1'
+p15
+I608
+I613
+tp16
+a(S'5ht2'
+p17
+I698
+I703
+tp18
+a(S'5ht2'
+p19
+I571
+I576
+tp20
+a(S'5ht2'
+p21
+I608
+I614
+tp22
+a(S'5ht1a'
+p23
+I882
+I888
+tp24
+a(S'5ht1'
+p25
+I925
+I930
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
+g3
+((lp30
+S"(13, u'\\\\bagonist')"
+p31
+aS"(46, u'\\\\bspiperone')"
+p32
+aS"(53, u'\\\\bketanserin')"
 p33
+aS"(12, u'\\\\bantagonist')"
+p34
+atp35
+Rp36
+sS'regions'
+p37
 g3
-((lp34
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p35
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p36
-atp37
-Rp38
+((lp38
+tp39
+Rp40
 sS'year'
-p39
-V2013
-p40
-sS'agonists'
 p41
-g3
-((lp42
-S"(64, u'\\\\bquetiapine')"
-p43
-aS"(223, u'\\\\baripiprazole')"
-p44
-aS"(59, u'\\\\bperospirone')"
-p45
-aS"(57, u'\\\\bolanzapine')"
-p46
-aS"(47, u'\\\\blurasidone')"
-p47
-aS"(73, u'\\\\btandospirone')"
-p48
-aS"(23, u'\\\\bclozapine')"
-p49
-atp50
-Rp51
+V1991
+p42
 sS'species'
-p52
+p43
 g3
-((lp53
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p54
-atp55
-Rp56
+((lp44
+tp45
+Rp46
 sb.

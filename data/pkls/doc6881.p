@@ -2,70 +2,112 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
+S'Method.STIMULATION'
+p5
+aS'Method.ANTAGONIST'
+p6
+aS'Method.AGONIST'
 p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+atp8
+Rp9
 sS'topics'
+p10
+g3
+((lp11
+S"(26, u'\\\\bbehav')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
+aS"(2, u'\\\\bdisorder')"
+p13
+aS"(13, u'\\\\bantidepress')"
 p14
-aS"(10, u'\\\\banxiety')"
+aS"(8, u'\\\\banxi')"
 p15
-aS"(4, u'\\\\blocomot')"
+aS"(1, u'\\\\bpatient')"
 p16
-atp17
-Rp18
+aS"(4, u'\\\\btreatment')"
+p17
+atp18
+Rp19
 sS'receptors'
-p19
+p20
 g3
-((lp20
-S'5ht2a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp21
+(S'5ht1'
+p22
+I1648
+I1653
+tp23
+a(S'5ht1'
 p24
-g3
-((lp25
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I899
+I904
+tp25
+a(S'5ht1a'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2018
+I416
+I422
+tp27
+a(S'5ht1'
+p28
+I1734
+I1739
+tp29
+a(S'5ht1'
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(175, u'\\\\bdoi')"
-p33
-atp34
-Rp35
-sS'species'
+I435
+I440
+tp31
+a(S'5ht1'
+p32
+I1341
+I1346
+tp33
+a(S'5ht1a'
+p34
+I78
+I84
+tp35
+a(S'5ht1'
 p36
+I1452
+I1457
+tp37
+atp38
+Rp39
+sS'raw_text_methods'
+p40
 g3
-((lp37
-S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
-p38
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p39
-atp40
-Rp41
+((lp41
+S"(13, u'\\\\bagonist')"
+p42
+aS"(15, u'\\\\b8ohdpat')"
+p43
+aS"(51, u'\\\\bway100635')"
+p44
+aS"(12, u'\\\\bantagonist')"
+p45
+atp46
+Rp47
+sS'regions'
+p48
+g3
+((lp49
+tp50
+Rp51
+sS'year'
+p52
+V2017
+p53
+sS'species'
+p54
+g3
+((lp55
+tp56
+Rp57
 sb.

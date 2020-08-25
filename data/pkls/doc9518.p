@@ -2,72 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
+S'Method.ANTAGONIST'
 p5
-aS"(72, u'\\\\bagomelatine')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(4, u'\\\\blocomot')"
-p17
-atp18
-Rp19
+tp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht2c'
-p22
+((lp14
+(S'5ht3'
+p15
+I614
+I619
+tp16
+a(S'5ht3'
+p17
+I2233
+I2238
+tp18
+a(S'5ht3'
+p19
+I601
+I611
+tp20
+a(S'5ht3'
+p21
+I1815
+I1820
+tp22
 atp23
 Rp24
-sS'regions'
+sS'raw_text_methods'
 p25
 g3
 ((lp26
-tp27
-Rp28
-sS'year'
+S"(13, u'\\\\bagonist')"
+p27
+aS"(25, u'\\\\bics205930')"
+p28
+aS"(12, u'\\\\bantagonist')"
 p29
-V2012
-p30
-sS'agonists'
-p31
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp32
-tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+((lp33
+tp34
+Rp35
+sS'year'
+p36
+V2005
 p37
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+sS'species'
 p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+g3
+((lp39
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
 p40
-atp41
-Rp42
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

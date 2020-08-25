@@ -2,70 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(3, u'\\\\bclinical')"
 p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(11, u'\\\\banxiolyt')"
-p16
-atp17
-Rp18
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1b'
+p15
+I238
+I244
+tp16
+a(S'5ht1b'
+p17
+I401
+I407
+tp18
+a(S'5ht1b'
 p19
+I80
+I86
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
+((lp24
+S"(17, u'\\\\bpet')"
+p25
+aS"(19, u'\\\\bpositron emission tomography')"
+p26
+aS"(18, u'\\\\bimaging')"
+p27
+atp28
+Rp29
 sS'regions'
-p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
-p28
-V1993
-p29
-sS'agonists'
 p30
 g3
 ((lp31
-S"(45, u'\\\\bipsapirone')"
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p32
-aS"(43, u'\\\\bhaloperidol')"
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p33
 atp34
 Rp35
-sS'species'
+sS'year'
 p36
-g3
-((lp37
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+V2011
+p37
+sS'species'
 p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
+g3
+((lp39
+tp40
 Rp41
 sb.

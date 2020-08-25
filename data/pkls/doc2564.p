@@ -2,74 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.STIMULATION'
+S"(22, u'\\\\bschizophreni')"
 p10
-aS'Method.ANTAGONIST'
+aS"(23, u'\\\\bantipsychotic')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(3, u'\\\\bclinical')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht3'
+I805
+I811
+tp19
+a(S'5ht1c'
 p20
-atp21
-Rp22
-sS'regions'
-p23
+I813
+I819
+tp21
+a(S'5ht1'
+p22
+I813
+I819
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp24
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
-p28
-V1996
-p29
-sS'agonists'
+((lp27
+tp28
+Rp29
+sS'regions'
 p30
 g3
 ((lp31
-S"(220, u'\\\\b5 ?methoxytryptamine')"
-p32
-aS"(149, u'\\\\bmem')"
-p33
-atp34
-Rp35
+tp32
+Rp33
+sS'year'
+p34
+V1991
+p35
 sS'species'
 p36
 g3
 ((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p39
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p40
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sb.

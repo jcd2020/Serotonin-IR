@@ -2,68 +2,78 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p10
-aS'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(5, u'\\\\btherap')"
+p13
+aS"(1, u'\\\\bpatient')"
 p14
-g3
-((lp15
-tp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p15
+aS"(3, u'\\\\bclinical')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
-S'5ht2c'
-p20
-aS'5ht2a'
+((lp20
+(S'5ht5'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I288
+I298
+tp22
+a(S'5ht1a'
+p23
+I1758
+I1764
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp25
-tp26
-Rp27
-sS'year'
-p28
-V2004
+((lp28
+S"(13, u'\\\\bagonist')"
 p29
-sS'agonists'
+aS"(11, u'\\\\bfluoxetine')"
 p30
+aS"(24, u'\\\\bgepirone')"
+p31
+atp32
+Rp33
+sS'regions'
+p34
 g3
-((lp31
-S"(158, u'\\\\blsd')"
-p32
-aS"(147, u'\\\\bmdma')"
-p33
-atp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp35
+tp36
+Rp37
+sS'year'
 p38
-atp39
-Rp40
+V1993
+p39
+sS'species'
+p40
+g3
+((lp41
+tp42
+Rp43
 sb.

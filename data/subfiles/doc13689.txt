@@ -1,4 +1,0 @@
-Xu, Y. C., et al. (2001). "N- 3-(2-dimethylaminoethyl)-2-methyl-1H-indol-5-yl -4-fluorobenzamide: A potent, selective, and orally active 5-HT1F receptor agonist potentially useful for migraine therapy." J Med Chem 44(24): 4031-4034.
-
-	Recent studies have demonstrated that selective 5-HT1F receptor agonists inhibit neurogenic dural inflammation, a model of migraine headache, indicating that these compounds may be effective therapies for the treatment of migraine pain. This communication describes the synthesis and discovery of a novel compound, N-[3-(2-dimethylamino)ethyl)-2-methyl-1H-indol-5-yl]-4-fluorobenzamide (4), which possesses high binding affinity and selectivity at the 5-HT1F receptor relative to more than 40 other serotonergic and nonserotonergic receptors examined.
-

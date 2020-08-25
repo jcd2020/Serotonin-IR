@@ -2,80 +2,66 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(198, u'\\\\bsb ?269970')"
+S'Method.AGONIST'
 p5
-aS"(96, u'\\\\brs ?102221')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(16, u'\\\\bfeed')"
-p17
-aS"(4, u'\\\\blocomot')"
-p18
-atp19
-Rp20
+((lp9
+tp10
+Rp11
 sS'receptors'
-p21
+p12
 g3
-((lp22
-S'5ht7'
+((lp13
+(S'5ht1a'
+p14
+I67
+I73
+tp15
+a(S'5ht1a'
+p16
+I742
+I748
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(13, u'\\\\bagonist')"
+p22
+aS"(15, u'\\\\b8ohdpat')"
 p23
-aS'5ht2c'
-p24
-aS'5ht1'
-p25
-atp26
-Rp27
+atp24
+Rp25
 sS'regions'
-p28
+p26
 g3
-((lp29
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p30
-atp31
-Rp32
+((lp27
+tp28
+Rp29
 sS'year'
-p33
-V2009
-p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(218, u'\\\\bemd ?386088')"
-p37
-aS"(219, u'\\\\b5 ?ct')"
-p38
-atp39
-Rp40
+p30
+V1990
+p31
 sS'species'
-p41
+p32
 g3
-((lp42
-S"(4096, u'(?i)\\\\b(chows|chow)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+((lp33
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p34
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

@@ -2,72 +2,92 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STIMULATION'
-p9
+S'Method.ANTAGONIST'
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(26, u'\\\\bcardiovascular')"
-p15
-atp16
-Rp17
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I1322
+I1328
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht1a'
+I1804
+I1810
+tp19
+a(S'5ht2'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p25
-aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
+I1435
+I1440
+tp21
+a(S'5ht1a'
+p22
+I28
+I34
+tp23
+a(S'5ht1a'
+p24
+I1211
+I1217
+tp25
+a(S'5ht5'
 p26
-aS"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
-p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
-p31
-V1999
-p32
-sS'agonists'
-p33
+I285
+I295
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
 g3
-((lp34
-S"(85, u'\\\\b8 ?oh ?dpat')"
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(37, u'\\\\bpiperazine')"
+p33
+aS"(53, u'\\\\bketanserin')"
+p34
+aS"(12, u'\\\\bantagonist')"
 p35
 atp36
 Rp37
-sS'species'
+sS'regions'
 p38
 g3
 ((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+tp40
+Rp41
+sS'year'
+p42
+V2008
+p43
+sS'species'
+p44
+g3
+((lp45
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

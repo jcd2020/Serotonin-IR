@@ -2,72 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(4, u'\\\\blocomot')"
-p14
-atp15
-Rp16
+((lp10
+S"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp15
+(S'5ht1'
+p16
+I802
+I807
+tp17
+a(S'5ht1a'
+p18
+I726
+I732
+tp19
+a(S'5ht2'
+p20
+I812
+I817
+tp21
+a(S'5ht1a'
 p22
+I186
+I192
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp23
-S"(222, u'(?i)\\\\b(neostriatums|neostriatum)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
-p27
-V1993
+((lp27
+S"(13, u'\\\\bagonist')"
 p28
-sS'agonists'
+aS"(15, u'\\\\b8ohdpat')"
 p29
-g3
-((lp30
-S"(20, u'\\\\bbuspirone')"
-p31
-aS"(39, u'\\\\bflesinoxan')"
-p32
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(12, u'\\\\bantagonist')"
+p30
+atp31
+Rp32
+sS'regions'
 p33
-atp34
-Rp35
-sS'species'
-p36
 g3
-((lp37
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p38
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+((lp34
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
+p35
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V1990
 p40
-atp41
-Rp42
+sS'species'
+p41
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

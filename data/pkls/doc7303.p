@@ -1,0 +1,123 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(14, u'\\\\bcogniti')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(2, u'\\\\bdisorder')"
+p14
+aS"(23, u'\\\\bantipsychotic')"
+p15
+aS"(1, u'\\\\bpatient')"
+p16
+atp17
+Rp18
+sS'receptors'
+p19
+g3
+((lp20
+(S'5ht1a'
+p21
+I2033
+I2039
+tp22
+a(S'5ht1a'
+p23
+I973
+I979
+tp24
+a(S'5ht1a'
+p25
+I1654
+I1660
+tp26
+a(S'5ht1'
+p27
+I1217
+I1222
+tp28
+a(S'5ht1a'
+p29
+I1562
+I1568
+tp30
+a(S'5ht1a'
+p31
+I1088
+I1094
+tp32
+a(S'5ht1a'
+p33
+I1300
+I1306
+tp34
+a(S'5ht1a'
+p35
+I1880
+I1886
+tp36
+a(S'5ht1a'
+p37
+I61
+I67
+tp38
+a(S'5ht1a'
+p39
+I870
+I876
+tp40
+atp41
+Rp42
+sS'raw_text_methods'
+p43
+g3
+((lp44
+S"(13, u'\\\\bagonist')"
+p45
+aS"(40, u'\\\\bclozapine')"
+p46
+aS"(22, u'\\\\bbuspirone')"
+p47
+aS"(12, u'\\\\bantagonist')"
+p48
+atp49
+Rp50
+sS'regions'
+p51
+g3
+((lp52
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p53
+atp54
+Rp55
+sS'year'
+p56
+V2008
+p57
+sS'species'
+p58
+g3
+((lp59
+tp60
+Rp61
+sb.

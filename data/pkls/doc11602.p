@@ -2,68 +2,106 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.STIMULATION'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(24, u'\\\\banalgesi')"
-p16
-atp17
-Rp18
+tp10
+Rp11
 sS'receptors'
-p19
+p12
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp13
+(S'5ht1b'
+p14
+I588
+I594
+tp15
+a(S'5ht1c'
+p16
+I50
+I56
+tp17
+a(S'5ht1d'
+p18
+I599
+I605
+tp19
+a(S'5ht1a'
+p20
+I350
+I356
+tp21
+a(S'5ht1c'
+p22
+I357
+I363
+tp23
+a(S'5ht1a'
 p24
-g3
-((lp25
-S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+I43
+I49
+tp25
+a(S'5ht1c'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2017
-p30
-sS'agonists'
-p31
+I1255
+I1261
+tp27
+a(S'5ht1a'
+p28
+I1248
+I1254
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
+p32
 g3
-((lp32
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p33
-atp34
-Rp35
-sS'species'
+((lp33
+S"(7, u'\\\\bpropranolol')"
+p34
+aS"(45, u'\\\\bmetergoline')"
+p35
+aS"(54, u'\\\\bautoradiography')"
 p36
-g3
-((lp37
-S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
+p37
+aS"(12, u'\\\\bantagonist')"
 p38
 atp39
 Rp40
+sS'regions'
+p41
+g3
+((lp42
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p43
+atp44
+Rp45
+sS'year'
+p46
+V1992
+p47
+sS'species'
+p48
+g3
+((lp49
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p50
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p51
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

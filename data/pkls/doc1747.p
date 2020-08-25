@@ -2,43 +2,44 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\bmetergoline')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(37, u'\\\\baddict')"
+(S'5ht1a'
 p16
-aS"(16, u'\\\\bfeed')"
-p17
+I1909
+I1915
+tp17
 atp18
 Rp19
-sS'receptors'
+sS'raw_text_methods'
 p20
 g3
 ((lp21
-S'5ht1c'
+S"(13, u'\\\\bagonist')"
 p22
-aS'5ht1d'
+aS"(12, u'\\\\bantagonist')"
 p23
 atp24
 Rp25
@@ -46,32 +47,20 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p28
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p29
-atp30
-Rp31
+tp28
+Rp29
 sS'year'
-p32
-V1994
-p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(210, u'\\\\bsulpiride')"
-p36
-aS"(96, u'\\\\bsumatriptan')"
-p37
-aS"(163, u'\\\\bfenfluramine')"
-p38
-atp39
-Rp40
+p30
+V2003
+p31
 sS'species'
-p41
+p32
 g3
-((lp42
-tp43
-Rp44
+((lp33
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p34
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

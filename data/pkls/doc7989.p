@@ -2,76 +2,112 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(2, u'\\\\bdisorder')"
+p11
+aS"(16, u'\\\\blearning')"
 p12
-g3
-((lp13
-tp14
-Rp15
-sS'receptors'
+aS"(20, u'\\\\bmood')"
+p13
+aS"(15, u'\\\\bmemory')"
+p14
+aS"(5, u'\\\\btherap')"
+p15
+aS"(12, u'\\\\bsleep')"
 p16
-g3
-((lp17
-S'5ht5'
-p18
-aS'5ht2a'
+atp17
+Rp18
+sS'receptors'
 p19
-atp20
-Rp21
-sS'regions'
-p22
 g3
-((lp23
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p24
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+((lp20
+(S'5ht7'
+p21
+I44
+I49
+tp22
+a(S'5ht7'
+p23
+I1679
+I1684
+tp24
+a(S'5ht7'
 p25
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p26
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+I1866
+I1871
+tp26
+a(S'5ht7'
 p27
-aS"(218, u'(?i)\\\\b(claustrums|claustrum)\\\\b')"
-p28
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I182
+I192
+tp28
+a(S'5ht7'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V2018
+I2074
+I2079
+tp30
+a(S'5ht7'
+p31
+I195
+I200
+tp32
+a(S'5ht7'
 p33
-sS'agonists'
-p34
-g3
-((lp35
+I492
+I497
+tp34
+a(S'5ht7'
+p35
+I990
+I995
 tp36
-Rp37
-sS'species'
-p38
+atp37
+Rp38
+sS'raw_text_methods'
+p39
 g3
-((lp39
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p40
-aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+((lp40
+S"(13, u'\\\\bagonist')"
 p41
-aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
-p42
-atp43
-Rp44
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p46
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p47
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
+p51
+V2015
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p55
+atp56
+Rp57
 sb.

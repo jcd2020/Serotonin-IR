@@ -2,78 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(33, u'\\\\byohimbine')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-S"(12, u'\\\\banxiogen')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-atp18
-Rp19
+((lp8
+S"(30, u'\\\\bpain')"
+p9
+aS"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht1a'
-p22
-atp23
-Rp24
+((lp14
+(S'5ht3'
+p15
+I886
+I891
+tp16
+a(S'5ht3'
+p17
+I1041
+I1046
+tp18
+a(S'5ht1'
+p19
+I938
+I943
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
+g3
+((lp24
+tp25
+Rp26
 sS'regions'
-p25
-g3
-((lp26
-S"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
 p27
-aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p28
-atp29
-Rp30
+g3
+((lp28
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p29
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p31
-V2013
-p32
-sS'agonists'
 p33
-g3
-((lp34
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-aS"(82, u'\\\\byohimbine')"
-p36
-atp37
-Rp38
+V2001
+p34
 sS'species'
-p39
+p35
 g3
-((lp40
-S"(6580, u'(?i)\\\\b(dams|dam)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p43
-atp44
-Rp45
+((lp36
+tp37
+Rp38
 sb.

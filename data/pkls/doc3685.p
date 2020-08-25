@@ -2,74 +2,160 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(100, u'\\\\bsdz ser ?082')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(5, u'\\\\btherap')"
+p12
+aS"(33, u'\\\\blocomot')"
+p13
+aS"(23, u'\\\\bantipsychotic')"
 p14
-g3
-((lp15
-S"(26, u'\\\\bcardiovascular')"
-p16
-aS"(35, u'\\\\bstress')"
-p17
-atp18
-Rp19
+atp15
+Rp16
 sS'receptors'
-p20
+p17
 g3
-((lp21
-S'5ht2c'
-p22
-atp23
-Rp24
-sS'regions'
+((lp18
+(S'5ht1'
+p19
+I394
+I399
+tp20
+a(S'5ht2'
+p21
+I1378
+I1383
+tp22
+a(S'5ht1'
+p23
+I1633
+I1638
+tp24
+a(S'5ht2a'
 p25
-g3
-((lp26
-S"(124, u'(?i)\\\\b(thirds|third)(-|\\\\s+)?(ventricles|ventricle)\\\\b')"
+I45
+I51
+tp26
+a(S'5ht2'
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2005
+I345
+I350
+tp28
+a(S'5ht1a'
+p29
+I37
+I43
+tp30
+a(S'5ht2'
 p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(155, u'\\\\bmcpp')"
-p34
-atp35
-Rp36
-sS'species'
+I674
+I679
+tp32
+a(S'5ht1'
+p33
+I664
+I668
+tp34
+a(S'5ht1'
+p35
+I933
+I938
+tp36
+a(S'5ht2'
 p37
-g3
-((lp38
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+I978
+I985
+tp38
+a(S'5ht1'
 p39
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I1054
+I1059
+tp40
+a(S'5ht5'
 p41
-atp42
-Rp43
+I27
+I37
+tp42
+a(S'5ht5'
+p43
+I664
+I669
+tp44
+a(S'5ht2'
+p45
+I1086
+I1091
+tp46
+a(S'5ht2a'
+p47
+I978
+I984
+tp48
+a(S'5ht2'
+p49
+I1653
+I1658
+tp50
+atp51
+Rp52
+sS'raw_text_methods'
+p53
+g3
+((lp54
+S"(41, u'\\\\bhaloperidol')"
+p55
+aS"(15, u'\\\\b8ohdpat')"
+p56
+aS"(13, u'\\\\bagonist')"
+p57
+aS"(49, u'\\\\bdoi')"
+p58
+aS"(50, u'\\\\bm100907')"
+p59
+aS"(51, u'\\\\bway100635')"
+p60
+aS"(12, u'\\\\bantagonist')"
+p61
+atp62
+Rp63
+sS'regions'
+p64
+g3
+((lp65
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p66
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p67
+atp68
+Rp69
+sS'year'
+p70
+V2019
+p71
+sS'species'
+p72
+g3
+((lp73
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p74
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p75
+atp76
+Rp77
 sb.

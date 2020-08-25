@@ -2,74 +2,57 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p11
+p8
 g3
-((lp12
-S"(18, u'\\\\bpsychostim')"
-p13
-atp14
-Rp15
+((lp9
+tp10
+Rp11
 sS'receptors'
-p16
+p12
 g3
-((lp17
-S'5ht1a'
+((lp13
+(S'5ht1a'
+p14
+I1035
+I1041
+tp15
+atp16
+Rp17
+sS'raw_text_methods'
 p18
-aS'5ht2a'
-p19
-atp20
-Rp21
+g3
+((lp19
+S"(12, u'\\\\bantagonist')"
+p20
+atp21
+Rp22
 sS'regions'
-p22
+p23
 g3
-((lp23
-tp24
-Rp25
+((lp24
+tp25
+Rp26
 sS'year'
-p26
-V2011
 p27
-sS'agonists'
+V1993
 p28
-g3
-((lp29
-S"(49, u'\\\\blysergic acid diethylamide')"
-p30
-aS"(157, u'\\\\bdmt')"
-p31
-aS"(27, u'\\\\bdipt')"
-p32
-aS"(147, u'\\\\bmdma')"
-p33
-aS"(158, u'\\\\blsd')"
-p34
-aS"(26, u'\\\\bdimethyltryptamine')"
-p35
-aS"(176, u'\\\\bdom')"
-p36
-atp37
-Rp38
 sS'species'
-p39
+p29
 g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+((lp30
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p31
+atp32
+Rp33
 sb.

@@ -2,96 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(12, u'\\\\bsleep')"
+p10
+aS"(26, u'\\\\bbehav')"
 p11
-g3
-((lp12
-tp13
-Rp14
+atp12
+Rp13
 sS'receptors'
-p15
+p14
 g3
-((lp16
-S'5ht1c'
-p17
-aS'5ht1b'
+((lp15
+(S'5ht1'
+p16
+I650
+I655
+tp17
+a(S'5ht1a'
 p18
-aS'5ht1a'
-p19
-aS'5ht1'
+I559
+I565
+tp19
+a(S'5ht1a'
 p20
-aS'5ht1d'
-p21
-aS'5ht5'
-p22
-atp23
-Rp24
-sS'regions'
-p25
+I1554
+I1560
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp26
-S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+aS"(33, u'\\\\bmcpp')"
 p27
-aS"(236, u'(?i)\\\\b(septals|septal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p29
-aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+atp28
+Rp29
+sS'regions'
 p30
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p31
-aS"(230, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(pallidums|pallidum)\\\\b')"
-p32
-aS"(77, u'(?i)\\\\b(cerebellars|cerebellar)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p33
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p34
-aS"(218, u'(?i)\\\\b(claustrums|claustrum)\\\\b')"
-p35
-aS"(34, u'(?i)\\\\b(pon|pons)\\\\b')"
-p36
-atp37
-Rp38
+g3
+((lp31
+tp32
+Rp33
 sS'year'
-p39
-V2016
-p40
-sS'agonists'
-p41
-g3
-((lp42
-S"(149, u'\\\\bmem')"
-p43
-atp44
-Rp45
+p34
+V1994
+p35
 sS'species'
-p46
+p36
 g3
-((lp47
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
-p48
-aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p49
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p50
-aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
-p51
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p52
-atp53
-Rp54
+((lp37
+tp38
+Rp39
 sb.

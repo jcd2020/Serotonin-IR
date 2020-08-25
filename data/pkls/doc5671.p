@@ -2,76 +2,61 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.PET'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht1a'
+p14
+I364
+I370
+tp15
+atp16
+Rp17
+sS'raw_text_methods'
 p18
 g3
 ((lp19
-S'5ht1a'
+S"(13, u'\\\\bagonist')"
 p20
-atp21
-Rp22
+aS"(15, u'\\\\b8ohdpat')"
+p21
+atp22
+Rp23
 sS'regions'
-p23
+p24
 g3
-((lp24
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p25
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp25
+S"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
 p26
 atp27
 Rp28
 sS'year'
 p29
-V2001
+V1996
 p30
-sS'agonists'
+sS'species'
 p31
 g3
 ((lp32
-S"(163, u'\\\\bfenfluramine')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p33
 atp34
 Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
-p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
 sb.

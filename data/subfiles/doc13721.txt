@@ -1,4 +1,0 @@
-Yamamoto, K., et al. (2009). "Involvement of Hypothalamic Glutamate in Cisplatin-Induced Emesis in Suncus murinus (House Musk Shrew)." J Pharmacol Sci 109(4): 631-634.
-
-	We investigated the effect of cisplatin on glutamate release in the hypothalamus Of Suncus murinus measured by brain microdialysis. Dialysis samples were collected every 20 min for I h before and 3 h after the cisplatin (30 mg/kg, i.p.) administration with the animals also being observed for the development of emesis. Cisplatin increased glutamate levels within I h and this was closely associated with the occurrence of emesis. Pretreatment with the 5-HT3-receptor antagonist ondansetron (2 mg/kg, i.p.) inhibited both the emesis and the increased glutamate levels. These results suggest that hypothalamic glutamate is involved in cisplatin-induced emesis in Suncus murinus.
-

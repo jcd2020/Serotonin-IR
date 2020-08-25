@@ -2,76 +2,157 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.STAINING'
-p10
-aS'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(5, u'\\\\btherap')"
+p12
+aS"(23, u'\\\\bantipsychotic')"
+p13
+aS"(4, u'\\\\btreatment')"
 p14
-g3
-((lp15
-S"(35, u'\\\\bstress')"
-p16
-aS"(12, u'\\\\banxiogen')"
-p17
-aS"(11, u'\\\\banxiolyt')"
-p18
-aS"(16, u'\\\\bfeed')"
-p19
-atp20
-Rp21
+atp15
+Rp16
 sS'receptors'
-p22
+p17
 g3
-((lp23
-S'5ht1a'
-p24
-atp25
-Rp26
-sS'regions'
+((lp18
+(S'5ht7'
+p19
+I687
+I692
+tp20
+a(S'5ht7'
+p21
+I215
+I220
+tp22
+a(S'5ht5'
+p23
+I186
+I196
+tp24
+a(S'5ht7'
+p25
+I506
+I511
+tp26
+a(S'5ht1a'
 p27
-g3
-((lp28
-S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+I499
+I505
+tp28
+a(S'5ht1a'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V2018
+I1481
+I1487
+tp30
+a(S'5ht2c'
+p31
+I1923
+I1931
+tp32
+a(S'5ht2a'
 p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(21, u'\\\\bcannabidiol')"
-p36
-atp37
-Rp38
-sS'species'
+I1923
+I1929
+tp34
+a(S'5ht2a'
+p35
+I675
+I681
+tp36
+a(S'5ht2a'
+p37
+I204
+I210
+tp38
+a(S'5ht1a'
 p39
-g3
-((lp40
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+I667
+I673
+tp40
+a(S'5ht1a'
 p41
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p42
-atp43
-Rp44
+I196
+I202
+tp42
+a(S'5ht2'
+p43
+I675
+I681
+tp44
+a(S'5ht1a'
+p45
+I2253
+I2259
+tp46
+a(S'5ht2'
+p47
+I204
+I210
+tp48
+a(S'5ht7'
+p49
+I1982
+I1987
+tp50
+a(S'5ht5'
+p51
+I657
+I667
+tp52
+atp53
+Rp54
+sS'raw_text_methods'
+p55
+g3
+((lp56
+S"(13, u'\\\\bagonist')"
+p57
+aS"(15, u'\\\\b8ohdpat')"
+p58
+aS"(41, u'\\\\bhaloperidol')"
+p59
+aS"(53, u'\\\\bketanserin')"
+p60
+aS"(12, u'\\\\bantagonist')"
+p61
+atp62
+Rp63
+sS'regions'
+p64
+g3
+((lp65
+tp66
+Rp67
+sS'year'
+p68
+V2010
+p69
+sS'species'
+p70
+g3
+((lp71
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p72
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p73
+atp74
+Rp75
 sb.

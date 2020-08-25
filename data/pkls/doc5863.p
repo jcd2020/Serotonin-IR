@@ -1,0 +1,76 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(28, u'\\\\bgastrointestin')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(3, u'\\\\bclinical')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht6'
+p18
+I56
+I61
+tp19
+a(S'5ht6'
+p20
+I642
+I646
+tp21
+a(S'5ht6'
+p22
+I543
+I548
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+S"(12, u'\\\\bantagonist')"
+p28
+atp29
+Rp30
+sS'regions'
+p31
+g3
+((lp32
+tp33
+Rp34
+sS'year'
+p35
+V2018
+p36
+sS'species'
+p37
+g3
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
+sb.

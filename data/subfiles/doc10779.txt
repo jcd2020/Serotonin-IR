@@ -1,0 +1,4 @@
+Suzuki, T., et al. (1998). "Novel 5-hydroxytryptamine 4 (5-HT4) receptor agonists. Synthesis and gastroprokinetic activity of 4-amino-N- 2-(1-aminocycloalkan-1-yl)ethyl -5-chloro-2-methoxybenzamides." Chemical & Pharmaceutical Bulletin 46(7): 1116-1124.
+
+	A novel series of 4-amino-N-[2-(1-aminocycloalkan-1-yl)ethyl]-5-chloro-2-methoxybenzamide derivatives (1), which had amines conformationally restricted due to the effect of repulsion by neighboring substituents, were prepared and evaluated for 5-hydroxytryptamine 4 (5-HT4) agonistic activities by using the contraction of longitudinal muscle myenteric plexus (LMMP) of guinea pig ileum. One of the most potent compounds in this series was 4-amino-5-chloro-N-[2-(1-dimethylamino-1-cyclohexyl)ethyl]-2-methoxybenzamide (1c, YM-47813) with an EC,, value of 1.0 mu M on LMMP. This compound effectively enhanced gastric motility and gastric emptying in conscious dogs by oral administration (1-3 mg/kg).
+

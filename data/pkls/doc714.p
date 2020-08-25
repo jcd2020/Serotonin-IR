@@ -2,78 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(114, u'\\\\bziprasidone')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
-aS'Method.ANTAGONIST'
-p11
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(2, u'\\\\bdisorder')"
 p15
-g3
-((lp16
-S"(15, u'\\\\bschizophreni')"
-p17
-aS"(9, u'\\\\bdepress')"
-p18
-aS"(10, u'\\\\banxiety')"
-p19
-atp20
-Rp21
+atp16
+Rp17
 sS'receptors'
+p18
+g3
+((lp19
+(S'5ht1a'
+p20
+I673
+I679
+tp21
+a(S'5ht1a'
 p22
-g3
-((lp23
-S'5ht1a'
+I1023
+I1029
+tp23
+a(S'5ht1a'
 p24
-atp25
-Rp26
-sS'regions'
-p27
+I162
+I168
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
 g3
-((lp28
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
+((lp29
+S"(13, u'\\\\bagonist')"
+p30
+aS"(15, u'\\\\b8ohdpat')"
+p31
+aS"(12, u'\\\\bantagonist')"
 p32
-V2004
-p33
-sS'agonists'
-p34
+atp33
+Rp34
+sS'regions'
+p35
 g3
-((lp35
-S"(39, u'\\\\bflesinoxan')"
-p36
-aS"(84, u'\\\\bziprasidone')"
-p37
-atp38
-Rp39
-sS'species'
+((lp36
+tp37
+Rp38
+sS'year'
+p39
+V2019
 p40
+sS'species'
+p41
 g3
-((lp41
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+((lp42
+tp43
+Rp44
 sb.

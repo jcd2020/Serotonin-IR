@@ -2,62 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
 p12
-g3
-((lp13
-tp14
-Rp15
+aS"(5, u'\\\\btherap')"
+p13
+aS"(25, u'\\\\bsocial')"
+p14
+aS"(33, u'\\\\blocomot')"
+p15
+atp16
+Rp17
 sS'receptors'
-p16
-g3
-((lp17
-S'5ht1a'
 p18
-atp19
-Rp20
-sS'regions'
-p21
 g3
-((lp22
+((lp19
+(S'5ht1a'
+p20
+I109
+I115
+tp21
+a(S'5ht1a'
+p22
+I578
+I584
 tp23
-Rp24
-sS'year'
-p25
-V1999
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-sS'agonists'
-p27
 g3
-((lp28
-S"(85, u'\\\\b8 ?oh ?dpat')"
+((lp27
+S"(16, u'\\\\bdiazepam')"
+p28
+aS"(15, u'\\\\b8ohdpat')"
 p29
-atp30
-Rp31
-sS'species'
+aS"(13, u'\\\\bagonist')"
+p30
+aS"(11, u'\\\\bfluoxetine')"
+p31
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p32
+aS"(12, u'\\\\bantagonist')"
+p33
+atp34
+Rp35
+sS'regions'
+p36
 g3
-((lp33
-S"(5685, u'(?i)\\\\b(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)\\\\b')"
-p34
-aS"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
-p35
-atp36
-Rp37
+((lp37
+tp38
+Rp39
+sS'year'
+p40
+V2001
+p41
+sS'species'
+p42
+g3
+((lp43
+tp44
+Rp45
 sb.

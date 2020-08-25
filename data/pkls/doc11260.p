@@ -2,78 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(59, u'\\\\bchlorpromazine')"
+S'Method.AGONIST'
 p5
-aS"(123, u'\\\\bgranisetron')"
-p6
-aS"(135, u'\\\\bquinine')"
-p7
-aS"(128, u'\\\\bmetoclopramide')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-aS'Method.AGONIST'
-p14
-atp15
-Rp16
+atp6
+Rp7
 sS'topics'
-p17
+p8
 g3
-((lp18
-S"(32, u'\\\\bnausea')"
-p19
-aS"(28, u'\\\\bemesis')"
-p20
-aS"(24, u'\\\\banalgesi')"
-p21
-atp22
-Rp23
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(10, u'\\\\bocd')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I553
+I559
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+aS"(15, u'\\\\b8ohdpat')"
 p24
-g3
-((lp25
-S'5ht3'
-p26
-atp27
-Rp28
+atp25
+Rp26
 sS'regions'
-p29
+p27
 g3
-((lp30
-tp31
-Rp32
+((lp28
+tp29
+Rp30
 sS'year'
-p33
-V2018
-p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(209, u'\\\\bmetoclopramide')"
-p37
-aS"(176, u'\\\\bdom')"
-p38
-atp39
-Rp40
+p31
+V2004
+p32
 sS'species'
-p41
+p33
 g3
-((lp42
-S"(2603, u'(?i)\\\\b(soldiers|soldier)\\\\b')"
-p43
-atp44
-Rp45
+((lp34
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p35
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p36
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

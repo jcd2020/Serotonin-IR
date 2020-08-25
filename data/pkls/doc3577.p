@@ -2,64 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
+S'Method.ANTAGONIST'
 p5
-aS"(91, u'\\\\bfluoxetine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-tp11
-Rp12
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(18, u'\\\\bavoidan')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(23, u'\\\\bantipsychotic')"
+p12
+aS"(4, u'\\\\btreatment')"
 p13
-g3
-((lp14
-S"(21, u'\\\\bpain')"
-p15
-aS"(24, u'\\\\banalgesi')"
-p16
-atp17
-Rp18
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht3'
-p21
-atp22
-Rp23
-sS'regions'
+((lp17
+(S'5ht2a'
+p18
+I244
+I250
+tp19
+a(S'5ht2a'
+p20
+I421
+I427
+tp21
+a(S'5ht2a'
+p22
+I689
+I695
+tp23
+a(S'5ht2a'
 p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
+I44
+I50
+tp25
+a(S'5ht2a'
+p26
+I1728
+I1734
+tp27
+a(S'5ht2a'
 p28
-V1994
-p29
-sS'agonists'
-p30
+I1039
+I1045
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
+p32
 g3
-((lp31
-tp32
-Rp33
-sS'species'
+((lp33
+S"(41, u'\\\\bhaloperidol')"
 p34
-g3
-((lp35
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(23, u'\\\\bmdl')"
+p35
+aS"(12, u'\\\\bantagonist')"
 p36
 atp37
 Rp38
+sS'regions'
+p39
+g3
+((lp40
+tp41
+Rp42
+sS'year'
+p43
+V2019
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p47
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

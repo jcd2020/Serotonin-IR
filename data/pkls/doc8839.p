@@ -2,72 +2,112 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(15, u'\\\\bmemory')"
 p12
-g3
-((lp13
-S"(3, u'\\\\bsleep')"
-p14
-atp15
-Rp16
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp17
+(S'5ht4'
+p18
+I797
+I802
+tp19
+a(S'5ht4'
+p20
+I443
+I448
+tp21
+a(S'5ht4'
 p22
-g3
-((lp23
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I97
+I102
+tp23
+a(S'5ht4'
 p24
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p25
-aS"(51, u'(?i)\\\\b(laterodorsals|laterodorsal)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1815
+I1820
+tp25
+a(S'5ht4'
 p26
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
+I2086
+I2091
+tp27
+a(S'5ht4'
+p28
+I1363
+I1368
+tp29
+a(S'5ht4'
 p30
-V2003
-p31
-sS'agonists'
+I891
+I896
+tp31
+a(S'5ht4'
 p32
+I2382
+I2387
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
 g3
-((lp33
-S"(39, u'\\\\bflesinoxan')"
-p34
-atp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+((lp37
+S"(17, u'\\\\bpet')"
+p38
+aS"(19, u'\\\\bpositron emission tomography')"
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(18, u'\\\\bimaging')"
 p40
-atp41
-Rp42
+aS"(12, u'\\\\bantagonist')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p46
+atp47
+Rp48
+sS'year'
+p49
+V2003
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p53
+aS"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p54
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p55
+atp56
+Rp57
 sb.

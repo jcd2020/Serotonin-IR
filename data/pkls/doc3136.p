@@ -2,70 +2,105 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(4, u'\\\\btreatment')"
+p10
+aS"(2, u'\\\\bdisorder')"
 p11
-g3
-((lp12
-S"(37, u'\\\\baddict')"
-p13
-aS"(18, u'\\\\bpsychostim')"
-p14
-aS"(19, u'\\\\bimpulsiv')"
-p15
-aS"(4, u'\\\\blocomot')"
-p16
-atp17
-Rp18
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht2b'
-p21
-atp22
-Rp23
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I1233
+I1239
+tp17
+a(S'5ht5'
+p18
+I172
+I182
+tp19
+a(S'5ht3a'
+p20
+I604
+I610
+tp21
+a(S'5ht1a'
+p22
+I938
+I944
+tp23
+a(S'5ht3'
 p24
-g3
-((lp25
-S"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
+I477
+I482
+tp25
+a(S'5ht1a'
 p26
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
+I1036
+I1042
+tp27
+a(S'5ht1a'
+p28
+I206
+I212
+tp29
+a(S'5ht1a'
 p30
-V2017
-p31
-sS'agonists'
+I77
+I83
+tp31
+a(S'5ht1a'
 p32
-g3
-((lp33
-tp34
+I1107
+I1113
+tp33
+atp34
 Rp35
-sS'species'
+sS'raw_text_methods'
 p36
 g3
 ((lp37
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+S"(1, u'\\\\bneuroimag')"
 p38
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+aS"(17, u'\\\\bpet')"
 p39
-atp40
-Rp41
+aS"(19, u'\\\\bpositron emission tomography')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+tp45
+Rp46
+sS'year'
+p47
+V2000
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p51
+atp52
+Rp53
 sb.

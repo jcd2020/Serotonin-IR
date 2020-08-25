@@ -1,0 +1,95 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(25, u'\\\\bsocial')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(9, u'\\\\bstress')"
+p12
+aS"(20, u'\\\\bmood')"
+p13
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
+sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1a'
+p19
+I507
+I518
+tp20
+a(S'5ht1a'
+p21
+I98
+I109
+tp22
+a(S'5ht1a'
+p23
+I1939
+I1950
+tp24
+a(S'5ht1a'
+p25
+I1141
+I1152
+tp26
+a(S'5ht1a'
+p27
+I1607
+I1618
+tp28
+a(S'5ht1a'
+p29
+I744
+I755
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
+p33
+g3
+((lp34
+S"(17, u'\\\\bpet')"
+p35
+aS"(19, u'\\\\bpositron emission tomography')"
+p36
+aS"(18, u'\\\\bimaging')"
+p37
+atp38
+Rp39
+sS'regions'
+p40
+g3
+((lp41
+tp42
+Rp43
+sS'year'
+p44
+V2019
+p45
+sS'species'
+p46
+g3
+((lp47
+tp48
+Rp49
+sb.

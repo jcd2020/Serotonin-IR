@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,58 +10,94 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(22, u'\\\\bschizophreni')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
-p14
-aS"(24, u'\\\\banalgesi')"
-p15
-aS"(10, u'\\\\banxiety')"
-p16
-atp17
-Rp18
+aS"(3, u'\\\\bclinical')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I1601
+I1607
+tp16
+a(S'5ht1a'
+p17
+I1283
+I1289
+tp18
+a(S'5ht2a'
 p19
-g3
-((lp20
-S'5ht1a'
+I1349
+I1355
+tp20
+a(S'5ht1'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
+I1601
+I1607
+tp22
+a(S'5ht2a'
+p23
+I1735
+I1741
+tp24
+a(S'5ht1a'
+p25
+I1190
+I1196
 tp26
-Rp27
-sS'year'
-p28
-V2003
+a(S'5ht2a'
+p27
+I296
+I302
+tp28
+a(S'5ht1a'
 p29
-sS'agonists'
-p30
+I285
+I291
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
+p33
 g3
-((lp31
-S"(20, u'\\\\bbuspirone')"
-p32
-atp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+((lp34
+tp35
+Rp36
+sS'regions'
 p37
-atp38
-Rp39
+g3
+((lp38
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p39
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p40
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p41
+aS"(7, u'(?i)\\\\b(entorhinals|entorhinal)\\\\b')"
+p42
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p43
+atp44
+Rp45
+sS'year'
+p46
+V2017
+p47
+sS'species'
+p48
+g3
+((lp49
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

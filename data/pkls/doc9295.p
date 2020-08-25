@@ -2,84 +2,92 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(133, u'\\\\bmianserin')"
-p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(58, u'\\\\bhaloperidol')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
 S'Method.ANTAGONIST'
-p13
+p5
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(34, u'\\\\bparkinson')"
+p13
+aS"(4, u'\\\\btreatment')"
 p14
 atp15
 Rp16
-sS'topics'
+sS'receptors'
 p17
 g3
 ((lp18
-tp19
-Rp20
-sS'receptors'
+(S'5ht1b'
+p19
+I1319
+I1325
+tp20
+a(S'5ht1b'
 p21
-g3
-((lp22
-S'5ht1c'
+I1025
+I1031
+tp22
+a(S'5ht1a'
 p23
-aS'5ht1b'
-p24
-aS'5ht1a'
+I1435
+I1441
+tp24
+a(S'5ht1a'
 p25
-aS'5ht2'
-p26
+I1036
+I1042
+tp26
 atp27
 Rp28
-sS'regions'
+sS'raw_text_methods'
 p29
 g3
 ((lp30
-tp31
-Rp32
-sS'year'
-p33
-V1993
-p34
-sS'agonists'
+S"(13, u'\\\\bagonist')"
+p31
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
 p35
 g3
 ((lp36
-S"(20, u'\\\\bbuspirone')"
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p37
-aS"(76, u'\\\\btrifluoromethylphenylpiperazine')"
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p38
-aS"(163, u'\\\\bfenfluramine')"
-p39
-aS"(43, u'\\\\bhaloperidol')"
-p40
-atp41
-Rp42
+atp39
+Rp40
+sS'year'
+p41
+V2008
+p42
 sS'species'
 p43
 g3
 ((lp44
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p45
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
 p46
-atp47
-Rp48
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

@@ -2,98 +2,83 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S'Method.PET'
 p5
-aS"(129, u'\\\\brenzapride')"
+aS'Method.ANTAGONIST'
 p6
-aS"(125, u'\\\\btropisetron')"
-p7
-aS"(117, u'\\\\bketanserin')"
-p8
-aS"(194, u'\\\\bmethysergide')"
-p9
-aS"(26, u'\\\\bspiperone')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
-S'Method.ANTAGONIST'
-p15
-aS'Method.AGONIST'
-p16
-atp17
-Rp18
+atp7
+Rp8
 sS'topics'
-p19
+p9
 g3
-((lp20
-tp21
-Rp22
+((lp10
+S"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
 sS'receptors'
-p23
+p14
 g3
-((lp24
-S'5ht4a'
-p25
-aS'5ht1a'
+((lp15
+(S'5ht1a'
+p16
+I1473
+I1479
+tp17
+a(S'5ht1a'
+p18
+I739
+I745
+tp19
+a(S'5ht1a'
+p20
+I90
+I96
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+S"(1, u'\\\\bneuroimag')"
 p26
-aS'5ht2'
+aS"(17, u'\\\\bpet')"
 p27
-aS'5ht1'
+aS"(19, u'\\\\bpositron emission tomography')"
 p28
-aS'5ht2a'
+aS"(38, u'\\\\bssri')"
 p29
-atp30
-Rp31
+aS"(12, u'\\\\bantagonist')"
+p30
+atp31
+Rp32
 sS'regions'
-p32
+p33
 g3
-((lp33
-tp34
-Rp35
-sS'year'
+((lp34
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p35
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p36
-V1993
-p37
-sS'agonists'
-p38
-g3
-((lp39
-S"(203, u'\\\\brenzapride')"
+atp37
+Rp38
+sS'year'
+p39
+V2005
 p40
-aS"(96, u'\\\\bsumatriptan')"
-p41
-aS"(53, u'\\\\bmethysergide')"
-p42
-aS"(220, u'\\\\b5 ?methoxytryptamine')"
-p43
-aS"(175, u'\\\\bdoi')"
-p44
-atp45
-Rp46
 sS'species'
-p47
+p41
 g3
-((lp48
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p49
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p50
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p51
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p52
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p53
-atp54
-Rp55
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

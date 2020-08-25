@@ -2,68 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
-p5
-aS"(91, u'\\\\bfluoxetine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-tp11
-Rp12
+tp5
+Rp6
 sS'topics'
-p13
+p7
 g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-atp16
-Rp17
+((lp8
+S"(1, u'\\\\bpatient')"
+p9
+aS"(13, u'\\\\bantidepress')"
+p10
+aS"(5, u'\\\\btherap')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht2'
-p20
-aS'5ht1'
+((lp16
+(S'5ht7'
+p17
+I1124
+I1129
+tp18
+a(S'5ht1a'
+p19
+I1193
+I1199
+tp20
+a(S'5ht1a'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
+I1134
+I1140
+tp22
+a(S'5ht1a'
+p23
+I1072
+I1078
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp26
-tp27
-Rp28
-sS'year'
+((lp28
+S"(38, u'\\\\bssri')"
 p29
-V1998
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p30
-sS'agonists'
-p31
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp32
-tp33
-Rp34
-sS'species'
+((lp34
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p35
-g3
-((lp36
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+atp36
+Rp37
+sS'year'
 p38
-atp39
-Rp40
+V2018
+p39
+sS'species'
+p40
+g3
+((lp41
+tp42
+Rp43
 sb.

@@ -2,68 +2,100 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-tp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(15, u'\\\\bschizophreni')"
-p14
-atp15
-Rp16
+S"(13, u'\\\\bantidepress')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1b'
+p15
+I313
+I319
+tp16
+a(S'5ht1a'
 p17
-g3
-((lp18
-S'5ht1a'
+I812
+I818
+tp18
+a(S'5ht1b'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
+I743
+I749
+tp20
+a(S'5ht1b'
+p21
+I823
+I829
+tp22
+a(S'5ht1a'
+p23
+I302
+I308
+tp24
+a(S'5ht1b'
+p25
+I1690
+I1696
+tp26
+a(S'5ht1a'
 p27
-V2004
-p28
-sS'agonists'
+I1679
+I1685
+tp28
+a(S'5ht1a'
 p29
-g3
-((lp30
-S"(20, u'\\\\bbuspirone')"
-p31
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p32
-aS"(43, u'\\\\bhaloperidol')"
+I685
+I691
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
 p33
-atp34
-Rp35
-sS'species'
-p36
 g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+((lp34
+S"(51, u'\\\\bway100635')"
+p35
+aS"(12, u'\\\\bantagonist')"
+p36
+atp37
+Rp38
+sS'regions'
+p39
+g3
+((lp40
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V2004
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p48
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

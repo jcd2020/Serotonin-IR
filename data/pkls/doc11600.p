@@ -2,66 +2,127 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(4, u'\\\\blocomot')"
-p14
-atp15
-Rp16
+((lp10
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1d'
+p15
+I673
+I681
+tp16
+a(S'5ht1b'
 p17
-g3
-((lp18
-S'5ht1b'
+I673
+I679
+tp18
+a(S'5ht1f'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
+I1565
+I1571
+tp20
+a(S'5ht1a'
+p21
+I869
+I875
+tp22
+a(S'5ht7'
+p23
+I1591
+I1596
+tp24
+a(S'5ht1b'
+p25
+I778
+I784
+tp26
+a(S'5ht1a'
 p27
-V1996
-p28
-sS'agonists'
+I751
+I757
+tp28
+a(S'5ht2'
 p29
-g3
-((lp30
-S"(99, u'\\\\bcgs ?12066a')"
+I1573
+I1578
+tp30
+a(S'5ht4'
 p31
-aS"(190, u'\\\\bibogaine')"
-p32
-atp33
-Rp34
-sS'species'
+I1580
+I1585
+tp32
+a(S'5ht1d'
+p33
+I778
+I786
+tp34
+a(S'5ht1a'
 p35
+I1263
+I1269
+tp36
+atp37
+Rp38
+sS'raw_text_methods'
+p39
 g3
-((lp36
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p37
-atp38
-Rp39
+((lp40
+S"(22, u'\\\\bbuspirone')"
+p41
+aS"(2, u'\\\\blabeling')"
+p42
+aS"(13, u'\\\\bagonist')"
+p43
+aS"(54, u'\\\\bautoradiography')"
+p44
+aS"(12, u'\\\\bantagonist')"
+p45
+aS"(6, u'\\\\bgr127935')"
+p46
+atp47
+Rp48
+sS'regions'
+p49
+g3
+((lp50
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p51
+aS"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
+p52
+atp53
+Rp54
+sS'year'
+p55
+V1997
+p56
+sS'species'
+p57
+g3
+((lp58
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p59
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p60
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p61
+atp62
+Rp63
 sb.

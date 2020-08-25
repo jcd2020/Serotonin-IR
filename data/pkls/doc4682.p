@@ -2,92 +2,108 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(129, u'\\\\brenzapride')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(4, u'\\\\btreatment')"
 p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(5, u'\\\\bgastrointestin')"
-p16
-aS"(28, u'\\\\bemesis')"
-p17
-atp18
-Rp19
+atp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht1a'
-p22
-aS'5ht4'
+((lp14
+(S'5ht1a'
+p15
+I1366
+I1372
+tp16
+a(S'5ht1a'
+p17
+I1417
+I1423
+tp18
+a(S'5ht1a'
+p19
+I124
+I130
+tp20
+a(S'5ht1a'
+p21
+I1530
+I1536
+tp22
+a(S'5ht1a'
 p23
-aS'5ht3a'
-p24
-aS'5ht2'
+I906
+I912
+tp24
+a(S'5ht1a'
 p25
-aS'5ht1'
-p26
-aS'5ht4a'
+I252
+I258
+tp26
+a(S'5ht1a'
 p27
-atp28
-Rp29
-sS'regions'
-p30
-g3
-((lp31
+I1088
+I1094
+tp28
+a(S'5ht1a'
+p29
+I316
+I322
+tp30
+a(S'5ht1a'
+p31
+I1222
+I1228
 tp32
-Rp33
-sS'year'
-p34
-V1993
-p35
-sS'agonists'
-p36
+a(S'5ht1a'
+p33
+I672
+I678
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
+p37
 g3
-((lp37
-S"(198, u'\\\\bcisapride')"
-p38
-aS"(203, u'\\\\brenzapride')"
+((lp38
+S"(13, u'\\\\bagonist')"
 p39
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+aS"(15, u'\\\\b8ohdpat')"
 p40
-atp41
-Rp42
-sS'species'
-p43
+aS"(21, u'\\\\bipsapirone')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
 g3
-((lp44
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p45
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p46
-aS"(4208, u'(?i)\\\\b(canines|canine)\\\\b')"
-p47
-aS"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
+((lp45
+tp46
+Rp47
+sS'year'
 p48
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+V1991
 p49
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+sS'species'
 p50
-atp51
-Rp52
+g3
+((lp51
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

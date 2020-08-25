@@ -2,43 +2,45 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-S"(21, u'\\\\bpain')"
-p16
-aS"(9, u'\\\\bdepress')"
+((lp8
+S"(30, u'\\\\bpain')"
+p9
+aS"(9, u'\\\\bstress')"
+p10
+atp11
+Rp12
+sS'receptors'
+p13
+g3
+((lp14
+(S'5ht3'
+p15
+I1017
+I1022
+tp16
+a(S'5ht3'
 p17
-aS"(24, u'\\\\banalgesi')"
-p18
+I1704
+I1709
+tp18
 atp19
 Rp20
-sS'receptors'
+sS'raw_text_methods'
 p21
 g3
 ((lp22
-S'5ht1a'
+S"(3, u'\\\\bimmunoreactiv')"
 p23
 atp24
 Rp25
@@ -46,30 +48,20 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p28
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p29
-atp30
-Rp31
+tp28
+Rp29
 sS'year'
-p32
-V2018
-p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(16, u'\\\\bbefiradol')"
-p36
-atp37
-Rp38
+p30
+V2007
+p31
 sS'species'
-p39
+p32
 g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+((lp33
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p34
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

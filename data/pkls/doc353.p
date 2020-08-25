@@ -2,49 +2,52 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p11
+p9
 g3
-((lp12
-S"(24, u'\\\\banalgesi')"
-p13
-aS"(21, u'\\\\bpain')"
-p14
-aS"(35, u'\\\\bstress')"
-p15
-aS"(11, u'\\\\banxiolyt')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-atp18
-Rp19
+((lp10
+tp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht4'
-p22
-aS'5ht1a'
+((lp14
+(S'5ht1a'
+p15
+I633
+I639
+tp16
+a(S'5ht1a'
+p17
+I922
+I928
+tp18
+a(S'5ht1a'
+p19
+I36
+I42
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-aS'5ht2a'
-p24
-aS'5ht2c'
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
 p25
-aS'5ht1d'
+aS"(12, u'\\\\bantagonist')"
 p26
 atp27
 Rp28
@@ -52,32 +55,20 @@ sS'regions'
 p29
 g3
 ((lp30
-S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
 p31
 atp32
 Rp33
 sS'year'
 p34
-V2005
+V1994
 p35
-sS'agonists'
+sS'species'
 p36
 g3
 ((lp37
-tp38
-Rp39
-sS'species'
-p40
-g3
-((lp41
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p42
-aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
-p43
-aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
-p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-atp46
-Rp47
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

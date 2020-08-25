@@ -2,72 +2,98 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
+S'Method.STIMULATION'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+aS'Method.ANTAGONIST'
+p6
+aS'Method.AGONIST'
+p7
+atp8
+Rp9
 sS'topics'
-p13
+p10
 g3
-((lp14
-tp15
-Rp16
+((lp11
+S"(26, u'\\\\bbehav')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht7'
 p17
-g3
-((lp18
-S'5ht4'
+I794
+I799
+tp18
+a(S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(363, u'(?i)\\\\b(cranials|cranial)(-|\\\\s+)?(nerve|nerves)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
+I967
+I973
+tp20
+a(S'5ht2'
+p21
+I418
+I423
+tp22
+a(S'5ht2'
+p23
+I1353
+I1358
+tp24
+a(S'5ht2'
+p25
+I77
+I82
+tp26
+a(S'5ht1a'
 p27
-V1994
-p28
-sS'agonists'
-p29
-g3
-((lp30
-S"(220, u'\\\\b5 ?methoxytryptamine')"
+I98
+I104
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
 p31
-aS"(197, u'\\\\bbimu ?8')"
-p32
-aS"(43, u'\\\\bhaloperidol')"
-p33
-atp34
-Rp35
-sS'species'
-p36
 g3
-((lp37
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+((lp32
+S"(53, u'\\\\bketanserin')"
+p33
+aS"(22, u'\\\\bbuspirone')"
+p34
+aS"(15, u'\\\\b8ohdpat')"
+p35
+aS"(13, u'\\\\bagonist')"
+p36
+aS"(24, u'\\\\bgepirone')"
+p37
+aS"(12, u'\\\\bantagonist')"
 p38
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p39
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p40
-atp41
-Rp42
+atp39
+Rp40
+sS'regions'
+p41
+g3
+((lp42
+tp43
+Rp44
+sS'year'
+p45
+V1991
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

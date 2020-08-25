@@ -2,76 +2,112 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(17, u'\\\\bnan ?190')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
+p7
+g3
+((lp8
+S"(7, u'\\\\bdepressi')"
+p9
+aS"(2, u'\\\\bdisorder')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(9, u'\\\\bstress')"
+p12
+aS"(20, u'\\\\bmood')"
+p13
+aS"(4, u'\\\\btreatment')"
 p14
-g3
-((lp15
-tp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht1b'
-p20
-aS'5ht1a'
+((lp18
+(S'5ht1a'
+p19
+I73
+I84
+tp20
+a(S'5ht1a'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
+I1267
+I1273
+tp22
+a(S'5ht1'
+p23
+I73
+I84
+tp24
+a(S'5ht1a'
 p25
-g3
-((lp26
-S"(40, u'(?i)\\\\b(abducen|abducens)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I706
+I712
+tp26
+a(S'5ht1a'
 p27
-aS"(43, u'(?i)\\\\b(vestibulars|vestibular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+I692
+I703
+tp28
+a(S'5ht1a'
+p29
+I1422
+I1428
+tp30
+a(S'5ht1'
 p31
-V1994
-p32
-sS'agonists'
+I917
+I923
+tp32
+a(S'5ht1a'
 p33
-g3
-((lp34
-S"(155, u'\\\\bmcpp')"
+I917
+I923
+tp34
+a(S'5ht1a'
 p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p36
-aS"(175, u'\\\\bdoi')"
+I1917
+I1923
+tp36
+a(S'5ht1'
 p37
-atp38
-Rp39
-sS'species'
-p40
+I706
+I712
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
+p41
 g3
-((lp41
-S"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
-p42
-atp43
-Rp44
+((lp42
+S"(54, u'\\\\bautoradiography')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+tp48
+Rp49
+sS'year'
+p50
+V1998
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p54
+atp55
+Rp56
 sb.

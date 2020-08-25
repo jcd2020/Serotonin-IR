@@ -2,92 +2,111 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(76, u'\\\\blisuride')"
+S'Method.AGONIST'
 p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+tp10
+Rp11
 sS'receptors'
-p19
+p12
 g3
-((lp20
-S'5ht1a'
-p21
-aS'5ht1f'
+((lp13
+(S'5ht2c'
+p14
+I1705
+I1711
+tp15
+a(S'5ht3'
+p16
+I2002
+I2007
+tp17
+a(S'5ht2c'
+p18
+I30
+I36
+tp19
+a(S'5ht2c'
+p20
+I1354
+I1360
+tp21
+a(S'5ht1b'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p27
-aS"(218, u'(?i)\\\\b(claustrums|claustrum)\\\\b')"
+I2016
+I2022
+tp23
+a(S'5ht2a'
+p24
+I1994
+I2000
+tp25
+a(S'5ht2c'
+p26
+I496
+I502
+tp27
+a(S'5ht2c'
 p28
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
+I272
+I278
+tp29
+a(S'5ht2c'
+p30
+I1936
+I1942
+tp31
+a(S'5ht2c'
 p32
-V1998
-p33
-sS'agonists'
+I1566
+I1572
+tp33
+a(S'5ht2c'
 p34
-g3
-((lp35
-S"(137, u'\\\\blisuride')"
-p36
-aS"(219, u'\\\\b5 ?ct')"
-p37
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
+I1029
+I1035
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
 p38
-aS"(119, u'\\\\bly334370')"
-p39
-aS"(149, u'\\\\bmem')"
-p40
-atp41
-Rp42
-sS'species'
-p43
 g3
-((lp44
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p45
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+((lp39
+S"(13, u'\\\\bagonist')"
+p40
+aS"(27, u'\\\\blsd')"
+p41
+aS"(33, u'\\\\bmcpp')"
+p42
+aS"(52, u'\\\\bmk212')"
+p43
+atp44
+Rp45
+sS'regions'
 p46
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p47
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p48
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p49
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+g3
+((lp47
+tp48
+Rp49
+sS'year'
 p50
-atp51
-Rp52
+V1995
+p51
+sS'species'
+p52
+g3
+((lp53
+tp54
+Rp55
 sb.

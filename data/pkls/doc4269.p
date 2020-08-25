@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,68 +10,68 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.ANTAGONIST'
+S"(8, u'\\\\banxi')"
 p9
-aS'Method.AGONIST'
+aS"(7, u'\\\\bdepressi')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(4, u'\\\\blocomot')"
-p15
-atp16
-Rp17
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht1b'
-p20
-aS'5ht1a'
-p21
-aS'5ht2'
-p22
-aS'5ht2a'
+((lp16
+(S'5ht1a'
+p17
+I147
+I158
+tp18
+a(S'5ht1a'
+p19
+I52
+I58
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-atp24
-Rp25
-sS'regions'
+g3
+((lp24
+S"(2, u'\\\\blabeling')"
+p25
+aS"(54, u'\\\\bautoradiography')"
 p26
+atp27
+Rp28
+sS'regions'
+p29
 g3
-((lp27
-tp28
-Rp29
-sS'year'
-p30
-V1996
+((lp30
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p31
-sS'agonists'
+aS"(7, u'(?i)\\\\b(entorhinals|entorhinal)\\\\b')"
 p32
-g3
-((lp33
-S"(147, u'\\\\bmdma')"
-p34
-aS"(11, u'\\\\bamphetamine')"
+atp33
+Rp34
+sS'year'
 p35
-aS"(67, u'\\\\bru ?24969')"
+V1992
 p36
-atp37
-Rp38
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+((lp38
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p39
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

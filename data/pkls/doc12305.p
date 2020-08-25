@@ -2,64 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(33, u'\\\\blocomot')"
+p12
+aS"(4, u'\\\\btreatment')"
 p13
-g3
-((lp14
-tp15
-Rp16
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht2c'
-p19
-aS'5ht2a'
-p20
-atp21
-Rp22
+((lp17
+(S'5ht3'
+p18
+I1094
+I1099
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
+g3
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+aS"(20, u'\\\\bondansetron')"
+p25
+aS"(12, u'\\\\bantagonist')"
+p26
+atp27
+Rp28
 sS'regions'
-p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
-p27
-V2008
-p28
-sS'agonists'
 p29
 g3
 ((lp30
-tp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p31
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p32
+atp33
+Rp34
+sS'year'
 p35
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2006
 p36
-atp37
-Rp38
+sS'species'
+p37
+g3
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

@@ -1,4 +1,0 @@
-Fan, P. (1994). "INHIBITION OF A 5-HT3 RECEPTOR-MEDIATED CURRENT BY THE SELECTIVE SEROTONIN UPTAKE INHIBITOR, FLUOXETINE." Neurosci Lett 173(1-2): 210-212.
-
-	The effect of the selective serotonin uptake inhibitor, fluoxetine, on the inward current mediated by 5-HT3 receptors was investigated with the whole-cell patch-clamp technique. Fluoxetine inhibited the peak 5-HT current with an IC50 value of 1.2 mu M. During continuous application of fluoxetine at concentrations of less than or equal to 1 mu M, there was a transient decrease in the fluoxetine-induced inhibition of 5-HT current. It is suggested that fluoxetine may have a short-lived action on 5-HT current and that the 5-HT3 receptor is a possible acting site for the therapeutic use of fluoxetine.
-

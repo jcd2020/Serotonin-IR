@@ -2,74 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
+S'Method.STIMULATION'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
+aS'Method.ANTAGONIST'
+p6
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p7
+atp8
+Rp9
 sS'topics'
+p10
+g3
+((lp11
+tp12
+Rp13
+sS'receptors'
 p14
 g3
 ((lp15
-S"(4, u'\\\\blocomot')"
+(S'5ht2a'
 p16
-atp17
-Rp18
-sS'receptors'
-p19
+I1934
+I1939
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
 g3
-((lp20
-S'5ht1b'
-p21
-aS'5ht1a'
+((lp21
+S"(13, u'\\\\bagonist')"
 p22
-atp23
-Rp24
+aS"(12, u'\\\\bantagonist')"
+p23
+atp24
+Rp25
 sS'regions'
-p25
+p26
 g3
-((lp26
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p27
-atp28
-Rp29
+((lp27
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p28
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p30
-V2004
-p31
-sS'agonists'
 p32
-g3
-((lp33
-S"(176, u'\\\\bdom')"
-p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
+V1995
+p33
 sS'species'
-p38
+p34
 g3
-((lp39
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+((lp35
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p36
+aS"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p37
+atp38
+Rp39
 sb.

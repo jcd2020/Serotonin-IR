@@ -2,66 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STAINING'
-p9
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p10
-atp11
-Rp12
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-tp15
-Rp16
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
 p17
-g3
-((lp18
-S'5ht2a'
+I1766
+I1772
+tp18
+a(S'5ht2a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
-p24
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I2121
+I2127
+tp20
+a(S'5ht2a'
+p21
+I1643
+I1649
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-atp26
-Rp27
-sS'year'
+g3
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+aS"(12, u'\\\\bantagonist')"
 p28
-V2007
-p29
-sS'agonists'
-p30
+atp29
+Rp30
+sS'regions'
+p31
 g3
-((lp31
-S"(176, u'\\\\bdom')"
-p32
-atp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp32
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p33
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p34
+atp35
+Rp36
+sS'year'
 p37
-atp38
-Rp39
+V2019
+p38
+sS'species'
+p39
+g3
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

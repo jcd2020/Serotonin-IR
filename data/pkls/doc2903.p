@@ -2,83 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(23, u'\\\\bantipsychotic')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht3'
+p16
+I150
+I155
+tp17
+a(S'5ht3'
 p18
-g3
-((lp19
-S'5ht7a'
+I422
+I427
+tp19
+a(S'5ht3'
 p20
-aS'5ht1a'
-p21
-aS'5ht2c'
+I652
+I657
+tp21
+a(S'5ht3'
 p22
-aS'5ht1d'
-p23
+I920
+I925
+tp23
 atp24
 Rp25
-sS'regions'
+sS'raw_text_methods'
 p26
 g3
 ((lp27
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+S"(41, u'\\\\bhaloperidol')"
 p28
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(20, u'\\\\bondansetron')"
 p29
-atp30
-Rp31
-sS'year'
+aS"(13, u'\\\\bagonist')"
+p30
+aS"(30, u'\\\\b2methyl')"
+p31
+aS"(28, u'\\\\bzacopride')"
 p32
-V1998
+aS"(40, u'\\\\bclozapine')"
 p33
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p34
-g3
-((lp35
-S"(45, u'\\\\bipsapirone')"
-p36
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+atp35
+Rp36
+sS'regions'
 p37
-atp38
-Rp39
-sS'species'
-p40
 g3
-((lp41
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp38
+S"(7, u'(?i)\\\\b(entorhinals|entorhinal)\\\\b')"
+p39
+atp40
+Rp41
+sS'year'
 p42
-aS"(5510, u'(?i)\\\\b(bays|bay)\\\\b')"
+V1991
 p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p44
-aS"(1883, u'(?i)\\\\b(calves|calf)\\\\b')"
-p45
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+g3
+((lp45
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
 atp47
 Rp48

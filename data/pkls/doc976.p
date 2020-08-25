@@ -1,0 +1,116 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(30, u'\\\\bpain')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1d'
+p16
+I241
+I249
+tp17
+a(S'5ht1b'
+p18
+I470
+I476
+tp19
+a(S'5ht1b'
+p20
+I241
+I247
+tp21
+a(S'5ht1b'
+p22
+I1630
+I1636
+tp23
+a(S'5ht1d'
+p24
+I470
+I478
+tp25
+a(S'5ht1b'
+p26
+I126
+I132
+tp27
+a(S'5ht1d'
+p28
+I1630
+I1638
+tp29
+a(S'5ht1b'
+p30
+I1698
+I1704
+tp31
+a(S'5ht1d'
+p32
+I126
+I134
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
+g3
+((lp37
+S"(13, u'\\\\bagonist')"
+p38
+aS"(6, u'\\\\bgr127935')"
+p39
+aS"(47, u'\\\\bsumatriptan')"
+p40
+aS"(12, u'\\\\bantagonist')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+tp46
+Rp47
+sS'year'
+p48
+V2001
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p52
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p53
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p54
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p55
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p56
+atp57
+Rp58
+sb.

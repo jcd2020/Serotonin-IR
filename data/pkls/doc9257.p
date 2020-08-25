@@ -2,74 +2,117 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+aS'Method.IMMUNOHISTOCHEMISTRY'
 p7
-g3
-((lp8
-tp9
+aS'Method.STAINING'
+p8
+atp9
 Rp10
 sS'topics'
 p11
 g3
 ((lp12
-S"(9, u'\\\\bdepress')"
+S"(4, u'\\\\btreatment')"
 p13
-aS"(3, u'\\\\bsleep')"
-p14
-atp15
-Rp16
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht1a'
-p19
-aS'5ht5'
+((lp17
+(S'5ht1a'
+p18
+I217
+I228
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
+I373
+I378
+tp21
+a(S'5ht1a'
+p22
+I34
+I39
+tp23
+a(S'5ht1a'
+p24
+I2053
+I2058
 tp25
-Rp26
-sS'year'
-p27
-V2008
+a(S'5ht1a'
+p26
+I516
+I521
+tp27
+a(S'5ht1a'
 p28
-sS'agonists'
-p29
-g3
-((lp30
-S"(176, u'\\\\bdom')"
-p31
-atp32
-Rp33
-sS'species'
+I2285
+I2290
+tp29
+a(S'5ht1a'
+p30
+I626
+I631
+tp31
+a(S'5ht1'
+p32
+I2537
+I2541
+tp33
+a(S'5ht1a'
 p34
-g3
-((lp35
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p36
-aS"(5765, u'(?i)\\\\b(grounds|ground)(-|\\\\s+)?(squirrels|squirrel)\\\\b')"
-p37
-aS"(6771, u'(?i)\\\\b(squirrels|squirrel)\\\\b')"
+I231
+I236
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
 p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp39
+S"(13, u'\\\\bagonist')"
 p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
 p41
-atp42
-Rp43
+aS"(3, u'\\\\bimmunoreactiv')"
+p42
+aS"(51, u'\\\\bway100635')"
+p43
+aS"(12, u'\\\\bantagonist')"
+p44
+atp45
+Rp46
+sS'regions'
+p47
+g3
+((lp48
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p49
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p50
+atp51
+Rp52
+sS'year'
+p53
+V2004
+p54
+sS'species'
+p55
+g3
+((lp56
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p57
+atp58
+Rp59
 sb.

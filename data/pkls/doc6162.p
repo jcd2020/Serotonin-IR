@@ -2,77 +2,83 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-tp14
-Rp15
+((lp9
+S"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
 sS'receptors'
-p16
+p13
 g3
-((lp17
-S'5ht7'
-p18
-aS'5ht1a'
+((lp14
+(S'5ht1a'
+p15
+I424
+I430
+tp16
+a(S'5ht1a'
+p17
+I1456
+I1462
+tp18
+a(S'5ht1a'
 p19
-aS'5ht3'
-p20
-aS'5ht2'
+I103
+I109
+tp20
+a(S'5ht1a'
 p21
-aS'5ht1'
-p22
-aS'5ht4a'
-p23
-aS'5ht2b'
-p24
-aS'5ht2c'
+I159
+I165
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-atp26
-Rp27
-sS'regions'
+g3
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+aS"(15, u'\\\\b8ohdpat')"
 p28
-g3
-((lp29
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p30
-aS"(6, u'(?i)\\\\b(rostrals|rostral)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)\\\\b')"
+atp29
+Rp30
+sS'regions'
 p31
-aS"(30, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(ambiguuses|ambiguus)\\\\b')"
-p32
-atp33
-Rp34
-sS'year'
-p35
-V2005
-p36
-sS'agonists'
-p37
 g3
-((lp38
-tp39
-Rp40
+((lp32
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p33
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p34
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p35
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
+p39
+V1990
+p40
 sS'species'
 p41
 g3
 ((lp42
-S"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
 atp44
 Rp45

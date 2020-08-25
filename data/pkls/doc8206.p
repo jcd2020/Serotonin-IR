@@ -2,74 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p10
-atp11
-Rp12
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(35, u'\\\\bstress')"
-p15
-aS"(16, u'\\\\bfeed')"
-p16
-atp17
-Rp18
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1'
+p17
+I1238
+I1243
+tp18
+a(S'5ht1'
 p19
-g3
-((lp20
-S'5ht1a'
+I1547
+I1552
+tp20
+a(S'5ht1'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I897
+I902
+tp22
+a(S'5ht1a'
+p23
+I1366
+I1372
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+g3
+((lp28
+S"(13, u'\\\\bagonist')"
+p29
+aS"(7, u'\\\\bpropranolol')"
+p30
+aS"(15, u'\\\\b8ohdpat')"
 p31
-V2009
+aS"(12, u'\\\\bantagonist')"
 p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(85, u'\\\\b8 ?oh ?dpat')"
+atp33
+Rp34
+sS'regions'
 p35
-atp36
-Rp37
-sS'species'
-p38
 g3
-((lp39
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+((lp36
+tp37
+Rp38
+sS'year'
+p39
+V1993
 p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p41
-atp42
-Rp43
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

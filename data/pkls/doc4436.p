@@ -2,72 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p11
-atp12
-Rp13
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-S"(26, u'\\\\bcardiovascular')"
-p16
-atp17
-Rp18
+((lp10
+tp11
+Rp12
 sS'receptors'
-p19
+p13
 g3
-((lp20
-S'5ht1a'
+((lp14
+(S'5ht1a'
+p15
+I823
+I829
+tp16
+a(S'5ht1a'
+p17
+I1062
+I1068
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-atp22
-Rp23
-sS'regions'
+g3
+((lp22
+S"(51, u'\\\\bway100635')"
+p23
+aS"(19, u'\\\\bpositron emission tomography')"
 p24
-g3
-((lp25
-S"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
+aS"(18, u'\\\\bimaging')"
+p25
+aS"(12, u'\\\\bantagonist')"
 p26
-aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p27
-atp28
-Rp29
+atp27
+Rp28
+sS'regions'
+p29
+g3
+((lp30
+tp31
+Rp32
 sS'year'
-p30
-V2012
-p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(21, u'\\\\bcannabidiol')"
+p33
+V2014
 p34
-atp35
-Rp36
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+((lp36
+tp37
+Rp38
 sb.

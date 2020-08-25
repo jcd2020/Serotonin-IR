@@ -2,66 +2,93 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(5, u'\\\\bcyanopindolol')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.KNOCKOUT'
+S"(29, u'\\\\bhyperactiv')"
 p10
-aS'Method.ANTAGONIST'
+aS"(33, u'\\\\blocomot')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht1b'
-p20
-aS'5ht1a'
+((lp16
+(S'5ht2a'
+p17
+I520
+I526
+tp18
+a(S'5ht2a'
+p19
+I242
+I248
+tp20
+a(S'5ht2a'
 p21
-aS'5ht1'
-p22
-atp23
-Rp24
-sS'regions'
+I50
+I56
+tp22
+a(S'5ht2a'
+p23
+I725
+I731
+tp24
+a(S'5ht2a'
 p25
-g3
-((lp26
-tp27
+I2110
+I2116
+tp26
+atp27
 Rp28
-sS'year'
+sS'raw_text_methods'
 p29
-V2014
-p30
-sS'agonists'
+g3
+((lp30
+S"(53, u'\\\\bketanserin')"
 p31
+aS"(9, u'\\\\britanserin')"
+p32
+aS"(12, u'\\\\bantagonist')"
+p33
+atp34
+Rp35
+sS'regions'
+p36
 g3
-((lp32
-tp33
-Rp34
+((lp37
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
+p41
+V1995
+p42
 sS'species'
-p35
+p43
 g3
-((lp36
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p37
-atp38
-Rp39
+((lp44
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p45
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p46
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

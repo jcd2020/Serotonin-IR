@@ -2,29 +2,31 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(129, u'\\\\brenzapride')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(5, u'\\\\bgastrointestin')"
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+aS"(5, u'\\\\btherap')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(2, u'\\\\bdisorder')"
 p15
 atp16
 Rp17
@@ -32,52 +34,46 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht5'
+(S'5ht2a'
 p20
-aS'5ht4'
-p21
-aS'5ht4a'
+I254
+I260
+tp21
+a(S'5ht1a'
 p22
-aS'5ht4b'
-p23
-aS'5ht4c'
-p24
-aS'5ht4e'
-p25
-atp26
-Rp27
-sS'regions'
+I235
+I241
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+S"(13, u'\\\\bagonist')"
 p28
-g3
-((lp29
-tp30
+aS"(12, u'\\\\bantagonist')"
+p29
+atp30
 Rp31
-sS'year'
+sS'regions'
 p32
-V2009
-p33
-sS'agonists'
-p34
 g3
-((lp35
-S"(203, u'\\\\brenzapride')"
+((lp33
+tp34
+Rp35
+sS'year'
 p36
-aS"(202, u'\\\\bprucalopride')"
+V2017
 p37
-atp38
-Rp39
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(2665, u'(?i)\\\\b(rays|ray)\\\\b')"
-p42
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p45
-atp46
-Rp47
+((lp39
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p40
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p41
+atp42
+Rp43
 sb.

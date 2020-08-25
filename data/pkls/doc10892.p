@@ -2,70 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+aS"(2, u'\\\\bdisorder')"
 p13
-g3
-((lp14
-tp15
-Rp16
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht1c'
-p19
-aS'5ht1a'
+((lp17
+(S'5ht1a'
+p18
+I641
+I647
+tp19
+a(S'5ht3'
 p20
-aS'5ht2'
-p21
+I652
+I657
+tp21
 atp22
 Rp23
-sS'regions'
+sS'raw_text_methods'
 p24
 g3
 ((lp25
-tp26
-Rp27
-sS'year'
-p28
-V1993
-p29
-sS'agonists'
+S"(13, u'\\\\bagonist')"
+p26
+aS"(12, u'\\\\bantagonist')"
+p27
+atp28
+Rp29
+sS'regions'
 p30
 g3
 ((lp31
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p32
-aS"(175, u'\\\\bdoi')"
-p33
-atp34
-Rp35
+tp32
+Rp33
+sS'year'
+p34
+V1997
+p35
 sS'species'
 p36
 g3
 ((lp37
-S"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+tp38
+Rp39
 sb.

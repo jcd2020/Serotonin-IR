@@ -2,72 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
+S'Method.STIMULATION'
+p5
+aS'Method.ANTAGONIST'
+p6
+aS'Method.AGONIST'
 p7
-g3
-((lp8
-tp9
-Rp10
+atp8
+Rp9
 sS'topics'
-p11
+p10
 g3
-((lp12
-tp13
-Rp14
+((lp11
+tp12
+Rp13
 sS'receptors'
-p15
+p14
 g3
-((lp16
-S'5ht1b'
-p17
+((lp15
+(S'5ht1a'
+p16
+I622
+I628
+tp17
 atp18
 Rp19
-sS'regions'
+sS'raw_text_methods'
 p20
 g3
 ((lp21
-S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p22
-aS"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p23
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p24
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p25
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+atp24
+Rp25
+sS'regions'
 p26
-aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p27
-aS"(90, u'(?i)\\\\b(tegmentums|tegmentum)\\\\b')"
-p28
-atp29
-Rp30
+g3
+((lp27
+tp28
+Rp29
 sS'year'
+p30
+V2004
 p31
-V1995
-p32
-sS'agonists'
-p33
-g3
-((lp34
-tp35
-Rp36
 sS'species'
-p37
+p32
 g3
-((lp38
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+((lp33
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p34
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

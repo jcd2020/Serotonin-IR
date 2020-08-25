@@ -1,0 +1,80 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2c'
+p15
+I1421
+I1427
+tp16
+a(S'5ht1b'
+p17
+I386
+I392
+tp18
+a(S'5ht2c'
+p19
+I386
+I394
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
+g3
+((lp24
+S"(1, u'\\\\bneuroimag')"
+p25
+aS"(13, u'\\\\bagonist')"
+p26
+aS"(18, u'\\\\bimaging')"
+p27
+aS"(33, u'\\\\bmcpp')"
+p28
+atp29
+Rp30
+sS'regions'
+p31
+g3
+((lp32
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p33
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p34
+atp35
+Rp36
+sS'year'
+p37
+V2006
+p38
+sS'species'
+p39
+g3
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
+sb.

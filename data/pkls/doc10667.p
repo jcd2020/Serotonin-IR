@@ -2,68 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(14, u'\\\\bcogniti')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
+aS"(17, u'\\\\balzheimer')"
+p13
+aS"(16, u'\\\\blearning')"
 p14
-atp15
-Rp16
+aS"(15, u'\\\\bmemory')"
+p15
+aS"(3, u'\\\\bclinical')"
+p16
+atp17
+Rp18
 sS'receptors'
-p17
-g3
-((lp18
-S'5ht1b'
 p19
-aS'5ht1d'
-p20
-atp21
-Rp22
-sS'regions'
+g3
+((lp20
+(S'5ht3'
+p21
+I850
+I855
+tp22
+a(S'5ht3'
 p23
-g3
-((lp24
-tp25
+I965
+I970
+tp24
+atp25
 Rp26
-sS'year'
+sS'raw_text_methods'
 p27
-V2000
-p28
-sS'agonists'
+g3
+((lp28
+S"(13, u'\\\\bagonist')"
 p29
+aS"(12, u'\\\\bantagonist')"
+p30
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp30
-S"(158, u'\\\\blsd')"
-p31
-aS"(96, u'\\\\bsumatriptan')"
-p32
-atp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp34
+tp35
+Rp36
+sS'year'
 p37
-aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
+V2016
 p38
-atp39
-Rp40
+sS'species'
+p39
+g3
+((lp40
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p41
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p42
+atp43
+Rp44
 sb.

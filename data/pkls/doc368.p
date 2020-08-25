@@ -2,66 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(177, u'\\\\bsb ?399885')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(29, u'\\\\bhyperactiv')"
 p10
-aS'Method.AGONIST'
+aS"(33, u'\\\\blocomot')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(7, u'\\\\bmemory')"
-p16
-atp17
-Rp18
+aS"(23, u'\\\\bantipsychotic')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
+p17
+I812
+I818
+tp18
+a(S'5ht2a'
 p19
-g3
-((lp20
-S'5ht6'
+I1216
+I1222
+tp20
+a(S'5ht2c'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I1216
+I1224
+tp22
+a(S'5ht2'
+p23
+I1848
+I1853
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp25
-tp26
-Rp27
-sS'year'
-p28
-V2019
+((lp28
+S"(41, u'\\\\bhaloperidol')"
 p29
-sS'agonists'
+aS"(40, u'\\\\bclozapine')"
 p30
-g3
-((lp31
-S"(149, u'\\\\bmem')"
+aS"(9, u'\\\\britanserin')"
+p31
+aS"(23, u'\\\\bmdl')"
 p32
-aS"(218, u'\\\\bemd ?386088')"
+aS"(12, u'\\\\bantagonist')"
 p33
 atp34
 Rp35
-sS'species'
+sS'regions'
 p36
 g3
 ((lp37
 tp38
 Rp39
+sS'year'
+p40
+V1995
+p41
+sS'species'
+p42
+g3
+((lp43
+tp44
+Rp45
 sb.

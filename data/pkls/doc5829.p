@@ -2,68 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
 p12
 g3
 ((lp13
-S"(9, u'\\\\bdepress')"
+(S'5ht2c'
 p14
-atp15
-Rp16
-sS'receptors'
-p17
-g3
-((lp18
-S'5ht1b'
-p19
+I1156
+I1164
+tp15
+a(S'5ht1b'
+p16
+I1156
+I1162
+tp17
+a(S'5ht1a'
+p18
+I1330
+I1336
+tp19
 atp20
 Rp21
-sS'regions'
+sS'raw_text_methods'
 p22
 g3
 ((lp23
-S"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p24
-atp25
-Rp26
-sS'year'
+aS"(16, u'\\\\bdiazepam')"
+p25
+aS"(32, u'\\\\blesions')"
+p26
+aS"(36, u'\\\\bbenzodiazepine')"
 p27
-V1997
-p28
-sS'agonists'
-p29
+atp28
+Rp29
+sS'regions'
+p30
 g3
-((lp30
-S"(149, u'\\\\bmem')"
-p31
-aS"(189, u'\\\\bethanol')"
+((lp31
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
 p32
 atp33
 Rp34
-sS'species'
+sS'year'
 p35
-g3
-((lp36
-S"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
+V2005
+p36
+sS'species'
 p37
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p38
-atp39
-Rp40
+g3
+((lp38
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p39
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p40
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

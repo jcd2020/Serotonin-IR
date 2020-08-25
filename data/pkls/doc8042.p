@@ -2,86 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(84, u'\\\\bsb ?206553')"
+S'Method.PET'
 p5
-aS"(110, u'\\\\bclozapine')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(2, u'\\\\bdisorder')"
 p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(15, u'\\\\bschizophreni')"
-p17
-aS"(4, u'\\\\blocomot')"
-p18
-atp19
-Rp20
+atp12
+Rp13
 sS'receptors'
-p21
+p14
 g3
-((lp22
-S'5ht2b'
-p23
-aS'5ht2c'
-p24
-atp25
-Rp26
-sS'regions'
-p27
+((lp15
+(S'5ht2c'
+p16
+I914
+I919
+tp17
+a(S'5ht2c'
+p18
+I210
+I215
+tp19
+a(S'5ht2c'
+p20
+I380
+I385
+tp21
+a(S'5ht2c'
+p22
+I54
+I59
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp28
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+((lp27
+S"(13, u'\\\\bagonist')"
+p28
+aS"(17, u'\\\\bpet')"
 p29
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
 p30
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+aS"(18, u'\\\\bimaging')"
 p31
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p32
-atp33
-Rp34
-sS'year'
-p35
-V2007
+atp32
+Rp33
+sS'regions'
+p34
+g3
+((lp35
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p36
-sS'agonists'
-p37
-g3
-((lp38
-S"(183, u'\\\\bway ?163909')"
+atp37
+Rp38
+sS'year'
 p39
-aS"(23, u'\\\\bclozapine')"
+V2014
 p40
-aS"(175, u'\\\\bdoi')"
-p41
-atp42
-Rp43
 sS'species'
-p44
+p41
 g3
-((lp45
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p46
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p47
-atp48
-Rp49
+((lp42
+tp43
+Rp44
 sb.

@@ -2,82 +2,107 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(42, u'\\\\bvortioxetine')"
+S'Method.AGONIST'
 p5
-aS"(91, u'\\\\bfluoxetine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+S"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I1497
+I1503
+tp16
+a(S'5ht1a'
+p17
+I711
+I717
+tp18
+a(S'5ht1a'
 p19
-g3
-((lp20
-S'5ht7'
+I268
+I274
+tp20
+a(S'5ht1a'
 p21
-aS'5ht3a'
-p22
-aS'5ht1a'
+I874
+I880
+tp22
+a(S'5ht1a'
 p23
-aS'5ht3'
-p24
-aS'5ht1b'
+I142
+I148
+tp24
+a(S'5ht1a'
 p25
-atp26
-Rp27
-sS'regions'
-p28
-g3
-((lp29
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1319
+I1325
+tp26
+a(S'5ht1a'
+p27
+I1426
+I1432
+tp28
+a(S'5ht1a'
+p29
+I1693
+I1699
+tp30
+a(S'5ht1a'
 p31
-atp32
-Rp33
-sS'year'
-p34
-V2013
+I471
+I477
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
 p35
-sS'agonists'
-p36
 g3
-((lp37
-S"(94, u'\\\\bvortioxetine')"
+((lp36
+S"(13, u'\\\\bagonist')"
+p37
+aS"(15, u'\\\\b8ohdpat')"
 p38
-aS"(39, u'\\\\bflesinoxan')"
+aS"(24, u'\\\\bgepirone')"
 p39
-aS"(194, u'\\\\bsr ?57227')"
-p40
-atp41
-Rp42
-sS'species'
-p43
+atp40
+Rp41
+sS'regions'
+p42
 g3
-((lp44
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp43
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p44
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p45
 atp46
 Rp47
+sS'year'
+p48
+V1990
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

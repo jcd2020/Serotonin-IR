@@ -2,82 +2,114 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(72, u'\\\\bagomelatine')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(5, u'\\\\btherap')"
 p10
-aS'Method.AGONIST'
+aS"(7, u'\\\\bdepressi')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(26, u'\\\\bbehav')"
 p14
-g3
-((lp15
-tp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht5'
-p20
-aS'5ht1a'
+((lp18
+(S'5ht7'
+p19
+I63
+I68
+tp20
+a(S'5ht7'
 p21
-aS'5ht2b'
-p22
-aS'5ht2c'
+I507
+I512
+tp22
+a(S'5ht6'
 p23
-aS'5ht2a'
-p24
-atp25
-Rp26
-sS'regions'
+I400
+I405
+tp24
+a(S'5ht7'
+p25
+I441
+I446
+tp26
+a(S'5ht6'
 p27
-g3
-((lp28
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I50
+I55
+tp28
+a(S'5ht7'
 p29
-aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
-p30
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+I1413
+I1418
+tp30
+a(S'5ht7'
 p31
-atp32
-Rp33
-sS'year'
-p34
-V2003
+I339
+I344
+tp32
+a(S'5ht6'
+p33
+I507
+I511
+tp34
+a(S'5ht6'
 p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(141, u'\\\\bro60 ?0175')"
-p38
+I326
+I331
+tp36
+a(S'5ht6'
+p37
+I1262
+I1267
+tp38
 atp39
 Rp40
-sS'species'
+sS'raw_text_methods'
 p41
 g3
 ((lp42
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+S"(12, u'\\\\bantagonist')"
 p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p45
-atp46
-Rp47
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
+p51
+V2019
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p55
+atp56
+Rp57
 sb.

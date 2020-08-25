@@ -2,76 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
-p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-aS"(16, u'\\\\bnad ?299')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.PET'
-p12
+p5
 aS'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p6
+atp7
+Rp8
 sS'topics'
-p16
+p9
 g3
-((lp17
-tp18
-Rp19
+((lp10
+tp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
+((lp14
+(S'5ht1a'
+p15
+I260
+I271
+tp16
+a(S'5ht1a'
+p17
+I1419
+I1425
+tp18
+a(S'5ht1a'
+p19
+I274
+I280
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
+g3
+((lp24
+S"(17, u'\\\\bpet')"
 p25
-g3
-((lp26
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
+p26
+aS"(12, u'\\\\bantagonist')"
 p27
 atp28
 Rp29
-sS'year'
+sS'regions'
 p30
-V1999
-p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(20, u'\\\\bbuspirone')"
-p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
+((lp31
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p32
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
+p36
+V2006
+p37
 sS'species'
 p38
 g3
 ((lp39
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p40
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
+tp40
+Rp41
 sb.

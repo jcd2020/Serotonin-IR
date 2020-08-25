@@ -1,0 +1,4 @@
+Dukat, M., et al. (2013). "2-Amino-6-chloro-3,4-dihydroquinazoline: A novel 5-HT3 receptor antagonist with antidepressant character." Bioorganic & Medicinal Chemistry Letters 23(21): 5945-5948.
+
+	2-Amino-6-chloro-3,4-dihydroquinazoline HCl (A6CDQ, 4) binds at 5-HT3 serotonin receptors and displays antidepressant-like action in the mouse tail suspension test (TST). Empirically, 4 was demonstrated to be a 5-HT3 receptor antagonist (two-electrode voltage clamp recordings using frog oocytes; IC50 = 0.26 mu M), and one that should readily penetrate the blood-brain barrier (log P = 1.86). 5-HT3 receptor antagonists represent a potential approach to the development of new antidepressants, and 4 is an example of a structurally novel 5-HT3 receptor antagonist that is active in a preclinical antidepressant model (i.e., the mouse TST). (C) 2013 Elsevier Ltd. All rights reserved.
+

@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,60 +10,83 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(1, u'\\\\bpatient')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-tp14
-Rp15
+aS"(13, u'\\\\bantidepress')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
 p16
-g3
-((lp17
-S'5ht1b'
+I944
+I950
+tp17
+a(S'5ht1a'
 p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p23
-atp24
-Rp25
-sS'year'
+I472
+I478
+tp19
+a(S'5ht1a'
+p20
+I387
+I398
+tp21
+a(S'5ht1a'
+p22
+I62
+I68
+tp23
+a(S'5ht1a'
+p24
+I907
+I913
+tp25
+a(S'5ht1a'
 p26
-V2015
-p27
-sS'agonists'
+I402
+I408
+tp27
+a(S'5ht1a'
 p28
+I680
+I686
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
+p32
 g3
-((lp29
-S"(96, u'\\\\bsumatriptan')"
-p30
-aS"(97, u'\\\\bzolmitriptan')"
-p31
-atp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+((lp33
+tp34
+Rp35
+sS'regions'
 p36
-aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
-p37
-aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
+g3
+((lp37
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p38
 atp39
 Rp40
+sS'year'
+p41
+V2002
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

@@ -2,76 +2,112 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
 p11
-g3
-((lp12
-S"(31, u'\\\\bobesity')"
+aS"(33, u'\\\\blocomot')"
+p12
+aS"(15, u'\\\\bmemory')"
 p13
-aS"(3, u'\\\\bsleep')"
-p14
-aS"(16, u'\\\\bfeed')"
-p15
-atp16
-Rp17
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht6'
 p18
-g3
-((lp19
-S'5ht7'
+I1604
+I1609
+tp19
+a(S'5ht6'
 p20
-aS'5ht1b'
-p21
-aS'5ht1a'
+I140
+I145
+tp21
+a(S'5ht6'
 p22
-aS'5ht2c'
-p23
-aS'5ht6'
+I1909
+I1914
+tp23
+a(S'5ht6'
 p24
-aS'5ht6a'
-p25
-aS'5ht2a'
+I2359
+I2364
+tp25
+a(S'5ht6'
 p26
-atp27
-Rp28
-sS'regions'
-p29
-g3
-((lp30
+I2149
+I2154
+tp27
+a(S'5ht6'
+p28
+I1056
+I1061
+tp29
+a(S'5ht6'
+p30
+I246
+I251
 tp31
-Rp32
-sS'year'
-p33
-V2012
-p34
-sS'agonists'
-p35
+a(S'5ht6'
+p32
+I52
+I57
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
 g3
-((lp36
-tp37
-Rp38
-sS'species'
+((lp37
+S"(32, u'\\\\blesions')"
+p38
+aS"(12, u'\\\\bantagonist')"
 p39
-g3
-((lp40
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
-p41
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+atp40
+Rp41
+sS'regions'
 p42
-atp43
-Rp44
+g3
+((lp43
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p44
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p45
+aS"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p46
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p47
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
+p51
+V2002
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p55
+atp56
+Rp57
 sb.

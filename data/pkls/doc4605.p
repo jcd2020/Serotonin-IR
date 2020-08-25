@@ -2,80 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(5, u'\\\\bcyanopindolol')"
-p5
-aS"(193, u'\\\\bmesulergine')"
-p6
-aS"(34, u'\\\\bmetergoline')"
-p7
-aS"(117, u'\\\\bketanserin')"
-p8
-aS"(22, u'\\\\bpropranolol')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p17
+p9
 g3
-((lp18
-tp19
-Rp20
+((lp10
+S"(17, u'\\\\balzheimer')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I1605
+I1616
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
 g3
 ((lp22
-S'5ht1b'
+S"(13, u'\\\\bagonist')"
 p23
-aS'5ht5'
+aS"(12, u'\\\\bantagonist')"
 p24
-aS'5ht2c'
-p25
-aS'5ht2a'
-p26
-aS'5ht1a'
-p27
-aS'5ht2'
-p28
-atp29
-Rp30
+atp25
+Rp26
 sS'regions'
-p31
+p27
 g3
-((lp32
-S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p33
-atp34
-Rp35
+((lp28
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p29
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p36
-V1995
-p37
-sS'agonists'
-p38
-g3
-((lp39
-S"(165, u'\\\\bmesulergine')"
-p40
-atp41
-Rp42
+p33
+V2016
+p34
 sS'species'
-p43
+p35
 g3
-((lp44
-tp45
-Rp46
+((lp36
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p37
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p38
+atp39
+Rp40
 sb.

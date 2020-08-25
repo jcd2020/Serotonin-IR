@@ -2,80 +2,127 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-aS'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(17, u'\\\\balzheimer')"
 p13
-g3
-((lp14
-S"(33, u'\\\\balzheimers')"
-p15
-aS"(8, u'\\\\blearning')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-aS"(7, u'\\\\bmemory')"
-p18
-atp19
-Rp20
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1a'
+p19
+I27
+I38
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-S'5ht4'
+I235
+I246
+tp22
+a(S'5ht1'
 p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p28
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I1054
+I1059
+tp24
+a(S'5ht1'
+p25
+I1553
+I1558
+tp26
+a(S'5ht1'
+p27
+I1847
+I1852
+tp28
+a(S'5ht1'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V2014
+I1747
+I1752
+tp30
+a(S'5ht1'
+p31
+I530
+I535
+tp32
+a(S'5ht1'
 p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(149, u'\\\\bmem')"
-p36
-atp37
-Rp38
-sS'species'
+I1701
+I1706
+tp34
+a(S'5ht1'
+p35
+I258
+I263
+tp36
+a(S'5ht1'
+p37
+I301
+I306
+tp38
+a(S'5ht1'
 p39
-g3
-((lp40
-S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
-p41
-aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
-p42
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
+I813
+I818
+tp40
+atp41
+Rp42
+sS'raw_text_methods'
 p43
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p44
-atp45
-Rp46
+g3
+((lp44
+S"(13, u'\\\\bagonist')"
+p45
+aS"(11, u'\\\\bfluoxetine')"
+p46
+aS"(49, u'\\\\bdoi')"
+p47
+atp48
+Rp49
+sS'regions'
+p50
+g3
+((lp51
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p52
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p53
+atp54
+Rp55
+sS'year'
+p56
+V2012
+p57
+sS'species'
+p58
+g3
+((lp59
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p60
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p61
+atp62
+Rp63
 sb.

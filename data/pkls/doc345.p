@@ -2,64 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.IMMUNOHISTOCHEMISTRY'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(6, u'\\\\bcognit')"
-p14
-aS"(35, u'\\\\bstress')"
-p15
-atp16
-Rp17
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(3, u'\\\\bclinical')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
+p16
+I664
+I670
+tp17
+a(S'5ht1'
 p18
-g3
-((lp19
-S'5ht2a'
+I648
+I654
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
+I648
+I654
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp24
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
+((lp25
+S"(17, u'\\\\bpet')"
+p26
+aS"(18, u'\\\\bimaging')"
+p27
+aS"(54, u'\\\\bautoradiography')"
 p28
-V2010
-p29
-sS'agonists'
-p30
+atp29
+Rp30
+sS'regions'
+p31
 g3
-((lp31
-tp32
-Rp33
-sS'species'
+((lp32
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p33
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p34
+atp35
+Rp36
+sS'year'
+p37
+V1997
+p38
+sS'species'
+p39
 g3
-((lp35
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p36
-atp37
-Rp38
+((lp40
+tp41
+Rp42
 sb.

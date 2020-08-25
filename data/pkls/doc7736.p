@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,62 +10,62 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-tp9
-Rp10
-sS'topics'
+S"(7, u'\\\\bdepressi')"
+p9
+aS"(20, u'\\\\bmood')"
+p10
+aS"(4, u'\\\\btreatment')"
 p11
-g3
-((lp12
-S"(8, u'\\\\blearning')"
-p13
-aS"(7, u'\\\\bmemory')"
-p14
-atp15
-Rp16
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
-p17
+p15
 g3
-((lp18
-S'5ht2'
+((lp16
+(S'5ht2a'
+p17
+I978
+I984
+tp18
+a(S'5ht2a'
 p19
-aS'5ht2a'
-p20
+I41
+I47
+tp20
 atp21
 Rp22
-sS'regions'
+sS'raw_text_methods'
 p23
 g3
 ((lp24
-S"(235, u'(?i)\\\\b(diagonals|diagonal)(-|\\\\s+)?(bands|band)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(brocas|broca)\\\\b')"
+S"(38, u'\\\\bssri')"
 p25
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p26
 atp27
 Rp28
-sS'year'
+sS'regions'
 p29
-V2004
-p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(149, u'\\\\bmem')"
+((lp30
+tp31
+Rp32
+sS'year'
 p33
-atp34
-Rp35
+V2005
+p34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

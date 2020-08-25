@@ -2,80 +2,109 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(129, u'\\\\brenzapride')"
+S'Method.ANTAGONIST'
 p5
-aS"(14, u'\\\\bmethiothepin')"
+aS'Method.AGONIST'
 p6
-aS"(124, u'\\\\bondansetron')"
-p7
-aS"(125, u'\\\\btropisetron')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-tp13
-Rp14
+atp7
+Rp8
 sS'topics'
-p15
+p9
 g3
-((lp16
-S"(4, u'\\\\blocomot')"
-p17
-atp18
-Rp19
+((lp10
+S"(13, u'\\\\bantidepress')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1b'
+p16
+I761
+I767
+tp17
+a(S'5ht1d'
+p18
+I646
+I652
+tp19
+a(S'5ht1b'
 p20
-g3
-((lp21
-S'5ht3'
+I119
+I125
+tp21
+a(S'5ht2a'
 p22
-aS'5ht4'
-p23
-aS'5ht3a'
+I611
+I617
+tp23
+a(S'5ht2a'
 p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p29
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+I898
+I904
+tp25
+a(S'5ht1d'
+p26
+I761
+I768
+tp27
+a(S'5ht2'
+p28
+I119
+I128
+tp29
+a(S'5ht1d'
 p30
-atp31
-Rp32
-sS'year'
-p33
-V1996
-p34
-sS'agonists'
-p35
+I119
+I127
+tp31
+a(S'5ht2a'
+p32
+I863
+I869
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
 g3
-((lp36
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p37
-aS"(203, u'\\\\brenzapride')"
+((lp37
+S"(13, u'\\\\bagonist')"
 p38
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+aS"(47, u'\\\\bsumatriptan')"
 p39
-atp40
-Rp41
-sS'species'
-p42
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
 g3
-((lp43
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+((lp44
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V2001
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p52
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p53
+atp54
+Rp55
 sb.

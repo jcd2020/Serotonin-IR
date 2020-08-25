@@ -1,0 +1,66 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2'
+p15
+I1273
+I1278
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+S"(53, u'\\\\bketanserin')"
+p21
+aS"(17, u'\\\\bpet')"
+p22
+aS"(18, u'\\\\bimaging')"
+p23
+aS"(12, u'\\\\bantagonist')"
+p24
+atp25
+Rp26
+sS'regions'
+p27
+g3
+((lp28
+tp29
+Rp30
+sS'year'
+p31
+V2002
+p32
+sS'species'
+p33
+g3
+((lp34
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p35
+atp36
+Rp37
+sb.

@@ -2,74 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
+S'Method.STIMULATION'
 p5
-aS"(52, u'\\\\bmdl ?100907')"
+aS'Method.ANTAGONIST'
 p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+aS'Method.AGONIST'
+p7
+atp8
+Rp9
 sS'topics'
+p10
+g3
+((lp11
+S"(26, u'\\\\bbehav')"
+p12
+aS"(9, u'\\\\bstress')"
+p13
+aS"(35, u'\\\\bnocicept')"
 p14
-g3
-((lp15
-tp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp18
+(S'5ht1b'
+p19
+I1637
+I1643
+tp20
+a(S'5ht1d'
+p21
+I1637
+I1644
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-atp26
-Rp27
-sS'year'
+g3
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+aS"(18, u'\\\\bimaging')"
 p28
-V1999
+aS"(12, u'\\\\bantagonist')"
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(23, u'\\\\bclozapine')"
+atp30
+Rp31
+sS'regions'
 p32
-atp33
-Rp34
-sS'species'
-p35
 g3
-((lp36
-S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
+((lp33
+tp34
+Rp35
+sS'year'
+p36
+V2013
 p37
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+sS'species'
 p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
+g3
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p41
-atp42
-Rp43
+atp41
+Rp42
 sb.

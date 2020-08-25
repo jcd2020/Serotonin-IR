@@ -2,72 +2,112 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
+S'Method.STIMULATION'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+aS'Method.ANTAGONIST'
+p6
+aS'Method.AGONIST'
+p7
+atp8
+Rp9
 sS'topics'
-p13
+p10
 g3
-((lp14
-tp15
+((lp11
+S"(5, u'\\\\btherap')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
 Rp16
 sS'receptors'
 p17
 g3
 ((lp18
-S'5ht4'
+(S'5ht7'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(363, u'(?i)\\\\b(cranials|cranial)(-|\\\\s+)?(nerve|nerves)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
+I799
+I804
+tp20
+a(S'5ht1a'
+p21
+I972
+I978
+tp22
+a(S'5ht2'
+p23
+I1799
+I1804
+tp24
+a(S'5ht2'
+p25
+I1358
+I1363
+tp26
+a(S'5ht1a'
 p27
-V1994
-p28
-sS'agonists'
+I98
+I104
+tp28
+a(S'5ht2'
 p29
-g3
-((lp30
-S"(220, u'\\\\b5 ?methoxytryptamine')"
+I77
+I82
+tp30
+a(S'5ht2'
 p31
-aS"(197, u'\\\\bbimu ?8')"
-p32
-aS"(43, u'\\\\bhaloperidol')"
+I1897
+I1902
+tp32
+a(S'5ht2'
 p33
-atp34
-Rp35
-sS'species'
-p36
+I422
+I427
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
+p37
 g3
-((lp37
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p38
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+((lp38
+S"(53, u'\\\\bketanserin')"
 p39
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+aS"(22, u'\\\\bbuspirone')"
 p40
-atp41
-Rp42
+aS"(15, u'\\\\b8ohdpat')"
+p41
+aS"(13, u'\\\\bagonist')"
+p42
+aS"(24, u'\\\\bgepirone')"
+p43
+aS"(12, u'\\\\bantagonist')"
+p44
+atp45
+Rp46
+sS'regions'
+p47
+g3
+((lp48
+tp49
+Rp50
+sS'year'
+p51
+V1991
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p55
+atp56
+Rp57
 sb.

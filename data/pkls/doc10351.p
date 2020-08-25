@@ -2,51 +2,52 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\bmetergoline')"
+S'Method.STAINING'
 p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(10, u'\\\\biodocyanopindolol')"
-p7
-aS"(22, u'\\\\bpropranolol')"
-p8
-aS"(203, u'\\\\btfmpp')"
-p9
-aS"(14, u'\\\\bmethiothepin')"
-p10
-aS"(194, u'\\\\bmethysergide')"
-p11
-aS"(119, u'\\\\britanserin')"
-p12
-atp13
-Rp14
-sS'methods'
-p15
-g3
-((lp16
-S'Method.ANTAGONIST'
-p17
 aS'Method.AGONIST'
-p18
-atp19
-Rp20
+p6
+atp7
+Rp8
 sS'topics'
-p21
+p9
 g3
-((lp22
-tp23
-Rp24
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(15, u'\\\\bmemory')"
+p13
+aS"(9, u'\\\\bstress')"
+p14
+aS"(2, u'\\\\bdisorder')"
+p15
+atp16
+Rp17
 sS'receptors'
-p25
+p18
 g3
-((lp26
-S'5ht1b'
+((lp19
+(S'5ht2c'
+p20
+I371
+I377
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+aS"(43, u'\\\\bagomelatine')"
 p27
 atp28
 Rp29
@@ -54,38 +55,18 @@ sS'regions'
 p30
 g3
 ((lp31
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p32
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p33
-atp34
-Rp35
+atp33
+Rp34
 sS'year'
+p35
+V2015
 p36
-V1994
-p37
-sS'agonists'
-p38
-g3
-((lp39
-S"(192, u'\\\\bquipazine')"
-p40
-aS"(178, u'\\\\btfmpp')"
-p41
-aS"(53, u'\\\\bmethysergide')"
-p42
-aS"(155, u'\\\\bmcpp')"
-p43
-aS"(67, u'\\\\bru ?24969')"
-p44
-atp45
-Rp46
 sS'species'
-p47
+p37
 g3
-((lp48
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p49
-atp50
-Rp51
+((lp38
+tp39
+Rp40
 sb.

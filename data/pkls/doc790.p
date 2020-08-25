@@ -2,70 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STIMULATION'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(33, u'\\\\blocomot')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(16, u'\\\\blearning')"
+p12
+aS"(26, u'\\\\bbehav')"
 p13
-g3
-((lp14
-S"(21, u'\\\\bpain')"
-p15
-atp16
-Rp17
+aS"(15, u'\\\\bmemory')"
+p14
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht1b'
-p20
-aS'5ht1'
+((lp18
+(S'5ht1a'
+p19
+I248
+I254
+tp20
+a(S'5ht1a'
 p21
-aS'5ht1d'
-p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(374, u'(?i)\\\\b(duras|dura)(-|\\\\s+)?(maters|mater)\\\\b')"
+I955
+I961
+tp22
+a(S'5ht1a'
+p23
+I58
+I64
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-aS"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
-p31
-V2004
+g3
+((lp28
+S"(12, u'\\\\bantagonist')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-tp35
-Rp36
-sS'species'
+((lp33
+tp34
+Rp35
+sS'year'
+p36
+V1997
 p37
+sS'species'
+p38
 g3
-((lp38
-S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
-p39
-atp40
-Rp41
+((lp39
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p40
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

@@ -2,78 +2,119 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(178, u'\\\\bro 04 ?6790')"
+S'Method.KNOCKDOWN'
 p5
-aS"(175, u'\\\\bsb ?271046')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(25, u'\\\\bsocial')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+aS"(13, u'\\\\bantidepress')"
 p14
-g3
-((lp15
-S"(8, u'\\\\blearning')"
+aS"(9, u'\\\\bstress')"
+p15
+aS"(20, u'\\\\bmood')"
 p16
-aS"(6, u'\\\\bcognit')"
+aS"(1, u'\\\\bpatient')"
 p17
-atp18
-Rp19
+aS"(4, u'\\\\btreatment')"
+p18
+atp19
+Rp20
 sS'receptors'
-p20
+p21
 g3
-((lp21
-S'5ht6'
-p22
-aS'5ht6a'
+((lp22
+(S'5ht1a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
+I49
+I55
+tp24
+a(S'5ht1a'
+p25
+I1255
+I1261
+tp26
+a(S'5ht1a'
+p27
+I828
+I834
 tp28
-Rp29
-sS'year'
-p30
-V2003
+a(S'5ht1a'
+p29
+I1349
+I1355
+tp30
+a(S'5ht1a'
 p31
-sS'agonists'
-p32
-g3
-((lp33
+I1538
+I1544
+tp32
+a(S'5ht1a'
+p33
+I1126
+I1132
 tp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p38
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+a(S'5ht1a'
+p35
+I1028
+I1034
+tp36
+atp37
+Rp38
+sS'raw_text_methods'
 p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+g3
+((lp40
+S"(14, u'\\\\bknockdown')"
 p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
 p42
-aS"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+aS"(13, u'\\\\bagonist')"
 p43
-atp44
-Rp45
+aS"(11, u'\\\\bfluoxetine')"
+p44
+aS"(38, u'\\\\bssri')"
+p45
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p46
+atp47
+Rp48
+sS'regions'
+p49
+g3
+((lp50
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p51
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p52
+atp53
+Rp54
+sS'year'
+p55
+V2015
+p56
+sS'species'
+p57
+g3
+((lp58
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p59
+atp60
+Rp61
 sb.

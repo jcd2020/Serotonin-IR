@@ -2,86 +2,63 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\bpizotifen')"
-p5
-aS"(131, u'\\\\bm1')"
-p6
-aS"(194, u'\\\\bmethysergide')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p15
+p9
 g3
-((lp16
-tp17
-Rp18
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1a'
-p21
-aS'5ht2b'
+((lp15
+(S'5ht1a'
+p16
+I1237
+I1243
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(13, u'\\\\bagonist')"
 p22
-aS'5ht2c'
+aS"(12, u'\\\\bantagonist')"
 p23
-aS'5ht2'
-p24
-aS'5ht2a'
-p25
-atp26
-Rp27
+atp24
+Rp25
 sS'regions'
-p28
+p26
 g3
-((lp29
-tp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
-V2015
-p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(140, u'\\\\bbw ?723c86')"
-p36
-aS"(53, u'\\\\bmethysergide')"
-p37
-aS"(155, u'\\\\bmcpp')"
-p38
-atp39
-Rp40
+p30
+V1998
+p31
 sS'species'
-p41
+p32
 g3
-((lp42
-S"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p43
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p44
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p45
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p46
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p47
-atp48
-Rp49
+((lp33
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
 sb.

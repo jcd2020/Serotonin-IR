@@ -1,0 +1,85 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
+p13
+g3
+((lp14
+(S'5ht3'
+p15
+I770
+I775
+tp16
+a(S'5ht1a'
+p17
+I741
+I747
+tp18
+a(S'5ht3'
+p19
+I664
+I669
+tp20
+a(S'5ht3'
+p21
+I1071
+I1076
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+aS"(46, u'\\\\bspiperone')"
+p28
+aS"(20, u'\\\\bondansetron')"
+p29
+aS"(53, u'\\\\bketanserin')"
+p30
+aS"(12, u'\\\\bantagonist')"
+p31
+atp32
+Rp33
+sS'regions'
+p34
+g3
+((lp35
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p36
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p37
+atp38
+Rp39
+sS'year'
+p40
+V1992
+p41
+sS'species'
+p42
+g3
+((lp43
+tp44
+Rp45
+sb.

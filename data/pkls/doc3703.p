@@ -1,0 +1,83 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(25, u'\\\\bsocial')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
+p16
+I1080
+I1085
+tp17
+a(S'5ht2a'
+p18
+I474
+I479
+tp19
+a(S'5ht2a'
+p20
+I960
+I965
+tp21
+a(S'5ht2a'
+p22
+I758
+I763
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+S"(17, u'\\\\bpet')"
+p28
+aS"(19, u'\\\\bpositron emission tomography')"
+p29
+atp30
+Rp31
+sS'regions'
+p32
+g3
+((lp33
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p34
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p35
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
+p39
+V2010
+p40
+sS'species'
+p41
+g3
+((lp42
+tp43
+Rp44
+sb.

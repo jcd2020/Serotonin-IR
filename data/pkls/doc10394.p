@@ -2,64 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(14, u'\\\\bcogniti')"
 p12
-g3
-((lp13
-tp14
-Rp15
+aS"(1, u'\\\\bpatient')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
-S'5ht1b'
-p18
-aS'5ht1d'
+((lp18
+(S'5ht2a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
+I1129
+I1135
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp23
-tp24
-Rp25
-sS'year'
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(17, u'\\\\bpet')"
 p26
-V1997
+aS"(19, u'\\\\bpositron emission tomography')"
 p27
-sS'agonists'
+aS"(18, u'\\\\bimaging')"
 p28
-g3
-((lp29
-S"(96, u'\\\\bsumatriptan')"
-p30
-aS"(97, u'\\\\bzolmitriptan')"
+atp29
+Rp30
+sS'regions'
 p31
-atp32
-Rp33
-sS'species'
-p34
 g3
-((lp35
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+((lp32
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
 p36
-atp37
-Rp38
+V2011
+p37
+sS'species'
+p38
+g3
+((lp39
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p40
+atp41
+Rp42
 sb.

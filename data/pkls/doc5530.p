@@ -2,68 +2,86 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.AGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+aS'Method.ANTAGONIST'
+p7
+atp8
+Rp9
 sS'topics'
-p14
+p10
 g3
-((lp15
-tp16
-Rp17
+((lp11
+S"(26, u'\\\\bbehav')"
+p12
+aS"(33, u'\\\\blocomot')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht1a'
+I1365
+I1371
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
+I946
+I952
+tp21
+a(S'5ht1a'
+p22
+I1134
+I1140
+tp23
+a(S'5ht1a'
+p24
+I336
+I342
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
 g3
-((lp24
-S"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
-p25
-aS"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
-p26
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
+((lp29
+S"(13, u'\\\\bagonist')"
 p30
-V2001
+aS"(15, u'\\\\b8ohdpat')"
 p31
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p32
+atp33
+Rp34
+sS'regions'
+p35
 g3
-((lp33
-tp34
-Rp35
+((lp36
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p37
+atp38
+Rp39
+sS'year'
+p40
+V2002
+p41
 sS'species'
-p36
+p42
 g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

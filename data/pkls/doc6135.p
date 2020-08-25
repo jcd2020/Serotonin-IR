@@ -2,68 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
-aS"(20, u'\\\\bpindobind')"
-p6
-aS"(119, u'\\\\britanserin')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-tp12
-Rp13
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(19, u'\\\\bpsychosis')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+aS"(23, u'\\\\bantipsychotic')"
 p14
-g3
-((lp15
-tp16
-Rp17
+aS"(5, u'\\\\btherap')"
+p15
+aS"(18, u'\\\\bavoidan')"
+p16
+aS"(4, u'\\\\btreatment')"
+p17
+atp18
+Rp19
 sS'receptors'
-p18
-g3
-((lp19
-S'5ht1a'
 p20
-aS'5ht2'
-p21
-atp22
-Rp23
-sS'regions'
-p24
 g3
-((lp25
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+((lp21
+(S'5ht2a'
+p22
+I1027
+I1033
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-aS"(43, u'(?i)\\\\b(vestibulars|vestibular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V1993
-p31
-sS'agonists'
+g3
+((lp27
+S"(41, u'\\\\bhaloperidol')"
+p28
+aS"(12, u'\\\\bantagonist')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
 g3
 ((lp33
 tp34
 Rp35
-sS'species'
+sS'year'
 p36
-g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2012
+p37
+sS'species'
 p38
-atp39
-Rp40
+g3
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

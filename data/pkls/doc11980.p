@@ -2,72 +2,116 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(20, u'\\\\bmood')"
 p12
-g3
-((lp13
-S"(35, u'\\\\bstress')"
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(2, u'\\\\bdisorder')"
 p14
-aS"(1, u'\\\\bmood')"
-p15
-atp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp18
+(S'5ht1a'
+p19
+I1649
+I1655
+tp20
+a(S'5ht1a'
+p21
+I1901
+I1907
+tp22
+a(S'5ht1a'
 p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
+I1516
+I1522
+tp24
+a(S'5ht1a'
+p25
+I437
+I443
+tp26
+a(S'5ht1a'
 p27
-V2018
-p28
-sS'agonists'
+I296
+I302
+tp28
+a(S'5ht1a'
 p29
-g3
-((lp30
-S"(175, u'\\\\bdoi')"
+I1261
+I1267
+tp30
+a(S'5ht1a'
 p31
-atp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(6580, u'(?i)\\\\b(dams|dam)\\\\b')"
-p36
-aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+I875
+I881
+tp32
+a(S'5ht1a'
+p33
+I669
+I675
+tp34
+a(S'5ht1a'
+p35
+I573
+I579
+tp36
+a(S'5ht1a'
 p37
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
-p40
-atp41
-Rp42
+I282
+I293
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
+p41
+g3
+((lp42
+S"(13, u'\\\\bagonist')"
+p43
+aS"(38, u'\\\\bssri')"
+p44
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p45
+atp46
+Rp47
+sS'regions'
+p48
+g3
+((lp49
+tp50
+Rp51
+sS'year'
+p52
+V2009
+p53
+sS'species'
+p54
+g3
+((lp55
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p56
+atp57
+Rp58
 sb.

@@ -2,74 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.PET'
 p5
-aS"(123, u'\\\\bgranisetron')"
-p6
-aS"(125, u'\\\\btropisetron')"
-p7
-aS"(128, u'\\\\bmetoclopramide')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I879
+I890
+tp17
+a(S'5ht1a'
+p18
+I893
+I899
+tp19
+a(S'5ht1'
 p20
-g3
-((lp21
-S'5ht3'
+I893
+I899
+tp21
+a(S'5ht2a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
+I913
+I919
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp26
-tp27
-Rp28
-sS'year'
+((lp27
+S"(19, u'\\\\bpositron emission tomography')"
+p28
+aS"(18, u'\\\\bimaging')"
 p29
-V1997
-p30
-sS'agonists'
-p31
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp32
-S"(209, u'\\\\bmetoclopramide')"
-p33
-atp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp33
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p34
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
 p38
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+V2019
 p39
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+sS'species'
 p40
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p41
-atp42
+g3
+((lp41
+tp42
 Rp43
 sb.

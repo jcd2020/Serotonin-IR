@@ -2,70 +2,78 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
 p12
 g3
 ((lp13
-S"(30, u'\\\\bparkinsons')"
+(S'5ht1b'
 p14
-atp15
-Rp16
-sS'receptors'
-p17
-g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I238
+I244
+tp15
+a(S'5ht1b'
+p16
+I965
+I971
+tp17
+a(S'5ht1b'
+p18
+I898
+I904
+tp19
+a(S'5ht1d'
+p20
+I238
+I246
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-aS"(310, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)\\\\b')"
-p25
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
-p29
-V2009
-p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(85, u'\\\\b8 ?oh ?dpat')"
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+aS"(47, u'\\\\bsumatriptan')"
+p27
+atp28
+Rp29
+sS'regions'
+p30
+g3
+((lp31
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p32
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p33
 atp34
 Rp35
-sS'species'
+sS'year'
 p36
-g3
-((lp37
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+V2002
+p37
+sS'species'
 p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+g3
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

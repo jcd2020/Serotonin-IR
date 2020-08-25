@@ -2,80 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\bzacopride')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-tp10
-Rp11
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-tp14
-Rp15
+((lp10
+S"(7, u'\\\\bdepressi')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1'
 p16
-g3
-((lp17
-S'5ht3'
+I398
+I403
+tp17
+a(S'5ht1b'
 p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
-p23
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p24
-aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p25
-aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
+I709
+I715
+tp19
+a(S'5ht1b'
+p20
+I558
+I564
+tp21
+a(S'5ht1b'
+p22
+I1268
+I1274
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p27
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+g3
+((lp27
+S"(13, u'\\\\bagonist')"
 p28
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p29
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
-p33
-V1992
+atp30
+Rp31
+sS'regions'
+p32
+g3
+((lp33
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(208, u'\\\\bzacopride')"
+atp35
+Rp36
+sS'year'
 p37
-aS"(149, u'\\\\bmem')"
+V2004
 p38
-atp39
-Rp40
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

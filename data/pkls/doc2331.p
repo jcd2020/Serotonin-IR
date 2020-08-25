@@ -2,72 +2,118 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.ANTAGONIST'
 p5
-aS"(17, u'\\\\bnan ?190')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(1, u'\\\\bpatient')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(5, u'\\\\btherap')"
+p13
+aS"(4, u'\\\\btreatment')"
 p14
-g3
-((lp15
-S"(4, u'\\\\blocomot')"
-p16
-atp17
-Rp18
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht6'
 p19
-g3
-((lp20
-S'5ht1a'
+I1967
+I1972
+tp20
+a(S'5ht3a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
+I1404
+I1410
+tp22
+a(S'5ht2a'
+p23
+I1337
+I1343
+tp24
+a(S'5ht2c'
+p25
+I1348
+I1354
 tp26
-Rp27
-sS'year'
-p28
-V2003
+a(S'5ht6'
+p27
+I1289
+I1294
+tp28
+a(S'5ht2b'
 p29
-sS'agonists'
-p30
-g3
-((lp31
+I1186
+I1192
+tp30
+a(S'5ht2a'
+p31
+I1623
+I1629
 tp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(3883, u'(?i)\\\\b(teleosts|teleost)\\\\b')"
-p36
-aS"(808, u'(?i)\\\\b(chinooks|chinook)\\\\b')"
+a(S'5ht6'
+p33
+I1125
+I1130
+tp34
+a(S'5ht2a'
+p35
+I1741
+I1747
+tp36
+a(S'5ht3a'
 p37
-aS"(809, u'(?i)\\\\b(chinooks|chinook)(-|\\\\s+)?(salmon|salmon)\\\\b')"
-p38
-aS"(812, u'(?i)\\\\b(oncorhynchuses|oncorhynchus)(-|\\\\s+)?(tshawytschas|tshawytscha)\\\\b')"
-p39
-aS"(6399, u'(?i)\\\\b(salmon|salmon)\\\\b')"
-p40
-atp41
-Rp42
+I1114
+I1120
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
+p41
+g3
+((lp42
+S"(13, u'\\\\bagonist')"
+p43
+aS"(27, u'\\\\blsd')"
+p44
+aS"(49, u'\\\\bdoi')"
+p45
+aS"(12, u'\\\\bantagonist')"
+p46
+atp47
+Rp48
+sS'regions'
+p49
+g3
+((lp50
+tp51
+Rp52
+sS'year'
+p53
+V2016
+p54
+sS'species'
+p55
+g3
+((lp56
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p57
+atp58
+Rp59
 sb.

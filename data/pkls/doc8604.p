@@ -2,82 +2,119 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(1, u'\\\\balprenolol')"
+S'Method.PET'
 p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(4, u'\\\\bbmy ?7378')"
-p7
-aS"(33, u'\\\\byohimbine')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-aS'Method.AGONIST'
-p14
-atp15
-Rp16
+atp6
+Rp7
 sS'topics'
-p17
+p8
 g3
-((lp18
-tp19
-Rp20
+((lp9
+S"(7, u'\\\\bdepressi')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I1506
+I1512
+tp18
+a(S'5ht1a'
+p19
+I865
+I871
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-S'5ht1c'
+I572
+I578
+tp22
+a(S'5ht1a'
 p23
-aS'5ht1a'
-p24
-aS'5ht3'
+I1637
+I1643
+tp24
+a(S'5ht1a'
 p25
-aS'5ht2a'
-p26
-atp27
-Rp28
-sS'regions'
+I658
+I664
+tp26
+a(S'5ht1a'
+p27
+I712
+I718
+tp28
+a(S'5ht1a'
 p29
-g3
-((lp30
-tp31
-Rp32
-sS'year'
+I197
+I208
+tp30
+a(S'5ht1a'
+p31
+I388
+I394
+tp32
+a(S'5ht1a'
 p33
-V1991
-p34
-sS'agonists'
+I39
+I50
+tp34
+a(S'5ht1a'
 p35
-g3
-((lp36
-S"(65, u'\\\\brauwolscine')"
+I221
+I227
+tp36
+a(S'5ht1a'
 p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p38
-aS"(82, u'\\\\byohimbine')"
-p39
-atp40
-Rp41
-sS'species'
-p42
+I1798
+I1804
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
+p41
 g3
-((lp43
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+((lp42
+S"(51, u'\\\\bway100635')"
+p43
+aS"(17, u'\\\\bpet')"
 p44
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
 p45
-atp46
-Rp47
+aS"(38, u'\\\\bssri')"
+p46
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p47
+atp48
+Rp49
+sS'regions'
+p50
+g3
+((lp51
+tp52
+Rp53
+sS'year'
+p54
+V2006
+p55
+sS'species'
+p56
+g3
+((lp57
+tp58
+Rp59
 sb.

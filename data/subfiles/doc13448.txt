@@ -1,4 +1,0 @@
-Werner, T., et al. (2004). "Synthesis of H-3- and C-14-labeled AR-A000002, a new and selective 5-HT1B/1D ligand." J Labelled Comp Radiopharm 47(3): 175-180.
-
-	AR-A000002 is a novel and selective high-affinity 5-HT1B/1D receptor antagonist. The compound has been shown to enhance 5-HT turnover in the guinea pig brain in vivo and to increase the extracellular concentration of 5-HT and the metabolite 5-hydroxyindoleacetic acid (5-HIAA) in guinea pig frontal cortex. The observed effects suggest that the compound could be used for the treatment of affective disorders. The syntheses of labeled AR-A000002 analogues as needed for the further pharmacological evaluation of this selective 5-HT1B/1D antagonist, are described. Copyright (C) 2004 John Wiley Sons, Ltd.
-

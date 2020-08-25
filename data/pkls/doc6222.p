@@ -2,76 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(119, u'\\\\britanserin')"
-p5
-aS"(116, u'\\\\bderamciclane')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p5
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(11, u'\\\\banxiolyt')"
-p17
-atp18
-Rp19
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+atp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht1a'
-p22
-aS'5ht2c'
-p23
-aS'5ht2a'
-p24
-atp25
-Rp26
-sS'regions'
+((lp14
+(S'5ht2a'
+p15
+I1460
+I1466
+tp16
+a(S'5ht1a'
+p17
+I1449
+I1455
+tp18
+a(S'5ht2a'
+p19
+I1079
+I1085
+tp20
+a(S'5ht1a'
+p21
+I1032
+I1038
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(53, u'\\\\bketanserin')"
 p27
-g3
-((lp28
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+aS"(41, u'\\\\bhaloperidol')"
+p28
+aS"(48, u'\\\\bmdma')"
 p29
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+aS"(51, u'\\\\bway100635')"
 p30
-atp31
-Rp32
-sS'year'
-p33
-V2008
+aS"(12, u'\\\\bantagonist')"
+p31
+atp32
+Rp33
+sS'regions'
 p34
-sS'agonists'
-p35
 g3
-((lp36
-S"(20, u'\\\\bbuspirone')"
-p37
-atp38
-Rp39
+((lp35
+tp36
+Rp37
+sS'year'
+p38
+V2020
+p39
 sS'species'
 p40
 g3
 ((lp41
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p42
-atp43
-Rp44
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

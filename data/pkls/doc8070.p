@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,74 +10,55 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.STIMULATION'
+S"(26, u'\\\\bbehav')"
 p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-tp15
-Rp16
+atp10
+Rp11
 sS'receptors'
-p17
+p12
 g3
-((lp18
-S'5ht1b'
-p19
-aS'5ht1d'
-p20
-atp21
-Rp22
+((lp13
+(S'5ht2a'
+p14
+I76
+I82
+tp15
+a(S'5ht2a'
+p16
+I924
+I930
+tp17
+a(S'5ht2a'
+p18
+I198
+I204
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
+g3
+((lp23
+tp24
+Rp25
 sS'regions'
-p23
+p26
 g3
-((lp24
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p25
-atp26
-Rp27
+((lp27
+tp28
+Rp29
 sS'year'
-p28
-V1997
-p29
-sS'agonists'
 p30
-g3
-((lp31
-S"(96, u'\\\\bsumatriptan')"
-p32
-aS"(149, u'\\\\bmem')"
-p33
-aS"(97, u'\\\\bzolmitriptan')"
-p34
-atp35
-Rp36
+V1996
+p31
 sS'species'
-p37
+p32
 g3
-((lp38
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p41
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p42
-aS"(3636, u'(?i)\\\\b(martins|martin)\\\\b')"
-p43
-aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
-p44
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p45
-atp46
-Rp47
+((lp33
+tp34
+Rp35
 sb.

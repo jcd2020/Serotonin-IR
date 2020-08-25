@@ -2,70 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(28, u'\\\\bgastrointestin')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(7, u'\\\\bdepressi')"
 p12
-g3
-((lp13
-S"(11, u'\\\\banxiolyt')"
+aS"(5, u'\\\\btherap')"
+p13
+aS"(8, u'\\\\banxi')"
 p14
-aS"(10, u'\\\\banxiety')"
+aS"(4, u'\\\\btreatment')"
 p15
-atp16
-Rp17
+aS"(3, u'\\\\bclinical')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
-S'5ht5'
-p20
-aS'5ht2c'
+((lp20
+(S'5ht2c'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I476
+I482
+tp22
+a(S'5ht2a'
+p23
+I465
+I471
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp25
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+((lp28
+S"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p29
-V2007
+aS"(12, u'\\\\bantagonist')"
 p30
-sS'agonists'
-p31
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp32
-tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(3191, u'(?i)\\\\b(worlds|world)\\\\b')"
+((lp34
+tp35
+Rp36
+sS'year'
 p37
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+V2011
 p38
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+sS'species'
 p39
-atp40
-Rp41
+g3
+((lp40
+tp41
+Rp42
 sb.

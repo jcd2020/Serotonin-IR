@@ -2,67 +2,72 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.KNOCKOUT'
-p10
-atp11
-Rp12
+tp5
+Rp6
 sS'topics'
+p7
+g3
+((lp8
+S"(1, u'\\\\bpatient')"
+p9
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(34, u'\\\\bparkinson')"
+p11
+aS"(17, u'\\\\balzheimer')"
+p12
+aS"(2, u'\\\\bdisorder')"
 p13
-g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-aS"(35, u'\\\\bstress')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-atp18
-Rp19
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht4'
+p18
+I347
+I352
+tp19
+a(S'5ht4'
 p20
-g3
-((lp21
-S'5ht3'
+I74
+I79
+tp21
+a(S'5ht4'
 p22
-atp23
-Rp24
+I635
+I640
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+tp28
+Rp29
 sS'regions'
-p25
-g3
-((lp26
-tp27
-Rp28
-sS'year'
-p29
-V2012
 p30
-sS'agonists'
-p31
 g3
-((lp32
-tp33
-Rp34
-sS'species'
+((lp31
+tp32
+Rp33
+sS'year'
+p34
+V1996
 p35
+sS'species'
+p36
 g3
-((lp36
-S"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
-p37
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+((lp37
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p38
 atp39
 Rp40

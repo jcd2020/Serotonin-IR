@@ -2,70 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(113, u'\\\\brisperidone')"
+S'Method.PET'
 p5
-aS"(114, u'\\\\bziprasidone')"
-p6
-aS"(58, u'\\\\bhaloperidol')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(15, u'\\\\bschizophreni')"
-p17
-atp18
-Rp19
+((lp9
+S"(7, u'\\\\bdepressi')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+aS"(5, u'\\\\btherap')"
+p13
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
 sS'receptors'
-p20
+p17
 g3
-((lp21
-S'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
+((lp18
+(S'5ht1a'
+p19
+I1907
+I1913
+tp20
+a(S'5ht1a'
+p21
+I1285
+I1291
+tp22
+a(S'5ht1a'
+p23
+I1088
+I1099
+tp24
+a(S'5ht1a'
 p25
-g3
-((lp26
-tp27
-Rp28
-sS'year'
-p29
-V2005
-p30
-sS'agonists'
+I1111
+I1117
+tp26
+a(S'5ht1a'
+p27
+I1489
+I1495
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
 p31
 g3
 ((lp32
-S"(84, u'\\\\bziprasidone')"
+S"(51, u'\\\\bway100635')"
 p33
-aS"(43, u'\\\\bhaloperidol')"
+aS"(17, u'\\\\bpet')"
 p34
-atp35
-Rp36
-sS'species'
-p37
+aS"(19, u'\\\\bpositron emission tomography')"
+p35
+atp36
+Rp37
+sS'regions'
+p38
 g3
-((lp38
-S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
-p39
-atp40
+((lp39
+tp40
 Rp41
+sS'year'
+p42
+V2013
+p43
+sS'species'
+p44
+g3
+((lp45
+tp46
+Rp47
 sb.

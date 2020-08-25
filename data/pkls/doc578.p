@@ -2,60 +2,95 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STAINING'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+aS"(20, u'\\\\bmood')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
+aS"(8, u'\\\\banxi')"
+p13
+aS"(4, u'\\\\btreatment')"
 p14
-atp15
-Rp16
+aS"(3, u'\\\\bclinical')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-S'5ht1a'
-p19
-aS'5ht1'
+((lp19
+(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
+I57
+I68
+tp21
+a(S'5ht1a'
+p22
+I689
+I700
+tp23
+a(S'5ht1a'
+p24
+I804
+I815
 tp25
-Rp26
-sS'year'
-p27
-V2001
+a(S'5ht1a'
+p26
+I1729
+I1740
+tp27
+a(S'5ht1a'
 p28
-sS'agonists'
-p29
+I1254
+I1265
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
+p32
 g3
-((lp30
-tp31
-Rp32
+((lp33
+S"(1, u'\\\\bneuroimag')"
+p34
+aS"(19, u'\\\\bpositron emission tomography')"
+p35
+aS"(18, u'\\\\bimaging')"
+p36
+atp37
+Rp38
+sS'regions'
+p39
+g3
+((lp40
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p41
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p42
+atp43
+Rp44
+sS'year'
+p45
+V2015
+p46
 sS'species'
-p33
+p47
 g3
-((lp34
-tp35
-Rp36
+((lp48
+tp49
+Rp50
 sb.

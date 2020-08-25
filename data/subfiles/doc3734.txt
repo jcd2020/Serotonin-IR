@@ -1,0 +1,4 @@
+Giardinà, D., et al. (1995). "Receptor binding profile of cyclazosin, a new alpha 1B-adrenoceptor antagonist." Eur J Pharmacol 287(1): 13-16.
+
+	The binding profile of cyclazosin, a new prazosin-related alpha 1-adrenoceptor antagonist, at alpha 1-, alpha 2-adrenoceptors, dopamine D2 and 5-HT1A receptors was compared to that of 5-methylurapidil, spiperone, risperidone and other prazosin-related ligands. In addition, cyclazosin was investigated at native and cloned alpha 1-adrenoceptor subtypes. Cyclazosin showed high specificity for alpha 1-adrenoceptors and a 10-15-fold selectivity for alpha 1B (alpha 1b)-adrenoceptors with respect to the alpha 1A (alpha 1a) subtype (pKi values of 9.23-9.57 and 8.18-8.41, respectively). However, it failed to discriminate between cloned alpha 1b and alpha 1d-adrenoceptors (pKi values of 9.23 and 9.28, respectively).
+

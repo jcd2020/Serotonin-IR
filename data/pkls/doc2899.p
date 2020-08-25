@@ -2,72 +2,116 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
+S'Method.ANTAGONIST'
 p5
-aS"(22, u'\\\\bpropranolol')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-tp17
-Rp18
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht7'
+p15
+I783
+I789
+tp16
+a(S'5ht4'
+p17
+I904
+I910
+tp18
+a(S'5ht2'
 p19
-g3
-((lp20
-S'5ht1a'
+I1161
+I1166
+tp20
+a(S'5ht2'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
+I462
+I467
+tp22
+a(S'5ht1a'
+p23
+I848
+I854
+tp24
+a(S'5ht2'
+p25
+I43
+I48
 tp26
-Rp27
-sS'year'
-p28
-V1990
+a(S'5ht2'
+p27
+I783
+I788
+tp28
+a(S'5ht2'
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(149, u'\\\\bmem')"
-p32
-atp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I235
+I240
+tp30
+a(S'5ht3'
+p31
+I904
+I909
+tp32
+a(S'5ht2'
+p33
+I1350
+I1355
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
 p37
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p38
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+g3
+((lp38
+S"(23, u'\\\\bmdl')"
 p39
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+aS"(26, u'\\\\bmdl72222')"
 p40
-atp41
-Rp42
+aS"(13, u'\\\\bagonist')"
+p41
+aS"(49, u'\\\\bdoi')"
+p42
+aS"(9, u'\\\\britanserin')"
+p43
+aS"(12, u'\\\\bantagonist')"
+p44
+atp45
+Rp46
+sS'regions'
+p47
+g3
+((lp48
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p49
+atp50
+Rp51
+sS'year'
+p52
+V2000
+p53
+sS'species'
+p54
+g3
+((lp55
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p56
+atp57
+Rp58
 sb.

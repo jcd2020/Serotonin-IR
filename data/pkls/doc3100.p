@@ -2,66 +2,98 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\bzacopride')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(6, u'\\\\baggressi')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-tp15
-Rp16
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(33, u'\\\\blocomot')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1b'
 p17
-g3
-((lp18
-S'5ht3'
+I82
+I88
+tp18
+a(S'5ht1b'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
+I403
+I409
+tp20
+a(S'5ht1b'
+p21
+I1669
+I1675
+tp22
+a(S'5ht1b'
+p23
+I1722
+I1728
+tp24
+a(S'5ht1b'
+p25
+I1150
+I1156
+tp26
+a(S'5ht1b'
 p27
-V2015
-p28
-sS'agonists'
-p29
-g3
-((lp30
-S"(208, u'\\\\bzacopride')"
+I591
+I597
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
 p31
-aS"(189, u'\\\\bethanol')"
-p32
-atp33
-Rp34
-sS'species'
-p35
 g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-atp38
-Rp39
+((lp32
+S"(13, u'\\\\bagonist')"
+p33
+atp34
+Rp35
+sS'regions'
+p36
+g3
+((lp37
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p38
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p39
+aS"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
+p43
+V2012
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p47
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p48
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p49
+atp50
+Rp51
 sb.

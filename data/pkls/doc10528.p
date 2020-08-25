@@ -2,74 +2,118 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.KNOCKOUT'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
 aS'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+p6
+aS'Method.AGONIST'
+p7
+atp8
+Rp9
 sS'topics'
+p10
+g3
+((lp11
+S"(1, u'\\\\bpatient')"
+p12
+aS"(9, u'\\\\bstress')"
+p13
+aS"(4, u'\\\\btreatment')"
 p14
-g3
-((lp15
-S"(9, u'\\\\bdepress')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-aS"(1, u'\\\\bmood')"
-p18
-atp19
-Rp20
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht4'
+p19
+I223
+I228
+tp20
+a(S'5ht4'
 p21
-g3
-((lp22
-S'5ht1a'
+I1637
+I1642
+tp22
+a(S'5ht4'
 p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
+I447
+I452
+tp24
+a(S'5ht4'
+p25
+I1999
+I2004
+tp26
+a(S'5ht4'
+p27
+I382
+I387
 tp28
-Rp29
-sS'year'
-p30
-V2002
+a(S'5ht4'
+p29
+I1528
+I1533
+tp30
+a(S'5ht4'
 p31
-sS'agonists'
-p32
-g3
-((lp33
+I489
+I494
+tp32
+a(S'5ht4'
+p33
+I1194
+I1199
 tp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+a(S'5ht4'
+p35
+I590
+I595
+tp36
+a(S'5ht4'
+p37
+I1384
+I1389
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
 p41
-atp42
-Rp43
+g3
+((lp42
+S"(13, u'\\\\bagonist')"
+p43
+aS"(12, u'\\\\bantagonist')"
+p44
+atp45
+Rp46
+sS'regions'
+p47
+g3
+((lp48
+tp49
+Rp50
+sS'year'
+p51
+V2016
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p55
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p56
+aS"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p57
+atp58
+Rp59
 sb.

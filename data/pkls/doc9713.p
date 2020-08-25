@@ -2,102 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(203, u'\\\\btfmpp')"
-p5
-aS"(89, u'\\\\beltoprazine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p5
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(20, u'\\\\baggressi')"
-p17
+((lp9
+tp10
+Rp11
+sS'receptors'
+p12
+g3
+((lp13
+(S'5ht1'
+p14
+I1386
+I1391
+tp15
+a(S'5ht1a'
+p16
+I1284
+I1290
+tp17
 atp18
 Rp19
-sS'receptors'
+sS'raw_text_methods'
 p20
 g3
 ((lp21
-S'5ht1b'
+S"(46, u'\\\\bspiperone')"
 p22
-aS'5ht1a'
+aS"(11, u'\\\\bfluoxetine')"
 p23
-aS'5ht3'
+aS"(12, u'\\\\bantagonist')"
 p24
-aS'5ht2'
-p25
-aS'5ht1'
-p26
-aS'5ht2a'
-p27
-aS'5ht2c'
-p28
-atp29
-Rp30
+atp25
+Rp26
 sS'regions'
-p31
+p27
 g3
-((lp32
-tp33
-Rp34
+((lp28
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p35
+p32
 V1995
-p36
-sS'agonists'
-p37
-g3
-((lp38
-S"(20, u'\\\\bbuspirone')"
-p39
-aS"(178, u'\\\\btfmpp')"
-p40
-aS"(192, u'\\\\bquipazine')"
-p41
-aS"(175, u'\\\\bdoi')"
-p42
-aS"(67, u'\\\\bru ?24969')"
-p43
-aS"(31, u'\\\\beltoprazine')"
-p44
-aS"(45, u'\\\\bipsapirone')"
-p45
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p46
-atp47
-Rp48
+p33
 sS'species'
-p49
+p34
 g3
-((lp50
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p51
-aS"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
-p52
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p53
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p54
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p55
-atp56
-Rp57
+((lp35
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

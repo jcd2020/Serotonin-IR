@@ -1,0 +1,4 @@
+Vitale, G., et al. (1998). "Effect of acetylsalicylic acid on formalin test and on serotonin system in the rat brain." Gen Pharmacol 31(5): 753-758.
+
+	1. Acetylsalicylic acid (ASA; 400 mg/kg, i.p.) increased serotonin (5-HT) content in rat brain but did not modify the number or the affinity of 5-HT1A receptors in the pons and the cerebral cortex, whereas the number of cortical 5-HT2 receptors decreased significantly. 2. Pretreatment with parachlorophenylaline (100 mg/kg/day for 4 days) depleted 5-HT brain content but modified neither the serum levels of salicylates nor the 5-HT2 cortical receptor characteristics, and it abolished the antinociceptive effect of ASA, 400 mg/kg, in the first phase of the formalin test. 3. These data support the involvement of the central serotonergic system in the antinociceptive activity of ASA.
+

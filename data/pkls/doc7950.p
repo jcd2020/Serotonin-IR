@@ -2,86 +2,110 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
-p5
-aS"(117, u'\\\\bketanserin')"
-p6
-aS"(194, u'\\\\bmethysergide')"
-p7
-aS"(193, u'\\\\bmesulergine')"
-p8
-aS"(26, u'\\\\bspiperone')"
-p9
-aS"(58, u'\\\\bhaloperidol')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
 S'Method.ANTAGONIST'
-p15
-atp16
-Rp17
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p18
+p9
 g3
-((lp19
-tp20
-Rp21
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(14, u'\\\\bcogniti')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(23, u'\\\\bantipsychotic')"
+p14
+aS"(5, u'\\\\btherap')"
+p15
+aS"(4, u'\\\\btreatment')"
+p16
+aS"(3, u'\\\\bclinical')"
+p17
+atp18
+Rp19
 sS'receptors'
+p20
+g3
+((lp21
+(S'5ht2a'
 p22
-g3
-((lp23
-S'5ht2a'
+I374
+I380
+tp23
+a(S'5ht2a'
 p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p29
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I691
+I697
+tp25
+a(S'5ht7'
+p26
+I1069
+I1074
+tp27
+a(S'5ht6'
+p28
+I1062
+I1067
+tp29
+a(S'5ht2c'
 p30
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p31
-atp32
-Rp33
-sS'year'
+I1054
+I1060
+tp31
+a(S'5ht2a'
+p32
+I1046
+I1052
+tp33
+a(S'5ht2'
 p34
-V1997
-p35
-sS'agonists'
+I691
+I697
+tp35
+a(S'5ht2a'
 p36
-g3
-((lp37
-S"(165, u'\\\\bmesulergine')"
-p38
-aS"(23, u'\\\\bclozapine')"
-p39
-aS"(53, u'\\\\bmethysergide')"
+I566
+I572
+tp37
+atp38
+Rp39
+sS'raw_text_methods'
 p40
-aS"(43, u'\\\\bhaloperidol')"
-p41
-atp42
-Rp43
-sS'species'
-p44
 g3
-((lp45
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p46
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+((lp41
+S"(13, u'\\\\bagonist')"
+p42
+aS"(40, u'\\\\bclozapine')"
+p43
+aS"(12, u'\\\\bantagonist')"
+p44
+atp45
+Rp46
+sS'regions'
 p47
-atp48
-Rp49
+g3
+((lp48
+tp49
+Rp50
+sS'year'
+p51
+V2000
+p52
+sS'species'
+p53
+g3
+((lp54
+tp55
+Rp56
 sb.

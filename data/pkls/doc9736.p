@@ -2,75 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(125, u'\\\\btropisetron')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(27, u'\\\\bdyskinesia')"
 p10
-aS'Method.AGONIST'
+aS"(34, u'\\\\bparkinson')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(9, u'\\\\bdepress')"
-p16
-atp17
-Rp18
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I1480
+I1486
+tp18
+a(S'5ht1a'
 p19
-g3
-((lp20
-S'5ht3e'
+I846
+I852
+tp20
+a(S'5ht1a'
 p21
-aS'5ht3a'
-p22
-aS'5ht3'
+I1704
+I1710
+tp22
+a(S'5ht1a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
+I136
+I142
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp27
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p28
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp28
+S"(51, u'\\\\bway100635')"
 p29
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+aS"(22, u'\\\\bbuspirone')"
 p30
-atp31
-Rp32
-sS'year'
-p33
-V2011
+aS"(12, u'\\\\bantagonist')"
+p31
+atp32
+Rp33
+sS'regions'
 p34
-sS'agonists'
-p35
 g3
-((lp36
-S"(194, u'\\\\bsr ?57227')"
-p37
-atp38
-Rp39
+((lp35
+tp36
+Rp37
+sS'year'
+p38
+V2016
+p39
 sS'species'
 p40
 g3
 ((lp41
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
 atp43
 Rp44

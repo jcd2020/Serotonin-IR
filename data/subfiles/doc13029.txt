@@ -1,4 +1,0 @@
-Vandersteene, I., et al. (1998). "Synthesis of C-11 granisetron, a possible Positron Emission Tomography ligand for 5-HT3 receptor studies." J Labelled Comp Radiopharm 41(3): 171-180.
-
-	[C-11] Granisetron, a selective 5-HT3 antagonist, was synthesized by N-alkylation of the desmethyl compound using [C-11] methyl iodide as the labelling agent in a total synthesis time of 40 min, including semi-preparative HPLC purification. Approximately 40 mCi (1.5 GBq) of the radioligand was obtained with a specific activity of 200-250 mCi/mu mol (7.4-9 GBq/mu mol). Chemical (greater than or equal to 96%) and radiochemical purity (greater than or equal to 99%) were determined using analytical HPLC.
-

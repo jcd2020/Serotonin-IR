@@ -1,4 +1,0 @@
-Xu, Y., et al. (2010). "5-HT2CRs expressed by pro-opiomelanocortin neurons regulate insulin sensitivity in liver." Nat Neurosci 13(12): 1457-1459.
-
-	Mice lacking 5-HT 2C receptors (5-HT(2C)Rs) displayed hepatic insulin resistance, a phenotype normalized by re-expression of 5-HT(2C)Rs only in pro-opiomelanocortin (POMC) neurons. 5-HT(2C)R deficiency also abolished the anti-diabetic effects of meta-chlorophenylpiperazine (a 5-HT(2C)R agonist); these effects were restored when 5-HT(2C)Rs were re-expressed in POMC neurons. Our findings indicate that 5-HT(2C)Rs expressed by POMC neurons are physiologically relevant regulators of insulin sensitivity and glucose homeostasis in the liver.
-

@@ -1,0 +1,4 @@
+Miyazawa, T., et al. (1991). "[Effect of lisuride on experimental cerebral infarction in rats]." Nihon Yakurigaku Zasshi 98(6): 449-456.
+
+	Lisuride is an ergot derivative with central dopaminergic (D2 agonistic) and serotonergic (5-HT1A agonistic) activity. The effect of lisuride on experimental cerebral infarction in rats was investigated. Cerebral infarction was induced by intracarotid infusion of a 50-microliters mixture in which deformed and rigid red blood cells treated with hypertonic solution were contained. Lisuride or 0.9% NaCl was administered subcutaneously 30 min before induction of cerebral infarction. Lisuride (0.01 mg/kg) not only prolonged the survival time of the animals but also suppressed cerebral edema, increase in the electrolytes content and histological damage in the brain. These results suggest that lisuride has a protective effect against cerebral infarction.
+

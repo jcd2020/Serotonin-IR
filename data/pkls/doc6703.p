@@ -2,67 +2,72 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
 p13
 g3
 ((lp14
-S"(15, u'\\\\bschizophreni')"
+(S'5ht1'
 p15
-aS"(30, u'\\\\bparkinsons')"
-p16
-atp17
-Rp18
-sS'receptors'
+I439
+I444
+tp16
+a(S'5ht1a'
+p17
+I668
+I674
+tp18
+a(S'5ht2'
 p19
+I449
+I454
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp20
-S'5ht2a'
-p21
-atp22
-Rp23
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(45, u'\\\\bmetergoline')"
+p26
+aS"(12, u'\\\\bantagonist')"
+p27
+atp28
+Rp29
 sS'regions'
-p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
-p28
-V2013
-p29
-sS'agonists'
 p30
 g3
 ((lp31
-S"(63, u'\\\\bpsilocybin')"
-p32
-atp33
-Rp34
-sS'species'
+tp32
+Rp33
+sS'year'
+p34
+V1996
 p35
+sS'species'
+p36
 g3
-((lp36
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
 atp39
 Rp40

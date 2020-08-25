@@ -2,29 +2,31 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(203, u'\\\\btfmpp')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(26, u'\\\\bbehav')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(25, u'\\\\bsocial')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(33, u'\\\\blocomot')"
 p13
-g3
-((lp14
-S"(16, u'\\\\bfeed')"
+aS"(8, u'\\\\banxi')"
+p14
+aS"(4, u'\\\\btreatment')"
 p15
 atp16
 Rp17
@@ -32,46 +34,45 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht1b'
+(S'5ht1a'
 p20
-aS'5ht2c'
-p21
-aS'5ht1'
-p22
-atp23
-Rp24
-sS'regions'
-p25
+I982
+I988
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp26
-S"(55, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(parabrachials|parabrachial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+aS"(11, u'\\\\bfluoxetine')"
 p27
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+aS"(21, u'\\\\bipsapirone')"
 p28
-aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p29
 atp30
 Rp31
-sS'year'
+sS'regions'
 p32
-V2001
-p33
-sS'agonists'
-p34
 g3
-((lp35
-S"(178, u'\\\\btfmpp')"
+((lp33
+tp34
+Rp35
+sS'year'
 p36
-aS"(155, u'\\\\bmcpp')"
+V1999
 p37
-atp38
-Rp39
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+((lp39
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p40
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

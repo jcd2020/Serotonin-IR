@@ -2,74 +2,63 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(72, u'\\\\bagomelatine')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-S"(35, u'\\\\bstress')"
-p16
-aS"(9, u'\\\\bdepress')"
-p17
-aS"(3, u'\\\\bsleep')"
-p18
-aS"(1, u'\\\\bmood')"
-p19
-atp20
-Rp21
+((lp8
+S"(13, u'\\\\bantidepress')"
+p9
+aS"(33, u'\\\\blocomot')"
+p10
+atp11
+Rp12
 sS'receptors'
-p22
+p13
 g3
-((lp23
-S'5ht2c'
-p24
-atp25
-Rp26
+((lp14
+(S'5ht1a'
+p15
+I1864
+I1870
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+S"(11, u'\\\\bfluoxetine')"
+p21
+atp22
+Rp23
 sS'regions'
-p27
+p24
 g3
-((lp28
-tp29
-Rp30
+((lp25
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p26
+atp27
+Rp28
 sS'year'
-p31
-V2013
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(10, u'\\\\baet')"
-p35
-atp36
-Rp37
+p29
+V2014
+p30
 sS'species'
-p38
+p31
 g3
-((lp39
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+((lp32
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p33
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p34
+atp35
+Rp36
 sb.

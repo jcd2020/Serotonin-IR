@@ -2,86 +2,66 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.PET'
 p5
-aS"(123, u'\\\\bgranisetron')"
-p6
-aS"(125, u'\\\\btropisetron')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(12, u'\\\\banxiogen')"
-p17
-aS"(11, u'\\\\banxiolyt')"
-p18
-aS"(10, u'\\\\banxiety')"
-p19
-aS"(7, u'\\\\bmemory')"
-p20
-atp21
-Rp22
+((lp9
+tp10
+Rp11
 sS'receptors'
-p23
+p12
 g3
-((lp24
-S'5ht1a'
-p25
-aS'5ht3'
-p26
-atp27
-Rp28
+((lp13
+(S'5ht2a'
+p14
+I392
+I398
+tp15
+a(S'5ht2a'
+p16
+I53
+I59
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(17, u'\\\\bpet')"
+p22
+atp23
+Rp24
 sS'regions'
-p29
+p25
 g3
-((lp30
-tp31
-Rp32
+((lp26
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p27
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p33
-V1995
-p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(20, u'\\\\bbuspirone')"
-p37
-aS"(149, u'\\\\bmem')"
-p38
-atp39
-Rp40
+p31
+V1996
+p32
 sS'species'
-p41
+p33
 g3
-((lp42
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p43
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p44
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p45
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p46
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p47
-atp48
-Rp49
+((lp34
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

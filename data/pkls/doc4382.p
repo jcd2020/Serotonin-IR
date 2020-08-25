@@ -2,66 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-S"(21, u'\\\\bpain')"
+aS"(9, u'\\\\bstress')"
+p13
+aS"(8, u'\\\\banxi')"
 p14
-atp15
-Rp16
+aS"(4, u'\\\\btreatment')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-S'5ht1b'
-p19
-aS'5ht1d'
+((lp19
+(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
+I2195
+I2201
+tp21
+a(S'5ht1a'
+p22
+I1107
+I1113
+tp23
+a(S'5ht1a'
+p24
+I1826
+I1832
 tp25
-Rp26
-sS'year'
-p27
-V2000
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-sS'agonists'
-p29
 g3
-((lp30
-S"(96, u'\\\\bsumatriptan')"
+((lp29
+S"(38, u'\\\\bssri')"
+p30
+aS"(12, u'\\\\bantagonist')"
 p31
 atp32
 Rp33
-sS'species'
+sS'regions'
 p34
 g3
 ((lp35
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p36
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p37
-atp38
-Rp39
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
+p41
+V2000
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

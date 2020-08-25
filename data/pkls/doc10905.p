@@ -2,74 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p5
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-tp15
-Rp16
+((lp9
+S"(30, u'\\\\bpain')"
+p10
+aS"(35, u'\\\\bnocicept')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht3a'
-p19
-aS'5ht3'
-p20
-atp21
-Rp22
-sS'regions'
-p23
+((lp15
+(S'5ht2'
+p16
+I1829
+I1834
+tp17
+a(S'5ht1a'
+p18
+I1688
+I1694
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
 g3
-((lp24
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+((lp23
+S"(53, u'\\\\bketanserin')"
+p24
+aS"(51, u'\\\\bway100635')"
 p25
-aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
+aS"(4, u'\\\\bpcpa')"
 p26
-aS"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p27
 atp28
 Rp29
-sS'year'
+sS'regions'
 p30
-V2005
-p31
-sS'agonists'
-p32
 g3
-((lp33
-tp34
-Rp35
+((lp31
+tp32
+Rp33
+sS'year'
+p34
+V2007
+p35
 sS'species'
 p36
 g3
 ((lp37
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sb.

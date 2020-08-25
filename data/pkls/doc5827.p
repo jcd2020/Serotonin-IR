@@ -2,64 +2,86 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(30, u'\\\\bpain')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(33, u'\\\\blocomot')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
-p14
-aS"(10, u'\\\\banxiety')"
-p15
-atp16
-Rp17
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp16
+(S'5ht1a'
+p17
+I573
+I579
+tp18
+a(S'5ht1a'
+p19
+I658
+I664
+tp20
+a(S'5ht1a'
+p21
+I55
+I61
+tp22
+a(S'5ht1a'
 p23
+I186
+I192
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp24
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p25
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+((lp28
+S"(13, u'\\\\bagonist')"
 p29
-V2017
+aS"(15, u'\\\\b8ohdpat')"
 p30
-sS'agonists'
+aS"(24, u'\\\\bgepirone')"
 p31
+aS"(21, u'\\\\bipsapirone')"
+p32
+aS"(22, u'\\\\bbuspirone')"
+p33
+atp34
+Rp35
+sS'regions'
+p36
 g3
-((lp32
-tp33
-Rp34
+((lp37
+tp38
+Rp39
+sS'year'
+p40
+V1993
+p41
 sS'species'
-p35
+p42
 g3
-((lp36
-tp37
-Rp38
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

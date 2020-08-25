@@ -1,4 +1,0 @@
-Taverne, T., et al. (1998). "Novel benzothiazolin-2-one and benzoxazin-3-one arylpiperazine derivatives with mixed 5HT1A/D2 affinity as potential atypical antipsychotics." J Med Chem 41(12): 2010-2018.
-
-	Since it was known that 5HT properties (5HT1A agonism or 5HT2A antagonism) combined with D2 antagonism may lead to atypical antipsychotic drugs, a series of 19 benzothiazolin-2-one and benzoxazin-3-one derivatives possessing the arylpiperazine moiety was prepared, and their binding profiles were investigated. All tested compounds displayed very high affinities for the 5HT1A and D2 receptors. Therefore, further pharmacological studies were carried out on selected compounds (24, 27, 30, 46, and 47). This evaluation in rats clearly revealed potent antipsychotic properties along with a decrease of extrapyramidal side effects. These derivatives are currently under preclinical development.
-

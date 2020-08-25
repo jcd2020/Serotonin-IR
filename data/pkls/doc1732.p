@@ -2,92 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(118, u'\\\\bly ?53857')"
-p5
-aS"(203, u'\\\\btfmpp')"
-p6
-aS"(17, u'\\\\bnan ?190')"
-p7
-aS"(58, u'\\\\bhaloperidol')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
 S'Method.ANTAGONIST'
-p13
+p5
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p6
+atp7
+Rp8
 sS'topics'
-p17
+p9
 g3
-((lp18
-tp19
-Rp20
+((lp10
+S"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p21
+p14
 g3
-((lp22
-S'5ht1b'
-p23
-aS'5ht1a'
+((lp15
+(S'5ht1a'
+p16
+I153
+I159
+tp17
+a(S'5ht1a'
+p18
+I521
+I527
+tp19
+a(S'5ht4'
+p20
+I955
+I960
+tp21
+a(S'5ht1a'
+p22
+I374
+I380
+tp23
+a(S'5ht6'
 p24
-aS'5ht2c'
-p25
-aS'5ht2'
+I1637
+I1642
+tp25
+a(S'5ht1a'
 p26
-aS'5ht2a'
-p27
+I2228
+I2234
+tp27
 atp28
 Rp29
-sS'regions'
+sS'raw_text_methods'
 p30
 g3
 ((lp31
-tp32
-Rp33
-sS'year'
+S"(13, u'\\\\bagonist')"
+p32
+aS"(15, u'\\\\b8ohdpat')"
+p33
+aS"(51, u'\\\\bway100635')"
 p34
-V1995
+aS"(12, u'\\\\bantagonist')"
 p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(166, u'\\\\bmk ?212')"
+atp36
+Rp37
+sS'regions'
 p38
-aS"(178, u'\\\\btfmpp')"
-p39
-aS"(192, u'\\\\bquipazine')"
-p40
-aS"(67, u'\\\\bru ?24969')"
-p41
-aS"(155, u'\\\\bmcpp')"
-p42
-aS"(43, u'\\\\bhaloperidol')"
-p43
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p44
-atp45
-Rp46
-sS'species'
-p47
 g3
-((lp48
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p49
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p50
-atp51
-Rp52
+((lp39
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p40
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V2004
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

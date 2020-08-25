@@ -2,69 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(30, u'\\\\bway ?100135')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(30, u'\\\\bpain')"
 p10
-aS'Method.AGONIST'
+aS"(1, u'\\\\bpatient')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+aS"(5, u'\\\\btherap')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht1a'
+I1954
+I1960
+tp19
+a(S'5ht1a'
 p20
-aS'5ht3'
-p21
-atp22
-Rp23
-sS'regions'
-p24
+I1599
+I1605
+tp21
+a(S'5ht1a'
+p22
+I1728
+I1734
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp25
-tp26
-Rp27
-sS'year'
+((lp27
+S"(12, u'\\\\bantagonist')"
 p28
-V1995
-p29
-sS'agonists'
-p30
+atp29
+Rp30
+sS'regions'
+p31
 g3
-((lp31
-S"(20, u'\\\\bbuspirone')"
-p32
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p33
-aS"(90, u'\\\\bmkc ?242')"
-p34
-atp35
-Rp36
+((lp32
+tp33
+Rp34
+sS'year'
+p35
+V2018
+p36
 sS'species'
 p37
 g3
 ((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
 atp40
 Rp41

@@ -2,76 +2,105 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(26, u'\\\\bbehav')"
 p12
-g3
-((lp13
-S"(5, u'\\\\bgastrointestin')"
-p14
-aS"(33, u'\\\\balzheimers')"
-p15
-aS"(6, u'\\\\bcognit')"
-p16
-aS"(7, u'\\\\bmemory')"
-p17
-atp18
-Rp19
+aS"(23, u'\\\\bantipsychotic')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
+p18
+I1169
+I1175
+tp19
+a(S'5ht1a'
 p20
-g3
-((lp21
-S'5ht4a'
+I35
+I41
+tp21
+a(S'5ht1a'
 p22
-aS'5ht4'
-p23
-atp24
-Rp25
-sS'regions'
+I714
+I720
+tp23
+a(S'5ht2'
+p24
+I770
+I775
+tp25
+a(S'5ht1a'
 p26
-g3
-((lp27
-tp28
-Rp29
-sS'year'
+I616
+I622
+tp27
+a(S'5ht1a'
+p28
+I1042
+I1048
+tp29
+a(S'5ht1'
 p30
-V2007
-p31
-sS'agonists'
+I35
+I41
+tp31
+a(S'5ht1'
 p32
-g3
-((lp33
-S"(149, u'\\\\bmem')"
+I714
+I720
+tp33
+a(S'5ht2'
 p34
-atp35
-Rp36
-sS'species'
-p37
+I627
+I632
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
+p38
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+((lp39
+S"(22, u'\\\\bbuspirone')"
 p40
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p41
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p42
-atp43
-Rp44
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+tp46
+Rp47
+sS'year'
+p48
+V1994
+p49
+sS'species'
+p50
+g3
+((lp51
+tp52
+Rp53
 sb.

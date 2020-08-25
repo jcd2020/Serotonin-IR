@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,68 +10,106 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-tp9
-Rp10
-sS'topics'
-p11
-g3
-((lp12
-S"(9, u'\\\\bdepress')"
-p13
-aS"(35, u'\\\\bstress')"
-p14
-aS"(11, u'\\\\banxiolyt')"
-p15
-aS"(10, u'\\\\banxiety')"
-p16
-aS"(1, u'\\\\bmood')"
-p17
-atp18
-Rp19
+S"(7, u'\\\\bdepressi')"
+p9
+aS"(2, u'\\\\bdisorder')"
+p10
+atp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht5'
-p22
-aS'5ht1a'
+((lp14
+(S'5ht1a'
+p15
+I391
+I397
+tp16
+a(S'5ht2a'
+p17
+I1745
+I1751
+tp18
+a(S'5ht1a'
+p19
+I1381
+I1387
+tp20
+a(S'5ht2a'
+p21
+I403
+I409
+tp22
+a(S'5ht1a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1734
+I1740
+tp24
+a(S'5ht1a'
+p25
+I1259
+I1265
+tp26
+a(S'5ht2a'
+p27
+I1688
+I1694
+tp28
+a(S'5ht1'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V2001
+I391
+I397
+tp30
+a(S'5ht2a'
+p31
+I1442
+I1448
+tp32
+a(S'5ht1a'
 p33
-sS'agonists'
-p34
+I1635
+I1641
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
+p37
 g3
-((lp35
-tp36
-Rp37
-sS'species'
-p38
-g3
-((lp39
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p40
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+((lp38
+S"(54, u'\\\\bautoradiography')"
+p39
+atp40
+Rp41
+sS'regions'
 p42
-atp43
-Rp44
+g3
+((lp43
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p44
+aS"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
+p45
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p46
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V2018
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p54
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p55
+atp56
+Rp57
 sb.

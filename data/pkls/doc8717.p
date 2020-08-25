@@ -2,66 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p5
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-S"(35, u'\\\\bstress')"
-p15
-atp16
-Rp17
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+aS"(20, u'\\\\bmood')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I1120
+I1126
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht1a'
+I109
+I115
+tp19
+a(S'5ht2'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p25
+I841
+I846
+tp21
+a(S'5ht1a'
+p22
+I363
+I369
+tp23
+a(S'5ht1a'
+p24
+I834
+I840
+tp25
 atp26
 Rp27
-sS'year'
+sS'raw_text_methods'
 p28
-V2013
-p29
-sS'agonists'
+g3
+((lp29
+S"(46, u'\\\\bspiperone')"
 p30
-g3
-((lp31
-S"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(27, u'\\\\blsd')"
+p31
+aS"(29, u'\\\\bdiethylamide')"
 p32
-atp33
-Rp34
-sS'species'
-p35
+aS"(12, u'\\\\bantagonist')"
+p33
+atp34
+Rp35
+sS'regions'
+p36
 g3
-((lp36
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p37
-atp38
-Rp39
+((lp37
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
+p41
+V1994
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

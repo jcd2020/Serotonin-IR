@@ -2,82 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(146, u'\\\\bgr ?125487')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.STIMULATION'
-p10
-aS'Method.ANTAGONIST'
-p11
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p6
+atp7
+Rp8
 sS'topics'
-p15
+p9
 g3
-((lp16
-S"(8, u'\\\\blearning')"
-p17
-aS"(7, u'\\\\bmemory')"
-p18
-atp19
-Rp20
+((lp10
+tp11
+Rp12
 sS'receptors'
-p21
+p13
 g3
-((lp22
-S'5ht4a'
+((lp14
+(S'5ht1a'
+p15
+I1075
+I1081
+tp16
+a(S'5ht7'
+p17
+I472
+I479
+tp18
+a(S'5ht2c'
+p19
+I613
+I621
+tp20
+a(S'5ht2a'
+p21
+I613
+I619
+tp22
+a(S'5ht1a'
 p23
-aS'5ht4'
-p24
+I472
+I478
+tp24
 atp25
 Rp26
-sS'regions'
+sS'raw_text_methods'
 p27
 g3
 ((lp28
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p29
-aS"(234, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(basali|basalis)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
 p30
-atp31
-Rp32
-sS'year'
-p33
-V1999
-p34
-sS'agonists'
+aS"(49, u'\\\\bdoi')"
+p31
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
 p35
 g3
 ((lp36
-S"(197, u'\\\\bbimu ?8')"
-p37
-aS"(149, u'\\\\bmem')"
-p38
-atp39
-Rp40
+tp37
+Rp38
+sS'year'
+p39
+V2001
+p40
 sS'species'
 p41
 g3
 ((lp42
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p44
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p45
-atp46
-Rp47
+atp44
+Rp45
 sb.

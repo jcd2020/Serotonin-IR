@@ -2,76 +2,64 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
-p5
-aS"(193, u'\\\\bmesulergine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+tp5
+Rp6
 sS'topics'
-p15
+p7
 g3
-((lp16
-tp17
-Rp18
+((lp8
+S"(4, u'\\\\btreatment')"
+p9
+atp10
+Rp11
 sS'receptors'
-p19
+p12
 g3
-((lp20
-S'5ht2b'
-p21
-aS'5ht2c'
+((lp13
+(S'5ht1a'
+p14
+I81
+I87
+tp15
+a(S'5ht1'
+p16
+I1196
+I1201
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(15, u'\\\\b8ohdpat')"
 p22
-atp23
-Rp24
+aS"(23, u'\\\\bmdl')"
+p23
+atp24
+Rp25
 sS'regions'
-p25
+p26
 g3
-((lp26
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p27
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p28
-aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
-p29
-atp30
-Rp31
+((lp27
+tp28
+Rp29
 sS'year'
-p32
-V1995
-p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(165, u'\\\\bmesulergine')"
-p36
-aS"(155, u'\\\\bmcpp')"
-p37
-atp38
-Rp39
+p30
+V1988
+p31
 sS'species'
-p40
+p32
 g3
-((lp41
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+((lp33
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
 sb.

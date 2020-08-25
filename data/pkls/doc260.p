@@ -2,86 +2,134 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(59, u'\\\\bchlorpromazine')"
-p5
-aS"(110, u'\\\\bclozapine')"
-p6
-aS"(131, u'\\\\bm1')"
-p7
-aS"(111, u'\\\\bolanzapine')"
-p8
-aS"(58, u'\\\\bhaloperidol')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p17
+p9
 g3
-((lp18
-S"(15, u'\\\\bschizophreni')"
-p19
-atp20
-Rp21
+((lp10
+S"(30, u'\\\\bpain')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
-p22
+p15
 g3
-((lp23
-S'5ht2'
-p24
-aS'5ht2a'
+((lp16
+(S'5ht1d'
+p17
+I1780
+I1786
+tp18
+a(S'5ht1'
+p19
+I574
+I579
+tp20
+a(S'5ht1d'
+p21
+I1393
+I1399
+tp22
+a(S'5ht1'
+p23
+I1073
+I1078
+tp24
+a(S'5ht1f'
 p25
-atp26
-Rp27
-sS'regions'
-p28
-g3
-((lp29
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p30
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1300
+I1306
+tp26
+a(S'5ht1b'
+p27
+I1478
+I1484
+tp28
+a(S'5ht1d'
+p29
+I1639
+I1645
+tp30
+a(S'5ht1f'
 p31
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p32
-atp33
-Rp34
-sS'year'
+I1684
+I1690
+tp32
+a(S'5ht1d'
+p33
+I280
+I288
+tp34
+a(S'5ht1b'
 p35
-V2007
-p36
-sS'agonists'
+I280
+I286
+tp36
+a(S'5ht1d'
 p37
-g3
-((lp38
-S"(57, u'\\\\bolanzapine')"
+I1261
+I1269
+tp38
+a(S'5ht1b'
 p39
-aS"(23, u'\\\\bclozapine')"
-p40
-aS"(43, u'\\\\bhaloperidol')"
+I1261
+I1267
+tp40
+a(S'5ht1f'
 p41
-atp42
-Rp43
-sS'species'
-p44
-g3
-((lp45
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p46
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I1652
+I1658
+tp42
+a(S'5ht1'
+p43
+I412
+I417
+tp44
+atp45
+Rp46
+sS'raw_text_methods'
 p47
-atp48
-Rp49
+g3
+((lp48
+S"(13, u'\\\\bagonist')"
+p49
+aS"(3, u'\\\\bimmunoreactiv')"
+p50
+aS"(47, u'\\\\bsumatriptan')"
+p51
+aS"(12, u'\\\\bantagonist')"
+p52
+atp53
+Rp54
+sS'regions'
+p55
+g3
+((lp56
+tp57
+Rp58
+sS'year'
+p59
+V2012
+p60
+sS'species'
+p61
+g3
+((lp62
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p63
+atp64
+Rp65
 sb.

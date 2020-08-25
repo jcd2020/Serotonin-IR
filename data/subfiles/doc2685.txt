@@ -1,0 +1,4 @@
+Diez-Ariza, M., et al. (2002). "GABA(A) receptor antagonists enhance cortical acetylcholine release induced by 5-HT(3) receptor blockade in freely moving rats." Brain Res 956(1): 81-85.
+
+	ACh release from the rat frontal cortex was increased by both local, 0.1-1 microM, and systemic, 0.1-10 microg/kg, administration of the 5-HT(3) receptor antagonist ondansetron, reaching a maximum peak of 143% over basal values. Bicuculline, 1-10 microM, and flumazenil, 5-10 mg/kg, antagonists at different sites of the GABA(A) receptor, also enhanced ACh release, with maximum effects of 85 and 124% above baseline, respectively. GABA(A) receptor antagonists potentiated the effect induced by ondansetron on ACh release, reaching a peak increase of 238% (with bicuculline) and 259% (with flumazenil) over basal levels. These results suggest an interaction of ondansetron with GABAergic neurons modulating ACh release in the rat frontal cortex in vivo.
+

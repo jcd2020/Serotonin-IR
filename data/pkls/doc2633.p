@@ -2,76 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKDOWN'
-p9
+S'Method.ANTAGONIST'
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(33, u'\\\\blocomot')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(7, u'\\\\bdepressi')"
 p13
-g3
-((lp14
-S"(31, u'\\\\bobesity')"
-p15
-aS"(2, u'\\\\bappetite')"
-p16
-aS"(16, u'\\\\bfeed')"
-p17
-atp18
-Rp19
+aS"(13, u'\\\\bantidepress')"
+p14
+atp15
+Rp16
 sS'receptors'
-p20
+p17
 g3
-((lp21
-S'5ht2c'
-p22
-atp23
-Rp24
-sS'regions'
+((lp18
+(S'5ht1a'
+p19
+I2506
+I2512
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
 p25
-g3
-((lp26
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
+p26
+aS"(11, u'\\\\bfluoxetine')"
 p27
-aS"(171, u'(?i)\\\\b(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(41, u'\\\\bhaloperidol')"
 p28
-aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p29
 atp30
 Rp31
-sS'year'
+sS'regions'
 p32
-V2018
-p33
-sS'agonists'
-p34
 g3
-((lp35
-S"(164, u'\\\\blorcaserin')"
+((lp33
+tp34
+Rp35
+sS'year'
 p36
-atp37
-Rp38
+V2008
+p37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp39
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sb.

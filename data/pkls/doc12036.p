@@ -2,76 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.OPTOGENETICS'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+aS"(34, u'\\\\bparkinson')"
 p12
-g3
-((lp13
-S"(15, u'\\\\bschizophreni')"
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(2, u'\\\\bdisorder')"
 p14
-aS"(9, u'\\\\bdepress')"
-p15
-aS"(16, u'\\\\bfeed')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-aS"(1, u'\\\\bmood')"
-p18
-atp19
-Rp20
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1a'
+p19
+I851
+I857
+tp20
+a(S'5ht1a'
 p21
+I776
+I782
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp22
-S'5ht2c'
-p23
-aS'5ht2a'
-p24
-atp25
-Rp26
-sS'regions'
+((lp26
+S"(13, u'\\\\bagonist')"
 p27
-g3
-((lp28
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(11, u'\\\\bfluoxetine')"
+p28
+aS"(51, u'\\\\bway100635')"
 p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(38, u'\\\\bssri')"
 p30
-atp31
-Rp32
-sS'year'
-p33
-V2014
-p34
-sS'agonists'
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p31
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
 p35
 g3
 ((lp36
-S"(176, u'\\\\bdom')"
-p37
-atp38
-Rp39
-sS'species'
+tp37
+Rp38
+sS'year'
+p39
+V2003
 p40
+sS'species'
+p41
 g3
-((lp41
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p42
-atp43
-Rp44
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

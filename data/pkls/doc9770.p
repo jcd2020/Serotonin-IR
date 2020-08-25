@@ -2,80 +2,91 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.ANTAGONIST'
 p5
-aS"(196, u'\\\\bsb ?258719')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.STIMULATION'
-p11
-aS'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
-sS'topics'
-p16
-g3
-((lp17
-S"(26, u'\\\\bcardiovascular')"
-p18
-atp19
-Rp20
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2'
+p15
+I582
+I592
+tp16
+a(S'5ht1a'
+p17
+I1924
+I1930
+tp18
+a(S'5ht3'
+p19
+I1292
+I1297
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-S'5ht7'
+I1211
+I1217
+tp22
+a(S'5ht2'
 p23
-aS'5ht7a'
-p24
-aS'5ht1a'
-p25
-atp26
-Rp27
-sS'regions'
-p28
+I1338
+I1343
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp29
-tp30
-Rp31
-sS'year'
+((lp28
+S"(13, u'\\\\bagonist')"
+p29
+aS"(15, u'\\\\b8ohdpat')"
+p30
+aS"(23, u'\\\\bmdl')"
+p31
+aS"(53, u'\\\\bketanserin')"
 p32
-V2009
+aS"(12, u'\\\\bantagonist')"
 p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+atp34
+Rp35
+sS'regions'
 p36
-aS"(191, u'\\\\bphenylbiguanide')"
-p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p38
-aS"(219, u'\\\\b5 ?ct')"
-p39
-atp40
-Rp41
-sS'species'
-p42
 g3
-((lp43
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+((lp37
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
+p41
+V1995
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p45
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

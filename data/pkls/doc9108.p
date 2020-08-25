@@ -2,82 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
+S'Method.STIMULATION'
 p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(194, u'\\\\bmethysergide')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+tp10
+Rp11
 sS'receptors'
-p20
+p12
 g3
-((lp21
-S'5ht1a'
+((lp13
+(S'5ht2a'
+p14
+I124
+I130
+tp15
+a(S'5ht2a'
+p16
+I236
+I242
+tp17
+a(S'5ht2a'
+p18
+I1534
+I1540
+tp19
+a(S'5ht2a'
+p20
+I718
+I724
+tp21
+a(S'5ht2'
 p22
-aS'5ht2a'
-p23
+I746
+I751
+tp23
 atp24
 Rp25
-sS'regions'
+sS'raw_text_methods'
 p26
 g3
 ((lp27
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+S"(32, u'\\\\blesions')"
 p28
-atp29
-Rp30
-sS'year'
-p31
-V1992
+aS"(49, u'\\\\bdoi')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(20, u'\\\\bbuspirone')"
+((lp33
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p34
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
 p35
-aS"(45, u'\\\\bipsapirone')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p36
-aS"(53, u'\\\\bmethysergide')"
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p38
-atp39
-Rp40
-sS'species'
+atp38
+Rp39
+sS'year'
+p40
+V2003
 p41
+sS'species'
+p42
 g3
-((lp42
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p44
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p45
-atp46
-Rp47
+atp45
+Rp46
 sb.

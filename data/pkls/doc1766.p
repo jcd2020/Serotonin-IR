@@ -2,64 +2,101 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.STIMULATION'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
+aS'Method.ANTAGONIST'
+p6
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p7
+atp8
+Rp9
 sS'topics'
+p10
+g3
+((lp11
+S"(7, u'\\\\bdepressi')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(20, u'\\\\bmood')"
 p14
-g3
-((lp15
-tp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p15
+aS"(2, u'\\\\bdisorder')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
-S'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp20
+(S'5ht3'
+p21
+I570
+I575
+tp22
+a(S'5ht1d'
 p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
+I562
+I568
+tp24
+a(S'5ht7'
+p25
+I581
+I586
+tp26
+a(S'5ht1b'
 p27
-V2001
-p28
-sS'agonists'
+I525
+I531
+tp28
+a(S'5ht1a'
 p29
+I500
+I506
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
+p33
 g3
-((lp30
-S"(175, u'\\\\bdoi')"
-p31
-atp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+((lp34
+S"(38, u'\\\\bssri')"
+p35
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p36
 atp37
 Rp38
+sS'regions'
+p39
+g3
+((lp40
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p41
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p42
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p43
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p44
+atp45
+Rp46
+sS'year'
+p47
+V2017
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
 sb.

@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,74 +10,55 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(8, u'\\\\banxi')"
 p9
-atp10
-Rp11
-sS'topics'
+aS"(13, u'\\\\bantidepress')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(4, u'\\\\btreatment')"
 p12
-g3
-((lp13
-S"(6, u'\\\\bcognit')"
-p14
-aS"(7, u'\\\\bmemory')"
-p15
-atp16
-Rp17
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht2c'
-p20
-atp21
-Rp22
-sS'regions'
+((lp16
+(S'5ht2c'
+p17
+I1024
+I1030
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(11, u'\\\\bfluoxetine')"
 p23
-g3
-((lp24
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p25
-aS"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
+atp24
+Rp25
+sS'regions'
 p26
-atp27
-Rp28
+g3
+((lp27
+tp28
+Rp29
 sS'year'
-p29
-V2003
 p30
-sS'agonists'
+V2006
 p31
-g3
-((lp32
-S"(147, u'\\\\bmdma')"
-p33
-aS"(149, u'\\\\bmem')"
-p34
-aS"(155, u'\\\\bmcpp')"
-p35
-atp36
-Rp37
 sS'species'
-p38
+p32
 g3
-((lp39
-S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
-p40
-aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
-p41
-aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
-p42
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p43
-aS"(3191, u'(?i)\\\\b(worlds|world)\\\\b')"
-p44
-aS"(5784, u'(?i)\\\\b(olds|old)(-|\\\\s+)?(worlds|world)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
-p45
-atp46
-Rp47
+((lp33
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
 sb.

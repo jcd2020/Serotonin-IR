@@ -1,0 +1,90 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(3, u'\\\\bclinical')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1b'
+p16
+I86
+I92
+tp17
+a(S'5ht1b'
+p18
+I818
+I824
+tp19
+a(S'5ht1b'
+p20
+I333
+I339
+tp21
+a(S'5ht1b'
+p22
+I554
+I560
+tp23
+a(S'5ht1b'
+p24
+I1444
+I1450
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
+g3
+((lp29
+S"(1, u'\\\\bneuroimag')"
+p30
+aS"(17, u'\\\\bpet')"
+p31
+aS"(19, u'\\\\bpositron emission tomography')"
+p32
+atp33
+Rp34
+sS'regions'
+p35
+g3
+((lp36
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p37
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p38
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p39
+atp40
+Rp41
+sS'year'
+p42
+V2014
+p43
+sS'species'
+p44
+g3
+((lp45
+tp46
+Rp47
+sb.

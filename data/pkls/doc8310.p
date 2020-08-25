@@ -2,43 +2,44 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(194, u'\\\\bmethysergide')"
+S'Method.AGONIST'
 p5
-aS"(119, u'\\\\britanserin')"
-p6
-aS"(22, u'\\\\bpropranolol')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(33, u'\\\\blocomot')"
+p11
+aS"(35, u'\\\\bnocicept')"
+p12
+atp13
+Rp14
 sS'receptors'
-p20
+p15
 g3
-((lp21
-S'5ht1a'
-p22
-aS'5ht2a'
+((lp16
+(S'5ht1'
+p17
+I1048
+I1053
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
 p23
 atp24
 Rp25
@@ -50,36 +51,12 @@ tp28
 Rp29
 sS'year'
 p30
-V1990
+V2017
 p31
-sS'agonists'
+sS'species'
 p32
 g3
 ((lp33
-S"(176, u'\\\\bdom')"
-p34
-aS"(45, u'\\\\bipsapirone')"
-p35
-aS"(53, u'\\\\bmethysergide')"
-p36
-aS"(149, u'\\\\bmem')"
-p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p38
-atp39
-Rp40
-sS'species'
-p41
-g3
-((lp42
-S"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
-p43
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p44
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p45
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p46
-atp47
-Rp48
+tp34
+Rp35
 sb.

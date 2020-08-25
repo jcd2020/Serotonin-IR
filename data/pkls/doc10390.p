@@ -2,78 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(203, u'\\\\btfmpp')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(4, u'\\\\btreatment')"
 p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+atp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht1c'
-p20
-aS'5ht1b'
-p21
-aS'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
+((lp14
+(S'5ht1'
+p15
+I447
+I452
+tp16
+a(S'5ht1b'
+p17
+I1460
+I1466
+tp18
+a(S'5ht1'
+p19
+I841
+I846
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
 p25
+aS"(23, u'\\\\bmdl')"
+p26
+atp27
+Rp28
+sS'regions'
+p29
 g3
-((lp26
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p27
-atp28
-Rp29
+((lp30
+tp31
+Rp32
 sS'year'
-p30
-V1994
-p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(76, u'\\\\btrifluoromethylphenylpiperazine')"
+p33
+V1989
 p34
-aS"(178, u'\\\\btfmpp')"
+sS'species'
 p35
-aS"(155, u'\\\\bmcpp')"
-p36
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+g3
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
 atp38
 Rp39
-sS'species'
-p40
-g3
-((lp41
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
 sb.

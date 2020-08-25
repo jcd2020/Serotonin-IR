@@ -2,31 +2,33 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(21, u'\\\\bpain')"
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(15, u'\\\\bmemory')"
+p13
+aS"(5, u'\\\\btherap')"
 p14
-aS"(35, u'\\\\bstress')"
+aS"(1, u'\\\\bpatient')"
 p15
-aS"(16, u'\\\\bfeed')"
+aS"(4, u'\\\\btreatment')"
 p16
 atp17
 Rp18
@@ -34,36 +36,44 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht1a'
+(S'5ht2a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(198, u'(?i)\\\\b(internals|internal)(-|\\\\s+)?(capsules|capsule)\\\\b')"
-p26
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I756
+I761
+tp22
+a(S'5ht2a'
+p23
+I1664
+I1669
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-atp28
-Rp29
-sS'year'
+g3
+((lp28
+S"(32, u'\\\\blesions')"
+p29
+aS"(12, u'\\\\bantagonist')"
 p30
-V2018
-p31
-sS'agonists'
-p32
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp33
-tp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp34
+tp35
+Rp36
+sS'year'
+p37
+V2016
 p38
-atp39
-Rp40
+sS'species'
+p39
+g3
+((lp40
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p41
+atp42
+Rp43
 sb.

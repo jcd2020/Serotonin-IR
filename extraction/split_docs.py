@@ -29,7 +29,10 @@ def invalid(text):
         return True
     return False
 
-docs = open("../data/db.txt", "r")
+
+DB = open("../data/db.txt", "r")
+
+
 def run():
     """
     Splits documents from single large text file in ../data/db.txt to one file per document in ../data/subfiles
@@ -37,11 +40,10 @@ def run():
     Filters out invalid documents.
     :return:
     """
-    new_db = open("../data/db_new.txt", "w")
     count = 0
     curr_doc = ""
     size = 0
-    for nl in docs:
+    for nl in DB:
         if re.match(r"^\s*$",nl):
             if size > 1:
                 if not invalid(curr_doc):
@@ -54,7 +56,6 @@ def run():
         else:
             curr_doc += nl + "\n"
             size += 1
-
 
 
 if __name__ == "__main__":

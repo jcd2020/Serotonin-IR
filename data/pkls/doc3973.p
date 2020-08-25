@@ -2,74 +2,72 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
+S'Method.AGONIST'
 p5
-aS"(91, u'\\\\bfluoxetine')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(33, u'\\\\byohimbine')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-S"(9, u'\\\\bdepress')"
-p18
-aS"(35, u'\\\\bstress')"
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I515
+I521
+tp18
+a(S'5ht2'
 p19
-aS"(1, u'\\\\bmood')"
-p20
+I544
+I549
+tp20
 atp21
 Rp22
-sS'receptors'
+sS'raw_text_methods'
 p23
 g3
 ((lp24
-S'5ht2a'
+S"(13, u'\\\\bagonist')"
 p25
-atp26
-Rp27
+aS"(15, u'\\\\b8ohdpat')"
+p26
+atp27
+Rp28
 sS'regions'
-p28
+p29
 g3
-((lp29
-tp30
-Rp31
+((lp30
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p31
+atp32
+Rp33
 sS'year'
-p32
-V2015
-p33
-sS'agonists'
 p34
-g3
-((lp35
-S"(121, u'\\\\bagmatine')"
-p36
-aS"(82, u'\\\\byohimbine')"
-p37
-atp38
-Rp39
+V1988
+p35
 sS'species'
-p40
+p36
 g3
-((lp41
-tp42
-Rp43
+((lp37
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p38
+atp39
+Rp40
 sb.

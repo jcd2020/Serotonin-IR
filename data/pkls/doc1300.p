@@ -2,94 +2,61 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S'Method.ANTAGONIST'
 p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(37, u'\\\\bsb ?216641')"
-p7
-aS"(113, u'\\\\brisperidone')"
+atp6
+Rp7
+sS'topics'
 p8
-aS"(198, u'\\\\bsb ?269970')"
-p9
-aS"(30, u'\\\\bway ?100135')"
+g3
+((lp9
+S"(16, u'\\\\blearning')"
 p10
 atp11
 Rp12
-sS'methods'
+sS'receptors'
 p13
 g3
 ((lp14
-S'Method.KNOCKOUT'
+(S'5ht3'
 p15
-aS'Method.ANTAGONIST'
-p16
+I749
+I754
+tp16
 atp17
 Rp18
-sS'topics'
+sS'raw_text_methods'
 p19
 g3
 ((lp20
-tp21
-Rp22
-sS'receptors'
-p23
-g3
-((lp24
-S'5ht7'
-p25
-aS'5ht1b'
-p26
-aS'5ht1a'
-p27
-aS'5ht7b'
-p28
-aS'5ht1d'
-p29
-atp30
-Rp31
+S"(48, u'\\\\bmdma')"
+p21
+aS"(12, u'\\\\bantagonist')"
+p22
+atp23
+Rp24
 sS'regions'
-p32
+p25
 g3
-((lp33
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p34
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p35
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p36
-atp37
-Rp38
+((lp26
+tp27
+Rp28
 sS'year'
-p39
-V2002
-p40
-sS'agonists'
-p41
-g3
-((lp42
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p43
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p44
-aS"(219, u'\\\\b5 ?ct')"
-p45
-atp46
-Rp47
+p29
+V2005
+p30
 sS'species'
-p48
+p31
 g3
-((lp49
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p50
-aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
-p51
-atp52
-Rp53
+((lp32
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p33
+atp34
+Rp35
 sb.

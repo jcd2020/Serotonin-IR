@@ -2,80 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(96, u'\\\\brs ?102221')"
+S'Method.STIMULATION'
 p5
-aS"(117, u'\\\\bketanserin')"
+aS'Method.ANTAGONIST'
 p6
-aS"(194, u'\\\\bmethysergide')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+atp7
+Rp8
 sS'topics'
-p15
+p9
 g3
-((lp16
-S"(21, u'\\\\bpain')"
-p17
-atp18
-Rp19
+((lp10
+S"(33, u'\\\\blocomot')"
+p11
+atp12
+Rp13
 sS'receptors'
-p20
+p14
 g3
-((lp21
-S'5ht2c'
+((lp15
+(S'5ht7'
+p16
+I1385
+I1390
+tp17
+a(S'5ht2'
+p18
+I1397
+I1402
+tp19
+a(S'5ht1b'
+p20
+I1267
+I1273
+tp21
+a(S'5ht1a'
 p22
-aS'5ht2a'
-p23
+I1254
+I1260
+tp23
 atp24
 Rp25
-sS'regions'
+sS'raw_text_methods'
 p26
 g3
 ((lp27
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+S"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p28
-aS"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p29
-aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
-p30
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
-atp32
-Rp33
-sS'year'
+atp30
+Rp31
+sS'regions'
+p32
+g3
+((lp33
+S"(14, u'(?i)\\\\b(caudals|caudal)\\\\b')"
 p34
-V2016
-p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(53, u'\\\\bmethysergide')"
+atp35
+Rp36
+sS'year'
+p37
+V2010
 p38
-atp39
-Rp40
 sS'species'
-p41
+p39
 g3
-((lp42
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p43
-aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
-p44
-atp45
-Rp46
+((lp40
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p41
+atp42
+Rp43
 sb.

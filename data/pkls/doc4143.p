@@ -2,45 +2,47 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-aS'Method.ANTAGONIST'
+((lp9
+S"(26, u'\\\\bbehav')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(9, u'\\\\bdepress')"
+(S'5ht1a'
 p15
-aS"(3, u'\\\\bsleep')"
-p16
-aS"(16, u'\\\\bfeed')"
+I1231
+I1237
+tp16
+a(S'5ht1a'
 p17
-aS"(11, u'\\\\banxiolyt')"
-p18
+I1462
+I1468
+tp18
 atp19
 Rp20
-sS'receptors'
+sS'raw_text_methods'
 p21
 g3
 ((lp22
-S'5ht1b'
+S"(15, u'\\\\b8ohdpat')"
 p23
-aS'5ht1a'
+aS"(12, u'\\\\bantagonist')"
 p24
 atp25
 Rp26
@@ -54,20 +56,10 @@ sS'year'
 p31
 V2005
 p32
-sS'agonists'
+sS'species'
 p33
 g3
 ((lp34
-S"(175, u'\\\\bdoi')"
-p35
-atp36
-Rp37
-sS'species'
-p38
-g3
-((lp39
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p40
-atp41
-Rp42
+tp35
+Rp36
 sb.

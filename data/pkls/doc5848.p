@@ -2,82 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(119, u'\\\\britanserin')"
-p5
-aS"(110, u'\\\\bclozapine')"
-p6
-aS"(58, u'\\\\bhaloperidol')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
+p5
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p6
+atp7
+Rp8
 sS'topics'
-p16
+p9
 g3
-((lp17
-tp18
-Rp19
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+atp13
+Rp14
 sS'receptors'
-p20
+p15
 g3
-((lp21
-S'5ht5'
-p22
-aS'5ht2c'
-p23
-aS'5ht1a'
-p24
-aS'5ht2a'
+((lp16
+(S'5ht3'
+p17
+I2606
+I2611
+tp18
+a(S'5ht1b'
+p19
+I1842
+I1848
+tp20
+a(S'5ht2c'
+p21
+I1842
+I1850
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-atp26
-Rp27
-sS'regions'
-p28
 g3
-((lp29
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+((lp26
+S"(16, u'\\\\bdiazepam')"
+p27
+aS"(36, u'\\\\bbenzodiazepine')"
+p28
+aS"(31, u'\\\\bbenzodiazepines')"
+p29
+aS"(13, u'\\\\bagonist')"
 p30
-atp31
-Rp32
-sS'year'
-p33
-V1997
-p34
-sS'agonists'
+aS"(11, u'\\\\bfluoxetine')"
+p31
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
 p35
 g3
 ((lp36
-S"(166, u'\\\\bmk ?212')"
-p37
-aS"(23, u'\\\\bclozapine')"
-p38
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+tp37
+Rp38
+sS'year'
 p39
-aS"(43, u'\\\\bhaloperidol')"
+V1999
 p40
-atp41
-Rp42
 sS'species'
-p43
+p41
 g3
-((lp44
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-atp46
-Rp47
+((lp42
+tp43
+Rp44
 sb.

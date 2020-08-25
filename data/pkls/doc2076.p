@@ -2,86 +2,104 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(6, u'\\\\baggressi')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(4, u'\\\\btreatment')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
+((lp16
+(S'5ht1b'
+p17
+I82
+I88
+tp18
+a(S'5ht1b'
+p19
+I1811
+I1817
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-S"(106, u'(?i)\\\\b(interpedunculars|interpeduncular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I71
+I77
+tp22
+a(S'5ht1a'
 p23
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p24
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I766
+I772
+tp24
+a(S'5ht5'
 p25
-aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
-p26
-aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I256
+I266
+tp26
+a(S'5ht1a'
 p27
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p28
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+I308
+I314
+tp28
+a(S'5ht1a'
 p29
-aS"(51, u'(?i)\\\\b(laterodorsals|laterodorsal)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1800
+I1806
+tp30
+a(S'5ht1b'
 p31
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p32
+I319
+I325
+tp32
 atp33
 Rp34
-sS'year'
+sS'raw_text_methods'
 p35
-V1997
-p36
-sS'agonists'
+g3
+((lp36
+S"(13, u'\\\\bagonist')"
 p37
+aS"(15, u'\\\\b8ohdpat')"
+p38
+atp39
+Rp40
+sS'regions'
+p41
 g3
-((lp38
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p39
-atp40
-Rp41
-sS'species'
-p42
-g3
-((lp43
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p44
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+((lp42
+tp43
+Rp44
+sS'year'
 p45
-aS"(4952, u'(?i)\\\\b(felines|feline)\\\\b')"
+V1999
 p46
-aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
+sS'species'
 p47
-atp48
-Rp49
+g3
+((lp48
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p49
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p50
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p51
+atp52
+Rp53
 sb.

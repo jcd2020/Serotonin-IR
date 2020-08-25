@@ -2,84 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.PET'
-p9
-atp10
-Rp11
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(18, u'\\\\bpsychostim')"
-p14
-aS"(6, u'\\\\bcognit')"
-p15
-atp16
-Rp17
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I380
+I386
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht1a'
+I174
+I180
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(84, u'(?i)\\\\b(mesencephalons|mesencephalon)\\\\b')"
-p25
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(118, u'(?i)\\\\b(diencephalons|diencephalon)\\\\b')"
-p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I627
+I633
+tp21
+a(S'5ht1a'
+p22
+I1474
+I1479
+tp23
+a(S'5ht1a'
+p24
+I52
+I58
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-atp29
-Rp30
-sS'year'
+g3
+((lp29
+S"(17, u'\\\\bpet')"
+p30
+aS"(19, u'\\\\bpositron emission tomography')"
 p31
-V2007
+aS"(12, u'\\\\bantagonist')"
 p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(147, u'\\\\bmdma')"
+atp33
+Rp34
+sS'regions'
 p35
-aS"(149, u'\\\\bmem')"
-p36
-atp37
-Rp38
-sS'species'
-p39
 g3
-((lp40
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+((lp36
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p37
+atp38
+Rp39
+sS'year'
+p40
+V2011
 p41
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+sS'species'
 p42
-aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p43
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p44
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p45
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p46
-atp47
-Rp48
+g3
+((lp43
+tp44
+Rp45
 sb.

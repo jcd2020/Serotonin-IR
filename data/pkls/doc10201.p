@@ -2,86 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(30, u'\\\\bway ?100135')"
+S'Method.PET'
 p5
-aS"(133, u'\\\\bmianserin')"
-p6
-aS"(203, u'\\\\btfmpp')"
-p7
-aS"(22, u'\\\\bpropranolol')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.STIMULATION'
-p13
-aS'Method.ANTAGONIST'
-p14
-aS'Method.AGONIST'
-p15
-atp16
-Rp17
+atp6
+Rp7
 sS'topics'
-p18
+p8
 g3
-((lp19
-tp20
-Rp21
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2a'
+p18
+I1341
+I1347
+tp19
+a(S'5ht2a'
+p20
+I1506
+I1512
+tp21
+a(S'5ht2a'
 p22
-g3
-((lp23
-S'5ht1b'
+I1114
+I1120
+tp23
+a(S'5ht2a'
 p24
-aS'5ht1a'
-p25
-aS'5ht1'
+I510
+I516
+tp25
+a(S'5ht2a'
 p26
-aS'5ht1d'
-p27
-atp28
-Rp29
-sS'regions'
-p30
-g3
-((lp31
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I563
+I569
+tp27
+a(S'5ht2a'
+p28
+I54
+I60
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
 p32
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p33
-aS"(90, u'(?i)\\\\b(tegmentums|tegmentum)\\\\b')"
+g3
+((lp33
+S"(17, u'\\\\bpet')"
 p34
-atp35
-Rp36
-sS'year'
-p37
-V1996
+aS"(19, u'\\\\bpositron emission tomography')"
+p35
+atp36
+Rp37
+sS'regions'
 p38
-sS'agonists'
-p39
 g3
-((lp40
-S"(178, u'\\\\btfmpp')"
-p41
-aS"(67, u'\\\\bru ?24969')"
+((lp39
+tp40
+Rp41
+sS'year'
 p42
-atp43
-Rp44
+V2004
+p43
 sS'species'
-p45
+p44
 g3
-((lp46
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p47
-atp48
-Rp49
+((lp45
+tp46
+Rp47
 sb.

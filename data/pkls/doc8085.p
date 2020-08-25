@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,60 +10,51 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(13, u'\\\\bantidepress')"
 p9
 atp10
 Rp11
-sS'topics'
+sS'receptors'
 p12
 g3
 ((lp13
-S"(15, u'\\\\bschizophreni')"
+(S'5ht1a'
 p14
-atp15
-Rp16
-sS'receptors'
-p17
+I992
+I998
+tp15
+atp16
+Rp17
+sS'raw_text_methods'
+p18
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
+((lp19
+tp20
 Rp21
 sS'regions'
 p22
 g3
 ((lp23
-tp24
-Rp25
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p24
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p26
-V2004
-p27
-sS'agonists'
 p28
-g3
-((lp29
-S"(11, u'\\\\bamphetamine')"
-p30
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p31
-atp32
-Rp33
+V1991
+p29
 sS'species'
-p34
+p30
 g3
-((lp35
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p36
-aS"(3636, u'(?i)\\\\b(martins|martin)\\\\b')"
-p37
-aS"(736, u'(?i)\\\\b(fawns|fawn)\\\\b')"
-p38
-atp39
-Rp40
+((lp31
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p32
+atp33
+Rp34
 sb.

@@ -2,70 +2,124 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(7, u'\\\\bdepressi')"
+p10
+aS"(3, u'\\\\bclinical')"
 p11
-g3
-((lp12
-S"(15, u'\\\\bschizophreni')"
+aS"(20, u'\\\\bmood')"
+p12
+aS"(2, u'\\\\bdisorder')"
 p13
-aS"(14, u'\\\\bpsychosis')"
-p14
-atp15
-Rp16
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht2a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp17
+(S'5ht1a'
+p18
+I153
+I164
+tp19
+a(S'5ht1a'
+p20
+I421
+I426
+tp21
+a(S'5ht1a'
 p22
-g3
-((lp23
-S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+I660
+I665
+tp23
+a(S'5ht1a'
 p24
-aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
-p25
-aS"(267, u'(?i)\\\\b(precuneuses|precuneus)\\\\b')"
+I1449
+I1454
+tp25
+a(S'5ht1a'
 p26
-aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
+I1741
+I1752
+tp27
+a(S'5ht1a'
+p28
+I1244
+I1249
+tp29
+a(S'5ht1a'
 p30
-V2005
-p31
-sS'agonists'
+I2055
+I2060
+tp31
+a(S'5ht1a'
 p32
-g3
-((lp33
-S"(10, u'\\\\baet')"
+I754
+I759
+tp33
+a(S'5ht1a'
 p34
-atp35
-Rp36
-sS'species'
-p37
+I47
+I58
+tp35
+a(S'5ht1a'
+p36
+I1176
+I1181
+tp37
+a(S'5ht1a'
+p38
+I837
+I842
+tp39
+a(S'5ht1a'
+p40
+I167
+I172
+tp41
+atp42
+Rp43
+sS'raw_text_methods'
+p44
 g3
-((lp38
-S"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
-p39
-atp40
-Rp41
+((lp45
+S"(17, u'\\\\bpet')"
+p46
+aS"(18, u'\\\\bimaging')"
+p47
+atp48
+Rp49
+sS'regions'
+p50
+g3
+((lp51
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p52
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p53
+atp54
+Rp55
+sS'year'
+p56
+V1999
+p57
+sS'species'
+p58
+g3
+((lp59
+tp60
+Rp61
 sb.

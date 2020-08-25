@@ -2,80 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(84, u'\\\\bsb ?206553')"
-p5
-aS"(52, u'\\\\bmdl ?100907')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+p5
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-tp16
-Rp17
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+atp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht2c'
-p20
-aS'5ht2a'
+((lp14
+(S'5ht1b'
+p15
+I1194
+I1200
+tp16
+a(S'5ht1a'
+p17
+I1524
+I1530
+tp18
+a(S'5ht1d'
+p19
+I1194
+I1202
+tp20
+a(S'5ht1a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I756
+I762
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp25
-S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
-p26
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp26
+S"(11, u'\\\\bfluoxetine')"
 p27
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p28
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
-p32
-V2005
+atp29
+Rp30
+sS'regions'
+p31
+g3
+((lp32
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p33
-sS'agonists'
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
 p34
-g3
-((lp35
-S"(158, u'\\\\blsd')"
-p36
-aS"(49, u'\\\\blysergic acid diethylamide')"
+atp35
+Rp36
+sS'year'
 p37
-atp38
-Rp39
+V1998
+p38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p44
-atp45
-Rp46
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

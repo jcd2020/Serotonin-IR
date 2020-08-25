@@ -1,0 +1,81 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(24, u'\\\\banxiolytic')"
+p9
+aS"(8, u'\\\\banxi')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I1524
+I1530
+tp17
+a(S'5ht1a'
+p18
+I1495
+I1501
+tp19
+a(S'5ht1a'
+p20
+I1798
+I1804
+tp21
+a(S'5ht1a'
+p22
+I650
+I656
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+S"(4, u'\\\\bpcpa')"
+p28
+aS"(36, u'\\\\bbenzodiazepine')"
+p29
+aS"(22, u'\\\\bbuspirone')"
+p30
+atp31
+Rp32
+sS'regions'
+p33
+g3
+((lp34
+tp35
+Rp36
+sS'year'
+p37
+V1994
+p38
+sS'species'
+p39
+g3
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
+sb.

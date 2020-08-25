@@ -2,76 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(8, u'\\\\banxi')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-S"(29, u'\\\\bsex')"
-p14
-aS"(9, u'\\\\bdepress')"
-p15
-aS"(10, u'\\\\banxiety')"
-p16
-aS"(4, u'\\\\blocomot')"
-p17
-atp18
-Rp19
+atp13
+Rp14
 sS'receptors'
-p20
+p15
 g3
-((lp21
-S'5ht1a'
-p22
-aS'5ht3'
-p23
-aS'5ht2'
-p24
-atp25
-Rp26
-sS'regions'
+((lp16
+(S'5ht3'
+p17
+I49
+I54
+tp18
+a(S'5ht3'
+p19
+I834
+I839
+tp20
+a(S'5ht3'
+p21
+I224
+I229
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(3, u'\\\\bimmunoreactiv')"
 p27
-g3
-((lp28
-tp29
-Rp30
-sS'year'
-p31
-V2004
+aS"(54, u'\\\\bautoradiography')"
+p28
+aS"(12, u'\\\\bantagonist')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-tp35
-Rp36
-sS'species'
+((lp33
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
+p34
+aS"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p35
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p36
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p37
-g3
-((lp38
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p39
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+atp38
+Rp39
+sS'year'
 p40
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+V1998
 p41
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+sS'species'
 p42
-atp43
-Rp44
+g3
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

@@ -2,108 +2,130 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(5, u'\\\\bcyanopindolol')"
-p5
-aS"(34, u'\\\\bmetergoline')"
-p6
-aS"(38, u'\\\\bsb ?224289')"
-p7
-aS"(9, u'\\\\bgr ?46611')"
-p8
-aS"(117, u'\\\\bketanserin')"
-p9
-aS"(43, u'\\\\bgr ?127935')"
-p10
-aS"(21, u'\\\\bpindolol')"
-p11
-atp12
-Rp13
-sS'methods'
-p14
-g3
-((lp15
 S'Method.ANTAGONIST'
-p16
+p5
 aS'Method.AGONIST'
-p17
-atp18
-Rp19
+p6
+atp7
+Rp8
 sS'topics'
-p20
+p9
 g3
-((lp21
-tp22
-Rp23
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+aS"(14, u'\\\\bcogniti')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht3'
+p18
+I1673
+I1678
+tp19
+a(S'5ht3'
+p20
+I2689
+I2694
+tp21
+a(S'5ht1'
+p22
+I1039
+I1044
+tp23
+a(S'5ht3'
 p24
-g3
-((lp25
-S'5ht1b'
+I1931
+I1936
+tp25
+a(S'5ht3'
 p26
-aS'5ht5'
-p27
-aS'5ht1'
+I446
+I451
+tp27
+a(S'5ht3'
 p28
-aS'5ht1d'
-p29
-atp30
-Rp31
-sS'regions'
+I2116
+I2121
+tp29
+a(S'5ht1a'
+p30
+I1152
+I1158
+tp31
+a(S'5ht4'
 p32
-g3
-((lp33
-tp34
-Rp35
-sS'year'
+I1397
+I1402
+tp33
+a(S'5ht3'
+p34
+I83
+I88
+tp35
+a(S'5ht5'
 p36
-V2002
-p37
-sS'agonists'
+I1966
+I1971
+tp37
+a(S'5ht3'
 p38
-g3
-((lp39
-S"(108, u'\\\\bpnu ?109291')"
+I2272
+I2277
+tp39
+a(S'5ht2'
 p40
-aS"(96, u'\\\\bsumatriptan')"
-p41
-aS"(100, u'\\\\bcp ?93129')"
-p42
-aS"(112, u'\\\\bgr ?46611')"
-p43
-aS"(25, u'\\\\bdihydroergotamine')"
+I1955
+I1960
+tp41
+atp42
+Rp43
+sS'raw_text_methods'
 p44
-aS"(114, u'\\\\bl ?694247')"
-p45
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p46
-aS"(67, u'\\\\bru ?24969')"
-p47
-aS"(219, u'\\\\b5 ?ct')"
-p48
-atp49
-Rp50
-sS'species'
-p51
 g3
-((lp52
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p53
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+((lp45
+S"(13, u'\\\\bagonist')"
+p46
+aS"(37, u'\\\\bpiperazine')"
+p47
+aS"(30, u'\\\\b2methyl')"
+p48
+aS"(12, u'\\\\bantagonist')"
+p49
+atp50
+Rp51
+sS'regions'
+p52
+g3
+((lp53
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p54
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p55
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p56
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p57
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+atp56
+Rp57
+sS'year'
 p58
-atp59
-Rp60
+V1994
+p59
+sS'species'
+p60
+g3
+((lp61
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p62
+atp63
+Rp64
 sb.

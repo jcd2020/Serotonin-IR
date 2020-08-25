@@ -1,0 +1,67 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+tp9
+Rp10
+sS'receptors'
+p11
+g3
+((lp12
+(S'5ht2a'
+p13
+I390
+I396
+tp14
+a(S'5ht2a'
+p15
+I241
+I247
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+S"(32, u'\\\\blesions')"
+p21
+aS"(44, u'\\\\btetrodotoxin')"
+p22
+atp23
+Rp24
+sS'regions'
+p25
+g3
+((lp26
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p27
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p28
+atp29
+Rp30
+sS'year'
+p31
+V2001
+p32
+sS'species'
+p33
+g3
+((lp34
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
+sb.

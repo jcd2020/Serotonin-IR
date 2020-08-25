@@ -2,43 +2,44 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(30, u'\\\\bway ?100135')"
+S'Method.KNOCKOUT'
 p5
-aS"(198, u'\\\\bsb ?269970')"
-p6
-aS"(58, u'\\\\bhaloperidol')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p6
+atp7
+Rp8
 sS'topics'
-p16
+p9
 g3
-((lp17
-tp18
-Rp19
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
-p20
+p15
 g3
-((lp21
-S'5ht7a'
-p22
-aS'5ht1a'
+((lp16
+(S'5ht2c'
+p17
+I367
+I373
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
 p23
 atp24
 Rp25
@@ -46,38 +47,20 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p28
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p29
-aS"(236, u'(?i)\\\\b(septals|septal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p31
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p32
-atp33
-Rp34
+tp28
+Rp29
 sS'year'
-p35
-V2008
-p36
-sS'agonists'
-p37
-g3
-((lp38
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p39
-aS"(43, u'\\\\bhaloperidol')"
-p40
-atp41
-Rp42
+p30
+V2010
+p31
 sS'species'
-p43
+p32
 g3
-((lp44
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p45
-atp46
-Rp47
+((lp33
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p34
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p35
+atp36
+Rp37
 sb.

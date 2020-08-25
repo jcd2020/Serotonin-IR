@@ -2,70 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(30, u'\\\\bway ?100135')"
+S'Method.PET'
 p5
-aS"(26, u'\\\\bspiperone')"
+aS'Method.AGONIST'
 p6
-aS"(91, u'\\\\bfluoxetine')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+atp7
+Rp8
 sS'topics'
-p15
+p9
 g3
-((lp16
-tp17
-Rp18
+((lp10
+S"(23, u'\\\\bantipsychotic')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I469
+I475
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(13, u'\\\\bagonist')"
+p22
+aS"(17, u'\\\\bpet')"
+p23
+aS"(19, u'\\\\bpositron emission tomography')"
 p24
-g3
-((lp25
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(118, u'(?i)\\\\b(diencephalons|diencephalon)\\\\b')"
-p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(18, u'\\\\bimaging')"
+p25
+atp26
+Rp27
+sS'regions'
 p28
-atp29
-Rp30
+g3
+((lp29
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p31
-V1995
-p32
-sS'agonists'
 p33
-g3
-((lp34
-tp35
-Rp36
+V2013
+p34
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+((lp36
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p37
+atp38
+Rp39
 sb.

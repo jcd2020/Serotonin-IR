@@ -2,74 +2,62 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-tp14
-Rp15
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+atp11
+Rp12
 sS'receptors'
-p16
+p13
 g3
-((lp17
-S'5ht1a'
-p18
-aS'5ht2a'
-p19
-atp20
-Rp21
+((lp14
+(S'5ht6'
+p15
+I242
+I247
+tp16
+a(S'5ht6'
+p17
+I451
+I456
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(12, u'\\\\bantagonist')"
+p23
+atp24
+Rp25
 sS'regions'
-p22
-g3
-((lp23
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p24
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p25
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
 p26
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p27
-atp28
+g3
+((lp27
+tp28
 Rp29
 sS'year'
 p30
-V1997
+V2010
 p31
-sS'agonists'
+sS'species'
 p32
 g3
 ((lp33
-S"(20, u'\\\\bbuspirone')"
-p34
-aS"(189, u'\\\\bethanol')"
-p35
-atp36
-Rp37
-sS'species'
-p38
-g3
-((lp39
-S"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+tp34
+Rp35
 sb.

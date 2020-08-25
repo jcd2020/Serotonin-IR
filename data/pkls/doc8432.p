@@ -1,0 +1,104 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(20, u'\\\\bmood')"
+p13
+aS"(23, u'\\\\bantipsychotic')"
+p14
+aS"(4, u'\\\\btreatment')"
+p15
+aS"(3, u'\\\\bclinical')"
+p16
+atp17
+Rp18
+sS'receptors'
+p19
+g3
+((lp20
+(S'5ht2a'
+p21
+I1236
+I1242
+tp22
+a(S'5ht1b'
+p23
+I1873
+I1879
+tp24
+a(S'5ht2a'
+p25
+I453
+I459
+tp26
+a(S'5ht1a'
+p27
+I1680
+I1686
+tp28
+a(S'5ht2'
+p29
+I453
+I459
+tp30
+a(S'5ht1a'
+p31
+I1853
+I1859
+tp32
+a(S'5ht2a'
+p33
+I1986
+I1992
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
+p37
+g3
+((lp38
+S"(13, u'\\\\bagonist')"
+p39
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V2015
+p49
+sS'species'
+p50
+g3
+((lp51
+tp52
+Rp53
+sb.

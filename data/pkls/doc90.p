@@ -2,76 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(31, u'\\\\brespiratory')"
 p10
-aS'Method.AGONIST'
+aS"(1, u'\\\\bpatient')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(4, u'\\\\blocomot')"
-p16
-atp17
-Rp18
+aS"(3, u'\\\\bclinical')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp17
+(S'5ht2'
+p18
+I866
+I870
+tp19
+a(S'5ht2'
+p20
+I1594
+I1598
+tp21
+a(S'5ht2a'
+p22
+I1534
+I1539
+tp23
+a(S'5ht2b'
 p24
-g3
-((lp25
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I1348
+I1353
+tp25
+a(S'5ht2a'
 p26
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1313
+I1318
+tp27
+a(S'5ht2b'
 p28
-atp29
-Rp30
-sS'year'
-p31
-V2005
+I1534
+I1541
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(58, u'\\\\bosemozotan')"
+((lp33
+S"(13, u'\\\\bagonist')"
+p34
+aS"(49, u'\\\\bdoi')"
 p35
-aS"(90, u'\\\\bmkc ?242')"
-p36
-atp37
-Rp38
-sS'species'
-p39
+atp36
+Rp37
+sS'regions'
+p38
 g3
-((lp40
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p41
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+((lp39
+tp40
+Rp41
+sS'year'
 p42
-atp43
-Rp44
+V2018
+p43
+sS'species'
+p44
+g3
+((lp45
+tp46
+Rp47
 sb.

@@ -2,64 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p11
+p9
 g3
-((lp12
-tp13
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+aS"(5, u'\\\\btherap')"
+p12
+atp13
 Rp14
 sS'receptors'
 p15
 g3
 ((lp16
-S'5ht2a'
+(S'5ht1d'
 p17
-atp18
-Rp19
-sS'regions'
-p20
+I1178
+I1184
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
 g3
-((lp21
-S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p22
-aS"(218, u'(?i)\\\\b(claustrums|claustrum)\\\\b')"
+((lp22
+S"(13, u'\\\\bagonist')"
 p23
-aS"(244, u'(?i)\\\\b(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(47, u'\\\\bsumatriptan')"
 p24
-atp25
-Rp26
-sS'year'
-p27
-V1996
-p28
-sS'agonists'
+aS"(5, u'\\\\bmk801')"
+p25
+aS"(12, u'\\\\bantagonist')"
+p26
+atp27
+Rp28
+sS'regions'
 p29
 g3
 ((lp30
 tp31
 Rp32
-sS'species'
+sS'year'
 p33
-g3
-((lp34
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+V2016
+p34
+sS'species'
 p35
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p36
-atp37
-Rp38
+g3
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

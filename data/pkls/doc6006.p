@@ -2,70 +2,72 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+aS"(23, u'\\\\bantipsychotic')"
+p12
+aS"(4, u'\\\\btreatment')"
 p13
-g3
-((lp14
-S"(32, u'\\\\bnausea')"
-p15
-aS"(29, u'\\\\bsex')"
-p16
-atp17
-Rp18
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht1a'
-p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
+((lp17
+(S'5ht2'
+p18
+I1641
+I1646
+tp19
+a(S'5ht2c'
+p20
+I1641
+I1646
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp26
-tp27
+((lp25
+S"(12, u'\\\\bantagonist')"
+p26
+atp27
 Rp28
-sS'year'
+sS'regions'
 p29
-V2012
-p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(176, u'\\\\bdom')"
+((lp30
+tp31
+Rp32
+sS'year'
 p33
-aS"(40, u'\\\\bflibanserin')"
+V2015
 p34
-atp35
-Rp36
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p39
-atp40
-Rp41
+((lp36
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p37
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

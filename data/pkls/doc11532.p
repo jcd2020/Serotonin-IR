@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,60 +10,72 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.STAINING'
+S"(8, u'\\\\banxi')"
 p9
-atp10
-Rp11
-sS'topics'
+aS"(7, u'\\\\bdepressi')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
 p12
-g3
-((lp13
-S"(29, u'\\\\bsex')"
-p14
-atp15
-Rp16
+aS"(14, u'\\\\bcogniti')"
+p13
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht2a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp17
+(S'5ht1'
+p18
+I814
+I820
+tp19
+a(S'5ht1a'
+p20
+I39
+I45
+tp21
+a(S'5ht1a'
 p22
-g3
-((lp23
-S"(32, u'(?i)\\\\b(hypoglossals|hypoglossal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1740
+I1746
+tp23
+a(S'5ht1a'
 p24
-atp25
-Rp26
-sS'year'
-p27
-V2007
+I814
+I820
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-sS'agonists'
-p29
 g3
-((lp30
-tp31
-Rp32
-sS'species'
-p33
+((lp29
+tp30
+Rp31
+sS'regions'
+p32
 g3
-((lp34
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p35
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p36
-aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
+((lp33
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p34
+atp35
+Rp36
+sS'year'
 p37
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+V2012
 p38
-atp39
-Rp40
+sS'species'
+p39
+g3
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

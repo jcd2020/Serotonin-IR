@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,65 +10,73 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-tp9
-Rp10
-sS'topics'
-p11
-g3
-((lp12
-S"(1, u'\\\\bmood')"
-p13
-atp14
-Rp15
+S"(29, u'\\\\bhyperactiv')"
+p9
+atp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht2'
+p14
+I182
+I187
+tp15
+a(S'5ht2'
 p16
-g3
-((lp17
-S'5ht1a'
+I346
+I351
+tp17
+a(S'5ht2'
 p18
-aS'5ht2c'
-p19
-atp20
-Rp21
-sS'regions'
+I24
+I29
+tp19
+a(S'5ht2'
+p20
+I719
+I724
+tp21
+a(S'5ht2'
 p22
-g3
-((lp23
-S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
+I901
+I906
+tp23
+a(S'5ht2'
 p24
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p25
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+I389
+I394
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-atp29
-Rp30
-sS'year'
-p31
-V2010
+g3
+((lp29
+tp30
+Rp31
+sS'regions'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(141, u'\\\\bro60 ?0175')"
-p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+((lp33
+tp34
+Rp35
+sS'year'
 p36
-atp37
-Rp38
+V2008
+p37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+((lp39
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p41
 atp42
 Rp43

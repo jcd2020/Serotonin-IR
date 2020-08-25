@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,76 +10,53 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.ANTAGONIST'
+S"(24, u'\\\\banxiolytic')"
 p9
-aS'Method.AGONIST'
+aS"(8, u'\\\\banxi')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-aS"(35, u'\\\\bstress')"
-p16
-aS"(1, u'\\\\bmood')"
-p17
-atp18
-Rp19
+aS"(5, u'\\\\btherap')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+atp13
+Rp14
 sS'receptors'
-p20
+p15
 g3
-((lp21
-S'5ht1a'
-p22
-aS'5ht2a'
-p23
-atp24
-Rp25
+((lp16
+(S'5ht3'
+p17
+I478
+I483
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+tp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p28
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p29
-atp30
-Rp31
+((lp26
+S"(10, u'(?i)\\\\b(peripherals|peripheral)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p32
-V2008
-p33
-sS'agonists'
-p34
-g3
-((lp35
-tp36
-Rp37
+p30
+V2009
+p31
 sS'species'
-p38
+p32
 g3
-((lp39
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p40
-aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p41
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p42
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p43
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p44
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p45
-aS"(5300, u'(?i)\\\\b(livestocks|livestock)\\\\b')"
-p46
-atp47
-Rp48
+((lp33
+tp34
+Rp35
 sb.

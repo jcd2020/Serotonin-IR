@@ -2,92 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(5, u'\\\\bcyanopindolol')"
+S'Method.AGONIST'
 p5
-aS"(14, u'\\\\bmethiothepin')"
-p6
-aS"(133, u'\\\\bmianserin')"
-p7
-aS"(117, u'\\\\bketanserin')"
-p8
-aS"(22, u'\\\\bpropranolol')"
-p9
-aS"(28, u'\\\\bspiroxatrine')"
-p10
-aS"(43, u'\\\\bgr ?127935')"
-p11
-aS"(194, u'\\\\bmethysergide')"
-p12
-atp13
-Rp14
-sS'methods'
-p15
-g3
-((lp16
-S'Method.ANTAGONIST'
-p17
-aS'Method.AGONIST'
-p18
-atp19
-Rp20
+atp6
+Rp7
 sS'topics'
-p21
+p8
 g3
-((lp22
-S"(9, u'\\\\bdepress')"
-p23
-atp24
-Rp25
+((lp9
+S"(30, u'\\\\bpain')"
+p10
+aS"(14, u'\\\\bcogniti')"
+p11
+aS"(16, u'\\\\blearning')"
+p12
+aS"(9, u'\\\\bstress')"
+p13
+aS"(15, u'\\\\bmemory')"
+p14
+atp15
+Rp16
 sS'receptors'
-p26
+p17
 g3
-((lp27
-S'5ht5c'
+((lp18
+(S'5ht1a'
+p19
+I1492
+I1498
+tp20
+a(S'5ht1a'
+p21
+I1056
+I1062
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+aS"(15, u'\\\\b8ohdpat')"
 p28
-aS'5ht2c'
+aS"(48, u'\\\\bmdma')"
 p29
-aS'5ht1d'
-p30
-atp31
-Rp32
+atp30
+Rp31
 sS'regions'
-p33
+p32
 g3
-((lp34
-tp35
-Rp36
+((lp33
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p34
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p35
+atp36
+Rp37
 sS'year'
-p37
-V1995
 p38
-sS'agonists'
+V2006
 p39
-g3
-((lp40
-S"(96, u'\\\\bsumatriptan')"
-p41
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p42
-aS"(53, u'\\\\bmethysergide')"
-p43
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p44
-aS"(219, u'\\\\b5 ?ct')"
-p45
-atp46
-Rp47
 sS'species'
-p48
+p40
 g3
-((lp49
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p50
-atp51
-Rp52
+((lp41
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p42
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

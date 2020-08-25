@@ -2,75 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(3, u'\\\\bclinical')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(26, u'\\\\bcardiovascular')"
+(S'5ht1a'
 p15
-aS"(12, u'\\\\banxiogen')"
-p16
-aS"(35, u'\\\\bstress')"
+I237
+I243
+tp16
+a(S'5ht1a'
 p17
-aS"(11, u'\\\\banxiolyt')"
-p18
-aS"(10, u'\\\\banxiety')"
+I554
+I560
+tp18
+a(S'5ht1a'
 p19
-atp20
-Rp21
-sS'receptors'
-p22
-g3
-((lp23
-S'5ht1a'
-p24
+I1269
+I1275
+tp20
+a(S'5ht1a'
+p21
+I1174
+I1180
+tp22
+a(S'5ht1a'
+p23
+I48
+I54
+tp24
 atp25
 Rp26
-sS'regions'
+sS'raw_text_methods'
 p27
 g3
 ((lp28
-tp29
-Rp30
-sS'year'
-p31
-V2009
-p32
-sS'agonists'
+S"(13, u'\\\\bagonist')"
+p29
+aS"(15, u'\\\\b8ohdpat')"
+p30
+atp31
+Rp32
+sS'regions'
 p33
 g3
 ((lp34
-S"(21, u'\\\\bcannabidiol')"
-p35
-atp36
-Rp37
-sS'species'
+tp35
+Rp36
+sS'year'
+p37
+V2008
 p38
+sS'species'
+p39
 g3
-((lp39
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p40
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+((lp40
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
 atp43
 Rp44

@@ -2,72 +2,102 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
+S'Method.STAINING'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(28, u'\\\\bgastrointestin')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(5, u'\\\\btherap')"
 p13
-g3
-((lp14
-S"(9, u'\\\\bdepress')"
+aS"(30, u'\\\\bpain')"
+p14
+aS"(8, u'\\\\banxi')"
 p15
-aS"(4, u'\\\\blocomot')"
+aS"(1, u'\\\\bpatient')"
 p16
-atp17
-Rp18
+aS"(4, u'\\\\btreatment')"
+p17
+atp18
+Rp19
 sS'receptors'
-p19
+p20
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp21
+(S'5ht3'
+p22
+I797
+I802
+tp23
+a(S'5ht3'
 p24
-g3
-((lp25
-S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+I813
+I818
+tp25
+a(S'5ht3'
 p26
-aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
+I1635
+I1640
+tp27
+a(S'5ht4'
+p28
+I826
+I831
+tp29
+a(S'5ht4'
 p30
-V1991
-p31
-sS'agonists'
+I1646
+I1651
+tp31
+a(S'5ht4'
 p32
+I842
+I847
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
 g3
-((lp33
-S"(43, u'\\\\bhaloperidol')"
-p34
-atp35
-Rp36
+((lp37
+S"(18, u'\\\\bimaging')"
+p38
+atp39
+Rp40
+sS'regions'
+p41
+g3
+((lp42
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p43
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p44
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V2015
+p49
 sS'species'
-p37
+p50
 g3
-((lp38
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+((lp51
+tp52
+Rp53
 sb.

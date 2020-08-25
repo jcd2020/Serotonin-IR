@@ -2,88 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(5, u'\\\\bcyanopindolol')"
-p5
-aS"(14, u'\\\\bmethiothepin')"
-p6
-aS"(194, u'\\\\bmethysergide')"
-p7
-aS"(34, u'\\\\bmetergoline')"
-p8
-aS"(33, u'\\\\byohimbine')"
-p9
-aS"(22, u'\\\\bpropranolol')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
 S'Method.ANTAGONIST'
-p15
+p5
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p6
+atp7
+Rp8
 sS'topics'
-p19
+p9
 g3
-((lp20
-tp21
-Rp22
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(14, u'\\\\bcogniti')"
+p12
+aS"(25, u'\\\\bsocial')"
+p13
+aS"(23, u'\\\\bantipsychotic')"
+p14
+aS"(29, u'\\\\bhyperactiv')"
+p15
+aS"(18, u'\\\\bavoidan')"
+p16
+aS"(4, u'\\\\btreatment')"
+p17
+atp18
+Rp19
 sS'receptors'
-p23
+p20
 g3
-((lp24
-S'5ht1b'
-p25
-aS'5ht1a'
+((lp21
+(S'5ht1a'
+p22
+I329
+I335
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-aS'5ht1d'
-p27
-atp28
+g3
+((lp27
+tp28
 Rp29
 sS'regions'
 p30
 g3
 ((lp31
-tp32
-Rp33
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p32
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p33
+atp34
+Rp35
 sS'year'
-p34
-V1992
-p35
-sS'agonists'
 p36
-g3
-((lp37
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p38
-aS"(53, u'\\\\bmethysergide')"
-p39
-aS"(67, u'\\\\bru ?24969')"
-p40
-aS"(82, u'\\\\byohimbine')"
-p41
-atp42
-Rp43
+V2009
+p37
 sS'species'
-p44
+p38
 g3
-((lp45
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p46
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p47
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p48
-atp49
-Rp50
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

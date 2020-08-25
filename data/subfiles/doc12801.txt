@@ -1,4 +1,0 @@
-Tsunashima, K., et al. (1994). "THE EFFECT OF DELTA-SLEEP-INDUCING PEPTIDE (DSIP) ON THE CHANGES OF BODY (CORE) TEMPERATURE-INDUCED BY SEROTONERGIC AGONISTS IN RATS." Peptides 15(1): 61-65.
-
-	Hyperthermia induced by high doses of 5-methoxy-N,N-dimethyl-tryptamine (5-MeODMT) was diminished and hypothermia induced by low doses of 5-MeODMT was enhanced by pretreatment with delta sleep-inducing peptide (DSIP). Delta sleep-inducing peptide had an enhancing effect of hypothermia induced by 8-hydroxy-2-(di-n-propylamino) tetralin (8-OH-DPAT). This action of DSIP was completely inhibited by ICV injection of anti-DSIP. Pindolol prevented the enhancing action of DSIP on both 8-OH-DPAT- and apomorphine-induced hypothermia. It is suggested that the thermoregulatory action of DSIP is primarily exerted by a 5-HT1A mechanism in the rat.
-

@@ -2,72 +2,109 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(34, u'\\\\bparkinson')"
 p10
-aS'Method.AGONIST'
+aS"(4, u'\\\\btreatment')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(4, u'\\\\blocomot')"
-p16
-atp17
-Rp18
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
+p17
+I229
+I235
+tp18
+a(S'5ht2a'
 p19
-g3
-((lp20
-tp21
-Rp22
-sS'regions'
+I845
+I851
+tp20
+a(S'5ht2c'
+p21
+I229
+I236
+tp22
+a(S'5ht2a'
 p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
+I460
+I466
+tp24
+a(S'5ht2a'
+p25
+I896
+I902
+tp26
+a(S'5ht2a'
 p27
-V1998
-p28
-sS'agonists'
+I33
+I39
+tp28
+a(S'5ht2c'
 p29
-g3
-((lp30
-S"(192, u'\\\\bquipazine')"
+I515
+I521
+tp30
+a(S'5ht2c'
 p31
-atp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p36
-aS"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
+I845
+I852
+tp32
+a(S'5ht2a'
+p33
+I1099
+I1105
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
 p37
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp38
+S"(9, u'\\\\britanserin')"
 p39
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+aS"(50, u'\\\\bm100907')"
 p40
-atp41
-Rp42
+aS"(12, u'\\\\bantagonist')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+tp46
+Rp47
+sS'year'
+p48
+V2010
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p52
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p53
+atp54
+Rp55
 sb.

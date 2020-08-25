@@ -2,68 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(30, u'\\\\bpain')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(8, u'\\\\blearning')"
-p15
-atp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht3'
-p20
-aS'5ht3a'
-p21
-atp22
-Rp23
+((lp16
+(S'5ht1d'
+p17
+I428
+I434
+tp18
+a(S'5ht1b'
+p19
+I428
+I433
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+atp26
+Rp27
 sS'regions'
-p24
+p28
 g3
-((lp25
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
-p29
-V1997
+((lp29
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p30
-sS'agonists'
+aS"(14, u'(?i)\\\\b(caudals|caudal)\\\\b')"
 p31
-g3
-((lp32
-S"(11, u'\\\\bamphetamine')"
-p33
-atp34
-Rp35
+atp32
+Rp33
+sS'year'
+p34
+V1997
+p35
 sS'species'
 p36
 g3
 ((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+tp38
+Rp39
 sb.

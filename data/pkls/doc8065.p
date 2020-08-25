@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,54 +10,79 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(26, u'\\\\bbehav')"
 p9
-atp10
-Rp11
-sS'topics'
+aS"(7, u'\\\\bdepressi')"
+p10
+aS"(9, u'\\\\bstress')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
+((lp16
+(S'5ht1b'
+p17
+I811
+I817
+tp18
+a(S'5ht1b'
+p19
+I1022
+I1028
+tp20
+a(S'5ht1b'
 p21
-g3
-((lp22
-tp23
-Rp24
-sS'year'
+I513
+I519
+tp22
+a(S'5ht1b'
+p23
+I1126
+I1132
+tp24
+a(S'5ht1b'
 p25
-V1991
-p26
-sS'agonists'
-p27
-g3
-((lp28
-S"(149, u'\\\\bmem')"
+I660
+I666
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-atp30
-Rp31
-sS'species'
-p32
 g3
-((lp33
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p34
-aS"(3636, u'(?i)\\\\b(martins|martin)\\\\b')"
+((lp30
+tp31
+Rp32
+sS'regions'
+p33
+g3
+((lp34
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p35
-atp36
-Rp37
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p36
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p37
+atp38
+Rp39
+sS'year'
+p40
+V1997
+p41
+sS'species'
+p42
+g3
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

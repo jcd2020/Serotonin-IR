@@ -2,68 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(32, u'\\\\bvomit')"
 p11
-g3
-((lp12
-S"(32, u'\\\\bnausea')"
+aS"(5, u'\\\\btherap')"
+p12
+aS"(3, u'\\\\bclinical')"
 p13
-aS"(10, u'\\\\banxiety')"
-p14
-atp15
-Rp16
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht1b'
-p19
-aS'5ht1d'
-p20
-atp21
-Rp22
-sS'regions'
-p23
+((lp17
+(S'5ht3'
+p18
+I552
+I557
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
 g3
-((lp24
-S"(379, u'(?i)\\\\b(subarachnoids|subarachnoid)(-|\\\\s+)?(spaces|space)\\\\b')"
+((lp23
+S"(41, u'\\\\bhaloperidol')"
+p24
+aS"(12, u'\\\\bantagonist')"
 p25
 atp26
 Rp27
-sS'year'
+sS'regions'
 p28
-V2010
-p29
-sS'agonists'
+g3
+((lp29
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p30
-g3
-((lp31
-tp32
-Rp33
-sS'species'
+atp31
+Rp32
+sS'year'
+p33
+V2016
 p34
+sS'species'
+p35
 g3
-((lp35
-S"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
-p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p38
-atp39
-Rp40
+((lp36
+tp37
+Rp38
 sb.

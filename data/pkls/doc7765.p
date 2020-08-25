@@ -2,68 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
-p11
+p8
 g3
-((lp12
-S"(3, u'\\\\bsleep')"
-p13
-atp14
-Rp15
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+atp11
+Rp12
 sS'receptors'
-p16
+p13
 g3
-((lp17
-S'5ht1a'
-p18
-aS'5ht1e'
+((lp14
+(S'5ht2'
+p15
+I285
+I290
+tp16
+a(S'5ht2'
+p17
+I896
+I901
+tp18
+a(S'5ht2a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p24
-aS"(5, u'(?i)\\\\b(inferiors|inferior)(-|\\\\s+)?(olivaries|olivary)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I262
+I273
+tp20
+a(S'5ht2'
+p21
+I395
+I400
+tp22
+a(S'5ht2a'
+p23
+I92
+I103
+tp24
+a(S'5ht2'
 p25
-aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
-p26
+I1083
+I1088
+tp26
 atp27
 Rp28
-sS'year'
+sS'raw_text_methods'
 p29
-V2009
-p30
-sS'agonists'
-p31
 g3
-((lp32
-tp33
+((lp30
+S"(17, u'\\\\bpet')"
+p31
+aS"(19, u'\\\\bpositron emission tomography')"
+p32
+atp33
 Rp34
-sS'species'
+sS'regions'
 p35
 g3
 ((lp36
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p38
-atp39
-Rp40
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p39
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
+p43
+V2000
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

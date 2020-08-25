@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,27 +10,28 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
 tp9
 Rp10
-sS'topics'
+sS'receptors'
 p11
 g3
 ((lp12
-S"(6, u'\\\\bcognit')"
+(S'5ht1a'
 p13
-aS"(13, u'\\\\bpsychedel')"
-p14
+I320
+I326
+tp14
 atp15
 Rp16
-sS'receptors'
+sS'raw_text_methods'
 p17
 g3
 ((lp18
-S'5ht2a'
+S"(51, u'\\\\bway100635')"
 p19
 atp20
 Rp21
@@ -38,26 +39,18 @@ sS'regions'
 p22
 g3
 ((lp23
-tp24
-Rp25
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p24
+atp25
+Rp26
 sS'year'
-p26
-V2018
 p27
-sS'agonists'
+V2000
 p28
-g3
-((lp29
-tp30
-Rp31
 sS'species'
-p32
+p29
 g3
-((lp33
-S"(3592, u'(?i)\\\\b(ravens|raven)\\\\b')"
-p34
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p35
-atp36
-Rp37
+((lp30
+tp31
+Rp32
 sb.

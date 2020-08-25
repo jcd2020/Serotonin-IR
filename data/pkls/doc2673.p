@@ -2,53 +2,56 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(42, u'\\\\bvortioxetine')"
+S'Method.STIMULATION'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
+aS'Method.ANTAGONIST'
+p6
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p7
+atp8
+Rp9
 sS'topics'
+p10
+g3
+((lp11
+tp12
+Rp13
+sS'receptors'
 p14
 g3
 ((lp15
-S"(8, u'\\\\blearning')"
+(S'5ht1d'
 p16
-aS"(6, u'\\\\bcognit')"
-p17
-aS"(9, u'\\\\bdepress')"
+I744
+I750
+tp17
+a(S'5ht1d'
 p18
-aS"(7, u'\\\\bmemory')"
-p19
-atp20
-Rp21
-sS'receptors'
-p22
-g3
-((lp23
-S'5ht7a'
+I1005
+I1011
+tp19
+a(S'5ht1d'
+p20
+I781
+I787
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-aS'5ht1b'
-p25
-aS'5ht1a'
+g3
+((lp25
+S"(13, u'\\\\bagonist')"
 p26
-aS'5ht3'
+aS"(47, u'\\\\bsumatriptan')"
 p27
-aS'5ht1d'
+aS"(12, u'\\\\bantagonist')"
 p28
 atp29
 Rp30
@@ -56,28 +59,20 @@ sS'regions'
 p31
 g3
 ((lp32
-tp33
-Rp34
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p33
+atp34
+Rp35
 sS'year'
-p35
-V2014
 p36
-sS'agonists'
+V1994
 p37
+sS'species'
+p38
 g3
-((lp38
-S"(94, u'\\\\bvortioxetine')"
-p39
-aS"(149, u'\\\\bmem')"
+((lp39
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p40
 atp41
 Rp42
-sS'species'
-p43
-g3
-((lp44
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-atp46
-Rp47
 sb.

@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,56 +10,108 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(22, u'\\\\bschizophreni')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
-p14
-atp15
-Rp16
+aS"(23, u'\\\\bantipsychotic')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2'
+p15
+I1186
+I1191
+tp16
+a(S'5ht2'
 p17
-g3
-((lp18
-S'5ht1a'
+I1575
+I1580
+tp18
+a(S'5ht2'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
+I975
+I980
+tp20
+a(S'5ht2a'
+p21
+I967
+I973
+tp22
+a(S'5ht2'
+p23
+I1005
+I1010
 tp24
-Rp25
-sS'year'
-p26
-V1994
+a(S'5ht2'
+p25
+I1520
+I1525
+tp26
+a(S'5ht2'
 p27
-sS'agonists'
-p28
-g3
-((lp29
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p30
-atp31
-Rp32
-sS'species'
+I1231
+I1236
+tp28
+a(S'5ht2c'
+p29
+I988
+I994
+tp30
+a(S'5ht2'
+p31
+I1848
+I1853
+tp32
+a(S'5ht2'
 p33
+I1857
+I1862
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
+p37
 g3
-((lp34
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p35
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p36
-atp37
-Rp38
+((lp38
+S"(54, u'\\\\bautoradiography')"
+p39
+atp40
+Rp41
+sS'regions'
+p42
+g3
+((lp43
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p44
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p45
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p46
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V2016
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p54
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p55
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p56
+atp57
+Rp58
 sb.

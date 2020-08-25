@@ -2,76 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(119, u'\\\\britanserin')"
+S'Method.AGONIST'
 p5
-aS"(58, u'\\\\bhaloperidol')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+S"(12, u'\\\\bsleep')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I1186
+I1192
+tp16
+a(S'5ht1a'
+p17
+I207
+I213
+tp18
+a(S'5ht7'
 p19
-g3
-((lp20
-S'5ht1a'
-p21
-aS'5ht2c'
-p22
-aS'5ht2a'
+I49
+I59
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-atp24
-Rp25
-sS'regions'
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(15, u'\\\\b8ohdpat')"
 p26
+atp27
+Rp28
+sS'regions'
+p29
 g3
-((lp27
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+((lp30
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p31
-V1997
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(85, u'\\\\b8 ?oh ?dpat')"
+atp32
+Rp33
+sS'year'
+p34
+V1994
 p35
-aS"(43, u'\\\\bhaloperidol')"
-p36
-atp37
-Rp38
 sS'species'
-p39
+p36
 g3
-((lp40
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

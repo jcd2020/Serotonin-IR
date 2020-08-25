@@ -1,4 +1,0 @@
-Wree, A., et al. (1987). "Effect of the 5-HT1A receptor agonist ipsapirone on the local cerebral glucose utilization of the rat hippocampus." Brain Res 436(2): 283-290.
-
-	Local cerebral glucose utilization (LCGU) was measured in the hippocampus of the rat brain following i.p. injection of the anxiolytic drug and 5-HT1A receptor agonist ipsapirone (TVX Q 7821). Administration of ipsapirone (5 mg/kg) reduced glucose utilization in the various hippocampal areas to variable extent. The most subtle reduction took place in the dorsal subiculum, while the most pronounced decrease was found in sector CA4 of Ammon's horn. The degree of LCGU reduction can be related to the 5-HT1A receptor density in the respective areas.
-

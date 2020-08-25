@@ -2,76 +2,97 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
+S'Method.ANTAGONIST'
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(33, u'\\\\blocomot')"
 p13
-g3
-((lp14
-S"(15, u'\\\\bschizophreni')"
-p15
-atp16
-Rp17
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht6'
 p18
-g3
-((lp19
-S'5ht1b'
+I402
+I407
+tp19
+a(S'5ht6'
 p20
-aS'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+I650
+I655
+tp21
+a(S'5ht6'
+p22
+I49
+I54
+tp23
+a(S'5ht6'
 p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
+I1124
+I1129
+tp25
+a(S'5ht6'
+p26
+I1007
+I1012
+tp27
+a(S'5ht6'
 p28
-V1997
-p29
-sS'agonists'
+I1781
+I1786
+tp29
+a(S'5ht6'
 p30
+I1442
+I1447
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
+p34
 g3
-((lp31
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p32
-aS"(67, u'\\\\bru ?24969')"
-p33
-atp34
-Rp35
-sS'species'
+((lp35
+S"(13, u'\\\\bagonist')"
 p36
-g3
-((lp37
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
+p37
+atp38
+Rp39
+sS'regions'
 p40
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
+g3
+((lp41
+tp42
+Rp43
+sS'year'
+p44
+V2010
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

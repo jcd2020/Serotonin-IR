@@ -2,94 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(42, u'\\\\bvortioxetine')"
+S'Method.STIMULATION'
 p5
-aS"(91, u'\\\\bfluoxetine')"
+aS'Method.ANTAGONIST'
 p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p7
+atp8
+Rp9
 sS'topics'
-p15
+p10
 g3
-((lp16
-S"(6, u'\\\\bcognit')"
-p17
-aS"(35, u'\\\\bstress')"
-p18
-aS"(9, u'\\\\bdepress')"
-p19
-aS"(7, u'\\\\bmemory')"
-p20
-atp21
-Rp22
+((lp11
+S"(13, u'\\\\bantidepress')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
 sS'receptors'
-p23
+p16
 g3
-((lp24
-S'5ht1b'
+((lp17
+(S'5ht1a'
+p18
+I344
+I350
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
+g3
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+aS"(24, u'\\\\bgepirone')"
 p25
-aS'5ht1a'
+aS"(21, u'\\\\bipsapirone')"
 p26
-aS'5ht3a'
+aS"(22, u'\\\\bbuspirone')"
 p27
-aS'5ht1d'
+aS"(12, u'\\\\bantagonist')"
 p28
-aS'5ht7a'
-p29
-aS'5ht3'
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'regions'
+p31
+g3
+((lp32
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p33
-g3
-((lp34
-S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p35
-atp36
-Rp37
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p34
+atp35
+Rp36
 sS'year'
+p37
+V1991
 p38
-V2015
-p39
-sS'agonists'
-p40
-g3
-((lp41
-S"(94, u'\\\\bvortioxetine')"
-p42
-aS"(149, u'\\\\bmem')"
-p43
-aS"(194, u'\\\\bsr ?57227')"
-p44
-atp45
-Rp46
 sS'species'
-p47
+p39
 g3
-((lp48
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p49
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p50
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p51
-atp52
-Rp53
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

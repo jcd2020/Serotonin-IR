@@ -2,78 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(26, u'\\\\bbehav')"
 p12
-g3
-((lp13
-S"(4, u'\\\\blocomot')"
-p14
-atp15
-Rp16
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp17
+(S'5ht1a'
+p18
+I717
+I723
+tp19
+a(S'5ht1a'
+p20
+I1534
+I1540
+tp21
+a(S'5ht1a'
 p22
-g3
-((lp23
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p24
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p25
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I857
+I863
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p27
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+g3
+((lp27
+S"(54, u'\\\\bautoradiography')"
 p28
-atp29
-Rp30
-sS'year'
-p31
-V2000
+aS"(12, u'\\\\bantagonist')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(85, u'\\\\b8 ?oh ?dpat')"
+((lp33
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p34
+aS"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
 p35
-atp36
-Rp37
-sS'species'
-p38
-g3
-((lp39
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p36
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p37
+atp38
+Rp39
+sS'year'
 p40
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+V2005
 p41
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+sS'species'
 p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+g3
+((lp43
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p44
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

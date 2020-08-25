@@ -1,0 +1,69 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(14, u'\\\\bcogniti')"
+p9
+aS"(20, u'\\\\bmood')"
+p10
+aS"(19, u'\\\\bpsychosis')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2'
+p16
+I1658
+I1663
+tp17
+a(S'5ht2a'
+p18
+I1635
+I1646
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
+g3
+((lp23
+S"(27, u'\\\\blsd')"
+p24
+aS"(17, u'\\\\bpet')"
+p25
+aS"(29, u'\\\\bdiethylamide')"
+p26
+atp27
+Rp28
+sS'regions'
+p29
+g3
+((lp30
+tp31
+Rp32
+sS'year'
+p33
+V2016
+p34
+sS'species'
+p35
+g3
+((lp36
+tp37
+Rp38
+sb.

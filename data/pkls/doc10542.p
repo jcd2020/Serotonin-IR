@@ -2,66 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(17, u'\\\\bnan ?190')"
+S'Method.ANTAGONIST'
 p5
-aS"(31, u'\\\\bway ?100635')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+tp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp14
+(S'5ht1a'
+p15
+I937
+I943
+tp16
+a(S'5ht1a'
+p17
+I87
+I93
+tp18
+a(S'5ht1a'
+p19
+I204
+I210
+tp20
+a(S'5ht1b'
+p21
+I706
+I713
+tp22
+a(S'5ht1a'
 p23
-g3
-((lp24
-S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+I1182
+I1188
+tp24
+a(S'5ht1a'
 p25
-atp26
-Rp27
-sS'year'
-p28
-V2002
+I706
+I712
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-sS'agonists'
-p30
 g3
-((lp31
-tp32
-Rp33
-sS'species'
+((lp30
+S"(7, u'\\\\bpropranolol')"
+p31
+aS"(23, u'\\\\bmdl')"
+p32
+aS"(22, u'\\\\bbuspirone')"
+p33
+aS"(15, u'\\\\b8ohdpat')"
 p34
-g3
-((lp35
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+aS"(13, u'\\\\bagonist')"
+p35
+aS"(12, u'\\\\bantagonist')"
 p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-atp38
-Rp39
+atp37
+Rp38
+sS'regions'
+p39
+g3
+((lp40
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V1991
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

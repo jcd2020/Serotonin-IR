@@ -2,76 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-tp16
-Rp17
+((lp10
+tp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht2c'
-p20
-aS'5ht2a'
-p21
-atp22
-Rp23
-sS'regions'
-p24
+((lp14
+(S'5ht2a'
+p15
+I369
+I375
+tp16
+a(S'5ht2a'
+p17
+I189
+I195
+tp18
+a(S'5ht2a'
+p19
+I175
+I186
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp25
-tp26
-Rp27
-sS'year'
+((lp24
+S"(17, u'\\\\bpet')"
+p25
+aS"(19, u'\\\\bpositron emission tomography')"
+p26
+aS"(18, u'\\\\bimaging')"
+p27
+aS"(12, u'\\\\bantagonist')"
 p28
-V1997
-p29
-sS'agonists'
-p30
+atp29
+Rp30
+sS'regions'
+p31
 g3
-((lp31
-tp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(5685, u'(?i)\\\\b(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)\\\\b')"
+((lp32
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
 p36
-aS"(1395, u'(?i)\\\\b(frogs|frog)\\\\b')"
+V2001
 p37
-aS"(2621, u'(?i)\\\\b(vertebrates|vertebrate)\\\\b')"
+sS'species'
 p38
-aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
-p39
-aS"(2611, u'(?i)\\\\b(amphibians|amphibian)\\\\b')"
-p40
-aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
-p41
-aS"(1312, u'(?i)\\\\b(pigeons|pigeon)\\\\b')"
-p42
-atp43
-Rp44
+g3
+((lp39
+tp40
+Rp41
 sb.

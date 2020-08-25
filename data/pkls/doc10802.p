@@ -2,80 +2,91 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.KNOCKOUT'
-p10
-aS'Method.ANTAGONIST'
-p11
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p6
+atp7
+Rp8
 sS'topics'
-p15
+p9
 g3
-((lp16
-S"(13, u'\\\\bpsychedel')"
-p17
-aS"(10, u'\\\\banxiety')"
-p18
-aS"(1, u'\\\\bmood')"
-p19
-atp20
-Rp21
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht3'
+p16
+I1301
+I1306
+tp17
+a(S'5ht1b'
+p18
+I82
+I88
+tp19
+a(S'5ht3'
+p20
+I1576
+I1581
+tp21
+a(S'5ht1b'
 p22
-g3
-((lp23
-S'5ht1a'
+I1702
+I1708
+tp23
+a(S'5ht2'
 p24
-aS'5ht5'
-p25
-aS'5ht2a'
-p26
-atp27
-Rp28
-sS'regions'
-p29
+I1502
+I1507
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
 g3
-((lp30
-S"(270, u'(?i)\\\\b(v1s|v1)\\\\b')"
+((lp29
+S"(53, u'\\\\bketanserin')"
+p30
+aS"(23, u'\\\\bmdl')"
 p31
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+aS"(29, u'\\\\bdiethylamide')"
 p32
-atp33
-Rp34
-sS'year'
+aS"(13, u'\\\\bagonist')"
+p33
+aS"(46, u'\\\\bspiperone')"
+p34
+aS"(12, u'\\\\bantagonist')"
 p35
-V2018
-p36
-sS'agonists'
-p37
+atp36
+Rp37
+sS'regions'
+p38
 g3
-((lp38
-S"(179, u'\\\\b5 ?meo ?dmt')"
-p39
-atp40
+((lp39
+tp40
 Rp41
-sS'species'
+sS'year'
 p42
-g3
-((lp43
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+V1992
+p43
+sS'species'
 p44
-atp45
-Rp46
+g3
+((lp45
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

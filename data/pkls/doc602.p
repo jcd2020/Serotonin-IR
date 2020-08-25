@@ -2,74 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(35, u'\\\\baripiprazole')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
+tp5
+Rp6
+sS'topics'
+p7
 g3
-((lp9
-S'Method.ANTAGONIST'
+((lp8
+S"(26, u'\\\\bbehav')"
+p9
+aS"(7, u'\\\\bdepressi')"
 p10
-aS'Method.AGONIST'
+aS"(9, u'\\\\bstress')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(37, u'\\\\baddict')"
+(S'5ht1a'
 p16
-aS"(4, u'\\\\blocomot')"
-p17
-atp18
-Rp19
-sS'receptors'
+I95
+I101
+tp17
+a(S'5ht1a'
+p18
+I1275
+I1281
+tp19
+a(S'5ht1a'
 p20
+I1154
+I1160
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp21
-S'5ht1a'
-p22
-aS'5ht2a'
-p23
-atp24
-Rp25
+((lp25
+tp26
+Rp27
 sS'regions'
-p26
+p28
 g3
-((lp27
-tp28
-Rp29
+((lp29
+tp30
+Rp31
 sS'year'
-p30
-V2011
-p31
-sS'agonists'
 p32
-g3
-((lp33
-S"(223, u'\\\\baripiprazole')"
-p34
-aS"(11, u'\\\\bamphetamine')"
-p35
-atp36
-Rp37
+V2009
+p33
 sS'species'
-p38
+p34
 g3
-((lp39
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+((lp35
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p36
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

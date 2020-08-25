@@ -1,0 +1,83 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
+p12
+g3
+((lp13
+(S'5ht1a'
+p14
+I1651
+I1657
+tp15
+a(S'5ht1a'
+p16
+I69
+I75
+tp17
+a(S'5ht1a'
+p18
+I331
+I337
+tp19
+a(S'5ht1a'
+p20
+I1267
+I1273
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+S"(2, u'\\\\blabeling')"
+p26
+aS"(18, u'\\\\bimaging')"
+p27
+aS"(12, u'\\\\bantagonist')"
+p28
+atp29
+Rp30
+sS'regions'
+p31
+g3
+((lp32
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
+p36
+V2002
+p37
+sS'species'
+p38
+g3
+((lp39
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p41
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
+sb.

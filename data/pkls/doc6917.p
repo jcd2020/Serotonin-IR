@@ -2,31 +2,33 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-aS'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-S"(21, u'\\\\bpain')"
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(17, u'\\\\balzheimer')"
+p12
+aS"(19, u'\\\\bpsychosis')"
+p13
+aS"(5, u'\\\\btherap')"
+p14
+aS"(1, u'\\\\bpatient')"
 p15
-aS"(6, u'\\\\bcognit')"
+aS"(3, u'\\\\bclinical')"
 p16
 atp17
 Rp18
@@ -34,46 +36,76 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht2a'
+(S'5ht6'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(293, u'(?i)\\\\b(posteriors|posterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
-p26
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I894
+I899
+tp22
+a(S'5ht6'
+p23
+I54
+I59
+tp24
+a(S'5ht6'
+p25
+I529
+I534
+tp26
+a(S'5ht6'
 p27
-aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
-p28
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1041
+I1046
+tp28
+a(S'5ht6'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V2009
+I743
+I748
+tp30
+a(S'5ht6'
+p31
+I220
+I225
+tp32
+a(S'5ht6'
 p33
-sS'agonists'
-p34
-g3
-((lp35
+I332
+I337
+tp34
+a(S'5ht6'
+p35
+I1441
+I1446
 tp36
-Rp37
-sS'species'
-p38
+atp37
+Rp38
+sS'raw_text_methods'
+p39
 g3
-((lp39
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p40
-aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
+((lp40
+S"(13, u'\\\\bagonist')"
 p41
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p42
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p43
-atp44
-Rp45
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p46
+atp47
+Rp48
+sS'year'
+p49
+V2008
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p53
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p54
+atp55
+Rp56
 sb.

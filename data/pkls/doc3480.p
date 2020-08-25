@@ -2,66 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(15, u'\\\\bmemory')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht1a'
-p18
+((lp16
+(S'5ht1a'
+p17
+I490
+I496
+tp18
 atp19
 Rp20
-sS'regions'
+sS'raw_text_methods'
 p21
 g3
 ((lp22
-tp23
-Rp24
-sS'year'
+S"(13, u'\\\\bagonist')"
+p23
+aS"(17, u'\\\\bpet')"
+p24
+aS"(19, u'\\\\bpositron emission tomography')"
 p25
-V2002
+aS"(22, u'\\\\bbuspirone')"
 p26
-sS'agonists'
-p27
-g3
-((lp28
-S"(20, u'\\\\bbuspirone')"
+atp27
+Rp28
+sS'regions'
 p29
-aS"(45, u'\\\\bipsapirone')"
-p30
-aS"(189, u'\\\\bethanol')"
-p31
-atp32
-Rp33
-sS'species'
-p34
 g3
-((lp35
-S"(6580, u'(?i)\\\\b(dams|dam)\\\\b')"
+((lp30
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p31
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p32
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
 p36
-aS"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
+V1992
 p37
-atp38
-Rp39
+sS'species'
+p38
+g3
+((lp39
+tp40
+Rp41
 sb.

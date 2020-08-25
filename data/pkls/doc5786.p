@@ -2,78 +2,105 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(35, u'\\\\bstress')"
-p14
-aS"(11, u'\\\\banxiolyt')"
-p15
-aS"(10, u'\\\\banxiety')"
-p16
-atp17
-Rp18
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I617
+I623
+tp17
+a(S'5ht1a'
+p18
+I809
+I815
+tp19
+a(S'5ht2a'
+p20
+I494
+I500
+tp21
+a(S'5ht2a'
+p22
+I55
+I61
+tp23
+a(S'5ht1a'
 p24
-g3
-((lp25
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I438
+I444
+tp25
+a(S'5ht1a'
 p26
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I685
+I691
+tp27
+a(S'5ht2a'
 p28
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p29
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+I344
+I350
+tp29
+a(S'5ht1a'
 p30
-atp31
-Rp32
-sS'year'
-p33
-V1992
-p34
-sS'agonists'
-p35
+I333
+I339
+tp31
+a(S'5ht1a'
+p32
+I48
+I54
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
 g3
-((lp36
-S"(45, u'\\\\bipsapirone')"
-p37
-atp38
-Rp39
-sS'species'
-p40
-g3
-((lp41
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+((lp37
+S"(13, u'\\\\bagonist')"
+p38
+aS"(12, u'\\\\bantagonist')"
+p39
+atp40
+Rp41
+sS'regions'
 p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+g3
+((lp43
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p44
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V2005
+p49
+sS'species'
+p50
+g3
+((lp51
+tp52
+Rp53
 sb.

@@ -1,0 +1,4 @@
+Wohlpart, K. L. and P. B. Molinoff (1998). "Regulation of levels of 5-HT2A receptor mRNA." Ann N Y Acad Sci 861: 128-135.
+
+	We have been able to identify two separate pathways present in P11 cells that can increase the levels and stability of 5-HT2A receptor mRNA. One pathway is activated following exposure of cells to serotonin and is dependent upon activation of a PKC isoform that is susceptible to downregulation by a 24-h pretreatment with PMA; another pathway is activated following treatment of cells with a calcium ionophore. This pathway is not dependent on activation of PKC isoforms that can be downregulated by a 24-h treatment with phorbol ester. Such heterologous regulation of levels of 5-HT2A receptor mRNA may be important in understanding in vivo events where multiple factors contribute to the modulation of levels of cell surface receptors.
+

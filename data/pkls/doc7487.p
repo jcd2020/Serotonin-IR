@@ -2,82 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(6, u'\\\\bcyproheptadine')"
+S'Method.PET'
 p5
-aS"(53, u'\\\\bcyproheptadine')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.STIMULATION'
-p12
-aS'Method.ANTAGONIST'
-p13
-aS'Method.AGONIST'
-p14
-atp15
-Rp16
+atp6
+Rp7
 sS'topics'
-p17
+p8
 g3
-((lp18
-tp19
-Rp20
+((lp9
+tp10
+Rp11
 sS'receptors'
-p21
+p12
 g3
-((lp22
-S'5ht1a'
+((lp13
+(S'5ht1a'
+p14
+I216
+I222
+tp15
+a(S'5ht1a'
+p16
+I54
+I60
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(1, u'\\\\bneuroimag')"
+p22
+aS"(17, u'\\\\bpet')"
 p23
-aS'5ht3a'
-p24
-aS'5ht2'
-p25
-aS'5ht2a'
-p26
-atp27
-Rp28
+atp24
+Rp25
 sS'regions'
+p26
+g3
+((lp27
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p28
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p29
-g3
-((lp30
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
-atp32
-Rp33
+atp30
+Rp31
 sS'year'
-p34
-V1996
-p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p38
-aS"(175, u'\\\\bdoi')"
-p39
-atp40
-Rp41
+p32
+V2008
+p33
 sS'species'
-p42
+p34
 g3
-((lp43
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
-p45
-atp46
-Rp47
+((lp35
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

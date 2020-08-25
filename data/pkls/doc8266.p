@@ -2,68 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(123, u'\\\\bgranisetron')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
 p13
 g3
 ((lp14
-tp15
-Rp16
-sS'receptors'
+(S'5ht1a'
+p15
+I1281
+I1287
+tp16
+a(S'5ht2'
 p17
+I1686
+I1691
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
 g3
-((lp18
-S'5ht3'
-p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+aS"(12, u'\\\\bantagonist')"
 p24
-aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p25
-aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
-p26
-aS"(164, u'(?i)\\\\b(supraoptics|supraoptic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+atp25
+Rp26
+sS'regions'
 p27
-atp28
-Rp29
+g3
+((lp28
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p30
-V2004
-p31
-sS'agonists'
 p32
-g3
-((lp33
-tp34
-Rp35
+V1994
+p33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+((lp35
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

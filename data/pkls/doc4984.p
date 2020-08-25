@@ -1,0 +1,76 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
+sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I271
+I282
+tp16
+a(S'5ht5'
+p17
+I1015
+I1025
+tp18
+a(S'5ht1a'
+p19
+I1594
+I1600
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(15, u'\\\\b8ohdpat')"
+p26
+atp27
+Rp28
+sS'regions'
+p29
+g3
+((lp30
+tp31
+Rp32
+sS'year'
+p33
+V2009
+p34
+sS'species'
+p35
+g3
+((lp36
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p37
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
+sb.

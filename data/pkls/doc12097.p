@@ -2,43 +2,44 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(133, u'\\\\bmianserin')"
+S'Method.ANTAGONIST'
 p5
-aS"(203, u'\\\\btfmpp')"
-p6
-aS"(119, u'\\\\britanserin')"
-p7
-aS"(58, u'\\\\bhaloperidol')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.AGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(32, u'\\\\bvomit')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht3'
+p16
+I1095
+I1100
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
 g3
 ((lp21
-S'5ht1c'
+S"(20, u'\\\\bondansetron')"
 p22
-aS'5ht1a'
+aS"(12, u'\\\\bantagonist')"
 p23
 atp24
 Rp25
@@ -50,30 +51,14 @@ tp28
 Rp29
 sS'year'
 p30
-V1994
+V1997
 p31
-sS'agonists'
+sS'species'
 p32
 g3
 ((lp33
-S"(178, u'\\\\btfmpp')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p34
-aS"(155, u'\\\\bmcpp')"
-p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p36
-aS"(43, u'\\\\bhaloperidol')"
-p37
-atp38
-Rp39
-sS'species'
-p40
-g3
-((lp41
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+atp35
+Rp36
 sb.

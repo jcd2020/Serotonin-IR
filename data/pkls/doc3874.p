@@ -2,84 +2,156 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
-p5
-aS"(119, u'\\\\britanserin')"
-p6
-aS"(58, u'\\\\bhaloperidol')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
+p5
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p6
+atp7
+Rp8
 sS'topics'
-p16
+p9
 g3
-((lp17
-S"(3, u'\\\\bsleep')"
-p18
-aS"(16, u'\\\\bfeed')"
-p19
-atp20
-Rp21
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2'
+p16
+I2512
+I2517
+tp17
+a(S'5ht2a'
+p18
+I2721
+I2727
+tp19
+a(S'5ht2a'
+p20
+I1437
+I1443
+tp21
+a(S'5ht2'
 p22
-g3
-((lp23
-S'5ht1a'
+I1672
+I1677
+tp23
+a(S'5ht2a'
 p24
-aS'5ht2a'
-p25
-atp26
-Rp27
-sS'regions'
+I2338
+I2344
+tp25
+a(S'5ht1a'
+p26
+I1580
+I1586
+tp27
+a(S'5ht2a'
 p28
-g3
-((lp29
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1066
+I1072
+tp29
+a(S'5ht2a'
 p30
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
-atp32
-Rp33
-sS'year'
+I1207
+I1213
+tp31
+a(S'5ht2'
+p32
+I2059
+I2064
+tp33
+a(S'5ht2'
 p34
-V1994
-p35
-sS'agonists'
+I2793
+I2798
+tp35
+a(S'5ht2a'
 p36
-g3
-((lp37
-S"(20, u'\\\\bbuspirone')"
+I1895
+I1901
+tp37
+a(S'5ht1a'
 p38
-aS"(45, u'\\\\bipsapirone')"
-p39
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+I2971
+I2977
+tp39
+a(S'5ht1a'
 p40
-aS"(43, u'\\\\bhaloperidol')"
-p41
-atp42
-Rp43
-sS'species'
+I1140
+I1146
+tp41
+a(S'5ht2'
+p42
+I2625
+I2630
+tp43
+a(S'5ht1a'
 p44
-g3
-((lp45
-S"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
+I2148
+I2154
+tp45
+a(S'5ht2'
 p46
-atp47
-Rp48
+I2700
+I2705
+tp47
+a(S'5ht2a'
+p48
+I2082
+I2088
+tp49
+a(S'5ht2'
+p50
+I2387
+I2392
+tp51
+atp52
+Rp53
+sS'raw_text_methods'
+p54
+g3
+((lp55
+S"(13, u'\\\\bagonist')"
+p56
+aS"(15, u'\\\\b8ohdpat')"
+p57
+aS"(53, u'\\\\bketanserin')"
+p58
+aS"(37, u'\\\\bpiperazine')"
+p59
+aS"(12, u'\\\\bantagonist')"
+p60
+atp61
+Rp62
+sS'regions'
+p63
+g3
+((lp64
+tp65
+Rp66
+sS'year'
+p67
+V1997
+p68
+sS'species'
+p69
+g3
+((lp70
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p71
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p72
+atp73
+Rp74
 sb.

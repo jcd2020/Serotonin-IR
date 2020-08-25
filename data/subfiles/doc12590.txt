@@ -1,4 +1,0 @@
-Thomas, E. A., et al. (1999). "The endogenous lipid oleamide activates serotonin 5-HT7 neurons in mouse thalamus and hypothalamus." J Neurochem 72(6): 2370-2378.
-
-	Oleamide is an endogenous lipid that accumulates during sleep deprivation and has hypothermic effects when administered to rodents. The mechanisms for its activity remain unknown. Intraperitoneal injections of oleamide elicited dramatic increases in content of c-fos mRNA and Fos protein in distinct brain regions, including cingulate and somatosensory cortical areas and numerous nuclei of the thalamus and hypothalamus, indicating that there are explicit targets for its action. In the thalamus and hypothalamus a majority of neurons induced for c-fos expression also expressed the serotonin 5-HT7 receptor, an allosteric target for oleamide in in vitro studies. These data suggest that oleamide may act at 5-HT7 receptors to elicit alterations in transcription that result in some of its physiological effects.
-

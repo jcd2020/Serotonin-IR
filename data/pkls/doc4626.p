@@ -2,66 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(17, u'\\\\balzheimer')"
 p12
-g3
-((lp13
-S"(16, u'\\\\bfeed')"
-p14
-atp15
-Rp16
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp17
+(S'5ht4'
+p18
+I27
+I32
+tp19
+a(S'5ht4'
+p20
+I380
+I385
+tp21
+a(S'5ht4'
 p22
-g3
-((lp23
-tp24
-Rp25
-sS'year'
-p26
-V1998
-p27
-sS'agonists'
+I1177
+I1182
+tp23
+a(S'5ht4'
+p24
+I133
+I138
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
 g3
 ((lp29
-S"(85, u'\\\\b8 ?oh ?dpat')"
+S"(13, u'\\\\bagonist')"
 p30
-aS"(163, u'\\\\bfenfluramine')"
-p31
-atp32
-Rp33
-sS'species'
-p34
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp35
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp34
+tp35
+Rp36
+sS'year'
 p37
-atp38
-Rp39
+V2008
+p38
+sS'species'
+p39
+g3
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

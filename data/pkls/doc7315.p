@@ -2,78 +2,111 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(194, u'\\\\bmethysergide')"
-p5
-aS"(34, u'\\\\bmetergoline')"
-p6
-aS"(33, u'\\\\byohimbine')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
+p5
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(5, u'\\\\btherap')"
+p14
+aS"(8, u'\\\\banxi')"
+p15
+aS"(4, u'\\\\btreatment')"
 p16
-g3
-((lp17
-tp18
-Rp19
+atp17
+Rp18
 sS'receptors'
-p20
+p19
 g3
-((lp21
-S'5ht1d'
-p22
-atp23
-Rp24
-sS'regions'
+((lp20
+(S'5ht4'
+p21
+I1807
+I1812
+tp22
+a(S'5ht4'
+p23
+I742
+I747
+tp24
+a(S'5ht4'
 p25
-g3
-((lp26
-tp27
-Rp28
-sS'year'
+I1874
+I1879
+tp26
+a(S'5ht4'
+p27
+I323
+I328
+tp28
+a(S'5ht4'
 p29
-V1992
-p30
-sS'agonists'
+I64
+I69
+tp30
+a(S'5ht4'
 p31
-g3
-((lp32
-S"(96, u'\\\\bsumatriptan')"
+I1212
+I1217
+tp32
+a(S'5ht4'
 p33
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p34
-aS"(53, u'\\\\bmethysergide')"
-p35
-aS"(82, u'\\\\byohimbine')"
-p36
-atp37
-Rp38
-sS'species'
-p39
+I464
+I469
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
+p37
 g3
-((lp40
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp38
+S"(13, u'\\\\bagonist')"
+p39
+aS"(11, u'\\\\bfluoxetine')"
+p40
+aS"(38, u'\\\\bssri')"
 p41
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p42
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p43
 atp44
 Rp45
+sS'regions'
+p46
+g3
+((lp47
+tp48
+Rp49
+sS'year'
+p50
+V2014
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p54
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p55
+atp56
+Rp57
 sb.

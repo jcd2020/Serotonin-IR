@@ -2,70 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(7, u'\\\\bdepressi')"
 p10
-aS'Method.AGONIST'
+aS"(13, u'\\\\bantidepress')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(26, u'\\\\bcardiovascular')"
-p16
-atp17
-Rp18
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(3, u'\\\\bclinical')"
+p13
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht3'
-p21
-aS'5ht2'
+((lp17
+(S'5ht2a'
+p18
+I683
+I689
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-aS'5ht2a'
-p23
-atp24
-Rp25
-sS'regions'
+g3
+((lp23
+S"(11, u'\\\\bfluoxetine')"
+p24
+aS"(38, u'\\\\bssri')"
+p25
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p26
-g3
-((lp27
-tp28
+aS"(12, u'\\\\bantagonist')"
+p27
+atp28
 Rp29
-sS'year'
+sS'regions'
 p30
-V1995
-p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(191, u'\\\\bphenylbiguanide')"
+((lp31
+tp32
+Rp33
+sS'year'
 p34
-atp35
-Rp36
+V1995
+p35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

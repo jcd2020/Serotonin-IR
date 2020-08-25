@@ -2,69 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.ANTAGONIST'
 p5
-aS"(106, u'\\\\bdoxepin')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-tp11
-Rp12
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-S"(35, u'\\\\bstress')"
-p15
-aS"(10, u'\\\\banxiety')"
-p16
-atp17
-Rp18
+((lp9
+S"(30, u'\\\\bpain')"
+p10
+aS"(35, u'\\\\bnocicept')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht2c'
-p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
+((lp15
+(S'5ht2'
+p16
+I1343
+I1347
+tp17
+a(S'5ht2'
+p18
+I719
+I723
+tp19
+a(S'5ht3'
+p20
+I754
+I758
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp26
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+((lp25
+S"(9, u'\\\\britanserin')"
+p26
+aS"(25, u'\\\\bics205930')"
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2012
+aS"(12, u'\\\\bantagonist')"
+p28
+atp29
+Rp30
+sS'regions'
 p31
-sS'agonists'
-p32
 g3
-((lp33
-tp34
-Rp35
-sS'species'
+((lp32
+tp33
+Rp34
+sS'year'
+p35
+V1992
 p36
+sS'species'
+p37
 g3
-((lp37
-S"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
-p38
-aS"(5811, u'(?i)\\\\b(goldfish|goldfish)\\\\b')"
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
 atp40
 Rp41

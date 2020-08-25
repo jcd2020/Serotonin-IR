@@ -2,70 +2,107 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+aS"(7, u'\\\\bdepressi')"
 p12
-g3
-((lp13
-S"(3, u'\\\\bsleep')"
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(20, u'\\\\bmood')"
 p14
-atp15
-Rp16
+aS"(4, u'\\\\btreatment')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-S'5ht2c'
-p19
-aS'5ht2a'
+((lp19
+(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
+I809
+I820
+tp21
+a(S'5ht1a'
+p22
+I2153
+I2164
+tp23
+a(S'5ht1a'
+p24
+I2938
+I2949
 tp25
-Rp26
-sS'year'
-p27
-V2001
+a(S'5ht1a'
+p26
+I2420
+I2431
+tp27
+a(S'5ht1a'
 p28
-sS'agonists'
-p29
-g3
-((lp30
+I1310
+I1321
+tp29
+a(S'5ht1a'
+p30
+I508
+I519
 tp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
-p35
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+a(S'5ht1a'
+p32
+I2680
+I2691
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
 p36
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp37
+S"(19, u'\\\\bpositron emission tomography')"
 p38
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(18, u'\\\\bimaging')"
 p39
-atp40
-Rp41
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p45
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p46
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V2016
+p51
+sS'species'
+p52
+g3
+((lp53
+tp54
+Rp55
 sb.

@@ -2,80 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(84, u'\\\\bsb ?206553')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(24, u'\\\\banxiolytic')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(14, u'\\\\bcogniti')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(2, u'\\\\bdisorder')"
 p13
-g3
-((lp14
-tp15
-Rp16
+aS"(8, u'\\\\banxi')"
+p14
+aS"(4, u'\\\\btreatment')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-S'5ht2b'
-p19
-aS'5ht2c'
+((lp19
+(S'5ht1a'
 p20
-aS'5ht2a'
-p21
-atp22
-Rp23
-sS'regions'
+I1922
+I1928
+tp21
+a(S'5ht1a'
+p22
+I2044
+I2050
+tp23
+a(S'5ht1a'
 p24
-g3
-((lp25
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p26
-aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
-p27
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I224
+I230
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-aS"(316, u'(?i)\\\\b(nigrostriatals|nigrostriatal)(-|\\\\s+)?(pathways|pathway)\\\\b')"
-p29
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+g3
+((lp29
+S"(13, u'\\\\bagonist')"
 p30
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+aS"(16, u'\\\\bdiazepam')"
 p31
-atp32
-Rp33
-sS'year'
-p34
-V2002
-p35
-sS'agonists'
+aS"(54, u'\\\\bautoradiography')"
+p32
+aS"(22, u'\\\\bbuspirone')"
+p33
+atp34
+Rp35
+sS'regions'
 p36
 g3
 ((lp37
-S"(11, u'\\\\bamphetamine')"
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p38
 atp39
 Rp40
-sS'species'
+sS'year'
 p41
-g3
-((lp42
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+V2000
+p42
+sS'species'
 p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+g3
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

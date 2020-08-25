@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,60 +10,89 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(24, u'\\\\banxiolytic')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(24, u'\\\\banalgesi')"
-p14
-atp15
-Rp16
+aS"(8, u'\\\\banxi')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I505
+I511
+tp17
+a(S'5ht1a'
+p18
+I990
+I996
+tp19
+a(S'5ht1a'
+p20
+I1365
+I1371
+tp21
+a(S'5ht1a'
 p22
-g3
-((lp23
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I632
+I638
+tp23
+a(S'5ht1a'
 p24
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p25
-aS"(34, u'(?i)\\\\b(pon|pons)\\\\b')"
+I1215
+I1221
+tp25
+a(S'5ht1a'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V1992
-p30
-sS'agonists'
-p31
+I29
+I35
+tp27
+a(S'5ht1a'
+p28
+I768
+I774
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
+p32
 g3
-((lp32
-tp33
-Rp34
-sS'species'
+((lp33
+S"(51, u'\\\\bway100635')"
+p34
+aS"(54, u'\\\\bautoradiography')"
 p35
+aS"(22, u'\\\\bbuspirone')"
+p36
+atp37
+Rp38
+sS'regions'
+p39
 g3
-((lp36
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+((lp40
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p41
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p42
+atp43
+Rp44
+sS'year'
+p45
+V2009
+p46
+sS'species'
+p47
+g3
+((lp48
+tp49
+Rp50
 sb.

@@ -1,4 +1,0 @@
-Choi, D. S. and L. Maroteaux (1996). "Immunohistochemical localisation of the serotonin 5-HT2B receptor in mouse gut, cardiovascular system, and brain." FEBS Lett 391(1-2): 45-51.
-
-	We recently reported the cloning of a new member of the serotonin 5-HT2 family, the 5-HT2B receptor. We now report the production and characterisation of a specific antiserum directed against the C-terminal portion of the mouse 5-HT2B receptor. After affinity purification, this polyclonal antibody recognises specifically the mouse 5-HT2B receptor. Immunohistochemical analysis of cryosections from various adult mouse tissues reveals a major 5-HT2B receptor expression in stomach, intestine and pulmonary smooth muscles as well as in myocardium. Furthermore, the antiserum recognises specific areas of the mouse brain, including cerebellar Purkinje cells and their projection areas.
-

@@ -1,0 +1,102 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(25, u'\\\\bsocial')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht3'
+p17
+I90
+I95
+tp18
+a(S'5ht3'
+p19
+I201
+I206
+tp20
+a(S'5ht3'
+p21
+I1935
+I1940
+tp22
+a(S'5ht3'
+p23
+I548
+I553
+tp24
+a(S'5ht3'
+p25
+I1607
+I1612
+tp26
+a(S'5ht3'
+p27
+I890
+I895
+tp28
+a(S'5ht3'
+p29
+I486
+I491
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
+p33
+g3
+((lp34
+S"(37, u'\\\\bpiperazine')"
+p35
+aS"(20, u'\\\\bondansetron')"
+p36
+aS"(33, u'\\\\bmcpp')"
+p37
+aS"(12, u'\\\\bantagonist')"
+p38
+atp39
+Rp40
+sS'regions'
+p41
+g3
+((lp42
+tp43
+Rp44
+sS'year'
+p45
+V1993
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p49
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
+sb.

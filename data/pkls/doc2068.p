@@ -2,88 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(5, u'\\\\bcyanopindolol')"
-p5
-aS"(193, u'\\\\bmesulergine')"
-p6
-aS"(119, u'\\\\britanserin')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
+p5
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p6
+atp7
+Rp8
 sS'topics'
-p16
+p9
 g3
-((lp17
-tp18
-Rp19
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(15, u'\\\\bmemory')"
+p12
+atp13
+Rp14
 sS'receptors'
-p20
+p15
 g3
-((lp21
-S'5ht7'
-p22
-aS'5ht7a'
+((lp16
+(S'5ht1a'
+p17
+I29
+I35
+tp18
+a(S'5ht1a'
+p19
+I2104
+I2110
+tp20
+a(S'5ht1a'
+p21
+I255
+I261
+tp22
+a(S'5ht1a'
 p23
-aS'5ht1a'
-p24
-aS'5ht1'
-p25
-aS'5ht2a'
-p26
-atp27
-Rp28
-sS'regions'
+I507
+I513
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
+g3
+((lp28
+S"(13, u'\\\\bagonist')"
 p29
-g3
-((lp30
-S"(130, u'(?i)\\\\b(anterodorsals|anterodorsal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(21, u'\\\\bipsapirone')"
+p30
+aS"(12, u'\\\\bantagonist')"
 p31
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p32
-atp33
-Rp34
+atp32
+Rp33
+sS'regions'
+p34
+g3
+((lp35
+tp36
+Rp37
 sS'year'
-p35
-V2001
-p36
-sS'agonists'
-p37
-g3
-((lp38
-S"(220, u'\\\\b5 ?methoxytryptamine')"
+p38
+V1994
 p39
-aS"(149, u'\\\\bmem')"
-p40
-aS"(165, u'\\\\bmesulergine')"
-p41
-aS"(158, u'\\\\blsd')"
-p42
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p43
-aS"(219, u'\\\\b5 ?ct')"
-p44
-atp45
-Rp46
 sS'species'
-p47
+p40
 g3
-((lp48
-tp49
-Rp50
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

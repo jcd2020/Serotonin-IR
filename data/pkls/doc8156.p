@@ -2,68 +2,66 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-S"(20, u'\\\\baggressi')"
-p14
-aS"(6, u'\\\\bcognit')"
-p15
-aS"(2, u'\\\\bappetite')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-aS"(1, u'\\\\bmood')"
-p18
-atp19
-Rp20
+atp13
+Rp14
 sS'receptors'
-p21
+p15
 g3
-((lp22
-tp23
-Rp24
-sS'regions'
+((lp16
+(S'5ht1a'
+p17
+I459
+I465
+tp18
+a(S'5ht2'
+p19
+I482
+I487
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
+g3
+((lp24
+S"(17, u'\\\\bpet')"
 p25
+atp26
+Rp27
+sS'regions'
+p28
 g3
-((lp26
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p27
-atp28
-Rp29
+((lp29
+tp30
+Rp31
 sS'year'
-p30
-V2004
-p31
-sS'agonists'
 p32
-g3
-((lp33
-tp34
-Rp35
+V2017
+p33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p38
-atp39
-Rp40
+((lp35
+tp36
+Rp37
 sb.

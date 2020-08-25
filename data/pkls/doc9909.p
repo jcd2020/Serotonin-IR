@@ -2,68 +2,109 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(26, u'\\\\bbehav')"
 p11
-g3
-((lp12
-S"(35, u'\\\\bstress')"
+aS"(17, u'\\\\balzheimer')"
+p12
+aS"(11, u'\\\\bobsessive compulsive disorder')"
 p13
-aS"(12, u'\\\\banxiogen')"
+aS"(2, u'\\\\bdisorder')"
 p14
-aS"(10, u'\\\\banxiety')"
+aS"(9, u'\\\\bstress')"
 p15
-aS"(16, u'\\\\bfeed')"
+aS"(12, u'\\\\bsleep')"
 p16
-atp17
-Rp18
+aS"(8, u'\\\\banxi')"
+p17
+atp18
+Rp19
 sS'receptors'
-p19
+p20
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp21
+(S'5ht1b'
+p22
+I889
+I895
+tp23
+a(S'5ht2'
 p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
+I1906
+I1912
+tp25
+a(S'5ht2a'
+p26
+I913
+I919
+tp27
+a(S'5ht1a'
 p28
-V1998
-p29
-sS'agonists'
+I1861
+I1867
+tp29
+a(S'5ht1a'
 p30
-g3
-((lp31
-tp32
-Rp33
-sS'species'
+I878
+I884
+tp31
+a(S'5ht1b'
+p32
+I1883
+I1889
+tp33
+a(S'5ht2a'
 p34
-g3
-((lp35
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p36
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+I1906
+I1912
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
 p38
-atp39
-Rp40
+g3
+((lp39
+S"(1, u'\\\\bneuroimag')"
+p40
+aS"(2, u'\\\\blabeling')"
+p41
+aS"(17, u'\\\\bpet')"
+p42
+atp43
+Rp44
+sS'regions'
+p45
+g3
+((lp46
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V2012
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p54
+atp55
+Rp56
 sb.

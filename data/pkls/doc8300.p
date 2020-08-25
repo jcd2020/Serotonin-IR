@@ -2,64 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
-atp11
-Rp12
+tp5
+Rp6
 sS'topics'
-p13
+p7
 g3
-((lp14
-tp15
-Rp16
+((lp8
+S"(4, u'\\\\btreatment')"
+p9
+atp10
+Rp11
 sS'receptors'
-p17
+p12
 g3
-((lp18
-S'5ht1a'
-p19
+((lp13
+(S'5ht1'
+p14
+I959
+I965
+tp15
+a(S'5ht1a'
+p16
+I959
+I965
+tp17
+a(S'5ht1a'
+p18
+I780
+I786
+tp19
 atp20
 Rp21
-sS'regions'
+sS'raw_text_methods'
 p22
 g3
 ((lp23
-tp24
-Rp25
-sS'year'
-p26
-V1996
+S"(54, u'\\\\bautoradiography')"
+p24
+atp25
+Rp26
+sS'regions'
 p27
-sS'agonists'
-p28
 g3
-((lp29
-tp30
-Rp31
-sS'species'
-p32
-g3
-((lp33
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp28
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p29
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p30
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p31
+atp32
+Rp33
+sS'year'
 p34
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+V2005
 p35
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+sS'species'
 p36
-atp37
-Rp38
+g3
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,72 +10,49 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
-sS'topics'
-p12
+tp9
+Rp10
+sS'receptors'
+p11
 g3
-((lp13
-S"(11, u'\\\\banxiolyt')"
-p14
+((lp12
+(S'5ht5'
+p13
+I245
+I255
+tp14
 atp15
 Rp16
-sS'receptors'
+sS'raw_text_methods'
 p17
 g3
 ((lp18
-S'5ht1a'
+S"(2, u'\\\\blabeling')"
 p19
-aS'5ht3'
+aS"(3, u'\\\\bimmunoreactiv')"
 p20
-aS'5ht2'
-p21
-atp22
-Rp23
+atp21
+Rp22
 sS'regions'
-p24
+p23
 g3
-((lp25
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp24
+tp25
+Rp26
+sS'year'
 p27
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+V1994
 p28
-aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+sS'species'
 p29
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
+g3
+((lp30
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p31
 atp32
 Rp33
-sS'year'
-p34
-V1990
-p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(45, u'\\\\bipsapirone')"
-p38
-aS"(149, u'\\\\bmem')"
-p39
-atp40
-Rp41
-sS'species'
-p42
-g3
-((lp43
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
 sb.

@@ -2,70 +2,106 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-S"(26, u'\\\\bcardiovascular')"
-p16
-aS"(35, u'\\\\bstress')"
-p17
-atp18
-Rp19
+((lp10
+tp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
+((lp14
+(S'5ht2a'
+p15
+I529
+I535
+tp16
+a(S'5ht2c'
+p17
+I529
+I537
+tp18
+a(S'5ht1a'
+p19
+I968
+I974
+tp20
+a(S'5ht2c'
+p21
+I1999
+I2005
+tp22
+a(S'5ht3'
+p23
+I981
+I986
+tp24
+a(S'5ht7'
 p25
-g3
-((lp26
-S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I968
+I975
+tp26
+a(S'5ht2c'
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2011
-p31
-sS'agonists'
-p32
+I51
+I57
+tp28
+a(S'5ht2c'
+p29
+I1244
+I1250
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
+p33
 g3
-((lp33
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p34
-atp35
-Rp36
-sS'species'
+((lp34
+S"(53, u'\\\\bketanserin')"
+p35
+aS"(33, u'\\\\bmcpp')"
+p36
+aS"(13, u'\\\\bagonist')"
 p37
-g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(49, u'\\\\bdoi')"
+p38
+aS"(12, u'\\\\bantagonist')"
 p39
-atp40
-Rp41
+aS"(9, u'\\\\britanserin')"
+p40
+aS"(45, u'\\\\bmetergoline')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+tp46
+Rp47
+sS'year'
+p48
+V1998
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

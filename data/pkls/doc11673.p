@@ -2,68 +2,104 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(111, u'\\\\bolanzapine')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(3, u'\\\\bsleep')"
-p15
-atp16
-Rp17
+((lp10
+S"(7, u'\\\\bdepressi')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
+p16
+I1700
+I1706
+tp17
+a(S'5ht2a'
 p18
-g3
-((lp19
-S'5ht2c'
+I2012
+I2018
+tp19
+a(S'5ht2a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
+I222
+I228
+tp21
+a(S'5ht2a'
+p22
+I668
+I674
+tp23
+a(S'5ht2c'
+p24
+I723
+I729
 tp25
-Rp26
-sS'year'
-p27
-V2000
+a(S'5ht2c'
+p26
+I358
+I366
+tp27
+a(S'5ht2a'
 p28
-sS'agonists'
-p29
-g3
-((lp30
-S"(57, u'\\\\bolanzapine')"
-p31
+I544
+I550
+tp29
+a(S'5ht2a'
+p30
+I358
+I364
+tp31
 atp32
 Rp33
-sS'species'
+sS'raw_text_methods'
 p34
 g3
 ((lp35
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p36
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+aS"(53, u'\\\\bketanserin')"
 p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(49, u'\\\\bdoi')"
 p38
-atp39
-Rp40
+aS"(12, u'\\\\bantagonist')"
+p39
+atp40
+Rp41
+sS'regions'
+p42
+g3
+((lp43
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p44
+atp45
+Rp46
+sS'year'
+p47
+V2006
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
 sb.

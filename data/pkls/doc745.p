@@ -2,74 +2,101 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(123, u'\\\\bgranisetron')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(29, u'\\\\bhyperactiv')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(15, u'\\\\bmemory')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(2, u'\\\\bdisorder')"
 p13
-g3
-((lp14
-tp15
-Rp16
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht7'
-p19
-aS'5ht3'
+((lp17
+(S'5ht7'
+p18
+I527
+I532
+tp19
+a(S'5ht7'
 p20
-aS'5ht2'
-p21
-atp22
-Rp23
-sS'regions'
+I543
+I548
+tp21
+a(S'5ht7'
+p22
+I49
+I54
+tp23
+a(S'5ht7'
 p24
-g3
-((lp25
-S"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I915
+I920
+tp25
+a(S'5ht7'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V1992
+I1347
+I1352
+tp27
+a(S'5ht7'
+p28
+I1488
+I1493
+tp29
+a(S'5ht7'
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(192, u'\\\\bquipazine')"
-p33
-aS"(149, u'\\\\bmem')"
+I1167
+I1172
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
-aS"(191, u'\\\\bphenylbiguanide')"
-p35
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+g3
+((lp35
+S"(13, u'\\\\bagonist')"
 p36
 atp37
 Rp38
-sS'species'
+sS'regions'
 p39
 g3
 ((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p41
-atp42
-Rp43
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p42
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p43
+atp44
+Rp45
+sS'year'
+p46
+V2017
+p47
+sS'species'
+p48
+g3
+((lp49
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

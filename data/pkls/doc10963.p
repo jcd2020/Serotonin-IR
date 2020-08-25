@@ -2,76 +2,63 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(49, u'\\\\bnefazodone')"
-p5
-aS"(110, u'\\\\bclozapine')"
-p6
-aS"(101, u'\\\\btramadol')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.AGONIST'
-p12
-atp13
-Rp14
+p5
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(36, u'\\\\bcompulsiv')"
-p17
-atp18
-Rp19
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(5, u'\\\\btherap')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(3, u'\\\\bclinical')"
+p13
+atp14
+Rp15
 sS'receptors'
-p20
+p16
 g3
-((lp21
-S'5ht2c'
+((lp17
+(S'5ht1a'
+p18
+I408
+I414
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-aS'5ht2a'
-p23
-atp24
-Rp25
+g3
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+atp25
+Rp26
 sS'regions'
-p26
+p27
 g3
-((lp27
-tp28
-Rp29
+((lp28
+tp29
+Rp30
 sS'year'
-p30
-V2007
 p31
-sS'agonists'
+V2009
 p32
-g3
-((lp33
-S"(23, u'\\\\bclozapine')"
-p34
-aS"(56, u'\\\\bnefazodone')"
-p35
-aS"(175, u'\\\\bdoi')"
-p36
-atp37
-Rp38
 sS'species'
-p39
+p33
 g3
-((lp40
-S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
-p41
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p42
-atp43
-Rp44
+((lp34
+tp35
+Rp36
 sb.

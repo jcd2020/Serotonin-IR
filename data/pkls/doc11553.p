@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,50 +10,65 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-tp9
-Rp10
-sS'topics'
+S"(14, u'\\\\bcogniti')"
+p9
+aS"(1, u'\\\\bpatient')"
+p10
+aS"(2, u'\\\\bdisorder')"
 p11
-g3
-((lp12
-S"(3, u'\\\\bsleep')"
-p13
-atp14
-Rp15
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht5b'
 p16
-g3
-((lp17
-tp18
-Rp19
-sS'regions'
+I1415
+I1421
+tp17
+a(S'5ht5'
+p18
+I1415
+I1421
+tp19
+a(S'5ht5b'
 p20
-g3
-((lp21
-tp22
+I1638
+I1644
+tp21
+atp22
 Rp23
-sS'year'
+sS'raw_text_methods'
 p24
-V1997
-p25
-sS'agonists'
-p26
 g3
-((lp27
-tp28
-Rp29
-sS'species'
-p30
+((lp25
+tp26
+Rp27
+sS'regions'
+p28
 g3
-((lp31
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+((lp29
+tp30
+Rp31
+sS'year'
 p32
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+V2017
 p33
-atp34
-Rp35
+sS'species'
+p34
+g3
+((lp35
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p36
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p37
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+atp39
+Rp40
 sb.

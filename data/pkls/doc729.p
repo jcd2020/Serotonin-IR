@@ -2,80 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\bzacopride')"
+S'Method.AGONIST'
 p5
-aS"(14, u'\\\\bmethiothepin')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(34, u'\\\\bmetergoline')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-S"(5, u'\\\\bgastrointestin')"
-p18
-atp19
-Rp20
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p21
+p14
 g3
-((lp22
-S'5ht7'
-p23
-atp24
-Rp25
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I221
+I227
+tp17
+a(S'5ht1'
+p18
+I82
+I87
+tp19
+a(S'5ht1a'
+p20
+I793
+I799
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+S"(13, u'\\\\bagonist')"
 p26
-g3
-((lp27
-tp28
+aS"(15, u'\\\\b8ohdpat')"
+p27
+atp28
 Rp29
-sS'year'
+sS'regions'
 p30
-V1993
-p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+((lp31
+tp32
+Rp33
+sS'year'
 p34
-aS"(96, u'\\\\bsumatriptan')"
+V1995
 p35
-aS"(149, u'\\\\bmem')"
-p36
-aS"(208, u'\\\\bzacopride')"
-p37
-atp38
-Rp39
 sS'species'
-p40
+p36
 g3
-((lp41
-S"(3671, u'(?i)\\\\b(drosophilas|drosophila)\\\\b')"
-p42
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p43
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p44
-atp45
-Rp46
+((lp37
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

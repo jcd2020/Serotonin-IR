@@ -2,72 +2,144 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(126, u'\\\\balosetron')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
-aS'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(5, u'\\\\btherap')"
+p13
+aS"(23, u'\\\\bantipsychotic')"
 p14
-g3
-((lp15
-tp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht3a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp18
+(S'5ht2'
+p19
+I1674
+I1679
+tp20
+a(S'5ht2'
+p21
+I1958
+I1963
+tp22
+a(S'5ht2'
 p23
-g3
-((lp24
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+I1358
+I1363
+tp24
+a(S'5ht2'
 p25
-aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+I944
+I949
+tp26
+a(S'5ht2'
+p27
+I1243
+I1248
+tp28
+a(S'5ht2'
 p29
-V2005
-p30
-sS'agonists'
+I1415
+I1420
+tp30
+a(S'5ht2'
 p31
-g3
-((lp32
-tp33
-Rp34
-sS'species'
+I1042
+I1047
+tp32
+a(S'5ht2'
+p33
+I269
+I274
+tp34
+a(S'5ht2'
 p35
-g3
-((lp36
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+I1110
+I1115
+tp36
+a(S'5ht2'
 p37
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p38
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+I631
+I636
+tp38
+a(S'5ht2a'
 p39
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p40
-atp41
-Rp42
+I32
+I38
+tp40
+a(S'5ht2'
+p41
+I1151
+I1156
+tp42
+a(S'5ht2a'
+p43
+I246
+I257
+tp44
+a(S'5ht2'
+p45
+I773
+I778
+tp46
+atp47
+Rp48
+sS'raw_text_methods'
+p49
+g3
+((lp50
+S"(23, u'\\\\bmdl')"
+p51
+aS"(13, u'\\\\bagonist')"
+p52
+aS"(49, u'\\\\bdoi')"
+p53
+aS"(38, u'\\\\bssri')"
+p54
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p55
+aS"(12, u'\\\\bantagonist')"
+p56
+atp57
+Rp58
+sS'regions'
+p59
+g3
+((lp60
+tp61
+Rp62
+sS'year'
+p63
+V2013
+p64
+sS'species'
+p65
+g3
+((lp66
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p67
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p68
+atp69
+Rp70
 sb.

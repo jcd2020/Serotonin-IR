@@ -1,0 +1,4 @@
+Hong, J. R., et al. (2017). "Neuropathic pain-alleviating effects of pyrazole-conjugated arylsulfonamides as 5-HT(6) receptor antagonists." Bioorg Med Chem Lett 27(17): 4146-4149.
+
+	A novel series of arylsulfonylaminomethyl-3-(1-phenyl-5-isopropyl)pyrazoles was evaluated for serotonin receptor subtype 6 (5-HT(6)R) antagonistic effects in vitro. We also investigated their neuropathic pain-alleviating effects in vivo using a rat spinal nerve ligation (SNL) model. Bicyclic aromatic sulfonamino groups, such as naphthalene and quinolin-substituted derivatives, showed good 5-HT(6) inhibitory activity in vitro. Among them, selected compounds, 12 and 13, having 8-quinoylsulfonamino groups, showed potent neuropathic pain-alleviating effects in the rat model.
+

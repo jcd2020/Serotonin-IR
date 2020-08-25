@@ -2,74 +2,109 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(99, u'\\\\bsb ?242084')"
+S'Method.KNOCKOUT'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+aS"(7, u'\\\\bdepressi')"
 p14
-g3
-((lp15
-S"(18, u'\\\\bpsychostim')"
+aS"(5, u'\\\\btherap')"
+p15
+aS"(12, u'\\\\bsleep')"
 p16
-aS"(16, u'\\\\bfeed')"
+aS"(8, u'\\\\banxi')"
 p17
-aS"(4, u'\\\\blocomot')"
+aS"(1, u'\\\\bpatient')"
 p18
-atp19
-Rp20
+aS"(4, u'\\\\btreatment')"
+p19
+aS"(3, u'\\\\bclinical')"
+p20
+atp21
+Rp22
 sS'receptors'
-p21
-g3
-((lp22
-S'5ht2c'
 p23
-atp24
-Rp25
-sS'regions'
-p26
 g3
-((lp27
-S"(171, u'(?i)\\\\b(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+((lp24
+(S'5ht1b'
+p25
+I1223
+I1229
+tp26
+a(S'5ht1b'
+p27
+I979
+I985
+tp28
+a(S'5ht1b'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V2018
+I1241
+I1247
+tp30
+a(S'5ht1b'
+p31
+I1499
+I1505
+tp32
+a(S'5ht1a'
 p33
-sS'agonists'
-p34
+I2500
+I2506
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
+p37
 g3
-((lp35
-S"(11, u'\\\\bamphetamine')"
-p36
-atp37
-Rp38
-sS'species'
+((lp38
+S"(49, u'\\\\bdoi')"
 p39
-g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(38, u'\\\\bssri')"
+p40
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p41
-atp42
-Rp43
+aS"(12, u'\\\\bantagonist')"
+p42
+atp43
+Rp44
+sS'regions'
+p45
+g3
+((lp46
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V2005
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p54
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p55
+atp56
+Rp57
 sb.

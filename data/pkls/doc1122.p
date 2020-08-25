@@ -2,70 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(13, u'\\\\bantidepress')"
 p10
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p11
-aS'Method.ANTAGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-tp17
-Rp18
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht3'
+p15
+I90
+I95
+tp16
+a(S'5ht3'
+p17
+I376
+I381
+tp18
+a(S'5ht3'
 p19
-g3
-((lp20
-S'5ht1a'
+I1836
+I1841
+tp20
+a(S'5ht3'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p26
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I2082
+I2087
+tp22
+a(S'5ht3'
+p23
+I247
+I252
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-atp28
-Rp29
-sS'year'
+g3
+((lp28
+S"(40, u'\\\\bclozapine')"
+p29
+aS"(42, u'\\\\bneuroleptics')"
 p30
-V2009
+aS"(23, u'\\\\bmdl')"
 p31
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p32
+atp33
+Rp34
+sS'regions'
+p35
 g3
-((lp33
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p34
-atp35
-Rp36
-sS'species'
+((lp36
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p37
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
+p41
+V1990
+p42
+sS'species'
+p43
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

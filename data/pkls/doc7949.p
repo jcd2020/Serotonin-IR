@@ -2,92 +2,78 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(133, u'\\\\bmianserin')"
+S'Method.PET'
 p5
-aS"(110, u'\\\\bclozapine')"
+aS'Method.AGONIST'
 p6
-aS"(193, u'\\\\bmesulergine')"
-p7
-aS"(117, u'\\\\bketanserin')"
-p8
-aS"(119, u'\\\\britanserin')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
-S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+atp7
+Rp8
 sS'topics'
-p17
+p9
 g3
-((lp18
-S"(16, u'\\\\bfeed')"
-p19
-aS"(10, u'\\\\banxiety')"
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+aS"(3, u'\\\\bclinical')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
+p18
+I69
+I75
+tp19
+a(S'5ht1a'
 p20
-aS"(4, u'\\\\blocomot')"
-p21
+I531
+I537
+tp21
 atp22
 Rp23
-sS'receptors'
+sS'raw_text_methods'
 p24
 g3
 ((lp25
-S'5ht2c'
+S"(13, u'\\\\bagonist')"
 p26
-atp27
-Rp28
+aS"(17, u'\\\\bpet')"
+p27
+aS"(19, u'\\\\bpositron emission tomography')"
+p28
+atp29
+Rp30
 sS'regions'
-p29
-g3
-((lp30
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p31
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p32
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+g3
+((lp32
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p33
-aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p34
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p35
-aS"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
-p36
-atp37
-Rp38
+atp36
+Rp37
 sS'year'
+p38
+V2002
 p39
-V1999
-p40
-sS'agonists'
-p41
-g3
-((lp42
-S"(165, u'\\\\bmesulergine')"
-p43
-aS"(23, u'\\\\bclozapine')"
-p44
-atp45
-Rp46
 sS'species'
-p47
+p40
 g3
-((lp48
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p49
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p50
-atp51
-Rp52
+((lp41
+tp42
+Rp43
 sb.

@@ -2,78 +2,160 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.PET'
 p5
-aS"(124, u'\\\\bondansetron')"
+aS'Method.ANTAGONIST'
 p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(31, u'\\\\bway ?100635')"
-p8
-aS"(58, u'\\\\bhaloperidol')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
-S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+aS"(7, u'\\\\bdepressi')"
+p14
+aS"(15, u'\\\\bmemory')"
+p15
+aS"(12, u'\\\\bsleep')"
+p16
+aS"(30, u'\\\\bpain')"
 p17
-g3
-((lp18
-S"(9, u'\\\\bdepress')"
-p19
-atp20
-Rp21
+aS"(8, u'\\\\banxi')"
+p18
+atp19
+Rp20
 sS'receptors'
-p22
+p21
 g3
-((lp23
-S'5ht3'
-p24
-aS'5ht1a'
+((lp22
+(S'5ht7'
+p23
+I1032
+I1037
+tp24
+a(S'5ht7'
 p25
-aS'5ht3a'
-p26
-aS'5ht2a'
+I1279
+I1284
+tp26
+a(S'5ht1'
 p27
-atp28
-Rp29
-sS'regions'
-p30
-g3
-((lp31
+I826
+I831
+tp28
+a(S'5ht1'
+p29
+I1008
+I1014
+tp30
+a(S'5ht7'
+p31
+I1505
+I1510
 tp32
-Rp33
-sS'year'
-p34
-V2018
+a(S'5ht1'
+p33
+I953
+I958
+tp34
+a(S'5ht7'
 p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(43, u'\\\\bhaloperidol')"
-p38
-atp39
-Rp40
-sS'species'
+I1182
+I1187
+tp36
+a(S'5ht7'
+p37
+I837
+I842
+tp38
+a(S'5ht1b'
+p39
+I988
+I994
+tp40
+a(S'5ht7'
 p41
-g3
-((lp42
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+I1764
+I1769
+tp42
+a(S'5ht7'
 p43
-atp44
-Rp45
+I1815
+I1820
+tp44
+a(S'5ht7'
+p45
+I1691
+I1696
+tp46
+a(S'5ht1f'
+p47
+I1022
+I1028
+tp48
+a(S'5ht1a'
+p49
+I978
+I984
+tp50
+a(S'5ht1e'
+p51
+I1008
+I1014
+tp52
+a(S'5ht1d'
+p53
+I998
+I1004
+tp54
+atp55
+Rp56
+sS'raw_text_methods'
+p57
+g3
+((lp58
+S"(17, u'\\\\bpet')"
+p59
+aS"(19, u'\\\\bpositron emission tomography')"
+p60
+aS"(18, u'\\\\bimaging')"
+p61
+aS"(12, u'\\\\bantagonist')"
+p62
+atp63
+Rp64
+sS'regions'
+p65
+g3
+((lp66
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p67
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p68
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p69
+atp70
+Rp71
+sS'year'
+p72
+V2004
+p73
+sS'species'
+p74
+g3
+((lp75
+tp76
+Rp77
 sb.

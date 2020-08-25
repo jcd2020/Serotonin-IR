@@ -2,86 +2,149 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S'Method.ANTAGONIST'
 p5
-aS"(17, u'\\\\bnan ?190')"
-p6
-aS"(22, u'\\\\bpropranolol')"
-p7
-aS"(11, u'\\\\bisamoltane')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.STIMULATION'
-p13
-aS'Method.ANTAGONIST'
-p14
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p6
+atp7
+Rp8
 sS'topics'
-p18
+p9
 g3
-((lp19
-tp20
-Rp21
+((lp10
+S"(23, u'\\\\bantipsychotic')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
-p22
+p15
 g3
-((lp23
-S'5ht1b'
-p24
-atp25
-Rp26
-sS'regions'
+((lp16
+(S'5ht1a'
+p17
+I771
+I777
+tp18
+a(S'5ht2a'
+p19
+I1141
+I1147
+tp20
+a(S'5ht1a'
+p21
+I1260
+I1266
+tp22
+a(S'5ht1a'
+p23
+I976
+I982
+tp24
+a(S'5ht1a'
+p25
+I2294
+I2300
+tp26
+a(S'5ht1a'
 p27
-g3
-((lp28
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I2442
+I2448
+tp28
+a(S'5ht1a'
 p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I392
+I398
+tp30
+a(S'5ht2a'
 p31
-atp32
-Rp33
-sS'year'
-p34
-V1992
+I1829
+I1835
+tp32
+a(S'5ht1a'
+p33
+I1086
+I1092
+tp34
+a(S'5ht1a'
 p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p38
-aS"(45, u'\\\\bipsapirone')"
+I699
+I705
+tp36
+a(S'5ht1a'
+p37
+I374
+I380
+tp38
+a(S'5ht1a'
 p39
-aS"(96, u'\\\\bsumatriptan')"
-p40
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+I29
+I35
+tp40
+a(S'5ht1a'
 p41
-aS"(67, u'\\\\bru ?24969')"
-p42
-atp43
-Rp44
-sS'species'
+I486
+I492
+tp42
+a(S'5ht2a'
+p43
+I1222
+I1228
+tp44
+a(S'5ht1a'
 p45
+I1606
+I1612
+tp46
+atp47
+Rp48
+sS'raw_text_methods'
+p49
 g3
-((lp46
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p47
-atp48
-Rp49
+((lp50
+S"(41, u'\\\\bhaloperidol')"
+p51
+aS"(23, u'\\\\bmdl')"
+p52
+aS"(15, u'\\\\b8ohdpat')"
+p53
+aS"(40, u'\\\\bclozapine')"
+p54
+aS"(13, u'\\\\bagonist')"
+p55
+aS"(51, u'\\\\bway100635')"
+p56
+aS"(12, u'\\\\bantagonist')"
+p57
+atp58
+Rp59
+sS'regions'
+p60
+g3
+((lp61
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p62
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p63
+atp64
+Rp65
+sS'year'
+p66
+V2000
+p67
+sS'species'
+p68
+g3
+((lp69
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p70
+atp71
+Rp72
 sb.

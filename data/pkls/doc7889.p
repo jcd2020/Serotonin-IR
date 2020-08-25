@@ -2,72 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(9, u'\\\\bstress')"
+p11
+aS"(4, u'\\\\btreatment')"
 p12
-g3
-((lp13
-S"(16, u'\\\\bfeed')"
-p14
-atp15
-Rp16
+aS"(3, u'\\\\bclinical')"
+p13
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht1b'
-p19
-aS'5ht1'
+((lp17
+(S'5ht1a'
+p18
+I297
+I303
+tp19
+a(S'5ht5'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
-p28
-V2013
-p29
-sS'agonists'
+I258
+I268
+tp21
+a(S'5ht2a'
+p22
+I310
+I316
+tp23
+a(S'5ht1a'
+p24
+I1483
+I1489
+tp25
+a(S'5ht1a'
+p26
+I456
+I462
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
 g3
 ((lp31
-tp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+S"(46, u'\\\\bspiperone')"
+p32
+aS"(12, u'\\\\bantagonist')"
+p33
+atp34
+Rp35
+sS'regions'
 p36
-aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
-p37
-aS"(233, u'(?i)\\\\b(rainbows|rainbow)(-|\\\\s+)?(trout|trout)\\\\b')"
-p38
-aS"(4392, u'(?i)\\\\b(trout|trout)\\\\b')"
-p39
-aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+g3
+((lp37
+tp38
+Rp39
+sS'year'
 p40
-atp41
-Rp42
+V2004
+p41
+sS'species'
+p42
+g3
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

@@ -2,82 +2,121 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(14, u'\\\\bcogniti')"
 p11
-g3
-((lp12
-S"(7, u'\\\\bmemory')"
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(25, u'\\\\bsocial')"
 p13
-atp14
-Rp15
-sS'receptors'
+aS"(17, u'\\\\balzheimer')"
+p14
+aS"(2, u'\\\\bdisorder')"
+p15
+aS"(16, u'\\\\blearning')"
 p16
-g3
-((lp17
-S'5ht7'
+aS"(15, u'\\\\bmemory')"
+p17
+aS"(4, u'\\\\btreatment')"
 p18
-aS'5ht1b'
-p19
-aS'5ht5'
-p20
-aS'5ht4'
+atp19
+Rp20
+sS'receptors'
 p21
-aS'5ht2b'
-p22
-aS'5ht2c'
+g3
+((lp22
+(S'5ht1a'
 p23
-aS'5ht6'
-p24
-aS'5ht2a'
+I1481
+I1487
+tp24
+a(S'5ht1a'
 p25
-aS'5ht1d'
-p26
-aS'5ht1a'
+I718
+I724
+tp26
+a(S'5ht1a'
 p27
-aS'5ht6a'
-p28
-aS'5ht3'
+I460
+I466
+tp28
+a(S'5ht1a'
 p29
-atp30
-Rp31
-sS'regions'
-p32
-g3
-((lp33
+I1274
+I1280
+tp30
+a(S'5ht1a'
+p31
+I592
+I598
+tp32
+a(S'5ht1a'
+p33
+I251
+I257
 tp34
-Rp35
-sS'year'
-p36
-V2017
+a(S'5ht1a'
+p35
+I98
+I104
+tp36
+a(S'5ht1a'
 p37
-sS'agonists'
-p38
-g3
-((lp39
-S"(149, u'\\\\bmem')"
-p40
+I424
+I430
+tp38
+a(S'5ht1a'
+p39
+I1071
+I1077
+tp40
 atp41
 Rp42
-sS'species'
+sS'raw_text_methods'
 p43
 g3
 ((lp44
-S"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+S"(12, u'\\\\bantagonist')"
 p45
 atp46
 Rp47
+sS'regions'
+p48
+g3
+((lp49
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p50
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p51
+atp52
+Rp53
+sS'year'
+p54
+V2000
+p55
+sS'species'
+p56
+g3
+((lp57
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p58
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p59
+atp60
+Rp61
 sb.

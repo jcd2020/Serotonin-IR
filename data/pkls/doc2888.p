@@ -2,68 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+tp5
+Rp6
 sS'topics'
-p13
+p7
 g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-aS"(3, u'\\\\bsleep')"
-p16
-aS"(11, u'\\\\banxiolyt')"
-p17
-atp18
-Rp19
+((lp8
+tp9
+Rp10
 sS'receptors'
-p20
+p11
 g3
-((lp21
-S'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
+((lp12
+(S'5ht2c'
+p13
+I218
+I224
+tp14
+a(S'5ht2c'
+p15
+I1469
+I1475
+tp16
+a(S'5ht2c'
+p17
+I62
+I73
+tp18
+a(S'5ht2c'
+p19
+I532
+I538
+tp20
+a(S'5ht2c'
+p21
+I1258
+I1264
+tp22
+a(S'5ht2c'
+p23
+I1667
+I1673
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp26
-tp27
-Rp28
-sS'year'
+((lp28
+S"(2, u'\\\\blabeling')"
 p29
-V2007
+aS"(54, u'\\\\bautoradiography')"
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(80, u'\\\\bvilazodone')"
+atp31
+Rp32
+sS'regions'
 p33
-atp34
-Rp35
-sS'species'
-p36
 g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp34
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p35
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p36
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p37
+aS"(14, u'(?i)\\\\b(caudals|caudal)\\\\b')"
 p38
 atp39
 Rp40
+sS'year'
+p41
+V1997
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

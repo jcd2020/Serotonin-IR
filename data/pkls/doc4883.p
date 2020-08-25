@@ -2,70 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
 p11
-g3
-((lp12
-tp13
-Rp14
+atp12
+Rp13
 sS'receptors'
-p15
+p14
 g3
-((lp16
-S'5ht3'
-p17
-atp18
-Rp19
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I441
+I447
+tp17
+a(S'5ht1a'
+p18
+I291
+I297
+tp19
+a(S'5ht1a'
 p20
-g3
-((lp21
-tp22
-Rp23
-sS'year'
+I69
+I75
+tp21
+a(S'5ht1a'
+p22
+I1380
+I1386
+tp23
+a(S'5ht1a'
 p24
-V2003
-p25
-sS'agonists'
+I1643
+I1649
+tp25
+a(S'5ht1a'
 p26
+I1861
+I1867
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
 g3
-((lp27
-S"(176, u'\\\\bdom')"
-p28
-aS"(149, u'\\\\bmem')"
-p29
-atp30
-Rp31
-sS'species'
+((lp31
+S"(13, u'\\\\bagonist')"
 p32
-g3
-((lp33
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
+p33
+aS"(38, u'\\\\bssri')"
 p34
-aS"(5156, u'(?i)\\\\b(invertebrates|invertebrate)\\\\b')"
+aS"(51, u'\\\\bway100635')"
 p35
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p36
-aS"(2621, u'(?i)\\\\b(vertebrates|vertebrate)\\\\b')"
-p37
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+atp37
+Rp38
+sS'regions'
 p39
-atp40
-Rp41
+g3
+((lp40
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V2005
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

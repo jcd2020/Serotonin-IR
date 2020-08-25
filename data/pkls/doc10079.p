@@ -2,66 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-tp10
-Rp11
-sS'topics'
+S"(5, u'\\\\btherap')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(13, u'\\\\bantidepress')"
 p12
-g3
-((lp13
-tp14
-Rp15
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(3, u'\\\\bclinical')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
+((lp18
+(S'5ht1a'
+p19
+I983
+I989
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-tp23
+I910
+I916
+tp22
+atp23
 Rp24
-sS'year'
+sS'raw_text_methods'
 p25
-V1987
-p26
-sS'agonists'
-p27
 g3
-((lp28
-S"(20, u'\\\\bbuspirone')"
+((lp26
+S"(38, u'\\\\bssri')"
+p27
+aS"(18, u'\\\\bimaging')"
+p28
+aS"(51, u'\\\\bway100635')"
 p29
-aS"(149, u'\\\\bmem')"
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p30
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(12, u'\\\\bantagonist')"
 p31
 atp32
 Rp33
-sS'species'
+sS'regions'
 p34
 g3
 ((lp35
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-atp38
-Rp39
+atp37
+Rp38
+sS'year'
+p39
+V2011
+p40
+sS'species'
+p41
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

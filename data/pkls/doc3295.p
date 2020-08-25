@@ -2,88 +2,97 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(34, u'\\\\bparkinson')"
 p14
-g3
-((lp15
-tp16
-Rp17
-sS'receptors'
+aS"(5, u'\\\\btherap')"
+p15
+aS"(30, u'\\\\bpain')"
+p16
+aS"(8, u'\\\\banxi')"
+p17
+aS"(4, u'\\\\btreatment')"
 p18
-g3
-((lp19
-S'5ht1b'
-p20
-aS'5ht1a'
+atp19
+Rp20
+sS'receptors'
 p21
-aS'5ht1f'
-p22
-aS'5ht1e'
+g3
+((lp22
+(S'5ht1a'
 p23
-aS'5ht2a'
-p24
-aS'5ht1d'
+I29
+I35
+tp24
+a(S'5ht1a'
 p25
-atp26
-Rp27
-sS'regions'
-p28
-g3
-((lp29
-S"(88, u'(?i)\\\\b(superiors|superior)(-|\\\\s+)?(colliculis|colliculi)\\\\b')"
-p30
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+I838
+I844
+tp26
+a(S'5ht1a'
+p27
+I505
+I511
+tp28
+a(S'5ht1a'
+p29
+I1147
+I1153
+tp30
+a(S'5ht1a'
 p31
-atp32
-Rp33
-sS'year'
-p34
-V1999
+I209
+I215
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
 p35
-sS'agonists'
-p36
 g3
-((lp37
-S"(96, u'\\\\bsumatriptan')"
+((lp36
+S"(13, u'\\\\bagonist')"
+p37
+aS"(12, u'\\\\bantagonist')"
 p38
 atp39
 Rp40
-sS'species'
+sS'regions'
 p41
 g3
 ((lp42
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p43
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p44
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p45
-aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+atp44
+Rp45
+sS'year'
 p46
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+V2014
 p47
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p48
-atp49
-Rp50
+g3
+((lp49
+tp50
+Rp51
 sb.

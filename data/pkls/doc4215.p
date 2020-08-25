@@ -2,88 +2,107 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(133, u'\\\\bmianserin')"
-p5
-aS"(123, u'\\\\bgranisetron')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(33, u'\\\\blocomot')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht2'
+p16
+I2225
+I2231
+tp17
+a(S'5ht2a'
 p18
-g3
-((lp19
-S'5ht3'
+I905
+I911
+tp19
+a(S'5ht2a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
-p25
-aS"(236, u'(?i)\\\\b(septals|septal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1113
+I1119
+tp21
+a(S'5ht2a'
+p22
+I1246
+I1252
+tp23
+a(S'5ht2a'
+p24
+I595
+I601
+tp25
+a(S'5ht1a'
 p26
-aS"(302, u'(?i)\\\\b(corpuses|corpus)(-|\\\\s+)?(callosums|callosum)\\\\b')"
-p27
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+I1208
+I1214
+tp27
+a(S'5ht1a'
 p28
-aS"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p29
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I996
+I1002
+tp29
+a(S'5ht1a'
 p30
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I1102
+I1108
+tp31
+a(S'5ht2a'
 p32
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p33
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p34
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p35
-atp36
-Rp37
-sS'year'
+I2225
+I2231
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
+g3
+((lp37
+S"(51, u'\\\\bway100635')"
 p38
-V1997
+aS"(23, u'\\\\bmdl')"
 p39
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p40
+atp41
+Rp42
+sS'regions'
+p43
 g3
-((lp41
-S"(210, u'\\\\bsulpiride')"
-p42
-atp43
-Rp44
-sS'species'
+((lp44
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p45
-g3
-((lp46
-S"(1961, u'(?i)\\\\b(pens|pen)\\\\b')"
-p47
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+atp46
+Rp47
+sS'year'
 p48
-atp49
-Rp50
+V2016
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

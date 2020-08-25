@@ -2,72 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(15, u'\\\\bmppf')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.PET'
+S"(5, u'\\\\btherap')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(30, u'\\\\bparkinsons')"
-p15
-atp16
-Rp17
+aS"(15, u'\\\\bmemory')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp16
+(S'5ht2a'
+p17
+I598
+I604
+tp18
+a(S'5ht2a'
+p19
+I232
+I243
+tp20
+a(S'5ht2a'
+p21
+I246
+I252
+tp22
+a(S'5ht2a'
 p23
-g3
-((lp24
-S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p25
-aS"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I2197
+I2203
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
-p31
-V2016
-p32
-sS'agonists'
+g3
+((lp28
+S"(1, u'\\\\bneuroimag')"
+p29
+aS"(13, u'\\\\bagonist')"
+p30
+atp31
+Rp32
+sS'regions'
 p33
 g3
 ((lp34
-tp35
-Rp36
-sS'species'
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p35
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p36
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p37
-g3
-((lp38
-S"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p39
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+atp38
+Rp39
+sS'year'
 p40
-atp41
-Rp42
+V2020
+p41
+sS'species'
+p42
+g3
+((lp43
+tp44
+Rp45
 sb.

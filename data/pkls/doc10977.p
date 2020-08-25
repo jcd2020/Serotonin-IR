@@ -2,82 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(8, u'\\\\blearning')"
-p14
-aS"(4, u'\\\\blocomot')"
-p15
-aS"(3, u'\\\\bsleep')"
-p16
-aS"(7, u'\\\\bmemory')"
-p17
-aS"(1, u'\\\\bmood')"
-p18
-atp19
-Rp20
+((lp9
+S"(3, u'\\\\bclinical')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht3'
+p15
+I1192
+I1197
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+S"(37, u'\\\\bpiperazine')"
 p21
-g3
-((lp22
-S'5ht7'
+aS"(17, u'\\\\bpet')"
+p22
+aS"(19, u'\\\\bpositron emission tomography')"
 p23
-atp24
-Rp25
+aS"(18, u'\\\\bimaging')"
+p24
+atp25
+Rp26
 sS'regions'
-p26
+p27
 g3
-((lp27
-S"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p28
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p29
-aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p30
-atp31
-Rp32
+((lp28
+tp29
+Rp30
 sS'year'
-p33
-V2014
-p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(231, u'\\\\blp ?211')"
-p37
-aS"(149, u'\\\\bmem')"
-p38
-atp39
-Rp40
+p31
+V2015
+p32
 sS'species'
-p41
+p33
 g3
-((lp42
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p43
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-atp46
-Rp47
+((lp34
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

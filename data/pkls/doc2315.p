@@ -1,0 +1,130 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(6, u'\\\\baggressi')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(25, u'\\\\bsocial')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
+p18
+I241
+I247
+tp19
+a(S'5ht1b'
+p20
+I113
+I119
+tp21
+a(S'5ht1a'
+p22
+I1194
+I1200
+tp23
+a(S'5ht1b'
+p24
+I1757
+I1763
+tp25
+a(S'5ht1b'
+p26
+I1207
+I1213
+tp27
+a(S'5ht1a'
+p28
+I102
+I108
+tp29
+a(S'5ht1b'
+p30
+I254
+I260
+tp31
+a(S'5ht1b'
+p32
+I2015
+I2021
+tp33
+a(S'5ht1a'
+p34
+I724
+I730
+tp35
+a(S'5ht1b'
+p36
+I1547
+I1553
+tp37
+a(S'5ht1b'
+p38
+I749
+I755
+tp39
+atp40
+Rp41
+sS'raw_text_methods'
+p42
+g3
+((lp43
+S"(13, u'\\\\bagonist')"
+p44
+aS"(15, u'\\\\b8ohdpat')"
+p45
+aS"(12, u'\\\\bantagonist')"
+p46
+atp47
+Rp48
+sS'regions'
+p49
+g3
+((lp50
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p51
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p52
+aS"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p53
+atp54
+Rp55
+sS'year'
+p56
+V2011
+p57
+sS'species'
+p58
+g3
+((lp59
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p60
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p61
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p62
+atp63
+Rp64
+sb.

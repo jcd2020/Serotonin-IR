@@ -2,70 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-tp15
-Rp16
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(20, u'\\\\bmood')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2c'
 p17
-g3
-((lp18
-S'5ht3'
+I59
+I65
+tp18
+a(S'5ht2c'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
-p27
-V1996
-p28
-sS'agonists'
+I209
+I215
+tp20
+a(S'5ht2c'
+p21
+I460
+I466
+tp22
+a(S'5ht2c'
+p23
+I1515
+I1521
+tp24
+a(S'5ht2c'
+p25
+I187
+I198
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
 g3
 ((lp30
-S"(189, u'\\\\bethanol')"
+S"(13, u'\\\\bagonist')"
 p31
 atp32
 Rp33
-sS'species'
+sS'regions'
 p34
 g3
 ((lp35
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p36
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p39
-atp40
-Rp41
+atp38
+Rp39
+sS'year'
+p40
+V2019
+p41
+sS'species'
+p42
+g3
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

@@ -2,66 +2,78 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(75, u'\\\\bsarpogrelate')"
+S'Method.ANTAGONIST'
 p5
-aS"(194, u'\\\\bmethysergide')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(25, u'\\\\bsocial')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+aS"(20, u'\\\\bmood')"
 p14
-g3
-((lp15
-tp16
-Rp17
+aS"(23, u'\\\\bantipsychotic')"
+p15
+aS"(4, u'\\\\btreatment')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
-S'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp20
+(S'5ht2c'
+p21
+I1419
+I1425
+tp22
+a(S'5ht2c'
 p23
-g3
-((lp24
-tp25
+I1455
+I1461
+tp24
+atp25
 Rp26
-sS'year'
+sS'raw_text_methods'
 p27
-V1999
-p28
-sS'agonists'
+g3
+((lp28
+S"(13, u'\\\\bagonist')"
 p29
+aS"(12, u'\\\\bantagonist')"
+p30
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp30
-S"(53, u'\\\\bmethysergide')"
-p31
-aS"(149, u'\\\\bmem')"
-p32
-atp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp34
+tp35
+Rp36
+sS'year'
 p37
-atp38
-Rp39
+V2015
+p38
+sS'species'
+p39
+g3
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

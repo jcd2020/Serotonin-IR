@@ -2,82 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(194, u'\\\\bmethysergide')"
+S'Method.IMMUNOHISTOCHEMISTRY'
 p5
-aS"(119, u'\\\\britanserin')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+S"(18, u'\\\\bavoidan')"
+p10
+aS"(30, u'\\\\bpain')"
+p11
+aS"(1, u'\\\\bpatient')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(9, u'\\\\bstress')"
+p14
+atp15
+Rp16
 sS'receptors'
-p19
+p17
 g3
-((lp20
-S'5ht2c'
+((lp18
+(S'5ht4a'
+p19
+I1347
+I1353
+tp20
+a(S'5ht4a'
 p21
-aS'5ht2a'
-p22
+I804
+I810
+tp22
 atp23
 Rp24
-sS'regions'
+sS'raw_text_methods'
 p25
 g3
 ((lp26
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p27
-atp28
-Rp29
+tp27
+Rp28
+sS'regions'
+p29
+g3
+((lp30
+tp31
+Rp32
 sS'year'
-p30
-V1996
-p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(53, u'\\\\bmethysergide')"
+p33
+V2006
 p34
-aS"(191, u'\\\\bphenylbiguanide')"
-p35
-aS"(175, u'\\\\bdoi')"
-p36
-aS"(67, u'\\\\bru ?24969')"
-p37
-aS"(163, u'\\\\bfenfluramine')"
-p38
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p39
-atp40
-Rp41
 sS'species'
-p42
+p35
 g3
-((lp43
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-atp46
-Rp47
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

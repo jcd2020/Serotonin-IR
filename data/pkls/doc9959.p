@@ -2,66 +2,99 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p11
+p8
 g3
-((lp12
-tp13
-Rp14
+((lp9
+tp10
+Rp11
 sS'receptors'
-p15
+p12
 g3
-((lp16
-S'5ht2a'
-p17
-atp18
-Rp19
-sS'regions'
+((lp13
+(S'5ht2a'
+p14
+I372
+I383
+tp15
+a(S'5ht2c'
+p16
+I1477
+I1485
+tp17
+a(S'5ht2a'
+p18
+I437
+I443
+tp19
+a(S'5ht2a'
 p20
-g3
-((lp21
-S"(171, u'(?i)\\\\b(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I387
+I393
+tp21
+a(S'5ht2c'
 p22
-aS"(2, u'(?i)\\\\b(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)\\\\b')"
-p23
-aS"(32, u'(?i)\\\\b(hypoglossals|hypoglossal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1394
+I1402
+tp23
+a(S'5ht2a'
 p24
-aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
-p28
-V2009
-p29
-sS'agonists'
+I1394
+I1400
+tp25
+a(S'5ht2b'
+p26
+I1477
+I1483
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
 g3
 ((lp31
-tp32
-Rp33
-sS'species'
+S"(53, u'\\\\bketanserin')"
+p32
+aS"(27, u'\\\\blsd')"
+p33
+aS"(49, u'\\\\bdoi')"
 p34
-g3
-((lp35
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+aS"(29, u'\\\\bdiethylamide')"
+p35
+aS"(12, u'\\\\bantagonist')"
 p36
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p37
-atp38
-Rp39
+atp37
+Rp38
+sS'regions'
+p39
+g3
+((lp40
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p41
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p42
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p43
+atp44
+Rp45
+sS'year'
+p46
+V2013
+p47
+sS'species'
+p48
+g3
+((lp49
+tp50
+Rp51
 sb.

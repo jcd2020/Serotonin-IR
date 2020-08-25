@@ -2,68 +2,98 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(20, u'\\\\bmood')"
 p14
-atp15
-Rp16
-sS'receptors'
+aS"(5, u'\\\\btherap')"
+p15
+aS"(30, u'\\\\bpain')"
+p16
+aS"(3, u'\\\\bclinical')"
 p17
+atp18
+Rp19
+sS'receptors'
+p20
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp21
+(S'5ht1a'
 p22
-g3
-((lp23
-S"(290, u'(?i)\\\\b(insulars|insular)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I57
+I63
+tp23
+a(S'5ht1a'
 p24
-aS"(277, u'(?i)\\\\b(temporals|temporal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
-p25
-aS"(288, u'(?i)\\\\b(fusiforms|fusiform)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+I1233
+I1239
+tp25
+a(S'5ht1a'
 p26
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
+I218
+I224
+tp27
+a(S'5ht1a'
+p28
+I824
+I830
+tp29
+a(S'5ht1a'
 p30
-V2013
-p31
-sS'agonists'
+I1023
+I1029
+tp31
+a(S'5ht1a'
 p32
-g3
-((lp33
-tp34
+I763
+I769
+tp33
+atp34
 Rp35
-sS'species'
+sS'raw_text_methods'
 p36
 g3
 ((lp37
-S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p38
 atp39
 Rp40
+sS'regions'
+p41
+g3
+((lp42
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p43
+atp44
+Rp45
+sS'year'
+p46
+V2011
+p47
+sS'species'
+p48
+g3
+((lp49
+tp50
+Rp51
 sb.

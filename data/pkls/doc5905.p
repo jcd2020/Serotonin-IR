@@ -2,85 +2,95 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(43, u'\\\\bgr ?127935')"
+S'Method.AGONIST'
 p5
-aS"(52, u'\\\\bmdl ?100907')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(15, u'\\\\bschizophreni')"
-p17
-aS"(6, u'\\\\bcognit')"
-p18
-atp19
-Rp20
+((lp9
+S"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I329
+I335
+tp16
+a(S'5ht5'
+p17
+I280
+I290
+tp18
+a(S'5ht1a'
+p19
+I1338
+I1344
+tp20
+a(S'5ht1'
 p21
-g3
-((lp22
-S'5ht1b'
+I1338
+I1344
+tp22
+a(S'5ht1a'
 p23
-aS'5ht1d'
-p24
-aS'5ht3a'
+I128
+I134
+tp24
+a(S'5ht1a'
 p25
-aS'5ht2c'
-p26
-aS'5ht2a'
+I399
+I405
+tp26
+a(S'5ht1a'
 p27
-atp28
-Rp29
-sS'regions'
-p30
-g3
-((lp31
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p32
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I66
+I72
+tp28
+a(S'5ht1a'
+p29
+I928
+I934
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
 p33
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p34
-atp35
-Rp36
-sS'year'
-p37
-V1996
-p38
-sS'agonists'
+g3
+((lp34
+S"(13, u'\\\\bagonist')"
+p35
+aS"(15, u'\\\\b8ohdpat')"
+p36
+atp37
+Rp38
+sS'regions'
 p39
 g3
 ((lp40
-S"(101, u'\\\\bcp ?94253')"
-p41
-aS"(100, u'\\\\bcp ?93129')"
-p42
-atp43
-Rp44
+tp41
+Rp42
+sS'year'
+p43
+V1997
+p44
 sS'species'
 p45
 g3
 ((lp46
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p47
 atp48
 Rp49

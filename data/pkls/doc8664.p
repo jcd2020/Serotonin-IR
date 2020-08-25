@@ -2,66 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STIMULATION'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(2, u'\\\\bdisorder')"
 p13
-g3
-((lp14
-tp15
-Rp16
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht3'
-p19
-atp20
-Rp21
-sS'regions'
+((lp17
+(S'5ht1a'
+p18
+I189
+I200
+tp19
+a(S'5ht1a'
+p20
+I689
+I694
+tp21
+a(S'5ht1a'
 p22
-g3
-((lp23
-tp24
-Rp25
-sS'year'
-p26
-V2014
-p27
-sS'agonists'
+I558
+I563
+tp23
+a(S'5ht1a'
+p24
+I204
+I210
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
 g3
 ((lp29
-S"(176, u'\\\\bdom')"
+S"(17, u'\\\\bpet')"
 p30
-aS"(191, u'\\\\bphenylbiguanide')"
+aS"(18, u'\\\\bimaging')"
 p31
 atp32
 Rp33
-sS'species'
+sS'regions'
 p34
 g3
 ((lp35
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-atp38
-Rp39
+atp37
+Rp38
+sS'year'
+p39
+V2019
+p40
+sS'species'
+p41
+g3
+((lp42
+tp43
+Rp44
 sb.

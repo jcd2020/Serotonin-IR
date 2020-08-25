@@ -2,65 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(2, u'\\\\bdisorder')"
+p11
+aS"(9, u'\\\\bstress')"
+p12
+aS"(7, u'\\\\bdepressi')"
 p13
-g3
-((lp14
-tp15
-Rp16
+aS"(33, u'\\\\blocomot')"
+p14
+aS"(4, u'\\\\btreatment')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-S'5ht3'
-p19
-aS'5ht2'
+((lp19
+(S'5ht1a'
 p20
-aS'5ht1'
-p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
+I1264
+I1270
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp26
-tp27
+((lp25
+S"(12, u'\\\\bantagonist')"
+p26
+atp27
 Rp28
-sS'year'
+sS'regions'
 p29
-V1986
-p30
-sS'agonists'
-p31
 g3
-((lp32
-tp33
-Rp34
+((lp30
+tp31
+Rp32
+sS'year'
+p33
+V2002
+p34
 sS'species'
 p35
 g3
 ((lp36
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p37
 atp38
 Rp39

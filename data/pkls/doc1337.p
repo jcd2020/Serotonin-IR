@@ -2,96 +2,108 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
-p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-aS"(115, u'\\\\bcinanserin')"
-p7
-aS"(43, u'\\\\bgr ?127935')"
-p8
-aS"(91, u'\\\\bfluoxetine')"
-p9
-aS"(123, u'\\\\bgranisetron')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
 S'Method.ANTAGONIST'
-p15
+p5
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p6
+atp7
+Rp8
 sS'topics'
-p19
+p9
 g3
-((lp20
-tp21
-Rp22
+((lp10
+S"(3, u'\\\\bclinical')"
+p11
+atp12
+Rp13
 sS'receptors'
-p23
+p14
 g3
-((lp24
-S'5ht1b'
-p25
-aS'5ht1a'
+((lp15
+(S'5ht3'
+p16
+I50
+I55
+tp17
+a(S'5ht3'
+p18
+I553
+I558
+tp19
+a(S'5ht3'
+p20
+I283
+I288
+tp21
+a(S'5ht4'
+p22
+I1117
+I1122
+tp23
+a(S'5ht4'
+p24
+I1620
+I1625
+tp25
+a(S'5ht4'
 p26
-aS'5ht3'
-p27
-aS'5ht2'
+I876
+I881
+tp27
+a(S'5ht4'
 p28
-aS'5ht2a'
-p29
-aS'5ht1d'
+I1394
+I1399
+tp29
+a(S'5ht3'
 p30
-atp31
-Rp32
-sS'regions'
-p33
-g3
-((lp34
+I1599
+I1604
+tp31
+a(S'5ht3'
+p32
+I768
+I773
+tp33
+a(S'5ht4'
+p34
+I62
+I67
 tp35
-Rp36
-sS'year'
-p37
-V1998
+atp36
+Rp37
+sS'raw_text_methods'
 p38
-sS'agonists'
-p39
 g3
-((lp40
-S"(20, u'\\\\bbuspirone')"
+((lp39
+S"(13, u'\\\\bagonist')"
+p40
+aS"(30, u'\\\\b2methyl')"
 p41
-aS"(210, u'\\\\bsulpiride')"
+aS"(12, u'\\\\bantagonist')"
 p42
-aS"(96, u'\\\\bsumatriptan')"
-p43
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p44
-aS"(175, u'\\\\bdoi')"
+atp43
+Rp44
+sS'regions'
 p45
-atp46
-Rp47
-sS'species'
-p48
 g3
-((lp49
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+((lp46
+tp47
+Rp48
+sS'year'
+p49
+V1994
 p50
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+sS'species'
 p51
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p52
-atp53
+g3
+((lp52
+tp53
 Rp54
 sb.

@@ -1,0 +1,83 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(30, u'\\\\bpain')"
+p10
+aS"(5, u'\\\\btherap')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I289
+I295
+tp18
+a(S'5ht1a'
+p19
+I2079
+I2085
+tp20
+a(S'5ht1a'
+p21
+I115
+I121
+tp22
+a(S'5ht1a'
+p23
+I1187
+I1193
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
+g3
+((lp28
+S"(13, u'\\\\bagonist')"
+p29
+atp30
+Rp31
+sS'regions'
+p32
+g3
+((lp33
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p34
+aS"(7, u'(?i)\\\\b(entorhinals|entorhinal)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
+p38
+V2005
+p39
+sS'species'
+p40
+g3
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
+sb.

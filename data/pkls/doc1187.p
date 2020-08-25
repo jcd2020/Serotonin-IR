@@ -2,72 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(14, u'\\\\bcogniti')"
 p10
-aS'Method.AGONIST'
+aS"(4, u'\\\\btreatment')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht1a'
+p16
+I583
+I589
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht3a'
+I296
+I302
+tp19
+a(S'5ht1a'
 p20
-aS'5ht3'
-p21
-aS'5ht1'
+I1254
+I1260
+tp21
+a(S'5ht1a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
+I68
+I74
+tp23
+a(S'5ht1a'
+p24
+I797
+I803
+tp25
+a(S'5ht1a'
+p26
+I1048
+I1054
 tp27
-Rp28
-sS'year'
-p29
-V1993
+atp28
+Rp29
+sS'raw_text_methods'
 p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+((lp31
+S"(17, u'\\\\bpet')"
+p32
+aS"(19, u'\\\\bpositron emission tomography')"
 p33
 atp34
 Rp35
-sS'species'
+sS'regions'
 p36
 g3
 ((lp37
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
 p38
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p39
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p40
-atp41
-Rp42
+atp39
+Rp40
+sS'year'
+p41
+V2006
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p45
+atp46
+Rp47
 sb.

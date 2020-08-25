@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,66 +10,62 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.IMMUNOHISTOCHEMISTRY'
+S"(13, u'\\\\bantidepress')"
 p9
 atp10
 Rp11
-sS'topics'
+sS'receptors'
 p12
 g3
 ((lp13
-S"(29, u'\\\\bsex')"
+(S'5ht1a'
 p14
-atp15
-Rp16
-sS'receptors'
-p17
-g3
-((lp18
-S'5ht5'
-p19
-aS'5ht1a'
+I437
+I443
+tp15
+a(S'5ht1a'
+p16
+I993
+I998
+tp17
+a(S'5ht1'
+p18
+I437
+I443
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
+I819
+I825
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+S"(11, u'\\\\bfluoxetine')"
+p26
+atp27
+Rp28
 sS'regions'
-p23
-g3
-((lp24
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
-p28
-V2015
 p29
-sS'agonists'
-p30
 g3
-((lp31
-tp32
-Rp33
-sS'species'
+((lp30
+tp31
+Rp32
+sS'year'
+p33
+V1994
 p34
+sS'species'
+p35
 g3
-((lp35
-S"(2877, u'(?i)\\\\b(seas|sea)(-|\\\\s+)?(lampreys|lamprey)\\\\b')"
-p36
-aS"(2878, u'(?i)\\\\b(petromyzons|petromyzon)(-|\\\\s+)?(marinuses|marinus)\\\\b')"
-p37
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p38
-aS"(2223, u'(?i)\\\\b(lampreys|lamprey)\\\\b')"
-p39
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p40
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p41
-atp42
-Rp43
+((lp36
+tp37
+Rp38
 sb.

@@ -1,0 +1,83 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(29, u'\\\\bhyperactiv')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
+p17
+I48
+I54
+tp18
+a(S'5ht2a'
+p19
+I1667
+I1673
+tp20
+a(S'5ht2a'
+p21
+I1423
+I1429
+tp22
+a(S'5ht1a'
+p23
+I974
+I980
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
+g3
+((lp28
+S"(7, u'\\\\bpropranolol')"
+p29
+aS"(9, u'\\\\britanserin')"
+p30
+aS"(12, u'\\\\bantagonist')"
+p31
+atp32
+Rp33
+sS'regions'
+p34
+g3
+((lp35
+tp36
+Rp37
+sS'year'
+p38
+V2001
+p39
+sS'species'
+p40
+g3
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
+sb.

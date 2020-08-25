@@ -2,84 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(30, u'\\\\bway ?100135')"
+S'Method.ANTAGONIST'
 p5
-aS"(43, u'\\\\bgr ?127935')"
-p6
-aS"(31, u'\\\\bway ?100635')"
-p7
-aS"(11, u'\\\\bisamoltane')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.STIMULATION'
-p13
-aS'Method.ANTAGONIST'
-p14
-aS'Method.AGONIST'
-p15
-atp16
-Rp17
+atp6
+Rp7
 sS'topics'
-p18
+p8
 g3
-((lp19
-tp20
-Rp21
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(9, u'\\\\bstress')"
+p12
+aS"(34, u'\\\\bparkinson')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
+Rp16
 sS'receptors'
-p22
+p17
 g3
-((lp23
-S'5ht1b'
-p24
-aS'5ht1a'
+((lp18
+(S'5ht1b'
+p19
+I1663
+I1669
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
+g3
+((lp24
+S"(12, u'\\\\bantagonist')"
 p25
-aS'5ht1d'
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p32
-atp33
-Rp34
+((lp29
+tp30
+Rp31
 sS'year'
-p35
-V1995
-p36
-sS'agonists'
-p37
-g3
-((lp38
-S"(96, u'\\\\bsumatriptan')"
-p39
-aS"(100, u'\\\\bcp ?93129')"
-p40
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p41
-atp42
-Rp43
+p32
+V2014
+p33
 sS'species'
-p44
+p34
 g3
-((lp45
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p46
-atp47
-Rp48
+((lp35
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

@@ -2,84 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(6, u'\\\\bcyproheptadine')"
+S'Method.STIMULATION'
 p5
-aS"(14, u'\\\\bmethiothepin')"
-p6
-aS"(21, u'\\\\bpindolol')"
-p7
-aS"(53, u'\\\\bcyproheptadine')"
-p8
-aS"(22, u'\\\\bpropranolol')"
-p9
-aS"(194, u'\\\\bmethysergide')"
-p10
-aS"(119, u'\\\\britanserin')"
-p11
-atp12
-Rp13
-sS'methods'
-p14
-g3
-((lp15
-S'Method.ANTAGONIST'
-p16
-atp17
-Rp18
+atp6
+Rp7
 sS'topics'
-p19
+p8
 g3
-((lp20
-S"(4, u'\\\\blocomot')"
-p21
-atp22
-Rp23
+((lp9
+tp10
+Rp11
 sS'receptors'
-p24
+p12
 g3
-((lp25
-S'5ht1b'
+((lp13
+(S'5ht1a'
+p14
+I121
+I132
+tp15
+a(S'5ht1a'
+p16
+I1988
+I1994
+tp17
+a(S'5ht1a'
+p18
+I1756
+I1762
+tp19
+a(S'5ht1'
+p20
+I121
+I132
+tp21
+a(S'5ht1a'
+p22
+I814
+I820
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-aS'5ht2'
-p27
-aS'5ht1'
+g3
+((lp27
+S"(15, u'\\\\b8ohdpat')"
 p28
-aS'5ht2a'
+aS"(5, u'\\\\bmk801')"
 p29
-atp30
-Rp31
+aS"(51, u'\\\\bway100635')"
+p30
+atp31
+Rp32
 sS'regions'
-p32
+p33
 g3
-((lp33
-tp34
-Rp35
-sS'year'
+((lp34
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p35
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
 p36
-V1992
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p37
-sS'agonists'
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p38
-g3
-((lp39
-S"(147, u'\\\\bmdma')"
-p40
-aS"(53, u'\\\\bmethysergide')"
+atp39
+Rp40
+sS'year'
 p41
-atp42
-Rp43
+V2001
+p42
 sS'species'
-p44
+p43
 g3
-((lp45
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p46
-atp47
-Rp48
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

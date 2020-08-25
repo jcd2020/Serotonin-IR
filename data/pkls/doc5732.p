@@ -2,100 +2,127 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(112, u'\\\\bquetiapine')"
-p5
-aS"(110, u'\\\\bclozapine')"
-p6
-aS"(114, u'\\\\bziprasidone')"
-p7
-aS"(31, u'\\\\bway ?100635')"
-p8
-aS"(113, u'\\\\brisperidone')"
-p9
-aS"(50, u'\\\\bquetiapine')"
-p10
-aS"(111, u'\\\\bolanzapine')"
-p11
-aS"(58, u'\\\\bhaloperidol')"
-p12
-atp13
-Rp14
-sS'methods'
-p15
-g3
-((lp16
 S'Method.ANTAGONIST'
-p17
+p5
 aS'Method.AGONIST'
-p18
-atp19
-Rp20
+p6
+atp7
+Rp8
 sS'topics'
-p21
+p9
 g3
-((lp22
-tp23
-Rp24
+((lp10
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht3'
+p15
+I1153
+I1158
+tp16
+a(S'5ht1a'
+p17
+I801
+I807
+tp18
+a(S'5ht1b'
+p19
+I809
+I815
+tp20
+a(S'5ht1a'
+p21
+I902
+I908
+tp22
+a(S'5ht2'
+p23
+I1785
+I1790
+tp24
+a(S'5ht1c'
 p25
-g3
-((lp26
-S'5ht1a'
+I1810
+I1816
+tp26
+a(S'5ht1a'
 p27
-aS'5ht2d'
-p28
-aS'5ht2a'
+I686
+I692
+tp28
+a(S'5ht1a'
 p29
-atp30
-Rp31
-sS'regions'
-p32
-g3
-((lp33
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p34
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1086
+I1092
+tp30
+a(S'5ht1c'
+p31
+I472
+I478
+tp32
+a(S'5ht2'
+p33
+I483
+I488
+tp34
+a(S'5ht2'
 p35
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p36
+I694
+I699
+tp36
 atp37
 Rp38
-sS'year'
+sS'raw_text_methods'
 p39
-V2002
-p40
-sS'agonists'
+g3
+((lp40
+S"(53, u'\\\\bketanserin')"
 p41
-g3
-((lp42
-S"(64, u'\\\\bquetiapine')"
+aS"(41, u'\\\\bhaloperidol')"
+p42
+aS"(33, u'\\\\bmcpp')"
 p43
-aS"(57, u'\\\\bolanzapine')"
+aS"(21, u'\\\\bipsapirone')"
 p44
-aS"(23, u'\\\\bclozapine')"
+aS"(13, u'\\\\bagonist')"
 p45
-aS"(84, u'\\\\bziprasidone')"
+aS"(45, u'\\\\bmetergoline')"
 p46
-aS"(43, u'\\\\bhaloperidol')"
+aS"(46, u'\\\\bspiperone')"
 p47
-atp48
-Rp49
-sS'species'
+aS"(9, u'\\\\britanserin')"
+p48
+aS"(28, u'\\\\bzacopride')"
+p49
+aS"(12, u'\\\\bantagonist')"
 p50
-g3
-((lp51
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p52
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+atp51
+Rp52
+sS'regions'
 p53
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p54
-atp55
+g3
+((lp54
+tp55
 Rp56
+sS'year'
+p57
+V1992
+p58
+sS'species'
+p59
+g3
+((lp60
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p61
+atp62
+Rp63
 sb.

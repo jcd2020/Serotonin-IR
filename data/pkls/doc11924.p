@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,66 +10,89 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.KNOCKOUT'
-p9
-aS'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(11, u'\\\\banxiolyt')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-atp18
-Rp19
+tp9
+Rp10
 sS'receptors'
-p20
+p11
 g3
-((lp21
-S'5ht7a'
-p22
-aS'5ht1a'
+((lp12
+(S'5ht1a'
+p13
+I59
+I70
+tp14
+a(S'5ht2'
+p15
+I1192
+I1197
+tp16
+a(S'5ht1c'
+p17
+I752
+I758
+tp18
+a(S'5ht1a'
+p19
+I522
+I528
+tp20
+a(S'5ht1c'
+p21
+I59
+I72
+tp22
+a(S'5ht1'
 p23
-atp24
-Rp25
-sS'regions'
-p26
+I59
+I72
+tp24
+a(S'5ht2'
+p25
+I2038
+I2043
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
 g3
-((lp27
-S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+((lp30
+S"(2, u'\\\\blabeling')"
 p31
-V2014
-p32
-sS'agonists'
-p33
+atp32
+Rp33
+sS'regions'
+p34
 g3
-((lp34
-S"(20, u'\\\\bbuspirone')"
-p35
-atp36
-Rp37
-sS'species'
+((lp35
+S"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
+p36
+aS"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p37
+aS"(7, u'(?i)\\\\b(entorhinals|entorhinal)\\\\b')"
 p38
-g3
-((lp39
-S"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+aS"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p39
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p40
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p41
 atp42
 Rp43
+sS'year'
+p44
+V1995
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

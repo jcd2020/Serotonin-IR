@@ -1,0 +1,64 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
+p12
+g3
+((lp13
+(S'5ht2a'
+p14
+I327
+I333
+tp15
+atp16
+Rp17
+sS'raw_text_methods'
+p18
+g3
+((lp19
+S"(12, u'\\\\bantagonist')"
+p20
+atp21
+Rp22
+sS'regions'
+p23
+g3
+((lp24
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p25
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p26
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p27
+atp28
+Rp29
+sS'year'
+p30
+V2012
+p31
+sS'species'
+p32
+g3
+((lp33
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
+sb.

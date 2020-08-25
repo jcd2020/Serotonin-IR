@@ -1,0 +1,83 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(3, u'\\\\bclinical')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I1237
+I1243
+tp17
+a(S'5ht1'
+p18
+I1286
+I1291
+tp19
+a(S'5ht2'
+p20
+I1452
+I1457
+tp21
+a(S'5ht3'
+p22
+I1326
+I1330
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+S"(13, u'\\\\bagonist')"
+p28
+aS"(49, u'\\\\bdoi')"
+p29
+atp30
+Rp31
+sS'regions'
+p32
+g3
+((lp33
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p34
+atp35
+Rp36
+sS'year'
+p37
+V1993
+p38
+sS'species'
+p39
+g3
+((lp40
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p41
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
+sb.

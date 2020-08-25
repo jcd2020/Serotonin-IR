@@ -2,72 +2,99 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
+S'Method.PET'
+p5
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
+((lp9
+S"(9, u'\\\\bstress')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(15, u'\\\\bschizophreni')"
+(S'5ht4'
 p15
-aS"(14, u'\\\\bpsychosis')"
-p16
-atp17
-Rp18
-sS'receptors'
+I1787
+I1792
+tp16
+a(S'5ht4'
+p17
+I568
+I578
+tp18
+a(S'5ht4'
 p19
-g3
-((lp20
-S'5ht2a'
+I980
+I985
+tp20
+a(S'5ht4'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
+I1314
+I1319
+tp22
+a(S'5ht4'
+p23
+I590
+I595
+tp24
+a(S'5ht4'
+p25
+I39
+I49
 tp26
-Rp27
-sS'year'
-p28
-V2008
-p29
-sS'agonists'
-p30
+a(S'5ht4'
+p27
+I746
+I751
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
 g3
-((lp31
-S"(63, u'\\\\bpsilocybin')"
-p32
-aS"(157, u'\\\\bdmt')"
+((lp32
+S"(17, u'\\\\bpet')"
 p33
-aS"(26, u'\\\\bdimethyltryptamine')"
+aS"(18, u'\\\\bimaging')"
 p34
 atp35
 Rp36
-sS'species'
+sS'regions'
 p37
 g3
 ((lp38
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p40
-atp41
-Rp42
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p41
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p42
+atp43
+Rp44
+sS'year'
+p45
+V2016
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p49
+atp50
+Rp51
 sb.

@@ -2,72 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(35, u'\\\\baripiprazole')"
+S'Method.ANTAGONIST'
 p5
-aS"(50, u'\\\\bquetiapine')"
+aS'Method.AGONIST'
 p6
-aS"(140, u'\\\\bmemantine')"
-p7
-aS"(112, u'\\\\bquetiapine')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-tp13
-Rp14
+atp7
+Rp8
 sS'topics'
-p15
+p9
 g3
-((lp16
-S"(6, u'\\\\bcognit')"
-p17
-aS"(34, u'\\\\bdementia')"
-p18
-atp19
-Rp20
+((lp10
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1'
+p15
+I922
+I927
+tp16
+a(S'5ht2'
+p17
+I739
+I744
+tp18
+a(S'5ht1b'
+p19
+I1517
+I1523
+tp20
+a(S'5ht1'
 p21
-g3
-((lp22
-S'5ht1a'
+I773
+I778
+tp22
+a(S'5ht2'
 p23
-atp24
-Rp25
-sS'regions'
-p26
+I566
+I571
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp27
-tp28
-Rp29
-sS'year'
+((lp28
+S"(13, u'\\\\bagonist')"
+p29
+aS"(15, u'\\\\b8ohdpat')"
 p30
-V2010
+aS"(49, u'\\\\bdoi')"
 p31
-sS'agonists'
+aS"(53, u'\\\\bketanserin')"
 p32
-g3
-((lp33
-S"(64, u'\\\\bquetiapine')"
-p34
-aS"(223, u'\\\\baripiprazole')"
-p35
-aS"(149, u'\\\\bmem')"
+aS"(12, u'\\\\bantagonist')"
+p33
+atp34
+Rp35
+sS'regions'
 p36
-atp37
-Rp38
-sS'species'
-p39
 g3
-((lp40
-tp41
-Rp42
+((lp37
+tp38
+Rp39
+sS'year'
+p40
+V1989
+p41
+sS'species'
+p42
+g3
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

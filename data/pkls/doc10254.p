@@ -2,76 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(40, u'\\\\bergotamine')"
+S'Method.STIMULATION'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(26, u'\\\\bbehav')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(9, u'\\\\bstress')"
+p12
+aS"(4, u'\\\\btreatment')"
 p13
-g3
-((lp14
-S"(13, u'\\\\bpsychedel')"
-p15
-aS"(1, u'\\\\bmood')"
-p16
-atp17
-Rp18
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht1a'
-p21
-aS'5ht2b'
+((lp17
+(S'5ht1b'
+p18
+I1052
+I1058
+tp19
+a(S'5ht1b'
+p20
+I1571
+I1577
+tp21
+a(S'5ht1b'
 p22
-aS'5ht2a'
-p23
-atp24
-Rp25
-sS'regions'
+I55
+I61
+tp23
+a(S'5ht1a'
+p24
+I579
+I585
+tp25
+a(S'5ht1b'
 p26
-g3
-((lp27
-tp28
+I864
+I870
+tp27
+atp28
 Rp29
-sS'year'
+sS'raw_text_methods'
 p30
-V2016
-p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(20, u'\\\\bbuspirone')"
+((lp31
+tp32
+Rp33
+sS'regions'
 p34
-aS"(63, u'\\\\bpsilocybin')"
-p35
-aS"(33, u'\\\\bergotamine')"
+g3
+((lp35
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
 p36
 atp37
 Rp38
-sS'species'
+sS'year'
 p39
-g3
-((lp40
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+V2019
+p40
+sS'species'
 p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

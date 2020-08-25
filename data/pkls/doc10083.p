@@ -2,53 +2,56 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\bmetergoline')"
-p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(28, u'\\\\bspiroxatrine')"
-p7
-aS"(14, u'\\\\bmethiothepin')"
-p8
-aS"(33, u'\\\\byohimbine')"
-p9
-aS"(26, u'\\\\bspiperone')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
 S'Method.ANTAGONIST'
-p15
-aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p5
+atp6
+Rp7
 sS'topics'
-p19
+p8
 g3
-((lp20
-S"(25, u'\\\\bvasoconstrict')"
-p21
-atp22
-Rp23
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
-p24
+p15
 g3
-((lp25
-S'5ht1a'
-p26
-aS'5ht1'
+((lp16
+(S'5ht3'
+p17
+I57
+I62
+tp18
+a(S'5ht3'
+p19
+I402
+I407
+tp20
+a(S'5ht3'
+p21
+I1516
+I1521
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(20, u'\\\\bondansetron')"
 p27
-aS'5ht1d'
+aS"(12, u'\\\\bantagonist')"
 p28
 atp29
 Rp30
@@ -60,30 +63,14 @@ tp33
 Rp34
 sS'year'
 p35
-V1991
+V1994
 p36
-sS'agonists'
+sS'species'
 p37
 g3
 ((lp38
-S"(65, u'\\\\brauwolscine')"
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p39
-aS"(96, u'\\\\bsumatriptan')"
-p40
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p41
-aS"(82, u'\\\\byohimbine')"
-p42
-atp43
-Rp44
-sS'species'
-p45
-g3
-((lp46
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p47
-aS"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
-p48
-atp49
-Rp50
+atp40
+Rp41
 sb.

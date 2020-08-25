@@ -2,74 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
 p12
-g3
-((lp13
-S"(11, u'\\\\banxiolyt')"
-p14
-atp15
-Rp16
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht6'
 p17
-g3
-((lp18
-S'5ht1a'
+I44
+I49
+tp18
+a(S'5ht6'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p24
-aS"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
+I1293
+I1298
+tp20
+a(S'5ht6'
+p21
+I1136
+I1141
+tp22
+a(S'5ht6'
+p23
+I1335
+I1340
+tp24
+a(S'5ht6'
 p25
-aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p27
-aS"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+I292
+I297
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
+g3
+((lp30
+S"(11, u'\\\\bfluoxetine')"
 p31
-V1997
+aS"(12, u'\\\\bantagonist')"
 p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(39, u'\\\\bflesinoxan')"
+atp33
+Rp34
+sS'regions'
 p35
-atp36
-Rp37
-sS'species'
-p38
 g3
-((lp39
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+((lp36
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p37
+atp38
+Rp39
+sS'year'
 p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2003
 p41
-atp42
-Rp43
+sS'species'
+p42
+g3
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

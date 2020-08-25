@@ -2,78 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(33, u'\\\\byohimbine')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(12, u'\\\\banxiogen')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-atp18
-Rp19
+atp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht2c'
-p22
-aS'5ht2a'
+((lp14
+(S'5ht1a'
+p15
+I1458
+I1464
+tp16
+a(S'5ht2'
+p17
+I1469
+I1474
+tp18
+a(S'5ht2'
+p19
+I1114
+I1119
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-atp24
-Rp25
-sS'regions'
-p26
 g3
-((lp27
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(27, u'\\\\blsd')"
+p26
+aS"(29, u'\\\\bdiethylamide')"
+p27
+atp28
+Rp29
+sS'regions'
 p30
-aS"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
-p31
-atp32
+g3
+((lp31
+tp32
 Rp33
 sS'year'
 p34
-V2010
+V1994
 p35
-sS'agonists'
+sS'species'
 p36
 g3
 ((lp37
-S"(155, u'\\\\bmcpp')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(82, u'\\\\byohimbine')"
-p39
-atp40
-Rp41
-sS'species'
-p42
-g3
-((lp43
-tp44
-Rp45
+atp39
+Rp40
 sb.

@@ -2,90 +2,58 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
-p5
-aS"(103, u'\\\\bclomipramine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.STIMULATION'
-p11
-aS'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+tp5
+Rp6
 sS'topics'
-p16
+p7
 g3
-((lp17
-S"(5, u'\\\\bgastrointestin')"
-p18
-atp19
-Rp20
+((lp8
+tp9
+Rp10
 sS'receptors'
-p21
+p11
 g3
-((lp22
-S'5ht3'
-p23
-aS'5ht4'
-p24
-aS'5ht3a'
-p25
-aS'5ht2'
-p26
-aS'5ht4a'
-p27
-atp28
-Rp29
+((lp12
+(S'5ht3'
+p13
+I2088
+I2092
+tp14
+a(S'5ht3'
+p15
+I2023
+I2028
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+tp21
+Rp22
 sS'regions'
-p30
+p23
 g3
-((lp31
-tp32
-Rp33
+((lp24
+tp25
+Rp26
 sS'year'
-p34
-V1995
-p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(220, u'\\\\b5 ?methoxytryptamine')"
-p38
-aS"(222, u'\\\\b5 ?meot')"
-p39
-aS"(149, u'\\\\bmem')"
-p40
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
-p41
-atp42
-Rp43
+p27
+V2008
+p28
 sS'species'
-p44
+p29
 g3
-((lp45
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p46
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p47
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p48
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p49
-atp50
-Rp51
+((lp30
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p31
+atp32
+Rp33
 sb.

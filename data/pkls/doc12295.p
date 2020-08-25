@@ -2,78 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(174, u'\\\\bsb ?258585')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-tp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(11, u'\\\\banxiolyt')"
-p14
-aS"(10, u'\\\\banxiety')"
-p15
-aS"(30, u'\\\\bparkinsons')"
-p16
-atp17
-Rp18
+S"(34, u'\\\\bparkinson')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I2593
+I2599
+tp16
+a(S'5ht1a'
+p17
+I424
+I430
+tp18
+a(S'5ht1a'
 p19
-g3
-((lp20
-S'5ht6'
+I2308
+I2314
+tp20
+a(S'5ht1a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I44
+I50
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp25
-S"(310, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)\\\\b')"
-p26
-aS"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
+((lp26
+S"(51, u'\\\\bway100635')"
 p27
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(32, u'\\\\blesions')"
 p28
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p29
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
-p33
-V2018
-p34
-sS'agonists'
-p35
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp36
-S"(214, u'\\\\bway ?208466')"
-p37
-atp38
-Rp39
+((lp33
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p34
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
+p38
+V2008
+p39
 sS'species'
 p40
 g3
 ((lp41
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sb.

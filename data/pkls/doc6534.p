@@ -2,96 +2,92 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(194, u'\\\\bmethysergide')"
+S'Method.AGONIST'
 p5
-aS"(76, u'\\\\blisuride')"
-p6
-aS"(58, u'\\\\bhaloperidol')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht3'
+p14
+I450
+I455
+tp15
+a(S'5ht3'
+p16
+I1393
+I1398
+tp17
+a(S'5ht3'
+p18
+I1425
+I1430
+tp19
+a(S'5ht3'
 p20
-g3
-((lp21
-S'5ht1b'
+I563
+I568
+tp21
+a(S'5ht3'
 p22
-aS'5ht1a'
-p23
-aS'5ht2a'
+I39
+I49
+tp23
+a(S'5ht3'
 p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
-S"(236, u'(?i)\\\\b(septals|septal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-aS"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
-p30
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p31
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I1283
+I1288
+tp25
+a(S'5ht3'
+p26
+I288
+I293
+tp27
+a(S'5ht3'
+p28
+I275
+I285
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
 p32
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p33
-atp34
-Rp35
-sS'year'
-p36
-V1991
+g3
+((lp33
+S"(13, u'\\\\bagonist')"
+p34
+atp35
+Rp36
+sS'regions'
 p37
-sS'agonists'
-p38
 g3
-((lp39
-S"(53, u'\\\\bmethysergide')"
-p40
-aS"(175, u'\\\\bdoi')"
+((lp38
+tp39
+Rp40
+sS'year'
 p41
-aS"(210, u'\\\\bsulpiride')"
+V2006
 p42
-aS"(155, u'\\\\bmcpp')"
-p43
-aS"(43, u'\\\\bhaloperidol')"
-p44
-aS"(137, u'\\\\blisuride')"
-p45
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p46
-atp47
-Rp48
 sS'species'
-p49
+p43
 g3
-((lp50
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p51
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p52
-atp53
-Rp54
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

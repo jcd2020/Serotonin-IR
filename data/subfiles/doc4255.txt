@@ -1,4 +1,0 @@
-Gerber, K., et al. (1998). "The 5-HT1A agonist 8-OH-DPAT increases the number of spike-wave discharges in a genetic rat model of absence epilepsy." Brain Res 807(1-2): 243-245.
-
-	The effects of the 5-HT1A receptor agonist 8-hydroxy-2-(di-n-propylamino)-tetralin (8-OH-DPAT) on the epileptiform activity has been investigated in adult WAG/RIJ rats. Either intraperitoneal (0.1-0.5 mg/kg) or intracerebroventricular (2-20 microg/rat) administration of 8-OH-DPAT caused marked, dose-dependent increases in the number and mean cumulative duration of spike-wave discharges. These effects were attenuated by NAN-190, a 5-HT1A receptor antagonist. These data indicate that serotonergic system regulates the epileptiform activity in this genetic model of human absence epilepsy.
-

@@ -1,0 +1,4 @@
+Díaz-Cabiale, Z., et al. (2000). "Galanin-(1-16) modulates 5-HT1A receptors in the ventral limbic cortex of the rat." Neuroreport 11(3): 515-519.
+
+	The aim of the present study was to evaluate whether galanin-(1-16) of the rat and porcine type and rat galanin-(1-29) can modulate the 5-HT1A receptors, using [3H]8-OH-DPAT as a radioligand, in membrane preparations from the ventral limbic cortex of the rat. Galanin-(1-16) produced a concentration dependent increase in the Kd value of [3H]8-OH-DPAT binding sites with a maximal effect of approximately 61% at 30 nM without changing the Bmax values. The galanin antagonist M35 blocked these effects. Rat galanin produced the same pattern of response but was less potent and effective. These results indicate the existence of a galanin receptor subtype in the ventral limbic cortex mainly recognizing N-terminal galanin fragments and capable of more strongly modulating 5-HT1A receptors than cloned galanin receptors.
+

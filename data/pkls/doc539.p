@@ -2,66 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(30, u'\\\\bway ?100135')"
-p5
-aS"(104, u'\\\\bimipramine')"
-p6
-aS"(102, u'\\\\bamitriptyline')"
-p7
-aS"(103, u'\\\\bclomipramine')"
-p8
-aS"(192, u'\\\\bmaprotiline')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
-tp14
-Rp15
+tp5
+Rp6
 sS'topics'
-p16
+p7
 g3
-((lp17
-tp18
-Rp19
+((lp8
+S"(1, u'\\\\bpatient')"
+p9
+aS"(7, u'\\\\bdepressi')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
-p20
+p15
 g3
-((lp21
-S'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
+((lp16
+(S'5ht2a'
+p17
+I1145
+I1151
+tp18
+a(S'5ht2a'
+p19
+I755
+I761
+tp20
+a(S'5ht2a'
+p21
+I63
+I74
+tp22
+a(S'5ht2a'
+p23
+I1420
+I1426
+tp24
+a(S'5ht2a'
 p25
-g3
-((lp26
-tp27
-Rp28
-sS'year'
-p29
-V1995
-p30
-sS'agonists'
+I1240
+I1246
+tp26
+a(S'5ht2a'
+p27
+I1067
+I1073
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
 p31
 g3
 ((lp32
 tp33
 Rp34
-sS'species'
+sS'regions'
 p35
 g3
 ((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p37
-atp38
-Rp39
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p38
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p39
+atp40
+Rp41
+sS'year'
+p42
+V2011
+p43
+sS'species'
+p44
+g3
+((lp45
+tp46
+Rp47
 sb.

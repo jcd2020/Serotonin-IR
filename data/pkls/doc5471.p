@@ -2,88 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(29, u'\\\\bsex')"
-p14
-aS"(10, u'\\\\banxiety')"
-p15
-aS"(20, u'\\\\baggressi')"
-p16
-atp17
-Rp18
+((lp9
+S"(3, u'\\\\bclinical')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1a'
-p21
-aS'5ht2c'
+((lp15
+(S'5ht3'
+p16
+I1629
+I1634
+tp17
+a(S'5ht2'
+p18
+I1622
+I1627
+tp19
+a(S'5ht1a'
+p20
+I1724
+I1730
+tp21
+a(S'5ht1a'
 p22
-aS'5ht2a'
-p23
+I1586
+I1592
+tp23
 atp24
 Rp25
-sS'regions'
+sS'raw_text_methods'
 p26
 g3
 ((lp27
-tp28
-Rp29
-sS'year'
-p30
-V2002
+S"(13, u'\\\\bagonist')"
+p28
+atp29
+Rp30
+sS'regions'
 p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(189, u'\\\\bethanol')"
+((lp32
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p33
+aS"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p35
-aS"(175, u'\\\\bdoi')"
-p36
-atp37
-Rp38
-sS'species'
+atp36
+Rp37
+sS'year'
+p38
+V2006
 p39
+sS'species'
+p40
 g3
-((lp40
-S"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
-p41
-aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p43
-aS"(6580, u'(?i)\\\\b(dams|dam)\\\\b')"
-p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p46
-aS"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p47
-aS"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
-p48
-atp49
-Rp50
+atp43
+Rp44
 sb.

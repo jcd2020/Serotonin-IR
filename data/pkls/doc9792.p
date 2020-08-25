@@ -2,78 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(99, u'\\\\bsb ?242084')"
+S'Method.AGONIST'
 p5
-aS"(117, u'\\\\bketanserin')"
-p6
-aS"(31, u'\\\\bway ?100635')"
-p7
-aS"(119, u'\\\\britanserin')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-aS'Method.AGONIST'
-p14
-atp15
-Rp16
+atp6
+Rp7
 sS'topics'
-p17
+p8
 g3
-((lp18
-S"(10, u'\\\\banxiety')"
-p19
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(15, u'\\\\bmemory')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2a'
+p18
+I337
+I343
+tp19
 atp20
 Rp21
-sS'receptors'
+sS'raw_text_methods'
 p22
 g3
 ((lp23
-S'5ht1a'
+S"(13, u'\\\\bagonist')"
 p24
-aS'5ht2c'
-p25
-aS'5ht2a'
-p26
-atp27
-Rp28
+atp25
+Rp26
 sS'regions'
-p29
+p27
 g3
-((lp30
-tp31
+((lp28
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p29
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p30
+atp31
 Rp32
 sS'year'
 p33
-V2003
+V2017
 p34
-sS'agonists'
+sS'species'
 p35
 g3
 ((lp36
-S"(20, u'\\\\bbuspirone')"
-p37
-aS"(189, u'\\\\bethanol')"
-p38
-atp39
-Rp40
-sS'species'
-p41
-g3
-((lp42
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+tp37
+Rp38
 sb.

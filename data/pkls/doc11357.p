@@ -2,80 +2,102 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+aS"(7, u'\\\\bdepressi')"
 p12
-g3
-((lp13
-S"(37, u'\\\\baddict')"
+aS"(9, u'\\\\bstress')"
+p13
+aS"(8, u'\\\\banxi')"
 p14
-aS"(15, u'\\\\bschizophreni')"
+aS"(1, u'\\\\bpatient')"
 p15
-aS"(3, u'\\\\bsleep')"
+aS"(4, u'\\\\btreatment')"
 p16
-aS"(36, u'\\\\bcompulsiv')"
-p17
-aS"(35, u'\\\\bstress')"
-p18
-aS"(10, u'\\\\banxiety')"
-p19
-atp20
-Rp21
+atp17
+Rp18
 sS'receptors'
-p22
+p19
 g3
-((lp23
-S'5ht1b'
-p24
-aS'5ht1a'
+((lp20
+(S'5ht1a'
+p21
+I871
+I877
+tp22
+a(S'5ht1a'
+p23
+I1500
+I1506
+tp24
+a(S'5ht1a'
 p25
-aS'5ht2a'
-p26
-atp27
-Rp28
-sS'regions'
+I744
+I750
+tp26
+a(S'5ht1a'
+p27
+I1087
+I1093
+tp28
+a(S'5ht1a'
 p29
-g3
-((lp30
-tp31
-Rp32
-sS'year'
-p33
-V2012
-p34
-sS'agonists'
+I1389
+I1395
+tp30
+a(S'5ht1a'
+p31
+I119
+I125
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
 p35
 g3
 ((lp36
-tp37
-Rp38
-sS'species'
-p39
-g3
-((lp40
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+S"(13, u'\\\\bagonist')"
+p37
+aS"(15, u'\\\\b8ohdpat')"
+p38
+atp39
+Rp40
+sS'regions'
 p41
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p42
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p43
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p44
-atp45
-Rp46
+g3
+((lp42
+tp43
+Rp44
+sS'year'
+p45
+V2002
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p49
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p50
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p51
+atp52
+Rp53
 sb.

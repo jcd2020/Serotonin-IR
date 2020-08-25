@@ -2,86 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(43, u'\\\\bgr ?127935')"
+S'Method.AGONIST'
 p5
-aS"(133, u'\\\\bmianserin')"
-p6
-aS"(123, u'\\\\bgranisetron')"
-p7
-aS"(31, u'\\\\bway ?100635')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-aS'Method.AGONIST'
-p14
-atp15
-Rp16
+atp6
+Rp7
 sS'topics'
-p17
+p8
 g3
-((lp18
-tp19
-Rp20
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(9, u'\\\\bstress')"
+p12
+aS"(20, u'\\\\bmood')"
+p13
+atp14
+Rp15
 sS'receptors'
-p21
+p16
 g3
-((lp22
-S'5ht3'
-p23
-aS'5ht2a'
+((lp17
+(S'5ht1a'
+p18
+I1811
+I1817
+tp19
+a(S'5ht1a'
+p20
+I2051
+I2057
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-aS'5ht2b'
-p25
-aS'5ht2c'
+g3
+((lp25
+S"(13, u'\\\\bagonist')"
 p26
-aS'5ht1d'
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+((lp30
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p31
+aS"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p32
-atp33
-Rp34
-sS'year'
+aS"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p33
+aS"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
+p34
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p35
-V1995
+aS"(14, u'(?i)\\\\b(caudals|caudal)\\\\b')"
 p36
-sS'agonists'
-p37
-g3
-((lp38
-S"(96, u'\\\\bsumatriptan')"
+atp37
+Rp38
+sS'year'
 p39
-atp40
-Rp41
+V2014
+p40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+((lp42
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p43
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p44
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p45
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p46
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p47
-atp48
-Rp49
+atp45
+Rp46
 sb.

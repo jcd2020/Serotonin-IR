@@ -2,102 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(9, u'\\\\bgr ?46611')"
-p5
-aS"(52, u'\\\\bmdl ?100907')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(203, u'\\\\btfmpp')"
-p8
-aS"(193, u'\\\\bmesulergine')"
-p9
-aS"(43, u'\\\\bgr ?127935')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
 S'Method.ANTAGONIST'
-p15
+p5
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p6
+atp7
+Rp8
 sS'topics'
-p19
+p9
 g3
-((lp20
-S"(8, u'\\\\blearning')"
-p21
-aS"(6, u'\\\\bcognit')"
+((lp10
+S"(8, u'\\\\banxi')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(25, u'\\\\bsocial')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2c'
+p18
+I947
+I953
+tp19
+a(S'5ht1a'
+p20
+I1743
+I1749
+tp21
+a(S'5ht2c'
 p22
-aS"(7, u'\\\\bmemory')"
-p23
+I2058
+I2064
+tp23
 atp24
 Rp25
-sS'receptors'
+sS'raw_text_methods'
 p26
 g3
 ((lp27
-S'5ht1b'
+S"(13, u'\\\\bagonist')"
 p28
-aS'5ht1a'
+aS"(36, u'\\\\bbenzodiazepine')"
 p29
-aS'5ht2b'
+aS"(22, u'\\\\bbuspirone')"
 p30
-aS'5ht2c'
+aS"(12, u'\\\\bantagonist')"
 p31
-aS'5ht2a'
-p32
-aS'5ht1d'
-p33
-aS'5ht2'
-p34
-atp35
-Rp36
+atp32
+Rp33
 sS'regions'
-p37
+p34
 g3
-((lp38
-tp39
-Rp40
+((lp35
+tp36
+Rp37
 sS'year'
-p41
-V1997
-p42
-sS'agonists'
-p43
-g3
-((lp44
-S"(149, u'\\\\bmem')"
-p45
-aS"(165, u'\\\\bmesulergine')"
-p46
-aS"(178, u'\\\\btfmpp')"
-p47
-aS"(112, u'\\\\bgr ?46611')"
-p48
-aS"(175, u'\\\\bdoi')"
-p49
-aS"(155, u'\\\\bmcpp')"
-p50
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p51
-atp52
-Rp53
+p38
+V2005
+p39
 sS'species'
-p54
+p40
 g3
-((lp55
-tp56
-Rp57
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

@@ -2,78 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-tp15
-Rp16
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht5'
-p19
-aS'5ht1a'
+((lp15
+(S'5ht2a'
+p16
+I560
+I566
+tp17
+a(S'5ht2a'
+p18
+I349
+I355
+tp19
+a(S'5ht2a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
+I69
+I75
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp24
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p25
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp25
+S"(13, u'\\\\bagonist')"
 p26
-aS"(267, u'(?i)\\\\b(precuneuses|precuneus)\\\\b')"
-p27
-aS"(259, u'(?i)\\\\b(middles|middle)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p28
-aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+atp27
+Rp28
+sS'regions'
 p29
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
-atp32
-Rp33
+g3
+((lp30
+tp31
+Rp32
 sS'year'
+p33
+V2007
 p34
-V2015
-p35
-sS'agonists'
-p36
-g3
-((lp37
-tp38
-Rp39
 sS'species'
-p40
+p35
 g3
-((lp41
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p42
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p43
-atp44
-Rp45
+((lp36
+tp37
+Rp38
 sb.

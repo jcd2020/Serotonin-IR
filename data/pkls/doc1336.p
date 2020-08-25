@@ -2,74 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(84, u'\\\\bsb ?206553')"
-p5
-aS"(119, u'\\\\britanserin')"
-p6
-aS"(52, u'\\\\bmdl ?100907')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
+p5
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p6
+atp7
+Rp8
 sS'topics'
-p16
+p9
 g3
-((lp17
-S"(16, u'\\\\bfeed')"
-p18
-atp19
-Rp20
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
+p17
+I1537
+I1543
+tp18
+a(S'5ht2c'
+p19
+I1353
+I1361
+tp20
+a(S'5ht2a'
 p21
+I1353
+I1359
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp22
-S'5ht2'
-p23
-aS'5ht2a'
-p24
-atp25
-Rp26
-sS'regions'
+((lp26
+S"(13, u'\\\\bagonist')"
 p27
-g3
-((lp28
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(53, u'\\\\bketanserin')"
+p28
+aS"(12, u'\\\\bantagonist')"
 p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
-p33
-V2005
+atp30
+Rp31
+sS'regions'
+p32
+g3
+((lp33
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(175, u'\\\\bdoi')"
+atp35
+Rp36
+sS'year'
 p37
-atp38
-Rp39
+V2013
+p38
 sS'species'
-p40
+p39
 g3
-((lp41
-tp42
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
 Rp43
 sb.

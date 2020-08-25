@@ -1,0 +1,90 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
+p12
+g3
+((lp13
+(S'5ht1a'
+p14
+I73
+I79
+tp15
+a(S'5ht1a'
+p16
+I978
+I984
+tp17
+a(S'5ht1a'
+p18
+I1361
+I1367
+tp19
+a(S'5ht1a'
+p20
+I391
+I396
+tp21
+a(S'5ht1a'
+p22
+I720
+I726
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+S"(1, u'\\\\bneuroimag')"
+p28
+aS"(17, u'\\\\bpet')"
+p29
+aS"(19, u'\\\\bpositron emission tomography')"
+p30
+atp31
+Rp32
+sS'regions'
+p33
+g3
+((lp34
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p35
+aS"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p36
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p37
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
+p41
+V2008
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p45
+atp46
+Rp47
+sb.

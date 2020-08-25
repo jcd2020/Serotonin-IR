@@ -1,0 +1,4 @@
+Wang, W. H. and T. A. Lovick (1992). "Inhibitory serotonergic effects on rostral ventrolateral medullary neurons." Pflugers Arch 422(2): 93-97.
+
+	In rats anaesthetised with urethane, iontophoretic application of 5-hydroxytryptamine (5-HT) and the 5-HT1A agonists buspirone, flesinoxan and 8-hydroxy-2-(di-n-propylamino)-tetralin inhibited ongoing or amino-acid-evoked activity of neurons in the rostral ventrolateral medulla (RVLM) including barosensitive cells with spinally projecting axons. More than 90% of cells tested were inhibited by these agonists. In 5/9 cells the inhibition was reduced after intravenous spiperone (0.6 mg/kg). These results suggest that the sympatho-inhibitory effects produced by microinjection of 5-HT1A agonists into the RVLM are due to a direct inhibitory action on neurons that send excitatory projections to the spinal sympathetic outflow.
+

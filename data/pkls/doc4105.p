@@ -2,70 +2,66 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
-p5
-aS"(52, u'\\\\bmdl ?100907')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+tp5
+Rp6
 sS'topics'
-p15
+p7
 g3
-((lp16
-tp17
-Rp18
+((lp8
+S"(13, u'\\\\bantidepress')"
+p9
+atp10
+Rp11
 sS'receptors'
-p19
+p12
 g3
-((lp20
-S'5ht2a'
-p21
-atp22
-Rp23
+((lp13
+(S'5ht5'
+p14
+I173
+I183
+tp15
+a(S'5ht1a'
+p16
+I1140
+I1146
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(15, u'\\\\b8ohdpat')"
+p22
+atp23
+Rp24
 sS'regions'
-p24
+p25
 g3
-((lp25
-tp26
-Rp27
-sS'year'
+((lp26
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p27
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p28
-V2019
-p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(125, u'\\\\btcb ?2')"
+atp29
+Rp30
+sS'year'
+p31
+V1999
 p32
-aS"(43, u'\\\\bhaloperidol')"
-p33
-atp34
-Rp35
 sS'species'
-p36
+p33
 g3
-((lp37
-S"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p38
-aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
-p39
-atp40
-Rp41
+((lp34
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,58 +10,73 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.ANTAGONIST'
+S"(24, u'\\\\banxiolytic')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(35, u'\\\\bstress')"
-p14
-atp15
-Rp16
+aS"(8, u'\\\\banxi')"
+p10
+aS"(33, u'\\\\blocomot')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht3'
-p19
-atp20
-Rp21
-sS'regions'
-p22
+((lp15
+(S'5ht1a'
+p16
+I1614
+I1620
+tp17
+a(S'5ht2'
+p18
+I1625
+I1630
+tp19
+a(S'5ht1a'
+p20
+I1562
+I1568
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp23
-tp24
-Rp25
-sS'year'
+((lp25
+S"(16, u'\\\\bdiazepam')"
 p26
-V1993
+aS"(51, u'\\\\bway100635')"
 p27
-sS'agonists'
+aS"(49, u'\\\\bdoi')"
 p28
+aS"(22, u'\\\\bbuspirone')"
+p29
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp29
-S"(149, u'\\\\bmem')"
-p30
-atp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p35
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp33
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p34
+atp35
+Rp36
+sS'year'
 p37
-atp38
-Rp39
+V2004
+p38
+sS'species'
+p39
+g3
+((lp40
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p41
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p42
+atp43
+Rp44
 sb.

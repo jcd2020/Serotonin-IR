@@ -2,74 +2,92 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-tp16
-Rp17
+((lp8
+S"(7, u'\\\\bdepressi')"
+p9
+aS"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht3a'
-p20
-aS'5ht3'
+((lp14
+(S'5ht2a'
+p15
+I1325
+I1331
+tp16
+a(S'5ht2a'
+p17
+I565
+I571
+tp18
+a(S'5ht2a'
+p19
+I1383
+I1389
+tp20
+a(S'5ht2a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I325
+I331
+tp22
+a(S'5ht2a'
+p23
+I77
+I83
+tp24
+a(S'5ht2a'
+p25
+I704
+I710
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
 g3
-((lp25
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p26
-aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V2017
+((lp30
+S"(54, u'\\\\bautoradiography')"
 p31
-sS'agonists'
-p32
+atp32
+Rp33
+sS'regions'
+p34
 g3
-((lp33
-tp34
-Rp35
-sS'species'
+((lp35
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p36
-g3
-((lp37
-S"(3348, u'(?i)\\\\b(babies|baby)\\\\b')"
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p37
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p38
-aS"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
-p41
-atp42
-Rp43
+atp40
+Rp41
+sS'year'
+p42
+V2002
+p43
+sS'species'
+p44
+g3
+((lp45
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

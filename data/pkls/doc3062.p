@@ -1,0 +1,90 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1'
+p16
+I2949
+I2954
+tp17
+a(S'5ht1a'
+p18
+I1921
+I1927
+tp19
+a(S'5ht1'
+p20
+I143
+I148
+tp21
+a(S'5ht1'
+p22
+I2126
+I2131
+tp23
+a(S'5ht1'
+p24
+I780
+I785
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
+g3
+((lp29
+S"(13, u'\\\\bagonist')"
+p30
+aS"(15, u'\\\\b8ohdpat')"
+p31
+aS"(11, u'\\\\bfluoxetine')"
+p32
+atp33
+Rp34
+sS'regions'
+p35
+g3
+((lp36
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p37
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
+p41
+V1999
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
+sb.

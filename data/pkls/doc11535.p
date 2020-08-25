@@ -1,0 +1,93 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(20, u'\\\\bmood')"
+p9
+aS"(1, u'\\\\bpatient')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(5, u'\\\\btherap')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
+p18
+I81
+I87
+tp19
+a(S'5ht1a'
+p20
+I531
+I537
+tp21
+a(S'5ht1a'
+p22
+I1581
+I1587
+tp23
+a(S'5ht1a'
+p24
+I731
+I737
+tp25
+a(S'5ht1a'
+p26
+I1154
+I1160
+tp27
+a(S'5ht1a'
+p28
+I1069
+I1075
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
+p32
+g3
+((lp33
+S"(15, u'\\\\b8ohdpat')"
+p34
+atp35
+Rp36
+sS'regions'
+p37
+g3
+((lp38
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p39
+atp40
+Rp41
+sS'year'
+p42
+V2002
+p43
+sS'species'
+p44
+g3
+((lp45
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
+sb.

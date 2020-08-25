@@ -2,68 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(133, u'\\\\bmianserin')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(1, u'\\\\bpatient')"
 p10
-aS'Method.AGONIST'
+aS"(9, u'\\\\bstress')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+aS"(28, u'\\\\bgastrointestin')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2'
 p18
-g3
-((lp19
-S'5ht2'
+I1457
+I1462
+tp19
+a(S'5ht2'
 p20
-aS'5ht2a'
-p21
-atp22
-Rp23
-sS'regions'
-p24
+I1090
+I1095
+tp21
+a(S'5ht2'
+p22
+I471
+I476
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp25
-tp26
-Rp27
-sS'year'
+((lp27
+S"(3, u'\\\\bimmunoreactiv')"
 p28
-V2000
+aS"(12, u'\\\\bantagonist')"
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(221, u'\\\\b5 ?mt')"
+atp30
+Rp31
+sS'regions'
 p32
-aS"(175, u'\\\\bdoi')"
-p33
-atp34
-Rp35
-sS'species'
-p36
 g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp33
+tp34
+Rp35
+sS'year'
+p36
+V2013
+p37
+sS'species'
 p38
-atp39
-Rp40
+g3
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

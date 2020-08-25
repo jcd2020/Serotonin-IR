@@ -2,82 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(140, u'\\\\bmemantine')"
-p5
-aS"(110, u'\\\\bclozapine')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(113, u'\\\\brisperidone')"
-p8
-aS"(58, u'\\\\bhaloperidol')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(13, u'\\\\bantidepress')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(20, u'\\\\bmood')"
+p14
+aS"(5, u'\\\\btherap')"
+p15
+aS"(12, u'\\\\bsleep')"
+p16
+aS"(4, u'\\\\btreatment')"
 p17
-g3
-((lp18
-S"(30, u'\\\\bparkinsons')"
-p19
-aS"(34, u'\\\\bdementia')"
-p20
-atp21
-Rp22
+aS"(3, u'\\\\bclinical')"
+p18
+atp19
+Rp20
 sS'receptors'
+p21
+g3
+((lp22
+(S'5ht2c'
 p23
-g3
-((lp24
-S'5ht2c'
+I1099
+I1105
+tp24
+a(S'5ht2c'
 p25
-aS'5ht2a'
-p26
-atp27
-Rp28
-sS'regions'
-p29
+I1577
+I1583
+tp26
+a(S'5ht2c'
+p27
+I826
+I832
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
 g3
-((lp30
-tp31
-Rp32
-sS'year'
+((lp32
+S"(13, u'\\\\bagonist')"
 p33
-V2011
+aS"(43, u'\\\\bagomelatine')"
 p34
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p35
-g3
-((lp36
-S"(210, u'\\\\bsulpiride')"
-p37
-aS"(23, u'\\\\bclozapine')"
+atp36
+Rp37
+sS'regions'
 p38
-aS"(149, u'\\\\bmem')"
-p39
-aS"(43, u'\\\\bhaloperidol')"
+g3
+((lp39
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p40
 atp41
 Rp42
-sS'species'
+sS'year'
 p43
-g3
-((lp44
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+V2007
+p44
+sS'species'
 p45
-atp46
-Rp47
+g3
+((lp46
+tp47
+Rp48
 sb.

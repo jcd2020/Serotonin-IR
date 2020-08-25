@@ -1,0 +1,90 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.STAINING'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
+p12
+g3
+((lp13
+(S'5ht3'
+p14
+I429
+I433
+tp15
+a(S'5ht3'
+p16
+I89
+I93
+tp17
+a(S'5ht3'
+p18
+I240
+I244
+tp19
+a(S'5ht3'
+p20
+I1177
+I1181
+tp21
+a(S'5ht3'
+p22
+I418
+I422
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+S"(3, u'\\\\bimmunoreactiv')"
+p28
+atp29
+Rp30
+sS'regions'
+p31
+g3
+((lp32
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p33
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p34
+aS"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
+p35
+aS"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p36
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p37
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
+p41
+V1998
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
+sb.

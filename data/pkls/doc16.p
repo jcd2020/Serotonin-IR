@@ -2,74 +2,102 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
 p13
 g3
 ((lp14
-S"(35, u'\\\\bstress')"
+(S'5ht2c'
 p15
-atp16
-Rp17
-sS'receptors'
-p18
-g3
-((lp19
-S'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
+I73
+I79
+tp16
+a(S'5ht3'
+p17
+I923
+I928
+tp18
+a(S'5ht2c'
+p19
+I1234
+I1240
+tp20
+a(S'5ht2'
+p21
+I776
+I781
+tp22
+a(S'5ht7'
 p23
-g3
-((lp24
-S"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
+I866
+I872
+tp24
+a(S'5ht4'
 p25
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p26
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I979
+I984
+tp26
+a(S'5ht1'
 p27
-aS"(43, u'(?i)\\\\b(vestibulars|vestibular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-aS"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
+I866
+I871
+tp28
+a(S'5ht2c'
 p29
-aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
-p30
+I1070
+I1076
+tp30
 atp31
 Rp32
-sS'year'
+sS'raw_text_methods'
 p33
-V2010
-p34
-sS'agonists'
+g3
+((lp34
+S"(13, u'\\\\bagonist')"
 p35
-g3
-((lp36
-tp37
-Rp38
-sS'species'
-p39
-g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(20, u'\\\\bondansetron')"
+p36
+aS"(52, u'\\\\bmk212')"
+p37
+aS"(12, u'\\\\bantagonist')"
+p38
+atp39
+Rp40
+sS'regions'
 p41
-atp42
-Rp43
+g3
+((lp42
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p43
+atp44
+Rp45
+sS'year'
+p46
+V2009
+p47
+sS'species'
+p48
+g3
+((lp49
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

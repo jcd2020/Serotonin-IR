@@ -2,74 +2,91 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(35, u'\\\\baripiprazole')"
+S'Method.ANTAGONIST'
 p5
-aS"(113, u'\\\\brisperidone')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(15, u'\\\\bschizophreni')"
-p16
-aS"(7, u'\\\\bmemory')"
-p17
-atp18
-Rp19
+tp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(257, u'(?i)\\\\b(dorsolaterals|dorsolateral)(-|\\\\s+)?(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp14
+(S'5ht1a'
+p15
+I594
+I600
+tp16
+a(S'5ht1a'
+p17
+I439
+I445
+tp18
+a(S'5ht1a'
+p19
+I59
+I65
+tp20
+a(S'5ht1a'
+p21
+I1622
+I1628
+tp22
+a(S'5ht1a'
+p23
+I300
+I306
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p28
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+g3
+((lp28
+S"(21, u'\\\\bipsapirone')"
 p29
-atp30
-Rp31
-sS'year'
+aS"(22, u'\\\\bbuspirone')"
+p30
+aS"(15, u'\\\\b8ohdpat')"
+p31
+aS"(13, u'\\\\bagonist')"
 p32
-V2016
+aS"(24, u'\\\\bgepirone')"
 p33
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p34
-g3
-((lp35
-S"(223, u'\\\\baripiprazole')"
-p36
-aS"(149, u'\\\\bmem')"
+atp35
+Rp36
+sS'regions'
 p37
-atp38
-Rp39
-sS'species'
-p40
 g3
-((lp41
-tp42
-Rp43
+((lp38
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p39
+atp40
+Rp41
+sS'year'
+p42
+V1994
+p43
+sS'species'
+p44
+g3
+((lp45
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

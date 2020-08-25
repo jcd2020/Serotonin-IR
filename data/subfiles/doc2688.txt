@@ -1,0 +1,4 @@
+Dilly, S., et al. (2011). "The 5-HT(1A) agonism potential of substituted piperazine-ethyl-amide derivatives is conserved in the hexyl homologues: molecular modeling and pharmacological evaluation." J Chem Inf Model 51(11): 2961-2966.
+
+	In a series of carboxamide and sulphonamide alkyl (ethyl to hexyl) piperazine analogues, although the size of the linker is very different, ethyl and hexyl derivatives possess a high affinity for 5-HT(1A) receptors. Docking studies clearly show that hexyl and ethyl compounds favorably interact with the binding site of the active conformation of 5-HT(1A) receptors, thus confirming a possible agonist profile. This activity is effectively detected in electrophysiological experiments in which all four compounds inhibit the activity of rat dorsal raphe serotonergic neurons.
+

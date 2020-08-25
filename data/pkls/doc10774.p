@@ -2,68 +2,98 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(4, u'\\\\btreatment')"
 p11
-g3
-((lp12
-S"(37, u'\\\\baddict')"
-p13
-aS"(18, u'\\\\bpsychostim')"
-p14
-atp15
-Rp16
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht3a'
-p19
-aS'5ht3'
+((lp15
+(S'5ht3'
+p16
+I1361
+I1366
+tp17
+a(S'5ht1a'
+p18
+I1859
+I1865
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
-p28
-V2004
-p29
-sS'agonists'
+I501
+I507
+tp21
+a(S'5ht1a'
+p22
+I1208
+I1214
+tp23
+a(S'5ht1a'
+p24
+I877
+I883
+tp25
+a(S'5ht1a'
+p26
+I390
+I396
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
 g3
 ((lp31
-S"(11, u'\\\\bamphetamine')"
+S"(23, u'\\\\bmdl')"
 p32
-atp33
-Rp34
-sS'species'
+aS"(26, u'\\\\bmdl72222')"
+p33
+aS"(15, u'\\\\b8ohdpat')"
+p34
+aS"(22, u'\\\\bbuspirone')"
 p35
-g3
-((lp36
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+aS"(13, u'\\\\bagonist')"
+p36
+aS"(12, u'\\\\bantagonist')"
 p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+atp38
+Rp39
+sS'regions'
+p40
+g3
+((lp41
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p42
+atp43
+Rp44
+sS'year'
+p45
+V1995
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

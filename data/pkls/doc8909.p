@@ -2,68 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
 p13
 g3
 ((lp14
-S"(15, u'\\\\bschizophreni')"
+(S'5ht1a'
 p15
-aS"(14, u'\\\\bpsychosis')"
-p16
-atp17
-Rp18
-sS'receptors'
-p19
-g3
-((lp20
-S'5ht2a'
+I346
+I352
+tp16
+a(S'5ht1a'
+p17
+I90
+I96
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-atp22
-Rp23
-sS'regions'
+g3
+((lp22
+S"(17, u'\\\\bpet')"
+p23
+aS"(19, u'\\\\bpositron emission tomography')"
 p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
-p28
-V2016
+aS"(54, u'\\\\bautoradiography')"
+p25
+aS"(12, u'\\\\bantagonist')"
+p26
+atp27
+Rp28
+sS'regions'
 p29
-sS'agonists'
-p30
 g3
-((lp31
-tp32
-Rp33
-sS'species'
+((lp30
+tp31
+Rp32
+sS'year'
+p33
+V2000
 p34
+sS'species'
+p35
 g3
-((lp35
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
-p36
-aS"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sb.

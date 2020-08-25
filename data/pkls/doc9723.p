@@ -2,76 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(140, u'\\\\bmemantine')"
+S'Method.PET'
 p5
-aS"(117, u'\\\\bketanserin')"
-p6
-aS"(58, u'\\\\bhaloperidol')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp11
-S'Method.ANTAGONIST'
+((lp9
+S"(6, u'\\\\baggressi')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
 atp13
 Rp14
-sS'topics'
+sS'receptors'
 p15
 g3
 ((lp16
-S"(33, u'\\\\balzheimers')"
+(S'5ht2a'
 p17
-aS"(4, u'\\\\blocomot')"
-p18
-atp19
-Rp20
-sS'receptors'
+I1531
+I1537
+tp18
+a(S'5ht2a'
+p19
+I1241
+I1247
+tp20
+a(S'5ht2a'
 p21
+I997
+I1003
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp22
-S'5ht2a'
-p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
-tp28
+((lp26
+S"(19, u'\\\\bpositron emission tomography')"
+p27
+atp28
 Rp29
-sS'year'
+sS'regions'
 p30
-V2009
-p31
-sS'agonists'
+g3
+((lp31
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p32
-g3
-((lp33
-S"(149, u'\\\\bmem')"
-p34
-aS"(43, u'\\\\bhaloperidol')"
+atp33
+Rp34
+sS'year'
 p35
-atp36
-Rp37
+V2012
+p36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
-p40
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p41
-aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
-p42
-atp43
-Rp44
+((lp38
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p39
+atp40
+Rp41
 sb.

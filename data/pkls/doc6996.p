@@ -2,70 +2,125 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(13, u'\\\\bantidepress')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(11, u'\\\\bobsessive compulsive disorder')"
 p13
-g3
-((lp14
-tp15
-Rp16
-sS'receptors'
+aS"(7, u'\\\\bdepressi')"
+p14
+aS"(5, u'\\\\btherap')"
+p15
+aS"(12, u'\\\\bsleep')"
+p16
+aS"(18, u'\\\\bavoidan')"
 p17
-g3
-((lp18
-S'5ht7'
+aS"(8, u'\\\\banxi')"
+p18
+aS"(2, u'\\\\bdisorder')"
 p19
-aS'5ht7a'
-p20
-aS'5ht1a'
-p21
-aS'5ht7e'
+atp20
+Rp21
+sS'receptors'
 p22
-atp23
-Rp24
-sS'regions'
-p25
 g3
-((lp26
+((lp23
+(S'5ht2c'
+p24
+I2457
+I2463
+tp25
+a(S'5ht2c'
+p26
+I655
+I661
 tp27
-Rp28
-sS'year'
-p29
-V2012
+a(S'5ht2c'
+p28
+I2269
+I2275
+tp29
+a(S'5ht2b'
 p30
-sS'agonists'
-p31
-g3
-((lp32
+I1022
+I1030
+tp31
+a(S'5ht2c'
+p32
+I413
+I418
 tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p37
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+a(S'5ht2c'
+p34
+I31
+I37
+tp35
+a(S'5ht2c'
+p36
+I1022
+I1028
+tp37
+a(S'5ht2c'
 p38
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p39
-atp40
-Rp41
+I1507
+I1513
+tp39
+a(S'5ht2a'
+p40
+I687
+I693
+tp41
+atp42
+Rp43
+sS'raw_text_methods'
+p44
+g3
+((lp45
+S"(13, u'\\\\bagonist')"
+p46
+aS"(11, u'\\\\bfluoxetine')"
+p47
+aS"(12, u'\\\\bantagonist')"
+p48
+atp49
+Rp50
+sS'regions'
+p51
+g3
+((lp52
+tp53
+Rp54
+sS'year'
+p55
+V1998
+p56
+sS'species'
+p57
+g3
+((lp58
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p59
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p60
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p61
+atp62
+Rp63
 sb.

@@ -1,0 +1,83 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(16, u'\\\\blearning')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(15, u'\\\\bmemory')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht6'
+p18
+I517
+I522
+tp19
+a(S'5ht6'
+p20
+I44
+I49
+tp21
+a(S'5ht6'
+p22
+I1576
+I1581
+tp23
+a(S'5ht6'
+p24
+I315
+I320
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
+g3
+((lp29
+S"(12, u'\\\\bantagonist')"
+p30
+atp31
+Rp32
+sS'regions'
+p33
+g3
+((lp34
+S"(7, u'(?i)\\\\b(entorhinals|entorhinal)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
+p38
+V2008
+p39
+sS'species'
+p40
+g3
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
+sb.

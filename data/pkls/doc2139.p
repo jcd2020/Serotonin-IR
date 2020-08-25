@@ -1,0 +1,117 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(25, u'\\\\bsocial')"
+p9
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(9, u'\\\\bstress')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
+p18
+I1344
+I1350
+tp19
+a(S'5ht1a'
+p20
+I481
+I487
+tp21
+a(S'5ht1a'
+p22
+I238
+I244
+tp23
+a(S'5ht1a'
+p24
+I1801
+I1807
+tp25
+a(S'5ht1a'
+p26
+I1669
+I1675
+tp27
+a(S'5ht1a'
+p28
+I832
+I838
+tp29
+a(S'5ht1a'
+p30
+I43
+I49
+tp31
+a(S'5ht1a'
+p32
+I1190
+I1196
+tp33
+a(S'5ht1a'
+p34
+I878
+I884
+tp35
+a(S'5ht1a'
+p36
+I214
+I225
+tp37
+atp38
+Rp39
+sS'raw_text_methods'
+p40
+g3
+((lp41
+S"(11, u'\\\\bfluoxetine')"
+p42
+aS"(38, u'\\\\bssri')"
+p43
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p44
+atp45
+Rp46
+sS'regions'
+p47
+g3
+((lp48
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p49
+atp50
+Rp51
+sS'year'
+p52
+V2007
+p53
+sS'species'
+p54
+g3
+((lp55
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p56
+atp57
+Rp58
+sb.

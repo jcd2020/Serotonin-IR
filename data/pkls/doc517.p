@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,70 +10,75 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.ANTAGONIST'
+S"(7, u'\\\\bdepressi')"
 p9
-aS'Method.AGONIST'
+aS"(2, u'\\\\bdisorder')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(29, u'\\\\bsex')"
+(S'5ht1a'
 p15
-aS"(35, u'\\\\bstress')"
-p16
-aS"(20, u'\\\\baggressi')"
+I787
+I793
+tp16
+a(S'5ht1a'
 p17
-atp18
-Rp19
-sS'receptors'
-p20
-g3
-((lp21
-S'5ht1a'
-p22
-aS'5ht2a'
+I428
+I434
+tp18
+a(S'5ht1a'
+p19
+I1539
+I1545
+tp20
+a(S'5ht1a'
+p21
+I31
+I37
+tp22
+a(S'5ht1a'
 p23
-atp24
-Rp25
+I168
+I174
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
+g3
+((lp28
+tp29
+Rp30
 sS'regions'
-p26
-g3
-((lp27
-tp28
-Rp29
-sS'year'
-p30
-V2013
 p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(40, u'\\\\bflibanserin')"
+((lp32
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p33
+aS"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
 p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p35
 atp36
 Rp37
-sS'species'
+sS'year'
 p38
-g3
-((lp39
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+V2003
+p39
+sS'species'
 p40
-aS"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
-p41
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
+g3
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sb.

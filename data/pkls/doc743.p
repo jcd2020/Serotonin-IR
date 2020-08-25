@@ -2,75 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\bzacopride')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(31, u'\\\\brespiratory')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-tp15
-Rp16
-sS'receptors'
+(S'5ht2'
+p15
+I939
+I944
+tp16
+a(S'5ht3'
 p17
-g3
-((lp18
-S'5ht3'
+I1099
+I1104
+tp18
+a(S'5ht4'
 p19
-atp20
-Rp21
-sS'regions'
-p22
+I1272
+I1277
+tp20
+a(S'5ht1'
+p21
+I740
+I745
+tp22
+a(S'5ht2'
+p23
+I746
+I751
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp23
-S"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p24
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
-p28
-V1990
+((lp28
+S"(53, u'\\\\bketanserin')"
 p29
-sS'agonists'
+aS"(23, u'\\\\bmdl')"
 p30
+aS"(12, u'\\\\bantagonist')"
+p31
+atp32
+Rp33
+sS'regions'
+p34
 g3
-((lp31
-S"(208, u'\\\\bzacopride')"
-p32
-aS"(11, u'\\\\bamphetamine')"
-p33
-atp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+((lp35
+tp36
+Rp37
+sS'year'
 p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+V1996
 p39
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+sS'species'
 p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-aS"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
+g3
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
 atp43
 Rp44

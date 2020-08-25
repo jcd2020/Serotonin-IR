@@ -2,72 +2,111 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-aS'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-aS"(30, u'\\\\bparkinsons')"
-p16
-atp17
-Rp18
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(15, u'\\\\bmemory')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
+p17
+I32
+I43
+tp18
+a(S'5ht2a'
 p19
-g3
-((lp20
-S'5ht1a'
+I571
+I576
+tp20
+a(S'5ht2'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+I212
+I223
+tp22
+a(S'5ht2a'
+p23
+I229
+I234
+tp24
+a(S'5ht2a'
+p25
+I719
+I724
+tp26
+a(S'5ht2a'
 p27
-aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p28
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I212
+I223
+tp28
+a(S'5ht2a'
 p29
-aS"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
+I515
+I520
+tp30
+a(S'5ht2a'
+p31
+I969
+I974
+tp32
+a(S'5ht2'
 p33
-V2012
-p34
-sS'agonists'
-p35
+I229
+I234
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
+p37
 g3
-((lp36
-tp37
-Rp38
-sS'species'
+((lp38
+S"(13, u'\\\\bagonist')"
 p39
+aS"(27, u'\\\\blsd')"
+p40
+aS"(53, u'\\\\bketanserin')"
+p41
+aS"(29, u'\\\\bdiethylamide')"
+p42
+aS"(12, u'\\\\bantagonist')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
 g3
-((lp40
-tp41
-Rp42
+((lp47
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
+p51
+V2018
+p52
+sS'species'
+p53
+g3
+((lp54
+tp55
+Rp56
 sb.

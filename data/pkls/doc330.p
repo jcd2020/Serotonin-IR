@@ -2,72 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p11
+p9
 g3
-((lp12
-tp13
-Rp14
+((lp10
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
 p15
-g3
-((lp16
-S'5ht1a'
+I781
+I787
+tp16
+a(S'5ht1a'
 p17
-atp18
-Rp19
-sS'regions'
-p20
-g3
-((lp21
-S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p22
-aS"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
+I151
+I157
+tp18
+a(S'5ht1a'
+p19
+I640
+I646
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-atp24
-Rp25
-sS'year'
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(12, u'\\\\bantagonist')"
 p26
-V2004
-p27
-sS'agonists'
-p28
+atp27
+Rp28
+sS'regions'
+p29
 g3
-((lp29
-tp30
-Rp31
-sS'species'
-p32
-g3
-((lp33
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+((lp30
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p31
+atp32
+Rp33
+sS'year'
 p34
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+V2005
 p35
-aS"(5864, u'(?i)\\\\b(fetuses|fetus)\\\\b')"
+sS'species'
 p36
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p37
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+g3
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p39
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sb.

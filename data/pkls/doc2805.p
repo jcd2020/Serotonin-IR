@@ -1,0 +1,93 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(13, u'\\\\bantidepress')"
+p9
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(9, u'\\\\bstress')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1'
+p18
+I877
+I883
+tp19
+a(S'5ht2a'
+p20
+I889
+I895
+tp21
+a(S'5ht1a'
+p22
+I1461
+I1467
+tp23
+a(S'5ht5'
+p24
+I750
+I755
+tp25
+a(S'5ht1a'
+p26
+I1165
+I1171
+tp27
+a(S'5ht1a'
+p28
+I877
+I883
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
+p32
+g3
+((lp33
+tp34
+Rp35
+sS'regions'
+p36
+g3
+((lp37
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p38
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p39
+atp40
+Rp41
+sS'year'
+p42
+V2016
+p43
+sS'species'
+p44
+g3
+((lp45
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
+sb.

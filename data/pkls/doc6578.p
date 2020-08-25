@@ -2,80 +2,61 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(119, u'\\\\britanserin')"
-p5
-aS"(113, u'\\\\brisperidone')"
-p6
-aS"(58, u'\\\\bhaloperidol')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+tp5
+Rp6
 sS'topics'
-p15
+p7
 g3
-((lp16
-S"(15, u'\\\\bschizophreni')"
-p17
-aS"(14, u'\\\\bpsychosis')"
-p18
-atp19
-Rp20
+((lp8
+S"(26, u'\\\\bbehav')"
+p9
+aS"(7, u'\\\\bdepressi')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+atp12
+Rp13
 sS'receptors'
-p21
+p14
 g3
-((lp22
-S'5ht2d'
-p23
-aS'5ht2a'
-p24
-atp25
-Rp26
+((lp15
+(S'5ht1a'
+p16
+I1233
+I1239
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+tp22
+Rp23
 sS'regions'
+p24
+g3
+((lp25
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p26
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p27
-g3
-((lp28
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p29
-atp30
-Rp31
+atp28
+Rp29
 sS'year'
-p32
-V1994
-p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(43, u'\\\\bhaloperidol')"
-p36
-atp37
-Rp38
+p30
+V2019
+p31
 sS'species'
-p39
+p32
 g3
-((lp40
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p41
-aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p44
-atp45
-Rp46
+((lp33
+tp34
+Rp35
 sb.

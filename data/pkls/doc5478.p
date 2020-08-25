@@ -2,68 +2,63 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-tp14
-Rp15
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(32, u'\\\\bvomit')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht3'
 p16
+I299
+I304
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
+((lp21
+S"(20, u'\\\\bondansetron')"
+p22
+aS"(32, u'\\\\blesions')"
+p23
+aS"(12, u'\\\\bantagonist')"
+p24
+atp25
+Rp26
 sS'regions'
-p21
-g3
-((lp22
-tp23
-Rp24
-sS'year'
-p25
-V2002
-p26
-sS'agonists'
 p27
 g3
 ((lp28
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p29
-atp30
-Rp31
-sS'species'
+tp29
+Rp30
+sS'year'
+p31
+V2001
 p32
+sS'species'
+p33
 g3
-((lp33
-S"(3883, u'(?i)\\\\b(teleosts|teleost)\\\\b')"
-p34
-aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
-p35
-aS"(1415, u'(?i)\\\\b(charrs|charr)\\\\b')"
-p36
-aS"(2985, u'(?i)\\\\b(salvelinuses|salvelinus)(-|\\\\s+)?(alpinuses|alpinus)\\\\b')"
-p37
-aS"(3882, u'(?i)\\\\b(teleosts|teleost)(-|\\\\s+)?(fish|fish)\\\\b')"
-p38
-atp39
-Rp40
+((lp34
+tp35
+Rp36
 sb.

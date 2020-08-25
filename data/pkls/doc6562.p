@@ -2,80 +2,103 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(42, u'\\\\bvortioxetine')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(8, u'\\\\banxi')"
+p11
+aS"(15, u'\\\\bmemory')"
+p12
+aS"(16, u'\\\\blearning')"
 p13
-g3
-((lp14
-S"(6, u'\\\\bcognit')"
+aS"(17, u'\\\\balzheimer')"
+p14
+aS"(2, u'\\\\bdisorder')"
 p15
-aS"(35, u'\\\\bstress')"
-p16
-aS"(9, u'\\\\bdepress')"
-p17
-aS"(11, u'\\\\banxiolyt')"
-p18
-aS"(19, u'\\\\bimpulsiv')"
-p19
-atp20
-Rp21
+atp16
+Rp17
 sS'receptors'
+p18
+g3
+((lp19
+(S'5ht4'
+p20
+I1929
+I1934
+tp21
+a(S'5ht4'
 p22
-g3
-((lp23
-S'5ht1a'
+I1591
+I1596
+tp23
+a(S'5ht4'
 p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
+I474
+I479
+tp25
+a(S'5ht4'
+p26
+I201
+I206
+tp27
+a(S'5ht4'
+p28
+I130
+I135
 tp29
-Rp30
-sS'year'
-p31
-V2015
+a(S'5ht4'
+p30
+I1390
+I1395
+tp31
+a(S'5ht4'
 p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(20, u'\\\\bbuspirone')"
-p35
-aS"(94, u'\\\\bvortioxetine')"
+I810
+I815
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
 p36
-aS"(80, u'\\\\bvilazodone')"
-p37
-atp38
-Rp39
-sS'species'
-p40
 g3
-((lp41
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p42
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp37
+S"(17, u'\\\\bpet')"
+p38
+aS"(18, u'\\\\bimaging')"
+p39
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
 p43
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p44
-atp45
-Rp46
+g3
+((lp44
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V2014
+p49
+sS'species'
+p50
+g3
+((lp51
+tp52
+Rp53
 sb.

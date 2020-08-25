@@ -2,88 +2,125 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(6, u'\\\\bcyproheptadine')"
+S'Method.KNOCKDOWN'
 p5
-aS"(53, u'\\\\bcyproheptadine')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(194, u'\\\\bmethysergide')"
-p8
-aS"(26, u'\\\\bspiperone')"
-p9
-aS"(101, u'\\\\btramadol')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
-S'Method.ANTAGONIST'
-p15
-aS'Method.AGONIST'
-p16
-atp17
-Rp18
+atp6
+Rp7
 sS'topics'
-p19
+p8
 g3
-((lp20
-S"(24, u'\\\\banalgesi')"
-p21
-atp22
-Rp23
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(33, u'\\\\blocomot')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(15, u'\\\\bmemory')"
+p14
+atp15
+Rp16
 sS'receptors'
-p24
+p17
 g3
-((lp25
-S'5ht3'
-p26
-aS'5ht1b'
+((lp18
+(S'5ht7'
+p19
+I63
+I68
+tp20
+a(S'5ht7'
+p21
+I1123
+I1128
+tp22
+a(S'5ht7'
+p23
+I1455
+I1460
+tp24
+a(S'5ht7'
+p25
+I1586
+I1591
+tp26
+a(S'5ht7'
 p27
-aS'5ht3a'
-p28
-aS'5ht2'
+I1280
+I1285
+tp28
+a(S'5ht7'
 p29
-atp30
-Rp31
-sS'regions'
-p32
-g3
-((lp33
+I323
+I328
+tp30
+a(S'5ht7'
+p31
+I300
+I310
+tp32
+a(S'5ht7'
+p33
+I1703
+I1708
 tp34
-Rp35
-sS'year'
-p36
-V1992
+a(S'5ht7'
+p35
+I443
+I448
+tp36
+a(S'5ht7'
 p37
-sS'agonists'
-p38
-g3
-((lp39
-S"(49, u'\\\\blysergic acid diethylamide')"
-p40
-aS"(53, u'\\\\bmethysergide')"
-p41
-aS"(192, u'\\\\bquipazine')"
-p42
-aS"(67, u'\\\\bru ?24969')"
+I1918
+I1923
+tp38
+a(S'5ht7'
+p39
+I600
+I605
+tp40
+atp41
+Rp42
+sS'raw_text_methods'
 p43
-atp44
-Rp45
-sS'species'
-p46
 g3
-((lp47
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp44
+S"(14, u'\\\\bknockdown')"
+p45
+atp46
+Rp47
+sS'regions'
 p48
-atp49
-Rp50
+g3
+((lp49
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p50
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p51
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p52
+atp53
+Rp54
+sS'year'
+p55
+V2018
+p56
+sS'species'
+p57
+g3
+((lp58
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p59
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p60
+atp61
+Rp62
 sb.

@@ -2,72 +2,83 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(9, u'\\\\bdepress')"
-p16
-aS"(35, u'\\\\bstress')"
-p17
-atp18
-Rp19
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht3'
+p14
+I46
+I51
+tp15
+a(S'5ht3'
+p16
+I294
+I299
+tp17
+a(S'5ht3'
+p18
+I573
+I578
+tp19
+a(S'5ht3'
 p20
-g3
-((lp21
-S'5ht1a'
+I1662
+I1667
+tp21
+a(S'5ht3'
 p22
-atp23
-Rp24
+I669
+I674
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+S"(12, u'\\\\bantagonist')"
+p28
+atp29
+Rp30
 sS'regions'
-p25
-g3
-((lp26
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V2005
 p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(85, u'\\\\b8 ?oh ?dpat')"
+((lp32
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p33
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p34
-atp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+aS"(7, u'(?i)\\\\b(entorhinals|entorhinal)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
+p38
+V1998
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p40
-atp41
-Rp42
+g3
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

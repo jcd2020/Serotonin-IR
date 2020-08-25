@@ -2,60 +2,91 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
+aS"(33, u'\\\\blocomot')"
+p13
+aS"(13, u'\\\\bantidepress')"
 p14
-atp15
-Rp16
+aS"(9, u'\\\\bstress')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp19
+(S'5ht2a'
+p20
+I1036
+I1042
+tp21
+a(S'5ht2c'
 p22
-g3
-((lp23
-tp24
-Rp25
-sS'year'
-p26
-V1997
-p27
-sS'agonists'
+I1036
+I1044
+tp23
+a(S'5ht1a'
+p24
+I1000
+I1006
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
 g3
 ((lp29
-S"(45, u'\\\\bipsapirone')"
+S"(13, u'\\\\bagonist')"
 p30
-atp31
-Rp32
-sS'species'
+aS"(51, u'\\\\bway100635')"
+p31
+aS"(9, u'\\\\britanserin')"
+p32
+aS"(36, u'\\\\bbenzodiazepine')"
 p33
-g3
-((lp34
-tp35
+aS"(12, u'\\\\bantagonist')"
+p34
+atp35
 Rp36
+sS'regions'
+p37
+g3
+((lp38
+tp39
+Rp40
+sS'year'
+p41
+V2013
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p45
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p46
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p47
+atp48
+Rp49
 sb.

@@ -2,78 +2,117 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
-p5
-aS"(133, u'\\\\bmianserin')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(100, u'\\\\bsdz ser ?082')"
-p8
-aS"(193, u'\\\\bmesulergine')"
-p9
-aS"(26, u'\\\\bspiperone')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
 S'Method.ANTAGONIST'
-p15
+p5
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p6
+atp7
+Rp8
 sS'topics'
-p19
+p9
 g3
-((lp20
-tp21
-Rp22
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p23
+p14
 g3
-((lp24
-S'5ht2c'
-p25
-atp26
-Rp27
-sS'regions'
+((lp15
+(S'5ht5a'
+p16
+I971
+I978
+tp17
+a(S'5ht1b'
+p18
+I1014
+I1020
+tp19
+a(S'5ht1b'
+p20
+I355
+I361
+tp21
+a(S'5ht1a'
+p22
+I1228
+I1234
+tp23
+a(S'5ht2'
+p24
+I1282
+I1287
+tp25
+a(S'5ht1b'
+p26
+I1756
+I1762
+tp27
+a(S'5ht2'
 p28
-g3
-((lp29
-S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
+I971
+I976
+tp29
+a(S'5ht1b'
 p30
-aS"(189, u'(?i)\\\\b(subthalamics|subthalamic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
-atp32
-Rp33
-sS'year'
+I1390
+I1396
+tp31
+a(S'5ht1b'
+p32
+I617
+I623
+tp33
+a(S'5ht1b'
 p34
-V1996
-p35
-sS'agonists'
+I47
+I53
+tp35
+a(S'5ht1d'
 p36
+I1390
+I1398
+tp37
+atp38
+Rp39
+sS'raw_text_methods'
+p40
 g3
-((lp37
-S"(165, u'\\\\bmesulergine')"
-p38
-atp39
-Rp40
-sS'species'
-p41
-g3
-((lp42
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp41
+S"(13, u'\\\\bagonist')"
+p42
+aS"(15, u'\\\\b8ohdpat')"
 p43
-atp44
-Rp45
+aS"(49, u'\\\\bdoi')"
+p44
+aS"(6, u'\\\\bgr127935')"
+p45
+aS"(12, u'\\\\bantagonist')"
+p46
+atp47
+Rp48
+sS'regions'
+p49
+g3
+((lp50
+tp51
+Rp52
+sS'year'
+p53
+V2002
+p54
+sS'species'
+p55
+g3
+((lp56
+tp57
+Rp58
 sb.

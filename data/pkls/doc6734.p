@@ -2,72 +2,107 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(35, u'\\\\baripiprazole')"
-p5
-aS"(111, u'\\\\bolanzapine')"
-p6
-aS"(113, u'\\\\brisperidone')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.AGONIST'
-p12
-atp13
-Rp14
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
-p15
+p9
 g3
-((lp16
-S"(15, u'\\\\bschizophreni')"
-p17
-aS"(35, u'\\\\bstress')"
-p18
-atp19
-Rp20
+((lp10
+S"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p21
+p14
 g3
-((lp22
-S'5ht1a'
-p23
-atp24
-Rp25
-sS'regions'
+((lp15
+(S'5ht2c'
+p16
+I1784
+I1792
+tp17
+a(S'5ht2a'
+p18
+I253
+I259
+tp19
+a(S'5ht2c'
+p20
+I243
+I254
+tp21
+a(S'5ht2a'
+p22
+I1219
+I1225
+tp23
+a(S'5ht2c'
+p24
+I50
+I58
+tp25
+a(S'5ht2c'
 p26
-g3
-((lp27
-tp28
-Rp29
-sS'year'
+I253
+I261
+tp27
+a(S'5ht2a'
+p28
+I1784
+I1790
+tp29
+a(S'5ht2a'
 p30
-V2011
-p31
-sS'agonists'
+I50
+I56
+tp31
+a(S'5ht2'
 p32
+I339
+I344
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
 g3
-((lp33
-S"(57, u'\\\\bolanzapine')"
-p34
-aS"(223, u'\\\\baripiprazole')"
-p35
-atp36
-Rp37
-sS'species'
+((lp37
+S"(13, u'\\\\bagonist')"
 p38
-g3
-((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(3, u'\\\\bimmunoreactiv')"
+p39
+aS"(49, u'\\\\bdoi')"
 p40
 atp41
 Rp42
+sS'regions'
+p43
+g3
+((lp44
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V2002
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

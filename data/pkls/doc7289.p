@@ -2,82 +2,86 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(20, u'\\\\bmood')"
 p12
-g3
-((lp13
-S"(15, u'\\\\bschizophreni')"
+aS"(5, u'\\\\btherap')"
+p13
+aS"(12, u'\\\\bsleep')"
 p14
-aS"(3, u'\\\\bsleep')"
+aS"(4, u'\\\\btreatment')"
 p15
-aS"(9, u'\\\\bdepress')"
-p16
-aS"(7, u'\\\\bmemory')"
-p17
-aS"(21, u'\\\\bpain')"
-p18
-aS"(6, u'\\\\bcognit')"
-p19
-aS"(10, u'\\\\banxiety')"
-p20
-atp21
-Rp22
+atp16
+Rp17
 sS'receptors'
-p23
+p18
 g3
-((lp24
-S'5ht7'
-p25
-aS'5ht5'
+((lp19
+(S'5ht1a'
+p20
+I69
+I80
+tp21
+a(S'5ht1a'
+p22
+I517
+I523
+tp23
+a(S'5ht1a'
+p24
+I323
+I329
+tp25
+a(S'5ht1a'
 p26
-aS'5ht4'
-p27
-aS'5ht1'
-p28
-atp29
-Rp30
-sS'regions'
-p31
+I837
+I843
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
 g3
-((lp32
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+((lp31
+S"(51, u'\\\\bway100635')"
+p32
+aS"(17, u'\\\\bpet')"
 p33
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
 p34
 atp35
 Rp36
-sS'year'
+sS'regions'
 p37
-V2004
-p38
-sS'agonists'
-p39
 g3
-((lp40
-S"(149, u'\\\\bmem')"
+((lp38
+tp39
+Rp40
+sS'year'
 p41
-atp42
-Rp43
+V2001
+p42
 sS'species'
-p44
+p43
 g3
-((lp45
-tp46
-Rp47
+((lp44
+tp45
+Rp46
 sb.

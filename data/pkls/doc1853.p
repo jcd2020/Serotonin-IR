@@ -2,66 +2,63 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(4, u'\\\\btreatment')"
 p11
-g3
-((lp12
-S"(6, u'\\\\bcognit')"
-p13
-aS"(14, u'\\\\bpsychosis')"
-p14
-aS"(13, u'\\\\bpsychedel')"
-p15
-aS"(1, u'\\\\bmood')"
-p16
-atp17
-Rp18
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht2a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I279
+I285
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(13, u'\\\\bagonist')"
+p22
+aS"(41, u'\\\\bhaloperidol')"
+p23
+aS"(12, u'\\\\bantagonist')"
 p24
+atp25
+Rp26
+sS'regions'
+p27
 g3
-((lp25
-tp26
-Rp27
+((lp28
+tp29
+Rp30
 sS'year'
-p28
-V2016
-p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(158, u'\\\\blsd')"
+p31
+V2008
 p32
-aS"(49, u'\\\\blysergic acid diethylamide')"
-p33
-atp34
-Rp35
 sS'species'
-p36
+p33
 g3
-((lp37
-tp38
-Rp39
+((lp34
+tp35
+Rp36
 sb.

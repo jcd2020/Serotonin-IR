@@ -2,66 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(24, u'\\\\banxiolytic')"
 p10
-aS'Method.AGONIST'
+aS"(8, u'\\\\banxi')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+aS"(13, u'\\\\bantidepress')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht2c'
-p20
-aS'5ht2a'
+((lp16
+(S'5ht1a'
+p17
+I1378
+I1384
+tp18
+a(S'5ht1a'
+p19
+I795
+I801
+tp20
+a(S'5ht1a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I270
+I276
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp25
-tp26
-Rp27
-sS'year'
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+aS"(36, u'\\\\bbenzodiazepine')"
 p28
-V2003
+aS"(54, u'\\\\bautoradiography')"
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(175, u'\\\\bdoi')"
+atp30
+Rp31
+sS'regions'
 p32
-atp33
-Rp34
-sS'species'
-p35
 g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp33
+tp34
+Rp35
+sS'year'
+p36
+V2006
 p37
-atp38
-Rp39
+sS'species'
+p38
+g3
+((lp39
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p40
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

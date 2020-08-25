@@ -1,0 +1,4 @@
+Koulu, M., et al. (1989). "Effects of acute GR38032F (odansetron), a 5-HT3 receptor antagonist, on dopamine and serotonin metabolism in mesolimbic and nigrostriatal dopaminergic neurons." Eur J Pharmacol 169(2-3): 321-324.
+
+	The acute administration of GR38032F, a selective 5-HT3 receptor antagonist, did not change the concentrations of dopamine (DA) or 5-hydroxytryptamine (5-HT) or their deaminated metabolites in nucleus caudatus, nucleus accumbens or substantia nigra. Pretreatment with GR38032F failed to modify the haloperidol-induced activation of DA turnover. It is concluded that the blockade of central 5-HT3 receptors by GR38032F under these experimental conditions does not result in alternations in metabolism of DA or 5-HT in major ascending dopaminergic areas.
+

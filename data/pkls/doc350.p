@@ -2,66 +2,95 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-tp15
+((lp10
+S"(8, u'\\\\banxi')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(20, u'\\\\bmood')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
 Rp16
 sS'receptors'
 p17
 g3
 ((lp18
-S'5ht1b'
+(S'5ht1a'
 p19
-aS'5ht1'
-p20
-atp21
-Rp22
-sS'regions'
+I360
+I366
+tp20
+a(S'5ht1a'
+p21
+I2204
+I2210
+tp22
+a(S'5ht1a'
 p23
-g3
-((lp24
-S"(368, u'(?i)\\\\b(basilars|basilar)(-|\\\\s+)?(arteries|artery)\\\\b')"
+I264
+I270
+tp24
+a(S'5ht1a'
 p25
-atp26
-Rp27
-sS'year'
-p28
-V2007
-p29
-sS'agonists'
-p30
+I1891
+I1897
+tp26
+a(S'5ht1a'
+p27
+I36
+I42
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
 g3
-((lp31
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p32
-atp33
-Rp34
-sS'species'
+((lp32
+S"(13, u'\\\\bagonist')"
+p33
+aS"(15, u'\\\\b8ohdpat')"
+p34
+aS"(12, u'\\\\bantagonist')"
 p35
+atp36
+Rp37
+sS'regions'
+p38
 g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-atp38
-Rp39
+((lp39
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
+p43
+V1993
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p47
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

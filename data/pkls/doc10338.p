@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,60 +10,70 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.PET'
+S"(22, u'\\\\bschizophreni')"
 p9
-aS'Method.AGONIST'
+aS"(1, u'\\\\bpatient')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-tp15
-Rp16
-sS'receptors'
+(S'5ht1a'
+p15
+I728
+I734
+tp16
+a(S'5ht1a'
 p17
-g3
-((lp18
-S'5ht2c'
+I517
+I523
+tp18
+a(S'5ht1a'
 p19
-aS'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
-p23
+I358
+I364
+tp20
+a(S'5ht1a'
+p21
+I88
+I94
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp24
-tp25
-Rp26
-sS'year'
+((lp26
+S"(54, u'\\\\bautoradiography')"
 p27
-V2015
-p28
-sS'agonists'
-p29
+atp28
+Rp29
+sS'regions'
+p30
 g3
-((lp30
-S"(124, u'\\\\bfecimbi ?36')"
-p31
-atp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp31
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p32
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
 p36
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+V1996
 p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+sS'species'
 p38
-atp39
-Rp40
+g3
+((lp39
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p40
+atp41
+Rp42
 sb.

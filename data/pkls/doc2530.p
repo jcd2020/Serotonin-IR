@@ -2,80 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(43, u'\\\\bgr ?127935')"
-p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(33, u'\\\\blocomot')"
+p10
+aS"(4, u'\\\\btreatment')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht2a'
+p16
+I869
+I875
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht1a'
+I765
+I771
+tp19
+a(S'5ht2c'
 p20
-aS'5ht5c'
-p21
-aS'5ht1d'
+I718
+I724
+tp21
+a(S'5ht2a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
+I705
+I711
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp26
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp27
+S"(12, u'\\\\bantagonist')"
 p28
 atp29
 Rp30
-sS'year'
+sS'regions'
 p31
-V1994
-p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+((lp32
+tp33
+Rp34
+sS'year'
 p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+V2004
 p36
-aS"(219, u'\\\\b5 ?ct')"
-p37
-atp38
-Rp39
 sS'species'
-p40
+p37
 g3
-((lp41
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p42
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p43
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p44
-atp45
-Rp46
+((lp38
+tp39
+Rp40
 sb.

@@ -2,78 +2,101 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(28, u'\\\\bspiroxatrine')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(1, u'\\\\bpatient')"
 p10
-aS'Method.AGONIST'
+aS"(34, u'\\\\bparkinson')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+aS"(19, u'\\\\bpsychosis')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2a'
 p18
-g3
-((lp19
-S'5ht1b'
+I36
+I42
+tp19
+a(S'5ht2'
 p20
-aS'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+I1433
+I1438
+tp21
+a(S'5ht2a'
+p22
+I1734
+I1740
+tp23
+a(S'5ht2a'
 p24
-g3
-((lp25
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1235
+I1241
+tp25
+a(S'5ht2a'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V1987
+I664
+I670
+tp27
+a(S'5ht2a'
+p28
+I422
+I428
+tp29
+a(S'5ht2a'
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(149, u'\\\\bmem')"
-p33
-aS"(67, u'\\\\bru ?24969')"
+I539
+I545
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
-atp35
-Rp36
-sS'species'
-p37
 g3
-((lp38
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p39
-aS"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
+((lp35
+S"(46, u'\\\\bspiperone')"
+p36
+aS"(12, u'\\\\bantagonist')"
+p37
+atp38
+Rp39
+sS'regions'
 p40
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp41
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p42
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p43
-atp44
-Rp45
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p44
+atp45
+Rp46
+sS'year'
+p47
+V2010
+p48
+sS'species'
+p49
+g3
+((lp50
+tp51
+Rp52
 sb.

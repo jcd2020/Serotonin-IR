@@ -2,64 +2,123 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(8, u'\\\\banxi')"
+p11
+aS"(5, u'\\\\btherap')"
 p12
-g3
-((lp13
-tp14
-Rp15
+aS"(9, u'\\\\bstress')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(2, u'\\\\bdisorder')"
+p15
+atp16
+Rp17
 sS'receptors'
-p16
-g3
-((lp17
-S'5ht1a'
 p18
-aS'5ht1'
-p19
-atp20
-Rp21
-sS'regions'
+g3
+((lp19
+(S'5ht1a'
+p20
+I2287
+I2293
+tp21
+a(S'5ht1a'
 p22
-g3
-((lp23
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I679
+I685
+tp23
+a(S'5ht1a'
 p24
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
+I58
+I64
+tp25
+a(S'5ht1a'
+p26
+I2396
+I2402
+tp27
+a(S'5ht1a'
 p28
-V1984
-p29
-sS'agonists'
+I112
+I118
+tp29
+a(S'5ht1a'
 p30
-g3
-((lp31
-tp32
-Rp33
-sS'species'
+I527
+I533
+tp31
+a(S'5ht1a'
+p32
+I1892
+I1898
+tp33
+a(S'5ht1a'
 p34
-g3
-((lp35
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I1606
+I1612
+tp35
+a(S'5ht1a'
 p36
-atp37
-Rp38
+I2123
+I2129
+tp37
+atp38
+Rp39
+sS'raw_text_methods'
+p40
+g3
+((lp41
+S"(13, u'\\\\bagonist')"
+p42
+aS"(3, u'\\\\bimmunoreactiv')"
+p43
+aS"(34, u'\\\\b5ct')"
+p44
+atp45
+Rp46
+sS'regions'
+p47
+g3
+((lp48
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p49
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p50
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p51
+aS"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p52
+atp53
+Rp54
+sS'year'
+p55
+V2005
+p56
+sS'species'
+p57
+g3
+((lp58
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p59
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p60
+atp61
+Rp62
 sb.

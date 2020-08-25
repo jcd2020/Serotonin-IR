@@ -2,72 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(128, u'\\\\bmetoclopramide')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(7, u'\\\\bdepressi')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-tp15
-Rp16
-sS'receptors'
+(S'5ht2c'
+p15
+I1195
+I1201
+tp16
+a(S'5ht2c'
 p17
-g3
-((lp18
-S'5ht3'
+I190
+I201
+tp18
+a(S'5ht2c'
 p19
-aS'5ht3a'
-p20
-atp21
-Rp22
-sS'regions'
+I204
+I210
+tp20
+a(S'5ht2c'
+p21
+I1326
+I1332
+tp22
+a(S'5ht1'
 p23
-g3
-((lp24
-tp25
+I917
+I927
+tp24
+atp25
 Rp26
-sS'year'
+sS'raw_text_methods'
 p27
-V1993
-p28
-sS'agonists'
-p29
 g3
-((lp30
-S"(209, u'\\\\bmetoclopramide')"
-p31
-aS"(149, u'\\\\bmem')"
+((lp28
+S"(12, u'\\\\bantagonist')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
-aS"(192, u'\\\\bquipazine')"
-p33
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+g3
+((lp33
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p34
 atp35
 Rp36
-sS'species'
+sS'year'
 p37
-g3
-((lp38
-S"(5986, u'(?i)\\\\b(tritons|triton)\\\\b')"
+V1997
+p38
+sS'species'
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
+g3
+((lp40
+tp41
 Rp42
 sb.

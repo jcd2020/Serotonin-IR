@@ -2,84 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(43, u'\\\\bgr ?127935')"
-p5
-aS"(117, u'\\\\bketanserin')"
-p6
-aS"(193, u'\\\\bmesulergine')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(28, u'\\\\bgastrointestin')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
 atp13
 Rp14
-sS'topics'
+sS'receptors'
 p15
 g3
 ((lp16
-tp17
-Rp18
-sS'receptors'
+(S'5ht3'
+p17
+I422
+I427
+tp18
+a(S'5ht3'
 p19
-g3
-((lp20
-S'5ht7'
+I753
+I758
+tp20
+a(S'5ht3'
 p21
-aS'5ht1b'
-p22
-aS'5ht1f'
+I787
+I792
+tp22
+a(S'5ht3'
 p23
-aS'5ht1'
-p24
-aS'5ht2a'
-p25
-aS'5ht7a'
-p26
-aS'5ht1d'
+I160
+I165
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-atp28
-Rp29
-sS'regions'
+g3
+((lp28
+S"(2, u'\\\\blabeling')"
+p29
+aS"(20, u'\\\\bondansetron')"
 p30
-g3
-((lp31
-tp32
+aS"(12, u'\\\\bantagonist')"
+p31
+atp32
 Rp33
-sS'year'
+sS'regions'
 p34
-V1999
-p35
-sS'agonists'
-p36
 g3
-((lp37
-S"(165, u'\\\\bmesulergine')"
+((lp35
+tp36
+Rp37
+sS'year'
 p38
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
+V2001
 p39
-aS"(96, u'\\\\bsumatriptan')"
-p40
-atp41
-Rp42
 sS'species'
-p43
+p40
 g3
-((lp44
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p45
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p46
-atp47
-Rp48
+((lp41
+tp42
+Rp43
 sb.

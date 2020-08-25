@@ -2,82 +2,88 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S'Method.PET'
 p5
-aS"(117, u'\\\\bketanserin')"
-p6
-aS"(194, u'\\\\bmethysergide')"
-p7
-aS"(115, u'\\\\bcinanserin')"
-p8
-aS"(26, u'\\\\bspiperone')"
-p9
-aS"(22, u'\\\\bpropranolol')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
-S'Method.ANTAGONIST'
-p15
-aS'Method.AGONIST'
-p16
-atp17
-Rp18
+atp6
+Rp7
 sS'topics'
-p19
+p8
 g3
-((lp20
-S"(16, u'\\\\bfeed')"
-p21
-atp22
-Rp23
+((lp9
+S"(7, u'\\\\bdepressi')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(20, u'\\\\bmood')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(3, u'\\\\bclinical')"
+p14
+atp15
+Rp16
 sS'receptors'
-p24
+p17
 g3
-((lp25
-S'5ht1a'
-p26
-aS'5ht1'
-p27
-atp28
-Rp29
-sS'regions'
-p30
+((lp18
+(S'5ht1a'
+p19
+I1348
+I1354
+tp20
+a(S'5ht2'
+p21
+I1093
+I1098
+tp22
+a(S'5ht2a'
+p23
+I1359
+I1365
+tp24
+a(S'5ht2'
+p25
+I777
+I782
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
 g3
-((lp31
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+((lp30
+S"(17, u'\\\\bpet')"
+p31
+aS"(19, u'\\\\bpositron emission tomography')"
 p32
-atp33
-Rp34
-sS'year'
-p35
-V1986
+aS"(18, u'\\\\bimaging')"
+p33
+atp34
+Rp35
+sS'regions'
 p36
-sS'agonists'
-p37
 g3
-((lp38
-S"(53, u'\\\\bmethysergide')"
+((lp37
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p38
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p39
-aS"(67, u'\\\\bru ?24969')"
-p40
-atp41
-Rp42
-sS'species'
+atp40
+Rp41
+sS'year'
+p42
+V1998
 p43
+sS'species'
+p44
 g3
-((lp44
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-atp46
+((lp45
+tp46
 Rp47
 sb.

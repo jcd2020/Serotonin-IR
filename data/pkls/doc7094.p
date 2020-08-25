@@ -2,76 +2,83 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(5, u'\\\\btherap')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
+aS"(16, u'\\\\blearning')"
+p13
+aS"(23, u'\\\\bantipsychotic')"
 p14
-aS"(10, u'\\\\banxiety')"
+aS"(15, u'\\\\bmemory')"
 p15
-aS"(1, u'\\\\bmood')"
-p16
-atp17
-Rp18
+atp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
-S'5ht1a'
-p21
+((lp19
+(S'5ht1a'
+p20
+I923
+I929
+tp21
 atp22
 Rp23
-sS'regions'
+sS'raw_text_methods'
 p24
 g3
 ((lp25
-S"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p26
-aS"(294, u'(?i)\\\\b(retrosplenials|retrosplenial)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(41, u'\\\\bhaloperidol')"
 p27
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+aS"(40, u'\\\\bclozapine')"
 p28
-atp29
-Rp30
-sS'year'
-p31
-V2011
-p32
-sS'agonists'
+aS"(51, u'\\\\bway100635')"
+p29
+aS"(12, u'\\\\bantagonist')"
+p30
+atp31
+Rp32
+sS'regions'
 p33
 g3
 ((lp34
-tp35
-Rp36
-sS'species'
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p35
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p36
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p37
-g3
-((lp38
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
-p39
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+atp38
+Rp39
+sS'year'
 p40
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+V2008
 p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+sS'species'
 p42
-atp43
-Rp44
+g3
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

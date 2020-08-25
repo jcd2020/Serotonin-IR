@@ -2,78 +2,116 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(13, u'\\\\bantidepress')"
 p10
-aS'Method.AGONIST'
+aS"(4, u'\\\\btreatment')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht1a'
+p16
+I1473
+I1479
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht1a'
+I1296
+I1302
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
-p25
-aS"(396, u'(?i)\\\\b(subventriculars|subventricular)(-|\\\\s+)?(zones|zone)\\\\b')"
+I855
+I861
+tp21
+a(S'5ht1a'
+p22
+I1206
+I1212
+tp23
+a(S'5ht1a'
+p24
+I934
+I940
+tp25
+a(S'5ht1a'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2009
+I203
+I209
+tp27
+a(S'5ht1a'
+p28
+I467
+I473
+tp29
+a(S'5ht1a'
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(20, u'\\\\bbuspirone')"
-p33
-aS"(176, u'\\\\bdom')"
+I1074
+I1080
+tp31
+a(S'5ht1a'
+p32
+I710
+I716
+tp33
+a(S'5ht1a'
 p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p35
+I51
+I57
+tp35
 atp36
 Rp37
-sS'species'
+sS'raw_text_methods'
 p38
 g3
 ((lp39
-S"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
+S"(11, u'\\\\bfluoxetine')"
 p40
-aS"(4003, u'(?i)\\\\b(crickets|cricket)\\\\b')"
+aS"(38, u'\\\\bssri')"
 p41
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+aS"(54, u'\\\\bautoradiography')"
 p42
-aS"(5721, u'(?i)\\\\b(opossums|opossum)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p43
 atp44
 Rp45
+sS'regions'
+p46
+g3
+((lp47
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p48
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p49
+atp50
+Rp51
+sS'year'
+p52
+V2002
+p53
+sS'species'
+p54
+g3
+((lp55
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p56
+atp57
+Rp58
 sb.

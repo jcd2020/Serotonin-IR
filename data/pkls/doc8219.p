@@ -2,78 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(33, u'\\\\blocomot')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
-p14
-atp15
-Rp16
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
 p17
-g3
-((lp18
-S'5ht1b'
+I1584
+I1590
+tp18
+a(S'5ht2a'
 p19
-aS'5ht1a'
-p20
-aS'5ht1d'
+I959
+I965
+tp20
+a(S'5ht2a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I427
+I433
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp25
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
-p29
-V2000
-p30
-sS'agonists'
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+aS"(49, u'\\\\bdoi')"
+p28
+atp29
+Rp30
+sS'regions'
 p31
 g3
 ((lp32
-S"(96, u'\\\\bsumatriptan')"
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p33
 atp34
 Rp35
-sS'species'
+sS'year'
 p36
-g3
-((lp37
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+V2019
+p37
+sS'species'
 p38
-aS"(1883, u'(?i)\\\\b(calves|calf)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
-p41
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p42
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p43
-atp44
-Rp45
+atp41
+Rp42
 sb.

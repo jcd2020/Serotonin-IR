@@ -2,88 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.STIMULATION'
 p5
-aS"(115, u'\\\\bcinanserin')"
+aS'Method.ANTAGONIST'
 p6
-aS"(21, u'\\\\bpindolol')"
-p7
-aS"(117, u'\\\\bketanserin')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p7
+atp8
+Rp9
 sS'topics'
-p17
+p10
 g3
-((lp18
-tp19
-Rp20
+((lp11
+S"(30, u'\\\\bpain')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
 sS'receptors'
-p21
+p16
 g3
-((lp22
-S'5ht4'
-p23
-aS'5ht3'
+((lp17
+(S'5ht1b'
+p18
+I2382
+I2389
+tp19
+a(S'5ht1d'
+p20
+I2382
+I2388
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-aS'5ht2'
-p25
-aS'5ht1'
+g3
+((lp25
+S"(13, u'\\\\bagonist')"
 p26
-aS'5ht2a'
+aS"(47, u'\\\\bsumatriptan')"
 p27
-aS'5ht4a'
+aS"(12, u'\\\\bantagonist')"
 p28
-aS'5ht4b'
-p29
-aS'5ht3a'
-p30
-atp31
-Rp32
+atp29
+Rp30
 sS'regions'
-p33
+p31
 g3
-((lp34
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p35
-atp36
-Rp37
+((lp32
+tp33
+Rp34
 sS'year'
-p38
-V1995
-p39
-sS'agonists'
-p40
-g3
-((lp41
-S"(197, u'\\\\bbimu ?8')"
-p42
-atp43
-Rp44
+p35
+V1996
+p36
 sS'species'
-p45
+p37
 g3
-((lp46
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p47
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p48
-atp49
-Rp50
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

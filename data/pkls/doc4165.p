@@ -2,72 +2,88 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(13, u'\\\\bantidepress')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-S"(12, u'\\\\banxiogen')"
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(20, u'\\\\bmood')"
 p14
-aS"(8, u'\\\\blearning')"
+aS"(12, u'\\\\bsleep')"
 p15
-aS"(11, u'\\\\banxiolyt')"
+aS"(8, u'\\\\banxi')"
 p16
-aS"(10, u'\\\\banxiety')"
+aS"(4, u'\\\\btreatment')"
 p17
-aS"(7, u'\\\\bmemory')"
-p18
-atp19
-Rp20
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
-S'5ht3a'
-p23
-aS'5ht3'
+((lp21
+(S'5ht3'
+p22
+I34
+I39
+tp23
+a(S'5ht7'
 p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p29
+I34
+I40
+tp25
+a(S'5ht1a'
+p26
+I63
+I69
+tp27
+a(S'5ht1b'
+p28
+I88
+I94
+tp29
 atp30
 Rp31
-sS'year'
+sS'raw_text_methods'
 p32
-V1996
-p33
-sS'agonists'
+g3
+((lp33
+S"(13, u'\\\\bagonist')"
 p34
+aS"(12, u'\\\\bantagonist')"
+p35
+atp36
+Rp37
+sS'regions'
+p38
 g3
-((lp35
-S"(149, u'\\\\bmem')"
-p36
-atp37
-Rp38
+((lp39
+tp40
+Rp41
+sS'year'
+p42
+V2011
+p43
 sS'species'
-p39
+p44
 g3
-((lp40
-tp41
-Rp42
+((lp45
+tp46
+Rp47
 sb.

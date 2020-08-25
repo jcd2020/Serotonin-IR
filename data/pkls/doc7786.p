@@ -2,70 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(198, u'\\\\bsb ?269970')"
-p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-aS"(194, u'\\\\bmethysergide')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(25, u'\\\\bsocial')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(9, u'\\\\bstress')"
+p14
+aS"(20, u'\\\\bmood')"
 p15
-g3
-((lp16
-tp17
-Rp18
+aS"(5, u'\\\\btherap')"
+p16
+aS"(8, u'\\\\banxi')"
+p17
+atp18
+Rp19
 sS'receptors'
-p19
+p20
 g3
-((lp20
-S'5ht7'
-p21
-aS'5ht1a'
+((lp21
+(S'5ht1a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
+I618
+I624
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp26
-tp27
-Rp28
-sS'year'
-p29
-V2010
-p30
-sS'agonists'
+((lp27
+S"(12, u'\\\\bantagonist')"
+p28
+atp29
+Rp30
+sS'regions'
 p31
 g3
 ((lp32
-S"(53, u'\\\\bmethysergide')"
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p33
-atp34
-Rp35
-sS'species'
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p34
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p35
+aS"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
 p36
-g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-aS"(7552, u'(?i)\\\\b(bats|bat)\\\\b')"
+atp37
+Rp38
+sS'year'
 p39
-atp40
-Rp41
+V2014
+p40
+sS'species'
+p41
+g3
+((lp42
+tp43
+Rp44
 sb.

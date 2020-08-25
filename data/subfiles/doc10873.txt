@@ -1,4 +1,0 @@
-Roberts, C., et al. (2001). "Ligands for the investigation of 5-HT autoreceptor function." Brain Res Bull 56(5): 463-469.
-
-	The existence of multiple 5-HT autoreceptors in the central nervous system is now firmly established and they have been pharmacologically identified as belonging to the 5-HT1A, 5-HT1B, and 5-HT1D receptor subtypes. In addition, 5-HT1F, 5-HT5A, and 5-HT7 receptors remain as potential candidates for additional autoreceptors. The emergence of selective ligands, such as SB-224289 (5-HT1B receptor antagonist), BRL 15572 (5-HT1D receptor antagonist), GR 127935 (a mixed 5-HT1B/1D receptor antagonist), LY 334370 (5-HT1F receptor agonist), and SB-269970 (5-HT7 receptor antagonist), has aided the characterisation of 5-HT autoreceptors and has highlighted the complexity of mechanisms which modulate the release of 5-HT. (C) 2001 Elsevier Science Inc.
-

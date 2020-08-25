@@ -2,70 +2,106 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(12, u'\\\\blecozotan')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(14, u'\\\\bcogniti')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(15, u'\\\\bmemory')"
+p11
+aS"(16, u'\\\\blearning')"
+p12
+aS"(4, u'\\\\btreatment')"
 p13
-g3
-((lp14
-S"(8, u'\\\\blearning')"
-p15
-aS"(33, u'\\\\balzheimers')"
-p16
-aS"(6, u'\\\\bcognit')"
-p17
-aS"(7, u'\\\\bmemory')"
-p18
-atp19
-Rp20
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1a'
+p19
+I451
+I457
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-S'5ht1a'
+I300
+I306
+tp22
+a(S'5ht1a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
+I1301
+I1307
+tp24
+a(S'5ht1a'
+p25
+I1949
+I1955
+tp26
+a(S'5ht1a'
+p27
+I366
+I372
 tp28
-Rp29
-sS'year'
-p30
-V2009
+a(S'5ht1a'
+p29
+I1083
+I1089
+tp30
+a(S'5ht1a'
 p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(149, u'\\\\bmem')"
-p34
+I1796
+I1802
+tp32
+a(S'5ht1a'
+p33
+I1373
+I1379
+tp34
 atp35
 Rp36
-sS'species'
+sS'raw_text_methods'
 p37
 g3
 ((lp38
-S"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
+S"(51, u'\\\\bway100635')"
 p39
-atp40
-Rp41
+aS"(4, u'\\\\bpcpa')"
+p40
+aS"(12, u'\\\\bantagonist')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+tp46
+Rp47
+sS'year'
+p48
+V2005
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

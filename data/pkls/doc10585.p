@@ -2,68 +2,108 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(131, u'\\\\bm1')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-tp10
-Rp11
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(6, u'\\\\bcognit')"
-p14
-aS"(7, u'\\\\bmemory')"
-p15
-atp16
-Rp17
+((lp10
+S"(7, u'\\\\bdepressi')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1b'
+p16
+I770
+I776
+tp17
+a(S'5ht1b'
 p18
-g3
-((lp19
-S'5ht1a'
+I1481
+I1487
+tp19
+a(S'5ht2c'
 p20
-aS'5ht2d'
-p21
-aS'5ht2a'
+I1814
+I1820
+tp21
+a(S'5ht2'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
+I685
+I690
+tp23
+a(S'5ht2c'
+p24
+I1667
+I1673
+tp25
+a(S'5ht1b'
+p26
+I88
+I94
 tp27
-Rp28
-sS'year'
-p29
-V2015
+a(S'5ht2c'
+p28
+I99
+I105
+tp29
+a(S'5ht1b'
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(149, u'\\\\bmem')"
-p33
-aS"(14, u'\\\\bbacoside')"
+I1825
+I1831
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
-atp35
-Rp36
-sS'species'
-p37
 g3
-((lp38
-tp39
-Rp40
+((lp35
+S"(13, u'\\\\bagonist')"
+p36
+aS"(9, u'\\\\britanserin')"
+p37
+aS"(44, u'\\\\btetrodotoxin')"
+p38
+aS"(12, u'\\\\bantagonist')"
+p39
+atp40
+Rp41
+sS'regions'
+p42
+g3
+((lp43
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p44
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p45
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p46
+atp47
+Rp48
+sS'year'
+p49
+V1996
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p53
+atp54
+Rp55
 sb.

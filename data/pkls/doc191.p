@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,67 +10,73 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-tp15
-Rp16
+atp10
+Rp11
 sS'receptors'
-p17
+p12
 g3
-((lp18
-S'5ht3'
-p19
-aS'5ht2a'
+((lp13
+(S'5ht3'
+p14
+I162
+I167
+tp15
+a(S'5ht3'
+p16
+I1703
+I1708
+tp17
+a(S'5ht3'
+p18
+I2005
+I2010
+tp19
+a(S'5ht3'
 p20
-atp21
-Rp22
-sS'regions'
-p23
+I804
+I809
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp24
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p25
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp25
+S"(16, u'\\\\bdiazepam')"
 p26
-atp27
-Rp28
-sS'year'
-p29
-V1991
-p30
-sS'agonists'
+aS"(20, u'\\\\bondansetron')"
+p27
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p28
+atp29
+Rp30
+sS'regions'
 p31
 g3
 ((lp32
-S"(189, u'\\\\bethanol')"
-p33
-aS"(175, u'\\\\bdoi')"
-p34
-atp35
-Rp36
+tp33
+Rp34
+sS'year'
+p35
+V2015
+p36
 sS'species'
 p37
 g3
 ((lp38
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
 atp43
 Rp44

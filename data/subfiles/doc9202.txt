@@ -1,0 +1,4 @@
+Radley, J. J. and B. L. Jacobs (2002). "5-HT1A receptor antagonist administration decreases cell proliferation in the dentate gyrus." Brain Res 955(1-2): 264-267.
+
+	This study investigated the action of 5-HT(1A) receptor antagonists on cell proliferation in the dentate gyrus of adult rats. Three antagonists (NAN-190, p-MPPI and WAY-100635) all produced a statistically significant approximately 30% reduction in the number of BrdU-immunoreactive cells in the dentate gyrus. This suggests that 5-HT(1A) receptor activity is important during naturally occurring cell proliferation in the dentate gyrus, and perhaps neurogenesis, and is one of the many factors involved in its regulation.
+

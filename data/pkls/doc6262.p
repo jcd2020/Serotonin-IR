@@ -2,72 +2,139 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+aS'Method.AGONIST'
 p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+atp8
+Rp9
 sS'topics'
+p10
+g3
+((lp11
+S"(3, u'\\\\bclinical')"
 p12
-g3
-((lp13
-S"(5, u'\\\\bgastrointestin')"
-p14
-aS"(21, u'\\\\bpain')"
-p15
-aS"(35, u'\\\\bstress')"
-p16
-atp17
-Rp18
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I1449
+I1455
+tp18
+a(S'5ht1a'
 p19
-g3
-((lp20
-S'5ht3'
+I2087
+I2093
+tp20
+a(S'5ht1a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
-p26
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I103
+I109
+tp22
+a(S'5ht1a'
+p23
+I773
+I779
+tp24
+a(S'5ht1a'
+p25
+I2420
+I2426
+tp26
+a(S'5ht1a'
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2011
+I680
+I686
+tp28
+a(S'5ht1a'
+p29
+I2331
+I2337
+tp30
+a(S'5ht1a'
 p31
-sS'agonists'
-p32
-g3
-((lp33
+I1364
+I1370
+tp32
+a(S'5ht1a'
+p33
+I1662
+I1668
 tp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+a(S'5ht1a'
+p35
+I461
+I467
+tp36
+a(S'5ht1a'
+p37
+I272
+I278
+tp38
+a(S'5ht1a'
 p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-atp41
-Rp42
+I234
+I245
+tp40
+a(S'5ht1a'
+p41
+I851
+I857
+tp42
+atp43
+Rp44
+sS'raw_text_methods'
+p45
+g3
+((lp46
+S"(1, u'\\\\bneuroimag')"
+p47
+aS"(17, u'\\\\bpet')"
+p48
+aS"(2, u'\\\\blabeling')"
+p49
+aS"(13, u'\\\\bagonist')"
+p50
+aS"(54, u'\\\\bautoradiography')"
+p51
+aS"(51, u'\\\\bway100635')"
+p52
+aS"(18, u'\\\\bimaging')"
+p53
+aS"(12, u'\\\\bantagonist')"
+p54
+atp55
+Rp56
+sS'regions'
+p57
+g3
+((lp58
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p59
+atp60
+Rp61
+sS'year'
+p62
+V2012
+p63
+sS'species'
+p64
+g3
+((lp65
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p66
+atp67
+Rp68
 sb.

@@ -2,82 +2,131 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(33, u'\\\\balzheimers')"
-p14
-aS"(9, u'\\\\bdepress')"
-p15
-aS"(3, u'\\\\bsleep')"
-p16
-atp17
-Rp18
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp15
+(S'5ht3'
+p16
+I1066
+I1071
+tp17
+a(S'5ht3'
+p18
+I2161
+I2166
+tp19
+a(S'5ht5'
+p20
+I692
+I697
+tp21
+a(S'5ht1a'
+p22
+I1015
+I1021
+tp23
+a(S'5ht1'
 p24
-g3
-((lp25
-S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
+I1201
+I1206
+tp25
+a(S'5ht2'
 p26
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
+I466
+I471
+tp27
+a(S'5ht2'
 p28
-aS"(100, u'(?i)\\\\b(caudals|caudal)(-|\\\\s+)?(linears|linear)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1954
+I1959
+tp29
+a(S'5ht2'
 p30
-aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p31
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1729
+I1734
+tp31
+a(S'5ht2'
 p32
-atp33
-Rp34
-sS'year'
-p35
-V1991
+I365
+I370
+tp33
+a(S'5ht2c'
+p34
+I1735
+I1741
+tp35
+a(S'5ht1'
 p36
-sS'agonists'
-p37
-g3
-((lp38
+I2151
+I2156
+tp37
+a(S'5ht2'
+p38
+I1207
+I1212
 tp39
-Rp40
-sS'species'
-p41
-g3
-((lp42
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
-p43
-aS"(1449, u'(?i)\\\\b(giants|giant)\\\\b')"
+a(S'5ht2'
+p40
+I1269
+I1274
+tp41
+atp42
+Rp43
+sS'raw_text_methods'
 p44
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p45
-atp46
-Rp47
+g3
+((lp45
+S"(53, u'\\\\bketanserin')"
+p46
+aS"(23, u'\\\\bmdl')"
+p47
+aS"(26, u'\\\\bmdl72222')"
+p48
+aS"(13, u'\\\\bagonist')"
+p49
+aS"(11, u'\\\\bfluoxetine')"
+p50
+aS"(12, u'\\\\bantagonist')"
+p51
+atp52
+Rp53
+sS'regions'
+p54
+g3
+((lp55
+tp56
+Rp57
+sS'year'
+p58
+V1995
+p59
+sS'species'
+p60
+g3
+((lp61
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p62
+atp63
+Rp64
 sb.

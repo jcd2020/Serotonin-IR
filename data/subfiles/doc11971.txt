@@ -1,0 +1,4 @@
+Xie, Z., et al. (1999). "Serotonin 5-HT1B and 5-HT1D receptors form homodimers when expressed alone and heterodimers when co-expressed." FEBS Lett 456(1): 63-67.
+
+	The serotonin (5-hydroxytryptamine (5-HT)) 1B and 1D receptor subtypes share a high amino acid sequence identity and have similar ligand binding properties. In this study, we demonstrate that both receptor subtypes exist as monomers and homodimers when expressed alone and as monomers and heterodimers when co-expressed. Gene expression studies have shown that there are brain regions where the 5-HT1B and 5-HT1D receptors are co-localized and where heterodimerization may occur physiologically. This is the first direct visualization of the physical association between G protein-coupled receptors of different subtypes.
+

@@ -2,88 +2,155 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(84, u'\\\\bsb ?206553')"
+S'Method.AGONIST'
 p5
-aS"(133, u'\\\\bmianserin')"
-p6
-aS"(49, u'\\\\bnefazodone')"
-p7
-aS"(99, u'\\\\bsb ?242084')"
-p8
-aS"(134, u'\\\\bmirtazapine')"
-p9
-aS"(102, u'\\\\bamitriptyline')"
-p10
-aS"(48, u'\\\\btrazodone')"
-p11
-aS"(91, u'\\\\bfluoxetine')"
-p12
-aS"(103, u'\\\\bclomipramine')"
-p13
-atp14
-Rp15
-sS'methods'
-p16
-g3
-((lp17
-S'Method.ANTAGONIST'
-p18
-aS'Method.AGONIST'
-p19
-atp20
-Rp21
+atp6
+Rp7
 sS'topics'
-p22
+p8
 g3
-((lp23
-S"(9, u'\\\\bdepress')"
-p24
-atp25
-Rp26
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(33, u'\\\\blocomot')"
+p11
+atp12
+Rp13
 sS'receptors'
-p27
+p14
 g3
-((lp28
-S'5ht2c'
-p29
-atp30
-Rp31
-sS'regions'
+((lp15
+(S'5ht7'
+p16
+I680
+I685
+tp17
+a(S'5ht7'
+p18
+I1311
+I1316
+tp19
+a(S'5ht1b'
+p20
+I854
+I860
+tp21
+a(S'5ht1'
+p22
+I854
+I860
+tp23
+a(S'5ht7'
+p24
+I865
+I870
+tp25
+a(S'5ht1'
+p26
+I669
+I675
+tp27
+a(S'5ht1a'
+p28
+I1460
+I1466
+tp29
+a(S'5ht1a'
+p30
+I33
+I47
+tp31
+a(S'5ht1b'
 p32
-g3
-((lp33
-tp34
-Rp35
-sS'year'
+I911
+I917
+tp33
+a(S'5ht1b'
+p34
+I1470
+I1476
+tp35
+a(S'5ht1a'
 p36
-V2008
-p37
-sS'agonists'
+I846
+I852
+tp37
+a(S'5ht1a'
 p38
-g3
-((lp39
-S"(75, u'\\\\btrazodone')"
+I33
+I44
+tp39
+a(S'5ht1a'
 p40
-aS"(56, u'\\\\bnefazodone')"
-p41
-atp42
-Rp43
-sS'species'
+I901
+I907
+tp41
+a(S'5ht1'
+p42
+I387
+I392
+tp43
+a(S'5ht1b'
 p44
-g3
-((lp45
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+I33
+I46
+tp45
+a(S'5ht1a'
 p46
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p47
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+I661
+I667
+tp47
+a(S'5ht1b'
 p48
-atp49
-Rp50
+I1163
+I1169
+tp49
+a(S'5ht1a'
+p50
+I944
+I950
+tp51
+a(S'5ht1b'
+p52
+I669
+I675
+tp53
+atp54
+Rp55
+sS'raw_text_methods'
+p56
+g3
+((lp57
+S"(13, u'\\\\bagonist')"
+p58
+aS"(15, u'\\\\b8ohdpat')"
+p59
+aS"(34, u'\\\\b5ct')"
+p60
+atp61
+Rp62
+sS'regions'
+p63
+g3
+((lp64
+tp65
+Rp66
+sS'year'
+p67
+V2013
+p68
+sS'species'
+p69
+g3
+((lp70
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p71
+atp72
+Rp73
 sb.

@@ -2,68 +2,103 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+aS"(27, u'\\\\bdyskinesia')"
 p12
-g3
-((lp13
-S"(37, u'\\\\baddict')"
+aS"(34, u'\\\\bparkinson')"
+p13
+aS"(4, u'\\\\btreatment')"
 p14
-aS"(9, u'\\\\bdepress')"
-p15
-aS"(13, u'\\\\bpsychedel')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-atp18
-Rp19
+atp15
+Rp16
 sS'receptors'
-p20
+p17
 g3
-((lp21
-S'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
+((lp18
+(S'5ht1a'
+p19
+I65
+I71
+tp20
+a(S'5ht1a'
+p21
+I579
+I585
+tp22
+a(S'5ht1a'
+p23
+I1856
+I1862
+tp24
+a(S'5ht1a'
 p25
-g3
-((lp26
-tp27
-Rp28
-sS'year'
+I1707
+I1713
+tp26
+a(S'5ht1a'
+p27
+I2111
+I2117
+tp28
+a(S'5ht1a'
 p29
-V2017
-p30
-sS'agonists'
+I1488
+I1494
+tp30
+a(S'5ht1a'
 p31
+I363
+I369
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
+p35
 g3
-((lp32
-S"(63, u'\\\\bpsilocybin')"
-p33
-aS"(158, u'\\\\blsd')"
-p34
-atp35
-Rp36
-sS'species'
+((lp36
+S"(13, u'\\\\bagonist')"
 p37
+aS"(15, u'\\\\b8ohdpat')"
+p38
+aS"(54, u'\\\\bautoradiography')"
+p39
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
 g3
-((lp38
-tp39
-Rp40
+((lp44
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V2012
+p49
+sS'species'
+p50
+g3
+((lp51
+tp52
+Rp53
 sb.

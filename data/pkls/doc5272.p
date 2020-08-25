@@ -2,64 +2,83 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(198, u'\\\\bsb ?269970')"
+S'Method.STAINING'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+aS'Method.ANTAGONIST'
+p7
+atp8
+Rp9
 sS'topics'
+p10
+g3
+((lp11
+tp12
+Rp13
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht1a'
+p16
+I1183
+I1194
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht7'
+I2100
+I2111
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
+I1854
+I1865
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp24
-tp25
-Rp26
-sS'year'
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+aS"(7, u'\\\\bpropranolol')"
 p27
-V2015
+aS"(3, u'\\\\bimmunoreactiv')"
 p28
-sS'agonists'
+aS"(46, u'\\\\bspiperone')"
 p29
-g3
-((lp30
-tp31
+aS"(12, u'\\\\bantagonist')"
+p30
+atp31
 Rp32
-sS'species'
+sS'regions'
 p33
 g3
 ((lp34
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p35
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p36
 atp37
 Rp38
+sS'year'
+p39
+V1994
+p40
+sS'species'
+p41
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

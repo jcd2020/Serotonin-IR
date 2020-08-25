@@ -2,74 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(14, u'\\\\bcogniti')"
+p12
+aS"(23, u'\\\\bantipsychotic')"
 p13
-g3
-((lp14
-S"(19, u'\\\\bimpulsiv')"
-p15
-atp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht2c'
-p20
-aS'5ht2'
-p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
+((lp18
+(S'5ht2a'
+p19
+I1682
+I1688
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
+g3
+((lp24
+S"(40, u'\\\\bclozapine')"
 p25
-g3
-((lp26
-S"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-aS"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
+atp26
+Rp27
+sS'regions'
 p28
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
+g3
+((lp29
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p30
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p31
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p32
-V2009
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(175, u'\\\\bdoi')"
+atp34
+Rp35
+sS'year'
 p36
-atp37
-Rp38
+V2006
+p37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+((lp39
+tp40
+Rp41
 sb.

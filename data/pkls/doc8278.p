@@ -2,27 +2,29 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(25, u'\\\\bvasoconstrict')"
+((lp10
+S"(8, u'\\\\banxi')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(35, u'\\\\bnocicept')"
+p13
+aS"(30, u'\\\\bpain')"
 p14
 atp15
 Rp16
@@ -30,34 +32,52 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht1a'
+(S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
+I1449
+I1455
+tp20
+a(S'5ht1a'
+p21
+I2076
+I2082
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp23
-tp24
-Rp25
-sS'year'
-p26
-V1991
+((lp26
+S"(13, u'\\\\bagonist')"
 p27
-sS'agonists'
+aS"(15, u'\\\\b8ohdpat')"
 p28
-g3
-((lp29
-S"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(36, u'\\\\bbenzodiazepine')"
+p29
+aS"(12, u'\\\\bantagonist')"
 p30
 atp31
 Rp32
-sS'species'
+sS'regions'
 p33
 g3
 ((lp34
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p35
 atp36
 Rp37
+sS'year'
+p38
+V2000
+p39
+sS'species'
+p40
+g3
+((lp41
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p42
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p43
+atp44
+Rp45
 sb.

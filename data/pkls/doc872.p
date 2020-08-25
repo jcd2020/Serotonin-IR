@@ -2,27 +2,29 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(21, u'\\\\bpain')"
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+aS"(3, u'\\\\bclinical')"
+p11
+aS"(9, u'\\\\bstress')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(2, u'\\\\bdisorder')"
 p14
 atp15
 Rp16
@@ -30,36 +32,46 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht3'
+(S'5ht2c'
 p19
-atp20
-Rp21
-sS'regions'
-p22
+I1402
+I1410
+tp20
+a(S'5ht2a'
+p21
+I1402
+I1408
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp23
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
+((lp26
+S"(53, u'\\\\bketanserin')"
 p27
-V2008
+aS"(48, u'\\\\bmdma')"
 p28
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p29
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp30
-tp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p35
-aS"(2323, u'(?i)\\\\b(bees|bee)\\\\b')"
+((lp33
+tp34
+Rp35
+sS'year'
 p36
-atp37
-Rp38
+V2020
+p37
+sS'species'
+p38
+g3
+((lp39
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p40
+atp41
+Rp42
 sb.

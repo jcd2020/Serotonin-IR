@@ -2,66 +2,61 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(16, u'\\\\blearning')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(35, u'\\\\bstress')"
-p15
-atp16
-Rp17
+aS"(15, u'\\\\bmemory')"
+p11
+atp12
+Rp13
 sS'receptors'
-p18
+p14
 g3
-((lp19
-S'5ht1a'
+((lp15
+(S'5ht1a'
+p16
+I86
+I92
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-atp21
-Rp22
+g3
+((lp21
+S"(12, u'\\\\bantagonist')"
+p22
+atp23
+Rp24
 sS'regions'
-p23
+p25
 g3
-((lp24
-tp25
-Rp26
-sS'year'
+((lp26
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p27
-V2013
-p28
-sS'agonists'
-p29
-g3
-((lp30
-S"(21, u'\\\\bcannabidiol')"
+atp28
+Rp29
+sS'year'
+p30
+V2003
 p31
-atp32
-Rp33
 sS'species'
-p34
+p32
 g3
-((lp35
-S"(3072, u'(?i)\\\\b(piglets|piglet)\\\\b')"
-p36
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p37
-atp38
-Rp39
+((lp33
+tp34
+Rp35
 sb.

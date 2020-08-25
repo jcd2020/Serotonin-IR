@@ -2,70 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+aS"(5, u'\\\\btherap')"
+p12
+aS"(17, u'\\\\balzheimer')"
 p13
-g3
-((lp14
-S"(3, u'\\\\bsleep')"
-p15
-aS"(11, u'\\\\banxiolyt')"
-p16
-atp17
-Rp18
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht6'
-p21
-aS'5ht6a'
-p22
-atp23
-Rp24
+((lp17
+(S'5ht6'
+p18
+I41
+I46
+tp19
+a(S'5ht6'
+p20
+I325
+I330
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+S"(12, u'\\\\bantagonist')"
+p26
+atp27
+Rp28
 sS'regions'
-p25
+p29
 g3
-((lp26
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V2013
+((lp30
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p31
-sS'agonists'
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
 p32
-g3
-((lp33
-S"(218, u'\\\\bemd ?386088')"
-p34
-atp35
-Rp36
-sS'species'
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
+p36
+V2017
 p37
+sS'species'
+p38
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

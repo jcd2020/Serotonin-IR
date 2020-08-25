@@ -2,72 +2,105 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(126, u'\\\\balosetron')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(22, u'\\\\bschizophreni')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(14, u'\\\\bcogniti')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(23, u'\\\\bantipsychotic')"
 p13
-g3
-((lp14
-S"(35, u'\\\\bstress')"
-p15
-atp16
-Rp17
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht3'
-p20
-atp21
-Rp22
-sS'regions'
+((lp18
+(S'5ht7'
+p19
+I1288
+I1293
+tp20
+a(S'5ht5'
+p21
+I1034
+I1044
+tp22
+a(S'5ht2c'
 p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
+I374
+I380
+tp24
+a(S'5ht2c'
+p25
+I1060
+I1066
+tp26
+a(S'5ht1b'
 p27
-V2007
-p28
-sS'agonists'
+I1052
+I1058
+tp28
+a(S'5ht6'
 p29
-g3
-((lp30
-tp31
-Rp32
-sS'species'
+I1071
+I1076
+tp30
+a(S'5ht2a'
+p31
+I363
+I369
+tp32
+a(S'5ht1a'
 p33
-g3
-((lp34
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+I1044
+I1050
+tp34
+a(S'5ht2a'
 p35
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p36
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+I891
+I897
+tp36
+atp37
+Rp38
+sS'raw_text_methods'
 p39
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p40
-atp41
-Rp42
+g3
+((lp40
+S"(12, u'\\\\bantagonist')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+tp46
+Rp47
+sS'year'
+p48
+V2001
+p49
+sS'species'
+p50
+g3
+((lp51
+tp52
+Rp53
 sb.

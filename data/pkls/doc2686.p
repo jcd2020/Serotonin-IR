@@ -2,75 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(194, u'\\\\bmethysergide')"
-p5
-aS"(33, u'\\\\byohimbine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p5
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(21, u'\\\\bpain')"
-p17
-atp18
-Rp19
+((lp9
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht3'
+p14
+I65
+I70
+tp15
+a(S'5ht3'
+p16
+I206
+I211
+tp17
+a(S'5ht3'
+p18
+I1427
+I1432
+tp19
+a(S'5ht3'
 p20
+I880
+I885
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp21
-S'5ht1b'
-p22
-aS'5ht2'
-p23
-atp24
-Rp25
-sS'regions'
+((lp25
+S"(20, u'\\\\bondansetron')"
 p26
-g3
-((lp27
-tp28
-Rp29
-sS'year'
-p30
-V1991
-p31
-sS'agonists'
+aS"(36, u'\\\\bbenzodiazepine')"
+p27
+aS"(23, u'\\\\bmdl')"
+p28
+aS"(12, u'\\\\bantagonist')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
 g3
 ((lp33
-S"(175, u'\\\\bdoi')"
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p34
-aS"(53, u'\\\\bmethysergide')"
+aS"(7, u'(?i)\\\\b(entorhinals|entorhinal)\\\\b')"
 p35
-aS"(67, u'\\\\bru ?24969')"
-p36
-aS"(82, u'\\\\byohimbine')"
-p37
-atp38
-Rp39
+atp36
+Rp37
+sS'year'
+p38
+V1998
+p39
 sS'species'
 p40
 g3
 ((lp41
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
 atp43
 Rp44

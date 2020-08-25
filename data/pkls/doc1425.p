@@ -1,0 +1,133 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(16, u'\\\\blearning')"
+p13
+aS"(18, u'\\\\bavoidan')"
+p14
+aS"(4, u'\\\\btreatment')"
+p15
+atp16
+Rp17
+sS'receptors'
+p18
+g3
+((lp19
+(S'5ht2'
+p20
+I537
+I543
+tp21
+a(S'5ht1a'
+p22
+I553
+I559
+tp23
+a(S'5ht2a'
+p24
+I537
+I543
+tp25
+a(S'5ht2'
+p26
+I162
+I167
+tp27
+a(S'5ht2'
+p28
+I1295
+I1300
+tp29
+a(S'5ht2a'
+p30
+I434
+I442
+tp31
+a(S'5ht1a'
+p32
+I1712
+I1718
+tp33
+a(S'5ht1a'
+p34
+I434
+I440
+tp35
+a(S'5ht2'
+p36
+I1450
+I1455
+tp37
+a(S'5ht1a'
+p38
+I317
+I323
+tp39
+a(S'5ht2a'
+p40
+I342
+I348
+tp41
+a(S'5ht2'
+p42
+I1706
+I1711
+tp43
+atp44
+Rp45
+sS'raw_text_methods'
+p46
+g3
+((lp47
+S"(13, u'\\\\bagonist')"
+p48
+aS"(27, u'\\\\blsd')"
+p49
+aS"(29, u'\\\\bdiethylamide')"
+p50
+atp51
+Rp52
+sS'regions'
+p53
+g3
+((lp54
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p55
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p56
+atp57
+Rp58
+sS'year'
+p59
+V2014
+p60
+sS'species'
+p61
+g3
+((lp62
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p63
+atp64
+Rp65
+sb.

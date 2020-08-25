@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,41 +10,44 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.STIMULATION'
+S"(7, u'\\\\bdepressi')"
 p9
-aS'Method.ANTAGONIST'
+aS"(9, u'\\\\bstress')"
 p10
-aS'Method.AGONIST'
+aS"(4, u'\\\\btreatment')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(25, u'\\\\bvasoconstrict')"
+(S'5ht1a'
 p16
-aS"(21, u'\\\\bpain')"
-p17
-aS"(9, u'\\\\bdepress')"
+I934
+I940
+tp17
+a(S'5ht1a'
 p18
-atp19
-Rp20
-sS'receptors'
-p21
-g3
-((lp22
-S'5ht1b'
-p23
-aS'5ht2b'
+I839
+I845
+tp19
+a(S'5ht1a'
+p20
+I662
+I668
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-aS'5ht1f'
-p25
-aS'5ht1d'
+g3
+((lp25
+S"(11, u'\\\\bfluoxetine')"
 p26
 atp27
 Rp28
@@ -56,24 +59,16 @@ tp31
 Rp32
 sS'year'
 p33
-V1998
+V2000
 p34
-sS'agonists'
+sS'species'
 p35
 g3
 ((lp36
-S"(96, u'\\\\bsumatriptan')"
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p37
-aS"(149, u'\\\\bmem')"
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p38
-aS"(155, u'\\\\bmcpp')"
-p39
-atp40
-Rp41
-sS'species'
-p42
-g3
-((lp43
-tp44
-Rp45
+atp39
+Rp40
 sb.

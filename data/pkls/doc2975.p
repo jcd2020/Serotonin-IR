@@ -1,0 +1,154 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht7'
+p16
+I1695
+I1700
+tp17
+a(S'5ht1a'
+p18
+I1265
+I1271
+tp19
+a(S'5ht7'
+p20
+I1218
+I1225
+tp21
+a(S'5ht2c'
+p22
+I766
+I774
+tp23
+a(S'5ht2a'
+p24
+I857
+I863
+tp25
+a(S'5ht1a'
+p26
+I1644
+I1650
+tp27
+a(S'5ht2a'
+p28
+I446
+I452
+tp29
+a(S'5ht2'
+p30
+I708
+I714
+tp31
+a(S'5ht1a'
+p32
+I1810
+I1816
+tp33
+a(S'5ht2a'
+p34
+I766
+I772
+tp35
+a(S'5ht1'
+p36
+I708
+I713
+tp37
+a(S'5ht2'
+p38
+I2001
+I2006
+tp39
+a(S'5ht2c'
+p40
+I495
+I501
+tp41
+a(S'5ht1a'
+p42
+I1218
+I1224
+tp43
+a(S'5ht2a'
+p44
+I1944
+I1950
+tp45
+atp46
+Rp47
+sS'raw_text_methods'
+p48
+g3
+((lp49
+S"(33, u'\\\\bmcpp')"
+p50
+aS"(23, u'\\\\bmdl')"
+p51
+aS"(15, u'\\\\b8ohdpat')"
+p52
+aS"(13, u'\\\\bagonist')"
+p53
+aS"(24, u'\\\\bgepirone')"
+p54
+aS"(49, u'\\\\bdoi')"
+p55
+aS"(45, u'\\\\bmetergoline')"
+p56
+aS"(51, u'\\\\bway100635')"
+p57
+aS"(9, u'\\\\britanserin')"
+p58
+aS"(12, u'\\\\bantagonist')"
+p59
+atp60
+Rp61
+sS'regions'
+p62
+g3
+((lp63
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p64
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p65
+atp66
+Rp67
+sS'year'
+p68
+V1997
+p69
+sS'species'
+p70
+g3
+((lp71
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p72
+atp73
+Rp74
+sb.

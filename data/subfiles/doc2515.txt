@@ -1,4 +1,0 @@
-Cowen, P. J. (1991). "SEROTONIN RECEPTOR SUBTYPES - IMPLICATIONS FOR PSYCHOPHARMACOLOGY." British Journal of Psychiatry 159: 7-14.
-
-	Serotonin (5-HT) interacts with multiple brain 5-HT receptor subtypes to influence a wide range of behaviours. Three main families of 5-HT receptors (5-HT1, 5-HT2 and 5-HT3) have been described which differ in their binding affinity for selective ligands, their receptor-effector coupling mechanisms, and the behavioural processes they regulate. Nevertheless, manipulation of several different 5-HT receptor subtypes (5-HT1A, 5-HT1C, 5-HT2 and 5-HT3) may produce anxiolytic effects; 5-HT1A and 5-HT2 receptors may be involved in the aetiology of major depression and the therapeutic effects of antidepressant treatment; and 5-HT3 receptors have been linked to reward mechanisms and cognitive processes. These advances offer therapeutic possibilities, the value of which can only be satisfactorily assessed by controlled clinical trials.
-

@@ -2,68 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
+S'Method.ANTAGONIST'
 p5
-aS"(14, u'\\\\bmethiothepin')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-tp11
-Rp12
-sS'topics'
+S"(30, u'\\\\bpain')"
+p11
+aS"(35, u'\\\\bnocicept')"
+p12
+aS"(3, u'\\\\bclinical')"
 p13
-g3
-((lp14
-S"(3, u'\\\\bsleep')"
-p15
-atp16
-Rp17
+atp14
+Rp15
 sS'receptors'
-p18
+p16
 g3
-((lp19
-S'5ht7'
+((lp17
+(S'5ht1a'
+p18
+I269
+I275
+tp19
+a(S'5ht1a'
 p20
-aS'5ht1a'
-p21
-aS'5ht5'
+I1117
+I1123
+tp21
+a(S'5ht1a'
 p22
-aS'5ht1'
-p23
+I653
+I659
+tp23
 atp24
 Rp25
-sS'regions'
+sS'raw_text_methods'
 p26
 g3
 ((lp27
-tp28
-Rp29
-sS'year'
+S"(13, u'\\\\bagonist')"
+p28
+aS"(47, u'\\\\bsumatriptan')"
+p29
+aS"(22, u'\\\\bbuspirone')"
 p30
-V1999
+aS"(12, u'\\\\bantagonist')"
 p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(23, u'\\\\bclozapine')"
+atp32
+Rp33
+sS'regions'
 p34
-atp35
-Rp36
-sS'species'
-p37
 g3
-((lp38
-tp39
-Rp40
+((lp35
+tp36
+Rp37
+sS'year'
+p38
+V1999
+p39
+sS'species'
+p40
+g3
+((lp41
+tp42
+Rp43
 sb.

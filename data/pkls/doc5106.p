@@ -2,68 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(99, u'\\\\bsb ?242084')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(29, u'\\\\bhyperactiv')"
 p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(4, u'\\\\blocomot')"
-p16
-atp17
-Rp18
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I1605
+I1611
+tp16
+a(S'5ht1a'
+p17
+I314
+I320
+tp18
+a(S'5ht1a'
 p19
+I78
+I84
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp20
-S'5ht2c'
-p21
-atp22
-Rp23
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(15, u'\\\\b8ohdpat')"
+p26
+atp27
+Rp28
 sS'regions'
-p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
-p28
-V2009
 p29
-sS'agonists'
-p30
 g3
-((lp31
-S"(11, u'\\\\bamphetamine')"
-p32
-aS"(182, u'\\\\bway ?161503')"
-p33
-atp34
-Rp35
+((lp30
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p31
+atp32
+Rp33
+sS'year'
+p34
+V2008
+p35
 sS'species'
 p36
 g3
 ((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p38
-atp39
-Rp40
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

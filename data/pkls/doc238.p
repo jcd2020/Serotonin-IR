@@ -2,78 +2,91 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p10
-atp11
-Rp12
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+aS"(9, u'\\\\bstress')"
+p12
+aS"(33, u'\\\\blocomot')"
 p13
-g3
-((lp14
-S"(6, u'\\\\bcognit')"
+aS"(1, u'\\\\bpatient')"
+p14
+aS"(3, u'\\\\bclinical')"
 p15
-aS"(3, u'\\\\bsleep')"
-p16
-aS"(1, u'\\\\bmood')"
-p17
-atp18
-Rp19
+atp16
+Rp17
 sS'receptors'
+p18
+g3
+((lp19
+(S'5ht2a'
 p20
-g3
-((lp21
-S'5ht7'
+I917
+I923
+tp21
+a(S'5ht2a'
 p22
-aS'5ht5'
-p23
-atp24
-Rp25
-sS'regions'
+I1576
+I1582
+tp23
+a(S'5ht2a'
+p24
+I581
+I592
+tp25
+a(S'5ht2a'
 p26
-g3
-((lp27
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I595
+I601
+tp27
+a(S'5ht2a'
 p28
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p29
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
-p33
-V2014
+I75
+I81
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
+p32
+g3
+((lp33
+S"(13, u'\\\\bagonist')"
 p34
-sS'agonists'
+aS"(49, u'\\\\bdoi')"
 p35
+atp36
+Rp37
+sS'regions'
+p38
 g3
-((lp36
-S"(231, u'\\\\blp ?211')"
-p37
-atp38
-Rp39
-sS'species'
-p40
-g3
-((lp41
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+((lp39
+tp40
+Rp41
+sS'year'
 p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2007
 p43
-atp44
-Rp45
+sS'species'
+p44
+g3
+((lp45
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

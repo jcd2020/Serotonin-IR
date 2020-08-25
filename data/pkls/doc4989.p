@@ -1,0 +1,92 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(33, u'\\\\blocomot')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
+p16
+I1157
+I1163
+tp17
+a(S'5ht2a'
+p18
+I1439
+I1445
+tp19
+a(S'5ht2a'
+p20
+I549
+I555
+tp21
+a(S'5ht2a'
+p22
+I403
+I409
+tp23
+a(S'5ht1a'
+p24
+I827
+I833
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
+g3
+((lp29
+S"(13, u'\\\\bagonist')"
+p30
+aS"(15, u'\\\\b8ohdpat')"
+p31
+aS"(53, u'\\\\bketanserin')"
+p32
+aS"(12, u'\\\\bantagonist')"
+p33
+atp34
+Rp35
+sS'regions'
+p36
+g3
+((lp37
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
+p41
+V2002
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p45
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p46
+atp47
+Rp48
+sb.

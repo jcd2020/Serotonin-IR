@@ -1,0 +1,76 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
+p12
+g3
+((lp13
+(S'5ht3'
+p14
+I29
+I34
+tp15
+a(S'5ht3'
+p16
+I465
+I470
+tp17
+a(S'5ht3'
+p18
+I712
+I717
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
+g3
+((lp23
+S"(20, u'\\\\bondansetron')"
+p24
+aS"(28, u'\\\\bzacopride')"
+p25
+aS"(25, u'\\\\bics205930')"
+p26
+aS"(12, u'\\\\bantagonist')"
+p27
+atp28
+Rp29
+sS'regions'
+p30
+g3
+((lp31
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p32
+atp33
+Rp34
+sS'year'
+p35
+V1992
+p36
+sS'species'
+p37
+g3
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
+sb.

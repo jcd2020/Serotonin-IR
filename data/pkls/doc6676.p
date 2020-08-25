@@ -2,29 +2,31 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(193, u'\\\\bmesulergine')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(25, u'\\\\bsocial')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(9, u'\\\\bstress')"
 p13
-g3
-((lp14
-S"(9, u'\\\\bdepress')"
+aS"(8, u'\\\\banxi')"
+p14
+aS"(4, u'\\\\btreatment')"
 p15
 atp16
 Rp17
@@ -32,38 +34,43 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht2c'
+(S'5ht1a'
 p20
-aS'5ht1'
-p21
+I1713
+I1719
+tp21
 atp22
 Rp23
-sS'regions'
+sS'raw_text_methods'
 p24
 g3
 ((lp25
-tp26
-Rp27
-sS'year'
-p28
-V1997
-p29
-sS'agonists'
+S"(13, u'\\\\bagonist')"
+p26
+aS"(36, u'\\\\bbenzodiazepine')"
+p27
+atp28
+Rp29
+sS'regions'
 p30
 g3
 ((lp31
-S"(165, u'\\\\bmesulergine')"
-p32
-atp33
-Rp34
-sS'species'
+tp32
+Rp33
+sS'year'
+p34
+V2013
 p35
+sS'species'
+p36
 g3
-((lp36
-S"(7168, u'(?i)\\\\b(kittens|kitten)\\\\b')"
-p37
-aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+((lp37
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p38
-atp39
-Rp40
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p39
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

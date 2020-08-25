@@ -1,0 +1,90 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
+sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1a'
+p19
+I393
+I399
+tp20
+a(S'5ht1a'
+p21
+I612
+I618
+tp22
+a(S'5ht1a'
+p23
+I890
+I896
+tp24
+a(S'5ht1a'
+p25
+I1605
+I1611
+tp26
+a(S'5ht1a'
+p27
+I56
+I62
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
+g3
+((lp32
+S"(17, u'\\\\bpet')"
+p33
+aS"(19, u'\\\\bpositron emission tomography')"
+p34
+aS"(18, u'\\\\bimaging')"
+p35
+atp36
+Rp37
+sS'regions'
+p38
+g3
+((lp39
+tp40
+Rp41
+sS'year'
+p42
+V2008
+p43
+sS'species'
+p44
+g3
+((lp45
+tp46
+Rp47
+sb.

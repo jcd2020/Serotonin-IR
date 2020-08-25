@@ -2,80 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-S"(9, u'\\\\bdepress')"
-p16
-aS"(11, u'\\\\banxiolyt')"
-p17
-aS"(10, u'\\\\banxiety')"
-p18
-aS"(4, u'\\\\blocomot')"
-p19
-atp20
-Rp21
+((lp10
+tp11
+Rp12
 sS'receptors'
-p22
+p13
 g3
-((lp23
-S'5ht1a'
+((lp14
+(S'5ht1a'
+p15
+I322
+I328
+tp16
+a(S'5ht1a'
+p17
+I50
+I56
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+aS"(17, u'\\\\bpet')"
 p24
-atp25
-Rp26
+aS"(19, u'\\\\bpositron emission tomography')"
+p25
+atp26
+Rp27
 sS'regions'
-p27
+p28
 g3
-((lp28
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp29
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p30
-atp31
-Rp32
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p31
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p32
+atp33
+Rp34
 sS'year'
-p33
-V2011
-p34
-sS'agonists'
 p35
-g3
-((lp36
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p37
-atp38
-Rp39
+V2000
+p36
 sS'species'
-p40
+p37
 g3
-((lp41
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p42
-aS"(6967, u'(?i)\\\\b(scavengers|scavenger)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

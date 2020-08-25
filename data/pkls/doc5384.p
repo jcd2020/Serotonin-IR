@@ -2,74 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(175, u'\\\\bsb ?271046')"
+S'Method.ANTAGONIST'
 p5
-aS"(177, u'\\\\bsb ?399885')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(14, u'\\\\bcogniti')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(33, u'\\\\balzheimers')"
-p16
-aS"(6, u'\\\\bcognit')"
-p17
-aS"(1, u'\\\\bmood')"
-p18
-atp19
-Rp20
+aS"(26, u'\\\\bbehav')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I77
+I88
+tp18
+a(S'5ht1a'
+p19
+I197
+I203
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-S'5ht6'
+I182
+I193
+tp22
+a(S'5ht1a'
 p23
-aS'5ht6a'
-p24
-atp25
-Rp26
-sS'regions'
-p27
+I675
+I681
+tp24
+a(S'5ht1a'
+p25
+I1023
+I1029
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
 g3
-((lp28
-tp29
-Rp30
-sS'year'
+((lp30
+S"(13, u'\\\\bagonist')"
 p31
-V2009
+aS"(15, u'\\\\b8ohdpat')"
 p32
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p33
+atp34
+Rp35
+sS'regions'
+p36
 g3
-((lp34
-tp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp37
+tp38
+Rp39
+sS'year'
 p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+V2004
 p41
-atp42
-Rp43
+sS'species'
+p42
+g3
+((lp43
+tp44
+Rp45
 sb.

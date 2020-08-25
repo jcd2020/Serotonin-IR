@@ -1,0 +1,102 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I777
+I783
+tp18
+a(S'5ht1a'
+p19
+I1683
+I1689
+tp20
+a(S'5ht1a'
+p21
+I2051
+I2057
+tp22
+a(S'5ht1a'
+p23
+I1382
+I1388
+tp24
+a(S'5ht1a'
+p25
+I1117
+I1123
+tp26
+a(S'5ht1a'
+p27
+I112
+I118
+tp28
+a(S'5ht1a'
+p29
+I615
+I621
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
+p33
+g3
+((lp34
+S"(15, u'\\\\b8ohdpat')"
+p35
+aS"(51, u'\\\\bway100635')"
+p36
+aS"(12, u'\\\\bantagonist')"
+p37
+atp38
+Rp39
+sS'regions'
+p40
+g3
+((lp41
+tp42
+Rp43
+sS'year'
+p44
+V2015
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p48
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p49
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
+sb.

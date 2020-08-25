@@ -2,70 +2,72 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S'Method.AGONIST'
 p5
-aS"(21, u'\\\\bpindolol')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp10
-S'Method.STIMULATION'
+((lp9
+S"(3, u'\\\\bclinical')"
+p10
+aS"(10, u'\\\\bocd')"
 p11
-aS'Method.ANTAGONIST'
+aS"(4, u'\\\\btreatment')"
 p12
-aS'Method.AGONIST'
+aS"(2, u'\\\\bdisorder')"
 p13
 atp14
 Rp15
-sS'topics'
+sS'receptors'
 p16
 g3
 ((lp17
-tp18
-Rp19
-sS'receptors'
+(S'5ht1a'
+p18
+I1477
+I1483
+tp19
+a(S'5ht1a'
 p20
+I670
+I676
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp21
-S'5ht1a'
-p22
-atp23
-Rp24
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+aS"(15, u'\\\\b8ohdpat')"
+p27
+atp28
+Rp29
 sS'regions'
-p25
-g3
-((lp26
-tp27
-Rp28
-sS'year'
-p29
-V1991
 p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(39, u'\\\\bflesinoxan')"
-p33
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+((lp31
+tp32
+Rp33
+sS'year'
 p34
-atp35
-Rp36
+V2003
+p35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

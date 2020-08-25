@@ -2,74 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.ANTAGONIST'
 p5
-aS"(94, u'\\\\bnorfluoxetine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp10
-S'Method.AGONIST'
+((lp9
+S"(12, u'\\\\bsleep')"
+p10
+aS"(26, u'\\\\bbehav')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(9, u'\\\\bdepress')"
+(S'5ht1a'
 p16
-atp17
-Rp18
-sS'receptors'
-p19
-g3
-((lp20
-S'5ht2c'
-p21
-aS'5ht2a'
+I611
+I617
+tp17
+a(S'5ht1a'
+p18
+I1244
+I1250
+tp19
+a(S'5ht1a'
+p20
+I338
+I344
+tp21
+a(S'5ht1a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
+I503
+I509
+tp23
+a(S'5ht1a'
+p24
+I98
+I104
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
 g3
-((lp26
-tp27
-Rp28
-sS'year'
-p29
-V2006
+((lp29
+S"(12, u'\\\\bantagonist')"
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(149, u'\\\\bmem')"
+atp31
+Rp32
+sS'regions'
 p33
-aS"(175, u'\\\\bdoi')"
-p34
-atp35
-Rp36
-sS'species'
-p37
 g3
-((lp38
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp34
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p35
+aS"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2001
 p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+sS'species'
 p41
-atp42
-Rp43
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

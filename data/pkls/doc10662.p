@@ -2,64 +2,106 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(103, u'\\\\bclomipramine')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.STIMULATION'
+S"(7, u'\\\\bdepressi')"
 p10
-aS'Method.PET'
+aS"(13, u'\\\\bantidepress')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
+((lp16
+(S'5ht1a'
+p17
+I360
+I371
+tp18
+a(S'5ht1a'
+p19
+I1114
+I1125
 tp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
+a(S'5ht1a'
+p21
+I1374
+I1385
+tp22
+a(S'5ht1a'
+p23
+I689
+I700
+tp24
+a(S'5ht1a'
+p25
+I1554
+I1565
+tp26
+a(S'5ht1a'
 p27
-V2003
-p28
-sS'agonists'
+I47
+I58
+tp28
+a(S'5ht1a'
 p29
-g3
-((lp30
-tp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I970
+I981
+tp30
+a(S'5ht1a'
+p31
+I856
+I867
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
 p35
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p36
-atp37
-Rp38
+g3
+((lp36
+S"(13, u'\\\\bagonist')"
+p37
+aS"(15, u'\\\\b8ohdpat')"
+p38
+atp39
+Rp40
+sS'regions'
+p41
+g3
+((lp42
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p43
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p44
+aS"(14, u'(?i)\\\\b(caudals|caudal)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V1998
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

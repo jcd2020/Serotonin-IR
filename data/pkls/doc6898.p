@@ -2,70 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(131, u'\\\\bm1')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.PET'
+S"(15, u'\\\\bmemory')"
 p10
-aS'Method.ANTAGONIST'
+aS"(17, u'\\\\balzheimer')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(15, u'\\\\bschizophreni')"
-p16
-aS"(1, u'\\\\bmood')"
-p17
-atp18
-Rp19
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
-p20
+p15
 g3
-((lp21
-S'5ht2a'
-p22
+((lp16
+(S'5ht4'
+p17
+I443
+I448
+tp18
+a(S'5ht4'
+p19
+I102
+I107
+tp20
+a(S'5ht4'
+p21
+I414
+I419
+tp22
 atp23
 Rp24
-sS'regions'
+sS'raw_text_methods'
 p25
 g3
 ((lp26
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p27
 atp28
 Rp29
-sS'year'
+sS'regions'
 p30
-V2006
-p31
-sS'agonists'
-p32
 g3
-((lp33
-tp34
-Rp35
+((lp31
+tp32
+Rp33
+sS'year'
+p34
+V2011
+p35
 sS'species'
 p36
 g3
 ((lp37
-S"(4635, u'(?i)\\\\b(baboons|baboon)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sb.

@@ -2,80 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(13, u'\\\\bmefway')"
+S'Method.ANTAGONIST'
 p5
-aS"(31, u'\\\\bway ?100635')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.PET'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+tp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp14
+(S'5ht3'
+p15
+I678
+I683
+tp16
+a(S'5ht2'
+p17
+I1751
+I1756
+tp18
+a(S'5ht2'
+p19
+I1583
+I1588
+tp20
+a(S'5ht1'
+p21
+I1464
+I1469
+tp22
+a(S'5ht2'
 p23
+I593
+I598
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp24
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
-p28
-V2006
+((lp28
+S"(53, u'\\\\bketanserin')"
 p29
-sS'agonists'
+aS"(15, u'\\\\b8ohdpat')"
 p30
-g3
-((lp31
-tp32
-Rp33
-sS'species'
+aS"(20, u'\\\\bondansetron')"
+p31
+aS"(13, u'\\\\bagonist')"
+p32
+aS"(11, u'\\\\bfluoxetine')"
+p33
+aS"(47, u'\\\\bsumatriptan')"
 p34
-g3
-((lp35
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p36
-aS"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
-p37
-aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
+p35
+atp36
+Rp37
+sS'regions'
 p38
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p39
-aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p40
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+g3
+((lp39
+tp40
+Rp41
+sS'year'
 p42
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+V2001
 p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p44
-atp45
-Rp46
+g3
+((lp45
+tp46
+Rp47
 sb.

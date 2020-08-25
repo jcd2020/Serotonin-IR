@@ -2,60 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(18, u'\\\\bavoidan')"
+p10
+aS"(26, u'\\\\bbehav')"
 p11
-g3
-((lp12
-tp13
-Rp14
+atp12
+Rp13
 sS'receptors'
-p15
+p14
 g3
-((lp16
-S'5ht2a'
-p17
+((lp15
+(S'5ht1a'
+p16
+I725
+I736
+tp17
 atp18
 Rp19
-sS'regions'
+sS'raw_text_methods'
 p20
 g3
 ((lp21
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p22
-atp23
-Rp24
-sS'year'
-p25
-V1995
+aS"(15, u'\\\\b8ohdpat')"
+p23
+atp24
+Rp25
+sS'regions'
 p26
-sS'agonists'
-p27
 g3
-((lp28
-tp29
-Rp30
-sS'species'
-p31
-g3
-((lp32
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+((lp27
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p28
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p29
+atp30
+Rp31
+sS'year'
+p32
+V2007
 p33
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p34
-atp35
-Rp36
+g3
+((lp35
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

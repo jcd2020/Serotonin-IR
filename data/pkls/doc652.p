@@ -2,76 +2,66 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(5, u'\\\\btherap')"
+p11
+aS"(3, u'\\\\bclinical')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht5'
-p18
-aS'5ht1a'
+((lp16
+(S'5ht3'
+p17
+I167
+I172
+tp18
+a(S'5ht3'
 p19
-aS'5ht2c'
-p20
+I23
+I28
+tp20
 atp21
 Rp22
-sS'regions'
+sS'raw_text_methods'
 p23
 g3
 ((lp24
-S"(124, u'(?i)\\\\b(thirds|third)(-|\\\\s+)?(ventricles|ventricle)\\\\b')"
+S"(12, u'\\\\bantagonist')"
 p25
 atp26
 Rp27
-sS'year'
+sS'regions'
 p28
-V2014
-p29
-sS'agonists'
-p30
 g3
-((lp31
-S"(134, u'\\\\br ?doi')"
+((lp29
+tp30
+Rp31
+sS'year'
 p32
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+V2005
 p33
-aS"(175, u'\\\\bdoi')"
-p34
-atp35
-Rp36
 sS'species'
-p37
+p34
 g3
-((lp38
-S"(6517, u'(?i)\\\\b(birds|bird)\\\\b')"
-p39
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p40
-aS"(2568, u'(?i)\\\\b(hens|hen)\\\\b')"
-p41
-aS"(4476, u'(?i)\\\\b(turkeys|turkey)\\\\b')"
-p42
-atp43
-Rp44
+((lp35
+tp36
+Rp37
 sb.

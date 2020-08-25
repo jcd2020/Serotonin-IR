@@ -1,0 +1,111 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(31, u'\\\\brespiratory')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht3'
+p17
+I962
+I967
+tp18
+a(S'5ht3'
+p19
+I1330
+I1335
+tp20
+a(S'5ht3'
+p21
+I751
+I756
+tp22
+a(S'5ht3'
+p23
+I60
+I65
+tp24
+a(S'5ht5'
+p25
+I238
+I248
+tp26
+a(S'5ht3'
+p27
+I1141
+I1146
+tp28
+a(S'5ht3'
+p29
+I1727
+I1732
+tp30
+a(S'5ht3'
+p31
+I1482
+I1487
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
+p35
+g3
+((lp36
+S"(20, u'\\\\bondansetron')"
+p37
+aS"(13, u'\\\\bagonist')"
+p38
+aS"(11, u'\\\\bfluoxetine')"
+p39
+aS"(38, u'\\\\bssri')"
+p40
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p41
+aS"(12, u'\\\\bantagonist')"
+p42
+atp43
+Rp44
+sS'regions'
+p45
+g3
+((lp46
+tp47
+Rp48
+sS'year'
+p49
+V2016
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p53
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p54
+atp55
+Rp56
+sb.

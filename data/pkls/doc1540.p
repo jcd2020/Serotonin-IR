@@ -2,72 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
 tp10
 Rp11
-sS'topics'
+sS'receptors'
 p12
 g3
 ((lp13
-S"(26, u'\\\\bcardiovascular')"
+(S'5ht1b'
 p14
-aS"(18, u'\\\\bpsychostim')"
-p15
-aS"(37, u'\\\\baddict')"
+I1892
+I1898
+tp15
+a(S'5ht1b'
 p16
-atp17
-Rp18
-sS'receptors'
-p19
+I1298
+I1304
+tp17
+a(S'5ht1b'
+p18
+I720
+I726
+tp19
+a(S'5ht1'
+p20
+I305
+I310
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp20
-S'5ht2c'
-p21
-aS'5ht2a'
-p22
-atp23
-Rp24
+((lp25
+S"(12, u'\\\\bantagonist')"
+p26
+atp27
+Rp28
 sS'regions'
-p25
+p29
 g3
-((lp26
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V2008
+((lp30
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p31
-sS'agonists'
-p32
-g3
-((lp33
-tp34
-Rp35
+atp32
+Rp33
+sS'year'
+p34
+V2003
+p35
 sS'species'
 p36
 g3
 ((lp37
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
-p39
-aS"(3527, u'(?i)\\\\b(permits|permit)\\\\b')"
-p40
-atp41
-Rp42
+atp39
+Rp40
 sb.

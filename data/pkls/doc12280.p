@@ -2,78 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
 p11
-g3
-((lp12
-S"(29, u'\\\\bsex')"
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(9, u'\\\\bstress')"
 p13
-aS"(6, u'\\\\bcognit')"
+aS"(4, u'\\\\btreatment')"
 p14
-aS"(16, u'\\\\bfeed')"
-p15
-aS"(1, u'\\\\bmood')"
-p16
-atp17
-Rp18
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1a'
 p19
-g3
-((lp20
-S'5ht2a'
+I1495
+I1506
+tp20
+a(S'5ht1a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
+I1509
+I1515
+tp22
+a(S'5ht1a'
+p23
+I1680
+I1686
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
-p28
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+g3
+((lp28
+S"(51, u'\\\\bway100635')"
 p29
-atp30
-Rp31
-sS'year'
-p32
-V2007
+aS"(12, u'\\\\bantagonist')"
+p30
+atp31
+Rp32
+sS'regions'
 p33
-sS'agonists'
-p34
 g3
-((lp35
-tp36
-Rp37
-sS'species'
+((lp34
+tp35
+Rp36
+sS'year'
+p37
+V2009
 p38
+sS'species'
+p39
 g3
-((lp39
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp40
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p42
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p43
-atp44
-Rp45
+atp43
+Rp44
 sb.

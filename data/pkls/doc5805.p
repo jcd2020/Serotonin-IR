@@ -2,68 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(121, u'\\\\bsb ?243213')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-tp16
-Rp17
+((lp8
+S"(20, u'\\\\bmood')"
+p9
+aS"(13, u'\\\\bantidepress')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(16, u'\\\\blearning')"
+p12
+aS"(15, u'\\\\bmemory')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht3'
 p18
-g3
-((lp19
-S'5ht2c'
+I982
+I987
+tp19
+a(S'5ht3'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(105, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(reticulatas|reticulata)\\\\b')"
-p25
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+I811
+I816
+tp21
+a(S'5ht3'
+p22
+I1056
+I1061
+tp23
+a(S'5ht5'
+p24
+I452
+I462
+tp25
+a(S'5ht3'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2007
+I31
+I36
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(155, u'\\\\bmcpp')"
-p33
-atp34
-Rp35
-sS'species'
-p36
+((lp31
+tp32
+Rp33
+sS'regions'
+p34
 g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp35
+tp36
+Rp37
+sS'year'
 p38
-atp39
-Rp40
+V2015
+p39
+sS'species'
+p40
+g3
+((lp41
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p42
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p43
+atp44
+Rp45
 sb.

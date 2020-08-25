@@ -1,0 +1,4 @@
+Mathis, C. A., et al. (1996). "Synthesis and preliminary in vivo evaluation of C-11 MDL 100907: A potent and selective radioligand for the 5-HT2A receptor system." Medicinal Chemistry Research 6(1): 1-10.
+
+	C-11-Labeled MDL 100907 and MDL 100009 were prepared by the reaction of [C-11]CH3I with the corresponding phenol precursors. In vivo studies conducted in rats and a baboon demonstrated that intravenously injected [2-O[C-11]CH3]MDL 100907 was regionally distributed in the brain in a manner consistent with the known distribution of 5-HT2A receptors. Injection of [2-O[C-11]CH3]MDL 100009 resulted in a uniform brain distribution of radioactivity without regional localization consistent with the lower affinity of MDL 100009 for 5-HT2A receptors.
+

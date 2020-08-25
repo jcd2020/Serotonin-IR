@@ -2,84 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(119, u'\\\\britanserin')"
+S'Method.STIMULATION'
 p5
-aS"(21, u'\\\\bpindolol')"
+aS'Method.ANTAGONIST'
 p6
-aS"(31, u'\\\\bway ?100635')"
-p7
-aS"(11, u'\\\\bisamoltane')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p7
+atp8
+Rp9
 sS'topics'
-p17
+p10
 g3
-((lp18
-S"(29, u'\\\\bsex')"
-p19
-atp20
-Rp21
+((lp11
+S"(26, u'\\\\bbehav')"
+p12
+atp13
+Rp14
 sS'receptors'
-p22
+p15
 g3
-((lp23
-S'5ht1b'
-p24
-aS'5ht1a'
+((lp16
+(S'5ht1b'
+p17
+I1135
+I1140
+tp18
+a(S'5ht1b'
+p19
+I475
+I481
+tp20
+a(S'5ht1d'
+p21
+I551
+I557
+tp22
+a(S'5ht1b'
+p23
+I346
+I352
+tp24
+a(S'5ht1b'
 p25
-aS'5ht2c'
-p26
-aS'5ht1'
+I1261
+I1267
+tp26
+a(S'5ht1b'
 p27
-aS'5ht2a'
-p28
+I1044
+I1050
+tp28
 atp29
 Rp30
-sS'regions'
+sS'raw_text_methods'
 p31
 g3
 ((lp32
-tp33
-Rp34
-sS'year'
+S"(13, u'\\\\bagonist')"
+p33
+aS"(47, u'\\\\bsumatriptan')"
+p34
+aS"(12, u'\\\\bantagonist')"
 p35
-V1998
-p36
-sS'agonists'
-p37
+atp36
+Rp37
+sS'regions'
+p38
 g3
-((lp38
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p39
-aS"(175, u'\\\\bdoi')"
+((lp39
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p40
 atp41
 Rp42
-sS'species'
+sS'year'
 p43
-g3
-((lp44
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+V2004
+p44
+sS'species'
 p45
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p46
-atp47
-Rp48
+g3
+((lp46
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p47
+atp48
+Rp49
 sb.

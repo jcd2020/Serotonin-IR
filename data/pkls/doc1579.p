@@ -2,70 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
+tp5
+Rp6
+sS'topics'
+p7
 g3
-((lp9
-S'Method.AGONIST'
+((lp8
+S"(5, u'\\\\btherap')"
+p9
+aS"(26, u'\\\\bbehav')"
 p10
-aS'Method.IMMUNOHISTOCHEMISTRY'
+aS"(33, u'\\\\blocomot')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
-p18
-g3
-((lp19
-S'5ht2a'
+(S'5ht2c'
+p16
+I781
+I792
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-atp21
-Rp22
+g3
+((lp21
+tp22
+Rp23
 sS'regions'
-p23
+p24
 g3
-((lp24
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p25
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp25
+S"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p26
-atp27
-Rp28
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p27
+atp28
+Rp29
 sS'year'
-p29
-V2005
 p30
-sS'agonists'
+V2004
 p31
-g3
-((lp32
-S"(23, u'\\\\bclozapine')"
-p33
-atp34
-Rp35
 sS'species'
-p36
+p32
 g3
-((lp37
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+((lp33
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p34
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p35
+atp36
+Rp37
 sb.

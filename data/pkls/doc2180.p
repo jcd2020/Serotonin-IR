@@ -2,66 +2,101 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+aS"(15, u'\\\\bmemory')"
 p12
-g3
-((lp13
-tp14
-Rp15
+aS"(17, u'\\\\balzheimer')"
+p13
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
+((lp18
+(S'5ht6'
+p19
+I216
+I221
+tp20
+a(S'5ht6'
 p21
-g3
-((lp22
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I605
+I610
+tp22
+a(S'5ht6'
 p23
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
+I1460
+I1465
+tp24
+a(S'5ht6'
+p25
+I1731
+I1736
+tp26
+a(S'5ht6'
 p27
-V2012
-p28
-sS'agonists'
+I54
+I59
+tp28
+a(S'5ht6'
 p29
-g3
-((lp30
-tp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+I572
+I577
+tp30
+a(S'5ht6'
+p31
+I1821
+I1826
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
 p35
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp36
+S"(17, u'\\\\bpet')"
 p37
-atp38
-Rp39
+aS"(54, u'\\\\bautoradiography')"
+p38
+atp39
+Rp40
+sS'regions'
+p41
+g3
+((lp42
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p43
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p44
+atp45
+Rp46
+sS'year'
+p47
+V2020
+p48
+sS'species'
+p49
+g3
+((lp50
+tp51
+Rp52
 sb.

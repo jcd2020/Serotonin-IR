@@ -2,74 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
 p12
 g3
 ((lp13
-S"(8, u'\\\\blearning')"
+(S'5ht1a'
 p14
-aS"(7, u'\\\\bmemory')"
-p15
-atp16
-Rp17
-sS'receptors'
-p18
-g3
-((lp19
-S'5ht1a'
+I2051
+I2057
+tp15
+a(S'5ht1a'
+p16
+I248
+I254
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-atp21
-Rp22
-sS'regions'
+g3
+((lp21
+S"(17, u'\\\\bpet')"
+p22
+aS"(18, u'\\\\bimaging')"
 p23
-g3
-((lp24
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p25
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+atp24
+Rp25
+sS'regions'
 p26
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-aS"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
-p28
-atp29
-Rp30
+g3
+((lp27
+tp28
+Rp29
 sS'year'
+p30
+V2013
 p31
-V2008
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(149, u'\\\\bmem')"
-p35
-atp36
-Rp37
 sS'species'
-p38
+p32
 g3
-((lp39
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+((lp33
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p34
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p35
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p36
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p37
+atp38
+Rp39
 sb.

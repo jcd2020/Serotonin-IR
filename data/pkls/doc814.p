@@ -2,80 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(18, u'\\\\bpsychostim')"
-p14
-aS"(9, u'\\\\bdepress')"
-p15
-aS"(35, u'\\\\bstress')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-aS"(20, u'\\\\baggressi')"
-p18
-atp19
-Rp20
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p21
+p14
 g3
-((lp22
-S'5ht1a'
-p23
+((lp15
+(S'5ht2c'
+p16
+I159
+I165
+tp17
+a(S'5ht2c'
+p18
+I267
+I273
+tp19
+a(S'5ht2c'
+p20
+I481
+I487
+tp21
+a(S'5ht2c'
+p22
+I705
+I711
+tp23
 atp24
 Rp25
-sS'regions'
+sS'raw_text_methods'
 p26
 g3
 ((lp27
-tp28
-Rp29
-sS'year'
-p30
-V1995
-p31
-sS'agonists'
+S"(13, u'\\\\bagonist')"
+p28
+aS"(12, u'\\\\bantagonist')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
 g3
 ((lp33
 tp34
 Rp35
-sS'species'
+sS'year'
 p36
-g3
-((lp37
-S"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
+V2011
+p37
+sS'species'
 p38
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p41
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p44
-atp45
-Rp46
+g3
+((lp39
+tp40
+Rp41
 sb.

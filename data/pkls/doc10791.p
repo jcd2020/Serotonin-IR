@@ -2,67 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(133, u'\\\\bmianserin')"
+S'Method.ANTAGONIST'
 p5
-aS"(26, u'\\\\bspiperone')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+aS"(33, u'\\\\blocomot')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
 p18
+I808
+I814
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
 g3
-((lp19
-S'5ht1a'
-p20
-aS'5ht2a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp23
+S"(13, u'\\\\bagonist')"
 p24
-g3
-((lp25
-S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+aS"(41, u'\\\\bhaloperidol')"
+p25
+aS"(42, u'\\\\bneuroleptics')"
 p26
-atp27
-Rp28
-sS'year'
-p29
-V1990
+aS"(12, u'\\\\bantagonist')"
+p27
+atp28
+Rp29
+sS'regions'
 p30
-sS'agonists'
-p31
 g3
-((lp32
-tp33
-Rp34
-sS'species'
+((lp31
+tp32
+Rp33
+sS'year'
+p34
+V1993
 p35
+sS'species'
+p36
 g3
-((lp36
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
 atp39
 Rp40

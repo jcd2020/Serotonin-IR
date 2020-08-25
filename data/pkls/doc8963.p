@@ -2,78 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(203, u'\\\\btfmpp')"
-p5
-aS"(89, u'\\\\beltoprazine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.AGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-S"(20, u'\\\\baggressi')"
-p16
-atp17
-Rp18
+((lp8
+S"(6, u'\\\\baggressi')"
+p9
+aS"(26, u'\\\\bbehav')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht7'
+p15
+I1340
+I1345
+tp16
+a(S'5ht1a'
+p17
+I953
+I959
+tp18
+a(S'5ht1a'
 p19
-g3
-((lp20
-S'5ht1c'
+I211
+I217
+tp20
+a(S'5ht1'
 p21
-aS'5ht1b'
-p22
-aS'5ht1a'
+I1328
+I1333
+tp22
+a(S'5ht1a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
+I1308
+I1314
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp27
-S"(390, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)\\\\b')"
-p28
-atp29
+((lp28
+tp29
 Rp30
-sS'year'
+sS'regions'
 p31
-V1992
-p32
-sS'agonists'
+g3
+((lp32
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p33
-g3
-((lp34
-S"(178, u'\\\\btfmpp')"
-p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p36
-aS"(31, u'\\\\beltoprazine')"
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p34
+atp35
+Rp36
+sS'year'
 p37
-atp38
-Rp39
+V1998
+p38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

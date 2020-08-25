@@ -2,75 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(128, u'\\\\bmetoclopramide')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht1a'
+p14
+I1011
+I1017
+tp15
+a(S'5ht1a'
+p16
+I153
+I159
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht3a'
+I1183
+I1189
+tp19
+a(S'5ht1a'
 p20
-aS'5ht3'
-p21
-atp22
-Rp23
-sS'regions'
-p24
+I331
+I337
+tp21
+a(S'5ht1a'
+p22
+I377
+I383
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp25
-tp26
-Rp27
-sS'year'
+((lp27
+S"(13, u'\\\\bagonist')"
 p28
-V1997
+aS"(15, u'\\\\b8ohdpat')"
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(209, u'\\\\bmetoclopramide')"
+atp30
+Rp31
+sS'regions'
 p32
-aS"(149, u'\\\\bmem')"
-p33
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
-p34
-atp35
-Rp36
-sS'species'
-p37
 g3
-((lp38
-S"(3883, u'(?i)\\\\b(teleosts|teleost)\\\\b')"
+((lp33
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p34
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
+p38
+V1993
 p39
-aS"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+sS'species'
 p40
-aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
-p41
-aS"(3882, u'(?i)\\\\b(teleosts|teleost)(-|\\\\s+)?(fish|fish)\\\\b')"
+g3
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
 atp43
 Rp44

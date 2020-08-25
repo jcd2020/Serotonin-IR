@@ -2,76 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.ANTAGONIST'
 p5
-aS"(113, u'\\\\brisperidone')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(31, u'\\\\brespiratory')"
 p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-tp17
-Rp18
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1a'
-p21
-aS'5ht2'
+((lp15
+(S'5ht1'
+p16
+I918
+I923
+tp17
+a(S'5ht1'
+p18
+I571
+I576
+tp19
+a(S'5ht1'
+p20
+I619
+I624
+tp21
+a(S'5ht1a'
 p22
-aS'5ht2a'
-p23
+I472
+I478
+tp23
 atp24
 Rp25
-sS'regions'
+sS'raw_text_methods'
 p26
 g3
 ((lp27
-tp28
-Rp29
-sS'year'
+S"(13, u'\\\\bagonist')"
+p28
+aS"(15, u'\\\\b8ohdpat')"
+p29
+aS"(12, u'\\\\bantagonist')"
 p30
-V2011
-p31
-sS'agonists'
-p32
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp33
-S"(20, u'\\\\bbuspirone')"
-p34
-aS"(149, u'\\\\bmem')"
+((lp34
+S"(14, u'(?i)\\\\b(caudals|caudal)\\\\b')"
 p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p36
-atp37
-Rp38
-sS'species'
+atp36
+Rp37
+sS'year'
+p38
+V2000
 p39
+sS'species'
+p40
 g3
-((lp40
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p41
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p42
-atp43
-Rp44
+((lp41
+tp42
+Rp43
 sb.

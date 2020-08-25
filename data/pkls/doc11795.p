@@ -2,68 +2,103 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-S"(6, u'\\\\bcognit')"
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(20, u'\\\\bmood')"
 p14
-aS"(11, u'\\\\banxiolyt')"
+aS"(5, u'\\\\btherap')"
 p15
-aS"(10, u'\\\\banxiety')"
+aS"(1, u'\\\\bpatient')"
 p16
-atp17
-Rp18
+aS"(4, u'\\\\btreatment')"
+p17
+atp18
+Rp19
 sS'receptors'
-p19
+p20
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp21
+(S'5ht7'
+p22
+I716
+I721
+tp23
+a(S'5ht7'
 p24
-g3
-((lp25
-S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+I330
+I335
+tp25
+a(S'5ht7'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2000
+I1346
+I1351
+tp27
+a(S'5ht7'
+p28
+I791
+I796
+tp29
+a(S'5ht7'
 p30
-sS'agonists'
-p31
+I89
+I94
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
+p34
 g3
-((lp32
-S"(20, u'\\\\bbuspirone')"
-p33
-atp34
-Rp35
-sS'species'
+((lp35
+S"(13, u'\\\\bagonist')"
 p36
-g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(38, u'\\\\bssri')"
+p37
+aS"(12, u'\\\\bantagonist')"
 p38
 atp39
 Rp40
+sS'regions'
+p41
+g3
+((lp42
+tp43
+Rp44
+sS'year'
+p45
+V2013
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p49
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p50
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p51
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

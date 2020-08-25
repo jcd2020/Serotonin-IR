@@ -2,66 +2,92 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(23, u'\\\\bantipsychotic')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(7, u'\\\\bmemory')"
+(S'5ht2'
 p15
-atp16
-Rp17
-sS'receptors'
-p18
-g3
-((lp19
-S'5ht3'
-p20
-atp21
-Rp22
-sS'regions'
+I512
+I517
+tp16
+a(S'5ht2'
+p17
+I792
+I797
+tp18
+a(S'5ht4'
+p19
+I1333
+I1339
+tp20
+a(S'5ht2'
+p21
+I1857
+I1862
+tp22
+a(S'5ht2'
 p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
-p27
-V2016
-p28
-sS'agonists'
+I923
+I928
+tp24
+a(S'5ht3'
+p25
+I1333
+I1338
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
 g3
 ((lp30
-S"(149, u'\\\\bmem')"
+S"(40, u'\\\\bclozapine')"
 p31
-atp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+aS"(9, u'\\\\britanserin')"
+p32
+aS"(12, u'\\\\bantagonist')"
+p33
+atp34
+Rp35
+sS'regions'
 p36
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p37
-atp38
-Rp39
+g3
+((lp37
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p38
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p39
+atp40
+Rp41
+sS'year'
+p42
+V1996
+p43
+sS'species'
+p44
+g3
+((lp45
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

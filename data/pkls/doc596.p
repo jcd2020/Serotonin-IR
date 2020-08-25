@@ -2,96 +2,61 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\bmetergoline')"
+S'Method.AGONIST'
 p5
-aS"(133, u'\\\\bmianserin')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(22, u'\\\\bpropranolol')"
-p8
-aS"(33, u'\\\\byohimbine')"
-p9
-aS"(26, u'\\\\bspiperone')"
-p10
-aS"(194, u'\\\\bmethysergide')"
-p11
-aS"(119, u'\\\\britanserin')"
-p12
-atp13
-Rp14
-sS'methods'
-p15
-g3
-((lp16
-tp17
-Rp18
+atp6
+Rp7
 sS'topics'
-p19
+p8
 g3
-((lp20
-tp21
-Rp22
+((lp9
+S"(16, u'\\\\blearning')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p23
+p14
 g3
-((lp24
-S'5ht1d'
-p25
-atp26
-Rp27
+((lp15
+(S'5ht1a'
+p16
+I844
+I850
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(13, u'\\\\bagonist')"
+p22
+atp23
+Rp24
 sS'regions'
-p28
+p25
 g3
-((lp29
-S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
-p30
-atp31
-Rp32
+((lp26
+tp27
+Rp28
 sS'year'
-p33
-V1993
-p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(96, u'\\\\bsumatriptan')"
-p37
-aS"(149, u'\\\\bmem')"
-p38
-aS"(175, u'\\\\bdoi')"
-p39
-aS"(65, u'\\\\brauwolscine')"
-p40
-aS"(82, u'\\\\byohimbine')"
-p41
-aS"(53, u'\\\\bmethysergide')"
-p42
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p43
-aS"(219, u'\\\\b5 ?ct')"
-p44
-atp45
-Rp46
+p29
+V1995
+p30
 sS'species'
-p47
+p31
 g3
-((lp48
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p49
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p50
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p51
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p52
-atp53
-Rp54
+((lp32
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p33
+atp34
+Rp35
 sb.

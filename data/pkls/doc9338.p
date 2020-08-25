@@ -2,80 +2,115 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
+S'Method.PET'
 p5
-aS"(194, u'\\\\bmethysergide')"
+aS'Method.ANTAGONIST'
 p6
-aS"(21, u'\\\\bpindolol')"
-p7
-aS"(33, u'\\\\byohimbine')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
+atp7
+Rp8
+sS'topics'
+p9
 g3
-((lp12
-S'Method.AGONIST'
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(1, u'\\\\bpatient')"
+p12
+aS"(3, u'\\\\bclinical')"
 p13
 atp14
 Rp15
-sS'topics'
+sS'receptors'
 p16
 g3
 ((lp17
-tp18
-Rp19
-sS'receptors'
+(S'5ht2a'
+p18
+I372
+I378
+tp19
+a(S'5ht2a'
 p20
-g3
-((lp21
-S'5ht1b'
+I1220
+I1226
+tp21
+a(S'5ht2a'
 p22
-aS'5ht1'
-p23
-atp24
-Rp25
-sS'regions'
+I64
+I75
+tp23
+a(S'5ht2a'
+p24
+I573
+I579
+tp25
+a(S'5ht2'
 p26
-g3
-((lp27
-tp28
-Rp29
-sS'year'
+I573
+I579
+tp27
+a(S'5ht2'
+p28
+I1656
+I1662
+tp29
+a(S'5ht2a'
 p30
-V1992
-p31
-sS'agonists'
+I947
+I953
+tp31
+a(S'5ht2a'
 p32
-g3
-((lp33
-S"(20, u'\\\\bbuspirone')"
+I1416
+I1422
+tp33
+a(S'5ht2a'
 p34
-aS"(45, u'\\\\bipsapirone')"
-p35
-aS"(53, u'\\\\bmethysergide')"
+I1656
+I1662
+tp35
+a(S'5ht2'
 p36
-aS"(149, u'\\\\bmem')"
-p37
-aS"(82, u'\\\\byohimbine')"
+I947
+I953
+tp37
+a(S'5ht2a'
 p38
-atp39
-Rp40
-sS'species'
-p41
+I1835
+I1841
+tp39
+atp40
+Rp41
+sS'raw_text_methods'
+p42
 g3
-((lp42
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p43
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+((lp43
+S"(41, u'\\\\bhaloperidol')"
 p44
-atp45
-Rp46
+aS"(17, u'\\\\bpet')"
+p45
+atp46
+Rp47
+sS'regions'
+p48
+g3
+((lp49
+tp50
+Rp51
+sS'year'
+p52
+V2007
+p53
+sS'species'
+p54
+g3
+((lp55
+tp56
+Rp57
 sb.

@@ -2,73 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(7, u'\\\\bdepressi')"
 p11
-g3
-((lp12
-tp13
-Rp14
-sS'receptors'
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(1, u'\\\\bpatient')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(3, u'\\\\bclinical')"
 p15
-g3
-((lp16
-S'5ht1c'
-p17
-aS'5ht5'
+atp16
+Rp17
+sS'receptors'
 p18
-aS'5ht1a'
-p19
-aS'5ht2'
+g3
+((lp19
+(S'5ht2a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
+I1263
+I1269
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp24
-S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p25
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+((lp25
+S"(13, u'\\\\bagonist')"
 p26
-aS"(310, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)\\\\b')"
+aS"(49, u'\\\\bdoi')"
 p27
-aS"(316, u'(?i)\\\\b(nigrostriatals|nigrostriatal)(-|\\\\s+)?(pathways|pathway)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
-p31
-V1995
+atp28
+Rp29
+sS'regions'
+p30
+g3
+((lp31
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p32
-sS'agonists'
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p33
-g3
-((lp34
-tp35
-Rp36
-sS'species'
+atp34
+Rp35
+sS'year'
+p36
+V2005
 p37
+sS'species'
+p38
 g3
-((lp38
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p39
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+((lp39
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
 atp42
 Rp43

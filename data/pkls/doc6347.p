@@ -2,84 +2,132 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(99, u'\\\\bsb ?242084')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.STIMULATION'
-p10
-aS'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(33, u'\\\\blocomot')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(7, u'\\\\bdepressi')"
+p14
+aS"(9, u'\\\\bstress')"
 p15
-g3
-((lp16
-S"(37, u'\\\\baddict')"
-p17
-aS"(18, u'\\\\bpsychostim')"
-p18
-atp19
-Rp20
+atp16
+Rp17
 sS'receptors'
-p21
+p18
 g3
-((lp22
-S'5ht2c'
-p23
-aS'5ht2a'
+((lp19
+(S'5ht1a'
+p20
+I441
+I447
+tp21
+a(S'5ht1'
+p22
+I458
+I463
+tp23
+a(S'5ht1'
 p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p29
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1745
+I1750
+tp25
+a(S'5ht1'
+p26
+I2870
+I2875
+tp27
+a(S'5ht1'
+p28
+I862
+I867
+tp29
+a(S'5ht1'
 p30
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p31
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+I2389
+I2394
+tp31
+a(S'5ht1'
 p32
-atp33
-Rp34
-sS'year'
-p35
-V2011
+I2627
+I2632
+tp33
+a(S'5ht1'
+p34
+I1375
+I1380
+tp35
+a(S'5ht1'
 p36
-sS'agonists'
-p37
-g3
-((lp38
-S"(125, u'\\\\btcb ?2')"
-p39
-aS"(182, u'\\\\bway ?161503')"
+I1303
+I1308
+tp37
+a(S'5ht1'
+p38
+I2829
+I2834
+tp39
+a(S'5ht5'
 p40
-atp41
-Rp42
-sS'species'
-p43
-g3
-((lp44
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p45
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I2377
+I2382
+tp41
+a(S'5ht1'
+p42
+I797
+I802
+tp43
+atp44
+Rp45
+sS'raw_text_methods'
 p46
-atp47
-Rp48
+g3
+((lp47
+S"(46, u'\\\\bspiperone')"
+p48
+aS"(4, u'\\\\bpcpa')"
+p49
+aS"(12, u'\\\\bantagonist')"
+p50
+atp51
+Rp52
+sS'regions'
+p53
+g3
+((lp54
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p55
+atp56
+Rp57
+sS'year'
+p58
+V2009
+p59
+sS'species'
+p60
+g3
+((lp61
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p62
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p63
+atp64
+Rp65
 sb.

@@ -2,70 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(125, u'\\\\btropisetron')"
+S'Method.STAINING'
 p5
-aS"(206, u'\\\\bbromocriptine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-tp16
-Rp17
+((lp9
+S"(9, u'\\\\bstress')"
+p10
+atp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht3'
-p20
+((lp14
+(S'5ht1a'
+p15
+I1472
+I1478
+tp16
+a(S'5ht1a'
+p17
+I27
+I33
+tp18
+a(S'5ht1a'
+p19
+I270
+I276
+tp20
 atp21
 Rp22
-sS'regions'
+sS'raw_text_methods'
 p23
 g3
 ((lp24
-tp25
-Rp26
-sS'year'
+S"(15, u'\\\\b8ohdpat')"
+p25
+aS"(3, u'\\\\bimmunoreactiv')"
+p26
+aS"(51, u'\\\\bway100635')"
 p27
-V1996
-p28
-sS'agonists'
-p29
+atp28
+Rp29
+sS'regions'
+p30
 g3
-((lp30
-S"(149, u'\\\\bmem')"
-p31
-atp32
+((lp31
+tp32
 Rp33
-sS'species'
+sS'year'
 p34
-g3
-((lp35
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2007
+p35
+sS'species'
 p36
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p37
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+g3
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sb.

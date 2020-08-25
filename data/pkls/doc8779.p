@@ -2,68 +2,88 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-aS'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-tp16
-Rp17
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+atp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
-p23
+((lp14
+(S'5ht2c'
+p15
+I1539
+I1547
+tp16
+a(S'5ht3'
+p17
+I1256
+I1261
+tp18
+a(S'5ht2a'
+p19
+I1539
+I1545
+tp20
+a(S'5ht1a'
+p21
+I1206
+I1212
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp24
-tp25
-Rp26
-sS'year'
+((lp26
+S"(7, u'\\\\bpropranolol')"
 p27
-V2009
+aS"(41, u'\\\\bhaloperidol')"
 p28
-sS'agonists'
+aS"(20, u'\\\\bondansetron')"
 p29
-g3
-((lp30
-S"(175, u'\\\\bdoi')"
+aS"(51, u'\\\\bway100635')"
+p30
+aS"(9, u'\\\\britanserin')"
 p31
-atp32
-Rp33
-sS'species'
-p34
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
+p35
 g3
-((lp35
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p36
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+((lp36
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-atp39
-Rp40
+atp38
+Rp39
+sS'year'
+p40
+V2014
+p41
+sS'species'
+p42
+g3
+((lp43
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p44
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p45
+atp46
+Rp47
 sb.

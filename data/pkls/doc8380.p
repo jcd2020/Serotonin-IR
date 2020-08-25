@@ -2,74 +2,95 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(133, u'\\\\bmianserin')"
-p5
-aS"(194, u'\\\\bmethysergide')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(35, u'\\\\bnocicept')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht2a'
+p16
+I239
+I244
+tp17
+a(S'5ht2a'
 p18
-g3
-((lp19
-S'5ht2c'
+I1597
+I1602
+tp19
+a(S'5ht1a'
 p20
-aS'5ht2a'
-p21
-atp22
-Rp23
-sS'regions'
+I251
+I256
+tp21
+a(S'5ht1a'
+p22
+I1164
+I1169
+tp23
+a(S'5ht1a'
 p24
-g3
-((lp25
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+I62
+I67
+tp25
+a(S'5ht2a'
 p26
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p27
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+I52
+I57
+tp27
+a(S'5ht2a'
 p28
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p29
+I763
+I768
+tp29
 atp30
 Rp31
-sS'year'
+sS'raw_text_methods'
 p32
-V2005
-p33
-sS'agonists'
-p34
 g3
-((lp35
-S"(53, u'\\\\bmethysergide')"
+((lp33
+S"(53, u'\\\\bketanserin')"
+p34
+aS"(7, u'\\\\bpropranolol')"
+p35
+aS"(12, u'\\\\bantagonist')"
 p36
 atp37
 Rp38
-sS'species'
+sS'regions'
 p39
 g3
 ((lp40
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p41
-atp42
-Rp43
+tp41
+Rp42
+sS'year'
+p43
+V2005
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

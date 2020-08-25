@@ -2,72 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(23, u'\\\\bantipsychotic')"
 p11
-g3
-((lp12
-tp13
-Rp14
+atp12
+Rp13
 sS'receptors'
-p15
+p14
 g3
-((lp16
-S'5ht4a'
-p17
-aS'5ht4b'
-p18
-aS'5ht4'
-p19
-aS'5ht4d'
+((lp15
+(S'5ht2a'
+p16
+I776
+I782
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-aS'5ht4c'
-p21
-atp22
-Rp23
-sS'regions'
+g3
+((lp21
+S"(46, u'\\\\bspiperone')"
+p22
+aS"(41, u'\\\\bhaloperidol')"
+p23
+aS"(3, u'\\\\bimmunoreactiv')"
 p24
-g3
-((lp25
-S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
+aS"(40, u'\\\\bclozapine')"
+p25
+aS"(12, u'\\\\bantagonist')"
 p26
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V2001
+atp27
+Rp28
+sS'regions'
+p29
+g3
+((lp30
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
 p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(221, u'\\\\b5 ?mt')"
+atp32
+Rp33
+sS'year'
 p34
-atp35
-Rp36
+V2004
+p35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-atp41
-Rp42
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

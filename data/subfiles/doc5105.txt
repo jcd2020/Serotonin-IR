@@ -1,0 +1,4 @@
+Izumi, T., et al. (2004). "Single footshock attenuates c-Fos expression induced by 5-HT2A receptor agonist (+/-)-2,5-dimethoxy-4-iodoamphetamine hydrochloride in rat brain." Brain Res 1011(1): 129-134.
+
+	Administration of 3 mg/kg 5-hydroxytryptamine2A/2C (5-HT2A/2C) receptor agonist (+/-)-2,5-dimethoxy-4-iodoamphetamine hydrochloride (DOI) induced c-Fos expression in all areas of the rat neocortex. The single footshock 24 h before DOI administration significantly attenuated DOI-induced c-Fos expression in layer IV of the primary somatosensory cortex. These changes in c-Fos expression suggest an adaptational change in the somatosensory cortex by acute stress.
+

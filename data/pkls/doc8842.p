@@ -2,74 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.PET'
 p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp10
-S'Method.ANTAGONIST'
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(2, u'\\\\bdisorder')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(3, u'\\\\bsleep')"
+(S'5ht1a'
 p16
-atp17
-Rp18
-sS'receptors'
-p19
-g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I589
+I595
+tp17
+a(S'5ht1a'
+p18
+I471
+I477
+tp19
+a(S'5ht1a'
+p20
+I179
+I185
+tp21
+a(S'5ht1a'
+p22
+I50
+I56
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-aS"(51, u'(?i)\\\\b(laterodorsals|laterodorsal)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+g3
+((lp27
+S"(51, u'\\\\bway100635')"
 p28
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(17, u'\\\\bpet')"
 p29
-atp30
-Rp31
-sS'year'
-p32
-V2005
+aS"(19, u'\\\\bpositron emission tomography')"
+p30
+atp31
+Rp32
+sS'regions'
 p33
-sS'agonists'
-p34
 g3
-((lp35
-tp36
+((lp34
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p35
+atp36
 Rp37
-sS'species'
+sS'year'
 p38
-g3
-((lp39
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+V1995
+p39
+sS'species'
 p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+g3
+((lp41
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p42
+atp43
+Rp44
 sb.

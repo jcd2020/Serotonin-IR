@@ -2,78 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-tp15
-Rp16
+((lp10
+S"(13, u'\\\\bantidepress')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht1a'
-p19
-aS'5ht4'
-p20
-aS'5ht5'
-p21
-aS'5ht1'
+((lp15
+(S'5ht1a'
+p16
+I1865
+I1871
+tp17
+a(S'5ht1a'
+p18
+I972
+I978
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-atp23
-Rp24
-sS'regions'
+g3
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+aS"(12, u'\\\\bantagonist')"
 p25
-g3
-((lp26
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p27
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+atp26
+Rp27
+sS'regions'
 p28
-atp29
-Rp30
-sS'year'
+g3
+((lp29
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p30
+aS"(7, u'(?i)\\\\b(entorhinals|entorhinal)\\\\b')"
 p31
-V2002
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(20, u'\\\\bbuspirone')"
+atp32
+Rp33
+sS'year'
+p34
+V2013
 p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p36
-aS"(189, u'\\\\bethanol')"
-p37
-atp38
-Rp39
 sS'species'
-p40
+p36
 g3
-((lp41
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+((lp37
+tp38
+Rp39
 sb.

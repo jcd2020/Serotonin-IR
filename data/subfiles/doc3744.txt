@@ -1,0 +1,4 @@
+Gifford, A. N. and R. Y. Wang (1994). "The effect of 5-HT3 receptor antagonists on the morphine-induced excitation of A10 dopamine cells: electrophysiological studies." Brain Res 638(1-2): 325-328.
+
+	In extracellular recordings from chloral hydrate anesthetized rats the 5-HT3 antagonist, BRL 46470A, failed to prevent or reverse the increase in dopamine cell firing rate produced by systemic or iontophoretically applied morphine. A second 5-HT3 antagonist, tropesitron, was similarly found to be ineffective in antagonizing the effects of systemic morphine. These results suggest that previous microdialysis reports that 5-HT3 antagonists can prevent the increase in extracellular dopamine levels in the nucleus accumbens produced by morphine are not due to an action of these compounds in suppressing the excitatory effects of morphine on A10 dopamine cell firing rate.
+

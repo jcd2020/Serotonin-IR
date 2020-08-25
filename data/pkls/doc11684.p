@@ -2,70 +2,93 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
-p5
-aS"(91, u'\\\\bfluoxetine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.AGONIST'
-p11
-atp12
-Rp13
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(19, u'\\\\bpsychosis')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(34, u'\\\\bparkinson')"
+p13
+aS"(23, u'\\\\bantipsychotic')"
 p14
-g3
-((lp15
-S"(9, u'\\\\bdepress')"
+aS"(12, u'\\\\bsleep')"
+p15
+aS"(4, u'\\\\btreatment')"
 p16
-aS"(11, u'\\\\banxiolyt')"
+aS"(3, u'\\\\bclinical')"
 p17
-aS"(10, u'\\\\banxiety')"
-p18
-atp19
-Rp20
+atp18
+Rp19
 sS'receptors'
-p21
+p20
 g3
-((lp22
-S'5ht1a'
-p23
-atp24
-Rp25
-sS'regions'
+((lp21
+(S'5ht2a'
+p22
+I36
+I42
+tp23
+a(S'5ht2a'
+p24
+I755
+I761
+tp25
+a(S'5ht2a'
 p26
-g3
-((lp27
-tp28
-Rp29
-sS'year'
+I230
+I236
+tp27
+a(S'5ht2a'
+p28
+I459
+I465
+tp29
+a(S'5ht2a'
 p30
-V2002
-p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(45, u'\\\\bipsapirone')"
+I321
+I327
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
-atp35
-Rp36
-sS'species'
-p37
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+((lp35
+S"(13, u'\\\\bagonist')"
+p36
+aS"(41, u'\\\\bhaloperidol')"
+p37
+atp38
+Rp39
+sS'regions'
+p40
+g3
+((lp41
+tp42
+Rp43
+sS'year'
+p44
+V2006
+p45
+sS'species'
+p46
+g3
+((lp47
+tp48
+Rp49
 sb.

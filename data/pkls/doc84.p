@@ -2,88 +2,101 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(26, u'\\\\bbehav')"
 p12
-g3
-((lp13
-S"(35, u'\\\\bstress')"
+aS"(33, u'\\\\blocomot')"
+p13
+aS"(19, u'\\\\bpsychosis')"
 p14
-aS"(9, u'\\\\bdepress')"
+aS"(4, u'\\\\btreatment')"
 p15
-aS"(3, u'\\\\bsleep')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-aS"(20, u'\\\\baggressi')"
-p18
-atp19
-Rp20
+atp16
+Rp17
 sS'receptors'
-p21
+p18
 g3
-((lp22
-S'5ht1a'
-p23
-atp24
-Rp25
-sS'regions'
+((lp19
+(S'5ht1'
+p20
+I598
+I603
+tp21
+a(S'5ht2'
+p22
+I1566
+I1571
+tp23
+a(S'5ht3'
+p24
+I944
+I949
+tp25
+a(S'5ht1'
 p26
-g3
-((lp27
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+I1535
+I1540
+tp27
+a(S'5ht2'
 p28
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p31
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I643
+I648
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
 p32
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p33
-atp34
-Rp35
-sS'year'
+g3
+((lp33
+S"(13, u'\\\\bagonist')"
+p34
+aS"(9, u'\\\\britanserin')"
+p35
+aS"(12, u'\\\\bantagonist')"
 p36
-V2013
+aS"(10, u'\\\\bmethamphetamine')"
 p37
-sS'agonists'
-p38
+atp38
+Rp39
+sS'regions'
+p40
 g3
-((lp39
-tp40
-Rp41
-sS'species'
+((lp41
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p42
-g3
-((lp43
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p44
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p45
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p43
+atp44
+Rp45
+sS'year'
 p46
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+V2008
 p47
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+sS'species'
 p48
-atp49
-Rp50
+g3
+((lp49
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p50
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p51
+atp52
+Rp53
 sb.

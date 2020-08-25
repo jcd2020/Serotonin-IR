@@ -2,88 +2,111 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p11
-atp12
-Rp13
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-S"(17, u'\\\\bgroom')"
-p16
-aS"(9, u'\\\\bdepress')"
-p17
-aS"(35, u'\\\\bstress')"
-p18
-aS"(4, u'\\\\blocomot')"
-p19
-atp20
-Rp21
+((lp10
+tp11
+Rp12
 sS'receptors'
-p22
+p13
 g3
-((lp23
-S'5ht1a'
-p24
-aS'5ht5'
+((lp14
+(S'5ht2c'
+p15
+I2263
+I2269
+tp16
+a(S'5ht1a'
+p17
+I1468
+I1474
+tp18
+a(S'5ht7'
+p19
+I2581
+I2586
+tp20
+a(S'5ht1a'
+p21
+I1760
+I1766
+tp22
+a(S'5ht2a'
+p23
+I2252
+I2258
+tp24
+a(S'5ht1f'
 p25
-aS'5ht1'
-p26
-atp27
-Rp28
-sS'regions'
+I1832
+I1838
+tp26
+a(S'5ht4'
+p27
+I2480
+I2485
+tp28
+a(S'5ht4'
 p29
-g3
-((lp30
-S"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I2301
+I2306
+tp30
+a(S'5ht1d'
 p31
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p32
-aS"(244, u'(?i)\\\\b(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p33
-atp34
-Rp35
-sS'year'
-p36
-V2009
+I1935
+I1941
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
+p35
+g3
+((lp36
+S"(13, u'\\\\bagonist')"
 p37
-sS'agonists'
+aS"(34, u'\\\\b5ct')"
 p38
+aS"(54, u'\\\\bautoradiography')"
+p39
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
 g3
-((lp39
-tp40
-Rp41
-sS'species'
-p42
-g3
-((lp43
-S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
-p44
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p45
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p46
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp44
+tp45
+Rp46
+sS'year'
 p47
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+V1996
 p48
-atp49
-Rp50
+sS'species'
+p49
+g3
+((lp50
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p51
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p52
+aS"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p53
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p54
+atp55
+Rp56
 sb.

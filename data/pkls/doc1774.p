@@ -2,72 +2,95 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.KNOCKOUT'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+aS'Method.ANTAGONIST'
+p6
+aS'Method.AGONIST'
+p7
+atp8
+Rp9
 sS'topics'
+p10
+g3
+((lp11
+S"(26, u'\\\\bbehav')"
+p12
+aS"(4, u'\\\\btreatment')"
 p13
-g3
-((lp14
-S"(10, u'\\\\banxiety')"
-p15
-atp16
-Rp17
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht7'
 p18
-g3
-((lp19
-S'5ht1a'
+I1688
+I1693
+tp19
+a(S'5ht7'
 p20
-aS'5ht2c'
-p21
-atp22
-Rp23
-sS'regions'
+I599
+I606
+tp21
+a(S'5ht1a'
+p22
+I1608
+I1614
+tp23
+a(S'5ht1a'
 p24
-g3
-((lp25
-S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+I599
+I605
+tp25
+a(S'5ht1a'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2013
+I644
+I650
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(21, u'\\\\bcannabidiol')"
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(15, u'\\\\b8ohdpat')"
 p33
-atp34
-Rp35
-sS'species'
+aS"(38, u'\\\\bssri')"
+p34
+aS"(51, u'\\\\bway100635')"
+p35
+aS"(12, u'\\\\bantagonist')"
 p36
-g3
-((lp37
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p38
-aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+atp37
+Rp38
+sS'regions'
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
+g3
+((lp40
+tp41
 Rp42
+sS'year'
+p43
+V2011
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p47
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

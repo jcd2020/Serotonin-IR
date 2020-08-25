@@ -2,80 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(118, u'\\\\bly ?53857')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.STIMULATION'
-p10
 aS'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p6
+atp7
+Rp8
 sS'topics'
-p15
+p9
 g3
-((lp16
-tp17
-Rp18
+((lp10
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht3'
+p15
+I58
+I63
+tp16
+a(S'5ht3'
+p17
+I766
+I771
+tp18
+a(S'5ht3'
 p19
-g3
-((lp20
-S'5ht1a'
+I987
+I992
+tp20
+a(S'5ht3'
 p21
-aS'5ht2a'
-p22
-aS'5ht2'
-p23
-aS'5ht2c'
-p24
-atp25
-Rp26
-sS'regions'
+I163
+I168
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(17, u'\\\\bpet')"
 p27
-g3
-((lp28
-S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+aS"(18, u'\\\\bimaging')"
+p28
+aS"(54, u'\\\\bautoradiography')"
 p29
-atp30
-Rp31
-sS'year'
-p32
-V2003
+aS"(12, u'\\\\bantagonist')"
+p30
+atp31
+Rp32
+sS'regions'
 p33
-sS'agonists'
-p34
 g3
-((lp35
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p36
-aS"(175, u'\\\\bdoi')"
+((lp34
+tp35
+Rp36
+sS'year'
 p37
-atp38
-Rp39
+V1996
+p38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+((lp40
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p41
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p42
-aS"(4952, u'(?i)\\\\b(felines|feline)\\\\b')"
-p43
-aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
-p44
-atp45
-Rp46
+atp43
+Rp44
 sb.

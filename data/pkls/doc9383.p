@@ -2,68 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
+S'Method.IMMUNOHISTOCHEMISTRY'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-tp10
-Rp11
-sS'topics'
+S"(1, u'\\\\bpatient')"
+p10
+aS"(34, u'\\\\bparkinson')"
+p11
+aS"(5, u'\\\\btherap')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(2, u'\\\\bdisorder')"
 p14
-aS"(16, u'\\\\bfeed')"
-p15
-atp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht1b'
-p20
-aS'5ht1a'
+((lp18
+(S'5ht2c'
+p19
+I735
+I741
+tp20
+a(S'5ht1a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
+I805
+I811
+tp22
+a(S'5ht2a'
+p23
+I816
+I822
+tp24
+a(S'5ht1b'
+p25
+I724
+I730
 tp26
-Rp27
-sS'year'
-p28
-V2009
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-sS'agonists'
-p30
 g3
-((lp31
-tp32
+((lp30
+S"(54, u'\\\\bautoradiography')"
+p31
+atp32
 Rp33
-sS'species'
+sS'regions'
 p34
 g3
 ((lp35
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
 p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-atp39
-Rp40
+atp37
+Rp38
+sS'year'
+p39
+V2016
+p40
+sS'species'
+p41
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

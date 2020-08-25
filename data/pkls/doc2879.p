@@ -2,74 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(119, u'\\\\britanserin')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.STIMULATION'
+S"(2, u'\\\\bdisorder')"
 p10
-aS'Method.ANTAGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(21, u'\\\\bpain')"
-p16
-atp17
-Rp18
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2a'
+p15
+I1170
+I1176
+tp16
+a(S'5ht2a'
+p17
+I903
+I909
+tp18
+a(S'5ht2a'
 p19
-g3
-((lp20
-S'5ht2c'
+I540
+I546
+tp20
+a(S'5ht2a'
 p21
-aS'5ht2'
-p22
-aS'5ht2a'
+I800
+I806
+tp22
+a(S'5ht2a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
+I1110
+I1116
+tp24
+a(S'5ht2a'
+p25
+I1451
+I1457
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
 g3
-((lp27
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+((lp30
+S"(1, u'\\\\bneuroimag')"
 p31
-V2017
+aS"(17, u'\\\\bpet')"
 p32
-sS'agonists'
+aS"(29, u'\\\\bdiethylamide')"
 p33
-g3
-((lp34
-tp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+aS"(27, u'\\\\blsd')"
+p34
+aS"(19, u'\\\\bpositron emission tomography')"
+p35
+aS"(18, u'\\\\bimaging')"
+p36
+atp37
+Rp38
+sS'regions'
 p39
-aS"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp40
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p41
 atp42
 Rp43
+sS'year'
+p44
+V2018
+p45
+sS'species'
+p46
+g3
+((lp47
+tp48
+Rp49
 sb.

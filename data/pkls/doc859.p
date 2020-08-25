@@ -2,80 +2,120 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(174, u'\\\\bsb ?258585')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
-aS'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+aS"(11, u'\\\\bobsessive compulsive disorder')"
+p12
+aS"(10, u'\\\\bocd')"
+p13
+aS"(23, u'\\\\bantipsychotic')"
 p14
-g3
-((lp15
-S"(15, u'\\\\bschizophreni')"
-p16
-aS"(33, u'\\\\balzheimers')"
-p17
-atp18
-Rp19
+aS"(2, u'\\\\bdisorder')"
+p15
+atp16
+Rp17
 sS'receptors'
+p18
+g3
+((lp19
+(S'5ht2'
 p20
-g3
-((lp21
-S'5ht6'
+I1772
+I1777
+tp21
+a(S'5ht2a'
 p22
-aS'5ht6a'
-p23
-atp24
-Rp25
-sS'regions'
+I970
+I976
+tp23
+a(S'5ht2'
+p24
+I540
+I545
+tp25
+a(S'5ht2c'
 p26
-g3
-((lp27
-tp28
-Rp29
-sS'year'
+I1818
+I1824
+tp27
+a(S'5ht2'
+p28
+I79
+I84
+tp29
+a(S'5ht2c'
 p30
-V2015
-p31
-sS'agonists'
+I981
+I987
+tp31
+a(S'5ht2'
 p32
-g3
-((lp33
-tp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+I670
+I675
+tp33
+a(S'5ht2'
+p34
+I1293
+I1298
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
 p38
-aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p39
-aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
+g3
+((lp39
+S"(33, u'\\\\bmcpp')"
 p40
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
+aS"(40, u'\\\\bclozapine')"
 p41
-aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
+aS"(13, u'\\\\bagonist')"
 p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(49, u'\\\\bdoi')"
 p43
-aS"(4952, u'(?i)\\\\b(felines|feline)\\\\b')"
+aS"(9, u'\\\\britanserin')"
 p44
-atp45
-Rp46
+aS"(12, u'\\\\bantagonist')"
+p45
+atp46
+Rp47
+sS'regions'
+p48
+g3
+((lp49
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p50
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p51
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p52
+atp53
+Rp54
+sS'year'
+p55
+V1999
+p56
+sS'species'
+p57
+g3
+((lp58
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p59
+atp60
+Rp61
 sb.

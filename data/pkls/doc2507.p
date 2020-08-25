@@ -2,62 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p11
+p9
 g3
-((lp12
-S"(16, u'\\\\bfeed')"
-p13
-atp14
-Rp15
+((lp10
+tp11
+Rp12
 sS'receptors'
-p16
+p13
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp14
+(S'5ht1a'
+p15
+I1941
+I1947
+tp16
+a(S'5ht1a'
+p17
+I1726
+I1732
+tp18
+a(S'5ht2'
+p19
+I933
+I938
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
-p27
-V2016
-p28
-sS'agonists'
-p29
 g3
-((lp30
-tp31
+((lp24
+S"(53, u'\\\\bketanserin')"
+p25
+aS"(22, u'\\\\bbuspirone')"
+p26
+aS"(29, u'\\\\bdiethylamide')"
+p27
+aS"(13, u'\\\\bagonist')"
+p28
+aS"(46, u'\\\\bspiperone')"
+p29
+aS"(12, u'\\\\bantagonist')"
+p30
+atp31
 Rp32
-sS'species'
+sS'regions'
 p33
 g3
 ((lp34
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p35
-atp36
-Rp37
+tp35
+Rp36
+sS'year'
+p37
+V1986
+p38
+sS'species'
+p39
+g3
+((lp40
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p41
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

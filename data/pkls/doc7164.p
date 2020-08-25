@@ -1,0 +1,76 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(9, u'\\\\bstress')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht4'
+p16
+I653
+I658
+tp17
+a(S'5ht4'
+p18
+I1586
+I1591
+tp19
+a(S'5ht4'
+p20
+I671
+I676
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+S"(17, u'\\\\bpet')"
+p26
+aS"(19, u'\\\\bpositron emission tomography')"
+p27
+atp28
+Rp29
+sS'regions'
+p30
+g3
+((lp31
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p32
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
+p36
+V2018
+p37
+sS'species'
+p38
+g3
+((lp39
+tp40
+Rp41
+sb.

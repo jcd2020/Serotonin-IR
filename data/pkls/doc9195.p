@@ -1,0 +1,114 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(5, u'\\\\btherap')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(14, u'\\\\bcogniti')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht6'
+p18
+I509
+I514
+tp19
+a(S'5ht6'
+p20
+I229
+I234
+tp21
+a(S'5ht2a'
+p22
+I1325
+I1331
+tp23
+a(S'5ht2a'
+p24
+I537
+I543
+tp25
+a(S'5ht6'
+p26
+I1453
+I1458
+tp27
+a(S'5ht6'
+p28
+I57
+I62
+tp29
+a(S'5ht6'
+p30
+I917
+I922
+tp31
+a(S'5ht6'
+p32
+I1544
+I1549
+tp33
+a(S'5ht6'
+p34
+I425
+I430
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
+p38
+g3
+((lp39
+S"(17, u'\\\\bpet')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p45
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p46
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p47
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
+p51
+V2018
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p55
+atp56
+Rp57
+sb.

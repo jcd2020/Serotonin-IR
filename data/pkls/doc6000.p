@@ -1,0 +1,130 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(19, u'\\\\bpsychosis')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2a'
+p18
+I1061
+I1067
+tp19
+a(S'5ht2c'
+p20
+I1562
+I1570
+tp21
+a(S'5ht2a'
+p22
+I853
+I859
+tp23
+a(S'5ht2c'
+p24
+I853
+I861
+tp25
+a(S'5ht2a'
+p26
+I1758
+I1764
+tp27
+a(S'5ht2a'
+p28
+I43
+I54
+tp29
+a(S'5ht2a'
+p30
+I1562
+I1568
+tp31
+a(S'5ht2a'
+p32
+I661
+I667
+tp33
+a(S'5ht2c'
+p34
+I1061
+I1069
+tp35
+a(S'5ht2c'
+p36
+I43
+I56
+tp37
+a(S'5ht2a'
+p38
+I784
+I790
+tp39
+atp40
+Rp41
+sS'raw_text_methods'
+p42
+g3
+((lp43
+S"(13, u'\\\\bagonist')"
+p44
+aS"(9, u'\\\\britanserin')"
+p45
+aS"(49, u'\\\\bdoi')"
+p46
+aS"(5, u'\\\\bmk801')"
+p47
+aS"(12, u'\\\\bantagonist')"
+p48
+atp49
+Rp50
+sS'regions'
+p51
+g3
+((lp52
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p53
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p54
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p55
+atp56
+Rp57
+sS'year'
+p58
+V1999
+p59
+sS'species'
+p60
+g3
+((lp61
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p62
+atp63
+Rp64
+sb.

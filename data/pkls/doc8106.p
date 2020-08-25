@@ -2,74 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(43, u'\\\\bgr ?127935')"
+S'Method.AGONIST'
 p5
-aS"(198, u'\\\\bsb ?269970')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-tp16
-Rp17
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+aS"(27, u'\\\\bdyskinesia')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht7'
-p20
-aS'5ht1b'
+((lp16
+(S'5ht1a'
+p17
+I1818
+I1824
+tp18
+a(S'5ht1a'
+p19
+I597
+I603
+tp20
+a(S'5ht1a'
 p21
-aS'5ht1d'
-p22
-atp23
-Rp24
-sS'regions'
+I814
+I820
+tp22
+a(S'5ht1a'
+p23
+I1977
+I1983
+tp24
+a(S'5ht1a'
 p25
+I62
+I68
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
 g3
-((lp26
-S"(374, u'(?i)\\\\b(duras|dura)(-|\\\\s+)?(maters|mater)\\\\b')"
-p27
-aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+((lp30
+S"(13, u'\\\\bagonist')"
 p31
-V2009
-p32
-sS'agonists'
-p33
+atp32
+Rp33
+sS'regions'
+p34
 g3
-((lp34
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p35
-aS"(219, u'\\\\b5 ?ct')"
+((lp35
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
 p36
 atp37
 Rp38
-sS'species'
+sS'year'
 p39
-g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2018
+p40
+sS'species'
 p41
-atp42
-Rp43
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

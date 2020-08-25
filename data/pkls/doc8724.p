@@ -2,90 +2,104 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.PET'
 p5
-aS"(33, u'\\\\byohimbine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp10
-S'Method.ANTAGONIST'
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(15, u'\\\\bmemory')"
 p11
-aS'Method.AGONIST'
+aS"(2, u'\\\\bdisorder')"
 p12
 atp13
 Rp14
-sS'topics'
+sS'receptors'
 p15
 g3
 ((lp16
-tp17
-Rp18
-sS'receptors'
+(S'5ht1a'
+p17
+I199
+I205
+tp18
+a(S'5ht1a'
 p19
-g3
-((lp20
-S'5ht1a'
+I768
+I774
+tp20
+a(S'5ht1a'
 p21
-aS'5ht2b'
-p22
-aS'5ht2c'
+I48
+I54
+tp22
+a(S'5ht1a'
 p23
-aS'5ht2a'
-p24
-atp25
-Rp26
-sS'regions'
+I1483
+I1489
+tp24
+a(S'5ht1a'
+p25
+I1366
+I1372
+tp26
+a(S'5ht1a'
 p27
-g3
-((lp28
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+I386
+I392
+tp28
+a(S'5ht1a'
 p29
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+I989
+I995
+tp30
+a(S'5ht1a'
 p31
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p32
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p33
-atp34
-Rp35
-sS'year'
-p36
-V2014
+I518
+I524
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
+p35
+g3
+((lp36
+S"(51, u'\\\\bway100635')"
 p37
-sS'agonists'
+aS"(17, u'\\\\bpet')"
 p38
-g3
-((lp39
-S"(141, u'\\\\bro60 ?0175')"
-p40
-aS"(140, u'\\\\bbw ?723c86')"
-p41
-aS"(82, u'\\\\byohimbine')"
+aS"(19, u'\\\\bpositron emission tomography')"
+p39
+atp40
+Rp41
+sS'regions'
 p42
-atp43
-Rp44
-sS'species'
-p45
 g3
-((lp46
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+((lp43
+tp44
+Rp45
+sS'year'
+p46
+V2016
 p47
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+sS'species'
 p48
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p49
-atp50
-Rp51
+g3
+((lp49
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p50
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p51
+atp52
+Rp53
 sb.

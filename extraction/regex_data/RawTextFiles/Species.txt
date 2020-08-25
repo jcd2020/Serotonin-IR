@@ -1,0 +1,8 @@
+mouse
+female
+male
+rat
+mice
+rodent
+guinea pig
+primate

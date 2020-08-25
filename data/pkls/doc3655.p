@@ -2,66 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(179, u'\\\\bro ?4368554')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
+tp5
+Rp6
+sS'topics'
+p7
 g3
-((lp9
-S'Method.ANTAGONIST'
+((lp8
+S"(5, u'\\\\btherap')"
+p9
+aS"(26, u'\\\\bbehav')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(8, u'\\\\blearning')"
+(S'5ht2a'
 p15
-aS"(4, u'\\\\blocomot')"
-p16
-atp17
-Rp18
-sS'receptors'
+I708
+I714
+tp16
+a(S'5ht1a'
+p17
+I1408
+I1414
+tp18
+a(S'5ht2a'
 p19
-g3
-((lp20
-S'5ht6'
+I1421
+I1427
+tp20
+a(S'5ht1a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I694
+I700
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp25
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+((lp26
+S"(27, u'\\\\blsd')"
+p27
+aS"(48, u'\\\\bmdma')"
+p28
+aS"(29, u'\\\\bdiethylamide')"
 p29
-V2008
+aS"(10, u'\\\\bmethamphetamine')"
 p30
-sS'agonists'
-p31
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp32
-tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp34
+tp35
+Rp36
+sS'year'
 p37
-atp38
-Rp39
+V2011
+p38
+sS'species'
+p39
+g3
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

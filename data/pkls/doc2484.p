@@ -2,78 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(108, u'\\\\bfluphenazine')"
+S'Method.ANTAGONIST'
 p5
-aS"(58, u'\\\\bhaloperidol')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(33, u'\\\\blocomot')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(4, u'\\\\blocomot')"
+(S'5ht1a'
 p16
-atp17
-Rp18
-sS'receptors'
-p19
-g3
-((lp20
-S'5ht3'
-p21
-atp22
-Rp23
-sS'regions'
+I1266
+I1272
+tp17
+a(S'5ht1a'
+p18
+I1597
+I1603
+tp19
+a(S'5ht1a'
+p20
+I1170
+I1176
+tp21
+a(S'5ht1a'
+p22
+I123
+I129
+tp23
+a(S'5ht1a'
 p24
+I486
+I492
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
 g3
-((lp25
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p26
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
+((lp29
+S"(13, u'\\\\bagonist')"
 p30
-V1987
+aS"(12, u'\\\\bantagonist')"
 p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(176, u'\\\\bdom')"
+atp32
+Rp33
+sS'regions'
 p34
-aS"(210, u'\\\\bsulpiride')"
-p35
-aS"(11, u'\\\\bamphetamine')"
-p36
-aS"(43, u'\\\\bhaloperidol')"
-p37
-atp38
-Rp39
-sS'species'
-p40
 g3
-((lp41
-S"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp35
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
+p39
+V1998
+p40
+sS'species'
+p41
+g3
+((lp42
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p43
-atp44
-Rp45
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

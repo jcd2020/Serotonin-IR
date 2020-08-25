@@ -2,68 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(119, u'\\\\britanserin')"
+S'Method.ANTAGONIST'
 p5
-aS"(31, u'\\\\bway ?100635')"
+aS'Method.AGONIST'
 p6
-aS"(33, u'\\\\byohimbine')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-tp12
-Rp13
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(9, u'\\\\bstress')"
 p14
-g3
-((lp15
-tp16
-Rp17
+aS"(6, u'\\\\baggressi')"
+p15
+aS"(8, u'\\\\banxi')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
-S'5ht1a'
-p20
-aS'5ht2a'
+((lp20
+(S'5ht2a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I2280
+I2291
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp25
-S"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+aS"(41, u'\\\\bhaloperidol')"
+p28
+aS"(12, u'\\\\bantagonist')"
 p29
-V1999
-p30
-sS'agonists'
-p31
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp32
-S"(82, u'\\\\byohimbine')"
-p33
-atp34
+((lp33
+tp34
 Rp35
-sS'species'
+sS'year'
 p36
-g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2004
+p37
+sS'species'
 p38
-atp39
-Rp40
+g3
+((lp39
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p41
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

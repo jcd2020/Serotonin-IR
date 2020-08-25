@@ -2,69 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(9, u'\\\\bdepress')"
+(S'5ht2a'
 p15
-aS"(4, u'\\\\blocomot')"
-p16
-atp17
-Rp18
-sS'receptors'
+I256
+I262
+tp16
+a(S'5ht2c'
+p17
+I256
+I264
+tp18
+a(S'5ht2a'
 p19
-g3
-((lp20
-S'5ht5'
+I973
+I979
+tp20
+a(S'5ht2a'
 p21
-aS'5ht1a'
-p22
+I85
+I91
+tp22
 atp23
 Rp24
-sS'regions'
+sS'raw_text_methods'
 p25
 g3
 ((lp26
-tp27
-Rp28
-sS'year'
-p29
-V2007
-p30
-sS'agonists'
+S"(13, u'\\\\bagonist')"
+p27
+aS"(49, u'\\\\bdoi')"
+p28
+atp29
+Rp30
+sS'regions'
 p31
 g3
 ((lp32
 tp33
 Rp34
-sS'species'
+sS'year'
 p35
-g3
-((lp36
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+V1996
+p36
+sS'species'
 p37
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p38
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+g3
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
 atp40
 Rp41

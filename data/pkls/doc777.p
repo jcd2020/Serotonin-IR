@@ -2,82 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(17, u'\\\\bnan ?190')"
+S'Method.STIMULATION'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
+aS'Method.ANTAGONIST'
+p6
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p7
+atp8
+Rp9
 sS'topics'
-p14
+p10
 g3
-((lp15
-S"(4, u'\\\\blocomot')"
-p16
-aS"(7, u'\\\\bmemory')"
-p17
-aS"(1, u'\\\\bmood')"
-p18
-atp19
-Rp20
+((lp11
+S"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I837
+I843
+tp18
+a(S'5ht1b'
+p19
+I1655
+I1661
+tp20
+a(S'5ht1b'
 p21
-g3
-((lp22
-S'5ht1a'
+I2826
+I2832
+tp22
+a(S'5ht1a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
-S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
-p28
-aS"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
-p29
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p30
-aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
+I2891
+I2897
+tp24
+a(S'5ht1a'
+p25
+I1186
+I1192
+tp26
+a(S'5ht1a'
+p27
+I957
+I963
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
 p31
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p32
-atp33
-Rp34
-sS'year'
+g3
+((lp32
+S"(13, u'\\\\bagonist')"
+p33
+aS"(27, u'\\\\blsd')"
+p34
+aS"(12, u'\\\\bantagonist')"
 p35
-V2001
-p36
-sS'agonists'
-p37
+atp36
+Rp37
+sS'regions'
+p38
 g3
-((lp38
-S"(149, u'\\\\bmem')"
-p39
-atp40
-Rp41
-sS'species'
-p42
-g3
-((lp43
-S"(1928, u'(?i)\\\\b(bears|bear)\\\\b')"
+((lp39
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
+p43
+V2000
 p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p45
-atp46
-Rp47
+g3
+((lp46
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

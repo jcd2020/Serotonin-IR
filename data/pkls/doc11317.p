@@ -2,74 +2,156 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(26, u'\\\\bbehav')"
 p12
-g3
-((lp13
-S"(8, u'\\\\blearning')"
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(15, u'\\\\bmemory')"
 p14
-aS"(6, u'\\\\bcognit')"
-p15
-aS"(35, u'\\\\bstress')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-aS"(7, u'\\\\bmemory')"
-p18
-atp19
-Rp20
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1a'
+p19
+I1422
+I1428
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-S'5ht1a'
+I65
+I71
+tp22
+a(S'5ht1a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p28
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+I889
+I895
+tp24
+a(S'5ht1a'
+p25
+I1703
+I1709
+tp26
+a(S'5ht1a'
+p27
+I620
+I626
+tp28
+a(S'5ht2a'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V2000
+I1939
+I1945
+tp30
+a(S'5ht1a'
+p31
+I552
+I558
+tp32
+a(S'5ht1a'
 p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(149, u'\\\\bmem')"
-p36
-atp37
-Rp38
-sS'species'
+I1598
+I1604
+tp34
+a(S'5ht1a'
+p35
+I1903
+I1909
+tp36
+a(S'5ht1a'
+p37
+I737
+I743
+tp38
+a(S'5ht1a'
 p39
-g3
-((lp40
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+I1763
+I1769
+tp40
+a(S'5ht1a'
 p41
-atp42
-Rp43
+I365
+I371
+tp42
+a(S'5ht2'
+p43
+I283
+I288
+tp44
+a(S'5ht2a'
+p45
+I1046
+I1052
+tp46
+a(S'5ht1a'
+p47
+I1241
+I1247
+tp48
+a(S'5ht2'
+p49
+I165
+I170
+tp50
+atp51
+Rp52
+sS'raw_text_methods'
+p53
+g3
+((lp54
+S"(13, u'\\\\bagonist')"
+p55
+aS"(15, u'\\\\b8ohdpat')"
+p56
+aS"(49, u'\\\\bdoi')"
+p57
+aS"(54, u'\\\\bautoradiography')"
+p58
+aS"(12, u'\\\\bantagonist')"
+p59
+atp60
+Rp61
+sS'regions'
+p62
+g3
+((lp63
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p64
+aS"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p65
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p66
+atp67
+Rp68
+sS'year'
+p69
+V2002
+p70
+sS'species'
+p71
+g3
+((lp72
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p73
+atp74
+Rp75
 sb.

@@ -2,72 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(23, u'\\\\brobalzotan')"
+S'Method.ANTAGONIST'
 p5
-aS"(16, u'\\\\bnad ?299')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.PET'
+S"(4, u'\\\\btreatment')"
 p11
-aS'Method.ANTAGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(9, u'\\\\bdepress')"
-p17
-atp18
-Rp19
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1b'
+p16
+I1449
+I1455
+tp17
+a(S'5ht1b'
+p18
+I153
+I159
+tp19
+a(S'5ht1'
 p20
+I1124
+I1129
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp21
-S'5ht1a'
-p22
-atp23
-Rp24
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+aS"(12, u'\\\\bantagonist')"
+p27
+atp28
+Rp29
 sS'regions'
-p25
-g3
-((lp26
-tp27
-Rp28
-sS'year'
-p29
-V2003
 p30
-sS'agonists'
-p31
 g3
-((lp32
-tp33
+((lp31
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p32
+atp33
 Rp34
-sS'species'
+sS'year'
 p35
-g3
-((lp36
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+V2007
+p36
+sS'species'
 p37
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p38
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+g3
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-atp41
-Rp42
+atp40
+Rp41
 sb.

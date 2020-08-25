@@ -1,0 +1,133 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(26, u'\\\\bbehav')"
+p14
+aS"(16, u'\\\\blearning')"
+p15
+aS"(8, u'\\\\banxi')"
+p16
+aS"(4, u'\\\\btreatment')"
+p17
+atp18
+Rp19
+sS'receptors'
+p20
+g3
+((lp21
+(S'5ht2'
+p22
+I2080
+I2085
+tp23
+a(S'5ht2c'
+p24
+I34
+I40
+tp25
+a(S'5ht2'
+p26
+I826
+I831
+tp27
+a(S'5ht2'
+p28
+I1876
+I1881
+tp29
+a(S'5ht2c'
+p30
+I612
+I618
+tp31
+a(S'5ht2'
+p32
+I1073
+I1078
+tp33
+a(S'5ht2'
+p34
+I2194
+I2199
+tp35
+a(S'5ht2'
+p36
+I1596
+I1601
+tp37
+a(S'5ht2'
+p38
+I1385
+I1390
+tp39
+a(S'5ht2'
+p40
+I629
+I634
+tp41
+a(S'5ht2'
+p42
+I1994
+I1999
+tp43
+a(S'5ht2'
+p44
+I705
+I710
+tp45
+atp46
+Rp47
+sS'raw_text_methods'
+p48
+g3
+((lp49
+S"(13, u'\\\\bagonist')"
+p50
+atp51
+Rp52
+sS'regions'
+p53
+g3
+((lp54
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p55
+atp56
+Rp57
+sS'year'
+p58
+V2012
+p59
+sS'species'
+p60
+g3
+((lp61
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p62
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p63
+atp64
+Rp65
+sb.

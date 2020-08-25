@@ -2,84 +2,123 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(78, u'\\\\brs ?127445')"
+S'Method.ANTAGONIST'
 p5
-aS"(99, u'\\\\bsb ?242084')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(5, u'\\\\btherap')"
 p11
-aS'Method.AGONIST'
+aS"(26, u'\\\\bbehav')"
 p12
 atp13
 Rp14
-sS'topics'
+sS'receptors'
 p15
 g3
 ((lp16
-S"(21, u'\\\\bpain')"
+(S'5ht2a'
 p17
-aS"(9, u'\\\\bdepress')"
-p18
-aS"(10, u'\\\\banxiety')"
+I1565
+I1571
+tp18
+a(S'5ht2a'
 p19
-aS"(37, u'\\\\baddict')"
-p20
-atp21
-Rp22
-sS'receptors'
+I949
+I955
+tp20
+a(S'5ht2a'
+p21
+I546
+I552
+tp22
+a(S'5ht2c'
 p23
-g3
-((lp24
-S'5ht2a'
+I836
+I842
+tp24
+a(S'5ht2a'
 p25
-aS'5ht2b'
-p26
-aS'5ht2'
+I502
+I508
+tp26
+a(S'5ht2a'
 p27
-aS'5ht2c'
-p28
-atp29
-Rp30
-sS'regions'
+I110
+I116
+tp28
+a(S'5ht2'
+p29
+I301
+I306
+tp30
+a(S'5ht2a'
 p31
-g3
-((lp32
-tp33
-Rp34
-sS'year'
+I1854
+I1860
+tp32
+a(S'5ht2a'
+p33
+I768
+I774
+tp34
+a(S'5ht2a'
 p35
-V2019
-p36
-sS'agonists'
+I1058
+I1064
+tp36
+a(S'5ht2a'
 p37
+I146
+I152
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
+p41
 g3
-((lp38
-S"(141, u'\\\\bro60 ?0175')"
-p39
-atp40
-Rp41
-sS'species'
-p42
-g3
-((lp43
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp42
+S"(53, u'\\\\bketanserin')"
+p43
+aS"(23, u'\\\\bmdl')"
 p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(29, u'\\\\bdiethylamide')"
 p45
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(13, u'\\\\bagonist')"
 p46
-atp47
-Rp48
+aS"(49, u'\\\\bdoi')"
+p47
+aS"(12, u'\\\\bantagonist')"
+p48
+atp49
+Rp50
+sS'regions'
+p51
+g3
+((lp52
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p53
+atp54
+Rp55
+sS'year'
+p56
+V2007
+p57
+sS'species'
+p58
+g3
+((lp59
+tp60
+Rp61
 sb.

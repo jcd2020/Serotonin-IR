@@ -2,70 +2,106 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(175, u'\\\\bsb ?271046')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(8, u'\\\\blearning')"
-p15
-aS"(6, u'\\\\bcognit')"
-p16
-aS"(7, u'\\\\bmemory')"
-p17
-atp18
-Rp19
+((lp10
+S"(7, u'\\\\bdepressi')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2c'
+p16
+I839
+I847
+tp17
+a(S'5ht1d'
+p18
+I1181
+I1187
+tp19
+a(S'5ht2a'
 p20
-g3
-((lp21
-S'5ht6'
+I839
+I845
+tp21
+a(S'5ht1b'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
+I1181
+I1189
+tp23
+a(S'5ht1b'
+p24
+I427
+I435
+tp25
+a(S'5ht2'
+p26
+I1455
+I1460
 tp27
-Rp28
-sS'year'
-p29
-V2004
+a(S'5ht1d'
+p28
+I427
+I433
+tp29
+a(S'5ht2'
 p30
-sS'agonists'
-p31
+I323
+I328
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
+p34
 g3
-((lp32
-S"(149, u'\\\\bmem')"
-p33
-atp34
-Rp35
-sS'species'
+((lp35
+S"(13, u'\\\\bagonist')"
 p36
-g3
-((lp37
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+aS"(9, u'\\\\britanserin')"
+p37
+aS"(47, u'\\\\bsumatriptan')"
 p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p39
 atp40
 Rp41
+sS'regions'
+p42
+g3
+((lp43
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p44
+atp45
+Rp46
+sS'year'
+p47
+V1998
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p51
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

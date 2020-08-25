@@ -2,74 +2,105 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(6, u'\\\\bcognit')"
+(S'5ht1a'
 p15
-atp16
-Rp17
-sS'receptors'
-p18
-g3
-((lp19
-S'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
+I167
+I173
+tp16
+a(S'5ht1d'
+p17
+I677
+I683
+tp18
+a(S'5ht2'
+p19
+I841
+I846
+tp20
+a(S'5ht1a'
+p21
+I901
+I907
+tp22
+a(S'5ht1d'
 p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
+I62
+I68
+tp24
+a(S'5ht1d'
+p25
+I471
+I477
+tp26
+a(S'5ht1d'
 p27
-V2018
-p28
-sS'agonists'
+I1123
+I1129
+tp28
+a(S'5ht1d'
 p29
-g3
-((lp30
-S"(158, u'\\\\blsd')"
+I248
+I254
+tp30
+a(S'5ht1d'
 p31
-aS"(49, u'\\\\blysergic acid diethylamide')"
-p32
+I454
+I460
+tp32
 atp33
 Rp34
-sS'species'
+sS'raw_text_methods'
 p35
 g3
 ((lp36
-S"(3191, u'(?i)\\\\b(worlds|world)\\\\b')"
+S"(6, u'\\\\bgr127935')"
 p37
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+aS"(47, u'\\\\bsumatriptan')"
 p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p39
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p41
-atp42
-Rp43
+atp40
+Rp41
+sS'regions'
+p42
+g3
+((lp43
+tp44
+Rp45
+sS'year'
+p46
+V1996
+p47
+sS'species'
+p48
+g3
+((lp49
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p50
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
 sb.

@@ -2,73 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(17, u'\\\\bnan ?190')"
-p5
-aS"(119, u'\\\\britanserin')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(33, u'\\\\blocomot')"
+p10
+aS"(23, u'\\\\bantipsychotic')"
 p11
-aS'Method.AGONIST'
+aS"(19, u'\\\\bpsychosis')"
 p12
 atp13
 Rp14
-sS'topics'
+sS'receptors'
 p15
 g3
 ((lp16
-tp17
-Rp18
-sS'receptors'
+(S'5ht2a'
+p17
+I313
+I319
+tp18
+a(S'5ht2a'
 p19
-g3
-((lp20
-S'5ht5'
-p21
-aS'5ht1a'
-p22
-aS'5ht2a'
+I49
+I55
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-atp24
-Rp25
-sS'regions'
+g3
+((lp24
+S"(50, u'\\\\bm100907')"
+p25
+aS"(12, u'\\\\bantagonist')"
 p26
+atp27
+Rp28
+sS'regions'
+p29
 g3
-((lp27
-tp28
-Rp29
-sS'year'
-p30
-V2015
+((lp30
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p31
-sS'agonists'
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p32
-g3
-((lp33
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p34
-aS"(175, u'\\\\bdoi')"
-p35
-atp36
-Rp37
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
+p36
+V2001
+p37
 sS'species'
 p38
 g3
 ((lp39
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
 atp42
 Rp43

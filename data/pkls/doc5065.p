@@ -2,100 +2,113 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
-p5
-aS"(193, u'\\\\bmesulergine')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(194, u'\\\\bmethysergide')"
-p8
-aS"(33, u'\\\\byohimbine')"
-p9
-aS"(22, u'\\\\bpropranolol')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
 S'Method.ANTAGONIST'
-p15
+p5
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p6
+atp7
+Rp8
 sS'topics'
-p19
+p9
 g3
-((lp20
-S"(26, u'\\\\bcardiovascular')"
-p21
-aS"(9, u'\\\\bdepress')"
-p22
-atp23
-Rp24
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(17, u'\\\\balzheimer')"
+p13
+aS"(7, u'\\\\bdepressi')"
+p14
+aS"(33, u'\\\\blocomot')"
+p15
+aS"(26, u'\\\\bbehav')"
+p16
+aS"(1, u'\\\\bpatient')"
+p17
+aS"(4, u'\\\\btreatment')"
+p18
+atp19
+Rp20
 sS'receptors'
+p21
+g3
+((lp22
+(S'5ht1a'
+p23
+I1772
+I1778
+tp24
+a(S'5ht1a'
 p25
-g3
-((lp26
-S'5ht1c'
+I1092
+I1098
+tp26
+a(S'5ht1a'
 p27
-aS'5ht1b'
-p28
-aS'5ht1a'
+I1263
+I1269
+tp28
+a(S'5ht1a'
 p29
-aS'5ht3'
-p30
-aS'5ht2'
+I1442
+I1448
+tp30
+a(S'5ht2a'
 p31
-aS'5ht1'
-p32
-aS'5ht1d'
+I1154
+I1160
+tp32
+a(S'5ht2a'
 p33
-atp34
-Rp35
-sS'regions'
-p36
+I1787
+I1793
+tp34
+a(S'5ht1a'
+p35
+I111
+I117
+tp36
+atp37
+Rp38
+sS'raw_text_methods'
+p39
 g3
-((lp37
-tp38
-Rp39
-sS'year'
-p40
-V1993
+((lp40
+S"(13, u'\\\\bagonist')"
 p41
-sS'agonists'
+aS"(51, u'\\\\bway100635')"
 p42
-g3
-((lp43
-S"(53, u'\\\\bmethysergide')"
+aS"(53, u'\\\\bketanserin')"
+p43
+aS"(12, u'\\\\bantagonist')"
 p44
-aS"(165, u'\\\\bmesulergine')"
-p45
-aS"(82, u'\\\\byohimbine')"
-p46
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
+atp45
+Rp46
+sS'regions'
 p47
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p48
-aS"(219, u'\\\\b5 ?ct')"
-p49
-atp50
-Rp51
-sS'species'
-p52
 g3
-((lp53
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p54
-atp55
-Rp56
+((lp48
+tp49
+Rp50
+sS'year'
+p51
+V2014
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p55
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p56
+atp57
+Rp58
 sb.

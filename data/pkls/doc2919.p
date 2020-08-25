@@ -2,70 +2,91 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(33, u'\\\\blocomot')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(26, u'\\\\bcardiovascular')"
+(S'5ht7'
 p16
-aS"(9, u'\\\\bdepress')"
-p17
-atp18
-Rp19
-sS'receptors'
+I1333
+I1338
+tp17
+a(S'5ht1a'
+p18
+I1198
+I1204
+tp19
+a(S'5ht7'
 p20
-g3
-((lp21
-S'5ht1a'
+I854
+I859
+tp21
+a(S'5ht1a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
+I1623
+I1629
+tp23
+a(S'5ht1a'
+p24
+I1020
+I1026
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
 g3
-((lp26
-tp27
-Rp28
-sS'year'
-p29
-V1991
+((lp29
+S"(13, u'\\\\bagonist')"
 p30
-sS'agonists'
+aS"(15, u'\\\\b8ohdpat')"
 p31
-g3
-((lp32
-S"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(38, u'\\\\bssri')"
+p32
+aS"(51, u'\\\\bway100635')"
 p33
-atp34
-Rp35
-sS'species'
-p36
+aS"(12, u'\\\\bantagonist')"
+p34
+atp35
+Rp36
+sS'regions'
+p37
 g3
-((lp37
-S"(3503, u'(?i)\\\\b(fishers|fisher)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp38
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p39
 atp40
 Rp41
+sS'year'
+p42
+V2008
+p43
+sS'species'
+p44
+g3
+((lp45
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p46
+atp47
+Rp48
 sb.

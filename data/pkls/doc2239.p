@@ -1,0 +1,97 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(9, u'\\\\bstress')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht3'
+p16
+I1169
+I1174
+tp17
+a(S'5ht3'
+p18
+I1282
+I1287
+tp19
+a(S'5ht3'
+p20
+I1227
+I1232
+tp21
+a(S'5ht3'
+p22
+I1363
+I1368
+tp23
+a(S'5ht3'
+p24
+I280
+I285
+tp25
+a(S'5ht3'
+p26
+I1497
+I1502
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
+g3
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(20, u'\\\\bondansetron')"
+p33
+aS"(12, u'\\\\bantagonist')"
+p34
+atp35
+Rp36
+sS'regions'
+p37
+g3
+((lp38
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p39
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
+p43
+V2012
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p47
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p48
+atp49
+Rp50
+sb.

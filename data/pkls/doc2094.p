@@ -1,0 +1,92 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.KNOCKOUT'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(9, u'\\\\bstress')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht4'
+p18
+I430
+I435
+tp19
+a(S'5ht4'
+p20
+I779
+I784
+tp21
+a(S'5ht4'
+p22
+I50
+I55
+tp23
+a(S'5ht4'
+p24
+I244
+I249
+tp25
+a(S'5ht4'
+p26
+I156
+I161
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
+g3
+((lp31
+S"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
+p35
+g3
+((lp36
+tp37
+Rp38
+sS'year'
+p39
+V2004
+p40
+sS'species'
+p41
+g3
+((lp42
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p43
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p44
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p45
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p46
+atp47
+Rp48
+sb.

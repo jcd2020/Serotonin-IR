@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,60 +10,92 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.PET'
+S"(6, u'\\\\baggressi')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-tp14
-Rp15
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(33, u'\\\\blocomot')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
 p16
-g3
-((lp17
-S'5ht1b'
+I1105
+I1111
+tp17
+a(S'5ht1a'
 p18
-aS'5ht5'
-p19
-atp20
-Rp21
-sS'regions'
+I1318
+I1324
+tp19
+a(S'5ht1a'
+p20
+I1397
+I1403
+tp21
+a(S'5ht1a'
 p22
-g3
-((lp23
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+I516
+I522
+tp23
+a(S'5ht1a'
 p24
-atp25
-Rp26
-sS'year'
-p27
-V2010
+I800
+I806
+tp25
+a(S'5ht1a'
+p26
+I619
+I625
+tp27
+a(S'5ht1a'
 p28
-sS'agonists'
-p29
-g3
-((lp30
-S"(175, u'\\\\bdoi')"
-p31
+I1218
+I1224
+tp29
+a(S'5ht1a'
+p30
+I54
+I60
+tp31
 atp32
 Rp33
-sS'species'
+sS'raw_text_methods'
 p34
 g3
 ((lp35
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+S"(54, u'\\\\bautoradiography')"
 p36
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-atp39
-Rp40
+atp37
+Rp38
+sS'regions'
+p39
+g3
+((lp40
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V2010
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p48
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p49
+atp50
+Rp51
 sb.

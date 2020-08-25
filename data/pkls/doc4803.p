@@ -2,80 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKDOWN'
-p9
-aS'Method.STAINING'
-p10
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p11
-atp12
-Rp13
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-S"(9, u'\\\\bdepress')"
-p16
-aS"(10, u'\\\\banxiety')"
+((lp9
+S"(16, u'\\\\blearning')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(15, u'\\\\bmemory')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht4'
 p17
-aS"(1, u'\\\\bmood')"
-p18
+I455
+I460
+tp18
 atp19
 Rp20
-sS'receptors'
+sS'raw_text_methods'
 p21
 g3
 ((lp22
-S'5ht1a'
+S"(13, u'\\\\bagonist')"
 p23
-atp24
-Rp25
+aS"(35, u'\\\\badenosine')"
+p24
+atp25
+Rp26
 sS'regions'
-p26
+p27
 g3
-((lp27
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp28
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p29
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p30
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
+p33
+V2012
 p34
-V2009
-p35
-sS'agonists'
-p36
-g3
-((lp37
-tp38
-Rp39
 sS'species'
-p40
+p35
 g3
-((lp41
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p42
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p43
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p44
-atp45
-Rp46
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

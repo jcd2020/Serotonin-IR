@@ -2,64 +2,78 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.IMMUNOHISTOCHEMISTRY'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(17, u'\\\\balzheimer')"
 p12
-g3
-((lp13
-S"(20, u'\\\\baggressi')"
+aS"(34, u'\\\\bparkinson')"
+p13
+aS"(15, u'\\\\bmemory')"
 p14
-atp15
-Rp16
+aS"(1, u'\\\\bpatient')"
+p15
+aS"(4, u'\\\\btreatment')"
+p16
+atp17
+Rp18
 sS'receptors'
-p17
-g3
-((lp18
-S'5ht1b'
 p19
-atp20
-Rp21
-sS'regions'
-p22
 g3
-((lp23
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p24
+((lp20
+(S'5ht6'
+p21
+I986
+I991
+tp22
+a(S'5ht6'
+p23
+I108
+I113
+tp24
 atp25
 Rp26
-sS'year'
+sS'raw_text_methods'
 p27
-V2007
-p28
-sS'agonists'
+g3
+((lp28
+S"(12, u'\\\\bantagonist')"
 p29
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp30
-tp31
-Rp32
+((lp33
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p34
+atp35
+Rp36
+sS'year'
+p37
+V2017
+p38
 sS'species'
-p33
+p39
 g3
-((lp34
-S"(4208, u'(?i)\\\\b(canines|canine)\\\\b')"
-p35
-aS"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
-p36
-atp37
-Rp38
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

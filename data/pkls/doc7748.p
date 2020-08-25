@@ -2,82 +2,105 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(144, u'\\\\bgr ?113808')"
+S'Method.IMMUNOHISTOCHEMISTRY'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(6, u'\\\\baggressi')"
 p10
-aS'Method.AGONIST'
+aS"(25, u'\\\\bsocial')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(5, u'\\\\bgastrointestin')"
-p16
-aS"(21, u'\\\\bpain')"
-p17
-aS"(9, u'\\\\bdepress')"
-p18
-aS"(24, u'\\\\banalgesi')"
-p19
-atp20
-Rp21
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(9, u'\\\\bstress')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
+p18
+I1939
+I1945
+tp19
+a(S'5ht2a'
+p20
+I573
+I579
+tp21
+a(S'5ht1a'
 p22
-g3
-((lp23
-S'5ht4a'
+I101
+I107
+tp23
+a(S'5ht1a'
 p24
-aS'5ht4'
-p25
-aS'5ht4d'
+I1714
+I1720
+tp25
+a(S'5ht1a'
 p26
-atp27
-Rp28
-sS'regions'
-p29
-g3
-((lp30
-S"(7, u'(?i)\\\\b(caudals|caudal)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)\\\\b')"
-p31
-atp32
-Rp33
-sS'year'
+I1254
+I1260
+tp27
+a(S'5ht1a'
+p28
+I562
+I568
+tp29
+a(S'5ht2a'
+p30
+I112
+I118
+tp31
+a(S'5ht1a'
+p32
+I1501
+I1507
+tp33
+a(S'5ht1a'
 p34
-V2017
-p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(197, u'\\\\bbimu ?8')"
+I1608
+I1614
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
 p38
-atp39
-Rp40
-sS'species'
-p41
 g3
-((lp42
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+((lp39
+S"(3, u'\\\\bimmunoreactiv')"
+p40
+atp41
+Rp42
+sS'regions'
 p43
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp44
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p45
 atp46
 Rp47
+sS'year'
+p48
+V2011
+p49
+sS'species'
+p50
+g3
+((lp51
+tp52
+Rp53
 sb.

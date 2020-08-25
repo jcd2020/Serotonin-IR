@@ -1,0 +1,4 @@
+Perrone, R., et al. (2003). "Synthesis and structure-affinity relationships of 1-[omega-(4-aryl-1-piperazinyl)alkyl]-1-aryl ketones as 5-HT(7) receptor ligands." J Med Chem 46(4): 646-649.
+
+	Structural requirements for 5-HT(7) receptor affinity and selectivity over that for the 5-HT(1A) receptor were studied on a series of 1-[omega-(4-aryl-1-piperazinyl)alkyl]-1-aryl ketones. The presence of a hydroxy or methoxy substituent on aryl ketone moiety, alkyl chain length, and the nature of N-1-piperazine substituent were explored. 6-[4-(3-Benzisoxazolyl)-1-piperazinyl]-1-(2-hydroxyphenyl)-1-hexanone (40) and its methoxy analogue 43 exhibited high 5-HT(7) receptor affinities (Ki = 2.93 nM and 0.90 nM, respectively) and agonist properties when tested for 5-HT(7) receptor-mediated relaxation of substance P-induced guinea-pig ileum contraction.
+

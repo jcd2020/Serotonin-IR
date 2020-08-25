@@ -1,0 +1,4 @@
+Budziszewska, B., et al. (1995). "Role of the serotoninergic system in the regulation of glucocorticoid and mineralocorticoid receptors in the rat hippocampus." Pol J Pharmacol 47(4): 299-304.
+
+	Effects of 5-HT receptor agonists (8-OH-DPAT, DOI and mCPP) on the binding parameters of corticosteroid receptors in the hippocampus of adult rats were studied. Glucocorticoid (GR) and mineralocorticoid (MR) receptors were examined by an in vitro [3H]corticosterone binding in cytosol, using the selective GR agonist RU 28362 to discriminate between MR and GR. Treatment with 8-OH-DPAT and mCPP given for 7 but not 1 days increased the density of MR. None of the compounds under investigation influenced the density of GR or the affinity of MR and GR in the rat hippocampus. Our results suggest that, in contrast to the postnatal period, the 5-HT1A and/or 5-HT2C, but not 5-HT2A, receptor is mainly involved in the regulation of MR in adult rats.
+

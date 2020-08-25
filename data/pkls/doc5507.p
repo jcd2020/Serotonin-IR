@@ -2,70 +2,78 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(10, u'\\\\banxiety')"
-p14
-aS"(4, u'\\\\blocomot')"
-p15
-atp16
-Rp17
+((lp10
+tp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht1d'
-p20
-atp21
-Rp22
-sS'regions'
-p23
+((lp14
+(S'5ht1a'
+p15
+I746
+I752
+tp16
+a(S'5ht1a'
+p17
+I299
+I305
+tp18
+a(S'5ht1a'
+p19
+I579
+I585
+tp20
+a(S'5ht1a'
+p21
+I464
+I470
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp24
-tp25
-Rp26
-sS'year'
+((lp26
+S"(13, u'\\\\bagonist')"
 p27
-V2010
+aS"(46, u'\\\\bspiperone')"
 p28
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p29
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp30
-tp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(702, u'(?i)\\\\b(genets|genet)\\\\b')"
-p35
-aS"(7423, u'(?i)\\\\b(norways|norway)(-|\\\\s+)?(rats|rat)\\\\b')"
+((lp33
+tp34
+Rp35
+sS'year'
 p36
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+V1994
 p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p38
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p39
-atp40
-Rp41
+g3
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

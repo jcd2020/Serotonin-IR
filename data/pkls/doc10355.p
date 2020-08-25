@@ -1,0 +1,87 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.STIMULATION'
+p5
+aS'Method.ANTAGONIST'
+p6
+aS'Method.AGONIST'
+p7
+atp8
+Rp9
+sS'topics'
+p10
+g3
+((lp11
+S"(16, u'\\\\blearning')"
+p12
+aS"(15, u'\\\\bmemory')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht4'
+p18
+I33
+I38
+tp19
+a(S'5ht4'
+p20
+I813
+I818
+tp21
+a(S'5ht4'
+p22
+I162
+I167
+tp23
+a(S'5ht4'
+p24
+I529
+I534
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
+g3
+((lp29
+S"(13, u'\\\\bagonist')"
+p30
+aS"(12, u'\\\\bantagonist')"
+p31
+atp32
+Rp33
+sS'regions'
+p34
+g3
+((lp35
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p36
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p37
+atp38
+Rp39
+sS'year'
+p40
+V1999
+p41
+sS'species'
+p42
+g3
+((lp43
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p44
+atp45
+Rp46
+sb.

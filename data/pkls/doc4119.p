@@ -2,82 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.AGONIST'
 p5
-aS"(34, u'\\\\bmetergoline')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+S"(2, u'\\\\bdisorder')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2a'
+p15
+I208
+I214
+tp16
+a(S'5ht2a'
+p17
+I412
+I418
+tp18
+a(S'5ht2a'
 p19
-g3
-((lp20
-S'5ht1b'
+I964
+I970
+tp20
+a(S'5ht2a'
 p21
-aS'5ht1d'
-p22
-atp23
-Rp24
-sS'regions'
-p25
+I110
+I116
+tp22
+a(S'5ht2a'
+p23
+I1061
+I1067
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp26
-tp27
-Rp28
-sS'year'
+((lp28
+S"(13, u'\\\\bagonist')"
 p29
-V1989
-p30
-sS'agonists'
-p31
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp32
-S"(163, u'\\\\bfenfluramine')"
-p33
-aS"(11, u'\\\\bamphetamine')"
-p34
-aS"(192, u'\\\\bquipazine')"
-p35
-aS"(67, u'\\\\bru ?24969')"
+((lp33
+tp34
+Rp35
+sS'year'
 p36
-aS"(152, u'\\\\bnorfenfluramine')"
+V1998
 p37
-atp38
-Rp39
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
-p42
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p45
-atp46
-Rp47
+((lp39
+tp40
+Rp41
 sb.

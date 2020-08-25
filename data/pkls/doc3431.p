@@ -2,70 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-tp14
-Rp15
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
 p16
-g3
-((lp17
-S'5ht1a'
+I392
+I397
+tp17
+a(S'5ht2a'
 p18
-aS'5ht2c'
-p19
-aS'5ht2a'
+I1078
+I1083
+tp19
+a(S'5ht2a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
+I38
+I44
+tp21
+a(S'5ht2a'
+p22
+I737
+I743
+tp23
+a(S'5ht2a'
+p24
+I378
+I389
 tp25
-Rp26
-sS'year'
-p27
-V2018
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-sS'agonists'
-p29
 g3
-((lp30
-S"(85, u'\\\\b8 ?oh ?dpat')"
+((lp29
+S"(17, u'\\\\bpet')"
+p30
+aS"(19, u'\\\\bpositron emission tomography')"
 p31
-aS"(175, u'\\\\bdoi')"
+aS"(18, u'\\\\bimaging')"
 p32
-atp33
-Rp34
-sS'species'
-p35
+aS"(12, u'\\\\bantagonist')"
+p33
+atp34
+Rp35
+sS'regions'
+p36
 g3
-((lp36
-S"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
-p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp37
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p38
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p39
 atp40
 Rp41
+sS'year'
+p42
+V2002
+p43
+sS'species'
+p44
+g3
+((lp45
+tp46
+Rp47
 sb.

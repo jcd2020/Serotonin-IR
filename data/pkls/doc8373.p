@@ -2,68 +2,92 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(16, u'\\\\bfeed')"
-p14
-atp15
-Rp16
+((lp10
+S"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp15
+(S'5ht2'
+p16
+I875
+I880
+tp17
+a(S'5ht1b'
+p18
+I801
+I807
+tp19
+a(S'5ht1a'
+p20
+I1610
+I1616
+tp21
+a(S'5ht1a'
 p22
-g3
-((lp23
-tp24
+I546
+I552
+tp23
+atp24
 Rp25
-sS'year'
+sS'raw_text_methods'
 p26
-V2013
-p27
-sS'agonists'
+g3
+((lp27
+S"(53, u'\\\\bketanserin')"
 p28
-g3
-((lp29
-tp30
-Rp31
-sS'species'
+aS"(22, u'\\\\bbuspirone')"
+p29
+aS"(15, u'\\\\b8ohdpat')"
+p30
+aS"(13, u'\\\\bagonist')"
+p31
+aS"(46, u'\\\\bspiperone')"
 p32
-g3
-((lp33
-S"(3883, u'(?i)\\\\b(teleosts|teleost)\\\\b')"
-p34
-aS"(5747, u'(?i)\\\\b(toadfish|toadfish)\\\\b')"
-p35
-aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
+p33
+atp34
+Rp35
+sS'regions'
 p36
-aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
-p37
-aS"(3882, u'(?i)\\\\b(teleosts|teleost)(-|\\\\s+)?(fish|fish)\\\\b')"
+g3
+((lp37
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p38
-atp39
-Rp40
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p39
+atp40
+Rp41
+sS'year'
+p42
+V1992
+p43
+sS'species'
+p44
+g3
+((lp45
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p46
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

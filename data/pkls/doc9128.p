@@ -1,0 +1,126 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(33, u'\\\\blocomot')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
+sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1a'
+p19
+I1428
+I1433
+tp20
+a(S'5ht2a'
+p21
+I161
+I167
+tp22
+a(S'5ht2a'
+p23
+I1440
+I1445
+tp24
+a(S'5ht2a'
+p25
+I2012
+I2017
+tp26
+a(S'5ht2c'
+p27
+I161
+I168
+tp28
+a(S'5ht1a'
+p29
+I150
+I156
+tp30
+a(S'5ht2a'
+p31
+I1176
+I1181
+tp32
+a(S'5ht2c'
+p33
+I1176
+I1182
+tp34
+a(S'5ht1a'
+p35
+I1130
+I1135
+tp36
+a(S'5ht2c'
+p37
+I1440
+I1446
+tp38
+a(S'5ht2c'
+p39
+I2012
+I2018
+tp40
+atp41
+Rp42
+sS'raw_text_methods'
+p43
+g3
+((lp44
+S"(9, u'\\\\britanserin')"
+p45
+aS"(12, u'\\\\bantagonist')"
+p46
+aS"(11, u'\\\\bfluoxetine')"
+p47
+atp48
+Rp49
+sS'regions'
+p50
+g3
+((lp51
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p52
+atp53
+Rp54
+sS'year'
+p55
+V2015
+p56
+sS'species'
+p57
+g3
+((lp58
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p59
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p60
+atp61
+Rp62
+sb.

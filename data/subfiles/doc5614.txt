@@ -1,0 +1,4 @@
+Kilpatrick, A. T., et al. (1989). "The alpha 2-adrenoceptor antagonist SK&F 104078 has high affinity for 5-HT1A and 5-HT2 receptors." Eur J Pharmacol 166(2): 315-318.
+
+	The affinity of SK&F 104078, a putative selective postjunctional alpha 2-adrenoceptor antagonist, was determined at 5-HT1A and 5-HT2 receptors in rat brain. SK&F 104078 had moderate affinity towards alpha 2-adrenoceptors (pKi 6.7) but displayed higher affinity at 5-HT1A (pKi 8.1) and 5-HT2 (pKi 7.6) receptors. If SK&F 104078 is used in functional studies to define heterogeneity within of alpha 2-adrenoceptors, care must be taken to define the role of 5-HT1A and 5-HT2 receptors in the response being measured.
+

@@ -2,72 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.IMMUNOHISTOCHEMISTRY'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(14, u'\\\\bcogniti')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(9, u'\\\\bstress')"
+p12
+aS"(3, u'\\\\bclinical')"
 p13
-g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-aS"(35, u'\\\\bstress')"
-p16
-aS"(11, u'\\\\banxiolyt')"
-p17
-aS"(10, u'\\\\banxiety')"
-p18
-aS"(16, u'\\\\bfeed')"
-p19
-atp20
-Rp21
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2a'
+p18
+I40
+I45
+tp19
+a(S'5ht2a'
+p20
+I637
+I642
+tp21
+a(S'5ht2a'
 p22
-g3
-((lp23
-S'5ht1a'
+I1097
+I1102
+tp23
+a(S'5ht2a'
 p24
-atp25
-Rp26
-sS'regions'
-p27
+I706
+I711
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
 g3
-((lp28
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-atp30
+((lp29
+tp30
 Rp31
-sS'year'
+sS'regions'
 p32
-V2009
-p33
-sS'agonists'
+g3
+((lp33
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p34
-g3
-((lp35
-tp36
-Rp37
-sS'species'
+atp35
+Rp36
+sS'year'
+p37
+V2010
 p38
+sS'species'
+p39
 g3
-((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

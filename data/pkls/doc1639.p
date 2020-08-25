@@ -2,76 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(15, u'\\\\bmemory')"
+p10
+aS"(16, u'\\\\blearning')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(2, u'\\\\bdisorder')"
 p13
-g3
-((lp14
-S"(5, u'\\\\bgastrointestin')"
-p15
-aS"(6, u'\\\\bcognit')"
-p16
-atp17
-Rp18
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht4a'
-p21
-aS'5ht4'
+((lp17
+(S'5ht1a'
+p18
+I41
+I47
+tp19
+a(S'5ht1a'
+p20
+I259
+I265
+tp21
+a(S'5ht1a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
+I1170
+I1176
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp26
-tp27
-Rp28
-sS'year'
-p29
-V2013
-p30
-sS'agonists'
+((lp27
+S"(12, u'\\\\bantagonist')"
+p28
+atp29
+Rp30
+sS'regions'
 p31
 g3
 ((lp32
-S"(202, u'\\\\bprucalopride')"
-p33
-atp34
-Rp35
-sS'species'
+tp33
+Rp34
+sS'year'
+p35
+V1997
 p36
+sS'species'
+p37
 g3
-((lp37
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
+((lp38
+tp39
+Rp40
 sb.

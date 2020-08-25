@@ -2,72 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.STIMULATION'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(35, u'\\\\bstress')"
-p14
-aS"(12, u'\\\\banxiogen')"
-p15
-aS"(10, u'\\\\banxiety')"
-p16
-atp17
-Rp18
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp15
+(S'5ht2a'
+p16
+I963
+I969
+tp17
+a(S'5ht2'
+p18
+I963
+I970
+tp19
+a(S'5ht1'
+p20
+I902
+I907
+tp21
+a(S'5ht2a'
+p22
+I72
+I83
+tp23
+a(S'5ht2c'
 p24
-g3
-((lp25
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1558
+I1566
+tp25
+a(S'5ht2a'
 p26
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
+I1558
+I1564
+tp27
 atp28
 Rp29
-sS'year'
+sS'raw_text_methods'
 p30
-V2013
-p31
-sS'agonists'
+g3
+((lp31
+S"(13, u'\\\\bagonist')"
 p32
-g3
-((lp33
-tp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
+p33
+aS"(36, u'\\\\bbenzodiazepine')"
+p34
+aS"(49, u'\\\\bdoi')"
+p35
+atp36
+Rp37
+sS'regions'
 p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p40
-atp41
-Rp42
+g3
+((lp39
+tp40
+Rp41
+sS'year'
+p42
+V2004
+p43
+sS'species'
+p44
+g3
+((lp45
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p46
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

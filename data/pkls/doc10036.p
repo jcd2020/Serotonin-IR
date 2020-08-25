@@ -2,66 +2,104 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.KNOCKOUT'
 p5
-aS"(119, u'\\\\britanserin')"
+aS'Method.ANTAGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(22, u'\\\\bschizophreni')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(14, u'\\\\bcogniti')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(33, u'\\\\blocomot')"
 p14
-g3
-((lp15
-tp16
-Rp17
+aS"(29, u'\\\\bhyperactiv')"
+p15
+aS"(23, u'\\\\bantipsychotic')"
+p16
+aS"(5, u'\\\\btherap')"
+p17
+atp18
+Rp19
 sS'receptors'
-p18
-g3
-((lp19
-S'5ht2b'
 p20
-aS'5ht3'
-p21
-atp22
-Rp23
-sS'regions'
+g3
+((lp21
+(S'5ht1'
+p22
+I746
+I751
+tp23
+a(S'5ht1a'
 p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
+I199
+I205
+tp25
+a(S'5ht1a'
+p26
+I58
+I64
+tp27
+a(S'5ht1a'
 p28
-V2001
-p29
-sS'agonists'
+I1406
+I1412
+tp29
+a(S'5ht1a'
 p30
-g3
-((lp31
-tp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(916, u'(?i)\\\\b(gastrulas|gastrula)\\\\b')"
+I472
+I478
+tp31
+a(S'5ht1a'
+p32
+I1543
+I1549
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
 p36
-aS"(1266, u'(?i)\\\\b(embryos|embryo)\\\\b')"
-p37
-atp38
-Rp39
+g3
+((lp37
+S"(40, u'\\\\bclozapine')"
+p38
+aS"(5, u'\\\\bmk801')"
+p39
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+tp45
+Rp46
+sS'year'
+p47
+V2010
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p51
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p52
+atp53
+Rp54
 sb.

@@ -2,78 +2,93 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(14, u'\\\\bcogniti')"
 p10
-aS'Method.AGONIST'
+aS"(7, u'\\\\bdepressi')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(11, u'\\\\banxiolyt')"
-p16
-atp17
-Rp18
+aS"(23, u'\\\\bantipsychotic')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
+p17
+I1493
+I1499
+tp18
+a(S'5ht2a'
 p19
-g3
-((lp20
-S'5ht1a'
+I1650
+I1656
+tp20
+a(S'5ht2a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I1182
+I1188
+tp22
+a(S'5ht5'
+p23
+I269
+I279
+tp24
+a(S'5ht2a'
+p25
+I301
+I307
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
 g3
-((lp25
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p26
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+((lp30
+S"(41, u'\\\\bhaloperidol')"
 p31
-V2003
+aS"(40, u'\\\\bclozapine')"
 p32
-sS'agonists'
+aS"(23, u'\\\\bmdl')"
 p33
-g3
-((lp34
-S"(25, u'\\\\bdihydroergotamine')"
-p35
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p36
-aS"(149, u'\\\\bmem')"
+aS"(12, u'\\\\bantagonist')"
+p34
+atp35
+Rp36
+sS'regions'
 p37
-aS"(219, u'\\\\b5 ?ct')"
-p38
-atp39
-Rp40
-sS'species'
-p41
 g3
-((lp42
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp38
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p39
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
 p43
-atp44
-Rp45
+V1998
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

@@ -2,72 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(13, u'\\\\bantidepress')"
 p10
-aS'Method.AGONIST'
+aS"(7, u'\\\\bdepressi')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(12, u'\\\\bsleep')"
+p12
+aS"(8, u'\\\\banxi')"
+p13
+aS"(1, u'\\\\bpatient')"
 p14
-g3
-((lp15
-tp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p15
+aS"(3, u'\\\\bclinical')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
-S'5ht1a'
-p20
-aS'5ht2'
+((lp20
+(S'5ht1'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
+I486
+I491
+tp22
+a(S'5ht5'
+p23
+I297
+I307
+tp24
+a(S'5ht2'
 p25
-g3
-((lp26
-tp27
+I388
+I393
+tp26
+atp27
 Rp28
-sS'year'
+sS'raw_text_methods'
 p29
-V1991
-p30
-sS'agonists'
+g3
+((lp30
+S"(12, u'\\\\bantagonist')"
 p31
-g3
-((lp32
-S"(157, u'\\\\bdmt')"
-p33
-aS"(26, u'\\\\bdimethyltryptamine')"
+atp32
+Rp33
+sS'regions'
 p34
-aS"(235, u'\\\\bnn ?dimethyltryptamine')"
-p35
-atp36
-Rp37
-sS'species'
-p38
 g3
-((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp35
+tp36
+Rp37
+sS'year'
+p38
+V1995
+p39
+sS'species'
 p40
-atp41
-Rp42
+g3
+((lp41
+tp42
+Rp43
 sb.

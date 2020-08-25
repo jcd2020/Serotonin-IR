@@ -2,106 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(5, u'\\\\bcyanopindolol')"
+S'Method.KNOCKOUT'
 p5
-aS"(130, u'\\\\bzacopride')"
-p6
-aS"(34, u'\\\\bmetergoline')"
-p7
-aS"(21, u'\\\\bpindolol')"
-p8
-aS"(125, u'\\\\btropisetron')"
-p9
-aS"(117, u'\\\\bketanserin')"
-p10
-aS"(203, u'\\\\btfmpp')"
-p11
-aS"(193, u'\\\\bmesulergine')"
-p12
-aS"(17, u'\\\\bnan ?190')"
-p13
-aS"(26, u'\\\\bspiperone')"
-p14
-aS"(119, u'\\\\britanserin')"
-p15
-aS"(58, u'\\\\bhaloperidol')"
-p16
-atp17
-Rp18
-sS'methods'
-p19
-g3
-((lp20
-S'Method.ANTAGONIST'
-p21
 aS'Method.AGONIST'
-p22
-atp23
-Rp24
+p6
+atp7
+Rp8
 sS'topics'
-p25
+p9
 g3
-((lp26
-tp27
-Rp28
+((lp10
+tp11
+Rp12
 sS'receptors'
-p29
+p13
 g3
-((lp30
-S'5ht1c'
-p31
-aS'5ht1b'
-p32
-aS'5ht1a'
-p33
-aS'5ht3a'
-p34
-aS'5ht2'
-p35
-aS'5ht2a'
-p36
-atp37
-Rp38
+((lp14
+(S'5ht1a'
+p15
+I667
+I673
+tp16
+a(S'5ht1a'
+p17
+I1170
+I1176
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+aS"(15, u'\\\\b8ohdpat')"
+p24
+aS"(34, u'\\\\b5ct')"
+p25
+atp26
+Rp27
 sS'regions'
-p39
+p28
 g3
-((lp40
-tp41
-Rp42
+((lp29
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p43
-V1992
-p44
-sS'agonists'
-p45
-g3
-((lp46
-S"(208, u'\\\\bzacopride')"
-p47
-aS"(165, u'\\\\bmesulergine')"
-p48
-aS"(178, u'\\\\btfmpp')"
-p49
-aS"(155, u'\\\\bmcpp')"
-p50
-aS"(43, u'\\\\bhaloperidol')"
-p51
-aS"(45, u'\\\\bipsapirone')"
-p52
-atp53
-Rp54
+p33
+V2006
+p34
 sS'species'
-p55
+p35
 g3
-((lp56
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p57
-atp58
-Rp59
+((lp36
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p37
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p38
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p39
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p40
+atp41
+Rp42
 sb.

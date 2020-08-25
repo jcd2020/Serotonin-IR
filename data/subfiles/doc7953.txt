@@ -1,4 +1,0 @@
-Marchais, S., et al. (2001). "Short and efficient syntheses of analogues of WAY-100635: New and potent 5-HT1A receptor antagonists." Bioorg Med Chem 9(3): 695-702.
-
-	Simple syntheses of four new and potent analogues of the 5-HT1A receptor ligand, WAY-100635 are described, namely the 6-(pyridinyl)-bromo-, the 6-(pyridinyl)-fluoro-, the pyrimidine- and the 5-(pyridinyl)-bromo-analogues. The first three analogues were obtained by aromatic nucleophilic substitution of the 2,6-dihalogenopyridine (activated or not as an N-oxide) or of the 2-chloropyrimidine with the corresponding amine nucleophile as a key step. The fourth analogue, the 5-(pyridinyl)-bromo-analogue, was synthesized from the 2-amino-5-bromopyridine via a progressive elongation of the skeleton. The four compounds described are all full antagonists and show good in vitro binding affinities (K-i). (C) 2001 Elsevier Science Ltd. All rights reserved.
-

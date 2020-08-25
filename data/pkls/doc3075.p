@@ -2,92 +2,93 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(111, u'\\\\bolanzapine')"
+S'Method.PET'
 p5
-aS"(110, u'\\\\bclozapine')"
-p6
-aS"(114, u'\\\\bziprasidone')"
-p7
-aS"(31, u'\\\\bway ?100635')"
-p8
-aS"(58, u'\\\\bhaloperidol')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
-S'Method.ANTAGONIST'
-p14
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p6
+atp7
+Rp8
 sS'topics'
-p18
+p9
 g3
-((lp19
-S"(6, u'\\\\bcognit')"
-p20
-atp21
-Rp22
+((lp10
+S"(3, u'\\\\bclinical')"
+p11
+atp12
+Rp13
 sS'receptors'
-p23
+p14
 g3
-((lp24
-S'5ht1a'
-p25
+((lp15
+(S'5ht2a'
+p16
+I384
+I390
+tp17
+a(S'5ht2a'
+p18
+I902
+I908
+tp19
+a(S'5ht2a'
+p20
+I279
+I285
+tp21
+a(S'5ht2a'
+p22
+I65
+I71
+tp23
+a(S'5ht2a'
+p24
+I255
+I266
+tp25
 atp26
 Rp27
-sS'regions'
+sS'raw_text_methods'
 p28
 g3
 ((lp29
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p30
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(17, u'\\\\bpet')"
 p31
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
 p32
-atp33
-Rp34
-sS'year'
-p35
-V2005
+aS"(18, u'\\\\bimaging')"
+p33
+atp34
+Rp35
+sS'regions'
 p36
-sS'agonists'
-p37
 g3
-((lp38
-S"(57, u'\\\\bolanzapine')"
-p39
-aS"(23, u'\\\\bclozapine')"
-p40
-aS"(84, u'\\\\bziprasidone')"
+((lp37
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
 p41
-aS"(43, u'\\\\bhaloperidol')"
+V2013
 p42
-atp43
-Rp44
 sS'species'
-p45
+p43
 g3
-((lp46
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+((lp44
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p45
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p46
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p47
-aS"(5510, u'(?i)\\\\b(bays|bay)\\\\b')"
-p48
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p49
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p50
-atp51
-Rp52
+atp48
+Rp49
 sb.

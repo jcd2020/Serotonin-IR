@@ -2,70 +2,103 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.PET'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(13, u'\\\\bantidepress')"
 p13
-g3
-((lp14
-tp15
-Rp16
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(3, u'\\\\bclinical')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp19
+(S'5ht1a'
+p20
+I1639
+I1645
+tp21
+a(S'5ht1a'
 p22
-g3
-((lp23
-tp24
-Rp25
-sS'year'
+I227
+I233
+tp23
+a(S'5ht1a'
+p24
+I1476
+I1482
+tp25
+a(S'5ht1a'
 p26
-V2000
-p27
-sS'agonists'
+I1048
+I1054
+tp27
+a(S'5ht1a'
 p28
-g3
-((lp29
-S"(20, u'\\\\bbuspirone')"
+I1439
+I1445
+tp29
+a(S'5ht1a'
 p30
-aS"(163, u'\\\\bfenfluramine')"
-p31
-atp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+I580
+I586
+tp31
+a(S'5ht1a'
+p32
+I447
+I453
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
 p36
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p37
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+g3
+((lp37
+S"(17, u'\\\\bpet')"
 p38
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
 p39
-atp40
-Rp41
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+tp45
+Rp46
+sS'year'
+p47
+V2003
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p51
+atp52
+Rp53
 sb.

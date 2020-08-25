@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,58 +10,64 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.ANTAGONIST'
+S"(5, u'\\\\btherap')"
 p9
-aS'Method.AGONIST'
+aS"(26, u'\\\\bbehav')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-atp16
-Rp17
+aS"(34, u'\\\\bparkinson')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
+p16
+I771
+I776
+tp17
+a(S'5ht2a'
 p18
+I1105
+I1110
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-tp25
+((lp23
+S"(54, u'\\\\bautoradiography')"
+p24
+atp25
 Rp26
-sS'year'
+sS'regions'
 p27
-V1999
-p28
-sS'agonists'
-p29
 g3
-((lp30
-S"(85, u'\\\\b8 ?oh ?dpat')"
+((lp28
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p29
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p30
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p31
 atp32
 Rp33
-sS'species'
+sS'year'
 p34
-g3
-((lp35
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+V2018
+p35
+sS'species'
 p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-atp38
-Rp39
+g3
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

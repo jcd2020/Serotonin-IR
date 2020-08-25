@@ -2,76 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
+S'Method.STAINING'
 p5
-aS"(31, u'\\\\bway ?100635')"
+aS'Method.IMMUNOHISTOCHEMISTRY'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.PET'
+S"(26, u'\\\\bbehav')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp16
+(S'5ht5a'
+p17
+I55
+I61
+tp18
+a(S'5ht5a'
+p19
+I368
+I374
+tp20
+a(S'5ht5a'
+p21
+I601
+I607
+tp22
+a(S'5ht5a'
 p23
-g3
-((lp24
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1091
+I1097
+tp24
+a(S'5ht5a'
 p25
-atp26
-Rp27
-sS'year'
-p28
-V1997
+I919
+I925
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-sS'agonists'
-p30
 g3
-((lp31
-S"(20, u'\\\\bbuspirone')"
-p32
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+((lp30
+tp31
+Rp32
+sS'regions'
 p33
-atp34
-Rp35
-sS'species'
-p36
 g3
-((lp37
-S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
+((lp34
+tp35
+Rp36
+sS'year'
+p37
+V2010
 p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+sS'species'
 p39
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p40
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+g3
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sb.

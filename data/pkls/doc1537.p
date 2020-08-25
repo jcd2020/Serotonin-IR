@@ -2,70 +2,98 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
+S'Method.ANTAGONIST'
 p5
-aS"(33, u'\\\\byohimbine')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+tp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp14
+(S'5ht2'
+p15
+I1048
+I1052
+tp16
+a(S'5ht2'
+p17
+I1361
+I1365
+tp18
+a(S'5ht1'
+p19
+I1039
+I1043
+tp20
+a(S'5ht2'
+p21
+I2260
+I2264
+tp22
+a(S'5ht1a'
 p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
-p27
-V1988
-p28
-sS'agonists'
+I1688
+I1693
+tp24
+a(S'5ht2'
+p25
+I1095
+I1099
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
 g3
 ((lp30
-S"(65, u'\\\\brauwolscine')"
+S"(53, u'\\\\bketanserin')"
 p31
-aS"(149, u'\\\\bmem')"
+aS"(33, u'\\\\bmcpp')"
 p32
-aS"(82, u'\\\\byohimbine')"
+aS"(15, u'\\\\b8ohdpat')"
 p33
-atp34
-Rp35
-sS'species'
+aS"(13, u'\\\\bagonist')"
+p34
+aS"(49, u'\\\\bdoi')"
+p35
+aS"(12, u'\\\\bantagonist')"
 p36
-g3
-((lp37
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+aS"(9, u'\\\\britanserin')"
+p37
+aS"(45, u'\\\\bmetergoline')"
 p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+atp39
+Rp40
+sS'regions'
+p41
+g3
+((lp42
+tp43
+Rp44
+sS'year'
+p45
+V1989
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

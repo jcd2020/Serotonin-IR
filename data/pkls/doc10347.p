@@ -2,76 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p11
+p8
 g3
-((lp12
-tp13
-Rp14
+((lp9
+S"(32, u'\\\\bvomit')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht3'
 p15
-g3
-((lp16
-S'5ht1b'
-p17
-aS'5ht1a'
-p18
-aS'5ht4'
+I2136
+I2141
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
 p19
-atp20
-Rp21
-sS'regions'
+g3
+((lp20
+S"(20, u'\\\\bondansetron')"
+p21
+aS"(12, u'\\\\bantagonist')"
 p22
-g3
-((lp23
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p24
-aS"(118, u'(?i)\\\\b(diencephalons|diencephalon)\\\\b')"
+atp23
+Rp24
+sS'regions'
 p25
-aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p26
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p27
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p28
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p29
-atp30
-Rp31
+g3
+((lp26
+tp27
+Rp28
 sS'year'
-p32
-V1996
-p33
-sS'agonists'
-p34
-g3
-((lp35
-tp36
-Rp37
+p29
+V1997
+p30
 sS'species'
-p38
+p31
 g3
-((lp39
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p40
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+((lp32
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p33
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p34
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

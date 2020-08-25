@@ -2,72 +2,102 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp8
-S'Method.PET'
-p9
-aS'Method.AGONIST'
+((lp9
+S"(7, u'\\\\bdepressi')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(30, u'\\\\bparkinsons')"
+(S'5ht2a'
 p15
-atp16
-Rp17
-sS'receptors'
-p18
-g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+I932
+I938
+tp16
+a(S'5ht2c'
+p17
+I191
+I199
+tp18
+a(S'5ht2c'
+p19
+I1439
+I1447
+tp20
+a(S'5ht2c'
+p21
+I932
+I940
+tp22
+a(S'5ht2a'
 p23
-g3
-((lp24
-S"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
+I1439
+I1445
+tp24
+a(S'5ht2c'
 p25
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p26
-aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
+I1174
+I1182
+tp26
+a(S'5ht2a'
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2012
-p31
-sS'agonists'
-p32
+I1174
+I1180
+tp28
+a(S'5ht2a'
+p29
+I191
+I197
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
+p33
 g3
-((lp33
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p34
-atp35
-Rp36
-sS'species'
+((lp34
+S"(13, u'\\\\bagonist')"
+p35
+aS"(11, u'\\\\bfluoxetine')"
+p36
+aS"(49, u'\\\\bdoi')"
 p37
-g3
-((lp38
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+aS"(54, u'\\\\bautoradiography')"
+p38
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+atp40
+Rp41
+sS'regions'
+p42
+g3
+((lp43
+tp44
+Rp45
+sS'year'
+p46
+V2006
+p47
+sS'species'
+p48
+g3
+((lp49
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

@@ -1,0 +1,100 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(8, u'\\\\banxi')"
+p9
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(25, u'\\\\bsocial')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1b'
+p17
+I1809
+I1815
+tp18
+a(S'5ht1a'
+p19
+I1066
+I1072
+tp20
+a(S'5ht1a'
+p21
+I570
+I576
+tp22
+a(S'5ht1b'
+p23
+I581
+I587
+tp24
+a(S'5ht1a'
+p25
+I1798
+I1804
+tp26
+a(S'5ht1b'
+p27
+I1192
+I1198
+tp28
+a(S'5ht1a'
+p29
+I1181
+I1187
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
+p33
+g3
+((lp34
+S"(15, u'\\\\b8ohdpat')"
+p35
+atp36
+Rp37
+sS'regions'
+p38
+g3
+((lp39
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
+p43
+V2012
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p47
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p48
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p49
+atp50
+Rp51
+sb.

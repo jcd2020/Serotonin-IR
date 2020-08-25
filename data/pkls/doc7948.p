@@ -2,93 +2,103 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(133, u'\\\\bmianserin')"
-p5
-aS"(110, u'\\\\bclozapine')"
-p6
-aS"(193, u'\\\\bmesulergine')"
-p7
-aS"(117, u'\\\\bketanserin')"
-p8
-aS"(119, u'\\\\britanserin')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
 S'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p17
+p9
 g3
-((lp18
-S"(16, u'\\\\bfeed')"
-p19
-aS"(10, u'\\\\banxiety')"
-p20
-aS"(4, u'\\\\blocomot')"
-p21
-atp22
-Rp23
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I1521
+I1527
+tp17
+a(S'5ht1a'
+p18
+I1102
+I1108
+tp19
+a(S'5ht1a'
+p20
+I355
+I361
+tp21
+a(S'5ht1a'
+p22
+I598
+I604
+tp23
+a(S'5ht1a'
 p24
-g3
-((lp25
-S'5ht2c'
+I191
+I197
+tp25
+a(S'5ht1a'
 p26
-atp27
-Rp28
-sS'regions'
-p29
-g3
-((lp30
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p31
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p32
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p33
-aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
+I93
+I99
+tp27
+a(S'5ht1a'
+p28
+I758
+I764
+tp29
+a(S'5ht1'
+p30
+I220
+I225
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p35
-aS"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
+g3
+((lp35
+S"(51, u'\\\\bway100635')"
 p36
-atp37
-Rp38
-sS'year'
-p39
-V1999
+aS"(12, u'\\\\bantagonist')"
+p37
+atp38
+Rp39
+sS'regions'
 p40
-sS'agonists'
-p41
 g3
-((lp42
-S"(165, u'\\\\bmesulergine')"
+((lp41
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p42
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
 p43
-aS"(23, u'\\\\bclozapine')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p44
-aS"(155, u'\\\\bmcpp')"
-p45
-atp46
-Rp47
-sS'species'
+atp45
+Rp46
+sS'year'
+p47
+V2004
 p48
+sS'species'
+p49
 g3
-((lp49
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p50
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+((lp50
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p51
 atp52
 Rp53

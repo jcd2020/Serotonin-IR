@@ -2,72 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.PET'
 p5
-aS"(117, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp10
-S'Method.ANTAGONIST'
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(3, u'\\\\bclinical')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht1'
+p16
+I583
+I589
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht2c'
+I583
+I589
+tp19
+a(S'5ht2a'
 p20
-aS'5ht2a'
-p21
+I599
+I605
+tp21
 atp22
 Rp23
-sS'regions'
+sS'raw_text_methods'
 p24
 g3
 ((lp25
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+S"(17, u'\\\\bpet')"
 p26
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(18, u'\\\\bimaging')"
 p27
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(54, u'\\\\bautoradiography')"
 p28
 atp29
 Rp30
-sS'year'
+sS'regions'
 p31
-V2012
-p32
-sS'agonists'
+g3
+((lp32
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p33
-g3
-((lp34
-S"(147, u'\\\\bmdma')"
-p35
-atp36
-Rp37
-sS'species'
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p34
+atp35
+Rp36
+sS'year'
+p37
+V1997
 p38
+sS'species'
+p39
 g3
-((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
+((lp40
+tp41
 Rp42
 sb.

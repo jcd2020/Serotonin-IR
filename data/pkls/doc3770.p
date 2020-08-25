@@ -2,64 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(1, u'\\\\bpatient')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-tp15
-Rp16
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
 p17
-g3
-((lp18
-S'5ht1a'
+I464
+I470
+tp18
+a(S'5ht2a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
+I1364
+I1370
+tp20
+a(S'5ht2a'
+p21
+I35
+I41
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp23
-tp24
-Rp25
-sS'year'
-p26
-V2004
+((lp26
+S"(17, u'\\\\bpet')"
 p27
-sS'agonists'
+aS"(18, u'\\\\bimaging')"
 p28
-g3
-((lp29
-S"(89, u'\\\\blesopitron')"
-p30
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p31
-aS"(43, u'\\\\bhaloperidol')"
+aS"(23, u'\\\\bmdl')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
-atp33
-Rp34
-sS'species'
-p35
 g3
-((lp36
-tp37
-Rp38
+((lp33
+tp34
+Rp35
+sS'year'
+p36
+V2011
+p37
+sS'species'
+p38
+g3
+((lp39
+tp40
+Rp41
 sb.

@@ -2,78 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(3, u'\\\\bsleep')"
-p14
-aS"(1, u'\\\\bmood')"
-p15
-atp16
-Rp17
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
+p16
+I1977
+I1983
+tp17
+a(S'5ht2a'
 p18
+I537
+I543
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
 g3
-((lp19
-S'5ht7'
-p20
-aS'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp23
+S"(13, u'\\\\bagonist')"
 p24
+aS"(12, u'\\\\bantagonist')"
+p25
+atp26
+Rp27
+sS'regions'
+p28
 g3
-((lp25
-S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-atp27
-Rp28
+((lp29
+tp30
+Rp31
 sS'year'
-p29
-V2001
-p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(147, u'\\\\bmdma')"
+p32
+V2009
 p33
-aS"(11, u'\\\\bamphetamine')"
+sS'species'
 p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-aS"(163, u'\\\\bfenfluramine')"
+g3
+((lp35
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
 atp37
 Rp38
-sS'species'
-p39
-g3
-((lp40
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p43
-atp44
-Rp45
 sb.

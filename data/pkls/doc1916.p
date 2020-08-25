@@ -2,88 +2,108 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
+S'Method.PET'
 p5
-aS"(33, u'\\\\byohimbine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(12, u'\\\\banxiogen')"
-p17
-aS"(11, u'\\\\banxiolyt')"
-p18
-aS"(10, u'\\\\banxiety')"
-p19
-aS"(4, u'\\\\blocomot')"
-p20
-atp21
-Rp22
+((lp9
+tp10
+Rp11
 sS'receptors'
-p23
+p12
 g3
-((lp24
-S'5ht1a'
-p25
-aS'5ht2b'
+((lp13
+(S'5ht2a'
+p14
+I324
+I330
+tp15
+a(S'5ht2a'
+p16
+I293
+I299
+tp17
+a(S'5ht2a'
+p18
+I533
+I539
+tp19
+a(S'5ht2a'
+p20
+I1246
+I1252
+tp21
+a(S'5ht2a'
+p22
+I638
+I644
+tp23
+a(S'5ht2a'
+p24
+I768
+I774
+tp25
+a(S'5ht2a'
 p26
-aS'5ht2c'
-p27
-atp28
-Rp29
-sS'regions'
+I953
+I959
+tp27
+a(S'5ht2a'
+p28
+I1307
+I1313
+tp29
+a(S'5ht2a'
 p30
-g3
-((lp31
-tp32
-Rp33
-sS'year'
-p34
-V2004
-p35
-sS'agonists'
+I200
+I206
+tp31
+a(S'5ht2a'
+p32
+I79
+I85
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
 p36
 g3
 ((lp37
-S"(20, u'\\\\bbuspirone')"
+S"(27, u'\\\\blsd')"
 p38
-aS"(163, u'\\\\bfenfluramine')"
+aS"(17, u'\\\\bpet')"
 p39
-aS"(155, u'\\\\bmcpp')"
+aS"(19, u'\\\\bpositron emission tomography')"
 p40
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(18, u'\\\\bimaging')"
 p41
-aS"(82, u'\\\\byohimbine')"
+aS"(29, u'\\\\bdiethylamide')"
 p42
 atp43
 Rp44
-sS'species'
+sS'regions'
 p45
 g3
 ((lp46
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p47
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p48
-atp49
-Rp50
+tp47
+Rp48
+sS'year'
+p49
+V1999
+p50
+sS'species'
+p51
+g3
+((lp52
+tp53
+Rp54
 sb.

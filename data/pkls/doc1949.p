@@ -2,70 +2,101 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.STAINING'
+S"(22, u'\\\\bschizophreni')"
 p10
-aS'Method.ANTAGONIST'
+aS"(1, u'\\\\bpatient')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+aS"(23, u'\\\\bantipsychotic')"
+p12
+aS"(3, u'\\\\bclinical')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht3a'
+I1201
+I1207
+tp19
+a(S'5ht5'
 p20
-aS'5ht3'
-p21
-atp22
-Rp23
-sS'regions'
+I289
+I299
+tp21
+a(S'5ht1a'
+p22
+I42
+I48
+tp23
+a(S'5ht1a'
 p24
-g3
-((lp25
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I1803
+I1809
+tp25
+a(S'5ht1a'
 p26
-aS"(55, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(parabrachials|parabrachial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I607
+I613
+tp27
+a(S'5ht1a'
 p28
-atp29
-Rp30
-sS'year'
-p31
-V1995
-p32
-sS'agonists'
-p33
+I1684
+I1690
+tp29
+a(S'5ht1a'
+p30
+I323
+I329
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
+p34
 g3
-((lp34
-tp35
-Rp36
-sS'species'
+((lp35
+S"(17, u'\\\\bpet')"
+p36
+aS"(19, u'\\\\bpositron emission tomography')"
 p37
+aS"(40, u'\\\\bclozapine')"
+p38
+atp39
+Rp40
+sS'regions'
+p41
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+((lp42
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p43
+atp44
+Rp45
+sS'year'
+p46
+V2003
+p47
+sS'species'
+p48
+g3
+((lp49
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p50
+atp51
+Rp52
 sb.

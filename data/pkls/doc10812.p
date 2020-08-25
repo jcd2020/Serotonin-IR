@@ -2,25 +2,27 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p11
+p9
 g3
-((lp12
-S"(20, u'\\\\baggressi')"
+((lp10
+S"(12, u'\\\\bsleep')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(2, u'\\\\bdisorder')"
 p13
 atp14
 Rp15
@@ -28,36 +30,37 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht1a'
+(S'5ht2a'
 p18
-aS'5ht2a'
-p19
+I697
+I702
+tp19
 atp20
 Rp21
-sS'regions'
+sS'raw_text_methods'
 p22
 g3
 ((lp23
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p24
-atp25
-Rp26
-sS'year'
-p27
-V1998
+aS"(12, u'\\\\bantagonist')"
+p25
+atp26
+Rp27
+sS'regions'
 p28
-sS'agonists'
-p29
 g3
-((lp30
-tp31
-Rp32
-sS'species'
+((lp29
+tp30
+Rp31
+sS'year'
+p32
+V2014
 p33
+sS'species'
+p34
 g3
-((lp34
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p35
-atp36
+((lp35
+tp36
 Rp37
 sb.

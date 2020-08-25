@@ -2,76 +2,113 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(4, u'\\\\btreatment')"
 p13
-g3
-((lp14
-S"(33, u'\\\\balzheimers')"
-p15
-aS"(6, u'\\\\bcognit')"
-p16
-aS"(7, u'\\\\bmemory')"
-p17
-atp18
-Rp19
+aS"(26, u'\\\\bbehav')"
+p14
+atp15
+Rp16
 sS'receptors'
-p20
+p17
 g3
-((lp21
-S'5ht4a'
-p22
-aS'5ht4'
+((lp18
+(S'5ht2c'
+p19
+I1474
+I1480
+tp20
+a(S'5ht2c'
+p21
+I1227
+I1233
+tp22
+a(S'5ht2a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
+I1166
+I1172
+tp24
+a(S'5ht2'
+p25
+I750
+I755
+tp26
+a(S'5ht2c'
+p27
+I1771
+I1777
 tp28
-Rp29
-sS'year'
-p30
-V2007
+a(S'5ht2c'
+p29
+I48
+I54
+tp30
+a(S'5ht2c'
 p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(205, u'\\\\brs ?67333')"
-p34
-aS"(149, u'\\\\bmem')"
+I1086
+I1092
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
 p35
-atp36
-Rp37
-sS'species'
-p38
 g3
-((lp39
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp36
+S"(53, u'\\\\bketanserin')"
+p37
+aS"(23, u'\\\\bmdl')"
+p38
+aS"(11, u'\\\\bfluoxetine')"
+p39
+aS"(38, u'\\\\bssri')"
 p40
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p42
 atp43
 Rp44
+sS'regions'
+p45
+g3
+((lp46
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V2004
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p54
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p55
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p56
+atp57
+Rp58
 sb.

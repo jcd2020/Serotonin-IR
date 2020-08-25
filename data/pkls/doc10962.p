@@ -2,84 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(37, u'\\\\bsb ?216641')"
-p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(101, u'\\\\btramadol')"
-p7
-aS"(31, u'\\\\bway ?100635')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
 S'Method.ANTAGONIST'
-p13
+p5
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p6
+atp7
+Rp8
 sS'topics'
-p17
+p9
 g3
-((lp18
-S"(21, u'\\\\bpain')"
-p19
-aS"(16, u'\\\\bfeed')"
-p20
-aS"(24, u'\\\\banalgesi')"
-p21
-atp22
-Rp23
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(13, u'\\\\bantidepress')"
+p14
+aS"(8, u'\\\\banxi')"
+p15
+aS"(4, u'\\\\btreatment')"
+p16
+atp17
+Rp18
 sS'receptors'
-p24
+p19
 g3
-((lp25
-S'5ht1b'
-p26
-aS'5ht1a'
+((lp20
+(S'5ht2c'
+p21
+I455
+I461
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(13, u'\\\\bagonist')"
 p27
-aS'5ht5'
+aS"(43, u'\\\\bagomelatine')"
 p28
-atp29
-Rp30
+aS"(12, u'\\\\bantagonist')"
+p29
+atp30
+Rp31
 sS'regions'
-p31
+p32
 g3
-((lp32
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p33
-atp34
+((lp33
+tp34
 Rp35
 sS'year'
 p36
-V2005
+V2016
 p37
-sS'agonists'
+sS'species'
 p38
 g3
 ((lp39
-S"(100, u'\\\\bcp ?93129')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p41
-atp42
-Rp43
-sS'species'
-p44
-g3
-((lp45
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p46
-atp47
-Rp48
+atp41
+Rp42
 sb.

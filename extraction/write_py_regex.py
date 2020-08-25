@@ -1,50 +1,20 @@
 #!/usr/bin/env python
 # coding: utf-8
-
-
-
-
-from nltk.corpus import wordnet as wn
 import inflect
-import regex_data.animals as animals
-import regex_data.Brain_Regions as br
-
-
-
-
-
-def print_animals():
-    def get_hyponyms(synset):
-        hyponyms = set()
-        for hyponym in synset.hyponyms():
-            hyponyms |= set(get_hyponyms(hyponym))
-        return hyponyms | set(synset.hyponyms())
-    s = get_hyponyms(wn.synsets("animal", pos=wn.NOUN)[0])
-    f = open("animals.txt", "w")
-    for syns in s:
-        for form in [str(lemma.name()) for lemma in syns.lemmas()]:
-            if '_' in form:
-                form1 = form.replace("_", " ")
-                form2 = form.replace("_", "-")
-                f.write(form1 + "\n")
-                f.write(form2 + "\n")
-            else:
-                f.write(form + "\n")
-
-
-
-
-
+import re
 import codecs
+
+source_file = "../data/5-Serotonin2020.txt"
+
+
 def open_unicode_file(name):
     f =  codecs.open(name, encoding='utf-8', mode='r').read()
     return f.split("\n")
 
-import re
-import codecs
+
 def get_regex(name):
     py_name = name.split("/")[-1].replace(".txt", ".py")
-    py_file = codecs.open("regex_data/" + py_name, encoding='utf-8', mode='w')
+    py_file = codecs.open(py_name, encoding='utf-8', mode='w')
     f = open_unicode_file(name)
     p = inflect.engine()
     counter = 0
@@ -65,16 +35,21 @@ def get_regex(name):
     py_file.write(varname)
     py_file.close()
 
+
 umlautDictionary = {
                     u'ä': u'(ä|ae|[a-z])',
                     u'ö': u'(ö|oe|[a-z])',
                     u'ü': u'(ü|ue|[a-z])'
                     }
+
+
 def create_umlaut_variants(pattern):
     for k,v in umlautDictionary.iteritems():
 
         pattern = pattern.replace(k,v)
     return pattern
+
+
 def match(s, compiled):
     matches = []
     i = 0
@@ -83,8 +58,10 @@ def match(s, compiled):
         if(comp.search(s)):
             matches.append((i, comp.pattern))
     return matches
+
+
 def get_all_species():
-    data = codecs.open("../data/5-HT_EndNote_Text_Apr2019.txt", encoding='utf-8', mode='r')
+    data = codecs.open(source_file, encoding='utf-8', mode='r')
     f = codecs.open("regex_data/RegexTextFiles/species.txt", encoding='utf-8', mode='w')
     compiled = list(map(lambda x : re.compile(x), animals.pats))
     count = 0
@@ -95,8 +72,10 @@ def get_all_species():
             print(count)
         if len(res) > 0:
             f.write("\n".join(list(map(lambda x : str(x), res))) + "\n")
+
+
 def get_all_regions():
-    data = codecs.open("../data/5-HT_EndNote_Text_Apr2019.txt", encoding='utf-8', mode='r')
+    data = codecs.open(source_file, encoding='utf-8', mode='r')
     f = codecs.open("regex_data/RegexTextFiles/regions.txt", encoding='utf-8', mode='w')
     compiled = list(map(lambda x : re.compile(x), br.pats))
     count = 0
@@ -112,9 +91,11 @@ def get_all_regions():
                 found.add(st)
     for s in found:
         f.write(s + "\n")
+
+
 def get_files(name):
     py_name = name.split("/")[-1].replace(".txt", ".py")
-    py_file = codecs.open("regex_data/" + py_name, encoding='utf-8', mode='w')
+    py_file = codecs.open(py_name, encoding='utf-8', mode='w')
     f = open_unicode_file(name)
     
     p1 = re.compile(u'α')
@@ -134,12 +115,18 @@ def get_files(name):
     varname = varname[:-2] + "]"
     py_file.write(varname.lower())
     py_file.close()
+
+
 def main():
-    get_files("regex_data/RawTextFiles/Antagonists.txt")
-    get_files("regex_data/RawTextFiles/Agonists.txt")
-    get_files("regex_data/RawTextFiles/Serotonin_Topics.txt")
-    get_regex("regex_data/RawTextFiles/animals.txt")
-    get_regex("regex_data/RawTextFiles/Brain_Regions.txt")
+    import os
+    print(os.chdir('regex_data'))
+    get_files("RawTextFiles/Methods.txt")
+    get_files("RawTextFiles/Serotonin_Topics.txt")
+    get_files("RawTextFiles/Species.txt")
+    get_files("RawTextFiles/Brain_Regions.txt")
+    get_regex("RawTextFiles/Species.txt")
+    get_regex("RawTextFiles/Brain_Regions.txt")
+
 
 if __name__ == "__main__":
     main()

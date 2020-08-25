@@ -2,86 +2,97 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
+S'Method.PET'
 p5
-aS"(124, u'\\\\bondansetron')"
-p6
-aS"(33, u'\\\\byohimbine')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(5, u'\\\\btherap')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(3, u'\\\\bclinical')"
+p14
+atp15
+Rp16
 sS'receptors'
-p20
+p17
 g3
-((lp21
-S'5ht3a'
-p22
-aS'5ht3'
+((lp18
+(S'5ht1a'
+p19
+I1784
+I1790
+tp20
+a(S'5ht1a'
+p21
+I400
+I406
+tp22
+a(S'5ht1a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
+I32
+I43
+tp24
+a(S'5ht1a'
+p25
+I548
+I554
+tp26
+a(S'5ht1a'
+p27
+I328
+I334
 tp28
-Rp29
-sS'year'
-p30
-V1995
+atp29
+Rp30
+sS'raw_text_methods'
 p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+((lp32
+S"(17, u'\\\\bpet')"
+p33
+aS"(19, u'\\\\bpositron emission tomography')"
 p34
-aS"(82, u'\\\\byohimbine')"
+aS"(18, u'\\\\bimaging')"
 p35
-aS"(149, u'\\\\bmem')"
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p36
-aS"(43, u'\\\\bhaloperidol')"
-p37
-atp38
-Rp39
-sS'species'
-p40
+atp37
+Rp38
+sS'regions'
+p39
 g3
-((lp41
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+((lp40
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p41
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p42
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
 p43
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+atp44
+Rp45
+sS'year'
 p46
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+V2004
 p47
-atp48
-Rp49
+sS'species'
+p48
+g3
+((lp49
+tp50
+Rp51
 sb.

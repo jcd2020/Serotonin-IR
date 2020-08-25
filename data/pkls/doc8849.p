@@ -2,68 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(179, u'\\\\bro ?4368554')"
-p5
-aS"(177, u'\\\\bsb ?399885')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(4, u'\\\\btreatment')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(3, u'\\\\bsleep')"
+(S'5ht2a'
 p16
-atp17
-Rp18
-sS'receptors'
-p19
-g3
-((lp20
-S'5ht6'
-p21
-aS'5ht2a'
+I1688
+I1694
+tp17
+a(S'5ht1a'
+p18
+I1517
+I1523
+tp19
+a(S'5ht1a'
+p20
+I1964
+I1970
+tp21
+a(S'5ht2a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
+I250
+I256
+tp23
+a(S'5ht1a'
+p24
+I818
+I824
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
 g3
-((lp26
-tp27
-Rp28
-sS'year'
-p29
-V2011
+((lp29
+S"(53, u'\\\\bketanserin')"
 p30
-sS'agonists'
+aS"(11, u'\\\\bfluoxetine')"
 p31
+aS"(38, u'\\\\bssri')"
+p32
+aS"(12, u'\\\\bantagonist')"
+p33
+atp34
+Rp35
+sS'regions'
+p36
 g3
-((lp32
-tp33
-Rp34
+((lp37
+tp38
+Rp39
+sS'year'
+p40
+V2012
+p41
 sS'species'
-p35
+p42
 g3
-((lp36
-S"(5863, u'(?i)\\\\b(entires|entire)\\\\b')"
-p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

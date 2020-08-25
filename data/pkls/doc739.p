@@ -1,0 +1,76 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(25, u'\\\\bsocial')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2c'
+p16
+I1020
+I1026
+tp17
+a(S'5ht2'
+p18
+I1381
+I1386
+tp19
+a(S'5ht2'
+p20
+I1058
+I1063
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+atp27
+Rp28
+sS'regions'
+p29
+g3
+((lp30
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p31
+atp32
+Rp33
+sS'year'
+p34
+V2001
+p35
+sS'species'
+p36
+g3
+((lp37
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p38
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p39
+atp40
+Rp41
+sb.

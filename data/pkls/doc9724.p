@@ -2,78 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
+S'Method.PET'
 p5
-aS"(58, u'\\\\bhaloperidol')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(52, u'\\\\bmdl ?100907')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-S"(4, u'\\\\blocomot')"
-p18
-atp19
-Rp20
+((lp9
+S"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
 sS'receptors'
-p21
+p13
 g3
-((lp22
-S'5ht2c'
+((lp14
+(S'5ht1a'
+p15
+I169
+I175
+tp16
+a(S'5ht1a'
+p17
+I2574
+I2580
+tp18
+a(S'5ht5'
+p19
+I399
+I409
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-aS'5ht2a'
-p24
-atp25
-Rp26
+g3
+((lp24
+S"(17, u'\\\\bpet')"
+p25
+aS"(18, u'\\\\bimaging')"
+p26
+atp27
+Rp28
 sS'regions'
-p27
+p29
 g3
-((lp28
-tp29
-Rp30
-sS'year'
+((lp30
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
 p31
-V2011
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(23, u'\\\\bclozapine')"
+atp32
+Rp33
+sS'year'
+p34
+V2007
 p35
-aS"(43, u'\\\\bhaloperidol')"
-p36
-atp37
-Rp38
 sS'species'
-p39
+p36
 g3
-((lp40
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p41
-aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
-p42
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p43
-atp44
-Rp45
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

@@ -2,74 +2,104 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-tp16
-Rp17
+((lp10
+tp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp14
+(S'5ht1a'
+p15
+I1123
+I1129
+tp16
+a(S'5ht1a'
+p17
+I122
+I128
+tp18
+a(S'5ht1a'
+p19
+I1413
+I1419
+tp20
+a(S'5ht1a'
+p21
+I672
+I678
+tp22
+a(S'5ht1a'
 p23
-g3
-((lp24
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I299
+I305
+tp24
+a(S'5ht1a'
 p25
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I381
+I387
+tp26
+a(S'5ht1a'
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2001
-p31
-sS'agonists'
-p32
+I29
+I35
+tp28
+a(S'5ht1a'
+p29
+I726
+I732
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
+p33
 g3
-((lp33
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p34
-aS"(45, u'\\\\bipsapirone')"
+((lp34
+S"(13, u'\\\\bagonist')"
 p35
-atp36
-Rp37
-sS'species'
+aS"(15, u'\\\\b8ohdpat')"
+p36
+aS"(21, u'\\\\bipsapirone')"
+p37
+aS"(46, u'\\\\bspiperone')"
 p38
+aS"(12, u'\\\\bantagonist')"
+p39
+atp40
+Rp41
+sS'regions'
+p42
 g3
-((lp39
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
-p40
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p41
-atp42
-Rp43
+((lp43
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p44
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V1996
+p49
+sS'species'
+p50
+g3
+((lp51
+tp52
+Rp53
 sb.

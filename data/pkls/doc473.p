@@ -2,94 +2,102 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\bzacopride')"
+S'Method.ANTAGONIST'
 p5
-aS"(123, u'\\\\bgranisetron')"
-p6
-aS"(34, u'\\\\bmetergoline')"
-p7
-aS"(21, u'\\\\bpindolol')"
+atp6
+Rp7
+sS'topics'
 p8
-aS"(124, u'\\\\bondansetron')"
-p9
-atp10
+g3
+((lp9
+tp10
 Rp11
-sS'methods'
+sS'receptors'
 p12
 g3
 ((lp13
-S'Method.STIMULATION'
+(S'5ht1d'
 p14
-aS'Method.ANTAGONIST'
-p15
-aS'Method.AGONIST'
+I225
+I233
+tp15
+a(S'5ht1d'
 p16
-atp17
-Rp18
-sS'topics'
-p19
-g3
-((lp20
+I1588
+I1594
+tp17
+a(S'5ht1b'
+p18
+I225
+I231
+tp19
+a(S'5ht1d'
+p20
+I1732
+I1740
 tp21
-Rp22
-sS'receptors'
-p23
-g3
-((lp24
-S'5ht1c'
-p25
-aS'5ht1b'
+a(S'5ht1b'
+p22
+I58
+I64
+tp23
+a(S'5ht1b'
+p24
+I1732
+I1738
+tp25
+a(S'5ht1b'
 p26
-aS'5ht1a'
-p27
-aS'5ht3a'
+I1568
+I1574
+tp27
+a(S'5ht1d'
 p28
-aS'5ht2'
-p29
-aS'5ht3b'
-p30
-aS'5ht1d'
-p31
-aS'5ht3'
+I58
+I66
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
 p32
-atp33
-Rp34
-sS'regions'
+g3
+((lp33
+S"(53, u'\\\\bketanserin')"
+p34
+aS"(9, u'\\\\britanserin')"
 p35
-g3
-((lp36
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(47, u'\\\\bsumatriptan')"
+p36
+aS"(12, u'\\\\bantagonist')"
 p37
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p38
-atp39
-Rp40
-sS'year'
-p41
-V1991
+atp38
+Rp39
+sS'regions'
+p40
+g3
+((lp41
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p42
-sS'agonists'
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p43
-g3
-((lp44
-S"(208, u'\\\\bzacopride')"
-p45
-aS"(191, u'\\\\bphenylbiguanide')"
+atp44
+Rp45
+sS'year'
 p46
-atp47
-Rp48
+V1997
+p47
 sS'species'
-p49
+p48
 g3
-((lp50
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p51
-atp52
-Rp53
+((lp49
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p50
+atp51
+Rp52
 sb.

@@ -2,78 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(119, u'\\\\britanserin')"
-p5
-aS"(113, u'\\\\brisperidone')"
-p6
-aS"(58, u'\\\\bhaloperidol')"
+tp5
+Rp6
+sS'topics'
 p7
-atp8
-Rp9
-sS'methods'
-p10
 g3
-((lp11
-S'Method.ANTAGONIST'
+((lp8
+S"(1, u'\\\\bpatient')"
+p9
+aS"(7, u'\\\\bdepressi')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
 p12
 atp13
 Rp14
-sS'topics'
+sS'receptors'
 p15
 g3
 ((lp16
-S"(15, u'\\\\bschizophreni')"
+(S'5ht1a'
 p17
-aS"(6, u'\\\\bcognit')"
-p18
-aS"(7, u'\\\\bmemory')"
-p19
-aS"(4, u'\\\\blocomot')"
-p20
-atp21
-Rp22
-sS'receptors'
+I1107
+I1113
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(11, u'\\\\bfluoxetine')"
 p23
-g3
-((lp24
-S'5ht2c'
+aS"(38, u'\\\\bssri')"
+p24
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p25
-aS'5ht2a'
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-tp31
+((lp29
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p30
+atp31
 Rp32
 sS'year'
 p33
-V2008
+V2014
 p34
-sS'agonists'
+sS'species'
 p35
 g3
 ((lp36
-S"(149, u'\\\\bmem')"
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p37
-aS"(43, u'\\\\bhaloperidol')"
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
 atp39
 Rp40
-sS'species'
-p41
-g3
-((lp42
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
 sb.

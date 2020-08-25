@@ -2,31 +2,33 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(48, u'\\\\btrazodone')"
+S'Method.STAINING'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-S"(9, u'\\\\bdepress')"
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(25, u'\\\\bsocial')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(20, u'\\\\bmood')"
+p14
+aS"(23, u'\\\\bantipsychotic')"
+p15
+aS"(8, u'\\\\banxi')"
 p16
 atp17
 Rp18
@@ -34,44 +36,84 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht1a'
+(S'5ht6'
 p21
-aS'5ht2c'
-p22
-aS'5ht2a'
+I773
+I778
+tp22
+a(S'5ht5'
 p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+I218
+I228
+tp24
+a(S'5ht6'
+p25
+I538
+I543
+tp26
+a(S'5ht6'
+p27
+I131
+I136
+tp28
+a(S'5ht6'
+p29
+I1130
+I1135
+tp30
+a(S'5ht6'
 p31
-V2012
-p32
-sS'agonists'
+I1282
+I1287
+tp32
+a(S'5ht6'
 p33
-g3
-((lp34
-S"(75, u'\\\\btrazodone')"
+I271
+I276
+tp34
+a(S'5ht6'
 p35
-aS"(175, u'\\\\bdoi')"
-p36
-atp37
-Rp38
-sS'species'
+I930
+I935
+tp36
+a(S'5ht6'
+p37
+I480
+I485
+tp38
+a(S'5ht6'
 p39
+I663
+I668
+tp40
+atp41
+Rp42
+sS'raw_text_methods'
+p43
 g3
-((lp40
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+((lp44
+S"(3, u'\\\\bimmunoreactiv')"
+p45
+aS"(12, u'\\\\bantagonist')"
+p46
+atp47
+Rp48
+sS'regions'
+p49
+g3
+((lp50
+tp51
+Rp52
+sS'year'
+p53
+V1999
+p54
+sS'species'
+p55
+g3
+((lp56
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p57
+atp58
+Rp59
 sb.

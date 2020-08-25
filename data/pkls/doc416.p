@@ -2,66 +2,117 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.IMMUNOHISTOCHEMISTRY'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(18, u'\\\\bpsychostim')"
-p14
-atp15
-Rp16
+((lp10
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1'
+p15
+I1360
+I1365
+tp16
+a(S'5ht2'
 p17
-g3
-((lp18
-S'5ht3'
+I257
+I262
+tp18
+a(S'5ht1'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
+I1580
+I1587
+tp20
+a(S'5ht2'
+p21
+I1873
+I1878
+tp22
+a(S'5ht3'
+p23
+I1556
+I1561
+tp24
+a(S'5ht1a'
+p25
+I1580
+I1585
+tp26
+a(S'5ht1b'
 p27
-V2006
-p28
-sS'agonists'
+I1580
+I1587
+tp28
+a(S'5ht2'
 p29
-g3
-((lp30
-S"(11, u'\\\\bamphetamine')"
+I405
+I410
+tp30
+a(S'5ht2'
 p31
-aS"(149, u'\\\\bmem')"
-p32
+I980
+I985
+tp32
 atp33
 Rp34
-sS'species'
+sS'raw_text_methods'
 p35
 g3
 ((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(53, u'\\\\bketanserin')"
 p37
-atp38
-Rp39
+aS"(13, u'\\\\bagonist')"
+p38
+aS"(49, u'\\\\bdoi')"
+p39
+aS"(12, u'\\\\bantagonist')"
+p40
+aS"(46, u'\\\\bspiperone')"
+p41
+aS"(9, u'\\\\britanserin')"
+p42
+aS"(45, u'\\\\bmetergoline')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p48
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p49
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p50
+atp51
+Rp52
+sS'year'
+p53
+V1990
+p54
+sS'species'
+p55
+g3
+((lp56
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p57
+atp58
+Rp59
 sb.

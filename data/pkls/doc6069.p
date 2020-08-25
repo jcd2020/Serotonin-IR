@@ -2,85 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\bmetergoline')"
+S'Method.KNOCKOUT'
 p5
-aS"(123, u'\\\\bgranisetron')"
+aS'Method.ANTAGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-tp17
-Rp18
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht3'
+p15
+I858
+I863
+tp16
+a(S'5ht2'
+p17
+I946
+I952
+tp18
+a(S'5ht2a'
 p19
-g3
-((lp20
-S'5ht1c'
+I1870
+I1876
+tp20
+a(S'5ht2b'
 p21
-aS'5ht1a'
-p22
-aS'5ht3a'
+I962
+I968
+tp22
+a(S'5ht2a'
 p23
-aS'5ht2'
-p24
-aS'5ht1'
+I1415
+I1421
+tp24
+a(S'5ht2a'
 p25
-aS'5ht2a'
-p26
-aS'5ht3'
+I1496
+I1502
+tp26
+a(S'5ht2a'
 p27
-atp28
-Rp29
-sS'regions'
-p30
+I946
+I952
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
 g3
-((lp31
-S"(310, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)\\\\b')"
-p32
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+((lp32
+S"(53, u'\\\\bketanserin')"
 p33
-atp34
-Rp35
-sS'year'
-p36
-V1990
-p37
-sS'agonists'
+aS"(50, u'\\\\bm100907')"
+p34
+aS"(12, u'\\\\bantagonist')"
+p35
+atp36
+Rp37
+sS'regions'
 p38
 g3
 ((lp39
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p40
-aS"(175, u'\\\\bdoi')"
-p41
-atp42
-Rp43
+tp40
+Rp41
+sS'year'
+p42
+V2009
+p43
 sS'species'
 p44
 g3
 ((lp45
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p46
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p47
 atp48
 Rp49

@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,54 +10,108 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(24, u'\\\\banxiolytic')"
 p9
-atp10
-Rp11
-sS'topics'
+aS"(14, u'\\\\bcogniti')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(13, u'\\\\bantidepress')"
 p12
-g3
-((lp13
-S"(26, u'\\\\bcardiovascular')"
+aS"(20, u'\\\\bmood')"
+p13
+aS"(23, u'\\\\bantipsychotic')"
 p14
-atp15
-Rp16
+aS"(15, u'\\\\bmemory')"
+p15
+aS"(8, u'\\\\banxi')"
+p16
+atp17
+Rp18
 sS'receptors'
-p17
-g3
-((lp18
-S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
 g3
-((lp23
+((lp20
+(S'5ht2'
+p21
+I1697
+I1702
+tp22
+a(S'5ht2a'
+p23
+I839
+I845
 tp24
-Rp25
-sS'year'
-p26
-V1991
+a(S'5ht2'
+p25
+I987
+I992
+tp26
+a(S'5ht2a'
 p27
-sS'agonists'
-p28
-g3
-((lp29
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p30
-atp31
-Rp32
-sS'species'
+I2003
+I2009
+tp28
+a(S'5ht2'
+p29
+I1495
+I1500
+tp30
+a(S'5ht2'
+p31
+I2003
+I2009
+tp32
+a(S'5ht2'
 p33
-g3
-((lp34
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I685
+I690
+tp34
+a(S'5ht2'
 p35
-atp36
-Rp37
+I429
+I434
+tp36
+a(S'5ht2a'
+p37
+I411
+I417
+tp38
+a(S'5ht2'
+p39
+I1750
+I1755
+tp40
+atp41
+Rp42
+sS'raw_text_methods'
+p43
+g3
+((lp44
+tp45
+Rp46
+sS'regions'
+p47
+g3
+((lp48
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p49
+atp50
+Rp51
+sS'year'
+p52
+V2005
+p53
+sS'species'
+p54
+g3
+((lp55
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p56
+atp57
+Rp58
 sb.

@@ -2,76 +2,113 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(115, u'\\\\bcinanserin')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.STIMULATION'
-p10
 aS'Method.ANTAGONIST'
-p11
+p6
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p7
+atp8
+Rp9
 sS'topics'
-p15
+p10
 g3
-((lp16
-tp17
-Rp18
+((lp11
+tp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1d'
-p21
-atp22
-Rp23
-sS'regions'
+((lp15
+(S'5ht2c'
+p16
+I2135
+I2141
+tp17
+a(S'5ht2a'
+p18
+I281
+I292
+tp19
+a(S'5ht2a'
+p20
+I1962
+I1968
+tp21
+a(S'5ht2a'
+p22
+I295
+I301
+tp23
+a(S'5ht2a'
 p24
-g3
-((lp25
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I2124
+I2130
+tp25
+a(S'5ht2a'
 p26
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I28
+I39
+tp27
+a(S'5ht2c'
 p28
-atp29
-Rp30
-sS'year'
-p31
-V1994
+I2005
+I2011
+tp29
+a(S'5ht2a'
+p30
+I1862
+I1868
+tp31
+a(S'5ht2a'
 p32
-sS'agonists'
-p33
+I543
+I549
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
 g3
-((lp34
-S"(96, u'\\\\bsumatriptan')"
-p35
-atp36
-Rp37
-sS'species'
+((lp37
+S"(1, u'\\\\bneuroimag')"
 p38
-g3
-((lp39
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+aS"(17, u'\\\\bpet')"
+p39
+aS"(13, u'\\\\bagonist')"
 p40
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
 p41
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+aS"(18, u'\\\\bimaging')"
 p42
-atp43
-Rp44
+aS"(12, u'\\\\bantagonist')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
+p51
+V2016
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p55
+atp56
+Rp57
 sb.

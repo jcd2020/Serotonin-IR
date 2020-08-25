@@ -2,76 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.AGONIST'
 p5
-aS"(58, u'\\\\bhaloperidol')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp10
-S'Method.ANTAGONIST'
+((lp9
+S"(29, u'\\\\bhyperactiv')"
+p10
+aS"(9, u'\\\\bstress')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(15, u'\\\\bschizophreni')"
+(S'5ht1a'
 p16
-aS"(4, u'\\\\blocomot')"
-p17
-atp18
-Rp19
-sS'receptors'
-p20
-g3
-((lp21
-S'5ht3a'
+I45
+I56
+tp17
+a(S'5ht1a'
+p18
+I333
+I339
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-aS'5ht3'
-p23
-atp24
-Rp25
+g3
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+aS"(15, u'\\\\b8ohdpat')"
+p25
+atp26
+Rp27
 sS'regions'
-p26
-g3
-((lp27
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p28
-atp29
-Rp30
-sS'year'
+g3
+((lp29
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p30
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p31
-V1993
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(43, u'\\\\bhaloperidol')"
+atp32
+Rp33
+sS'year'
+p34
+V2002
 p35
-atp36
-Rp37
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
-p42
-atp43
-Rp44
+((lp37
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

@@ -2,75 +2,78 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
-aS"(119, u'\\\\britanserin')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(22, u'\\\\bschizophreni')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(14, u'\\\\bcogniti')"
+p12
+aS"(23, u'\\\\bantipsychotic')"
+p13
+aS"(5, u'\\\\btherap')"
 p14
-g3
-((lp15
-S"(3, u'\\\\bsleep')"
+aS"(1, u'\\\\bpatient')"
+p15
+aS"(4, u'\\\\btreatment')"
 p16
-atp17
-Rp18
+aS"(3, u'\\\\bclinical')"
+p17
+atp18
+Rp19
 sS'receptors'
-p19
+p20
 g3
-((lp20
-S'5ht2'
-p21
-aS'5ht2a'
+((lp21
+(S'5ht2a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
+I1537
+I1543
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp26
-tp27
-Rp28
-sS'year'
+((lp27
+S"(13, u'\\\\bagonist')"
+p28
+aS"(41, u'\\\\bhaloperidol')"
 p29
-V1996
+aS"(53, u'\\\\bketanserin')"
 p30
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p31
+atp32
+Rp33
+sS'regions'
+p34
 g3
-((lp32
-tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+((lp35
+tp36
+Rp37
+sS'year'
 p38
-aS"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+V2004
 p39
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+sS'species'
 p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+g3
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
 atp43
 Rp44

@@ -2,78 +2,91 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(24, u'\\\\bsb ?649915')"
+S'Method.AGONIST'
 p5
-aS"(21, u'\\\\bpindolol')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-S"(11, u'\\\\banxiolyt')"
-p16
-aS"(4, u'\\\\blocomot')"
-p17
-atp18
-Rp19
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
-p20
+p15
 g3
-((lp21
-S'5ht1b'
-p22
-aS'5ht1a'
+((lp16
+(S'5ht1a'
+p17
+I129
+I135
+tp18
+a(S'5ht1a'
+p19
+I1165
+I1171
+tp20
+a(S'5ht1a'
+p21
+I764
+I770
+tp22
+a(S'5ht1a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
+I375
+I381
+tp24
+a(S'5ht1a'
+p25
+I560
+I566
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
 g3
-((lp27
-tp28
-Rp29
-sS'year'
-p30
-V2007
+((lp30
+S"(13, u'\\\\bagonist')"
 p31
-sS'agonists'
+aS"(24, u'\\\\bgepirone')"
 p32
-g3
-((lp33
-tp34
+aS"(22, u'\\\\bbuspirone')"
+p33
+atp34
 Rp35
-sS'species'
+sS'regions'
 p36
 g3
 ((lp37
-S"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p38
-aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p40
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+atp41
+Rp42
+sS'year'
 p43
-atp44
-Rp45
+V1990
+p44
+sS'species'
+p45
+g3
+((lp46
+tp47
+Rp48
 sb.

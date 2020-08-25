@@ -1,0 +1,4 @@
+Rosen, T., et al. (1990). "Synthesis, in vitro binding profile, and central nervous system penetrability of the highly potent 5-HT3 receptor antagonist [3H]-4-(2-methoxyphenyl)-2-[4(5)-methyl-5(4)-imidazolylmethyl]thiazole." J Med Chem 33(11): 3020-3023.
+
+	4-(2-Methoxyphenyl)-2-[4(5)-methyl-5(4)-imidazolylmethyl]thiazole (5) is a highly potent member of a structurally novel series of selective serotonin-3 receptor antagonists. The synthesis of tritiated 5 and its binding profile in neuroblastoma-glioma 108-15 cells are described. Furthermore, in vivo studies in rat with this radioligand indicate that it effectively penetrates the blood-brain barrier upon peripheral administration. Thus, 5 should be a useful pharmacological tool for both in vitro and in vivo studies of this class of compounds.
+

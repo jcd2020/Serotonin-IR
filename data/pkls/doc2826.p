@@ -2,84 +2,152 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.KNOCKOUT'
 p5
-aS"(58, u'\\\\bhaloperidol')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.STIMULATION'
+S"(22, u'\\\\bschizophreni')"
 p11
-aS'Method.ANTAGONIST'
+aS"(1, u'\\\\bpatient')"
 p12
-aS'Method.AGONIST'
+aS"(26, u'\\\\bbehav')"
 p13
-atp14
-Rp15
-sS'topics'
-p16
-g3
-((lp17
-tp18
-Rp19
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
+Rp16
 sS'receptors'
-p20
+p17
 g3
-((lp21
-S'5ht3a'
-p22
-aS'5ht1a'
+((lp18
+(S'5ht1b'
+p19
+I1813
+I1819
+tp20
+a(S'5ht1b'
+p21
+I681
+I687
+tp22
+a(S'5ht1b'
 p23
-aS'5ht3'
-p24
-atp25
-Rp26
-sS'regions'
+I1269
+I1275
+tp24
+a(S'5ht1a'
+p25
+I944
+I950
+tp26
+a(S'5ht1b'
 p27
-g3
-((lp28
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I565
+I571
+tp28
+a(S'5ht1b'
 p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+I142
+I153
+tp30
+a(S'5ht1b'
 p31
-atp32
-Rp33
-sS'year'
-p34
-V2005
+I550
+I561
+tp32
+a(S'5ht1b'
+p33
+I848
+I856
+tp34
+a(S'5ht1b'
 p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(11, u'\\\\bamphetamine')"
-p38
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+I31
+I42
+tp36
+a(S'5ht1b'
+p37
+I650
+I656
+tp38
+a(S'5ht1b'
 p39
-aS"(43, u'\\\\bhaloperidol')"
-p40
-atp41
-Rp42
-sS'species'
+I1745
+I1751
+tp40
+a(S'5ht1b'
+p41
+I1883
+I1889
+tp42
+a(S'5ht1b'
 p43
-g3
-((lp44
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+I1385
+I1391
+tp44
+a(S'5ht1a'
 p45
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p46
-atp47
-Rp48
+I848
+I854
+tp46
+a(S'5ht1b'
+p47
+I1535
+I1541
+tp48
+a(S'5ht1a'
+p49
+I2043
+I2049
+tp50
+atp51
+Rp52
+sS'raw_text_methods'
+p53
+g3
+((lp54
+S"(13, u'\\\\bagonist')"
+p55
+aS"(8, u'\\\\bru24969')"
+p56
+aS"(15, u'\\\\b8ohdpat')"
+p57
+atp58
+Rp59
+sS'regions'
+p60
+g3
+((lp61
+tp62
+Rp63
+sS'year'
+p64
+V1997
+p65
+sS'species'
+p66
+g3
+((lp67
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p68
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p69
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p70
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p71
+atp72
+Rp73
 sb.

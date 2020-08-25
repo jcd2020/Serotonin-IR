@@ -2,88 +2,108 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
+S'Method.PET'
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(37, u'\\\\baddict')"
-p15
-aS"(9, u'\\\\bdepress')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-atp18
-Rp19
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I393
+I399
+tp17
+a(S'5ht5'
+p18
+I326
+I336
+tp19
+a(S'5ht1a'
 p20
-g3
-((lp21
-S'5ht1a'
+I1767
+I1773
+tp21
+a(S'5ht1a'
 p22
-aS'5ht2a'
-p23
-atp24
-Rp25
-sS'regions'
+I1258
+I1264
+tp23
+a(S'5ht1a'
+p24
+I785
+I791
+tp25
+a(S'5ht1a'
 p26
-g3
-((lp27
-S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
+I2014
+I2020
+tp27
+a(S'5ht1a'
 p28
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p29
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+I527
+I533
+tp29
+a(S'5ht1a'
 p30
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p31
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p32
-aS"(218, u'(?i)\\\\b(claustrums|claustrum)\\\\b')"
-p33
-atp34
-Rp35
-sS'year'
+I1049
+I1055
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
+p34
+g3
+((lp35
+S"(13, u'\\\\bagonist')"
 p36
-V1998
+aS"(19, u'\\\\bpositron emission tomography')"
 p37
-sS'agonists'
+aS"(18, u'\\\\bimaging')"
 p38
+atp39
+Rp40
+sS'regions'
+p41
 g3
-((lp39
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p40
-atp41
-Rp42
-sS'species'
+((lp42
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
 p43
-g3
-((lp44
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+aS"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p44
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p45
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p46
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p47
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p48
-atp49
-Rp50
+atp48
+Rp49
+sS'year'
+p50
+V2015
+p51
+sS'species'
+p52
+g3
+((lp53
+tp54
+Rp55
 sb.

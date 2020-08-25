@@ -2,65 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(16, u'\\\\blearning')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-tp15
-Rp16
+aS"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht2a'
-p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(195, u'(?i)\\\\b(telencephalons|telencephalon)\\\\b')"
+((lp15
+(S'5ht1'
+p16
+I667
+I672
+tp17
+a(S'5ht1'
+p18
+I1352
+I1357
+tp19
+a(S'5ht1'
+p20
+I121
+I126
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-aS"(118, u'(?i)\\\\b(diencephalons|diencephalon)\\\\b')"
-p25
-aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
+g3
+((lp25
+S"(12, u'\\\\bantagonist')"
 p26
 atp27
 Rp28
-sS'year'
+sS'regions'
 p29
-V2012
-p30
-sS'agonists'
-p31
 g3
-((lp32
-tp33
-Rp34
+((lp30
+tp31
+Rp32
+sS'year'
+p33
+V2002
+p34
 sS'species'
 p35
 g3
 ((lp36
-S"(5747, u'(?i)\\\\b(toadfish|toadfish)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
 atp38
 Rp39

@@ -2,66 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\bzacopride')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(24, u'\\\\banxiolytic')"
 p10
-aS'Method.AGONIST'
+aS"(2, u'\\\\bdisorder')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(20, u'\\\\bmood')"
+p13
+aS"(8, u'\\\\banxi')"
 p14
-g3
-((lp15
-tp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p15
+aS"(3, u'\\\\bclinical')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
-S'5ht3'
-p20
-atp21
-Rp22
-sS'regions'
+((lp20
+(S'5ht1a'
+p21
+I1850
+I1856
+tp22
+a(S'5ht1a'
 p23
-g3
-((lp24
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I454
+I460
+tp24
+a(S'5ht1a'
 p25
-atp26
-Rp27
+I1999
+I2005
+tp26
+a(S'5ht1a'
+p27
+I228
+I234
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
+g3
+((lp32
+S"(13, u'\\\\bagonist')"
+p33
+atp34
+Rp35
+sS'regions'
+p36
+g3
+((lp37
+S"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p38
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p39
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p40
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p41
+atp42
+Rp43
 sS'year'
-p28
-V2009
-p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(208, u'\\\\bzacopride')"
-p32
-atp33
-Rp34
+p44
+V2007
+p45
 sS'species'
-p35
+p46
 g3
-((lp36
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
-p37
-atp38
-Rp39
+((lp47
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

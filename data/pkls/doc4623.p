@@ -2,43 +2,44 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-aS'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+S'Method.STAINING'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
 p13
 g3
 ((lp14
-S"(35, u'\\\\bstress')"
+(S'5ht1a'
 p15
-aS"(16, u'\\\\bfeed')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-aS"(4, u'\\\\blocomot')"
-p18
-atp19
-Rp20
-sS'receptors'
-p21
+I751
+I757
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
 g3
-((lp22
-S'5ht1a'
+((lp20
+S"(13, u'\\\\bagonist')"
+p21
+aS"(15, u'\\\\b8ohdpat')"
+p22
+aS"(32, u'\\\\blesions')"
 p23
 atp24
 Rp25
@@ -50,20 +51,14 @@ tp28
 Rp29
 sS'year'
 p30
-V2000
+V2003
 p31
-sS'agonists'
+sS'species'
 p32
 g3
 ((lp33
-tp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p38
-atp39
-Rp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
 sb.

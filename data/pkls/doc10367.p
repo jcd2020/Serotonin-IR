@@ -2,68 +2,103 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-S"(13, u'\\\\bpsychedel')"
-p16
-atp17
-Rp18
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(11, u'\\\\bobsessive compulsive disorder')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht2a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp17
+(S'5ht2a'
+p18
+I94
+I100
+tp19
+a(S'5ht2a'
+p20
+I1270
+I1276
+tp21
+a(S'5ht2a'
+p22
+I634
+I640
+tp23
+a(S'5ht2'
 p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
+I571
+I576
+tp25
+a(S'5ht2a'
+p26
+I459
+I465
+tp27
+a(S'5ht2a'
 p28
-V2018
-p29
-sS'agonists'
+I182
+I188
+tp29
+a(S'5ht2a'
 p30
+I603
+I609
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
+p34
 g3
-((lp31
-S"(158, u'\\\\blsd')"
-p32
-atp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp35
+S"(13, u'\\\\bagonist')"
+p36
+aS"(49, u'\\\\bdoi')"
 p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(23, u'\\\\bmdl')"
 p38
-atp39
-Rp40
+aS"(12, u'\\\\bantagonist')"
+p39
+atp40
+Rp41
+sS'regions'
+p42
+g3
+((lp43
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p44
+atp45
+Rp46
+sS'year'
+p47
+V1997
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
 sb.

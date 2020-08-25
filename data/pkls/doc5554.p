@@ -2,64 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(7, u'\\\\bdepressi')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
+((lp16
+(S'5ht1a'
+p17
+I57
+I63
+tp18
+a(S'5ht1b'
+p19
+I354
+I360
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+I83
+I89
+tp22
+a(S'5ht1a'
 p23
-atp24
-Rp25
-sS'year'
-p26
-V1997
+I236
+I242
+tp24
+a(S'5ht1a'
+p25
+I856
+I862
+tp26
+a(S'5ht1a'
 p27
-sS'agonists'
-p28
+I893
+I899
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
 g3
-((lp29
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p30
-atp31
-Rp32
-sS'species'
+((lp32
+S"(13, u'\\\\bagonist')"
 p33
-g3
-((lp34
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
+p34
+aS"(21, u'\\\\bipsapirone')"
 p35
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(22, u'\\\\bbuspirone')"
 p36
 atp37
 Rp38
+sS'regions'
+p39
+g3
+((lp40
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p41
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p42
+atp43
+Rp44
+sS'year'
+p45
+V1987
+p46
+sS'species'
+p47
+g3
+((lp48
+tp49
+Rp50
 sb.

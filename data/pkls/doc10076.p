@@ -1,0 +1,123 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+aS"(7, u'\\\\bdepressi')"
+p14
+aS"(20, u'\\\\bmood')"
+p15
+aS"(26, u'\\\\bbehav')"
+p16
+aS"(4, u'\\\\btreatment')"
+p17
+atp18
+Rp19
+sS'receptors'
+p20
+g3
+((lp21
+(S'5ht2c'
+p22
+I1641
+I1647
+tp23
+a(S'5ht2c'
+p24
+I162
+I168
+tp25
+a(S'5ht2c'
+p26
+I726
+I732
+tp27
+a(S'5ht2'
+p28
+I122
+I127
+tp29
+a(S'5ht2c'
+p30
+I1280
+I1286
+tp31
+a(S'5ht2c'
+p32
+I1767
+I1773
+tp33
+a(S'5ht2c'
+p34
+I1152
+I1158
+tp35
+a(S'5ht2c'
+p36
+I2330
+I2336
+tp37
+a(S'5ht2c'
+p38
+I796
+I802
+tp39
+a(S'5ht2c'
+p40
+I316
+I322
+tp41
+atp42
+Rp43
+sS'raw_text_methods'
+p44
+g3
+((lp45
+S"(13, u'\\\\bagonist')"
+p46
+aS"(43, u'\\\\bagomelatine')"
+p47
+aS"(33, u'\\\\bmcpp')"
+p48
+aS"(12, u'\\\\bantagonist')"
+p49
+atp50
+Rp51
+sS'regions'
+p52
+g3
+((lp53
+tp54
+Rp55
+sS'year'
+p56
+V2010
+p57
+sS'species'
+p58
+g3
+((lp59
+tp60
+Rp61
+sb.

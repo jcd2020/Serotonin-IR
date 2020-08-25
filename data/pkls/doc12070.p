@@ -2,56 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(3, u'\\\\bclinical')"
+p10
+aS"(4, u'\\\\btreatment')"
 p11
-g3
-((lp12
-S"(9, u'\\\\bdepress')"
-p13
-atp14
-Rp15
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
-p21
+((lp16
+(S'5ht1b'
+p17
+I130
+I136
+tp18
+a(S'5ht1b'
+p19
+I504
+I510
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp22
-tp23
-Rp24
-sS'year'
+((lp24
+S"(17, u'\\\\bpet')"
 p25
-V1998
+aS"(19, u'\\\\bpositron emission tomography')"
 p26
-sS'agonists'
+aS"(18, u'\\\\bimaging')"
 p27
-g3
-((lp28
-tp29
+aS"(48, u'\\\\bmdma')"
+p28
+atp29
 Rp30
-sS'species'
+sS'regions'
 p31
 g3
 ((lp32
-tp33
-Rp34
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
+p36
+V2018
+p37
+sS'species'
+p38
+g3
+((lp39
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p40
+atp41
+Rp42
 sb.

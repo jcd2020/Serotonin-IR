@@ -1,4 +1,0 @@
-LopezRodriguez, M. L., et al. (1996). "2- 4-(o-Methoxyphenyl)piperazin-1-ylmethyl -1,3-dioxoperhydroimidazo 1,5 -a pyridine as a new selective 5-HT1A receptor ligand." Bioorg Med Chem Lett 6(6): 689-694.
-
-	A series of 2-[omega-(4-arylpiperazin-1-yl)alkyl]-1,3-dioxoperhydroimidazo[1,5-a]pyridine derivatives was prepared and evaluated for affinity at 5-HT1A and alpha(1) receptors. The most promising analogue Im bound at 5-HT1A sites with nanomolar affinity (K-i=31.7) and high selectivity over alpha(1), D-2 and 5-HT2A receptors (K-i>1000, K-i>10 000, K-i>1000 nM, respectively). Preliminary studies showed that this agent is a presynaptic 5-HT1A agonist, and it displayed activity in the face to face behavioural model.
-

@@ -2,66 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-aS'Method.IMMUNOHISTOCHEMISTRY'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-tp15
-Rp16
-sS'receptors'
+(S'5ht1a'
+p15
+I51
+I57
+tp16
+a(S'5ht1a'
 p17
-g3
-((lp18
-S'5ht1b'
+I1024
+I1030
+tp18
+a(S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(364, u'(?i)\\\\b(middles|middle)(-|\\\\s+)?(cerebrals|cerebral)(-|\\\\s+)?(arteries|artery)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
-p27
-V2007
-p28
-sS'agonists'
+I685
+I691
+tp20
+a(S'5ht1'
+p21
+I231
+I236
+tp22
+a(S'5ht1a'
+p23
+I1860
+I1866
+tp24
+a(S'5ht1a'
+p25
+I525
+I531
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
 g3
 ((lp30
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+S"(13, u'\\\\bagonist')"
 p31
-aS"(219, u'\\\\b5 ?ct')"
+aS"(15, u'\\\\b8ohdpat')"
 p32
 atp33
 Rp34
-sS'species'
+sS'regions'
 p35
 g3
 ((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p37
-atp38
-Rp39
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
+p41
+V2006
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p45
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p46
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p47
+atp48
+Rp49
 sb.

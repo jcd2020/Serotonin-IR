@@ -2,80 +2,133 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.KNOCKOUT'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(7, u'\\\\bdepressi')"
+p11
+aS"(8, u'\\\\banxi')"
 p12
-g3
-((lp13
-S"(15, u'\\\\bschizophreni')"
+aS"(3, u'\\\\bclinical')"
+p13
+aS"(20, u'\\\\bmood')"
 p14
-aS"(6, u'\\\\bcognit')"
+aS"(2, u'\\\\bdisorder')"
 p15
-aS"(7, u'\\\\bmemory')"
-p16
-atp17
-Rp18
+atp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp19
+(S'5ht1a'
+p20
+I873
+I879
+tp21
+a(S'5ht1'
+p22
+I283
+I288
+tp23
+a(S'5ht1'
 p24
-g3
-((lp25
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1623
+I1628
+tp25
+a(S'5ht1'
 p26
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p27
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1161
+I1166
+tp27
+a(S'5ht1'
 p28
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I2031
+I2036
+tp29
+a(S'5ht1a'
 p30
-atp31
-Rp32
-sS'year'
-p33
-V2012
+I261
+I267
+tp31
+a(S'5ht1'
+p32
+I654
+I659
+tp33
+a(S'5ht1a'
 p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(149, u'\\\\bmem')"
-p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+I536
+I542
+tp35
+a(S'5ht1'
+p36
+I1808
+I1813
+tp37
+a(S'5ht1'
 p38
-atp39
-Rp40
-sS'species'
-p41
-g3
-((lp42
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I306
+I311
+tp39
+a(S'5ht1'
+p40
+I1542
+I1547
+tp41
+a(S'5ht1a'
+p42
+I61
+I67
+tp43
+a(S'5ht1'
 p44
-atp45
-Rp46
+I717
+I722
+tp45
+atp46
+Rp47
+sS'raw_text_methods'
+p48
+g3
+((lp49
+S"(13, u'\\\\bagonist')"
+p50
+aS"(18, u'\\\\bimaging')"
+p51
+atp52
+Rp53
+sS'regions'
+p54
+g3
+((lp55
+tp56
+Rp57
+sS'year'
+p58
+V2017
+p59
+sS'species'
+p60
+g3
+((lp61
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p62
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p63
+atp64
+Rp65
 sb.

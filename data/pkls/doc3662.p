@@ -2,64 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(7, u'\\\\bdepressi')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(2, u'\\\\bdisorder')"
 p13
-g3
-((lp14
-tp15
-Rp16
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp17
+(S'5ht2a'
+p18
+I341
+I347
+tp19
+a(S'5ht2a'
+p20
+I749
+I755
+tp21
+a(S'5ht2a'
 p22
-g3
-((lp23
-tp24
-Rp25
-sS'year'
+I1751
+I1757
+tp23
+a(S'5ht2a'
+p24
+I930
+I935
+tp25
+a(S'5ht2a'
 p26
-V2006
-p27
-sS'agonists'
+I102
+I108
+tp27
+a(S'5ht2a'
 p28
+I1611
+I1617
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
+p32
 g3
-((lp29
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p30
-atp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp33
+S"(2, u'\\\\blabeling')"
+p34
+aS"(54, u'\\\\bautoradiography')"
 p35
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p36
 atp37
 Rp38
+sS'regions'
+p39
+g3
+((lp40
+tp41
+Rp42
+sS'year'
+p43
+V2019
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

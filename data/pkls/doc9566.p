@@ -2,76 +2,112 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+aS"(23, u'\\\\bantipsychotic')"
+p12
+aS"(5, u'\\\\btherap')"
 p13
-g3
-((lp14
-tp15
-Rp16
+aS"(10, u'\\\\bocd')"
+p14
+aS"(4, u'\\\\btreatment')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-S'5ht5'
-p19
-aS'5ht1a'
+((lp19
+(S'5ht2c'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p25
-aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
+I923
+I930
+tp21
+a(S'5ht2a'
+p22
+I389
+I395
+tp23
+a(S'5ht2'
+p24
+I1602
+I1607
+tp25
+a(S'5ht2a'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V1995
+I115
+I121
+tp27
+a(S'5ht2c'
+p28
+I115
+I122
+tp29
+a(S'5ht2'
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(149, u'\\\\bmem')"
-p33
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+I735
+I740
+tp31
+a(S'5ht2a'
+p32
+I923
+I929
+tp33
+a(S'5ht2'
 p34
-atp35
-Rp36
-sS'species'
-p37
+I531
+I536
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
+p38
 g3
-((lp38
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p39
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+((lp39
+S"(13, u'\\\\bagonist')"
 p40
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+aS"(49, u'\\\\bdoi')"
 p41
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+aS"(40, u'\\\\bclozapine')"
 p42
-atp43
-Rp44
+aS"(38, u'\\\\bssri')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+tp48
+Rp49
+sS'year'
+p50
+V2007
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p54
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p55
+atp56
+Rp57
 sb.

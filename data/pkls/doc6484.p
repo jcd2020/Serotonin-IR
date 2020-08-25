@@ -2,67 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(119, u'\\\\britanserin')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(27, u'\\\\bdyskinesia')"
 p10
-aS'Method.AGONIST'
+aS"(34, u'\\\\bparkinson')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(16, u'\\\\bfeed')"
+(S'5ht1b'
 p16
-atp17
-Rp18
-sS'receptors'
-p19
-g3
-((lp20
-S'5ht1a'
-p21
-aS'5ht2'
+I1169
+I1175
+tp17
+a(S'5ht1a'
+p18
+I1162
+I1168
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-atp23
-Rp24
-sS'regions'
+g3
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+aS"(32, u'\\\\blesions')"
 p25
-g3
-((lp26
-tp27
+aS"(44, u'\\\\btetrodotoxin')"
+p26
+atp27
 Rp28
-sS'year'
+sS'regions'
 p29
-V1990
-p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p33
-atp34
-Rp35
+((lp30
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p31
+atp32
+Rp33
+sS'year'
+p34
+V2010
+p35
 sS'species'
 p36
 g3
 ((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
 atp39
 Rp40

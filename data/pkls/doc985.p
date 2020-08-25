@@ -2,74 +2,114 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(126, u'\\\\balosetron')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
-aS'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-S"(21, u'\\\\bpain')"
-p16
-atp17
-Rp18
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(33, u'\\\\blocomot')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
+p17
+I1524
+I1530
+tp18
+a(S'5ht2a'
 p19
-g3
-((lp20
-S'5ht3'
+I1573
+I1579
+tp20
+a(S'5ht2a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p26
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I1169
+I1175
+tp22
+a(S'5ht2'
+p23
+I1524
+I1530
+tp24
+a(S'5ht2'
+p25
+I364
+I369
+tp26
+a(S'5ht2c'
 p27
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p28
-aS"(34, u'(?i)\\\\b(pon|pons)\\\\b')"
+I538
+I544
+tp28
+a(S'5ht2c'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V2002
+I53
+I59
+tp30
+a(S'5ht2'
+p31
+I1180
+I1185
+tp32
+a(S'5ht2a'
 p33
-sS'agonists'
-p34
-g3
-((lp35
+I38
+I44
+tp34
+a(S'5ht2a'
+p35
+I527
+I533
 tp36
-Rp37
-sS'species'
-p38
+atp37
+Rp38
+sS'raw_text_methods'
+p39
 g3
-((lp39
-S"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p40
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+((lp40
+S"(13, u'\\\\bagonist')"
 p41
-atp42
-Rp43
+aS"(50, u'\\\\bm100907')"
+p42
+aS"(12, u'\\\\bantagonist')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+tp48
+Rp49
+sS'year'
+p50
+V2005
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p54
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p55
+atp56
+Rp57
 sb.

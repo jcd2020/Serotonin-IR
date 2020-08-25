@@ -2,70 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-S"(4, u'\\\\blocomot')"
-p15
-atp16
-Rp17
+((lp9
+S"(29, u'\\\\bhyperactiv')"
+p10
+aS"(33, u'\\\\blocomot')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I251
+I257
+tp17
+a(S'5ht1b'
 p18
+I251
+I259
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+aS"(8, u'\\\\bru24969')"
 p25
 atp26
 Rp27
-sS'year'
+sS'regions'
 p28
-V1995
-p29
-sS'agonists'
-p30
 g3
-((lp31
-S"(210, u'\\\\bsulpiride')"
+((lp29
+tp30
+Rp31
+sS'year'
 p32
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+V2000
 p33
-atp34
-Rp35
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+((lp35
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

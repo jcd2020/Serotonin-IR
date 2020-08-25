@@ -2,98 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
-p5
-aS"(14, u'\\\\bmethiothepin')"
-p6
-aS"(125, u'\\\\btropisetron')"
-p7
-aS"(117, u'\\\\bketanserin')"
-p8
-aS"(129, u'\\\\brenzapride')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
 S'Method.ANTAGONIST'
-p14
-aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p5
+atp6
+Rp7
 sS'topics'
-p18
+p8
 g3
-((lp19
-S"(9, u'\\\\bdepress')"
-p20
-atp21
-Rp22
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(30, u'\\\\bpain')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht3'
+p17
+I1231
+I1235
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(20, u'\\\\bondansetron')"
 p23
-g3
-((lp24
-S'5ht7'
-p25
-aS'5ht6'
-p26
-aS'5ht1a'
-p27
-aS'5ht4'
-p28
-aS'5ht2'
-p29
-atp30
-Rp31
+aS"(12, u'\\\\bantagonist')"
+p24
+atp25
+Rp26
 sS'regions'
-p32
+p27
 g3
-((lp33
-tp34
-Rp35
+((lp28
+tp29
+Rp30
 sS'year'
-p36
-V1994
-p37
-sS'agonists'
-p38
-g3
-((lp39
-S"(220, u'\\\\b5 ?methoxytryptamine')"
-p40
-aS"(23, u'\\\\bclozapine')"
-p41
-aS"(96, u'\\\\bsumatriptan')"
-p42
-aS"(149, u'\\\\bmem')"
-p43
-aS"(175, u'\\\\bdoi')"
-p44
-aS"(203, u'\\\\brenzapride')"
-p45
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p46
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p47
-atp48
-Rp49
+p31
+V2011
+p32
 sS'species'
-p50
+p33
 g3
-((lp51
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p52
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p53
-atp54
-Rp55
+((lp34
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

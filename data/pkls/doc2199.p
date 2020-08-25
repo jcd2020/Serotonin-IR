@@ -2,82 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
 p12
 g3
 ((lp13
-S"(3, u'\\\\bsleep')"
+(S'5ht1d'
 p14
-aS"(1, u'\\\\bmood')"
-p15
-aS"(29, u'\\\\bsex')"
+I624
+I630
+tp15
+a(S'5ht1a'
 p16
-aS"(21, u'\\\\bpain')"
-p17
-aS"(16, u'\\\\bfeed')"
+I281
+I287
+tp17
+a(S'5ht5'
 p18
-aS"(11, u'\\\\banxiolyt')"
-p19
-aS"(14, u'\\\\bpsychosis')"
+I448
+I458
+tp19
+a(S'5ht1d'
 p20
-aS"(6, u'\\\\bcognit')"
-p21
-aS"(10, u'\\\\banxiety')"
-p22
-atp23
-Rp24
-sS'receptors'
-p25
+I855
+I861
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp26
-S'5ht1b'
+((lp25
+S"(51, u'\\\\bway100635')"
+p26
+aS"(15, u'\\\\b8ohdpat')"
 p27
-aS'5ht1a'
+aS"(34, u'\\\\b5ct')"
 p28
-aS'5ht2b'
+aS"(6, u'\\\\bgr127935')"
 p29
-aS'5ht2c'
+aS"(12, u'\\\\bantagonist')"
 p30
-aS'5ht2a'
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'regions'
-p34
+p33
 g3
-((lp35
-tp36
-Rp37
+((lp34
+tp35
+Rp36
 sS'year'
+p37
+V1994
 p38
-V2015
-p39
-sS'agonists'
-p40
-g3
-((lp41
-tp42
-Rp43
 sS'species'
-p44
+p39
 g3
-((lp45
-tp46
-Rp47
+((lp40
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p41
+atp42
+Rp43
 sb.

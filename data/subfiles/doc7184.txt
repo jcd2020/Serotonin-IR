@@ -1,4 +1,0 @@
-Lee, J. H., et al. (2016). "Optimal timing of F-18 Mefway PET for imaging the serotonin 1A receptor in healthy male subjects." Applied Radiation and Isotopes 107: 127-132.
-
-	To determine the optimal acquisition time of [F-18]Mefway PET, we examined the regional specific-to-nonspecific binding ratios and evaluated the relationship between distribution volume ratios (DVRs) and standardized uptake value ratios (SUVRs) in various time windows. The specific-to-nonspecific binding ratios peaked after 40 min and there was a strong correlation between DVR and SUVR in the 60-80 min. Therefore, we recommend the use of a single time point between 60 and 80 min for [F-18]Mefway static PET. (C) 2015 Elsevier Ltd. All rights reserved.
-

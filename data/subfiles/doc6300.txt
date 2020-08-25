@@ -1,4 +1,0 @@
-Kariyawasam, S. H. and S. L. Handley (1999). "Quinolinic acid inhibits DOI-induced head shakes in mice." Journal of Psychopharmacology 13(3): 284-286.
-
-	Quinolinic acid, a metabolite of tryptophan in the kynurenine pathway, inhibited the 5-HT2A/2C direct agonist (+/-)-1-(2,5-dimethoxy-4-iodophenyl)-2-amino propane hydrochloride (DOI) induced head shakes in mice in a dose-dependent manner. This effect was observed 10 min after intracerebroventricular (i.c.v) administration of 0.0625-1 mu g/mouse. 3-Hydroxyanthranilic acid, which is the immediate stable precursor of quinolinic acid in the kynurenine pathway, showed a similar effect 60-120 min after subcutaneous (s.c.) administration, without showing any effect 10 min after i.c.v. administration or 20-40 min after s.c. administration. These observations suggest; that quinolinic acid can alter central effects mediated via 5-HT2A receptors.
-

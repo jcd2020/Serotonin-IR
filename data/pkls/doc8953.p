@@ -2,72 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.IMMUNOHISTOCHEMISTRY'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(26, u'\\\\bbehav')"
 p12
-g3
-((lp13
-S"(35, u'\\\\bstress')"
+aS"(25, u'\\\\bsocial')"
+p13
+aS"(3, u'\\\\bclinical')"
 p14
-aS"(20, u'\\\\baggressi')"
-p15
-atp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht1a'
-p20
-aS'5ht2a'
+((lp18
+(S'5ht2a'
+p19
+I1130
+I1136
+tp20
+a(S'5ht2c'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I1130
+I1137
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp25
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p26
-aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp26
+S"(48, u'\\\\bmdma')"
 p27
-aS"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
+aS"(9, u'\\\\britanserin')"
 p28
-atp29
-Rp30
-sS'year'
-p31
-V2011
+aS"(12, u'\\\\bantagonist')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(176, u'\\\\bdom')"
-p35
-atp36
-Rp37
+((lp33
+tp34
+Rp35
+sS'year'
+p36
+V2016
+p37
 sS'species'
 p38
 g3
 ((lp39
-S"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
-p40
-atp41
-Rp42
+tp40
+Rp41
 sb.

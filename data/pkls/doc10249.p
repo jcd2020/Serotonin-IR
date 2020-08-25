@@ -2,78 +2,105 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(133, u'\\\\bmianserin')"
+S'Method.ANTAGONIST'
 p5
-aS"(91, u'\\\\bfluoxetine')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(23, u'\\\\bantipsychotic')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(9, u'\\\\bdepress')"
-p16
-aS"(30, u'\\\\bparkinsons')"
-p17
-aS"(4, u'\\\\blocomot')"
-p18
-atp19
-Rp20
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I339
+I345
+tp18
+a(S'5ht1a'
+p19
+I906
+I912
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-S'5ht2c'
+I518
+I524
+tp22
+a(S'5ht1a'
 p23
-aS'5ht2a'
-p24
-atp25
-Rp26
-sS'regions'
+I1295
+I1301
+tp24
+a(S'5ht1a'
+p25
+I237
+I243
+tp26
+a(S'5ht1a'
 p27
-g3
-((lp28
-S"(222, u'(?i)\\\\b(neostriatums|neostriatum)\\\\b')"
+I1376
+I1382
+tp28
+a(S'5ht1a'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V2015
+I59
+I65
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
 p33
-sS'agonists'
-p34
 g3
-((lp35
-tp36
-Rp37
-sS'species'
+((lp34
+S"(13, u'\\\\bagonist')"
+p35
+aS"(15, u'\\\\b8ohdpat')"
+p36
+aS"(41, u'\\\\bhaloperidol')"
+p37
+aS"(12, u'\\\\bantagonist')"
 p38
-g3
-((lp39
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p40
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+atp39
+Rp40
+sS'regions'
 p41
-aS"(4546, u'(?i)\\\\b(cardinals|cardinal)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp42
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p43
-atp44
-Rp45
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p44
+atp45
+Rp46
+sS'year'
+p47
+V2010
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p51
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

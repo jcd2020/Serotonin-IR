@@ -2,70 +2,110 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(123, u'\\\\bgranisetron')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht1a'
+p16
+I705
+I711
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht3a'
+I1228
+I1234
+tp19
+a(S'5ht1a'
 p20
-aS'5ht3'
-p21
-atp22
-Rp23
-sS'regions'
+I76
+I82
+tp21
+a(S'5ht1'
+p22
+I870
+I875
+tp23
+a(S'5ht1a'
 p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
+I237
+I243
+tp25
+a(S'5ht3'
+p26
+I1782
+I1786
+tp27
+a(S'5ht3'
 p28
-V1998
-p29
-sS'agonists'
+I1144
+I1149
+tp29
+a(S'5ht2'
 p30
-g3
-((lp31
-tp32
+I1718
+I1723
+tp31
+atp32
 Rp33
-sS'species'
+sS'raw_text_methods'
 p34
 g3
 ((lp35
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+S"(53, u'\\\\bketanserin')"
 p36
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+aS"(23, u'\\\\bmdl')"
 p37
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+aS"(22, u'\\\\bbuspirone')"
 p38
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
 p39
-atp40
-Rp41
+aS"(13, u'\\\\bagonist')"
+p40
+aS"(44, u'\\\\btetrodotoxin')"
+p41
+aS"(46, u'\\\\bspiperone')"
+p42
+aS"(12, u'\\\\bantagonist')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+tp48
+Rp49
+sS'year'
+p50
+V1992
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p54
+atp55
+Rp56
 sb.

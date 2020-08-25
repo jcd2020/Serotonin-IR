@@ -2,66 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
 p12
-g3
-((lp13
-tp14
-Rp15
+aS"(16, u'\\\\blearning')"
+p13
+aS"(26, u'\\\\bbehav')"
+p14
+aS"(15, u'\\\\bmemory')"
+p15
+atp16
+Rp17
 sS'receptors'
-p16
-g3
-((lp17
-S'5ht3'
 p18
-atp19
-Rp20
-sS'regions'
-p21
 g3
-((lp22
-S"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p23
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+((lp19
+(S'5ht1a'
+p20
+I464
+I470
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
+g3
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+aS"(22, u'\\\\bbuspirone')"
+p27
+aS"(12, u'\\\\bantagonist')"
 p28
-V1996
-p29
-sS'agonists'
-p30
+atp29
+Rp30
+sS'regions'
+p31
 g3
-((lp31
-S"(11, u'\\\\bamphetamine')"
-p32
-atp33
+((lp32
+tp33
 Rp34
-sS'species'
+sS'year'
 p35
-g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2012
+p36
+sS'species'
 p37
-atp38
-Rp39
+g3
+((lp38
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p39
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

@@ -2,72 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(203, u'\\\\btfmpp')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(3, u'\\\\bclinical')"
 p13
-g3
-((lp14
-S"(12, u'\\\\banxiogen')"
-p15
-aS"(10, u'\\\\banxiety')"
-p16
-aS"(4, u'\\\\blocomot')"
-p17
-atp18
-Rp19
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht3'
+p18
+I185
+I190
+tp19
+a(S'5ht3'
 p20
-g3
-((lp21
-S'5ht2c'
+I201
+I206
+tp21
+a(S'5ht3'
 p22
-atp23
-Rp24
-sS'regions'
-p25
+I763
+I768
+tp23
+a(S'5ht3'
+p24
+I378
+I382
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
 g3
-((lp26
-tp27
-Rp28
-sS'year'
-p29
-V2004
+((lp29
+S"(13, u'\\\\bagonist')"
 p30
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p31
-g3
-((lp32
-S"(166, u'\\\\bmk ?212')"
-p33
-aS"(76, u'\\\\btrifluoromethylphenylpiperazine')"
+atp32
+Rp33
+sS'regions'
 p34
-aS"(178, u'\\\\btfmpp')"
-p35
-atp36
-Rp37
-sS'species'
-p38
 g3
-((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp35
+tp36
+Rp37
+sS'year'
+p38
+V2013
+p39
+sS'species'
 p40
-atp41
-Rp42
+g3
+((lp41
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p42
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p43
+atp44
+Rp45
 sb.

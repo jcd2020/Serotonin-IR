@@ -2,64 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(4, u'\\\\bbmy ?7378')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(24, u'\\\\banxiolytic')"
 p10
-aS'Method.AGONIST'
+aS"(8, u'\\\\banxi')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+aS"(26, u'\\\\bbehav')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp16
+(S'5ht1a'
+p17
+I1408
+I1414
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
 p23
-g3
-((lp24
-S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(16, u'\\\\bdiazepam')"
+p24
+aS"(36, u'\\\\bbenzodiazepine')"
 p25
-atp26
-Rp27
-sS'year'
-p28
-V2015
-p29
-sS'agonists'
+aS"(21, u'\\\\bipsapirone')"
+p26
+aS"(31, u'\\\\bbenzodiazepines')"
+p27
+atp28
+Rp29
+sS'regions'
 p30
 g3
 ((lp31
 tp32
 Rp33
-sS'species'
+sS'year'
 p34
-g3
-((lp35
-S"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+V1992
+p35
+sS'species'
 p36
-atp37
-Rp38
+g3
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

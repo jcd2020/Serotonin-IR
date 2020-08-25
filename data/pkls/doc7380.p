@@ -2,74 +2,127 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.PET'
 p5
-aS"(117, u'\\\\bketanserin')"
+aS'Method.AGONIST'
 p6
-aS"(194, u'\\\\bmethysergide')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+atp7
+Rp8
 sS'topics'
-p15
+p9
 g3
-((lp16
-tp17
-Rp18
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(20, u'\\\\bmood')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht2a'
 p19
-g3
-((lp20
-S'5ht3'
+I1828
+I1834
+tp20
+a(S'5ht2a'
 p21
-aS'5ht2'
-p22
-aS'5ht1'
+I1129
+I1135
+tp22
+a(S'5ht2a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
-S"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+I525
+I531
+tp24
+a(S'5ht2a'
+p25
+I58
+I64
+tp26
+a(S'5ht2a'
+p27
+I750
+I756
+tp28
+a(S'5ht2a'
+p29
+I1523
+I1529
+tp30
+a(S'5ht2a'
 p31
-V1995
-p32
-sS'agonists'
+I1612
+I1618
+tp32
+a(S'5ht2a'
 p33
-g3
-((lp34
-S"(53, u'\\\\bmethysergide')"
+I1408
+I1414
+tp34
+a(S'5ht2a'
 p35
-atp36
-Rp37
-sS'species'
-p38
+I1307
+I1313
+tp36
+a(S'5ht2a'
+p37
+I416
+I422
+tp38
+a(S'5ht2a'
+p39
+I1003
+I1009
+tp40
+atp41
+Rp42
+sS'raw_text_methods'
+p43
 g3
-((lp39
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+((lp44
+S"(17, u'\\\\bpet')"
+p45
+aS"(18, u'\\\\bimaging')"
+p46
+aS"(13, u'\\\\bagonist')"
+p47
+aS"(19, u'\\\\bpositron emission tomography')"
+p48
+aS"(38, u'\\\\bssri')"
+p49
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p50
+atp51
+Rp52
+sS'regions'
+p53
+g3
+((lp54
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p55
+atp56
+Rp57
+sS'year'
+p58
+V2001
+p59
+sS'species'
+p60
+g3
+((lp61
+tp62
+Rp63
 sb.

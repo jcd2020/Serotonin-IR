@@ -2,68 +2,78 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(198, u'\\\\bsb ?269970')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(26, u'\\\\bcardiovascular')"
+(S'5ht2a'
 p15
-atp16
-Rp17
-sS'receptors'
-p18
-g3
-((lp19
-S'5ht7'
-p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I1076
+I1082
+tp16
+a(S'5ht2a'
+p17
+I734
+I740
+tp18
+a(S'5ht1a'
+p19
+I1087
+I1093
+tp20
+a(S'5ht1a'
+p21
+I694
+I700
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-aS"(386, u'(?i)\\\\b(cisternas|cisterna)(-|\\\\s+)?(magnas|magna)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
-p29
-V2007
+g3
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+atp28
+Rp29
+sS'regions'
 p30
-sS'agonists'
-p31
 g3
-((lp32
-tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+((lp31
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p32
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
+p36
+V2004
 p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p38
-atp39
-Rp40
+g3
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

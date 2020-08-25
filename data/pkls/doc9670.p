@@ -2,100 +2,109 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(112, u'\\\\bquetiapine')"
+S'Method.AGONIST'
 p5
-aS"(110, u'\\\\bclozapine')"
-p6
-aS"(59, u'\\\\bchlorpromazine')"
-p7
-aS"(195, u'\\\\bpimozide')"
-p8
-aS"(113, u'\\\\brisperidone')"
-p9
-aS"(50, u'\\\\bquetiapine')"
-p10
-aS"(111, u'\\\\bolanzapine')"
-p11
-aS"(108, u'\\\\bfluphenazine')"
-p12
-aS"(205, u'\\\\bzotepine')"
-p13
-aS"(109, u'\\\\bthioridazine')"
-p14
-aS"(26, u'\\\\bspiperone')"
-p15
-aS"(58, u'\\\\bhaloperidol')"
-p16
-atp17
-Rp18
-sS'methods'
-p19
-g3
-((lp20
-S'Method.ANTAGONIST'
-p21
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p22
-atp23
-Rp24
+atp6
+Rp7
 sS'topics'
-p25
+p8
 g3
-((lp26
-tp27
-Rp28
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(9, u'\\\\bstress')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I1865
+I1871
+tp18
+a(S'5ht1a'
+p19
+I803
+I809
+tp20
+a(S'5ht1a'
+p21
+I90
+I96
+tp22
+a(S'5ht1a'
+p23
+I1756
+I1762
+tp24
+a(S'5ht1a'
+p25
+I1980
+I1986
+tp26
+a(S'5ht1a'
+p27
+I1238
+I1244
+tp28
+a(S'5ht1a'
 p29
-g3
-((lp30
-S'5ht2a'
+I1474
+I1480
+tp30
+a(S'5ht1a'
 p31
-atp32
-Rp33
-sS'regions'
-p34
-g3
-((lp35
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p36
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+I1640
+I1646
+tp32
+a(S'5ht1a'
+p33
+I695
+I701
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
 p37
-atp38
-Rp39
-sS'year'
-p40
-V2004
-p41
-sS'agonists'
+g3
+((lp38
+S"(13, u'\\\\bagonist')"
+p39
+atp40
+Rp41
+sS'regions'
 p42
 g3
 ((lp43
-S"(64, u'\\\\bquetiapine')"
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p44
-aS"(59, u'\\\\bperospirone')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p45
-aS"(57, u'\\\\bolanzapine')"
+aS"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
 p46
-aS"(210, u'\\\\bsulpiride')"
-p47
-aS"(43, u'\\\\bhaloperidol')"
-p48
-aS"(23, u'\\\\bclozapine')"
+atp47
+Rp48
+sS'year'
 p49
-atp50
-Rp51
+V2011
+p50
 sS'species'
-p52
+p51
 g3
-((lp53
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p54
-atp55
-Rp56
+((lp52
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p53
+atp54
+Rp55
 sb.

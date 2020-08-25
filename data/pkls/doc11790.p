@@ -2,77 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(198, u'\\\\bsb ?269970')"
+S'Method.ANTAGONIST'
 p5
-aS"(119, u'\\\\britanserin')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(22, u'\\\\bschizophreni')"
 p11
-aS'Method.AGONIST'
+aS"(26, u'\\\\bbehav')"
 p12
 atp13
 Rp14
-sS'topics'
+sS'receptors'
 p15
 g3
 ((lp16
-tp17
-Rp18
-sS'receptors'
+(S'5ht2a'
+p17
+I553
+I559
+tp18
+a(S'5ht2'
 p19
-g3
-((lp20
-S'5ht7'
-p21
-aS'5ht1a'
-p22
-aS'5ht2'
+I1430
+I1435
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-atp24
-Rp25
-sS'regions'
+g3
+((lp24
+S"(27, u'\\\\blsd')"
+p25
+aS"(5, u'\\\\bmk801')"
 p26
-g3
-((lp27
-S"(190, u'(?i)\\\\b(zonas|zona)(-|\\\\s+)?(incertas|incerta)\\\\b')"
+aS"(13, u'\\\\bagonist')"
+p27
+aS"(49, u'\\\\bdoi')"
 p28
-atp29
-Rp30
-sS'year'
+aS"(46, u'\\\\bspiperone')"
+p29
+aS"(9, u'\\\\britanserin')"
+p30
+aS"(12, u'\\\\bantagonist')"
 p31
-V2004
-p32
-sS'agonists'
-p33
+atp32
+Rp33
+sS'regions'
+p34
 g3
-((lp34
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+((lp35
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p36
-aS"(219, u'\\\\b5 ?ct')"
-p37
-atp38
-Rp39
-sS'species'
+atp37
+Rp38
+sS'year'
+p39
+V2000
 p40
+sS'species'
+p41
 g3
-((lp41
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
 atp44
 Rp45

@@ -2,86 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(43, u'\\\\bgr ?127935')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
-aS'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-S"(15, u'\\\\bschizophreni')"
-p16
-aS"(9, u'\\\\bdepress')"
-p17
-atp18
-Rp19
+((lp8
+tp9
+Rp10
 sS'receptors'
-p20
+p11
 g3
-((lp21
-S'5ht1b'
-p22
-aS'5ht1d'
+((lp12
+(S'5ht2c'
+p13
+I249
+I255
+tp14
+a(S'5ht2c'
+p15
+I758
+I764
+tp16
+a(S'5ht2c'
+p17
+I38
+I44
+tp18
+a(S'5ht2c'
+p19
+I1341
+I1347
+tp20
+a(S'5ht2c'
+p21
+I954
+I960
+tp22
+a(S'5ht2c'
 p23
-atp24
-Rp25
+I235
+I246
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
+g3
+((lp28
+tp29
+Rp30
 sS'regions'
-p26
+p31
 g3
-((lp27
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p28
-aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
-p29
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
+((lp32
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p33
-V2010
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p34
-sS'agonists'
-p35
-g3
-((lp36
-tp37
-Rp38
+atp35
+Rp36
+sS'year'
+p37
+V2007
+p38
 sS'species'
 p39
 g3
 ((lp40
-S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p41
-aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p43
-aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p44
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p45
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p46
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p47
-atp48
-Rp49
+atp43
+Rp44
 sb.

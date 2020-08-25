@@ -2,72 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
 p13
 g3
 ((lp14
-S"(18, u'\\\\bpsychostim')"
+(S'5ht1d'
 p15
-aS"(4, u'\\\\blocomot')"
-p16
-atp17
-Rp18
-sS'receptors'
+I208
+I213
+tp16
+a(S'5ht2c'
+p17
+I1069
+I1076
+tp18
+a(S'5ht1d'
 p19
-g3
-((lp20
-S'5ht2c'
+I1069
+I1074
+tp20
+a(S'5ht1d'
 p21
-aS'5ht2a'
-p22
+I1020
+I1025
+tp22
 atp23
 Rp24
-sS'regions'
+sS'raw_text_methods'
 p25
 g3
 ((lp26
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p27
-atp28
-Rp29
-sS'year'
+aS"(45, u'\\\\bmetergoline')"
+p28
+aS"(47, u'\\\\bsumatriptan')"
+p29
+aS"(12, u'\\\\bantagonist')"
 p30
-V2004
-p31
-sS'agonists'
-p32
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp33
-tp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+((lp34
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
 p38
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+V1995
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p40
-atp41
-Rp42
+g3
+((lp41
+tp42
+Rp43
 sb.

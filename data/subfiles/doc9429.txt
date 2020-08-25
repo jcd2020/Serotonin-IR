@@ -1,4 +1,0 @@
-Nirogi, R., et al. (2015). "Synthesis and SAR of Imidazo[1,5-a]pyridine derivatives as 5-HT4 receptor partial agonists for the treatment of cognitive disorders associated with Alzheimer's disease." Eur J Med Chem 103: 289-301.
-
-	Alzheimer's disease (AD) is a neurodegenerative disease which has a higher prevalence and incidence in older people. The need for improved AD therapies is unmet. The 5-hydroxytryptamine4 receptor (5-HT4R) partial agonists may be of benefit for both the symptomatic and disease-modifying treatment of cognitive disorders associated with AD. Herein, we report the design, synthesis and SAR of imidazo[1,5-a] pyridine derivatives as 5-HT4R partial agonists. The focused SAR, optimization of ADME properties resulted the discovery of compound 5a as potent, selective, brain penetrant 5-HT4 partial agonist as a lead compound with good ADME properties and efficacy in both symptomatic and disease modifying animal models of cognition.
-

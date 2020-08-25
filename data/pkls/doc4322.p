@@ -1,0 +1,85 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(16, u'\\\\blearning')"
+p12
+aS"(17, u'\\\\balzheimer')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
+Rp16
+sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1a'
+p19
+I866
+I872
+tp20
+a(S'5ht1a'
+p21
+I35
+I41
+tp22
+a(S'5ht1a'
+p23
+I1260
+I1266
+tp24
+a(S'5ht1a'
+p25
+I794
+I800
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
+g3
+((lp30
+S"(13, u'\\\\bagonist')"
+p31
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
+p35
+g3
+((lp36
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
+p37
+atp38
+Rp39
+sS'year'
+p40
+V1996
+p41
+sS'species'
+p42
+g3
+((lp43
+tp44
+Rp45
+sb.

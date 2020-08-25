@@ -1,0 +1,90 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
+p12
+g3
+((lp13
+(S'5ht1a'
+p14
+I998
+I1004
+tp15
+a(S'5ht1a'
+p16
+I484
+I490
+tp17
+a(S'5ht1a'
+p18
+I1755
+I1761
+tp19
+a(S'5ht1a'
+p20
+I716
+I722
+tp21
+a(S'5ht1a'
+p22
+I68
+I74
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+S"(11, u'\\\\bfluoxetine')"
+p28
+aS"(38, u'\\\\bssri')"
+p29
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p30
+aS"(12, u'\\\\bantagonist')"
+p31
+atp32
+Rp33
+sS'regions'
+p34
+g3
+((lp35
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p36
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p37
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
+p41
+V1997
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
+sb.

@@ -1,0 +1,83 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(18, u'\\\\bavoidan')"
+p10
+aS"(16, u'\\\\blearning')"
+p11
+aS"(15, u'\\\\bmemory')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht7'
+p17
+I616
+I621
+tp18
+a(S'5ht7'
+p19
+I273
+I278
+tp20
+a(S'5ht7'
+p21
+I54
+I59
+tp22
+a(S'5ht7'
+p23
+I1463
+I1468
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
+g3
+((lp28
+S"(12, u'\\\\bantagonist')"
+p29
+atp30
+Rp31
+sS'regions'
+p32
+g3
+((lp33
+tp34
+Rp35
+sS'year'
+p36
+V2019
+p37
+sS'species'
+p38
+g3
+((lp39
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p41
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p42
+atp43
+Rp44
+sb.

@@ -1,0 +1,74 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(15, u'\\\\bmemory')"
+p9
+aS"(16, u'\\\\blearning')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2'
+p16
+I651
+I656
+tp17
+a(S'5ht2'
+p18
+I437
+I442
+tp19
+a(S'5ht2a'
+p20
+I414
+I425
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+tp26
+Rp27
+sS'regions'
+p28
+g3
+((lp29
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p30
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p31
+atp32
+Rp33
+sS'year'
+p34
+V2013
+p35
+sS'species'
+p36
+g3
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
+sb.

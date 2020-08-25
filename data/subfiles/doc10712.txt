@@ -1,0 +1,4 @@
+Sugden, D. (1990). "5-Hydroxytryptamine amplifies beta-adrenergic stimulation of N-acetyltransferase activity in rat pinealocytes." J Neurochem 55(5): 1655-1658.
+
+	In cultured rat pinealocytes beta-adrenergic induction of N-acetyltransferase, a key enzyme in the synthesis of melatonin, is amplified by addition of 5-hydroxytryptamine (5-HT) to the culture medium. However, 5-HT when added alone has no effect on enzyme activity. Pharmacological experiments with a range of agonists and antagonists suggest that this action is not mediated by 5-HT1, 5-HT2, 5-HT3, or 5-HT4 receptor subtypes but may involve a site similar to the 5-HT1p receptor described in the enteric nervous system. The potential role of 5-HT in modulating adrenergic stimulation of N-acetyltransferase activity is discussed.
+

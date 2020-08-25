@@ -2,82 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(76, u'\\\\blisuride')"
-p5
-aS"(206, u'\\\\bbromocriptine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.AGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-S"(12, u'\\\\banxiogen')"
-p16
-aS"(11, u'\\\\banxiolyt')"
-p17
-aS"(4, u'\\\\blocomot')"
-p18
-atp19
-Rp20
+((lp8
+S"(8, u'\\\\banxi')"
+p9
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(16, u'\\\\blearning')"
+p11
+aS"(9, u'\\\\bstress')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I953
+I959
+tp18
+a(S'5ht2c'
+p19
+I972
+I978
+tp20
+a(S'5ht2a'
 p21
+I961
+I967
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp22
-S'5ht1a'
-p23
-atp24
-Rp25
+((lp26
+tp27
+Rp28
 sS'regions'
-p26
-g3
-((lp27
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p28
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p29
-atp30
-Rp31
+g3
+((lp30
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p31
+atp32
+Rp33
 sS'year'
-p32
-V1991
-p33
-sS'agonists'
 p34
-g3
-((lp35
-S"(179, u'\\\\b5 ?meo ?dmt')"
-p36
-aS"(137, u'\\\\blisuride')"
-p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p38
-aS"(150, u'\\\\bpergolide')"
-p39
-atp40
-Rp41
+V2015
+p35
 sS'species'
-p42
+p36
 g3
-((lp43
-S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
-p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-atp46
-Rp47
+((lp37
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p38
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p39
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p40
+atp41
+Rp42
 sb.

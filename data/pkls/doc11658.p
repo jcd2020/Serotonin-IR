@@ -2,92 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S'Method.AGONIST'
 p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(194, u'\\\\bmethysergide')"
-p7
-aS"(34, u'\\\\bmetergoline')"
-p8
-aS"(22, u'\\\\bpropranolol')"
-p9
-aS"(119, u'\\\\britanserin')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
-S'Method.ANTAGONIST'
-p15
-aS'Method.AGONIST'
-p16
-atp17
-Rp18
+atp6
+Rp7
 sS'topics'
-p19
+p8
 g3
-((lp20
-tp21
-Rp22
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(27, u'\\\\bdyskinesia')"
+p11
+aS"(34, u'\\\\bparkinson')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1b'
+p17
+I710
+I717
+tp18
+a(S'5ht1a'
+p19
+I710
+I716
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
 g3
 ((lp24
-S'5ht1c'
-p25
-aS'5ht1b'
-p26
-aS'5ht1a'
-p27
-aS'5ht3a'
-p28
-aS'5ht2'
-p29
-aS'5ht1'
-p30
-aS'5ht3'
-p31
-atp32
-Rp33
+tp25
+Rp26
 sS'regions'
+p27
+g3
+((lp28
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p29
+atp30
+Rp31
+sS'year'
+p32
+V2019
+p33
+sS'species'
 p34
 g3
 ((lp35
-tp36
-Rp37
-sS'year'
-p38
-V1989
-p39
-sS'agonists'
-p40
-g3
-((lp41
-S"(210, u'\\\\bsulpiride')"
-p42
-aS"(53, u'\\\\bmethysergide')"
-p43
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p44
-atp45
-Rp46
-sS'species'
-p47
-g3
-((lp48
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p49
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p50
-atp51
-Rp52
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

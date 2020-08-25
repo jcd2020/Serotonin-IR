@@ -2,72 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STAINING'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-tp14
-Rp15
+((lp10
+tp11
+Rp12
 sS'receptors'
-p16
+p13
 g3
-((lp17
-S'5ht3'
-p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+((lp14
+(S'5ht3'
+p15
+I1465
+I1470
+tp16
+a(S'5ht3'
+p17
+I319
+I324
+tp18
+a(S'5ht3'
+p19
+I44
+I49
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p24
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
 p25
-aS"(243, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(olfactories|olfactory)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p26
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p27
-atp28
-Rp29
+atp27
+Rp28
+sS'regions'
+p29
+g3
+((lp30
+tp31
+Rp32
 sS'year'
-p30
+p33
 V1998
-p31
-sS'agonists'
-p32
-g3
-((lp33
-tp34
-Rp35
+p34
 sS'species'
-p36
+p35
 g3
-((lp37
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p38
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

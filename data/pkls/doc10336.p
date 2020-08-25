@@ -2,78 +2,101 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.PET'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p5
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-tp15
-Rp16
+((lp9
+S"(7, u'\\\\bdepressi')"
+p10
+aS"(10, u'\\\\bocd')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
 p17
-g3
-((lp18
-S'5ht2c'
+I436
+I442
+tp18
+a(S'5ht2a'
 p19
-aS'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
+I1876
+I1882
+tp20
+a(S'5ht2a'
+p21
+I32
+I43
+tp22
+a(S'5ht2a'
 p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
+I1753
+I1759
+tp24
+a(S'5ht2a'
+p25
+I782
+I788
+tp26
+a(S'5ht2a'
 p27
-V2017
-p28
-sS'agonists'
+I1943
+I1949
+tp28
+a(S'5ht2a'
 p29
+I422
+I433
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
+p33
 g3
-((lp30
-S"(124, u'\\\\bfecimbi ?36')"
-p31
-atp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(6393, u'(?i)\\\\b(africans|african)(-|\\\\s+)?(greens|green)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
+((lp34
+S"(19, u'\\\\bpositron emission tomography')"
+p35
+aS"(23, u'\\\\bmdl')"
 p36
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p37
-aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p38
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
+atp37
+Rp38
+sS'regions'
 p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+g3
+((lp40
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
 p41
-aS"(6392, u'(?i)\\\\b(greens|green)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p42
-aS"(699, u'(?i)\\\\b(vervets|vervet)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p43
-atp44
-Rp45
+aS"(7, u'(?i)\\\\b(entorhinals|entorhinal)\\\\b')"
+p44
+atp45
+Rp46
+sS'year'
+p47
+V2011
+p48
+sS'species'
+p49
+g3
+((lp50
+tp51
+Rp52
 sb.

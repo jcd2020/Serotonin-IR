@@ -1,0 +1,4 @@
+Hatzenbuhler, N. T., et al. (2006). "Synthesis and biological evaluation of novel compounds within a class of 3-aminochroman derivatives with dual 5-HT1A receptor and serotonin transporter affinity." Journal of Medicinal Chemistry 49(15): 4785-4789.
+
+	Compounds containing a 5-carbamoyl-8-fluoro-3-amino-3,4-dihydro-2H-1-benzopyran and a 3-alkylindole moiety linked through a common basic nitrogen were prepared and evaluated for 5-HT1A affinity, serotonin rat transporter affinity, and functional antagonist activity in vitro. 26a was found to be the most potent and selective compound in this series and was shown to possess neurochemical activity in vivo by producing acute and rapid increases in 5-HT in the rat frontal cortex.
+

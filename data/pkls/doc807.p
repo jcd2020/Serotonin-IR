@@ -2,76 +2,92 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.AGONIST'
 p5
-aS"(119, u'\\\\britanserin')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht2c'
-p21
-aS'5ht2a'
+((lp17
+(S'5ht1a'
+p18
+I1425
+I1431
+tp19
+a(S'5ht1a'
+p20
+I769
+I775
+tp21
+a(S'5ht1a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V2001
-p31
-sS'agonists'
+I1317
+I1323
+tp23
+a(S'5ht1a'
+p24
+I378
+I384
+tp25
+a(S'5ht1a'
+p26
+I28
+I34
+tp27
+a(S'5ht1a'
+p28
+I1565
+I1571
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
 p32
 g3
 ((lp33
-S"(175, u'\\\\bdoi')"
+S"(13, u'\\\\bagonist')"
 p34
 atp35
 Rp36
-sS'species'
+sS'regions'
 p37
 g3
 ((lp38
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p39
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p40
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+tp39
+Rp40
+sS'year'
 p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2018
 p42
-atp43
-Rp44
+sS'species'
+p43
+g3
+((lp44
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p45
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p46
+atp47
+Rp48
 sb.

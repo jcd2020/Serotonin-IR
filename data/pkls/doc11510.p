@@ -2,78 +2,86 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.STIMULATION'
-p9
+p5
 aS'Method.ANTAGONIST'
-p10
+p6
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p7
+atp8
+Rp9
 sS'topics'
-p14
+p10
 g3
-((lp15
-tp16
-Rp17
+((lp11
+S"(30, u'\\\\bpain')"
+p12
+aS"(35, u'\\\\bnocicept')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht1b'
+I1002
+I1008
+tp19
+a(S'5ht1a'
 p20
-aS'5ht1'
-p21
-atp22
-Rp23
-sS'regions'
+I1127
+I1133
+tp21
+a(S'5ht1a'
+p22
+I95
+I101
+tp23
+a(S'5ht1a'
 p24
-g3
-((lp25
-tp26
+I470
+I476
+tp25
+atp26
 Rp27
-sS'year'
+sS'raw_text_methods'
 p28
-V2006
-p29
-sS'agonists'
-p30
 g3
-((lp31
-S"(149, u'\\\\bmem')"
+((lp29
+S"(13, u'\\\\bagonist')"
+p30
+aS"(51, u'\\\\bway100635')"
+p31
+aS"(12, u'\\\\bantagonist')"
 p32
 atp33
 Rp34
-sS'species'
+sS'regions'
 p35
 g3
 ((lp36
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+atp38
+Rp39
+sS'year'
 p40
-aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+V2010
 p41
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+sS'species'
 p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+g3
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

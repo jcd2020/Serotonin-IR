@@ -2,72 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(1, u'\\\\bpatient')"
 p10
-aS'Method.AGONIST'
+aS"(3, u'\\\\bclinical')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(15, u'\\\\bschizophreni')"
+(S'5ht2a'
 p16
-aS"(6, u'\\\\bcognit')"
-p17
-atp18
-Rp19
-sS'receptors'
+I1220
+I1225
+tp17
+a(S'5ht2a'
+p18
+I976
+I981
+tp19
+a(S'5ht2a'
 p20
-g3
-((lp21
-S'5ht1a'
+I461
+I466
+tp21
+a(S'5ht2a'
 p22
-aS'5ht1d'
-p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I1129
+I1134
+tp23
+a(S'5ht2'
+p24
+I976
+I981
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-atp29
-Rp30
-sS'year'
+g3
+((lp29
+S"(17, u'\\\\bpet')"
+p30
+aS"(19, u'\\\\bpositron emission tomography')"
 p31
-V2007
+aS"(18, u'\\\\bimaging')"
 p32
-sS'agonists'
+aS"(23, u'\\\\bmdl')"
 p33
-g3
-((lp34
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-aS"(43, u'\\\\bhaloperidol')"
+atp34
+Rp35
+sS'regions'
 p36
-atp37
-Rp38
-sS'species'
-p39
 g3
-((lp40
-tp41
-Rp42
+((lp37
+tp38
+Rp39
+sS'year'
+p40
+V2014
+p41
+sS'species'
+p42
+g3
+((lp43
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p44
+atp45
+Rp46
 sb.

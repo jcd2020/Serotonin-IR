@@ -1,0 +1,120 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+aS'Method.ANTAGONIST'
+p7
+atp8
+Rp9
+sS'topics'
+p10
+g3
+((lp11
+S"(26, u'\\\\bbehav')"
+p12
+aS"(25, u'\\\\bsocial')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(3, u'\\\\bclinical')"
+p15
+atp16
+Rp17
+sS'receptors'
+p18
+g3
+((lp19
+(S'5ht2c'
+p20
+I2314
+I2320
+tp21
+a(S'5ht2c'
+p22
+I1115
+I1121
+tp23
+a(S'5ht2c'
+p24
+I414
+I425
+tp25
+a(S'5ht2c'
+p26
+I87
+I98
+tp27
+a(S'5ht2c'
+p28
+I719
+I725
+tp29
+a(S'5ht2c'
+p30
+I1155
+I1161
+tp31
+a(S'5ht2c'
+p32
+I2234
+I2240
+tp33
+a(S'5ht2c'
+p34
+I613
+I619
+tp35
+a(S'5ht2c'
+p36
+I428
+I434
+tp37
+atp38
+Rp39
+sS'raw_text_methods'
+p40
+g3
+((lp41
+S"(13, u'\\\\bagonist')"
+p42
+aS"(52, u'\\\\bmk212')"
+p43
+aS"(12, u'\\\\bantagonist')"
+p44
+atp45
+Rp46
+sS'regions'
+p47
+g3
+((lp48
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p49
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p50
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p51
+atp52
+Rp53
+sS'year'
+p54
+V2016
+p55
+sS'species'
+p56
+g3
+((lp57
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p58
+atp59
+Rp60
+sb.

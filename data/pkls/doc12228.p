@@ -2,84 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(99, u'\\\\bsb ?242084')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-S"(8, u'\\\\blearning')"
-p16
-aS"(35, u'\\\\bstress')"
-p17
-aS"(10, u'\\\\banxiety')"
-p18
-atp19
-Rp20
+((lp8
+S"(8, u'\\\\banxi')"
+p9
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(19, u'\\\\bpsychosis')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(20, u'\\\\bmood')"
+p13
+atp14
+Rp15
 sS'receptors'
-p21
+p16
 g3
-((lp22
-S'5ht2c'
-p23
-atp24
-Rp25
-sS'regions'
+((lp17
+(S'5ht5'
+p18
+I785
+I795
+tp19
+a(S'5ht2'
+p20
+I802
+I807
+tp21
+a(S'5ht1a'
+p22
+I795
+I800
+tp23
+a(S'5ht2a'
+p24
+I802
+I807
+tp25
+a(S'5ht1a'
 p26
-g3
-((lp27
-S"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
+I1090
+I1095
+tp27
+a(S'5ht2a'
 p28
-aS"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p29
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p30
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p31
-atp32
-Rp33
-sS'year'
-p34
-V2011
-p35
-sS'agonists'
+I1316
+I1321
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
+p32
+g3
+((lp33
+tp34
+Rp35
+sS'regions'
 p36
 g3
 ((lp37
-S"(161, u'\\\\bcp ?809101')"
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p38
 atp39
 Rp40
-sS'species'
+sS'year'
 p41
-g3
-((lp42
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+V2013
+p42
+sS'species'
 p43
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p46
-atp47
-Rp48
+atp46
+Rp47
 sb.

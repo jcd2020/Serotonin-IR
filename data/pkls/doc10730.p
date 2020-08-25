@@ -2,76 +2,142 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(14, u'\\\\bcogniti')"
+p12
+aS"(26, u'\\\\bbehav')"
 p13
-g3
-((lp14
-S"(11, u'\\\\banxiolyt')"
+aS"(25, u'\\\\bsocial')"
+p14
+aS"(19, u'\\\\bpsychosis')"
 p15
-atp16
-Rp17
-sS'receptors'
+aS"(20, u'\\\\bmood')"
+p16
+aS"(15, u'\\\\bmemory')"
+p17
+aS"(5, u'\\\\btherap')"
 p18
-g3
-((lp19
-S'5ht1a'
+aS"(4, u'\\\\btreatment')"
+p19
+aS"(3, u'\\\\bclinical')"
 p20
 atp21
 Rp22
-sS'regions'
+sS'receptors'
 p23
 g3
 ((lp24
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+(S'5ht1a'
 p25
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+I1303
+I1309
+tp26
+a(S'5ht2c'
+p27
+I438
+I444
+tp28
+a(S'5ht1a'
 p29
-V1993
-p30
-sS'agonists'
+I1658
+I1664
+tp30
+a(S'5ht2c'
 p31
-g3
-((lp32
-S"(85, u'\\\\b8 ?oh ?dpat')"
+I1323
+I1329
+tp32
+a(S'5ht1a'
 p33
-aS"(219, u'\\\\b5 ?ct')"
-p34
-atp35
-Rp36
-sS'species'
+I1781
+I1787
+tp34
+a(S'5ht1a'
+p35
+I1868
+I1874
+tp36
+a(S'5ht2a'
 p37
-g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I426
+I432
+tp38
+a(S'5ht2'
 p39
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p40
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+I1311
+I1317
+tp40
+a(S'5ht2'
 p41
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p42
-atp43
-Rp44
+I426
+I432
+tp42
+a(S'5ht1a'
+p43
+I418
+I424
+tp44
+a(S'5ht1a'
+p45
+I31
+I42
+tp46
+a(S'5ht2a'
+p47
+I1311
+I1317
+tp48
+atp49
+Rp50
+sS'raw_text_methods'
+p51
+g3
+((lp52
+S"(13, u'\\\\bagonist')"
+p53
+aS"(18, u'\\\\bimaging')"
+p54
+atp55
+Rp56
+sS'regions'
+p57
+g3
+((lp58
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p59
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p60
+atp61
+Rp62
+sS'year'
+p63
+V2008
+p64
+sS'species'
+p65
+g3
+((lp66
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p67
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p68
+atp69
+Rp70
 sb.

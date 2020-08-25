@@ -2,94 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
+S'Method.AGONIST'
 p5
-aS"(100, u'\\\\bsdz ser ?082')"
-p6
-aS"(96, u'\\\\brs ?102221')"
-p7
-aS"(117, u'\\\\bketanserin')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-aS'Method.AGONIST'
-p14
-atp15
-Rp16
+atp6
+Rp7
 sS'topics'
-p17
+p8
 g3
-((lp18
-S"(16, u'\\\\bfeed')"
-p19
-atp20
-Rp21
+((lp9
+tp10
+Rp11
 sS'receptors'
-p22
+p12
 g3
-((lp23
-S'5ht1b'
+((lp13
+(S'5ht1b'
+p14
+I70
+I76
+tp15
+a(S'5ht1b'
+p16
+I223
+I229
+tp17
+a(S'5ht1'
+p18
+I362
+I367
+tp19
+a(S'5ht1'
+p20
+I241
+I246
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-aS'5ht1a'
-p25
-aS'5ht2b'
+g3
+((lp25
+S"(13, u'\\\\bagonist')"
 p26
-aS'5ht2c'
+aS"(10, u'\\\\bmethamphetamine')"
 p27
-aS'5ht2a'
-p28
-aS'5ht1d'
-p29
-aS'5ht2'
-p30
-atp31
-Rp32
+atp28
+Rp29
 sS'regions'
-p33
+p30
 g3
-((lp34
-S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p35
-atp36
-Rp37
+((lp31
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p32
+atp33
+Rp34
 sS'year'
-p38
-V2002
-p39
-sS'agonists'
-p40
-g3
-((lp41
-S"(175, u'\\\\bdoi')"
-p42
-aS"(67, u'\\\\bru ?24969')"
-p43
-aS"(155, u'\\\\bmcpp')"
-p44
-aS"(114, u'\\\\bl ?694247')"
-p45
-aS"(140, u'\\\\bbw ?723c86')"
-p46
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p47
-atp48
-Rp49
+p35
+V2019
+p36
 sS'species'
-p50
+p37
 g3
-((lp51
-tp52
-Rp53
+((lp38
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p39
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p40
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p41
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p42
+atp43
+Rp44
 sb.

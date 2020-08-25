@@ -2,78 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p10
-atp11
-Rp12
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
 p13
 g3
 ((lp14
-S"(2, u'\\\\bappetite')"
+(S'5ht3'
 p15
-atp16
-Rp17
-sS'receptors'
-p18
+I49
+I54
+tp16
+a(S'5ht3'
+p17
+I1216
+I1221
+tp18
+a(S'5ht3'
+p19
+I608
+I613
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp19
-S'5ht1b'
-p20
-aS'5ht2c'
-p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(29, u'\\\\bdiethylamide')"
 p26
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+aS"(23, u'\\\\bmdl')"
 p27
-aS"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+aS"(26, u'\\\\bmdl72222')"
 p28
-aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p29
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p30
-aS"(35, u'(?i)\\\\b(pontines|pontine)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
-atp32
-Rp33
+atp30
+Rp31
+sS'regions'
+p32
+g3
+((lp33
+tp34
+Rp35
 sS'year'
-p34
-V2006
-p35
-sS'agonists'
 p36
-g3
-((lp37
-S"(155, u'\\\\bmcpp')"
-p38
-atp39
-Rp40
+V1991
+p37
 sS'species'
-p41
+p38
 g3
-((lp42
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

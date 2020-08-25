@@ -2,84 +2,145 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
-p5
-aS"(124, u'\\\\bondansetron')"
-p6
-aS"(113, u'\\\\brisperidone')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(33, u'\\\\blocomot')"
+p13
+aS"(5, u'\\\\btherap')"
+p14
+aS"(8, u'\\\\banxi')"
+p15
+aS"(3, u'\\\\bclinical')"
 p16
-g3
-((lp17
-S"(8, u'\\\\blearning')"
-p18
-atp19
-Rp20
+atp17
+Rp18
 sS'receptors'
+p19
+g3
+((lp20
+(S'5ht1a'
 p21
-g3
-((lp22
-S'5ht3a'
+I2017
+I2023
+tp22
+a(S'5ht1a'
 p23
-aS'5ht1a'
-p24
-aS'5ht3'
+I2355
+I2361
+tp24
+a(S'5ht1a'
 p25
-aS'5ht2a'
-p26
-atp27
-Rp28
-sS'regions'
+I764
+I770
+tp26
+a(S'5ht1a'
+p27
+I2675
+I2681
+tp28
+a(S'5ht1'
 p29
-g3
-((lp30
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I719
+I725
+tp30
+a(S'5ht1a'
 p31
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p32
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1554
+I1560
+tp32
+a(S'5ht1a'
 p33
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p34
-atp35
-Rp36
-sS'year'
+I232
+I238
+tp34
+a(S'5ht1a'
+p35
+I719
+I725
+tp36
+a(S'5ht1a'
 p37
-V2015
-p38
-sS'agonists'
+I116
+I122
+tp38
+a(S'5ht1a'
 p39
-g3
-((lp40
-S"(20, u'\\\\bbuspirone')"
+I2768
+I2774
+tp40
+a(S'5ht1a'
 p41
-atp42
-Rp43
-sS'species'
-p44
-g3
-((lp45
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p46
+I2566
+I2572
+tp42
+a(S'5ht1a'
+p43
+I1706
+I1712
+tp44
+a(S'5ht1a'
+p45
+I603
+I609
+tp46
 atp47
 Rp48
+sS'raw_text_methods'
+p49
+g3
+((lp50
+S"(16, u'\\\\bdiazepam')"
+p51
+aS"(51, u'\\\\bway100635')"
+p52
+aS"(36, u'\\\\bbenzodiazepine')"
+p53
+aS"(31, u'\\\\bbenzodiazepines')"
+p54
+aS"(12, u'\\\\bantagonist')"
+p55
+atp56
+Rp57
+sS'regions'
+p58
+g3
+((lp59
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p60
+atp61
+Rp62
+sS'year'
+p63
+V1999
+p64
+sS'species'
+p65
+g3
+((lp66
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p67
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p68
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p69
+atp70
+Rp71
 sb.

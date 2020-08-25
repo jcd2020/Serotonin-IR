@@ -2,68 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
 p12
 g3
 ((lp13
-tp14
-Rp15
-sS'receptors'
+(S'5ht2a'
+p14
+I468
+I474
+tp15
+a(S'5ht2a'
 p16
-g3
-((lp17
-S'5ht1a'
+I596
+I602
+tp17
+a(S'5ht2a'
 p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p23
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+I1642
+I1648
+tp19
+a(S'5ht2a'
+p20
+I39
+I45
+tp21
+a(S'5ht2a'
+p22
+I1064
+I1070
+tp23
+a(S'5ht2a'
 p24
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p25
+I1759
+I1765
+tp25
 atp26
 Rp27
-sS'year'
+sS'raw_text_methods'
 p28
-V2002
-p29
-sS'agonists'
+g3
+((lp29
+S"(53, u'\\\\bketanserin')"
 p30
-g3
-((lp31
-S"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(9, u'\\\\britanserin')"
+p31
+aS"(12, u'\\\\bantagonist')"
 p32
-atp33
-Rp34
-sS'species'
-p35
+aS"(11, u'\\\\bfluoxetine')"
+p33
+atp34
+Rp35
+sS'regions'
+p36
 g3
-((lp36
-S"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
-p37
-aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
-p38
-atp39
-Rp40
+((lp37
+tp38
+Rp39
+sS'year'
+p40
+V1999
+p41
+sS'species'
+p42
+g3
+((lp43
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p44
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

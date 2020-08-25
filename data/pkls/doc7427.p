@@ -1,0 +1,64 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(12, u'\\\\bsleep')"
+p10
+atp11
+Rp12
+sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I939
+I945
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+S"(51, u'\\\\bway100635')"
+p21
+aS"(12, u'\\\\bantagonist')"
+p22
+atp23
+Rp24
+sS'regions'
+p25
+g3
+((lp26
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p27
+atp28
+Rp29
+sS'year'
+p30
+V2001
+p31
+sS'species'
+p32
+g3
+((lp33
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
+sb.

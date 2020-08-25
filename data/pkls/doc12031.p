@@ -1,0 +1,104 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1b'
+p18
+I1291
+I1297
+tp19
+a(S'5ht1b'
+p20
+I1635
+I1641
+tp21
+a(S'5ht1b'
+p22
+I1767
+I1773
+tp23
+a(S'5ht1b'
+p24
+I1095
+I1101
+tp25
+a(S'5ht1b'
+p26
+I1966
+I1972
+tp27
+a(S'5ht1b'
+p28
+I97
+I103
+tp29
+a(S'5ht1b'
+p30
+I916
+I922
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
+p34
+g3
+((lp35
+S"(17, u'\\\\bpet')"
+p36
+aS"(19, u'\\\\bpositron emission tomography')"
+p37
+aS"(12, u'\\\\bantagonist')"
+p38
+atp39
+Rp40
+sS'regions'
+p41
+g3
+((lp42
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p43
+atp44
+Rp45
+sS'year'
+p46
+V2014
+p47
+sS'species'
+p48
+g3
+((lp49
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p50
+aS"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p51
+atp52
+Rp53
+sb.

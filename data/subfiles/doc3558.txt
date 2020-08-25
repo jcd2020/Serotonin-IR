@@ -1,4 +1,0 @@
-Fadda, F., et al. (1991). "MDL 72222, a selective 5-HT3 receptor antagonist, suppresses voluntary ethanol consumption in alcohol-preferring rats." Alcohol Alcohol 26(2): 107-110.
-
-	The effect of the selective 5-HT3 receptor antagonist MDL 72222 on voluntary ethanol consumption was examined in Sardinian ethanol-preferring (SP) rats in a free choice (10% ethanol and water) experiment. SP rats consumed 8.1 +/- 1.1 g/kg ethanol daily. MDL 72222 treatment (3.0, 5.0 and 7.0 mg/kg i.p. 3 times daily for 6 days) inhibited ethanol consumption during the 6 days of treatment by 25%, 50% and 75%, respectively, without modifying total fluid intake. We suggest that 5-HT3 receptor activation plays a permissive role in alcohol preference.
-

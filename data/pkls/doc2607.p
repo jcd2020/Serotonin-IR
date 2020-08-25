@@ -2,43 +2,44 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(133, u'\\\\bmianserin')"
+S'Method.PET'
 p5
-aS"(26, u'\\\\bspiperone')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(16, u'\\\\bfeed')"
-p17
-atp18
-Rp19
+((lp9
+S"(12, u'\\\\bsleep')"
+p10
+atp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht2c'
+((lp14
+(S'5ht1a'
+p15
+I376
+I381
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+S"(1, u'\\\\bneuroimag')"
+p21
+aS"(17, u'\\\\bpet')"
 p22
-aS'5ht2a'
+aS"(19, u'\\\\bpositron emission tomography')"
 p23
 atp24
 Rp25
@@ -46,26 +47,20 @@ sS'regions'
 p26
 g3
 ((lp27
-S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p28
 atp29
 Rp30
 sS'year'
 p31
-V1999
+V2006
 p32
-sS'agonists'
+sS'species'
 p33
 g3
 ((lp34
-S"(175, u'\\\\bdoi')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
 atp36
 Rp37
-sS'species'
-p38
-g3
-((lp39
-tp40
-Rp41
 sb.

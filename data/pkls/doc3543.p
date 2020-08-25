@@ -2,77 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
+((lp9
+S"(26, u'\\\\bbehav')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(3, u'\\\\bsleep')"
+(S'5ht2a'
 p15
-aS"(24, u'\\\\banalgesi')"
-p16
-aS"(4, u'\\\\blocomot')"
+I360
+I366
+tp16
+a(S'5ht1a'
 p17
-aS"(7, u'\\\\bmemory')"
-p18
-aS"(21, u'\\\\bpain')"
+I1064
+I1070
+tp18
+a(S'5ht2a'
 p19
-aS"(6, u'\\\\bcognit')"
-p20
-atp21
-Rp22
-sS'receptors'
+I1206
+I1212
+tp20
+a(S'5ht1a'
+p21
+I339
+I345
+tp22
+a(S'5ht1a'
 p23
+I944
+I950
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp24
-S'5ht3'
-p25
-atp26
-Rp27
+((lp28
+S"(13, u'\\\\bagonist')"
+p29
+aS"(15, u'\\\\b8ohdpat')"
+p30
+aS"(49, u'\\\\bdoi')"
+p31
+atp32
+Rp33
 sS'regions'
-p28
-g3
-((lp29
-tp30
-Rp31
-sS'year'
-p32
-V2017
-p33
-sS'agonists'
 p34
 g3
 ((lp35
-S"(188, u'\\\\bchlorophenylbiguanide')"
-p36
-aS"(149, u'\\\\bmem')"
-p37
-atp38
-Rp39
+tp36
+Rp37
+sS'year'
+p38
+V1997
+p39
 sS'species'
 p40
 g3
 ((lp41
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
 atp44
 Rp45

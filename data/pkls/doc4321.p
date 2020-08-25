@@ -2,74 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
 p12
-g3
-((lp13
-tp14
-Rp15
+aS"(12, u'\\\\bsleep')"
+p13
+aS"(13, u'\\\\bantidepress')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
+((lp18
+(S'5ht5'
+p19
+I916
+I926
+tp20
+a(S'5ht2c'
 p21
+I1954
+I1960
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp22
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p23
-aS"(169, u'(?i)\\\\b(dorsomedials|dorsomedial)(-|\\\\s+)?(hypothalamics|hypothalamic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
+((lp26
+S"(13, u'\\\\bagonist')"
 p27
-V1997
+aS"(43, u'\\\\bagomelatine')"
 p28
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p29
-g3
-((lp30
-S"(20, u'\\\\bbuspirone')"
-p31
-aS"(189, u'\\\\bethanol')"
+atp30
+Rp31
+sS'regions'
 p32
-atp33
-Rp34
-sS'species'
-p35
 g3
-((lp36
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+((lp33
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p34
+atp35
+Rp36
+sS'year'
 p37
-aS"(6580, u'(?i)\\\\b(dams|dam)\\\\b')"
+V2012
 p38
-aS"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
+sS'species'
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-aS"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p41
-atp42
-Rp43
+g3
+((lp40
+tp41
+Rp42
 sb.

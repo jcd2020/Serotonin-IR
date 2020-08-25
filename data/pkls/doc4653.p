@@ -2,86 +2,86 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(123, u'\\\\bgranisetron')"
-p5
-aS"(117, u'\\\\bketanserin')"
-p6
-aS"(194, u'\\\\bmethysergide')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p5
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-S"(35, u'\\\\bstress')"
-p18
-atp19
-Rp20
+((lp9
+S"(33, u'\\\\blocomot')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht2'
+p19
+I1537
+I1542
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-S'5ht1b'
+I1231
+I1237
+tp22
+a(S'5ht2'
 p23
-aS'5ht1a'
-p24
-aS'5ht3'
+I1136
+I1146
+tp24
+a(S'5ht2'
 p25
-aS'5ht2'
-p26
-aS'5ht1'
-p27
-aS'5ht2a'
-p28
-atp29
-Rp30
-sS'regions'
+I1150
+I1155
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
+g3
+((lp30
+S"(51, u'\\\\bway100635')"
 p31
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
+p35
 g3
-((lp32
-S"(390, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)\\\\b')"
-p33
-atp34
-Rp35
+((lp36
+tp37
+Rp38
 sS'year'
-p36
-V1993
-p37
-sS'agonists'
-p38
-g3
-((lp39
-S"(20, u'\\\\bbuspirone')"
+p39
+V2007
 p40
-aS"(53, u'\\\\bmethysergide')"
-p41
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p42
-atp43
-Rp44
 sS'species'
-p45
+p41
 g3
-((lp46
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p47
-atp48
-Rp49
+((lp42
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p43
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p44
+atp45
+Rp46
 sb.

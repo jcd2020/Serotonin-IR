@@ -2,72 +2,95 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(7, u'\\\\bdepressi')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(8, u'\\\\blearning')"
+(S'5ht1a'
 p16
-aS"(19, u'\\\\bimpulsiv')"
-p17
-aS"(7, u'\\\\bmemory')"
+I153
+I159
+tp17
+a(S'5ht1a'
 p18
-atp19
-Rp20
-sS'receptors'
-p21
+I1204
+I1210
+tp19
+a(S'5ht1a'
+p20
+I2197
+I2203
+tp21
+a(S'5ht2'
+p22
+I1356
+I1361
+tp23
+a(S'5ht1a'
+p24
+I1112
+I1118
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
 g3
-((lp22
-S'5ht1a'
-p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
-tp28
-Rp29
-sS'year'
+((lp29
+S"(13, u'\\\\bagonist')"
 p30
-V2000
+aS"(15, u'\\\\b8ohdpat')"
 p31
-sS'agonists'
+aS"(35, u'\\\\badenosine')"
 p32
-g3
-((lp33
-S"(149, u'\\\\bmem')"
+aS"(53, u'\\\\bketanserin')"
+p33
+aS"(12, u'\\\\bantagonist')"
 p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
-sS'species'
-p38
+atp35
+Rp36
+sS'regions'
+p37
 g3
-((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp38
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p39
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p40
-atp41
-Rp42
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V1998
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

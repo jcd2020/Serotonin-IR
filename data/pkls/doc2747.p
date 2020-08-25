@@ -2,78 +2,95 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
-aS"(194, u'\\\\bmethysergide')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(5, u'\\\\btherap')"
 p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-tp17
-Rp18
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht3'
-p21
-aS'5ht2'
+((lp15
+(S'5ht3'
+p16
+I1153
+I1158
+tp17
+a(S'5ht2c'
+p18
+I1226
+I1234
+tp19
+a(S'5ht3'
+p20
+I1774
+I1779
+tp21
+a(S'5ht3'
 p22
-aS'5ht1'
-p23
-atp24
-Rp25
-sS'regions'
+I1548
+I1553
+tp23
+a(S'5ht2a'
+p24
+I1226
+I1232
+tp25
+a(S'5ht3'
 p26
-g3
-((lp27
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I1283
+I1288
+tp27
+a(S'5ht3'
 p28
-atp29
-Rp30
-sS'year'
-p31
-V1988
+I200
+I205
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+((lp33
+S"(13, u'\\\\bagonist')"
+p34
+aS"(12, u'\\\\bantagonist')"
 p35
-aS"(53, u'\\\\bmethysergide')"
-p36
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p37
-aS"(219, u'\\\\b5 ?ct')"
+atp36
+Rp37
+sS'regions'
 p38
-atp39
-Rp40
-sS'species'
-p41
 g3
-((lp42
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp39
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
 p43
-atp44
-Rp45
+V2009
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

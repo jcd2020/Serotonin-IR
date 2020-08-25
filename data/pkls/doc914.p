@@ -2,60 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(9, u'\\\\bdepress')"
-p14
-atp15
-Rp16
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I1273
+I1279
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(51, u'\\\\bway100635')"
 p22
-g3
-((lp23
-tp24
-Rp25
-sS'year'
-p26
-V2004
-p27
-sS'agonists'
+aS"(11, u'\\\\bfluoxetine')"
+p23
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p24
+aS"(12, u'\\\\bantagonist')"
+p25
+atp26
+Rp27
+sS'regions'
 p28
 g3
 ((lp29
-tp30
-Rp31
-sS'species'
-p32
-g3
-((lp33
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p30
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p31
+atp32
+Rp33
+sS'year'
 p34
-atp35
-Rp36
+V2002
+p35
+sS'species'
+p36
+g3
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

@@ -2,27 +2,29 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
-p11
+p8
 g3
-((lp12
-S"(34, u'\\\\bdementia')"
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(23, u'\\\\bantipsychotic')"
 p13
-aS"(7, u'\\\\bmemory')"
+aS"(2, u'\\\\bdisorder')"
 p14
 atp15
 Rp16
@@ -30,38 +32,55 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht7'
+(S'5ht1a'
 p19
-aS'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+I1330
+I1336
+tp20
+a(S'5ht1a'
+p21
+I1451
+I1457
+tp22
+a(S'5ht1a'
 p23
-g3
-((lp24
-tp25
+I666
+I672
+tp24
+atp25
 Rp26
-sS'year'
+sS'raw_text_methods'
 p27
-V2002
-p28
-sS'agonists'
+g3
+((lp28
+S"(17, u'\\\\bpet')"
 p29
-g3
-((lp30
-S"(149, u'\\\\bmem')"
+aS"(40, u'\\\\bclozapine')"
+p30
+aS"(19, u'\\\\bpositron emission tomography')"
 p31
-atp32
-Rp33
-sS'species'
+aS"(18, u'\\\\bimaging')"
+p32
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p33
+aS"(42, u'\\\\bneuroleptics')"
 p34
-g3
-((lp35
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+atp35
+Rp36
+sS'regions'
 p37
-atp38
-Rp39
+g3
+((lp38
+tp39
+Rp40
+sS'year'
+p41
+V2002
+p42
+sS'species'
+p43
+g3
+((lp44
+tp45
+Rp46
 sb.

@@ -2,70 +2,61 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p11
+p8
 g3
-((lp12
-S"(15, u'\\\\bschizophreni')"
-p13
-atp14
-Rp15
+((lp9
+tp10
+Rp11
 sS'receptors'
-p16
+p12
 g3
-((lp17
-S'5ht1a'
+((lp13
+(S'5ht1a'
+p14
+I1178
+I1183
+tp15
+atp16
+Rp17
+sS'raw_text_methods'
 p18
-atp19
-Rp20
-sS'regions'
+g3
+((lp19
+S"(35, u'\\\\badenosine')"
+p20
+aS"(12, u'\\\\bantagonist')"
 p21
-g3
-((lp22
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p23
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+atp22
+Rp23
+sS'regions'
 p24
-atp25
-Rp26
+g3
+((lp25
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p26
+atp27
+Rp28
 sS'year'
-p27
-V2008
-p28
-sS'agonists'
 p29
-g3
-((lp30
-tp31
-Rp32
+V2009
+p30
 sS'species'
-p33
+p31
 g3
-((lp34
-S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p35
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p36
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p37
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p38
-aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p39
-atp40
-Rp41
+((lp32
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p33
+atp34
+Rp35
 sb.

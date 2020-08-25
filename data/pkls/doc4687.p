@@ -2,82 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p11
+p8
 g3
-((lp12
-tp13
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
 Rp14
 sS'receptors'
 p15
 g3
 ((lp16
-S'5ht1a'
+(S'5ht1a'
 p17
-aS'5ht2c'
-p18
-aS'5ht2a'
+I1256
+I1262
+tp18
+a(S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(187, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p24
-aS"(171, u'(?i)\\\\b(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I39
+I45
+tp20
+a(S'5ht1a'
+p21
+I991
+I997
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-aS"(170, u'(?i)\\\\b(ventromedials|ventromedial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(175, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)\\\\b')"
+g3
+((lp26
+S"(38, u'\\\\bssri')"
 p27
-aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p28
-aS"(185, u'(?i)\\\\b(tuberomammillaries|tuberomammillary)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p29
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p30
-aS"(199, u'(?i)\\\\b(externals|external)(-|\\\\s+)?(capsules|capsule)\\\\b')"
-p31
-aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
+atp30
+Rp31
+sS'regions'
 p32
-atp33
-Rp34
+g3
+((lp33
+tp34
+Rp35
 sS'year'
-p35
-V1999
 p36
-sS'agonists'
+V1996
 p37
-g3
-((lp38
-tp39
-Rp40
 sS'species'
-p41
+p38
 g3
-((lp42
-S"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
-p43
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p44
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p45
-atp46
-Rp47
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

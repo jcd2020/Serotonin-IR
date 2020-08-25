@@ -2,86 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(99, u'\\\\bsb ?242084')"
+S'Method.PET'
 p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-aS"(119, u'\\\\britanserin')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.AGONIST'
-p12
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p13
 aS'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+p6
+atp7
+Rp8
 sS'topics'
-p17
+p9
 g3
-((lp18
-tp19
-Rp20
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(34, u'\\\\bparkinson')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
 sS'receptors'
-p21
+p16
 g3
-((lp22
-S'5ht1a'
-p23
-aS'5ht2c'
+((lp17
+(S'5ht1a'
+p18
+I1344
+I1349
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
+g3
+((lp23
+S"(51, u'\\\\bway100635')"
 p24
-aS'5ht2a'
+aS"(17, u'\\\\bpet')"
 p25
-atp26
-Rp27
+aS"(19, u'\\\\bpositron emission tomography')"
+p26
+aS"(12, u'\\\\bantagonist')"
+p27
+atp28
+Rp29
 sS'regions'
-p28
-g3
-((lp29
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p30
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
-atp32
-Rp33
+g3
+((lp31
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
+p32
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p33
+atp34
+Rp35
 sS'year'
-p34
-V2009
-p35
-sS'agonists'
 p36
-g3
-((lp37
-S"(158, u'\\\\blsd')"
-p38
-aS"(49, u'\\\\blysergic acid diethylamide')"
-p39
-aS"(147, u'\\\\bmdma')"
-p40
-aS"(155, u'\\\\bmcpp')"
-p41
-aS"(182, u'\\\\bway ?161503')"
-p42
-atp43
-Rp44
+V2004
+p37
 sS'species'
-p45
+p38
 g3
-((lp46
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p47
-atp48
-Rp49
+((lp39
+tp40
+Rp41
 sb.

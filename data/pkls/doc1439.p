@@ -2,78 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(26, u'\\\\bbehav')"
 p11
-g3
-((lp12
-tp13
-Rp14
+aS"(33, u'\\\\blocomot')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(15, u'\\\\bmemory')"
+p14
+atp15
+Rp16
 sS'receptors'
-p15
-g3
-((lp16
-S'5ht1c'
 p17
-aS'5ht1b'
-p18
-aS'5ht5'
+g3
+((lp18
+(S'5ht1a'
 p19
-aS'5ht1a'
-p20
-aS'5ht1'
-p21
-atp22
-Rp23
-sS'regions'
-p24
+I214
+I220
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp25
-S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(15, u'\\\\b8ohdpat')"
 p26
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p27
-atp28
-Rp29
+atp27
+Rp28
+sS'regions'
+p29
+g3
+((lp30
+tp31
+Rp32
 sS'year'
-p30
-V1991
-p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(179, u'\\\\b5 ?meo ?dmt')"
+p33
+V1989
 p34
-aS"(220, u'\\\\b5 ?methoxytryptamine')"
-p35
-aS"(19, u'\\\\bbufotenin')"
-p36
-aS"(222, u'\\\\b5 ?meot')"
-p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p38
-atp39
-Rp40
 sS'species'
-p41
+p35
 g3
-((lp42
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+((lp36
+tp37
+Rp38
 sb.

@@ -1,0 +1,92 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht3'
+p16
+I161
+I166
+tp17
+a(S'5ht3'
+p18
+I760
+I765
+tp19
+a(S'5ht3'
+p20
+I2120
+I2125
+tp21
+a(S'5ht3'
+p22
+I809
+I814
+tp23
+a(S'5ht3'
+p24
+I388
+I393
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
+g3
+((lp29
+S"(13, u'\\\\bagonist')"
+p30
+aS"(20, u'\\\\bondansetron')"
+p31
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
+p35
+g3
+((lp36
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p37
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
+p41
+V2015
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p45
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
+sb.

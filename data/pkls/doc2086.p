@@ -2,76 +2,142 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(13, u'\\\\bantidepress')"
 p14
-g3
-((lp15
-S"(3, u'\\\\bsleep')"
-p16
-atp17
-Rp18
+aS"(4, u'\\\\btreatment')"
+p15
+atp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp19
+(S'5ht1a'
+p20
+I1321
+I1327
+tp21
+a(S'5ht1'
+p22
+I426
+I431
+tp23
+a(S'5ht1b'
 p24
-g3
-((lp25
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I87
+I94
+tp25
+a(S'5ht1'
 p26
-aS"(187, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-aS"(175, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)\\\\b')"
+I224
+I229
+tp27
+a(S'5ht1a'
 p28
-aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
-p29
-aS"(176, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(body|bodies)\\\\b')"
+I780
+I786
+tp29
+a(S'5ht1d'
 p30
-atp31
-Rp32
-sS'year'
-p33
-V2018
+I532
+I542
+tp31
+a(S'5ht1a'
+p32
+I1191
+I1197
+tp33
+a(S'5ht1'
 p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p37
-atp38
-Rp39
-sS'species'
+I1781
+I1786
+tp35
+a(S'5ht1a'
+p36
+I56
+I62
+tp37
+a(S'5ht1b'
+p38
+I532
+I540
+tp39
+a(S'5ht1a'
 p40
-g3
-((lp41
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+I532
+I538
+tp41
+a(S'5ht1a'
 p42
-atp43
-Rp44
+I1640
+I1646
+tp43
+a(S'5ht1d'
+p44
+I87
+I95
+tp45
+a(S'5ht1a'
+p46
+I87
+I93
+tp47
+atp48
+Rp49
+sS'raw_text_methods'
+p50
+g3
+((lp51
+S"(17, u'\\\\bpet')"
+p52
+aS"(19, u'\\\\bpositron emission tomography')"
+p53
+aS"(38, u'\\\\bssri')"
+p54
+aS"(12, u'\\\\bantagonist')"
+p55
+atp56
+Rp57
+sS'regions'
+p58
+g3
+((lp59
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p60
+atp61
+Rp62
+sS'year'
+p63
+V2015
+p64
+sS'species'
+p65
+g3
+((lp66
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p67
+atp68
+Rp69
 sb.

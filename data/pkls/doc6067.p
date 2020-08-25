@@ -1,0 +1,112 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(14, u'\\\\bcogniti')"
+p9
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(17, u'\\\\balzheimer')"
+p11
+aS"(20, u'\\\\bmood')"
+p12
+aS"(6, u'\\\\baggressi')"
+p13
+aS"(1, u'\\\\bpatient')"
+p14
+aS"(4, u'\\\\btreatment')"
+p15
+aS"(3, u'\\\\bclinical')"
+p16
+atp17
+Rp18
+sS'receptors'
+p19
+g3
+((lp20
+(S'5ht1a'
+p21
+I231
+I237
+tp22
+a(S'5ht1a'
+p23
+I874
+I880
+tp24
+a(S'5ht1a'
+p25
+I666
+I672
+tp26
+a(S'5ht1a'
+p27
+I1556
+I1562
+tp28
+a(S'5ht1a'
+p29
+I46
+I52
+tp30
+a(S'5ht1a'
+p31
+I1179
+I1185
+tp32
+a(S'5ht1a'
+p33
+I546
+I552
+tp34
+a(S'5ht1a'
+p35
+I1021
+I1027
+tp36
+a(S'5ht1a'
+p37
+I1368
+I1374
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
+p41
+g3
+((lp42
+tp43
+Rp44
+sS'regions'
+p45
+g3
+((lp46
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
+p47
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
+p51
+V2003
+p52
+sS'species'
+p53
+g3
+((lp54
+tp55
+Rp56
+sb.

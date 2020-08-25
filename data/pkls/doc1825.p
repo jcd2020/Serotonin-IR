@@ -1,0 +1,142 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(33, u'\\\\blocomot')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1b'
+p17
+I246
+I252
+tp18
+a(S'5ht1b'
+p19
+I139
+I145
+tp20
+a(S'5ht1a'
+p21
+I1059
+I1065
+tp22
+a(S'5ht2a'
+p23
+I1197
+I1203
+tp24
+a(S'5ht3'
+p25
+I1272
+I1277
+tp26
+a(S'5ht2c'
+p27
+I1204
+I1210
+tp28
+a(S'5ht1b'
+p29
+I2982
+I2988
+tp30
+a(S'5ht1b'
+p31
+I1770
+I1776
+tp32
+a(S'5ht1a'
+p33
+I1135
+I1141
+tp34
+a(S'5ht1b'
+p35
+I2008
+I2014
+tp36
+a(S'5ht1b'
+p37
+I1069
+I1075
+tp38
+a(S'5ht1b'
+p39
+I788
+I794
+tp40
+a(S'5ht1a'
+p41
+I2971
+I2977
+tp42
+atp43
+Rp44
+sS'raw_text_methods'
+p45
+g3
+((lp46
+S"(53, u'\\\\bketanserin')"
+p47
+aS"(7, u'\\\\bpropranolol')"
+p48
+aS"(20, u'\\\\bondansetron')"
+p49
+aS"(13, u'\\\\bagonist')"
+p50
+aS"(8, u'\\\\bru24969')"
+p51
+aS"(45, u'\\\\bmetergoline')"
+p52
+aS"(9, u'\\\\britanserin')"
+p53
+aS"(12, u'\\\\bantagonist')"
+p54
+atp55
+Rp56
+sS'regions'
+p57
+g3
+((lp58
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p59
+atp60
+Rp61
+sS'year'
+p62
+V1993
+p63
+sS'species'
+p64
+g3
+((lp65
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p66
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p67
+atp68
+Rp69
+sb.

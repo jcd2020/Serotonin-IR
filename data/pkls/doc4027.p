@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,52 +10,55 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.PET'
+S"(1, u'\\\\bpatient')"
 p9
-atp10
-Rp11
-sS'topics'
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(10, u'\\\\bocd')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht1a'
-p18
+((lp16
+(S'5ht1'
+p17
+I797
+I802
+tp18
 atp19
 Rp20
-sS'regions'
+sS'raw_text_methods'
 p21
 g3
 ((lp22
-tp23
-Rp24
-sS'year'
-p25
-V2002
-p26
-sS'agonists'
+S"(33, u'\\\\bmcpp')"
+p23
+aS"(47, u'\\\\bsumatriptan')"
+p24
+atp25
+Rp26
+sS'regions'
 p27
 g3
 ((lp28
 tp29
 Rp30
-sS'species'
+sS'year'
 p31
-g3
-((lp32
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+V2004
+p32
+sS'species'
 p33
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p34
-atp35
+g3
+((lp34
+tp35
 Rp36
 sb.

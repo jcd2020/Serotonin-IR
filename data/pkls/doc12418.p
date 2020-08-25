@@ -1,0 +1,99 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(7, u'\\\\bdepressi')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2'
+p16
+I102
+I112
+tp17
+a(S'5ht3'
+p18
+I1103
+I1109
+tp19
+a(S'5ht3'
+p20
+I102
+I113
+tp21
+a(S'5ht2'
+p22
+I1103
+I1108
+tp23
+a(S'5ht3'
+p24
+I1203
+I1209
+tp25
+a(S'5ht2'
+p26
+I1203
+I1208
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
+g3
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(37, u'\\\\bpiperazine')"
+p33
+aS"(20, u'\\\\bondansetron')"
+p34
+aS"(9, u'\\\\britanserin')"
+p35
+aS"(12, u'\\\\bantagonist')"
+p36
+atp37
+Rp38
+sS'regions'
+p39
+g3
+((lp40
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p41
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p42
+atp43
+Rp44
+sS'year'
+p45
+V2016
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
+sb.

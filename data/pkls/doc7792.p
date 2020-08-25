@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,66 +10,60 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.PET'
+S"(16, u'\\\\blearning')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(29, u'\\\\bsex')"
-p14
-aS"(6, u'\\\\bcognit')"
-p15
-aS"(33, u'\\\\balzheimers')"
-p16
-atp17
-Rp18
+aS"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
 sS'receptors'
-p19
+p13
 g3
-((lp20
-S'5ht4'
+((lp14
+(S'5ht2a'
+p15
+I1321
+I1327
+tp16
+a(S'5ht1a'
+p17
+I834
+I840
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-atp22
-Rp23
-sS'regions'
+g3
+((lp22
+S"(32, u'\\\\blesions')"
+p23
+aS"(54, u'\\\\bautoradiography')"
 p24
-g3
-((lp25
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p26
-aS"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
+atp25
+Rp26
+sS'regions'
 p27
-atp28
-Rp29
+g3
+((lp28
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p30
-V2011
-p31
-sS'agonists'
 p32
-g3
-((lp33
-tp34
-Rp35
+V1996
+p33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
-p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p41
-atp42
-Rp43
+((lp35
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

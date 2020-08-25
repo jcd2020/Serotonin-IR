@@ -2,74 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.STIMULATION'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-tp16
-Rp17
+((lp10
+S"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht1a'
-p20
-aS'5ht2'
+((lp16
+(S'5ht1b'
+p17
+I1118
+I1124
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-atp22
-Rp23
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+atp24
+Rp25
 sS'regions'
-p24
+p26
 g3
-((lp25
-tp26
-Rp27
-sS'year'
+((lp27
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p28
-V2003
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(59, u'\\\\bperospirone')"
+atp30
+Rp31
+sS'year'
 p32
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+V2007
 p33
-aS"(73, u'\\\\btandospirone')"
-p34
-aS"(149, u'\\\\bmem')"
-p35
-atp36
-Rp37
 sS'species'
-p38
+p34
 g3
-((lp39
-S"(3222, u'(?i)\\\\b(seals|seal)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+((lp35
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p36
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

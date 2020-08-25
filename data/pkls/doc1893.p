@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,66 +10,62 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(17, u'\\\\balzheimer')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(24, u'\\\\banalgesi')"
-p14
-atp15
-Rp16
+aS"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2a'
+p15
+I809
+I815
+tp16
+a(S'5ht1a'
 p17
+I774
+I780
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
 g3
-((lp18
-S'5ht1b'
-p19
-aS'5ht1d'
-p20
-atp21
-Rp22
-sS'regions'
+((lp22
+S"(32, u'\\\\blesions')"
 p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
-p27
-V2010
+aS"(35, u'\\\\badenosine')"
+p24
+aS"(54, u'\\\\bautoradiography')"
+p25
+atp26
+Rp27
+sS'regions'
 p28
-sS'agonists'
-p29
 g3
-((lp30
-S"(96, u'\\\\bsumatriptan')"
-p31
-aS"(149, u'\\\\bmem')"
-p32
-atp33
-Rp34
+((lp29
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p30
+atp31
+Rp32
+sS'year'
+p33
+V1997
+p34
 sS'species'
 p35
 g3
 ((lp36
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p38
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p39
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p40
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p41
-atp42
-Rp43
+atp38
+Rp39
 sb.

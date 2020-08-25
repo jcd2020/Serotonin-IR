@@ -2,43 +2,45 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
-p5
-aS"(117, u'\\\\bketanserin')"
-p6
-aS"(31, u'\\\\bway ?100635')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+p5
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+atp11
+Rp12
 sS'receptors'
-p19
+p13
 g3
-((lp20
-S'5ht1a'
+((lp14
+(S'5ht1a'
+p15
+I963
+I968
+tp16
+a(S'5ht1a'
+p17
+I491
+I496
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-aS'5ht3'
-p22
-aS'5ht2a'
+g3
+((lp22
+S"(12, u'\\\\bantagonist')"
 p23
 atp24
 Rp25
@@ -46,28 +48,20 @@ sS'regions'
 p26
 g3
 ((lp27
-tp28
-Rp29
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p30
-V1999
 p31
-sS'agonists'
+V2016
 p32
-g3
-((lp33
-tp34
-Rp35
 sS'species'
-p36
+p33
 g3
-((lp37
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-atp41
-Rp42
+((lp34
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p35
+atp36
+Rp37
 sb.

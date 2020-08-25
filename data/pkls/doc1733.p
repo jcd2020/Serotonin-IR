@@ -2,80 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(203, u'\\\\btfmpp')"
-p5
-aS"(91, u'\\\\bfluoxetine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p5
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2a'
+p15
+I692
+I698
+tp16
+a(S'5ht1'
+p17
+I938
+I943
+tp18
+a(S'5ht2a'
 p19
-g3
-((lp20
-S'5ht1b'
+I1679
+I1685
+tp20
+a(S'5ht2a'
 p21
-aS'5ht1a'
-p22
-aS'5ht2c'
-p23
-aS'5ht1'
-p24
-atp25
-Rp26
-sS'regions'
+I453
+I459
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(44, u'\\\\btetrodotoxin')"
 p27
-g3
-((lp28
-tp29
-Rp30
-sS'year'
-p31
-V1997
+aS"(50, u'\\\\bm100907')"
+p28
+aS"(12, u'\\\\bantagonist')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(20, u'\\\\bbuspirone')"
+((lp33
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p34
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
 p35
-aS"(178, u'\\\\btfmpp')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p36
-aS"(67, u'\\\\bru ?24969')"
-p37
-aS"(42, u'\\\\bgepirone')"
-p38
-atp39
-Rp40
+atp37
+Rp38
+sS'year'
+p39
+V2004
+p40
 sS'species'
 p41
 g3
 ((lp42
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+atp44
+Rp45
 sb.

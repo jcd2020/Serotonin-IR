@@ -2,76 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.ANTAGONIST'
 p5
-aS"(125, u'\\\\btropisetron')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(23, u'\\\\bantipsychotic')"
 p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-tp17
-Rp18
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht3a'
-p21
-aS'5ht3'
-p22
-atp23
-Rp24
-sS'regions'
-p25
+((lp15
+(S'5ht2a'
+p16
+I1958
+I1964
+tp17
+a(S'5ht2a'
+p18
+I170
+I176
+tp19
+a(S'5ht2a'
+p20
+I1419
+I1425
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp26
-tp27
-Rp28
-sS'year'
+((lp25
+S"(40, u'\\\\bclozapine')"
+p26
+aS"(13, u'\\\\bagonist')"
+p27
+aS"(11, u'\\\\bfluoxetine')"
+p28
+aS"(50, u'\\\\bm100907')"
 p29
-V1993
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p30
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p31
-g3
-((lp32
-S"(149, u'\\\\bmem')"
-p33
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+atp32
+Rp33
+sS'regions'
 p34
-atp35
-Rp36
-sS'species'
-p37
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp35
+tp36
+Rp37
+sS'year'
+p38
+V2009
 p39
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+sS'species'
 p40
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p41
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+g3
+((lp41
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p42
-atp43
-Rp44
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p43
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p44
+atp45
+Rp46
 sb.

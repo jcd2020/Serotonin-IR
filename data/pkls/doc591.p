@@ -2,33 +2,35 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(113, u'\\\\brisperidone')"
+S'Method.ANTAGONIST'
 p5
-aS"(58, u'\\\\bhaloperidol')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.AGONIST'
+S"(14, u'\\\\bcogniti')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(17, u'\\\\balzheimer')"
+p12
+aS"(19, u'\\\\bpsychosis')"
+p13
+aS"(34, u'\\\\bparkinson')"
 p14
-g3
-((lp15
-S"(15, u'\\\\bschizophreni')"
+aS"(1, u'\\\\bpatient')"
+p15
+aS"(4, u'\\\\btreatment')"
 p16
-aS"(6, u'\\\\bcognit')"
+aS"(3, u'\\\\bclinical')"
 p17
 atp18
 Rp19
@@ -36,38 +38,37 @@ sS'receptors'
 p20
 g3
 ((lp21
-S'5ht1a'
+(S'5ht2a'
 p22
-aS'5ht2a'
-p23
+I298
+I304
+tp23
 atp24
 Rp25
-sS'regions'
+sS'raw_text_methods'
 p26
 g3
 ((lp27
-tp28
-Rp29
-sS'year'
-p30
-V2015
-p31
-sS'agonists'
+S"(13, u'\\\\bagonist')"
+p28
+aS"(12, u'\\\\bantagonist')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
 g3
 ((lp33
-S"(73, u'\\\\btandospirone')"
-p34
-aS"(43, u'\\\\bhaloperidol')"
-p35
-atp36
-Rp37
+tp34
+Rp35
+sS'year'
+p36
+V2018
+p37
 sS'species'
 p38
 g3
 ((lp39
-S"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
-p40
-atp41
-Rp42
+tp40
+Rp41
 sb.

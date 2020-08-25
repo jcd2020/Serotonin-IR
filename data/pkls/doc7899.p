@@ -2,66 +2,110 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-tp16
-Rp17
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp16
+(S'5ht1b'
+p17
+I1218
+I1224
+tp18
+a(S'5ht1b'
+p19
+I1745
+I1751
+tp20
+a(S'5ht1d'
+p21
+I1499
+I1505
+tp22
+a(S'5ht1b'
 p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
+I1842
+I1848
+tp24
+a(S'5ht1b'
+p25
+I62
+I68
+tp26
+a(S'5ht1b'
 p27
-V1990
-p28
-sS'agonists'
+I180
+I186
+tp28
+a(S'5ht1b'
 p29
-g3
-((lp30
-S"(79, u'\\\\burapidil')"
+I477
+I483
+tp30
+a(S'5ht1b'
 p31
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p32
+I1492
+I1498
+tp32
 atp33
 Rp34
-sS'species'
+sS'raw_text_methods'
 p35
 g3
 ((lp36
-S"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
+S"(17, u'\\\\bpet')"
 p37
-atp38
-Rp39
+aS"(19, u'\\\\bpositron emission tomography')"
+p38
+aS"(18, u'\\\\bimaging')"
+p39
+aS"(6, u'\\\\bgr127935')"
+p40
+aS"(12, u'\\\\bantagonist')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p46
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V2010
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p54
+atp55
+Rp56
 sb.

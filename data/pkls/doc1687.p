@@ -2,68 +2,61 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.AGONIST'
 p5
-aS"(58, u'\\\\bhaloperidol')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-tp11
-Rp12
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-atp16
-Rp17
+((lp9
+S"(9, u'\\\\bstress')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p18
+p14
 g3
-((lp19
-S'5ht1a'
+((lp15
+(S'5ht1a'
+p16
+I2480
+I2485
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-atp21
-Rp22
-sS'regions'
-p23
 g3
-((lp24
-S"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
+((lp21
+S"(13, u'\\\\bagonist')"
+p22
+atp23
+Rp24
+sS'regions'
 p25
-aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-atp27
+g3
+((lp26
+tp27
 Rp28
 sS'year'
 p29
-V2003
+V2001
 p30
-sS'agonists'
+sS'species'
 p31
 g3
 ((lp32
-S"(43, u'\\\\bhaloperidol')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p33
 atp34
 Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
 sb.

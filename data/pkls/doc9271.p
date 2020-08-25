@@ -2,80 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(84, u'\\\\bsb ?206553')"
+S'Method.AGONIST'
 p5
-aS"(121, u'\\\\bsb ?243213')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+S"(12, u'\\\\bsleep')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht2b'
-p21
-aS'5ht2c'
+((lp15
+(S'5ht1a'
+p16
+I1044
+I1050
+tp17
+a(S'5ht1a'
+p18
+I324
+I330
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-aS'5ht2a'
-p23
-atp24
-Rp25
+g3
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+aS"(22, u'\\\\bbuspirone')"
+p25
+atp26
+Rp27
 sS'regions'
-p26
-g3
-((lp27
-S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
 p28
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p29
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+g3
+((lp29
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p30
-aS"(189, u'(?i)\\\\b(subthalamics|subthalamic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
-atp32
-Rp33
+atp31
+Rp32
 sS'year'
+p33
+V2000
 p34
-V2013
-p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(155, u'\\\\bmcpp')"
-p38
-atp39
-Rp40
 sS'species'
-p41
+p35
 g3
-((lp42
-S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+((lp36
+tp37
+Rp38
 sb.

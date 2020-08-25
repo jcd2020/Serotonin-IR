@@ -2,80 +2,109 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(40, u'\\\\bergotamine')"
+S'Method.ANTAGONIST'
 p5
-aS"(14, u'\\\\bmethiothepin')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+tp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht7'
-p20
-aS'5ht7c'
+((lp14
+(S'5ht3'
+p15
+I321
+I326
+tp16
+a(S'5ht3'
+p17
+I1154
+I1159
+tp18
+a(S'5ht1'
+p19
+I538
+I542
+tp20
+a(S'5ht2'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p26
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+I1276
+I1281
+tp22
+a(S'5ht2a'
+p23
+I1340
+I1346
+tp24
+a(S'5ht1a'
+p25
+I1333
+I1339
+tp26
+a(S'5ht2'
 p27
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p28
-aS"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
+I344
+I354
+tp28
+a(S'5ht1'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V1996
-p33
-sS'agonists'
-p34
+I1066
+I1070
+tp30
+a(S'5ht3'
+p31
+I104
+I109
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
+p35
 g3
-((lp35
-S"(33, u'\\\\bergotamine')"
-p36
-aS"(219, u'\\\\b5 ?ct')"
+((lp36
+S"(53, u'\\\\bketanserin')"
 p37
-atp38
-Rp39
-sS'species'
+aS"(23, u'\\\\bmdl')"
+p38
+aS"(13, u'\\\\bagonist')"
+p39
+aS"(30, u'\\\\b2methyl')"
 p40
-g3
-((lp41
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+aS"(35, u'\\\\badenosine')"
+p41
+aS"(46, u'\\\\bspiperone')"
 p42
-aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+tp48
+Rp49
+sS'year'
+p50
+V1995
+p51
+sS'species'
+p52
+g3
+((lp53
+tp54
+Rp55
 sb.

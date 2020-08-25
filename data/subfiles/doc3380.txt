@@ -1,4 +1,4 @@
-Eglen, R. M., et al. (1995). "CENTRAL 5-HT4 RECEPTORS." Trends Pharmacol Sci 16(11): 391-398.
+Forbes, I. T., et al. (2002). "SB-656104-A: a novel 5-HT(7) receptor antagonist with improved in vivo properties." Bioorg Med Chem Lett 12(22): 3341-3344.
 
-	Activation of the 5-HT4 receptor mediates widespread effects in central and peripheral nervous systems. Recent developments, such as the identification of novel, selective agonists and antagonists, as well the cloning of the receptor, have provided insights into the physiological role of the receptor. In this article, Richard Eglen and colleagues assess the emerging evidence relating to the function of the 5-HT4 receptor in the brain. The cerebral distribution of the receptor, along with neurochemical and electrophysiological data, suggests a role in cognition. The role of the receptor in modulation of dopamine transmission and anxiolysis is also addressed.
+	A focused SAR study around the previously reported selective 5-HT(7) receptor antagonist, SB-269970-A has resulted in the identification of a structurally related analogue having an improved pharmacokinetic profile. Replacement of the phenolic group in SB-269970-A with an indole moiety, and replacement of the piperidinyl 4-methyl group with a heterocyclic ring system proved to be the key changes leading to the identification of SB-656104-A.
 

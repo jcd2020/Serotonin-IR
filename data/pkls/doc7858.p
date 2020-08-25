@@ -2,100 +2,99 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\bzacopride')"
-p5
-aS"(34, u'\\\\bmetergoline')"
-p6
-aS"(21, u'\\\\bpindolol')"
-p7
-aS"(133, u'\\\\bmianserin')"
-p8
-aS"(125, u'\\\\btropisetron')"
-p9
-aS"(117, u'\\\\bketanserin')"
-p10
-aS"(203, u'\\\\btfmpp')"
-p11
-aS"(110, u'\\\\bclozapine')"
-p12
-aS"(30, u'\\\\bway ?100135')"
-p13
-aS"(17, u'\\\\bnan ?190')"
-p14
-aS"(91, u'\\\\bfluoxetine')"
-p15
-aS"(119, u'\\\\britanserin')"
-p16
-atp17
-Rp18
-sS'methods'
-p19
-g3
-((lp20
 S'Method.ANTAGONIST'
-p21
-atp22
-Rp23
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p24
+p9
 g3
-((lp25
-S"(4, u'\\\\blocomot')"
-p26
-atp27
-Rp28
+((lp10
+tp11
+Rp12
 sS'receptors'
-p29
+p13
 g3
-((lp30
-S'5ht3'
+((lp14
+(S'5ht1a'
+p15
+I593
+I599
+tp16
+a(S'5ht2'
+p17
+I1328
+I1333
+tp18
+a(S'5ht2'
+p19
+I432
+I437
+tp20
+a(S'5ht2'
+p21
+I31
+I36
+tp22
+a(S'5ht2'
+p23
+I1429
+I1434
+tp24
+a(S'5ht1b'
+p25
+I708
+I714
+tp26
+a(S'5ht1a'
+p27
+I697
+I703
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
 p31
-aS'5ht2'
-p32
-atp33
-Rp34
-sS'regions'
-p35
 g3
-((lp36
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+((lp32
+S"(13, u'\\\\bagonist')"
+p33
+aS"(7, u'\\\\bpropranolol')"
+p34
+aS"(53, u'\\\\bketanserin')"
+p35
+aS"(15, u'\\\\b8ohdpat')"
+p36
+aS"(12, u'\\\\bantagonist')"
 p37
 atp38
 Rp39
-sS'year'
+sS'regions'
 p40
-V1996
-p41
-sS'agonists'
+g3
+((lp41
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
 p42
-g3
-((lp43
-S"(208, u'\\\\bzacopride')"
-p44
-aS"(210, u'\\\\bsulpiride')"
+atp43
+Rp44
+sS'year'
 p45
-aS"(23, u'\\\\bclozapine')"
+V1988
 p46
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p47
-aS"(178, u'\\\\btfmpp')"
-p48
-atp49
-Rp50
 sS'species'
-p51
+p47
 g3
-((lp52
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p53
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p54
-atp55
-Rp56
+((lp48
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

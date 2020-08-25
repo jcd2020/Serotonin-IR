@@ -2,96 +2,106 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STIMULATION'
-p9
+S'Method.ANTAGONIST'
+p5
 aS'Method.AGONIST'
-p10
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p11
-aS'Method.STAINING'
-p12
-atp13
-Rp14
+p6
+atp7
+Rp8
 sS'topics'
-p15
+p9
 g3
-((lp16
-S"(33, u'\\\\balzheimers')"
-p17
-aS"(7, u'\\\\bmemory')"
-p18
-atp19
-Rp20
+((lp10
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I1937
+I1943
+tp16
+a(S'5ht1a'
+p17
+I2189
+I2195
+tp18
+a(S'5ht1a'
+p19
+I1196
+I1202
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-S'5ht1f'
+I992
+I998
+tp22
+a(S'5ht1'
 p23
-aS'5ht1e'
-p24
-atp25
-Rp26
-sS'regions'
+I462
+I468
+tp24
+a(S'5ht1a'
+p25
+I331
+I337
+tp26
+a(S'5ht1a'
 p27
-g3
-((lp28
-S"(277, u'(?i)\\\\b(temporals|temporal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
+I2162
+I2168
+tp28
+a(S'5ht1a'
 p29
-aS"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
-p30
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+I1277
+I1283
+tp30
+a(S'5ht1a'
 p31
-atp32
-Rp33
-sS'year'
-p34
-V2012
-p35
-sS'agonists'
-p36
+I462
+I468
+tp32
+a(S'5ht1a'
+p33
+I1663
+I1669
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
+p37
 g3
-((lp37
-S"(117, u'\\\\bbrl ?54443')"
-p38
-aS"(149, u'\\\\bmem')"
+((lp38
+S"(13, u'\\\\bagonist')"
 p39
-atp40
-Rp41
-sS'species'
-p42
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
 g3
-((lp43
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
-p44
-aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+((lp44
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p45
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p46
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p47
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+atp46
+Rp47
+sS'year'
 p48
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+V1999
 p49
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+sS'species'
 p50
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p51
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p52
-atp53
-Rp54
+g3
+((lp51
+tp52
+Rp53
 sb.

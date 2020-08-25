@@ -2,66 +2,105 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.IMMUNOHISTOCHEMISTRY'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(19, u'\\\\bpsychosis')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-S"(24, u'\\\\banalgesi')"
+aS"(29, u'\\\\bhyperactiv')"
+p13
+aS"(23, u'\\\\bantipsychotic')"
 p14
-atp15
-Rp16
+aS"(5, u'\\\\btherap')"
+p15
+aS"(1, u'\\\\bpatient')"
+p16
+atp17
+Rp18
 sS'receptors'
-p17
-g3
-((lp18
-S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
 g3
-((lp23
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p24
-aS"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+((lp20
+(S'5ht6'
+p21
+I1121
+I1126
+tp22
+a(S'5ht6'
+p23
+I552
+I557
+tp24
+a(S'5ht6'
 p25
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+I684
+I689
+tp26
+a(S'5ht6'
+p27
+I27
+I37
+tp28
+a(S'5ht6'
 p29
-V2009
-p30
-sS'agonists'
+I873
+I878
+tp30
+a(S'5ht6'
 p31
-g3
-((lp32
-tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+I340
+I345
+tp32
+a(S'5ht6'
+p33
+I327
+I337
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
 p37
-atp38
-Rp39
+g3
+((lp38
+S"(40, u'\\\\bclozapine')"
+p39
+aS"(12, u'\\\\bantagonist')"
+p40
+aS"(10, u'\\\\bmethamphetamine')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+tp46
+Rp47
+sS'year'
+p48
+V2011
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

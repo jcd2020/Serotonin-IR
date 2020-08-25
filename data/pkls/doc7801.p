@@ -2,62 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.PET'
-p9
-atp10
-Rp11
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(3, u'\\\\bclinical')"
+p11
+aS"(4, u'\\\\btreatment')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
-p14
-atp15
-Rp16
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht4'
-p19
-atp20
-Rp21
-sS'regions'
+((lp17
+(S'5ht3'
+p18
+I134
+I139
+tp19
+a(S'5ht3'
+p20
+I465
+I470
+tp21
+a(S'5ht3'
 p22
-g3
-((lp23
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I1661
+I1666
+tp23
+a(S'5ht3'
 p24
-atp25
-Rp26
-sS'year'
-p27
-V2014
+I1815
+I1820
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-sS'agonists'
-p29
 g3
-((lp30
-tp31
-Rp32
-sS'species'
+((lp29
+S"(17, u'\\\\bpet')"
+p30
+aS"(19, u'\\\\bpositron emission tomography')"
+p31
+aS"(18, u'\\\\bimaging')"
+p32
+aS"(54, u'\\\\bautoradiography')"
 p33
+aS"(12, u'\\\\bantagonist')"
+p34
+atp35
+Rp36
+sS'regions'
+p37
 g3
-((lp34
-S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p35
-atp36
-Rp37
+((lp38
+tp39
+Rp40
+sS'year'
+p41
+V2016
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p45
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

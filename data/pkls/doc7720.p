@@ -2,68 +2,139 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKDOWN'
-p9
-aS'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
 p13
 g3
 ((lp14
-S"(35, u'\\\\bstress')"
+(S'5ht5'
 p15
-aS"(20, u'\\\\baggressi')"
-p16
-atp17
-Rp18
-sS'receptors'
+I170
+I180
+tp16
+a(S'5ht1a'
+p17
+I931
+I937
+tp18
+a(S'5ht2'
 p19
-g3
-((lp20
-S'5ht1a'
+I938
+I943
+tp20
+a(S'5ht1b'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
+I613
+I620
+tp22
+a(S'5ht2'
+p23
+I1695
+I1700
+tp24
+a(S'5ht1a'
+p25
+I1144
+I1150
 tp26
-Rp27
-sS'year'
-p28
-V2014
+a(S'5ht2'
+p27
+I1379
+I1384
+tp28
+a(S'5ht1b'
 p29
-sS'agonists'
-p30
-g3
-((lp31
+I719
+I726
+tp30
+a(S'5ht1a'
+p31
+I1685
+I1691
 tp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(3381, u'(?i)\\\\b(flies|fly)\\\\b')"
-p36
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+a(S'5ht1a'
+p33
+I613
+I619
+tp34
+a(S'5ht1a'
+p35
+I509
+I515
+tp36
+a(S'5ht2'
 p37
-aS"(3671, u'(?i)\\\\b(drosophilas|drosophila)\\\\b')"
-p38
-atp39
-Rp40
+I1299
+I1304
+tp38
+a(S'5ht1a'
+p39
+I719
+I725
+tp40
+atp41
+Rp42
+sS'raw_text_methods'
+p43
+g3
+((lp44
+S"(33, u'\\\\bmcpp')"
+p45
+aS"(21, u'\\\\bipsapirone')"
+p46
+aS"(15, u'\\\\b8ohdpat')"
+p47
+aS"(13, u'\\\\bagonist')"
+p48
+aS"(24, u'\\\\bgepirone')"
+p49
+aS"(49, u'\\\\bdoi')"
+p50
+aS"(45, u'\\\\bmetergoline')"
+p51
+aS"(46, u'\\\\bspiperone')"
+p52
+aS"(9, u'\\\\britanserin')"
+p53
+aS"(12, u'\\\\bantagonist')"
+p54
+atp55
+Rp56
+sS'regions'
+p57
+g3
+((lp58
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p59
+atp60
+Rp61
+sS'year'
+p62
+V1997
+p63
+sS'species'
+p64
+g3
+((lp65
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p66
+atp67
+Rp68
 sb.

@@ -1,0 +1,4 @@
+Jeong, H. S., et al. (2005). "Effects of CGS-12066A on medial vestibular nuclear neurons." Brain Res 1038(1): 118-121.
+
+	This study aims to explore the effects of a selective 5-HT1B receptor agonist, CGS-12066A, on the neuronal excitability of the rat medial vestibular nuclear neurons. The spontaneous firing rate was decreased, and the membrane potential was hyperpolarized by CGS-12066A. The whole potassium currents were inhibited by CGS-12066A. After the calcium-dependent potassium, currents were blocked, however, CGS-12066A did not inhibit the potassium currents, suggesting that the 5-HT action site is calcium-dependent potassium currents.
+

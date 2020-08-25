@@ -2,76 +2,97 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(43, u'\\\\bgr ?127935')"
-p5
-aS"(113, u'\\\\brisperidone')"
-p6
-aS"(52, u'\\\\bmdl ?100907')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p5
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
-p20
+p15
 g3
-((lp21
-S'5ht1b'
-p22
-aS'5ht2a'
+((lp16
+(S'5ht1a'
+p17
+I1369
+I1375
+tp18
+a(S'5ht1a'
+p19
+I1504
+I1510
+tp20
+a(S'5ht1a'
+p21
+I1191
+I1197
+tp22
+a(S'5ht1a'
 p23
-aS'5ht1d'
-p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1605
+I1611
+tp24
+a(S'5ht1a'
+p25
+I518
+I524
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
+g3
+((lp30
+S"(11, u'\\\\bfluoxetine')"
+p31
+aS"(38, u'\\\\bssri')"
+p32
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p33
-V2001
+aS"(12, u'\\\\bantagonist')"
 p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(103, u'\\\\bcp ?135807')"
+atp35
+Rp36
+sS'regions'
 p37
-atp38
-Rp39
-sS'species'
-p40
 g3
-((lp41
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+((lp38
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p39
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p40
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V2007
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p48
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

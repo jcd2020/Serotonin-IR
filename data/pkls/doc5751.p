@@ -2,66 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-S"(6, u'\\\\bcognit')"
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(8, u'\\\\banxi')"
 p14
-atp15
-Rp16
+aS"(4, u'\\\\btreatment')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp19
+(S'5ht4'
+p20
+I1099
+I1104
+tp21
+a(S'5ht4'
 p22
-g3
-((lp23
-S"(277, u'(?i)\\\\b(temporals|temporal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
+I722
+I727
+tp23
+a(S'5ht4'
 p24
-aS"(90, u'(?i)\\\\b(tegmentums|tegmentum)\\\\b')"
-p25
+I908
+I913
+tp25
 atp26
 Rp27
-sS'year'
+sS'raw_text_methods'
 p28
-V2001
-p29
-sS'agonists'
+g3
+((lp29
+S"(13, u'\\\\bagonist')"
 p30
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp31
-S"(73, u'\\\\btandospirone')"
-p32
-atp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+((lp34
+tp35
+Rp36
+sS'year'
 p37
-atp38
-Rp39
+V2020
+p38
+sS'species'
+p39
+g3
+((lp40
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p41
+atp42
+Rp43
 sb.

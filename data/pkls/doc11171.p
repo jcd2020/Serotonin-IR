@@ -1,0 +1,92 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(1, u'\\\\bpatient')"
+p12
+aS"(17, u'\\\\balzheimer')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
+p18
+I805
+I811
+tp19
+a(S'5ht1a'
+p20
+I596
+I602
+tp21
+a(S'5ht1a'
+p22
+I352
+I358
+tp23
+a(S'5ht1a'
+p24
+I547
+I553
+tp25
+a(S'5ht1a'
+p26
+I242
+I248
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
+g3
+((lp31
+S"(1, u'\\\\bneuroimag')"
+p32
+aS"(2, u'\\\\blabeling')"
+p33
+aS"(17, u'\\\\bpet')"
+p34
+aS"(19, u'\\\\bpositron emission tomography')"
+p35
+aS"(12, u'\\\\bantagonist')"
+p36
+atp37
+Rp38
+sS'regions'
+p39
+g3
+((lp40
+tp41
+Rp42
+sS'year'
+p43
+V2008
+p44
+sS'species'
+p45
+g3
+((lp46
+tp47
+Rp48
+sb.

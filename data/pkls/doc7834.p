@@ -2,80 +2,98 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+aS"(5, u'\\\\btherap')"
+p13
+aS"(13, u'\\\\bantidepress')"
 p14
-g3
-((lp15
-tp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht1a'
-p20
-aS'5ht2c'
+((lp18
+(S'5ht1a'
+p19
+I378
+I384
+tp20
+a(S'5ht1a'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
+I104
+I115
+tp22
+a(S'5ht1a'
+p23
+I1248
+I1254
+tp24
+a(S'5ht1a'
 p25
-g3
-((lp26
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I1397
+I1403
+tp26
+a(S'5ht1a'
 p27
-aS"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p28
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+I278
+I284
+tp28
+a(S'5ht1a'
 p29
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p30
+I264
+I275
+tp30
 atp31
 Rp32
-sS'year'
+sS'raw_text_methods'
 p33
-V2012
-p34
-sS'agonists'
+g3
+((lp34
+S"(13, u'\\\\bagonist')"
 p35
-g3
-((lp36
-S"(175, u'\\\\bdoi')"
+aS"(45, u'\\\\bmetergoline')"
+p36
+aS"(12, u'\\\\bantagonist')"
 p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p38
-aS"(43, u'\\\\bhaloperidol')"
-p39
-atp40
-Rp41
-sS'species'
-p42
+atp38
+Rp39
+sS'regions'
+p40
 g3
-((lp43
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+((lp41
+tp42
+Rp43
+sS'year'
 p44
-atp45
-Rp46
+V1994
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p48
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

@@ -2,88 +2,124 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
+S'Method.AGONIST'
 p5
-aS"(117, u'\\\\bketanserin')"
+aS'Method.IMMUNOHISTOCHEMISTRY'
 p6
-aS"(22, u'\\\\bpropranolol')"
+aS'Method.ANTAGONIST'
 p7
-aS"(203, u'\\\\btfmpp')"
-p8
-aS"(193, u'\\\\bmesulergine')"
-p9
-aS"(17, u'\\\\bnan ?190')"
-p10
-aS"(119, u'\\\\britanserin')"
-p11
-atp12
-Rp13
-sS'methods'
-p14
-g3
-((lp15
-S'Method.ANTAGONIST'
-p16
-aS'Method.AGONIST'
-p17
-atp18
-Rp19
+atp8
+Rp9
 sS'topics'
-p20
+p10
 g3
-((lp21
-S"(8, u'\\\\blearning')"
-p22
-atp23
-Rp24
+((lp11
+S"(27, u'\\\\bdyskinesia')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
 sS'receptors'
-p25
+p16
 g3
-((lp26
-S'5ht1b'
-p27
-aS'5ht2c'
+((lp17
+(S'5ht1'
+p18
+I1071
+I1076
+tp19
+a(S'5ht1a'
+p20
+I115
+I121
+tp21
+a(S'5ht1'
+p22
+I368
+I373
+tp23
+a(S'5ht1'
+p24
+I1379
+I1384
+tp25
+a(S'5ht1'
+p26
+I837
+I842
+tp27
+a(S'5ht1a'
 p28
-aS'5ht2a'
-p29
-atp30
-Rp31
-sS'regions'
+I198
+I204
+tp29
+a(S'5ht1'
+p30
+I215
+I220
+tp31
+a(S'5ht1'
 p32
-g3
-((lp33
-tp34
-Rp35
-sS'year'
+I1176
+I1181
+tp33
+a(S'5ht1'
+p34
+I1706
+I1711
+tp35
+a(S'5ht1'
 p36
-V1997
-p37
-sS'agonists'
-p38
-g3
-((lp39
-S"(165, u'\\\\bmesulergine')"
+I588
+I593
+tp37
+atp38
+Rp39
+sS'raw_text_methods'
 p40
-aS"(178, u'\\\\btfmpp')"
-p41
-aS"(155, u'\\\\bmcpp')"
-p42
-aS"(175, u'\\\\bdoi')"
-p43
-atp44
-Rp45
-sS'species'
-p46
 g3
-((lp47
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p48
-atp49
-Rp50
+((lp41
+S"(13, u'\\\\bagonist')"
+p42
+aS"(15, u'\\\\b8ohdpat')"
+p43
+aS"(32, u'\\\\blesions')"
+p44
+aS"(51, u'\\\\bway100635')"
+p45
+aS"(12, u'\\\\bantagonist')"
+p46
+atp47
+Rp48
+sS'regions'
+p49
+g3
+((lp50
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p51
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p52
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p53
+atp54
+Rp55
+sS'year'
+p56
+V2011
+p57
+sS'species'
+p58
+g3
+((lp59
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p60
+atp61
+Rp62
 sb.

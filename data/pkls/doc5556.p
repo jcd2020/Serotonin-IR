@@ -1,0 +1,107 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(33, u'\\\\blocomot')"
+p12
+aS"(25, u'\\\\bsocial')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2c'
+p18
+I1762
+I1768
+tp19
+a(S'5ht2a'
+p20
+I305
+I311
+tp21
+a(S'5ht2c'
+p22
+I75
+I81
+tp23
+a(S'5ht2b'
+p24
+I294
+I300
+tp25
+a(S'5ht2c'
+p26
+I1943
+I1949
+tp27
+a(S'5ht2c'
+p28
+I555
+I561
+tp29
+a(S'5ht2c'
+p30
+I206
+I212
+tp31
+a(S'5ht2c'
+p32
+I844
+I850
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
+g3
+((lp37
+S"(33, u'\\\\bmcpp')"
+p38
+aS"(12, u'\\\\bantagonist')"
+p39
+atp40
+Rp41
+sS'regions'
+p42
+g3
+((lp43
+tp44
+Rp45
+sS'year'
+p46
+V1997
+p47
+sS'species'
+p48
+g3
+((lp49
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p50
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p51
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
+sb.

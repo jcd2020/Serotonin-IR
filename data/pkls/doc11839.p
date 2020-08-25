@@ -2,80 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(28, u'\\\\bemesis')"
-p15
-atp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p18
+p14
 g3
-((lp19
-S'5ht3'
+((lp15
+(S'5ht1a'
+p16
+I803
+I809
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-atp21
-Rp22
-sS'regions'
+g3
+((lp21
+S"(13, u'\\\\bagonist')"
+p22
+aS"(15, u'\\\\b8ohdpat')"
 p23
+atp24
+Rp25
+sS'regions'
+p26
 g3
-((lp24
-tp25
-Rp26
-sS'year'
-p27
-V1997
+((lp27
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p28
-sS'agonists'
-p29
-g3
-((lp30
-tp31
-Rp32
+atp29
+Rp30
+sS'year'
+p31
+V1988
+p32
 sS'species'
 p33
 g3
 ((lp34
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p35
-aS"(5150, u'(?i)\\\\b(gerbils|gerbil)\\\\b')"
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
 p36
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-aS"(3015, u'(?i)\\\\b(ferrets|ferret)\\\\b')"
-p39
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p40
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p41
-aS"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
-p42
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+atp38
+Rp39
 sb.

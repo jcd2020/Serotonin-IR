@@ -2,76 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
-atp11
-Rp12
+tp5
+Rp6
 sS'topics'
-p13
+p7
 g3
-((lp14
-tp15
-Rp16
+((lp8
+S"(5, u'\\\\btherap')"
+p9
+aS"(7, u'\\\\bdepressi')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2c'
 p17
-g3
-((lp18
-S'5ht4b'
+I465
+I471
+tp18
+a(S'5ht1b'
 p19
-aS'5ht4'
-p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+I454
+I460
+tp20
+a(S'5ht1a'
+p21
+I544
+I550
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p26
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+g3
+((lp26
+S"(38, u'\\\\bssri')"
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2015
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p28
+atp29
+Rp30
+sS'regions'
 p31
-sS'agonists'
-p32
 g3
-((lp33
-tp34
-Rp35
-sS'species'
+((lp32
+tp33
+Rp34
+sS'year'
+p35
+V2007
 p36
+sS'species'
+p37
 g3
-((lp37
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(3503, u'(?i)\\\\b(fishers|fisher)\\\\b')"
-p40
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
+((lp38
+tp39
+Rp40
 sb.

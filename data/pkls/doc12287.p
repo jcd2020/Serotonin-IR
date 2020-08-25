@@ -2,64 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(101, u'\\\\btramadol')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(24, u'\\\\banxiolytic')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(8, u'\\\\banxi')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(20, u'\\\\bmood')"
 p13
-g3
-((lp14
-S"(24, u'\\\\banalgesi')"
-p15
-atp16
-Rp17
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2c'
 p18
+I668
+I674
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
 g3
-((lp19
-S'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+aS"(16, u'\\\\bdiazepam')"
+p25
+aS"(33, u'\\\\bmcpp')"
+p26
+aS"(37, u'\\\\bpiperazine')"
 p27
-V2003
-p28
-sS'agonists'
-p29
+atp28
+Rp29
+sS'regions'
+p30
 g3
-((lp30
-tp31
-Rp32
-sS'species'
+((lp31
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p32
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p33
-g3
-((lp34
-S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
-p35
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+atp34
+Rp35
+sS'year'
 p36
-atp37
-Rp38
+V2018
+p37
+sS'species'
+p38
+g3
+((lp39
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p41
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p42
+atp43
+Rp44
 sb.

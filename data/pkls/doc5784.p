@@ -2,75 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
-p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(119, u'\\\\britanserin')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
+p5
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(8, u'\\\\banxi')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(9, u'\\\\bstress')"
 p13
 atp14
 Rp15
-sS'topics'
+sS'receptors'
 p16
 g3
 ((lp17
-tp18
-Rp19
-sS'receptors'
+(S'5ht2'
+p18
+I2318
+I2323
+tp19
+a(S'5ht2'
 p20
-g3
-((lp21
-S'5ht7'
+I1819
+I1824
+tp21
+a(S'5ht2'
 p22
-aS'5ht6'
-p23
-aS'5ht1a'
-p24
-aS'5ht2'
-p25
-atp26
-Rp27
-sS'regions'
+I871
+I876
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+S"(13, u'\\\\bagonist')"
 p28
-g3
-((lp29
-tp30
+aS"(12, u'\\\\bantagonist')"
+p29
+atp30
 Rp31
-sS'year'
+sS'regions'
 p32
-V2002
-p33
-sS'agonists'
+g3
+((lp33
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p34
-g3
-((lp35
-S"(23, u'\\\\bclozapine')"
-p36
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+atp35
+Rp36
+sS'year'
 p37
-atp38
-Rp39
+V2000
+p38
 sS'species'
-p40
+p39
 g3
-((lp41
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp40
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p41
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p42
 atp43
 Rp44

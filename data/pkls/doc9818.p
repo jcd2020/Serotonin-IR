@@ -1,0 +1,74 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(26, u'\\\\bbehav')"
+p9
+aS"(4, u'\\\\btreatment')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2'
+p16
+I1202
+I1207
+tp17
+a(S'5ht1a'
+p18
+I863
+I869
+tp19
+a(S'5ht2'
+p20
+I989
+I994
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+tp26
+Rp27
+sS'regions'
+p28
+g3
+((lp29
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p30
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p31
+atp32
+Rp33
+sS'year'
+p34
+V1996
+p35
+sS'species'
+p36
+g3
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
+sb.

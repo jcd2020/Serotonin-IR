@@ -2,78 +2,164 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(78, u'\\\\brs ?127445')"
+S'Method.ANTAGONIST'
 p5
-aS"(58, u'\\\\bhaloperidol')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(18, u'\\\\bavoidan')"
 p11
-aS'Method.AGONIST'
+aS"(16, u'\\\\blearning')"
 p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(37, u'\\\\baddict')"
-p17
-atp18
-Rp19
+aS"(15, u'\\\\bmemory')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht7'
+p18
+I44
+I49
+tp19
+a(S'5ht1a'
 p20
-g3
-((lp21
-S'5ht2b'
+I33
+I39
+tp21
+a(S'5ht7'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p27
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I1345
+I1350
+tp23
+a(S'5ht7'
+p24
+I449
+I454
+tp25
+a(S'5ht1'
+p26
+I1752
+I1757
+tp27
+a(S'5ht1'
 p28
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
+I1424
+I1429
+tp29
+a(S'5ht7'
+p30
+I1624
+I1629
+tp31
+a(S'5ht7'
 p32
-V2015
-p33
-sS'agonists'
+I341
+I346
+tp33
+a(S'5ht1'
 p34
-g3
-((lp35
-S"(145, u'\\\\bly ?266097')"
+I741
+I746
+tp35
+a(S'5ht7'
 p36
-aS"(43, u'\\\\bhaloperidol')"
-p37
-atp38
-Rp39
-sS'species'
+I1055
+I1060
+tp37
+a(S'5ht7'
+p38
+I324
+I329
+tp39
+a(S'5ht7'
 p40
-g3
-((lp41
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+I816
+I821
+tp41
+a(S'5ht7'
 p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+I1778
+I1783
+tp43
+a(S'5ht7'
+p44
+I1079
+I1084
+tp45
+a(S'5ht7'
+p46
+I889
+I894
+tp47
+a(S'5ht7'
+p48
+I477
+I482
+tp49
+a(S'5ht7'
+p50
+I1432
+I1437
+tp51
+a(S'5ht1'
+p52
+I1004
+I1009
+tp53
+atp54
+Rp55
+sS'raw_text_methods'
+p56
+g3
+((lp57
+S"(15, u'\\\\b8ohdpat')"
+p58
+aS"(13, u'\\\\bagonist')"
+p59
+aS"(11, u'\\\\bfluoxetine')"
+p60
+aS"(38, u'\\\\bssri')"
+p61
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p62
+aS"(12, u'\\\\bantagonist')"
+p63
+atp64
+Rp65
+sS'regions'
+p66
+g3
+((lp67
+tp68
+Rp69
+sS'year'
+p70
+V2012
+p71
+sS'species'
+p72
+g3
+((lp73
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p74
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p75
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p76
+atp77
+Rp78
 sb.

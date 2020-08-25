@@ -2,70 +2,83 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.IMMUNOHISTOCHEMISTRY'
-p9
-atp10
-Rp11
+S'Method.STIMULATION'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(6, u'\\\\baggressi')"
+p11
+aS"(26, u'\\\\bbehav')"
 p12
-g3
-((lp13
-S"(35, u'\\\\bstress')"
-p14
-aS"(11, u'\\\\banxiolyt')"
-p15
-aS"(10, u'\\\\banxiety')"
-p16
-aS"(1, u'\\\\bmood')"
-p17
-atp18
-Rp19
+atp13
+Rp14
 sS'receptors'
-p20
+p15
 g3
-((lp21
+((lp16
+(S'5ht2c'
+p17
+I1751
+I1757
+tp18
+a(S'5ht2c'
+p19
+I1975
+I1981
+tp20
+a(S'5ht2'
+p21
+I1584
+I1589
 tp22
-Rp23
-sS'regions'
-p24
+a(S'5ht2c'
+p23
+I1626
+I1632
+tp24
+a(S'5ht2'
+p25
+I49
+I54
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
 g3
-((lp25
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V2014
+((lp30
+S"(2, u'\\\\blabeling')"
 p31
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p32
+atp33
+Rp34
+sS'regions'
+p35
 g3
-((lp33
-tp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp36
+tp37
+Rp38
+sS'year'
 p39
-atp40
-Rp41
+V2008
+p40
+sS'species'
+p41
+g3
+((lp42
+tp43
+Rp44
 sb.

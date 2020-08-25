@@ -2,78 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(14, u'\\\\bcogniti')"
+p12
+aS"(19, u'\\\\bpsychosis')"
 p13
-g3
-((lp14
-S"(25, u'\\\\bvasoconstrict')"
+aS"(2, u'\\\\bdisorder')"
+p14
+aS"(23, u'\\\\bantipsychotic')"
 p15
-aS"(21, u'\\\\bpain')"
+aS"(5, u'\\\\btherap')"
 p16
-atp17
-Rp18
+aS"(3, u'\\\\bclinical')"
+p17
+atp18
+Rp19
 sS'receptors'
-p19
+p20
 g3
-((lp20
-S'5ht1b'
-p21
-aS'5ht5'
+((lp21
+(S'5ht1a'
 p22
-aS'5ht2b'
-p23
-aS'5ht2c'
+I1041
+I1047
+tp23
+a(S'5ht7'
 p24
-aS'5ht1d'
-p25
-aS'5ht2a'
+I1097
+I1102
+tp25
+a(S'5ht2a'
 p26
-atp27
-Rp28
-sS'regions'
-p29
+I1078
+I1084
+tp27
+a(S'5ht2b'
+p28
+I1086
+I1092
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
+p32
 g3
-((lp30
-tp31
-Rp32
-sS'year'
-p33
-V1999
+((lp33
+S"(13, u'\\\\bagonist')"
 p34
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p35
+atp36
+Rp37
+sS'regions'
+p38
 g3
-((lp36
-S"(96, u'\\\\bsumatriptan')"
-p37
-atp38
-Rp39
-sS'species'
+((lp39
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p40
-g3
-((lp41
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+aS"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p41
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p42
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p43
-atp44
-Rp45
+atp43
+Rp44
+sS'year'
+p45
+V2016
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

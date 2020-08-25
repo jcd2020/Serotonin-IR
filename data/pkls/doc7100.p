@@ -2,80 +2,134 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(35, u'\\\\baripiprazole')"
+S'Method.ANTAGONIST'
 p5
-aS"(31, u'\\\\bway ?100635')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(5, u'\\\\btherap')"
 p11
-aS'Method.AGONIST'
+aS"(4, u'\\\\btreatment')"
 p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(4, u'\\\\blocomot')"
-p17
-atp18
-Rp19
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht3'
+p18
+I1160
+I1165
+tp19
+a(S'5ht1b'
 p20
-g3
-((lp21
-S'5ht1b'
+I915
+I921
+tp21
+a(S'5ht2'
 p22
-aS'5ht1a'
-p23
-atp24
-Rp25
-sS'regions'
+I953
+I958
+tp23
+a(S'5ht1c'
+p24
+I485
+I493
+tp25
+a(S'5ht2'
 p26
-g3
-((lp27
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I994
+I999
+tp27
+a(S'5ht1b'
 p28
-aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I485
+I491
+tp29
+a(S'5ht1a'
 p30
-atp31
-Rp32
-sS'year'
-p33
-V2019
+I766
+I772
+tp31
+a(S'5ht2'
+p32
+I1150
+I1155
+tp33
+a(S'5ht2'
 p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(223, u'\\\\baripiprazole')"
-p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+I485
+I494
+tp35
+a(S'5ht1a'
+p36
+I808
+I814
+tp37
+a(S'5ht3'
 p38
-atp39
-Rp40
-sS'species'
-p41
-g3
-((lp42
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I636
+I641
+tp39
+a(S'5ht2'
+p40
+I564
+I569
+tp41
+atp42
+Rp43
+sS'raw_text_methods'
 p44
-atp45
-Rp46
+g3
+((lp45
+S"(53, u'\\\\bketanserin')"
+p46
+aS"(22, u'\\\\bbuspirone')"
+p47
+aS"(15, u'\\\\b8ohdpat')"
+p48
+aS"(13, u'\\\\bagonist')"
+p49
+aS"(11, u'\\\\bfluoxetine')"
+p50
+aS"(49, u'\\\\bdoi')"
+p51
+aS"(12, u'\\\\bantagonist')"
+p52
+atp53
+Rp54
+sS'regions'
+p55
+g3
+((lp56
+tp57
+Rp58
+sS'year'
+p59
+V1995
+p60
+sS'species'
+p61
+g3
+((lp62
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p63
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p64
+atp65
+Rp66
 sb.

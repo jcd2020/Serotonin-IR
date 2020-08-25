@@ -2,74 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.AGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(8, u'\\\\blearning')"
-p15
-atp16
-Rp17
+((lp10
+S"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1'
+p16
+I1148
+I1153
+tp17
+a(S'5ht1b'
 p18
-g3
-((lp19
-S'5ht1a'
+I642
+I648
+tp19
+a(S'5ht1b'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p25
+I1655
+I1661
+tp21
+a(S'5ht1b'
+p22
+I308
+I314
+tp23
+a(S'5ht1b'
+p24
+I112
+I118
+tp25
 atp26
 Rp27
-sS'year'
+sS'raw_text_methods'
 p28
-V2000
-p29
-sS'agonists'
+g3
+((lp29
+S"(13, u'\\\\bagonist')"
 p30
-g3
-((lp31
-S"(147, u'\\\\bmdma')"
-p32
-aS"(11, u'\\\\bamphetamine')"
-p33
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(34, u'\\\\b5ct')"
+p31
+atp32
+Rp33
+sS'regions'
 p34
-atp35
-Rp36
-sS'species'
-p37
 g3
-((lp38
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp35
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2006
 p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+sS'species'
 p41
-atp42
-Rp43
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

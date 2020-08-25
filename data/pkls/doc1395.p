@@ -2,94 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
-p5
-aS"(59, u'\\\\bchlorpromazine')"
-p6
-aS"(131, u'\\\\bm1')"
-p7
-aS"(111, u'\\\\bolanzapine')"
-p8
-aS"(99, u'\\\\bsb ?242084')"
-p9
-aS"(58, u'\\\\bhaloperidol')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
-S'Method.AGONIST'
-p15
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p16
-aS'Method.ANTAGONIST'
-p17
-atp18
-Rp19
+tp5
+Rp6
 sS'topics'
-p20
+p7
 g3
-((lp21
-tp22
-Rp23
+((lp8
+S"(8, u'\\\\banxi')"
+p9
+aS"(9, u'\\\\bstress')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I866
+I872
+tp17
+a(S'5ht1a'
+p18
+I1408
+I1414
+tp19
+a(S'5ht1a'
+p20
+I252
+I258
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
 g3
 ((lp25
-S'5ht2a'
-p26
-atp27
-Rp28
+tp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp29
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p30
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p31
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p32
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p33
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p34
-atp35
-Rp36
+atp32
+Rp33
 sS'year'
-p37
-V2003
-p38
-sS'agonists'
-p39
-g3
-((lp40
-S"(175, u'\\\\bdoi')"
-p41
-aS"(57, u'\\\\bolanzapine')"
-p42
-aS"(23, u'\\\\bclozapine')"
-p43
-aS"(43, u'\\\\bhaloperidol')"
-p44
-atp45
-Rp46
+p34
+V2006
+p35
 sS'species'
-p47
+p36
 g3
-((lp48
-S"(5510, u'(?i)\\\\b(bays|bay)\\\\b')"
-p49
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p50
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p51
-atp52
-Rp53
+((lp37
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p38
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p39
+atp40
+Rp41
 sb.

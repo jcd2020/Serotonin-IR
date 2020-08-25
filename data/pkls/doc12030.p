@@ -2,73 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(26, u'\\\\bbehav')"
 p12
-g3
-((lp13
-S"(35, u'\\\\bstress')"
-p14
-aS"(10, u'\\\\banxiety')"
-p15
-aS"(1, u'\\\\bmood')"
-p16
-atp17
-Rp18
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I221
+I227
+tp18
+a(S'5ht1a'
 p19
+I100
+I106
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(16, u'\\\\bdiazepam')"
 p26
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(21, u'\\\\bipsapirone')"
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2010
+aS"(22, u'\\\\bbuspirone')"
+p28
+atp29
+Rp30
+sS'regions'
 p31
-sS'agonists'
-p32
 g3
-((lp33
-tp34
-Rp35
-sS'species'
+((lp32
+tp33
+Rp34
+sS'year'
+p35
+V1991
 p36
+sS'species'
+p37
 g3
-((lp37
-S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
-p38
-aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
+((lp38
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p40
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
 atp42
 Rp43

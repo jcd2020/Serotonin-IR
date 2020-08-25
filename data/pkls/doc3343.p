@@ -2,80 +2,78 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\bzacopride')"
-p5
-aS"(110, u'\\\\bclozapine')"
-p6
-aS"(59, u'\\\\bchlorpromazine')"
-p7
-aS"(124, u'\\\\bondansetron')"
-p8
-aS"(123, u'\\\\bgranisetron')"
-p9
-aS"(58, u'\\\\bhaloperidol')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
-S'Method.ANTAGONIST'
-p15
-aS'Method.AGONIST'
-p16
-atp17
-Rp18
+tp5
+Rp6
 sS'topics'
-p19
+p7
 g3
-((lp20
-tp21
-Rp22
+((lp8
+tp9
+Rp10
 sS'receptors'
+p11
+g3
+((lp12
+(S'5ht3'
+p13
+I353
+I358
+tp14
+a(S'5ht3'
+p15
+I299
+I304
+tp16
+a(S'5ht3'
+p17
+I104
+I109
+tp18
+a(S'5ht3'
+p19
+I795
+I800
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
 g3
 ((lp24
-S'5ht3a'
+S"(54, u'\\\\bautoradiography')"
 p25
-aS'5ht3'
-p26
-atp27
-Rp28
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
-sS'year'
+((lp29
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p30
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p31
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p32
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p33
-V1991
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(208, u'\\\\bzacopride')"
+atp35
+Rp36
+sS'year'
 p37
-aS"(23, u'\\\\bclozapine')"
+V1999
 p38
-aS"(43, u'\\\\bhaloperidol')"
-p39
-atp40
-Rp41
 sS'species'
-p42
+p39
 g3
-((lp43
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+((lp40
+tp41
+Rp42
 sb.

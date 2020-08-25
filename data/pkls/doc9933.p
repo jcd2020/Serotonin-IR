@@ -2,72 +2,103 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(25, u'\\\\bsocial')"
 p11
-g3
-((lp12
-tp13
-Rp14
-sS'receptors'
+aS"(17, u'\\\\balzheimer')"
+p12
+aS"(15, u'\\\\bmemory')"
+p13
+aS"(1, u'\\\\bpatient')"
+p14
+aS"(4, u'\\\\btreatment')"
 p15
+aS"(3, u'\\\\bclinical')"
+p16
+atp17
+Rp18
+sS'receptors'
+p19
 g3
-((lp16
-S'5ht5a'
-p17
-atp18
-Rp19
-sS'regions'
-p20
-g3
-((lp21
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p22
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp20
+(S'5ht6'
+p21
+I1343
+I1348
+tp22
+a(S'5ht6'
 p23
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p24
-aS"(82, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I894
+I899
+tp24
+a(S'5ht6'
 p25
-atp26
-Rp27
-sS'year'
-p28
-V1998
+I1626
+I1631
+tp26
+a(S'5ht6'
+p27
+I1210
+I1215
+tp28
+a(S'5ht6'
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(149, u'\\\\bmem')"
-p32
-atp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+I49
+I54
+tp30
+a(S'5ht6'
+p31
+I1103
+I1108
+tp32
+a(S'5ht6'
+p33
+I1006
+I1011
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
 p37
-aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+g3
+((lp38
+S"(54, u'\\\\bautoradiography')"
 p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p40
 atp41
 Rp42
+sS'regions'
+p43
+g3
+((lp44
+tp45
+Rp46
+sS'year'
+p47
+V2009
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
 sb.

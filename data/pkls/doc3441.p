@@ -2,90 +2,122 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(20, u'\\\\bmood')"
 p11
-g3
-((lp12
-S"(35, u'\\\\bstress')"
-p13
-atp14
-Rp15
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
+((lp16
+(S'5ht2a'
+p17
+I500
+I506
+tp18
+a(S'5ht2a'
+p19
+I317
+I328
+tp20
+a(S'5ht2a'
 p21
-g3
-((lp22
-S"(257, u'(?i)\\\\b(dorsolaterals|dorsolateral)(-|\\\\s+)?(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1481
+I1487
+tp22
+a(S'5ht2a'
 p23
-aS"(256, u'(?i)\\\\b(orbitofrontals|orbitofrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p24
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I821
+I827
+tp24
+a(S'5ht2a'
 p25
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I741
+I747
+tp26
+a(S'5ht2a'
 p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+I1278
+I1284
+tp28
+a(S'5ht2a'
 p29
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
+I1513
+I1519
+tp30
+a(S'5ht2a'
+p31
+I1191
+I1197
+tp32
+a(S'5ht2a'
 p33
-V2013
-p34
-sS'agonists'
+I981
+I987
+tp34
+a(S'5ht2a'
 p35
-g3
-((lp36
-S"(176, u'\\\\bdom')"
+I117
+I123
+tp36
+a(S'5ht2a'
 p37
-atp38
-Rp39
-sS'species'
-p40
-g3
-((lp41
-S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
-p42
-aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
+I880
+I886
+tp38
+a(S'5ht2a'
+p39
+I331
+I337
+tp40
+atp41
+Rp42
+sS'raw_text_methods'
 p43
-aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p44
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
+g3
+((lp44
+S"(13, u'\\\\bagonist')"
 p45
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p46
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p47
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+atp46
+Rp47
+sS'regions'
 p48
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p49
-atp50
-Rp51
+g3
+((lp49
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p50
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p51
+atp52
+Rp53
+sS'year'
+p54
+V2012
+p55
+sS'species'
+p56
+g3
+((lp57
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p58
+atp59
+Rp60
 sb.

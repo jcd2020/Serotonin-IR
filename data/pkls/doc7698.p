@@ -2,62 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-tp14
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+atp14
 Rp15
 sS'receptors'
 p16
 g3
 ((lp17
-S'5ht3'
+(S'5ht1a'
 p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p23
-atp24
-Rp25
-sS'year'
-p26
-V1991
-p27
-sS'agonists'
+I57
+I62
+tp19
+a(S'5ht1a'
+p20
+I176
+I181
+tp21
+a(S'5ht1a'
+p22
+I898
+I903
+tp23
+a(S'5ht1a'
+p24
+I613
+I618
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
 g3
 ((lp29
-S"(191, u'\\\\bphenylbiguanide')"
+S"(13, u'\\\\bagonist')"
 p30
-atp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
+p31
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
 p35
-atp36
-Rp37
+g3
+((lp36
+tp37
+Rp38
+sS'year'
+p39
+V1992
+p40
+sS'species'
+p41
+g3
+((lp42
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p43
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p44
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p45
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

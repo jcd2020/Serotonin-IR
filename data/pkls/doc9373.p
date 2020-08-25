@@ -2,72 +2,124 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(40, u'\\\\bergotamine')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-tp10
-Rp11
-sS'topics'
+S"(26, u'\\\\bbehav')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht2c'
-p18
-aS'5ht2a'
+((lp16
+(S'5ht1a'
+p17
+I99
+I105
+tp18
+a(S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
+I188
+I194
+tp20
+a(S'5ht3'
+p21
+I1390
+I1395
+tp22
+a(S'5ht1b'
+p23
+I85
+I91
 tp24
-Rp25
-sS'year'
-p26
-V1996
+a(S'5ht1a'
+p25
+I394
+I400
+tp26
+a(S'5ht1b'
 p27
-sS'agonists'
-p28
-g3
-((lp29
-S"(158, u'\\\\blsd')"
-p30
-aS"(50, u'\\\\bmescaline')"
+I199
+I205
+tp28
+a(S'5ht1'
+p29
+I1717
+I1722
+tp30
+a(S'5ht1b'
 p31
-aS"(33, u'\\\\bergotamine')"
-p32
-aS"(192, u'\\\\bquipazine')"
+I359
+I365
+tp32
+a(S'5ht1d'
 p33
-aS"(175, u'\\\\bdoi')"
-p34
-atp35
-Rp36
-sS'species'
+I85
+I93
+tp34
+a(S'5ht1d'
+p35
+I359
+I367
+tp36
+a(S'5ht1d'
 p37
-g3
-((lp38
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+I199
+I207
+tp38
+a(S'5ht5'
 p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
+I627
+I632
+tp40
 atp41
 Rp42
+sS'raw_text_methods'
+p43
+g3
+((lp44
+S"(6, u'\\\\bgr127935')"
+p45
+aS"(12, u'\\\\bantagonist')"
+p46
+atp47
+Rp48
+sS'regions'
+p49
+g3
+((lp50
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p51
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p52
+atp53
+Rp54
+sS'year'
+p55
+V2008
+p56
+sS'species'
+p57
+g3
+((lp58
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p59
+atp60
+Rp61
 sb.

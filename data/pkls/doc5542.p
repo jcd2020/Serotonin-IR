@@ -2,98 +2,113 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(198, u'\\\\bsb ?269970')"
+S'Method.STIMULATION'
 p5
-aS"(111, u'\\\\bolanzapine')"
+aS'Method.ANTAGONIST'
 p6
-aS"(199, u'\\\\bsb ?656104 ?a')"
+aS'Method.AGONIST'
 p7
-aS"(190, u'\\\\blurasidone')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+atp8
+Rp9
 sS'topics'
-p16
+p10
 g3
-((lp17
-S"(15, u'\\\\bschizophreni')"
-p18
-aS"(6, u'\\\\bcognit')"
-p19
-aS"(1, u'\\\\bmood')"
-p20
-atp21
-Rp22
+((lp11
+S"(7, u'\\\\bdepressi')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(16, u'\\\\blearning')"
+p14
+aS"(15, u'\\\\bmemory')"
+p15
+atp16
+Rp17
 sS'receptors'
-p23
+p18
 g3
-((lp24
-S'5ht7'
-p25
-aS'5ht5'
+((lp19
+(S'5ht4'
+p20
+I783
+I788
+tp21
+a(S'5ht4'
+p22
+I1414
+I1419
+tp23
+a(S'5ht4'
+p24
+I757
+I762
+tp25
+a(S'5ht4'
 p26
-aS'5ht1a'
-p27
-aS'5ht2a'
+I1291
+I1296
+tp27
+a(S'5ht4'
 p28
-atp29
-Rp30
-sS'regions'
-p31
-g3
-((lp32
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p33
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I948
+I953
+tp29
+a(S'5ht4'
+p30
+I1174
+I1179
+tp31
+a(S'5ht4'
+p32
+I499
+I504
+tp33
+a(S'5ht4'
 p34
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p35
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+I1554
+I1559
+tp35
+a(S'5ht4'
 p36
-atp37
-Rp38
-sS'year'
-p39
-V2013
+I1012
+I1017
+tp37
+atp38
+Rp39
+sS'raw_text_methods'
 p40
-sS'agonists'
-p41
 g3
-((lp42
-S"(57, u'\\\\bolanzapine')"
+((lp41
+S"(13, u'\\\\bagonist')"
+p42
+aS"(12, u'\\\\bantagonist')"
 p43
-aS"(47, u'\\\\blurasidone')"
-p44
-atp45
-Rp46
-sS'species'
-p47
+atp44
+Rp45
+sS'regions'
+p46
 g3
-((lp48
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p49
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p50
-aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+((lp47
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
 p51
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2005
 p52
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+sS'species'
 p53
-atp54
-Rp55
+g3
+((lp54
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p55
+atp56
+Rp57
 sb.

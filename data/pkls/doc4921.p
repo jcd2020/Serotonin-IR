@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,70 +10,68 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
 tp9
 Rp10
-sS'topics'
+sS'receptors'
 p11
 g3
 ((lp12
-S"(9, u'\\\\bdepress')"
+(S'5ht2c'
 p13
-aS"(10, u'\\\\banxiety')"
-p14
-atp15
-Rp16
-sS'receptors'
+I913
+I919
+tp14
+a(S'5ht2c'
+p15
+I62
+I68
+tp16
+a(S'5ht2c'
 p17
-g3
-((lp18
-S'5ht1a'
+I1330
+I1336
+tp18
+a(S'5ht2c'
 p19
-atp20
-Rp21
-sS'regions'
-p22
+I1592
+I1598
+tp20
+a(S'5ht2c'
+p21
+I1130
+I1136
+tp22
+a(S'5ht2c'
+p23
+I1477
+I1483
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp23
-S"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p24
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p25
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
-p29
-V1992
-p30
-sS'agonists'
+((lp28
+tp29
+Rp30
+sS'regions'
 p31
 g3
 ((lp32
-S"(176, u'\\\\bdom')"
-p33
-atp34
-Rp35
-sS'species'
+tp33
+Rp34
+sS'year'
+p35
+V2003
 p36
+sS'species'
+p37
 g3
-((lp37
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p38
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p39
-aS"(7424, u'(?i)\\\\b(rattuses|rattus)(-|\\\\s+)?(norvegicuses|norvegicus)\\\\b')"
-p40
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p43
-atp44
-Rp45
+((lp38
+tp39
+Rp40
 sb.

@@ -2,100 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
-p5
-aS"(128, u'\\\\bmetoclopramide')"
-p6
-aS"(125, u'\\\\btropisetron')"
-p7
-aS"(117, u'\\\\bketanserin')"
-p8
-aS"(22, u'\\\\bpropranolol')"
-p9
-aS"(203, u'\\\\btfmpp')"
-p10
-aS"(34, u'\\\\bmetergoline')"
-p11
-aS"(124, u'\\\\bondansetron')"
-p12
-aS"(33, u'\\\\byohimbine')"
-p13
-aS"(194, u'\\\\bmethysergide')"
-p14
-atp15
-Rp16
-sS'methods'
-p17
-g3
-((lp18
 S'Method.ANTAGONIST'
-p19
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(32, u'\\\\bvomit')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2c'
+p16
+I1149
+I1156
+tp17
+a(S'5ht2a'
+p18
+I1149
+I1155
+tp19
 atp20
 Rp21
-sS'topics'
+sS'raw_text_methods'
 p22
 g3
 ((lp23
-tp24
-Rp25
-sS'receptors'
-p26
-g3
-((lp27
-S'5ht4'
-p28
-aS'5ht3'
-p29
-aS'5ht2'
-p30
-aS'5ht1'
-p31
-atp32
-Rp33
+S"(12, u'\\\\bantagonist')"
+p24
+atp25
+Rp26
 sS'regions'
+p27
+g3
+((lp28
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p29
+atp30
+Rp31
+sS'year'
+p32
+V2003
+p33
+sS'species'
 p34
 g3
 ((lp35
-tp36
-Rp37
-sS'year'
-p38
-V1992
-p39
-sS'agonists'
-p40
-g3
-((lp41
-S"(53, u'\\\\bmethysergide')"
-p42
-aS"(178, u'\\\\btfmpp')"
-p43
-aS"(192, u'\\\\bquipazine')"
-p44
-aS"(25, u'\\\\bdihydroergotamine')"
-p45
-aS"(82, u'\\\\byohimbine')"
-p46
-aS"(209, u'\\\\bmetoclopramide')"
-p47
-atp48
-Rp49
-sS'species'
-p50
-g3
-((lp51
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p52
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p53
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p54
-atp55
-Rp56
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p36
+atp37
+Rp38
 sb.

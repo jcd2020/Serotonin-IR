@@ -2,68 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
 p13
 g3
 ((lp14
-S"(35, u'\\\\bstress')"
+(S'5ht2c'
 p15
-atp16
-Rp17
-sS'receptors'
-p18
+I77
+I83
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
 g3
-((lp19
-S'5ht2'
-p20
-aS'5ht2a'
+((lp20
+S"(13, u'\\\\bagonist')"
 p21
-atp22
-Rp23
-sS'regions'
+aS"(32, u'\\\\blesions')"
+p22
+aS"(43, u'\\\\bagomelatine')"
+p23
+aS"(12, u'\\\\bantagonist')"
 p24
+atp25
+Rp26
+sS'regions'
+p27
 g3
-((lp25
-tp26
-Rp27
-sS'year'
-p28
-V2013
+((lp28
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(149, u'\\\\bmem')"
+atp30
+Rp31
+sS'year'
 p32
-atp33
-Rp34
+V2008
+p33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5747, u'(?i)\\\\b(toadfish|toadfish)\\\\b')"
+((lp35
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p36
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p37
-aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sb.

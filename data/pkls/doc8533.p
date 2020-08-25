@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,62 +10,58 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(19, u'\\\\bimpulsiv')"
-p14
-aS"(20, u'\\\\baggressi')"
-p15
-atp16
-Rp17
+tp9
+Rp10
 sS'receptors'
-p18
+p11
 g3
-((lp19
-S'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp12
+(S'5ht1a'
+p13
+I1497
+I1503
+tp14
+a(S'5ht1'
+p15
+I1497
+I1503
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+S"(36, u'\\\\bbenzodiazepine')"
+p21
+aS"(18, u'\\\\bimaging')"
+p22
+aS"(54, u'\\\\bautoradiography')"
 p23
-g3
-((lp24
-S"(257, u'(?i)\\\\b(dorsolaterals|dorsolateral)(-|\\\\s+)?(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p25
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+atp24
+Rp25
+sS'regions'
 p26
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-atp28
-Rp29
+g3
+((lp27
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p28
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p30
-V2008
-p31
-sS'agonists'
 p32
-g3
-((lp33
-tp34
-Rp35
+V2009
+p33
 sS'species'
-p36
+p34
 g3
-((lp37
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p38
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p39
-atp40
-Rp41
+((lp35
+tp36
+Rp37
 sb.

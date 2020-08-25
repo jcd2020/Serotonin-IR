@@ -2,68 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+aS"(4, u'\\\\btreatment')"
 p11
-g3
-((lp12
-tp13
-Rp14
+atp12
+Rp13
 sS'receptors'
-p15
+p14
 g3
-((lp16
-S'5ht3a'
-p17
-atp18
-Rp19
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I1138
+I1144
+tp17
+a(S'5ht1a'
+p18
+I37
+I43
+tp19
+a(S'5ht1a'
 p20
-g3
-((lp21
-S"(390, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)\\\\b')"
+I1362
+I1368
+tp21
+a(S'5ht1a'
 p22
-aS"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
-p23
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I697
+I703
+tp23
+a(S'5ht1a'
 p24
-aS"(396, u'(?i)\\\\b(subventriculars|subventricular)(-|\\\\s+)?(zones|zone)\\\\b')"
-p25
+I242
+I248
+tp25
 atp26
 Rp27
-sS'year'
+sS'raw_text_methods'
 p28
-V2010
-p29
-sS'agonists'
+g3
+((lp29
+S"(24, u'\\\\bgepirone')"
 p30
+aS"(23, u'\\\\bmdl')"
+p31
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
+p35
 g3
-((lp31
-tp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p36
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+((lp36
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p37
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p38
-atp39
-Rp40
+atp38
+Rp39
+sS'year'
+p40
+V1994
+p41
+sS'species'
+p42
+g3
+((lp43
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p44
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

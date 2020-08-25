@@ -2,80 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(99, u'\\\\bsb ?242084')"
-p5
-aS"(72, u'\\\\bagomelatine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p5
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht2b'
-p21
-aS'5ht2c'
+((lp15
+(S'5ht2a'
+p16
+I1012
+I1018
+tp17
+a(S'5ht2'
+p18
+I1531
+I1536
+tp19
+a(S'5ht2a'
+p20
+I1676
+I1682
+tp21
+a(S'5ht2'
 p22
-aS'5ht2a'
-p23
-atp24
-Rp25
-sS'regions'
+I2039
+I2044
+tp23
+a(S'5ht2a'
+p24
+I1496
+I1502
+tp25
+a(S'5ht2a'
 p26
-g3
-((lp27
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
-p29
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+I751
+I757
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
-atp32
-Rp33
-sS'year'
+g3
+((lp31
+S"(1, u'\\\\bneuroimag')"
+p32
+aS"(18, u'\\\\bimaging')"
+p33
+aS"(23, u'\\\\bmdl')"
 p34
-V2014
+aS"(12, u'\\\\bantagonist')"
 p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(145, u'\\\\bly ?266097')"
+atp36
+Rp37
+sS'regions'
 p38
-atp39
-Rp40
-sS'species'
-p41
 g3
-((lp42
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+((lp39
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
 p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2013
 p44
-atp45
-Rp46
+sS'species'
+p45
+g3
+((lp46
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

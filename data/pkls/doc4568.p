@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,78 +10,71 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(5, u'\\\\btherap')"
 p9
-atp10
-Rp11
-sS'topics'
+aS"(7, u'\\\\bdepressi')"
+p10
+aS"(10, u'\\\\bocd')"
+p11
+aS"(4, u'\\\\btreatment')"
 p12
-g3
-((lp13
-S"(11, u'\\\\banxiolyt')"
-p14
-aS"(8, u'\\\\blearning')"
-p15
-aS"(9, u'\\\\bdepress')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-aS"(12, u'\\\\banxiogen')"
-p18
-atp19
-Rp20
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
-p21
+p16
 g3
-((lp22
-S'5ht2c'
-p23
+((lp17
+(S'5ht2b'
+p18
+I1598
+I1604
+tp19
+a(S'5ht2b'
+p20
+I1212
+I1218
+tp21
+a(S'5ht2'
+p22
+I43
+I48
+tp23
 atp24
 Rp25
-sS'regions'
+sS'raw_text_methods'
 p26
 g3
 ((lp27
-S"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
+S"(11, u'\\\\bfluoxetine')"
 p28
-aS"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
+aS"(38, u'\\\\bssri')"
 p29
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p30
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p31
-atp32
-Rp33
+atp30
+Rp31
+sS'regions'
+p32
+g3
+((lp33
+tp34
+Rp35
 sS'year'
-p34
-V2012
-p35
-sS'agonists'
 p36
-g3
-((lp37
-S"(161, u'\\\\bcp ?809101')"
-p38
-atp39
-Rp40
+V2012
+p37
 sS'species'
-p41
+p38
 g3
-((lp42
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p43
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p44
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p45
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p46
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p47
-atp48
-Rp49
+((lp39
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p41
+atp42
+Rp43
 sb.

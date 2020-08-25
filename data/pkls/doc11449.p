@@ -2,72 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-S"(9, u'\\\\bdepress')"
-p16
-atp17
-Rp18
+((lp8
+S"(8, u'\\\\banxi')"
+p9
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(9, u'\\\\bstress')"
+p12
+aS"(3, u'\\\\bclinical')"
+p13
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp17
+(S'5ht1b'
+p18
+I1383
+I1389
+tp19
+a(S'5ht1b'
+p20
+I1200
+I1206
+tp21
+a(S'5ht1a'
+p22
+I1050
+I1056
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-atp28
+g3
+((lp27
+tp28
 Rp29
-sS'year'
+sS'regions'
 p30
-V1999
-p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(219, u'\\\\b5 ?ct')"
+((lp31
+tp32
+Rp33
+sS'year'
 p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+V2002
 p35
-aS"(163, u'\\\\bfenfluramine')"
-p36
-atp37
-Rp38
 sS'species'
-p39
+p36
 g3
-((lp40
-tp41
-Rp42
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

@@ -2,74 +2,103 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p11
+p8
 g3
-((lp12
-tp13
-Rp14
+((lp9
+tp10
+Rp11
 sS'receptors'
-p15
+p12
 g3
-((lp16
-S'5ht1a'
-p17
-atp18
-Rp19
-sS'regions'
+((lp13
+(S'5ht7'
+p14
+I968
+I973
+tp15
+a(S'5ht7'
+p16
+I418
+I423
+tp17
+a(S'5ht6'
+p18
+I1129
+I1134
+tp19
+a(S'5ht7'
 p20
-g3
-((lp21
-S"(236, u'(?i)\\\\b(septals|septal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1493
+I1498
+tp21
+a(S'5ht7'
 p22
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p23
-aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1300
+I1305
+tp23
+a(S'5ht1a'
 p24
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p25
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+I532
+I538
+tp25
+a(S'5ht7'
 p26
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p27
-aS"(237, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(septals|septal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1738
+I1743
+tp27
+a(S'5ht1b'
 p28
-atp29
-Rp30
-sS'year'
-p31
-V1991
-p32
-sS'agonists'
-p33
+I543
+I549
+tp29
+a(S'5ht4'
+p30
+I1086
+I1091
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
+p34
 g3
-((lp34
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
-sS'species'
+((lp35
+S"(9, u'\\\\britanserin')"
+p36
+aS"(34, u'\\\\b5ct')"
+p37
+aS"(45, u'\\\\bmetergoline')"
 p38
+aS"(12, u'\\\\bantagonist')"
+p39
+atp40
+Rp41
+sS'regions'
+p42
 g3
-((lp39
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+((lp43
+tp44
+Rp45
+sS'year'
+p46
+V1999
+p47
+sS'species'
+p48
+g3
+((lp49
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

@@ -1,6 +1,8 @@
 from extraction.main import parse_receptors
 import re
 import string
+
+
 def clean(path, out_file):
     printable = string.printable
     with open(path, 'r') as f:
@@ -16,7 +18,6 @@ def clean(path, out_file):
                 res = ''.join(filter(lambda x: x in printable, res))
                 res = re.sub('[^\w\s]|_', '', res)
                 o.write(res)
-
 
 
 if __name__ == "__main__":

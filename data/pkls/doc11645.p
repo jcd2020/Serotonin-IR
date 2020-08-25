@@ -2,84 +2,114 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.STAINING'
-p10
-aS'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(33, u'\\\\blocomot')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(9, u'\\\\bstress')"
+p13
+aS"(4, u'\\\\btreatment')"
 p14
-g3
-((lp15
-S"(35, u'\\\\bstress')"
-p16
-aS"(3, u'\\\\bsleep')"
-p17
-atp18
-Rp19
+atp15
+Rp16
 sS'receptors'
-p20
+p17
 g3
-((lp21
-S'5ht3'
-p22
-atp23
-Rp24
-sS'regions'
+((lp18
+(S'5ht2c'
+p19
+I1582
+I1590
+tp20
+a(S'5ht2a'
+p21
+I1582
+I1588
+tp22
+a(S'5ht1a'
+p23
+I1522
+I1528
+tp24
+a(S'5ht5'
 p25
-g3
-((lp26
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+I2273
+I2278
+tp26
+a(S'5ht3a'
 p27
-aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p28
-aS"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
+I1646
+I1652
+tp28
+a(S'5ht5'
 p29
-aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-aS"(70, u'(?i)\\\\b(fourths|fourth)(-|\\\\s+)?(ventricles|ventricle)\\\\b')"
-p31
-atp32
-Rp33
-sS'year'
-p34
-V2015
+I551
+I556
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
+p33
+g3
+((lp34
+S"(53, u'\\\\bketanserin')"
 p35
-sS'agonists'
+aS"(41, u'\\\\bhaloperidol')"
 p36
-g3
-((lp37
-tp38
-Rp39
-sS'species'
+aS"(20, u'\\\\bondansetron')"
+p37
+aS"(5, u'\\\\bmk801')"
+p38
+aS"(13, u'\\\\bagonist')"
+p39
+aS"(11, u'\\\\bfluoxetine')"
 p40
-g3
-((lp41
-S"(4749, u'(?i)\\\\b(blues|blue)\\\\b')"
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p41
+aS"(12, u'\\\\bantagonist')"
 p42
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p43
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+atp43
+Rp44
+sS'regions'
 p45
-aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
-p46
-atp47
-Rp48
+g3
+((lp46
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p47
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
+p51
+V2018
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p55
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p56
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p57
+atp58
+Rp59
 sb.

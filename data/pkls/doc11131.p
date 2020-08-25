@@ -2,37 +2,38 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(17, u'\\\\bnan ?190')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht1a'
+p14
+I1342
+I1348
+tp15
+atp16
+Rp17
+sS'raw_text_methods'
 p18
 g3
 ((lp19
-S'5ht1a'
+S"(12, u'\\\\bantagonist')"
 p20
 atp21
 Rp22
@@ -40,32 +41,18 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
+p27
+V2005
 p28
-V1990
-p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p32
-aS"(149, u'\\\\bmem')"
-p33
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p34
-atp35
-Rp36
 sS'species'
-p37
+p29
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+((lp30
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p31
+atp32
+Rp33
 sb.

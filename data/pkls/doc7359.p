@@ -2,74 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-aS"(11, u'\\\\banxiolyt')"
-p16
-atp17
-Rp18
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I1201
+I1212
+tp17
+a(S'5ht1a'
+p18
+I753
+I764
+tp19
+a(S'5ht1a'
+p20
+I1431
+I1442
+tp21
+a(S'5ht1a'
+p22
+I849
+I860
+tp23
+a(S'5ht1a'
 p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
-p28
-V1994
-p29
-sS'agonists'
+I53
+I64
+tp25
+a(S'5ht1a'
+p26
+I710
+I721
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
 g3
 ((lp31
-S"(45, u'\\\\bipsapirone')"
+S"(19, u'\\\\bpositron emission tomography')"
 p32
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(12, u'\\\\bantagonist')"
 p33
 atp34
 Rp35
-sS'species'
+sS'regions'
 p36
 g3
 ((lp37
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p41
-atp42
-Rp43
+atp40
+Rp41
+sS'year'
+p42
+V2005
+p43
+sS'species'
+p44
+g3
+((lp45
+tp46
+Rp47
 sb.

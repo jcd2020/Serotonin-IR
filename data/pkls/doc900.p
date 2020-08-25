@@ -2,74 +2,64 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
+S'Method.IMMUNOHISTOCHEMISTRY'
+p5
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
+((lp9
+S"(9, u'\\\\bstress')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-tp15
-Rp16
-sS'receptors'
+(S'5ht1a'
+p15
+I1120
+I1125
+tp16
+a(S'5ht1a'
 p17
+I1525
+I1530
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
 g3
-((lp18
-S'5ht3'
-p19
-atp20
-Rp21
+((lp22
+tp23
+Rp24
 sS'regions'
-p22
+p25
 g3
-((lp23
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p24
-atp25
-Rp26
+((lp26
+tp27
+Rp28
 sS'year'
-p27
-V1995
-p28
-sS'agonists'
 p29
-g3
-((lp30
-S"(176, u'\\\\bdom')"
-p31
-atp32
-Rp33
+V2013
+p30
 sS'species'
-p34
+p31
 g3
-((lp35
-S"(5685, u'(?i)\\\\b(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)\\\\b')"
-p36
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-aS"(1054, u'(?i)\\\\b(homoes|homo)\\\\b')"
-p39
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+((lp32
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p33
+aS"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p34
+atp35
+Rp36
 sb.

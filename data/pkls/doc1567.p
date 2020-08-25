@@ -2,76 +2,102 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
 g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
+((lp10
+S"(3, u'\\\\bclinical')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(29, u'\\\\bsex')"
+(S'5ht3'
 p16
-aS"(16, u'\\\\bfeed')"
-p17
-atp18
-Rp19
-sS'receptors'
+I1290
+I1295
+tp17
+a(S'5ht3'
+p18
+I1609
+I1614
+tp19
+a(S'5ht3'
 p20
-g3
-((lp21
-S'5ht1a'
+I1667
+I1672
+tp21
+a(S'5ht3'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
+I1359
+I1364
+tp23
+a(S'5ht3'
+p24
+I381
+I386
+tp25
+a(S'5ht3'
+p26
+I259
+I264
 tp27
-Rp28
-sS'year'
-p29
-V2015
+a(S'5ht3'
+p28
+I99
+I104
+tp29
+a(S'5ht3'
 p30
-sS'agonists'
-p31
+I1786
+I1791
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
+p34
 g3
-((lp32
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p33
-atp34
-Rp35
-sS'species'
+((lp35
+S"(17, u'\\\\bpet')"
 p36
-g3
-((lp37
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
+p37
+aS"(23, u'\\\\bmdl')"
 p38
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+aS"(26, u'\\\\bmdl72222')"
 p39
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p40
-aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
-p41
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p42
-atp43
-Rp44
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+tp45
+Rp46
+sS'year'
+p47
+V1993
+p48
+sS'species'
+p49
+g3
+((lp50
+tp51
+Rp52
 sb.

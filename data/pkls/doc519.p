@@ -2,70 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
 p12
 g3
 ((lp13
-S"(18, u'\\\\bpsychostim')"
+(S'5ht1a'
 p14
-aS"(4, u'\\\\blocomot')"
-p15
-atp16
-Rp17
-sS'receptors'
+I339
+I350
+tp15
+a(S'5ht1a'
+p16
+I83
+I89
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht2a'
+I919
+I925
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
+I362
+I368
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp24
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p25
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp25
+S"(1, u'\\\\bneuroimag')"
 p26
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(17, u'\\\\bpet')"
 p27
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
 p28
-atp29
-Rp30
-sS'year'
-p31
-V2004
-p32
-sS'agonists'
+aS"(18, u'\\\\bimaging')"
+p29
+aS"(54, u'\\\\bautoradiography')"
+p30
+atp31
+Rp32
+sS'regions'
 p33
 g3
 ((lp34
-tp35
-Rp36
-sS'species'
+S"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
+p35
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p36
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p37
+atp38
+Rp39
+sS'year'
+p40
+V2006
+p41
+sS'species'
+p42
 g3
-((lp38
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p39
-atp40
-Rp41
+((lp43
+tp44
+Rp45
 sb.

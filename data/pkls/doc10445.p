@@ -2,76 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.AGONIST'
 p5
-aS"(125, u'\\\\btropisetron')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(12, u'\\\\bsleep')"
+p11
+aS"(5, u'\\\\btherap')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(3, u'\\\\bclinical')"
 p14
-g3
-((lp15
-tp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht5'
-p20
-aS'5ht3'
+((lp18
+(S'5ht2'
+p19
+I1586
+I1591
+tp20
+a(S'5ht1a'
 p21
-aS'5ht1a'
-p22
-aS'5ht2a'
-p23
-atp24
-Rp25
-sS'regions'
-p26
+I1520
+I1526
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp27
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+aS"(36, u'\\\\bbenzodiazepine')"
 p28
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(31, u'\\\\bbenzodiazepines')"
 p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-atp31
-Rp32
+atp30
+Rp31
+sS'regions'
+p32
+g3
+((lp33
+tp34
+Rp35
 sS'year'
-p33
-V2004
-p34
-sS'agonists'
-p35
-g3
-((lp36
-tp37
-Rp38
+p36
+V1990
+p37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+((lp39
+tp40
+Rp41
 sb.

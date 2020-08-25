@@ -1,0 +1,113 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+aS'Method.ANTAGONIST'
+p7
+atp8
+Rp9
+sS'topics'
+p10
+g3
+((lp11
+S"(31, u'\\\\brespiratory')"
+p12
+aS"(12, u'\\\\bsleep')"
+p13
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
+sS'receptors'
+p17
+g3
+((lp18
+(S'5ht3'
+p19
+I73
+I78
+tp20
+a(S'5ht3'
+p21
+I1178
+I1183
+tp22
+a(S'5ht1a'
+p23
+I892
+I898
+tp24
+a(S'5ht1a'
+p25
+I1040
+I1046
+tp26
+a(S'5ht1a'
+p27
+I1392
+I1398
+tp28
+a(S'5ht3'
+p29
+I903
+I908
+tp30
+a(S'5ht1a'
+p31
+I1471
+I1477
+tp32
+a(S'5ht1a'
+p33
+I62
+I68
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
+p37
+g3
+((lp38
+S"(13, u'\\\\bagonist')"
+p39
+aS"(15, u'\\\\b8ohdpat')"
+p40
+aS"(20, u'\\\\bondansetron')"
+p41
+aS"(12, u'\\\\bantagonist')"
+p42
+atp43
+Rp44
+sS'regions'
+p45
+g3
+((lp46
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p47
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
+p51
+V2019
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p55
+atp56
+Rp57
+sb.

@@ -1,0 +1,113 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.KNOCKOUT'
+p5
+aS'Method.ANTAGONIST'
+p6
+aS'Method.AGONIST'
+p7
+atp8
+Rp9
+sS'topics'
+p10
+g3
+((lp11
+S"(6, u'\\\\baggressi')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(33, u'\\\\blocomot')"
+p14
+atp15
+Rp16
+sS'receptors'
+p17
+g3
+((lp18
+(S'5ht2c'
+p19
+I411
+I418
+tp20
+a(S'5ht2a'
+p21
+I411
+I417
+tp22
+a(S'5ht2c'
+p23
+I1327
+I1334
+tp24
+a(S'5ht2c'
+p25
+I1590
+I1597
+tp26
+a(S'5ht2a'
+p27
+I1135
+I1141
+tp28
+a(S'5ht2c'
+p29
+I1135
+I1142
+tp30
+a(S'5ht2a'
+p31
+I1590
+I1596
+tp32
+a(S'5ht2a'
+p33
+I1327
+I1333
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
+p37
+g3
+((lp38
+S"(13, u'\\\\bagonist')"
+p39
+aS"(53, u'\\\\bketanserin')"
+p40
+aS"(40, u'\\\\bclozapine')"
+p41
+aS"(49, u'\\\\bdoi')"
+p42
+aS"(12, u'\\\\bantagonist')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+tp48
+Rp49
+sS'year'
+p50
+V2013
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p54
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p55
+atp56
+Rp57
+sb.

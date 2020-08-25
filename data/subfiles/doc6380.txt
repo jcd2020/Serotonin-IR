@@ -1,0 +1,4 @@
+Li Volsi, G., et al. (1998). "Electromyographic effects of serotonin application into the lateral vestibular nucleus." Neuroreport 9(11): 2539-2543.
+
+	Electromyographic responses (EMGs) of limb muscles were studied during microiontophoretic application of 5-hydroxytryptamine (5-HT) into the lateral vestibular nucleus (LVN) or the spinal vestibular nucleus (SpVe) of anaesthetized rats. The aim was to ascertain whether the level of 5-HT in these nuclei was able to modulate muscle responsiveness. Increased levels of 5-HT in LVN (and to a weaker extent in SpVe) enhanced the EMGs of proximal extensor muscles and depressed those of flexors. The 5-HT2A receptor antagonist ketanserin, applied into the LVN, prevented 5-HT effects on EMG-evoked responses. It is concluded that 5-HT can modulate the motor output via the vestibulospinal pathway, exerting a differential control over flexor and extensor muscles.
+

@@ -1,0 +1,114 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(14, u'\\\\bcogniti')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(9, u'\\\\bstress')"
+p14
+aS"(26, u'\\\\bbehav')"
+p15
+aS"(8, u'\\\\banxi')"
+p16
+atp17
+Rp18
+sS'receptors'
+p19
+g3
+((lp20
+(S'5ht1a'
+p21
+I1681
+I1687
+tp22
+a(S'5ht1a'
+p23
+I1372
+I1378
+tp24
+a(S'5ht1a'
+p25
+I133
+I139
+tp26
+a(S'5ht1a'
+p27
+I1988
+I1994
+tp28
+a(S'5ht1a'
+p29
+I1144
+I1150
+tp30
+a(S'5ht1a'
+p31
+I65
+I76
+tp32
+a(S'5ht1a'
+p33
+I2089
+I2095
+tp34
+a(S'5ht1a'
+p35
+I322
+I328
+tp36
+a(S'5ht1a'
+p37
+I1534
+I1540
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
+p41
+g3
+((lp42
+S"(13, u'\\\\bagonist')"
+p43
+aS"(22, u'\\\\bbuspirone')"
+p44
+atp45
+Rp46
+sS'regions'
+p47
+g3
+((lp48
+tp49
+Rp50
+sS'year'
+p51
+V2015
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p55
+atp56
+Rp57
+sb.

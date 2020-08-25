@@ -2,76 +2,83 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
-aS"(31, u'\\\\bway ?100635')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(24, u'\\\\banxiolytic')"
 p11
-aS'Method.AGONIST'
+aS"(8, u'\\\\banxi')"
 p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(10, u'\\\\banxiety')"
-p17
-atp18
-Rp19
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
 sS'receptors'
-p20
+p16
 g3
-((lp21
-S'5ht1a'
+((lp17
+(S'5ht1a'
+p18
+I1333
+I1339
+tp19
+a(S'5ht1a'
+p20
+I1147
+I1153
+tp21
+a(S'5ht1a'
 p22
-aS'5ht2a'
-p23
+I336
+I342
+tp23
 atp24
 Rp25
-sS'regions'
+sS'raw_text_methods'
 p26
 g3
 ((lp27
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p28
-aS"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
 p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(16, u'\\\\bdiazepam')"
 p30
-atp31
-Rp32
-sS'year'
-p33
-V2005
-p34
-sS'agonists'
+aS"(36, u'\\\\bbenzodiazepine')"
+p31
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
 p35
 g3
 ((lp36
 tp37
 Rp38
-sS'species'
+sS'year'
 p39
-g3
-((lp40
-S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+V1992
+p40
+sS'species'
 p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

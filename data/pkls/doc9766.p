@@ -2,88 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(133, u'\\\\bmianserin')"
+S'Method.AGONIST'
 p5
-aS"(58, u'\\\\bhaloperidol')"
-p6
-aS"(194, u'\\\\bmethysergide')"
-p7
-aS"(28, u'\\\\bspiroxatrine')"
+atp6
+Rp7
+sS'topics'
 p8
-aS"(22, u'\\\\bpropranolol')"
-p9
-atp10
+g3
+((lp9
+tp10
 Rp11
-sS'methods'
+sS'receptors'
 p12
 g3
 ((lp13
-S'Method.ANTAGONIST'
+(S'5ht1a'
 p14
-atp15
-Rp16
-sS'topics'
-p17
-g3
-((lp18
+I1926
+I1932
+tp15
+a(S'5ht1a'
+p16
+I1639
+I1645
+tp17
+a(S'5ht1a'
+p18
+I311
+I316
 tp19
-Rp20
-sS'receptors'
-p21
-g3
-((lp22
-S'5ht1b'
-p23
-aS'5ht1a'
+a(S'5ht1a'
+p20
+I74
+I80
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-aS'5ht4a'
-p25
-aS'5ht3a'
+g3
+((lp25
+S"(13, u'\\\\bagonist')"
 p26
-aS'5ht2a'
+aS"(15, u'\\\\b8ohdpat')"
 p27
-atp28
-Rp29
+aS"(3, u'\\\\bimmunoreactiv')"
+p28
+atp29
+Rp30
 sS'regions'
-p30
+p31
 g3
-((lp31
-tp32
-Rp33
+((lp32
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p33
+atp34
+Rp35
 sS'year'
-p34
-V1991
-p35
-sS'agonists'
 p36
-g3
-((lp37
-S"(20, u'\\\\bbuspirone')"
-p38
-aS"(53, u'\\\\bmethysergide')"
-p39
-aS"(67, u'\\\\bru ?24969')"
-p40
-aS"(43, u'\\\\bhaloperidol')"
-p41
-aS"(45, u'\\\\bipsapirone')"
-p42
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p43
-atp44
-Rp45
+V2008
+p37
 sS'species'
-p46
+p38
 g3
-((lp47
-S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
-p48
-atp49
-Rp50
+((lp39
+tp40
+Rp41
 sb.

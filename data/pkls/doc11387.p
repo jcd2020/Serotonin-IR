@@ -1,0 +1,114 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(1, u'\\\\bpatient')"
+p14
+aS"(4, u'\\\\btreatment')"
+p15
+atp16
+Rp17
+sS'receptors'
+p18
+g3
+((lp19
+(S'5ht2'
+p20
+I1591
+I1597
+tp21
+a(S'5ht1b'
+p22
+I1842
+I1848
+tp23
+a(S'5ht1b'
+p24
+I145
+I151
+tp25
+a(S'5ht1b'
+p26
+I2113
+I2119
+tp27
+a(S'5ht1b'
+p28
+I1575
+I1581
+tp29
+a(S'5ht2c'
+p30
+I1591
+I1597
+tp31
+a(S'5ht1b'
+p32
+I1680
+I1686
+tp33
+a(S'5ht1'
+p34
+I1575
+I1581
+tp35
+a(S'5ht1b'
+p36
+I1924
+I1930
+tp37
+atp38
+Rp39
+sS'raw_text_methods'
+p40
+g3
+((lp41
+S"(13, u'\\\\bagonist')"
+p42
+aS"(11, u'\\\\bfluoxetine')"
+p43
+aS"(38, u'\\\\bssri')"
+p44
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p45
+atp46
+Rp47
+sS'regions'
+p48
+g3
+((lp49
+tp50
+Rp51
+sS'year'
+p52
+V2015
+p53
+sS'species'
+p54
+g3
+((lp55
+tp56
+Rp57
+sb.

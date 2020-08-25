@@ -2,88 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(203, u'\\\\btfmpp')"
-p5
-aS"(34, u'\\\\bmetergoline')"
-p6
-aS"(118, u'\\\\bly ?53857')"
-p7
-aS"(117, u'\\\\bketanserin')"
-p8
-aS"(119, u'\\\\britanserin')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
 S'Method.ANTAGONIST'
-p14
+p5
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p6
+atp7
+Rp8
 sS'topics'
-p18
+p9
 g3
-((lp19
-tp20
-Rp21
+((lp10
+S"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
+p16
+I1752
+I1758
+tp17
+a(S'5ht1'
+p18
+I1513
+I1518
+tp19
+a(S'5ht7d'
+p20
+I727
+I733
+tp21
+a(S'5ht2'
 p22
-g3
-((lp23
-S'5ht7a'
+I1319
+I1324
+tp23
+a(S'5ht2a'
 p24
-aS'5ht1a'
-p25
-aS'5ht3'
+I80
+I86
+tp25
+a(S'5ht2a'
 p26
-aS'5ht2c'
-p27
-aS'5ht2a'
-p28
-atp29
-Rp30
-sS'regions'
-p31
+I1083
+I1089
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
 g3
-((lp32
-S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(53, u'\\\\bketanserin')"
 p33
-atp34
-Rp35
-sS'year'
-p36
-V1998
-p37
-sS'agonists'
+aS"(49, u'\\\\bdoi')"
+p34
+aS"(12, u'\\\\bantagonist')"
+p35
+atp36
+Rp37
+sS'regions'
 p38
 g3
 ((lp39
-S"(178, u'\\\\btfmpp')"
-p40
-aS"(192, u'\\\\bquipazine')"
-p41
-aS"(155, u'\\\\bmcpp')"
+tp40
+Rp41
+sS'year'
 p42
-aS"(175, u'\\\\bdoi')"
+V2000
 p43
-atp44
-Rp45
 sS'species'
-p46
+p44
 g3
-((lp47
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p48
-atp49
-Rp50
+((lp45
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p46
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

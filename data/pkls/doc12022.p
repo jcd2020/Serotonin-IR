@@ -2,77 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(5, u'\\\\btherap')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(4, u'\\\\blocomot')"
+(S'5ht2c'
 p15
-atp16
-Rp17
-sS'receptors'
-p18
-g3
-((lp19
-S'5ht1a'
-p20
-aS'5ht2'
+I962
+I970
+tp16
+a(S'5ht2c'
+p17
+I1659
+I1667
+tp18
+a(S'5ht2a'
+p19
+I962
+I968
+tp20
+a(S'5ht2a'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+I1659
+I1665
+tp22
+a(S'5ht2'
+p23
+I549
+I554
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2015
-p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(11, u'\\\\bamphetamine')"
+((lp28
+S"(48, u'\\\\bmdma')"
+p29
+aS"(9, u'\\\\britanserin')"
+p30
+aS"(12, u'\\\\bantagonist')"
+p31
+atp32
+Rp33
+sS'regions'
 p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-aS"(175, u'\\\\bdoi')"
+g3
+((lp35
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p36
 atp37
 Rp38
-sS'species'
+sS'year'
 p39
-g3
-((lp40
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+V1995
+p40
+sS'species'
 p41
-aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
 atp44
 Rp45

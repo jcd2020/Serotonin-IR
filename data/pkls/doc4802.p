@@ -2,63 +2,66 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
+((lp9
+S"(9, u'\\\\bstress')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-tp15
-Rp16
-sS'receptors'
-p17
-g3
-((lp18
-S'5ht1a'
+(S'5ht1a'
+p15
+I117
+I123
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
 p19
-aS'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
+g3
+((lp20
+S"(13, u'\\\\bagonist')"
+p21
+aS"(16, u'\\\\bdiazepam')"
+p22
+aS"(36, u'\\\\bbenzodiazepine')"
 p23
+aS"(22, u'\\\\bbuspirone')"
+p24
+atp25
+Rp26
+sS'regions'
+p27
 g3
-((lp24
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p25
-atp26
-Rp27
+((lp28
+tp29
+Rp30
 sS'year'
-p28
-V2010
-p29
-sS'agonists'
-p30
-g3
-((lp31
-tp32
-Rp33
+p31
+V1996
+p32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+((lp34
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p35
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
 atp37
 Rp38

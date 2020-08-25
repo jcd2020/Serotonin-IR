@@ -2,41 +2,42 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
-p5
-aS"(194, u'\\\\bmethysergide')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+tp5
+Rp6
 sS'topics'
-p15
+p7
 g3
-((lp16
-tp17
-Rp18
+((lp8
+S"(14, u'\\\\bcogniti')"
+p9
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(33, u'\\\\blocomot')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1a'
-p21
-aS'5ht1'
+((lp15
+(S'5ht1a'
+p16
+I1850
+I1856
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(32, u'\\\\blesions')"
 p22
 atp23
 Rp24
@@ -48,26 +49,16 @@ tp27
 Rp28
 sS'year'
 p29
-V1996
+V2002
 p30
-sS'agonists'
+sS'species'
 p31
 g3
 ((lp32
-S"(104, u'\\\\bdextromethorphan')"
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p33
-aS"(53, u'\\\\bmethysergide')"
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
-sS'species'
-p38
-g3
-((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+atp35
+Rp36
 sb.

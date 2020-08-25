@@ -2,74 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
+S'Method.AGONIST'
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+aS'Method.ANTAGONIST'
 p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+atp8
+Rp9
 sS'topics'
-p12
+p10
 g3
-((lp13
-S"(36, u'\\\\bcompulsiv')"
-p14
-aS"(37, u'\\\\baddict')"
-p15
-atp16
-Rp17
+((lp11
+tp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1'
+p16
+I1567
+I1572
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht3a'
+I3107
+I3113
+tp19
+a(S'5ht1a'
 p20
-aS'5ht3'
-p21
-atp22
-Rp23
-sS'regions'
+I2044
+I2050
+tp21
+a(S'5ht2c'
+p22
+I2162
+I2169
+tp23
+a(S'5ht2a'
 p24
-g3
-((lp25
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I2162
+I2168
+tp25
+a(S'5ht1a'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2014
+I2087
+I2093
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(189, u'\\\\bethanol')"
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(15, u'\\\\b8ohdpat')"
 p33
-atp34
-Rp35
-sS'species'
+aS"(3, u'\\\\bimmunoreactiv')"
+p34
+aS"(53, u'\\\\bketanserin')"
+p35
+aS"(12, u'\\\\bantagonist')"
 p36
-g3
-((lp37
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p38
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+atp37
+Rp38
+sS'regions'
 p39
-aS"(3539, u'(?i)\\\\b(barkers|barker)\\\\b')"
-p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+g3
+((lp40
+S"(14, u'(?i)\\\\b(caudals|caudal)\\\\b')"
 p41
 atp42
 Rp43
+sS'year'
+p44
+V1997
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

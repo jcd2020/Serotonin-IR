@@ -2,86 +2,101 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(198, u'\\\\bsb ?269970')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.KNOCKOUT'
+S"(1, u'\\\\bpatient')"
 p10
-aS'Method.ANTAGONIST'
+aS"(7, u'\\\\bdepressi')"
 p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(3, u'\\\\bsleep')"
-p17
-atp18
-Rp19
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I1459
+I1465
+tp17
+a(S'5ht1a'
+p18
+I1066
+I1072
+tp19
+a(S'5ht1a'
 p20
-g3
-((lp21
-S'5ht7'
+I1109
+I1115
+tp21
+a(S'5ht1a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(235, u'(?i)\\\\b(diagonals|diagonal)(-|\\\\s+)?(bands|band)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(brocas|broca)\\\\b')"
-p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I562
+I573
+tp23
+a(S'5ht1a'
+p24
+I1222
+I1228
+tp25
+a(S'5ht1'
+p26
+I1109
+I1115
+tp27
+a(S'5ht1a'
 p28
-aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
-p29
-aS"(231, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(forebrains|forebrain)\\\\b')"
-p30
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
-aS"(51, u'(?i)\\\\b(laterodorsals|laterodorsal)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I576
+I582
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
 p32
-atp33
-Rp34
-sS'year'
+g3
+((lp33
+S"(1, u'\\\\bneuroimag')"
+p34
+aS"(17, u'\\\\bpet')"
 p35
-V2014
+aS"(19, u'\\\\bpositron emission tomography')"
 p36
-sS'agonists'
+aS"(18, u'\\\\bimaging')"
 p37
-g3
-((lp38
-S"(231, u'\\\\blp ?211')"
-p39
-aS"(229, u'\\\\blp ?44')"
+atp38
+Rp39
+sS'regions'
 p40
-atp41
-Rp42
-sS'species'
-p43
 g3
-((lp44
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+((lp41
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p42
+atp43
+Rp44
+sS'year'
 p45
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+V2020
 p46
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p47
-atp48
-Rp49
+g3
+((lp48
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p49
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p50
+atp51
+Rp52
 sb.

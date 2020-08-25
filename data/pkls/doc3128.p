@@ -2,68 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.STAINING'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(31, u'\\\\brespiratory')"
+p10
+aS"(9, u'\\\\bstress')"
 p11
-g3
-((lp12
-tp13
-Rp14
+atp12
+Rp13
 sS'receptors'
-p15
+p14
 g3
-((lp16
-S'5ht2a'
-p17
-atp18
-Rp19
-sS'regions'
+((lp15
+(S'5ht2a'
+p16
+I1271
+I1277
+tp17
+a(S'5ht2a'
+p18
+I765
+I771
+tp19
+a(S'5ht2a'
 p20
-g3
-((lp21
-tp22
-Rp23
-sS'year'
-p24
-V2017
-p25
-sS'agonists'
+I127
+I133
+tp21
+a(S'5ht2a'
+p22
+I1503
+I1509
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
 g3
 ((lp27
-S"(158, u'\\\\blsd')"
-p28
-aS"(49, u'\\\\blysergic acid diethylamide')"
-p29
-atp30
-Rp31
-sS'species'
-p32
+tp28
+Rp29
+sS'regions'
+p30
 g3
-((lp33
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p34
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp31
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
+p32
+atp33
+Rp34
+sS'year'
 p35
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+V2019
 p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-atp39
-Rp40
+g3
+((lp38
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p39
+atp40
+Rp41
 sb.

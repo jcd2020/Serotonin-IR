@@ -2,66 +2,115 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(126, u'\\\\balosetron')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+aS"(3, u'\\\\bclinical')"
 p13
-g3
-((lp14
-S"(5, u'\\\\bgastrointestin')"
-p15
-aS"(21, u'\\\\bpain')"
-p16
-atp17
-Rp18
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht3'
-p21
-atp22
-Rp23
-sS'regions'
+((lp17
+(S'5ht3'
+p18
+I1946
+I1951
+tp19
+a(S'5ht1'
+p20
+I1290
+I1295
+tp21
+a(S'5ht1'
+p22
+I832
+I837
+tp23
+a(S'5ht3'
 p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
+I1470
+I1475
+tp25
+a(S'5ht3'
+p26
+I1040
+I1045
+tp27
+a(S'5ht3'
 p28
-V2015
-p29
-sS'agonists'
+I1816
+I1821
+tp29
+a(S'5ht2'
 p30
-g3
-((lp31
-tp32
-Rp33
-sS'species'
+I839
+I844
+tp31
+a(S'5ht3'
+p32
+I72
+I77
+tp33
+a(S'5ht3'
 p34
+I1440
+I1445
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
+p38
 g3
-((lp35
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p36
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p37
-atp38
-Rp39
+((lp39
+S"(13, u'\\\\bagonist')"
+p40
+aS"(3, u'\\\\bimmunoreactiv')"
+p41
+aS"(23, u'\\\\bmdl')"
+p42
+aS"(12, u'\\\\bantagonist')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p48
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p49
+atp50
+Rp51
+sS'year'
+p52
+V1991
+p53
+sS'species'
+p54
+g3
+((lp55
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p56
+atp57
+Rp58
 sb.

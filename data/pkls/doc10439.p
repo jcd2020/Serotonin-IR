@@ -2,88 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
+S'Method.KNOCKOUT'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(9, u'\\\\bdepress')"
-p16
-aS"(4, u'\\\\blocomot')"
-p17
-atp18
-Rp19
+atp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht1b'
-p22
-aS'5ht1a'
-p23
-aS'5ht2'
-p24
-atp25
-Rp26
-sS'regions'
+((lp14
+(S'5ht1a'
+p15
+I1833
+I1839
+tp16
+a(S'5ht1a'
+p17
+I1178
+I1184
+tp18
+a(S'5ht1a'
+p19
+I1514
+I1520
+tp20
+a(S'5ht1a'
+p21
+I76
+I82
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(15, u'\\\\b8ohdpat')"
 p27
-g3
-((lp28
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p29
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+atp28
+Rp29
+sS'regions'
 p30
-aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
-p31
-atp32
+g3
+((lp31
+tp32
 Rp33
 sS'year'
 p34
-V1992
+V2008
 p35
-sS'agonists'
+sS'species'
 p36
 g3
 ((lp37
-S"(11, u'\\\\bamphetamine')"
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p38
-aS"(43, u'\\\\bhaloperidol')"
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p39
 atp40
 Rp41
-sS'species'
-p42
-g3
-((lp43
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p44
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p45
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p46
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p47
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p48
-atp49
-Rp50
 sb.

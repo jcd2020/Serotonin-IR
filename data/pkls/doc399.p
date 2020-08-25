@@ -2,74 +2,66 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.STIMULATION'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(35, u'\\\\bnocicept')"
 p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+atp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht1a'
-p20
-aS'5ht2c'
+((lp14
+(S'5ht1d'
+p15
+I597
+I605
+tp16
+a(S'5ht1b'
+p17
+I597
+I603
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-atp22
-Rp23
+g3
+((lp22
+S"(47, u'\\\\bsumatriptan')"
+p23
+atp24
+Rp25
 sS'regions'
-p24
-g3
-((lp25
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p26
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-aS"(189, u'(?i)\\\\b(subthalamics|subthalamic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+g3
+((lp27
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p28
-aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'year'
+p31
+V1996
 p32
-V2014
-p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p36
-atp37
-Rp38
 sS'species'
-p39
+p33
 g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+((lp34
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

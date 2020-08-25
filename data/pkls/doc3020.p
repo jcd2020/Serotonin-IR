@@ -2,76 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-tp16
-Rp17
+((lp8
+tp9
+Rp10
 sS'receptors'
-p18
+p11
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp12
+(S'5ht1a'
+p13
+I141
+I146
+tp14
+a(S'5ht1a'
+p15
+I387
+I392
+tp16
+a(S'5ht1a'
+p17
+I1318
+I1324
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(2, u'\\\\blabeling')"
 p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
-p27
-V2012
-p28
-sS'agonists'
+aS"(18, u'\\\\bimaging')"
+p24
+aS"(51, u'\\\\bway100635')"
+p25
+aS"(37, u'\\\\bpiperazine')"
+p26
+atp27
+Rp28
+sS'regions'
 p29
 g3
 ((lp30
-S"(149, u'\\\\bmem')"
-p31
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p32
-atp33
-Rp34
+tp31
+Rp32
+sS'year'
+p33
+V2013
+p34
 sS'species'
 p35
 g3
 ((lp36
-S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p37
-aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
-p38
-aS"(73, u'(?i)\\\\b(royals|royal)\\\\b')"
-p39
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
+tp37
+Rp38
 sb.

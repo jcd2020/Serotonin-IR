@@ -2,80 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(84, u'\\\\bsb ?206553')"
-p5
-aS"(99, u'\\\\bsb ?242084')"
-p6
-aS"(110, u'\\\\bclozapine')"
-p7
-aS"(121, u'\\\\bsb ?243213')"
-p8
-aS"(58, u'\\\\bhaloperidol')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
 S'Method.ANTAGONIST'
-p14
+p5
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p6
+atp7
+Rp8
 sS'topics'
-p18
+p9
 g3
-((lp19
-tp20
-Rp21
+((lp10
+tp11
+Rp12
 sS'receptors'
-p22
+p13
 g3
-((lp23
-S'5ht2c'
-p24
-atp25
-Rp26
-sS'regions'
+((lp14
+(S'5ht3'
+p15
+I1145
+I1149
+tp16
+a(S'5ht3'
+p17
+I1034
+I1038
+tp18
+a(S'5ht3'
+p19
+I1212
+I1216
+tp20
+a(S'5ht3'
+p21
+I894
+I898
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(13, u'\\\\bagonist')"
 p27
+aS"(12, u'\\\\bantagonist')"
+p28
+atp29
+Rp30
+sS'regions'
+p31
 g3
-((lp28
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p29
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p30
-atp31
-Rp32
+((lp32
+tp33
+Rp34
 sS'year'
-p33
-V2006
-p34
-sS'agonists'
 p35
-g3
-((lp36
-S"(23, u'\\\\bclozapine')"
-p37
-aS"(43, u'\\\\bhaloperidol')"
-p38
-atp39
-Rp40
+V1997
+p36
 sS'species'
-p41
+p37
 g3
-((lp42
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+((lp38
+tp39
+Rp40
 sb.

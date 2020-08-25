@@ -2,76 +2,93 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.KNOCKOUT'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(12, u'\\\\banxiogen')"
-p15
-aS"(35, u'\\\\bstress')"
-p16
-aS"(11, u'\\\\banxiolyt')"
-p17
-aS"(10, u'\\\\banxiety')"
-p18
-atp19
-Rp20
+((lp10
+S"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p21
+p14
 g3
-((lp22
-S'5ht1a'
-p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp15
+(S'5ht1a'
+p16
+I361
+I372
+tp17
+a(S'5ht1a'
+p18
+I1206
+I1212
+tp19
+a(S'5ht1a'
+p20
+I1424
+I1430
+tp21
+a(S'5ht1a'
+p22
+I375
+I381
+tp23
+a(S'5ht1a'
+p24
+I626
+I632
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p29
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+g3
+((lp29
+S"(13, u'\\\\bagonist')"
 p30
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
 p31
-atp32
-Rp33
-sS'year'
-p34
-V2014
+aS"(54, u'\\\\bautoradiography')"
+p32
+atp33
+Rp34
+sS'regions'
 p35
-sS'agonists'
-p36
 g3
-((lp37
-S"(21, u'\\\\bcannabidiol')"
-p38
-atp39
-Rp40
-sS'species'
+((lp36
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p37
+atp38
+Rp39
+sS'year'
+p40
+V2006
 p41
+sS'species'
+p42
 g3
-((lp42
-tp43
-Rp44
+((lp43
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p44
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p45
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p46
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p47
+atp48
+Rp49
 sb.

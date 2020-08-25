@@ -1,0 +1,126 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(14, u'\\\\bcogniti')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+aS"(7, u'\\\\bdepressi')"
+p14
+aS"(15, u'\\\\bmemory')"
+p15
+aS"(16, u'\\\\blearning')"
+p16
+aS"(4, u'\\\\btreatment')"
+p17
+atp18
+Rp19
+sS'receptors'
+p20
+g3
+((lp21
+(S'5ht1a'
+p22
+I1513
+I1519
+tp23
+a(S'5ht1'
+p24
+I1994
+I1999
+tp25
+a(S'5ht1a'
+p26
+I1447
+I1453
+tp27
+a(S'5ht1'
+p28
+I1977
+I1982
+tp29
+a(S'5ht2a'
+p30
+I2001
+I2007
+tp31
+a(S'5ht1'
+p32
+I1461
+I1466
+tp33
+a(S'5ht1a'
+p34
+I1550
+I1556
+tp35
+a(S'5ht7'
+p36
+I1984
+I1989
+tp37
+a(S'5ht1a'
+p38
+I1903
+I1909
+tp39
+a(S'5ht1'
+p40
+I1447
+I1453
+tp41
+a(S'5ht2a'
+p42
+I2623
+I2629
+tp43
+atp44
+Rp45
+sS'raw_text_methods'
+p46
+g3
+((lp47
+S"(13, u'\\\\bagonist')"
+p48
+aS"(35, u'\\\\badenosine')"
+p49
+atp50
+Rp51
+sS'regions'
+p52
+g3
+((lp53
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p54
+atp55
+Rp56
+sS'year'
+p57
+V2017
+p58
+sS'species'
+p59
+g3
+((lp60
+tp61
+Rp62
+sb.

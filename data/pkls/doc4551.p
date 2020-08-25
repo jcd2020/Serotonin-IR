@@ -1,0 +1,97 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(23, u'\\\\bantipsychotic')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2c'
+p17
+I806
+I812
+tp18
+a(S'5ht2'
+p19
+I806
+I812
+tp20
+a(S'5ht2a'
+p21
+I1414
+I1420
+tp22
+a(S'5ht2a'
+p23
+I798
+I804
+tp24
+a(S'5ht1a'
+p25
+I790
+I796
+tp26
+a(S'5ht2a'
+p27
+I1222
+I1228
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
+g3
+((lp32
+S"(13, u'\\\\bagonist')"
+p33
+aS"(41, u'\\\\bhaloperidol')"
+p34
+aS"(40, u'\\\\bclozapine')"
+p35
+aS"(23, u'\\\\bmdl')"
+p36
+aS"(12, u'\\\\bantagonist')"
+p37
+atp38
+Rp39
+sS'regions'
+p40
+g3
+((lp41
+tp42
+Rp43
+sS'year'
+p44
+V2006
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
+sb.

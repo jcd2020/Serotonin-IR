@@ -2,65 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
+S'Method.STIMULATION'
+p5
+aS'Method.ANTAGONIST'
+p6
+aS'Method.AGONIST'
 p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+atp8
+Rp9
 sS'topics'
-p12
+p10
 g3
-((lp13
-S"(21, u'\\\\bpain')"
-p14
-aS"(11, u'\\\\banxiolyt')"
-p15
-aS"(10, u'\\\\banxiety')"
-p16
-atp17
-Rp18
+((lp11
+tp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht3'
-p21
-atp22
-Rp23
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I1129
+I1135
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(13, u'\\\\bagonist')"
+p22
+aS"(16, u'\\\\bdiazepam')"
+p23
+aS"(36, u'\\\\bbenzodiazepine')"
 p24
+aS"(12, u'\\\\bantagonist')"
+p25
+atp26
+Rp27
+sS'regions'
+p28
 g3
-((lp25
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
-p29
-V2011
+((lp29
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p30
-sS'agonists'
-p31
-g3
-((lp32
-tp33
-Rp34
+atp31
+Rp32
+sS'year'
+p33
+V1990
+p34
 sS'species'
 p35
 g3
 ((lp36
-S"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
 atp38
 Rp39

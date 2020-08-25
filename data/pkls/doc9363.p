@@ -2,98 +2,102 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
-p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(31, u'\\\\bway ?100635')"
-p7
-aS"(114, u'\\\\bziprasidone')"
-p8
-aS"(89, u'\\\\beltoprazine')"
-p9
-aS"(26, u'\\\\bspiperone')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
 S'Method.ANTAGONIST'
-p15
+p5
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p6
+atp7
+Rp8
 sS'topics'
-p19
+p9
 g3
-((lp20
-tp21
-Rp22
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p23
+p14
 g3
-((lp24
-S'5ht1a'
-p25
-aS'5ht1'
+((lp15
+(S'5ht1b'
+p16
+I130
+I136
+tp17
+a(S'5ht1a'
+p18
+I588
+I594
+tp19
+a(S'5ht2'
+p20
+I1504
+I1509
+tp21
+a(S'5ht1b'
+p22
+I358
+I364
+tp23
+a(S'5ht1a'
+p24
+I384
+I390
+tp25
+a(S'5ht1b'
 p26
-atp27
-Rp28
-sS'regions'
-p29
-g3
-((lp30
-S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p31
+I302
+I308
+tp27
+a(S'5ht1b'
+p28
+I559
+I565
+tp29
+a(S'5ht2'
+p30
+I1700
+I1705
+tp31
 atp32
 Rp33
-sS'year'
+sS'raw_text_methods'
 p34
-V2003
-p35
-sS'agonists'
-p36
 g3
-((lp37
-S"(20, u'\\\\bbuspirone')"
+((lp35
+S"(13, u'\\\\bagonist')"
+p36
+aS"(9, u'\\\\britanserin')"
+p37
+aS"(12, u'\\\\bantagonist')"
 p38
-aS"(39, u'\\\\bflesinoxan')"
-p39
-aS"(149, u'\\\\bmem')"
-p40
-aS"(68, u'\\\\bs ?15535')"
+atp39
+Rp40
+sS'regions'
 p41
-aS"(84, u'\\\\bziprasidone')"
-p42
-aS"(31, u'\\\\beltoprazine')"
+g3
+((lp42
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p43
-aS"(23, u'\\\\bclozapine')"
-p44
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p45
-atp46
-Rp47
+atp44
+Rp45
+sS'year'
+p46
+V1991
+p47
 sS'species'
 p48
 g3
 ((lp49
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p50
-aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
-p51
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p52
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p53
-atp54
-Rp55
+atp51
+Rp52
 sb.

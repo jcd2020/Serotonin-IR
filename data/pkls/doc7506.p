@@ -2,70 +2,63 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.STIMULATION'
 p5
-aS"(23, u'\\\\brobalzotan')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(26, u'\\\\bcardiovascular')"
-p16
-aS"(21, u'\\\\bpain')"
-p17
-aS"(24, u'\\\\banalgesi')"
-p18
-atp19
-Rp20
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht3'
+p15
+I1273
+I1277
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+S"(13, u'\\\\bagonist')"
 p21
-g3
-((lp22
-S'5ht1a'
-p23
-atp24
-Rp25
+aS"(35, u'\\\\badenosine')"
+p22
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-tp28
+((lp26
+S"(14, u'(?i)\\\\b(caudals|caudal)\\\\b')"
+p27
+atp28
 Rp29
 sS'year'
 p30
-V2009
+V2014
 p31
-sS'agonists'
+sS'species'
 p32
 g3
 ((lp33
-tp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
 sb.

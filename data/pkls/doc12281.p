@@ -1,0 +1,104 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(1, u'\\\\bpatient')"
+p12
+aS"(15, u'\\\\bmemory')"
+p13
+aS"(16, u'\\\\blearning')"
+p14
+aS"(2, u'\\\\bdisorder')"
+p15
+atp16
+Rp17
+sS'receptors'
+p18
+g3
+((lp19
+(S'5ht3'
+p20
+I911
+I916
+tp21
+a(S'5ht3'
+p22
+I654
+I659
+tp23
+a(S'5ht5'
+p24
+I211
+I221
+tp25
+a(S'5ht1'
+p26
+I325
+I330
+tp27
+a(S'5ht3'
+p28
+I670
+I675
+tp29
+a(S'5ht1'
+p30
+I710
+I715
+tp31
+a(S'5ht3'
+p32
+I791
+I796
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
+g3
+((lp37
+S"(13, u'\\\\bagonist')"
+p38
+aS"(51, u'\\\\bway100635')"
+p39
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+tp45
+Rp46
+sS'year'
+p47
+V2012
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
+sb.

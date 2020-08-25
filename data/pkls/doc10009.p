@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,60 +10,77 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.STIMULATION'
+S"(22, u'\\\\bschizophreni')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(24, u'\\\\banalgesi')"
-p14
-atp15
-Rp16
+aS"(23, u'\\\\bantipsychotic')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht7'
-p19
-atp20
-Rp21
-sS'regions'
+((lp15
+(S'5ht2'
+p16
+I1602
+I1607
+tp17
+a(S'5ht2'
+p18
+I1315
+I1320
+tp19
+a(S'5ht2'
+p20
+I786
+I791
+tp21
+a(S'5ht2a'
 p22
-g3
-((lp23
-S"(374, u'(?i)\\\\b(duras|dura)(-|\\\\s+)?(maters|mater)\\\\b')"
+I567
+I573
+tp23
+a(S'5ht2'
 p24
-aS"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
-p25
+I716
+I721
+tp25
 atp26
 Rp27
-sS'year'
+sS'raw_text_methods'
 p28
-V2017
-p29
-sS'agonists'
-p30
 g3
-((lp31
-tp32
+((lp29
+S"(41, u'\\\\bhaloperidol')"
+p30
+aS"(40, u'\\\\bclozapine')"
+p31
+atp32
 Rp33
-sS'species'
+sS'regions'
 p34
 g3
 ((lp35
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p36
-aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
-p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+tp36
+Rp37
+sS'year'
 p38
-atp39
-Rp40
+V1995
+p39
+sS'species'
+p40
+g3
+((lp41
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p42
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

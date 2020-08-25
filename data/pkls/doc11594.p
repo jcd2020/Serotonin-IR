@@ -2,78 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-tp16
-Rp17
+((lp10
+tp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht1b'
-p20
-aS'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
-p24
+((lp14
+(S'5ht1a'
+p15
+I89
+I95
+tp16
+a(S'5ht1a'
+p17
+I695
+I701
+tp18
+a(S'5ht1a'
+p19
+I868
+I874
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp25
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(15, u'\\\\b8ohdpat')"
 p26
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p27
 atp28
 Rp29
-sS'year'
+sS'regions'
 p30
-V2004
-p31
-sS'agonists'
+g3
+((lp31
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
 p32
-g3
-((lp33
-tp34
-Rp35
-sS'species'
+atp33
+Rp34
+sS'year'
+p35
+V1995
 p36
+sS'species'
+p37
 g3
-((lp37
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p38
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p42
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p43
-atp44
-Rp45
+atp40
+Rp41
 sb.

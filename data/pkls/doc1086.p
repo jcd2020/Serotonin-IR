@@ -2,70 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(30, u'\\\\bway ?100135')"
+S'Method.ANTAGONIST'
 p5
-aS"(31, u'\\\\bway ?100635')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(5, u'\\\\btherap')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(12, u'\\\\banxiogen')"
+(S'5ht2'
 p16
-aS"(10, u'\\\\banxiety')"
-p17
-atp18
-Rp19
-sS'receptors'
+I1105
+I1110
+tp17
+a(S'5ht1c'
+p18
+I1472
+I1478
+tp19
+a(S'5ht2'
 p20
-g3
-((lp21
-S'5ht1a'
+I551
+I556
+tp21
+a(S'5ht3'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
+I1156
+I1161
+tp23
+a(S'5ht1'
+p24
+I357
+I362
+tp25
+a(S'5ht1c'
+p26
+I1395
+I1401
 tp27
-Rp28
-sS'year'
-p29
-V1995
+atp28
+Rp29
+sS'raw_text_methods'
 p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(85, u'\\\\b8 ?oh ?dpat')"
+((lp31
+S"(53, u'\\\\bketanserin')"
+p32
+aS"(13, u'\\\\bagonist')"
 p33
-atp34
-Rp35
-sS'species'
+aS"(47, u'\\\\bsumatriptan')"
+p34
+aS"(46, u'\\\\bspiperone')"
+p35
+aS"(9, u'\\\\britanserin')"
 p36
+aS"(12, u'\\\\bantagonist')"
+p37
+atp38
+Rp39
+sS'regions'
+p40
 g3
-((lp37
-S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+((lp41
+tp42
+Rp43
+sS'year'
+p44
+V1993
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

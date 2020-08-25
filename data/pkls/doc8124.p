@@ -2,74 +2,92 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-S"(35, u'\\\\bstress')"
-p14
-aS"(11, u'\\\\banxiolyt')"
-p15
-aS"(10, u'\\\\banxiety')"
-p16
-atp17
-Rp18
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2c'
+p17
+I695
+I700
+tp18
+a(S'5ht2c'
 p19
-g3
-((lp20
-S'5ht2b'
+I361
+I366
+tp20
+a(S'5ht2c'
 p21
-aS'5ht2c'
-p22
-aS'5ht2'
+I970
+I975
+tp22
+a(S'5ht2c'
 p23
-aS'5ht2a'
-p24
-atp25
-Rp26
-sS'regions'
+I45
+I50
+tp24
+a(S'5ht5'
+p25
+I206
+I216
+tp26
+a(S'5ht2c'
 p27
-g3
-((lp28
-tp29
+I287
+I292
+tp28
+atp29
 Rp30
-sS'year'
+sS'raw_text_methods'
 p31
-V2007
-p32
-sS'agonists'
+g3
+((lp32
+S"(11, u'\\\\bfluoxetine')"
 p33
+aS"(12, u'\\\\bantagonist')"
+p34
+atp35
+Rp36
+sS'regions'
+p37
 g3
-((lp34
-S"(140, u'\\\\bbw ?723c86')"
-p35
-aS"(175, u'\\\\bdoi')"
-p36
-atp37
-Rp38
-sS'species'
+((lp38
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p39
+atp40
+Rp41
+sS'year'
+p42
+V1997
+p43
+sS'species'
+p44
 g3
-((lp40
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p41
-atp42
-Rp43
+((lp45
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

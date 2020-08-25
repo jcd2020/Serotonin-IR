@@ -2,64 +2,86 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
 p11
-g3
-((lp12
-S"(6, u'\\\\bcognit')"
+aS"(8, u'\\\\banxi')"
+p12
+aS"(26, u'\\\\bbehav')"
 p13
-aS"(9, u'\\\\bdepress')"
+aS"(9, u'\\\\bstress')"
 p14
-aS"(10, u'\\\\banxiety')"
-p15
-atp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
+((lp18
+(S'5ht2'
+p19
+I1138
+I1143
 tp20
-Rp21
-sS'regions'
-p22
+a(S'5ht1a'
+p21
+I918
+I924
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp23
-tp24
-Rp25
-sS'year'
-p26
-V2006
+((lp26
+S"(53, u'\\\\bketanserin')"
 p27
-sS'agonists'
+aS"(21, u'\\\\bipsapirone')"
 p28
-g3
-((lp29
-tp30
-Rp31
-sS'species'
+aS"(16, u'\\\\bdiazepam')"
+p29
+aS"(32, u'\\\\blesions')"
+p30
+aS"(13, u'\\\\bagonist')"
+p31
+aS"(12, u'\\\\bantagonist')"
 p32
-g3
-((lp33
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p34
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+atp33
+Rp34
+sS'regions'
 p35
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p36
-atp37
-Rp38
+g3
+((lp36
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p37
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
+p41
+V1996
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

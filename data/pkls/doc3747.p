@@ -2,94 +2,110 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
 p11
-g3
-((lp12
-S"(15, u'\\\\bschizophreni')"
-p13
-aS"(1, u'\\\\bmood')"
-p14
-aS"(9, u'\\\\bdepress')"
-p15
-aS"(7, u'\\\\bmemory')"
-p16
-aS"(29, u'\\\\bsex')"
-p17
-aS"(16, u'\\\\bfeed')"
-p18
-aS"(33, u'\\\\balzheimers')"
-p19
-aS"(6, u'\\\\bcognit')"
-p20
-atp21
-Rp22
+atp12
+Rp13
 sS'receptors'
-p23
+p14
 g3
-((lp24
-S'5ht2a'
-p25
-atp26
-Rp27
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I665
+I671
+tp17
+a(S'5ht1a'
+p18
+I1719
+I1725
+tp19
+a(S'5ht1a'
+p20
+I1866
+I1872
+tp21
+a(S'5ht1a'
+p22
+I565
+I571
+tp23
+a(S'5ht1a'
+p24
+I486
+I492
+tp25
+a(S'5ht1a'
+p26
+I1227
+I1233
+tp27
+a(S'5ht1a'
 p28
-g3
-((lp29
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I93
+I99
+tp29
+a(S'5ht1a'
 p30
-aS"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p31
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p32
-aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p33
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I207
+I213
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
-atp35
-Rp36
-sS'year'
-p37
-V1998
-p38
-sS'agonists'
-p39
 g3
-((lp40
-S"(149, u'\\\\bmem')"
+((lp35
+S"(21, u'\\\\bipsapirone')"
+p36
+aS"(22, u'\\\\bbuspirone')"
+p37
+aS"(15, u'\\\\b8ohdpat')"
+p38
+aS"(13, u'\\\\bagonist')"
+p39
+aS"(4, u'\\\\bpcpa')"
+p40
+aS"(24, u'\\\\bgepirone')"
 p41
 atp42
 Rp43
-sS'species'
+sS'regions'
 p44
 g3
 ((lp45
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p46
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p47
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p48
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p49
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+atp48
+Rp49
+sS'year'
 p50
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+V1988
 p51
-atp52
-Rp53
+sS'species'
+p52
+g3
+((lp53
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p54
+atp55
+Rp56
 sb.

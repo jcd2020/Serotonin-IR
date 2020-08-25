@@ -2,41 +2,42 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.KNOCKOUT'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p11
+p9
 g3
-((lp12
-S"(36, u'\\\\bcompulsiv')"
-p13
-aS"(15, u'\\\\bschizophreni')"
-p14
-aS"(4, u'\\\\blocomot')"
-p15
-atp16
-Rp17
+((lp10
+tp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht5'
-p20
-aS'5ht1a'
+((lp14
+(S'5ht1a'
+p15
+I1752
+I1758
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+S"(13, u'\\\\bagonist')"
 p21
-aS'5ht2a'
+aS"(15, u'\\\\b8ohdpat')"
 p22
 atp23
 Rp24
@@ -44,28 +45,24 @@ sS'regions'
 p25
 g3
 ((lp26
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p27
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+aS"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
 p28
 atp29
 Rp30
 sS'year'
 p31
-V2017
+V2002
 p32
-sS'agonists'
+sS'species'
 p33
 g3
 ((lp34
-tp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p35
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p36
+atp37
+Rp38
 sb.

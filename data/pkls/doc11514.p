@@ -2,70 +2,126 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(52, u'\\\\bmdl ?100907')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(16, u'\\\\blearning')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(15, u'\\\\bschizophreni')"
-p15
-atp16
-Rp17
+aS"(15, u'\\\\bmemory')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht4e'
+p16
+I559
+I565
+tp17
+a(S'5ht4e'
 p18
-g3
-((lp19
-S'5ht2a'
+I1583
+I1589
+tp19
+a(S'5ht4a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p25
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1768
+I1774
+tp21
+a(S'5ht4b'
+p22
+I545
+I551
+tp23
+a(S'5ht4'
+p24
+I214
+I219
+tp25
+a(S'5ht4'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V1998
+I41
+I46
+tp27
+a(S'5ht4a'
+p28
+I1570
+I1576
+tp29
+a(S'5ht4'
 p30
-sS'agonists'
-p31
-g3
-((lp32
+I760
+I765
+tp31
+a(S'5ht4b'
+p32
+I1797
+I1803
 tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p37
-aS"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
+a(S'5ht4'
+p34
+I545
+I551
+tp35
+a(S'5ht4a'
+p36
+I535
+I541
+tp37
+a(S'5ht4b'
 p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
+I1414
+I1420
+tp39
 atp40
 Rp41
+sS'raw_text_methods'
+p42
+g3
+((lp43
+S"(32, u'\\\\blesions')"
+p44
+aS"(12, u'\\\\bantagonist')"
+p45
+atp46
+Rp47
+sS'regions'
+p48
+g3
+((lp49
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p50
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p51
+aS"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
+p52
+atp53
+Rp54
+sS'year'
+p55
+V2005
+p56
+sS'species'
+p57
+g3
+((lp58
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p59
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p60
+atp61
+Rp62
 sb.

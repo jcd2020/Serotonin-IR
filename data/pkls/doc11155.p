@@ -2,72 +2,99 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
 p11
-g3
-((lp12
-S"(9, u'\\\\bdepress')"
-p13
-aS"(10, u'\\\\banxiety')"
-p14
-atp15
-Rp16
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht1b'
-p19
-aS'5ht1a'
+((lp15
+(S'5ht1'
+p16
+I1552
+I1557
+tp17
+a(S'5ht2'
+p18
+I1322
+I1327
+tp19
+a(S'5ht1a'
 p20
-aS'5ht5'
-p21
-atp22
-Rp23
-sS'regions'
+I1562
+I1568
+tp21
+a(S'5ht2'
+p22
+I652
+I657
+tp23
+a(S'5ht1a'
 p24
-g3
-((lp25
-S"(2, u'(?i)\\\\b(medullas|medulla)(-|\\\\s+)?(oblongatas|oblongata)\\\\b')"
+I1714
+I1720
+tp25
+a(S'5ht2'
 p26
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p27
-aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
+I1003
+I1008
+tp27
+a(S'5ht2'
 p28
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
+I531
+I536
+tp29
 atp30
 Rp31
-sS'year'
+sS'raw_text_methods'
 p32
-V2010
-p33
-sS'agonists'
+g3
+((lp33
+S"(13, u'\\\\bagonist')"
 p34
-g3
-((lp35
-tp36
-Rp37
-sS'species'
+aS"(41, u'\\\\bhaloperidol')"
+p35
+aS"(46, u'\\\\bspiperone')"
+p36
+aS"(53, u'\\\\bketanserin')"
+p37
+aS"(12, u'\\\\bantagonist')"
 p38
+atp39
+Rp40
+sS'regions'
+p41
 g3
-((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+((lp42
+tp43
+Rp44
+sS'year'
+p45
+V1985
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

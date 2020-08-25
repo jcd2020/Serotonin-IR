@@ -2,74 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(18, u'\\\\bavoidan')"
+p10
+aS"(30, u'\\\\bpain')"
+p11
+aS"(33, u'\\\\blocomot')"
 p12
-g3
-((lp13
-S"(37, u'\\\\baddict')"
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(9, u'\\\\bstress')"
 p14
-aS"(15, u'\\\\bschizophreni')"
-p15
-aS"(9, u'\\\\bdepress')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-aS"(20, u'\\\\baggressi')"
-p18
-atp19
-Rp20
+atp15
+Rp16
 sS'receptors'
-p21
+p17
 g3
-((lp22
-S'5ht1a'
+((lp18
+(S'5ht1a'
+p19
+I784
+I790
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-aS'5ht2a'
-p24
-atp25
-Rp26
+g3
+((lp24
+S"(12, u'\\\\bantagonist')"
+p25
+atp26
+Rp27
 sS'regions'
-p27
+p28
 g3
-((lp28
-tp29
-Rp30
-sS'year'
+((lp29
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p30
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p31
-V2010
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(149, u'\\\\bmem')"
+atp32
+Rp33
+sS'year'
+p34
+V2013
 p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p36
-atp37
-Rp38
 sS'species'
-p39
+p36
 g3
-((lp40
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p41
-atp42
-Rp43
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

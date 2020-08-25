@@ -2,49 +2,51 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
+S'Method.AGONIST'
 p5
-aS"(20, u'\\\\bpindobind')"
-p6
-aS"(22, u'\\\\bpropranolol')"
-p7
-aS"(30, u'\\\\bway ?100135')"
+atp6
+Rp7
+sS'topics'
 p8
-aS"(17, u'\\\\bnan ?190')"
-p9
-aS"(26, u'\\\\bspiperone')"
+g3
+((lp9
+S"(5, u'\\\\btherap')"
 p10
-aS"(119, u'\\\\britanserin')"
+aS"(7, u'\\\\bdepressi')"
 p11
 atp12
 Rp13
-sS'methods'
+sS'receptors'
 p14
 g3
 ((lp15
-S'Method.ANTAGONIST'
+(S'5ht1d'
 p16
-atp17
-Rp18
-sS'topics'
-p19
+I504
+I512
+tp17
+a(S'5ht1b'
+p18
+I504
+I510
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
 g3
-((lp20
-tp21
-Rp22
-sS'receptors'
-p23
-g3
-((lp24
-S'5ht1a'
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+aS"(27, u'\\\\blsd')"
 p25
-aS'5ht1'
+aS"(47, u'\\\\bsumatriptan')"
 p26
 atp27
 Rp28
@@ -52,32 +54,18 @@ sS'regions'
 p29
 g3
 ((lp30
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p31
-atp32
-Rp33
+tp31
+Rp32
 sS'year'
+p33
+V2000
 p34
-V1996
-p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(20, u'\\\\bbuspirone')"
-p38
-aS"(149, u'\\\\bmem')"
-p39
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p40
-atp41
-Rp42
 sS'species'
-p43
+p35
 g3
-((lp44
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-atp46
-Rp47
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

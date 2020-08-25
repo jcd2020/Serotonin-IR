@@ -2,78 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(35, u'\\\\bstress')"
-p16
-atp17
-Rp18
+tp10
+Rp11
 sS'receptors'
-p19
+p12
 g3
-((lp20
-S'5ht2a'
-p21
-atp22
-Rp23
+((lp13
+(S'5ht1a'
+p14
+I2768
+I2774
+tp15
+a(S'5ht1a'
+p16
+I64
+I70
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(54, u'\\\\bautoradiography')"
+p22
+aS"(12, u'\\\\bantagonist')"
+p23
+atp24
+Rp25
 sS'regions'
-p24
+p26
 g3
-((lp25
-tp26
-Rp27
-sS'year'
+((lp27
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p28
-V2002
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(175, u'\\\\bdoi')"
+atp30
+Rp31
+sS'year'
 p32
-aS"(11, u'\\\\bamphetamine')"
+V1999
 p33
-aS"(43, u'\\\\bhaloperidol')"
-p34
-atp35
-Rp36
 sS'species'
-p37
+p34
 g3
-((lp38
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p39
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
-p42
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p43
-atp44
-Rp45
+((lp35
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

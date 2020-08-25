@@ -2,68 +2,61 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\bzacopride')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-tp16
-Rp17
+((lp8
+S"(33, u'\\\\blocomot')"
+p9
+atp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht1a'
+p14
+I746
+I752
+tp15
+atp16
+Rp17
+sS'raw_text_methods'
 p18
 g3
 ((lp19
-S'5ht3'
+S"(46, u'\\\\bspiperone')"
 p20
-atp21
-Rp22
+aS"(3, u'\\\\bimmunoreactiv')"
+p21
+aS"(17, u'\\\\bpet')"
+p22
+atp23
+Rp24
 sS'regions'
-p23
+p25
 g3
-((lp24
-tp25
-Rp26
-sS'year'
+((lp26
+S"(14, u'(?i)\\\\b(caudals|caudal)\\\\b')"
 p27
+atp28
+Rp29
+sS'year'
+p30
 V2000
-p28
-sS'agonists'
-p29
-g3
-((lp30
-S"(208, u'\\\\bzacopride')"
 p31
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
-p32
-aS"(189, u'\\\\bethanol')"
-p33
-atp34
-Rp35
 sS'species'
-p36
+p32
 g3
-((lp37
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p38
-atp39
-Rp40
+((lp33
+tp34
+Rp35
 sb.

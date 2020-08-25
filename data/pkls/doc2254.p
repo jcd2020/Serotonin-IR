@@ -2,37 +2,38 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
 p12
 g3
 ((lp13
-S"(9, u'\\\\bdepress')"
+(S'5ht2c'
 p14
-aS"(34, u'\\\\bdementia')"
-p15
+I1081
+I1092
+tp15
 atp16
 Rp17
-sS'receptors'
+sS'raw_text_methods'
 p18
 g3
 ((lp19
-S'5ht2a'
+S"(12, u'\\\\bantagonist')"
 p20
 atp21
 Rp22
@@ -40,30 +41,18 @@ sS'regions'
 p23
 g3
 ((lp24
-S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
-p25
-atp26
-Rp27
+tp25
+Rp26
 sS'year'
+p27
+V2004
 p28
-V2009
-p29
-sS'agonists'
-p30
-g3
-((lp31
-tp32
-Rp33
 sS'species'
-p34
+p29
 g3
-((lp35
-S"(4096, u'(?i)\\\\b(chows|chow)\\\\b')"
-p36
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p37
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p38
-atp39
-Rp40
+((lp30
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p31
+atp32
+Rp33
 sb.

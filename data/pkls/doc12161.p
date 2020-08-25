@@ -2,84 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
-p5
-aS"(14, u'\\\\bmethiothepin')"
-p6
-aS"(21, u'\\\\bpindolol')"
-p7
-aS"(31, u'\\\\bway ?100635')"
-p8
-aS"(16, u'\\\\bnad ?299')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
 S'Method.ANTAGONIST'
-p14
+p5
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p6
+atp7
+Rp8
 sS'topics'
-p18
+p9
 g3
-((lp19
-tp20
-Rp21
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I1213
+I1219
+tp17
+a(S'5ht1a'
+p18
+I172
+I178
+tp19
+a(S'5ht1a'
+p20
+I1503
+I1509
+tp21
+a(S'5ht1'
 p22
-g3
-((lp23
-S'5ht1a'
+I1085
+I1090
+tp23
+a(S'5ht1a'
 p24
-atp25
-Rp26
-sS'regions'
-p27
+I60
+I66
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
 g3
-((lp28
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p29
-aS"(84, u'(?i)\\\\b(mesencephalons|mesencephalon)\\\\b')"
+((lp29
+S"(13, u'\\\\bagonist')"
 p30
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
 p31
-atp32
-Rp33
-sS'year'
-p34
-V1998
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
 p35
-sS'agonists'
-p36
 g3
-((lp37
-S"(20, u'\\\\bbuspirone')"
-p38
-aS"(45, u'\\\\bipsapirone')"
-p39
-aS"(39, u'\\\\bflesinoxan')"
+((lp36
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p37
+atp38
+Rp39
+sS'year'
 p40
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+V1994
 p41
-atp42
-Rp43
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p46
-atp47
-Rp48
+((lp43
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p44
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p45
+atp46
+Rp47
 sb.

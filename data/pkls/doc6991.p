@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,64 +10,63 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-tp14
-Rp15
+tp9
+Rp10
 sS'receptors'
-p16
+p11
 g3
-((lp17
-S'5ht1a'
-p18
-aS'5ht2c'
-p19
-aS'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp12
+(S'5ht1a'
+p13
+I329
+I335
+tp14
+a(S'5ht2'
+p15
+I841
+I846
+tp16
+a(S'5ht2'
+p17
+I340
+I345
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(53, u'\\\\bketanserin')"
 p23
+aS"(15, u'\\\\b8ohdpat')"
+p24
+atp25
+Rp26
+sS'regions'
+p27
 g3
-((lp24
-S"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
-p28
-V2010
+((lp28
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p29
-sS'agonists'
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p30
-g3
-((lp31
-tp32
-Rp33
-sS'species'
+atp31
+Rp32
+sS'year'
+p33
+V1990
 p34
+sS'species'
+p35
 g3
-((lp35
-S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p36
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p38
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-atp41
-Rp42
+atp38
+Rp39
 sb.

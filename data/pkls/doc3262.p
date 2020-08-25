@@ -2,104 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(5, u'\\\\bcyanopindolol')"
-p5
-aS"(14, u'\\\\bmethiothepin')"
-p6
-aS"(21, u'\\\\bpindolol')"
-p7
-aS"(117, u'\\\\bketanserin')"
-p8
-aS"(194, u'\\\\bmethysergide')"
-p9
-aS"(34, u'\\\\bmetergoline')"
-p10
-aS"(26, u'\\\\bspiperone')"
-p11
-atp12
-Rp13
-sS'methods'
-p14
-g3
-((lp15
 S'Method.ANTAGONIST'
-p16
+p5
 aS'Method.AGONIST'
-p17
-atp18
-Rp19
+p6
+atp7
+Rp8
 sS'topics'
-p20
+p9
 g3
-((lp21
-S"(11, u'\\\\banxiolyt')"
-p22
-atp23
-Rp24
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+aS"(29, u'\\\\bhyperactiv')"
+p13
+aS"(26, u'\\\\bbehav')"
+p14
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1a'
+p19
+I1817
+I1823
+tp20
+a(S'5ht1'
+p21
+I79
+I84
+tp22
+a(S'5ht1'
+p23
+I346
+I351
+tp24
+a(S'5ht1a'
 p25
-g3
-((lp26
-S'5ht3'
+I911
+I917
+tp26
+a(S'5ht1b'
 p27
-aS'5ht5'
-p28
-aS'5ht5c'
+I1400
+I1406
+tp28
+a(S'5ht1a'
 p29
-aS'5ht1a'
-p30
-aS'5ht2a'
-p31
-atp32
-Rp33
-sS'regions'
-p34
+I1325
+I1331
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
+p33
 g3
-((lp35
-tp36
-Rp37
-sS'year'
-p38
-V1988
-p39
-sS'agonists'
+((lp34
+S"(13, u'\\\\bagonist')"
+p35
+aS"(15, u'\\\\b8ohdpat')"
+p36
+aS"(12, u'\\\\bantagonist')"
+p37
+atp38
+Rp39
+sS'regions'
 p40
 g3
 ((lp41
-S"(20, u'\\\\bbuspirone')"
-p42
-aS"(220, u'\\\\b5 ?methoxytryptamine')"
-p43
-aS"(19, u'\\\\bbufotenin')"
+tp42
+Rp43
+sS'year'
 p44
-aS"(53, u'\\\\bmethysergide')"
+V1996
 p45
-aS"(235, u'\\\\bnn ?dimethyltryptamine')"
-p46
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p47
-aS"(67, u'\\\\bru ?24969')"
-p48
-aS"(45, u'\\\\bipsapirone')"
-p49
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p50
-aS"(219, u'\\\\b5 ?ct')"
-p51
-atp52
-Rp53
 sS'species'
-p54
+p46
 g3
-((lp55
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p56
-atp57
-Rp58
+((lp47
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

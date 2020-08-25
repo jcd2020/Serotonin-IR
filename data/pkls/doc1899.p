@@ -2,62 +2,88 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.KNOCKOUT'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(6, u'\\\\baggressi')"
 p11
-g3
-((lp12
-tp13
-Rp14
-sS'receptors'
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(25, u'\\\\bsocial')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(2, u'\\\\bdisorder')"
 p15
+atp16
+Rp17
+sS'receptors'
+p18
 g3
-((lp16
-S'5ht2a'
-p17
-atp18
-Rp19
-sS'regions'
+((lp19
+(S'5ht1b'
 p20
-g3
-((lp21
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I778
+I784
+tp21
+a(S'5ht1b'
 p22
-aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p23
-atp24
-Rp25
-sS'year'
+I567
+I573
+tp23
+a(S'5ht1a'
+p24
+I767
+I773
+tp25
+a(S'5ht1a'
 p26
-V2003
-p27
-sS'agonists'
-p28
-g3
-((lp29
-S"(149, u'\\\\bmem')"
+I556
+I562
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
-atp31
-Rp32
-sS'species'
-p33
 g3
-((lp34
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+atp33
+Rp34
+sS'regions'
 p35
-atp36
-Rp37
+g3
+((lp36
+tp37
+Rp38
+sS'year'
+p39
+V2003
+p40
+sS'species'
+p41
+g3
+((lp42
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p43
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p44
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p45
+atp46
+Rp47
 sb.

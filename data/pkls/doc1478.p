@@ -2,68 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(131, u'\\\\bm1')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(24, u'\\\\banxiolytic')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(14, u'\\\\bcogniti')"
+p11
+aS"(16, u'\\\\blearning')"
+p12
+aS"(35, u'\\\\bnocicept')"
 p13
-g3
-((lp14
-S"(33, u'\\\\balzheimers')"
+aS"(13, u'\\\\bantidepress')"
+p14
+aS"(9, u'\\\\bstress')"
 p15
-aS"(34, u'\\\\bdementia')"
+aS"(26, u'\\\\bbehav')"
 p16
-atp17
-Rp18
+aS"(30, u'\\\\bpain')"
+p17
+aS"(8, u'\\\\banxi')"
+p18
+atp19
+Rp20
 sS'receptors'
-p19
-g3
-((lp20
-S'5ht1a'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
 g3
-((lp26
-tp27
-Rp28
-sS'year'
+((lp22
+(S'5ht1a'
+p23
+I562
+I568
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
+g3
+((lp28
+S"(13, u'\\\\bagonist')"
 p29
-V2008
+aS"(11, u'\\\\bfluoxetine')"
 p30
-sS'agonists'
+aS"(22, u'\\\\bbuspirone')"
 p31
+atp32
+Rp33
+sS'regions'
+p34
 g3
-((lp32
-tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(6127, u'(?i)\\\\b(chats|chat)\\\\b')"
-p37
-aS"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
+((lp35
+tp36
+Rp37
+sS'year'
 p38
-atp39
-Rp40
+V2020
+p39
+sS'species'
+p40
+g3
+((lp41
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p42
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

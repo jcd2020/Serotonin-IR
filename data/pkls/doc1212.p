@@ -2,70 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(41, u'\\\\bbrl ?15572')"
+S'Method.AGONIST'
 p5
-aS"(17, u'\\\\bnan ?190')"
-p6
-aS"(11, u'\\\\bisamoltane')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(3, u'\\\\bclinical')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1b'
-p21
-aS'5ht1a'
+((lp15
+(S'5ht1a'
+p16
+I261
+I267
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(13, u'\\\\bagonist')"
 p22
-aS'5ht1d'
+aS"(15, u'\\\\b8ohdpat')"
 p23
-atp24
-Rp25
+aS"(11, u'\\\\bfluoxetine')"
+p24
+atp25
+Rp26
 sS'regions'
-p26
+p27
 g3
-((lp27
-tp28
-Rp29
+((lp28
+tp29
+Rp30
 sS'year'
-p30
-V2015
 p31
-sS'agonists'
+V2001
 p32
-g3
-((lp33
-S"(96, u'\\\\bsumatriptan')"
-p34
-atp35
-Rp36
 sS'species'
-p37
+p33
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+((lp34
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

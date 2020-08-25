@@ -2,80 +2,86 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(133, u'\\\\bmianserin')"
+S'Method.AGONIST'
 p5
-aS"(106, u'\\\\bdoxepin')"
-p6
-aS"(104, u'\\\\bimipramine')"
-p7
-aS"(102, u'\\\\bamitriptyline')"
-p8
-aS"(107, u'\\\\bamoxapine')"
-p9
-aS"(48, u'\\\\btrazodone')"
-p10
-aS"(192, u'\\\\bmaprotiline')"
-p11
-aS"(91, u'\\\\bfluoxetine')"
-p12
-aS"(103, u'\\\\bclomipramine')"
-p13
-aS"(105, u'\\\\bnortriptyline')"
-p14
-atp15
-Rp16
-sS'methods'
-p17
-g3
-((lp18
-S'Method.ANTAGONIST'
-p19
-aS'Method.AGONIST'
-p20
-atp21
-Rp22
+atp6
+Rp7
 sS'topics'
-p23
+p8
 g3
-((lp24
-tp25
-Rp26
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I346
+I352
+tp18
+a(S'5ht1a'
+p19
+I1655
+I1661
+tp20
+a(S'5ht1a'
+p21
+I1126
+I1132
+tp22
+a(S'5ht1a'
+p23
+I120
+I126
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
 g3
 ((lp28
-S'5ht1c'
+S"(13, u'\\\\bagonist')"
 p29
-atp30
-Rp31
-sS'regions'
+aS"(15, u'\\\\b8ohdpat')"
+p30
+aS"(16, u'\\\\bdiazepam')"
+p31
+aS"(36, u'\\\\bbenzodiazepine')"
 p32
+atp33
+Rp34
+sS'regions'
+p35
 g3
-((lp33
-tp34
-Rp35
+((lp36
+tp37
+Rp38
 sS'year'
-p36
-V1994
-p37
-sS'agonists'
-p38
-g3
-((lp39
-S"(75, u'\\\\btrazodone')"
+p39
+V2009
 p40
-atp41
-Rp42
 sS'species'
-p43
+p41
 g3
-((lp44
-tp45
+((lp42
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p43
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
 Rp46
 sb.

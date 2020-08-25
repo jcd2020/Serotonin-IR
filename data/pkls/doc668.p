@@ -2,78 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+tp5
+Rp6
 sS'topics'
-p13
+p7
 g3
-((lp14
-S"(3, u'\\\\bsleep')"
-p15
-aS"(9, u'\\\\bdepress')"
-p16
-aS"(7, u'\\\\bmemory')"
-p17
-aS"(35, u'\\\\bstress')"
-p18
-aS"(11, u'\\\\banxiolyt')"
-p19
-aS"(10, u'\\\\banxiety')"
-p20
-atp21
-Rp22
+((lp8
+S"(22, u'\\\\bschizophreni')"
+p9
+aS"(14, u'\\\\bcogniti')"
+p10
+aS"(16, u'\\\\blearning')"
+p11
+aS"(15, u'\\\\bmemory')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
+p17
+I437
+I443
+tp18
+a(S'5ht2a'
+p19
+I1281
+I1287
+tp20
+a(S'5ht2a'
+p21
+I39
+I50
+tp22
+a(S'5ht2a'
 p23
-g3
-((lp24
-S'5ht1a'
+I872
+I878
+tp24
+a(S'5ht2a'
 p25
-atp26
-Rp27
-sS'regions'
-p28
-g3
-((lp29
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p30
-aS"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
+I674
+I680
+tp26
+a(S'5ht2a'
+p27
+I939
+I945
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
 p31
-atp32
-Rp33
-sS'year'
-p34
-V2006
+g3
+((lp32
+tp33
+Rp34
+sS'regions'
 p35
-sS'agonists'
-p36
 g3
-((lp37
-S"(20, u'\\\\bbuspirone')"
+((lp36
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p37
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p38
-aS"(149, u'\\\\bmem')"
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p39
-atp40
-Rp41
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
+p43
+V2016
+p44
 sS'species'
-p42
+p45
 g3
-((lp43
-tp44
-Rp45
+((lp46
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p47
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p48
+atp49
+Rp50
 sb.

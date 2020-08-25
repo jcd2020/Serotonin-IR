@@ -2,68 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
 p11
-g3
-((lp12
-tp13
-Rp14
+aS"(8, u'\\\\banxi')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+atp14
+Rp15
 sS'receptors'
-p15
+p16
 g3
-((lp16
-S'5ht2b'
-p17
-atp18
-Rp19
-sS'regions'
+((lp17
+(S'5ht1a'
+p18
+I1292
+I1298
+tp19
+a(S'5ht1a'
 p20
-g3
-((lp21
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I980
+I986
+tp21
+a(S'5ht1a'
 p22
-aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
-p23
-aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1595
+I1601
+tp23
+a(S'5ht1a'
 p24
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p25
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
-p29
-V2002
+I656
+I662
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
+g3
+((lp29
+S"(13, u'\\\\bagonist')"
 p30
-sS'agonists'
+aS"(51, u'\\\\bway100635')"
 p31
-g3
-((lp32
-tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+aS"(30, u'\\\\b2methyl')"
+p32
+aS"(22, u'\\\\bbuspirone')"
+p33
+aS"(12, u'\\\\bantagonist')"
+p34
+atp35
+Rp36
+sS'regions'
 p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
+g3
+((lp38
+tp39
 Rp40
+sS'year'
+p41
+V2003
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p45
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

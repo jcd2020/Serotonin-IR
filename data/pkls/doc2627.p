@@ -1,0 +1,107 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2b'
+p17
+I100
+I111
+tp18
+a(S'5ht1'
+p19
+I1737
+I1742
+tp20
+a(S'5ht2'
+p21
+I1754
+I1759
+tp22
+a(S'5ht2b'
+p23
+I263
+I274
+tp24
+a(S'5ht1'
+p25
+I710
+I715
+tp26
+a(S'5ht2'
+p27
+I287
+I292
+tp28
+a(S'5ht1a'
+p29
+I173
+I184
+tp30
+a(S'5ht2'
+p31
+I950
+I955
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
+p35
+g3
+((lp36
+S"(12, u'\\\\bantagonist')"
+p37
+atp38
+Rp39
+sS'regions'
+p40
+g3
+((lp41
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p42
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p43
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p44
+aS"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V2017
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
+sb.

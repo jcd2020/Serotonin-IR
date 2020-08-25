@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,73 +10,82 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.STIMULATION'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-tp15
-Rp16
+tp9
+Rp10
 sS'receptors'
+p11
+g3
+((lp12
+(S'5ht1b'
+p13
+I1131
+I1137
+tp14
+a(S'5ht1b'
+p15
+I1433
+I1439
+tp16
+a(S'5ht1b'
 p17
-g3
-((lp18
-S'5ht1b'
+I189
+I195
+tp18
+a(S'5ht1b'
 p19
-aS'5ht1d'
-p20
-atp21
-Rp22
-sS'regions'
+I1381
+I1387
+tp20
+a(S'5ht1b'
+p21
+I108
+I114
+tp22
+a(S'5ht1b'
 p23
-g3
-((lp24
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I561
+I567
+tp24
+a(S'5ht1d'
 p25
-atp26
-Rp27
-sS'year'
-p28
-V1997
+I230
+I236
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-sS'agonists'
-p30
 g3
-((lp31
-S"(96, u'\\\\bsumatriptan')"
-p32
-aS"(149, u'\\\\bmem')"
-p33
-aS"(97, u'\\\\bzolmitriptan')"
+((lp30
+S"(32, u'\\\\blesions')"
+p31
+atp32
+Rp33
+sS'regions'
 p34
-atp35
-Rp36
-sS'species'
-p37
 g3
-((lp38
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp35
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p36
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p37
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
 p41
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+V1996
 p42
-aS"(3636, u'(?i)\\\\b(martins|martin)\\\\b')"
+sS'species'
 p43
-aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
-p44
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+g3
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p45
 atp46
 Rp47

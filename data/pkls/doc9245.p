@@ -1,0 +1,102 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(20, u'\\\\bmood')"
+p13
+aS"(6, u'\\\\baggressi')"
+p14
+aS"(8, u'\\\\banxi')"
+p15
+atp16
+Rp17
+sS'receptors'
+p18
+g3
+((lp19
+(S'5ht1b'
+p20
+I556
+I564
+tp21
+a(S'5ht1b'
+p22
+I422
+I428
+tp23
+a(S'5ht1b'
+p24
+I665
+I671
+tp25
+a(S'5ht1'
+p26
+I961
+I966
+tp27
+a(S'5ht1a'
+p28
+I556
+I562
+tp29
+a(S'5ht1b'
+p30
+I28
+I34
+tp31
+a(S'5ht1b'
+p32
+I846
+I852
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
+g3
+((lp37
+S"(13, u'\\\\bagonist')"
+p38
+atp39
+Rp40
+sS'regions'
+p41
+g3
+((lp42
+tp43
+Rp44
+sS'year'
+p45
+V1996
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p49
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p50
+atp51
+Rp52
+sb.

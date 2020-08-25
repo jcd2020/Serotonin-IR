@@ -2,88 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STAINING'
-p9
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p10
-atp11
-Rp12
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(33, u'\\\\blocomot')"
+p12
+aS"(5, u'\\\\btherap')"
 p13
-g3
-((lp14
-tp15
-Rp16
+aS"(26, u'\\\\bbehav')"
+p14
+aS"(4, u'\\\\btreatment')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(106, u'(?i)\\\\b(interpedunculars|interpeduncular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp19
+(S'5ht1a'
+p20
+I1767
+I1773
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p25
-aS"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+g3
+((lp25
+S"(7, u'\\\\bpropranolol')"
 p26
-aS"(235, u'(?i)\\\\b(diagonals|diagonal)(-|\\\\s+)?(bands|band)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(brocas|broca)\\\\b')"
+aS"(11, u'\\\\bfluoxetine')"
 p27
-aS"(90, u'(?i)\\\\b(tegmentums|tegmentum)\\\\b')"
+aS"(45, u'\\\\bmetergoline')"
 p28
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p31
-aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
+atp30
+Rp31
+sS'regions'
 p32
-atp33
-Rp34
+g3
+((lp33
+tp34
+Rp35
 sS'year'
-p35
-V1996
 p36
-sS'agonists'
+V2014
 p37
-g3
-((lp38
-S"(149, u'\\\\bmem')"
-p39
-atp40
-Rp41
 sS'species'
-p42
+p38
 g3
-((lp43
-S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
-p44
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p45
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p46
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p47
-aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p48
-atp49
-Rp50
+((lp39
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p41
+atp42
+Rp43
 sb.

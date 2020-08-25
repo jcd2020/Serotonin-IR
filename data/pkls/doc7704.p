@@ -2,94 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(8, u'\\\\blearning')"
-p14
-aS"(7, u'\\\\bmemory')"
-p15
-atp16
-Rp17
+((lp10
+tp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp14
+(S'5ht1a'
+p15
+I797
+I803
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+S"(13, u'\\\\bagonist')"
+p21
+aS"(41, u'\\\\bhaloperidol')"
+p22
+aS"(40, u'\\\\bclozapine')"
 p23
-g3
-((lp24
-S"(236, u'(?i)\\\\b(septals|septal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(46, u'\\\\bspiperone')"
+p24
+aS"(12, u'\\\\bantagonist')"
 p25
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p26
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p27
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+atp26
+Rp27
+sS'regions'
 p28
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p29
-aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+g3
+((lp29
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p30
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p31
-aS"(294, u'(?i)\\\\b(retrosplenials|retrosplenial)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p32
-aS"(242, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tracts|tract)\\\\b')"
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p33
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p34
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p35
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p36
-aS"(244, u'(?i)\\\\b(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p37
-atp38
-Rp39
+atp34
+Rp35
 sS'year'
-p40
-V2005
-p41
-sS'agonists'
-p42
-g3
-((lp43
-S"(149, u'\\\\bmem')"
-p44
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p45
-atp46
-Rp47
+p36
+V2004
+p37
 sS'species'
-p48
+p38
 g3
-((lp49
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p50
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p51
-atp52
-Rp53
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

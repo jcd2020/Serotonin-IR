@@ -2,112 +2,104 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
-p5
-aS"(133, u'\\\\bmianserin')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(22, u'\\\\bpropranolol')"
-p8
-aS"(34, u'\\\\bmetergoline')"
-p9
-aS"(193, u'\\\\bmesulergine')"
-p10
-aS"(194, u'\\\\bmethysergide')"
-p11
-atp12
-Rp13
-sS'methods'
-p14
-g3
-((lp15
 S'Method.ANTAGONIST'
-p16
-aS'Method.AGONIST'
-p17
-atp18
-Rp19
+p5
+atp6
+Rp7
 sS'topics'
-p20
+p8
 g3
-((lp21
-S"(25, u'\\\\bvasoconstrict')"
-p22
-atp23
-Rp24
+((lp9
+S"(27, u'\\\\bdyskinesia')"
+p10
+aS"(34, u'\\\\bparkinson')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
+p17
+I1325
+I1331
+tp18
+a(S'5ht2a'
+p19
+I721
+I727
+tp20
+a(S'5ht2'
+p21
+I392
+I397
+tp22
+a(S'5ht2a'
+p23
+I26
+I32
+tp24
+a(S'5ht2a'
 p25
-g3
-((lp26
-S'5ht1c'
+I540
+I546
+tp26
+a(S'5ht2a'
 p27
-aS'5ht1b'
-p28
-aS'5ht5'
+I1560
+I1566
+tp28
+a(S'5ht2a'
 p29
-aS'5ht3'
-p30
-aS'5ht2'
+I438
+I444
+tp30
+a(S'5ht2a'
 p31
-aS'5ht1'
-p32
-aS'5ht1d'
-p33
-aS'5ht2a'
-p34
-atp35
-Rp36
-sS'regions'
+I1119
+I1125
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
+p35
+g3
+((lp36
+S"(54, u'\\\\bautoradiography')"
 p37
-g3
-((lp38
-tp39
+aS"(12, u'\\\\bantagonist')"
+p38
+atp39
 Rp40
-sS'year'
+sS'regions'
 p41
-V1991
-p42
-sS'agonists'
+g3
+((lp42
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p43
-g3
-((lp44
-S"(219, u'\\\\b5 ?ct')"
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p44
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p45
-aS"(53, u'\\\\bmethysergide')"
-p46
-aS"(149, u'\\\\bmem')"
-p47
-aS"(165, u'\\\\bmesulergine')"
+atp46
+Rp47
+sS'year'
 p48
-aS"(67, u'\\\\bru ?24969')"
+V2012
 p49
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p50
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p51
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
-p52
-atp53
-Rp54
 sS'species'
-p55
+p50
 g3
-((lp56
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p57
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p58
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p59
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p60
-atp61
-Rp62
+((lp51
+tp52
+Rp53
 sb.

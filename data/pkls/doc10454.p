@@ -2,82 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(44, u'\\\\bly ?310762')"
+S'Method.PET'
 p5
-aS"(46, u'\\\\bly ?456219')"
+aS'Method.ANTAGONIST'
 p6
-aS"(38, u'\\\\bsb ?224289')"
-p7
-aS"(45, u'\\\\bly ?367642')"
-p8
-aS"(91, u'\\\\bfluoxetine')"
-p9
-aS"(47, u'\\\\bly ?456220')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
-S'Method.ANTAGONIST'
-p15
-aS'Method.AGONIST'
-p16
-atp17
-Rp18
+atp7
+Rp8
 sS'topics'
-p19
+p9
 g3
-((lp20
-tp21
-Rp22
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p23
+p14
 g3
-((lp24
-S'5ht1b'
-p25
-aS'5ht1d'
+((lp15
+(S'5ht2a'
+p16
+I478
+I484
+tp17
+a(S'5ht2a'
+p18
+I306
+I312
+tp19
+a(S'5ht2a'
+p20
+I907
+I912
+tp21
+a(S'5ht2'
+p22
+I122
+I127
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-atp27
-Rp28
-sS'regions'
+g3
+((lp27
+S"(17, u'\\\\bpet')"
+p28
+aS"(18, u'\\\\bimaging')"
 p29
+aS"(12, u'\\\\bantagonist')"
+p30
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp30
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p31
-atp32
-Rp33
-sS'year'
-p34
-V2004
+((lp34
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(116, u'\\\\bl ?772405')"
+atp36
+Rp37
+sS'year'
 p38
-atp39
-Rp40
+V2000
+p39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p43
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p44
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p45
-atp46
-Rp47
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

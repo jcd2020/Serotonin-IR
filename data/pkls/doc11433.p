@@ -2,70 +2,113 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(17, u'\\\\balzheimer')"
 p13
-g3
-((lp14
-S"(15, u'\\\\bschizophreni')"
+aS"(16, u'\\\\blearning')"
+p14
+aS"(15, u'\\\\bmemory')"
 p15
-aS"(9, u'\\\\bdepress')"
+aS"(5, u'\\\\btherap')"
 p16
-atp17
-Rp18
+aS"(4, u'\\\\btreatment')"
+p17
+atp18
+Rp19
 sS'receptors'
-p19
+p20
 g3
-((lp20
-S'5ht2a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp21
+(S'5ht5'
+p22
+I764
+I774
+tp23
+a(S'5ht1b'
 p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
+I1787
+I1793
+tp25
+a(S'5ht1a'
+p26
+I1612
+I1618
+tp27
+a(S'5ht1b'
 p28
-V2010
-p29
-sS'agonists'
+I807
+I813
+tp29
+a(S'5ht1a'
 p30
-g3
-((lp31
-tp32
-Rp33
-sS'species'
+I796
+I802
+tp31
+a(S'5ht1b'
+p32
+I1623
+I1629
+tp33
+a(S'5ht1a'
 p34
-g3
-((lp35
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p36
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p37
-aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+I1773
+I1779
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
 p38
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p39
-atp40
-Rp41
+g3
+((lp39
+S"(17, u'\\\\bpet')"
+p40
+aS"(19, u'\\\\bpositron emission tomography')"
+p41
+aS"(18, u'\\\\bimaging')"
+p42
+aS"(12, u'\\\\bantagonist')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
+p51
+V2016
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p55
+aS"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p56
+atp57
+Rp58
 sb.

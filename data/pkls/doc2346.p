@@ -2,78 +2,95 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(20, u'\\\\baggressi')"
+(S'5ht1a'
 p15
-aS"(10, u'\\\\banxiety')"
-p16
-aS"(7, u'\\\\bmemory')"
+I49
+I55
+tp16
+a(S'5ht1a'
 p17
-atp18
-Rp19
-sS'receptors'
-p20
-g3
-((lp21
-S'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
+I428
+I434
+tp18
+a(S'5ht2c'
+p19
+I719
+I726
+tp20
+a(S'5ht2a'
+p21
+I1171
+I1177
+tp22
+a(S'5ht1a'
+p23
+I1000
+I1006
+tp24
+a(S'5ht2a'
 p25
-g3
-((lp26
-S"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
+I351
+I357
+tp26
+a(S'5ht2a'
 p27
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p28
+I719
+I725
+tp28
 atp29
 Rp30
-sS'year'
+sS'raw_text_methods'
 p31
-V2015
-p32
-sS'agonists'
+g3
+((lp32
+S"(12, u'\\\\bantagonist')"
 p33
-g3
-((lp34
-S"(125, u'\\\\btcb ?2')"
-p35
-aS"(149, u'\\\\bmem')"
+atp34
+Rp35
+sS'regions'
 p36
-atp37
-Rp38
-sS'species'
-p39
 g3
-((lp40
-S"(5218, u'(?i)\\\\b(mesocricetuses|mesocricetus)(-|\\\\s+)?(auratuses|auratus)\\\\b')"
+((lp37
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
 p41
-aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+V1998
 p42
-aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
+sS'species'
 p43
-atp44
-Rp45
+g3
+((lp44
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p45
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p46
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p47
+atp48
+Rp49
 sb.

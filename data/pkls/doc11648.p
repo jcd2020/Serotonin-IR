@@ -2,27 +2,29 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
-p11
+p9
 g3
-((lp12
-S"(35, u'\\\\bstress')"
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(9, u'\\\\bstress')"
+p12
+aS"(4, u'\\\\btreatment')"
 p13
-aS"(24, u'\\\\banalgesi')"
+aS"(2, u'\\\\bdisorder')"
 p14
 atp15
 Rp16
@@ -30,36 +32,49 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht2c'
+(S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
+I45
+I51
+tp20
+a(S'5ht1a'
+p21
+I1000
+I1006
+tp22
+a(S'5ht1a'
+p23
+I896
+I902
 tp24
-Rp25
-sS'year'
-p26
-V2006
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-sS'agonists'
-p28
 g3
-((lp29
-S"(11, u'\\\\bamphetamine')"
+((lp28
+S"(51, u'\\\\bway100635')"
+p29
+aS"(12, u'\\\\bantagonist')"
 p30
 atp31
 Rp32
-sS'species'
+sS'regions'
 p33
 g3
 ((lp34
-S"(4749, u'(?i)\\\\b(blues|blue)\\\\b')"
-p35
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p36
-atp37
-Rp38
+tp35
+Rp36
+sS'year'
+p37
+V2009
+p38
+sS'species'
+p39
+g3
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

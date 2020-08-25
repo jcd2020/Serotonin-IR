@@ -2,76 +2,114 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(12, u'\\\\banxiogen')"
-p15
-aS"(35, u'\\\\bstress')"
-p16
-aS"(11, u'\\\\banxiolyt')"
-p17
-aS"(10, u'\\\\banxiety')"
-p18
-atp19
-Rp20
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(23, u'\\\\bantipsychotic')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2c'
+p17
+I601
+I607
+tp18
+a(S'5ht2c'
+p19
+I202
+I213
+tp20
+a(S'5ht2c'
 p21
-g3
-((lp22
-S'5ht1a'
+I950
+I956
+tp22
+a(S'5ht2c'
 p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p28
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I886
+I892
+tp24
+a(S'5ht2c'
+p25
+I1359
+I1365
+tp26
+a(S'5ht2c'
+p27
+I115
+I126
+tp28
+a(S'5ht2c'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V2015
+I215
+I221
+tp30
+a(S'5ht2c'
+p31
+I416
+I422
+tp32
+a(S'5ht2c'
 p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(21, u'\\\\bcannabidiol')"
-p36
+I1114
+I1120
+tp34
+a(S'5ht2c'
+p35
+I1416
+I1422
+tp36
 atp37
 Rp38
-sS'species'
+sS'raw_text_methods'
 p39
 g3
 ((lp40
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(41, u'\\\\bhaloperidol')"
 p42
-atp43
-Rp44
+aS"(40, u'\\\\bclozapine')"
+p43
+aS"(12, u'\\\\bantagonist')"
+p44
+atp45
+Rp46
+sS'regions'
+p47
+g3
+((lp48
+tp49
+Rp50
+sS'year'
+p51
+V2006
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p55
+atp56
+Rp57
 sb.

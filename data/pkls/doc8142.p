@@ -1,0 +1,104 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(8, u'\\\\banxi')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2a'
+p18
+I724
+I730
+tp19
+a(S'5ht2a'
+p20
+I1177
+I1183
+tp21
+a(S'5ht2a'
+p22
+I47
+I53
+tp23
+a(S'5ht2a'
+p24
+I616
+I622
+tp25
+a(S'5ht2a'
+p26
+I2194
+I2200
+tp27
+a(S'5ht2a'
+p28
+I847
+I853
+tp29
+a(S'5ht2a'
+p30
+I2015
+I2021
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
+p34
+g3
+((lp35
+S"(13, u'\\\\bagonist')"
+p36
+aS"(41, u'\\\\bhaloperidol')"
+p37
+aS"(23, u'\\\\bmdl')"
+p38
+aS"(12, u'\\\\bantagonist')"
+p39
+atp40
+Rp41
+sS'regions'
+p42
+g3
+((lp43
+tp44
+Rp45
+sS'year'
+p46
+V2018
+p47
+sS'species'
+p48
+g3
+((lp49
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p50
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
+sb.

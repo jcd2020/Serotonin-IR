@@ -1,0 +1,116 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I947
+I953
+tp18
+a(S'5ht1a'
+p19
+I682
+I688
+tp20
+a(S'5ht1a'
+p21
+I460
+I466
+tp22
+a(S'5ht1a'
+p23
+I96
+I102
+tp24
+a(S'5ht1a'
+p25
+I340
+I346
+tp26
+a(S'5ht1b'
+p27
+I682
+I689
+tp28
+a(S'5ht1a'
+p29
+I1220
+I1226
+tp30
+a(S'5ht1a'
+p31
+I1382
+I1388
+tp32
+a(S'5ht1a'
+p33
+I1303
+I1309
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
+p37
+g3
+((lp38
+S"(13, u'\\\\bagonist')"
+p39
+aS"(15, u'\\\\b8ohdpat')"
+p40
+aS"(23, u'\\\\bmdl')"
+p41
+aS"(12, u'\\\\bantagonist')"
+p42
+atp43
+Rp44
+sS'regions'
+p45
+g3
+((lp46
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p47
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
+p51
+V1990
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p55
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p56
+atp57
+Rp58
+sb.

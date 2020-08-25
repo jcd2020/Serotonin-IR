@@ -2,77 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(7, u'\\\\bdepressi')"
+p11
+aS"(26, u'\\\\bbehav')"
 p12
-g3
-((lp13
-S"(35, u'\\\\bstress')"
+aS"(34, u'\\\\bparkinson')"
+p13
+aS"(4, u'\\\\btreatment')"
 p14
-aS"(16, u'\\\\bfeed')"
-p15
-atp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht5'
-p20
-aS'5ht2b'
+((lp18
+(S'5ht1a'
+p19
+I81
+I87
+tp20
+a(S'5ht1a'
 p21
-aS'5ht2c'
-p22
+I1435
+I1441
+tp22
 atp23
 Rp24
-sS'regions'
+sS'raw_text_methods'
 p25
 g3
 ((lp26
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+S"(3, u'\\\\bimmunoreactiv')"
 p27
-aS"(171, u'(?i)\\\\b(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(11, u'\\\\bfluoxetine')"
 p28
-aS"(6, u'(?i)\\\\b(rostrals|rostral)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)\\\\b')"
+aS"(38, u'\\\\bssri')"
 p29
-aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p30
-aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p31
 atp32
 Rp33
-sS'year'
+sS'regions'
 p34
-V2014
-p35
-sS'agonists'
+g3
+((lp35
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p36
-g3
-((lp37
-tp38
-Rp39
-sS'species'
+atp37
+Rp38
+sS'year'
+p39
+V2012
 p40
+sS'species'
+p41
 g3
-((lp41
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
 atp44
 Rp45

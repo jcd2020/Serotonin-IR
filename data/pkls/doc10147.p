@@ -2,70 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.AGONIST'
 p5
-aS"(119, u'\\\\britanserin')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-S"(4, u'\\\\blocomot')"
-p16
-atp17
-Rp18
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(15, u'\\\\bmemory')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1d'
+p17
+I424
+I430
+tp18
+a(S'5ht1d'
 p19
-g3
-((lp20
-S'5ht2a'
+I576
+I582
+tp20
+a(S'5ht1d'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I41
+I47
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp25
-tp26
-Rp27
-sS'year'
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+aS"(10, u'\\\\bmethamphetamine')"
 p28
-V1995
-p29
-sS'agonists'
-p30
+atp29
+Rp30
+sS'regions'
+p31
 g3
-((lp31
-tp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(5150, u'(?i)\\\\b(gerbils|gerbil)\\\\b')"
+((lp32
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
 p36
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+V2018
 p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p38
-aS"(3569, u'(?i)\\\\b(constrictors|constrictor)\\\\b')"
-p39
-atp40
-Rp41
+g3
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

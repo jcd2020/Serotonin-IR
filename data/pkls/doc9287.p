@@ -2,78 +2,101 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(17, u'\\\\bnan ?190')"
+S'Method.IMMUNOHISTOCHEMISTRY'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(9, u'\\\\bstress')"
 p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(30, u'\\\\bparkinsons')"
-p16
-atp17
-Rp18
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2a'
+p15
+I68
+I74
+tp16
+a(S'5ht1a'
+p17
+I57
+I63
+tp18
+a(S'5ht2a'
 p19
-g3
-((lp20
-S'5ht1a'
+I465
+I471
+tp20
+a(S'5ht1'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
-p26
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+I873
+I878
+tp22
+a(S'5ht2'
+p23
+I953
+I958
+tp24
+a(S'5ht1'
+p25
+I1205
+I1210
+tp26
+a(S'5ht1a'
 p27
-aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+I454
+I460
+tp28
+a(S'5ht2'
+p29
+I1308
+I1313
+tp30
+a(S'5ht1'
 p31
-V2010
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(20, u'\\\\bbuspirone')"
+I1085
+I1090
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
 p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p36
-atp37
+g3
+((lp36
+tp37
 Rp38
-sS'species'
+sS'regions'
 p39
 g3
 ((lp40
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p41
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+atp42
+Rp43
+sS'year'
+p44
+V2013
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p48
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p49
+atp50
+Rp51
 sb.

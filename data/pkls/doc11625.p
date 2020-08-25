@@ -1,0 +1,76 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+atp11
+Rp12
+sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1'
+p15
+I1067
+I1072
+tp16
+a(S'5ht1'
+p17
+I1894
+I1899
+tp18
+a(S'5ht2'
+p19
+I1803
+I1808
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(8, u'\\\\bru24969')"
+p26
+aS"(21, u'\\\\bipsapirone')"
+p27
+aS"(29, u'\\\\bdiethylamide')"
+p28
+atp29
+Rp30
+sS'regions'
+p31
+g3
+((lp32
+tp33
+Rp34
+sS'year'
+p35
+V1991
+p36
+sS'species'
+p37
+g3
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
+sb.

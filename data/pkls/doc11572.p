@@ -2,80 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\bzacopride')"
-p5
-aS"(6, u'\\\\bcyproheptadine')"
-p6
-aS"(133, u'\\\\bmianserin')"
+tp5
+Rp6
+sS'topics'
 p7
-aS"(53, u'\\\\bcyproheptadine')"
-p8
-aS"(117, u'\\\\bketanserin')"
+g3
+((lp8
+S"(22, u'\\\\bschizophreni')"
 p9
-aS"(33, u'\\\\byohimbine')"
+aS"(23, u'\\\\bantipsychotic')"
 p10
 atp11
 Rp12
-sS'methods'
+sS'receptors'
 p13
 g3
 ((lp14
-S'Method.ANTAGONIST'
+(S'5ht1a'
 p15
-atp16
-Rp17
-sS'topics'
-p18
-g3
-((lp19
+I333
+I339
+tp16
+a(S'5ht6'
+p17
+I349
+I354
+tp18
+a(S'5ht2a'
+p19
+I341
+I347
 tp20
-Rp21
-sS'receptors'
-p22
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp23
-S'5ht1c'
-p24
-aS'5ht4'
+((lp24
+S"(41, u'\\\\bhaloperidol')"
 p25
-aS'5ht3a'
+aS"(40, u'\\\\bclozapine')"
 p26
-aS'5ht2'
-p27
-atp28
-Rp29
+atp27
+Rp28
 sS'regions'
-p30
+p29
 g3
-((lp31
-tp32
-Rp33
+((lp30
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p31
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p32
+atp33
+Rp34
 sS'year'
-p34
-V1997
 p35
-sS'agonists'
+V1997
 p36
+sS'species'
+p37
 g3
-((lp37
-S"(208, u'\\\\bzacopride')"
-p38
-aS"(82, u'\\\\byohimbine')"
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
 atp40
 Rp41
-sS'species'
-p42
-g3
-((lp43
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p44
-atp45
-Rp46
 sb.

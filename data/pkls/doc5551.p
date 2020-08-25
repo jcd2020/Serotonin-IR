@@ -1,0 +1,95 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(25, u'\\\\bsocial')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2c'
+p18
+I198
+I204
+tp19
+a(S'5ht2b'
+p20
+I63
+I69
+tp21
+a(S'5ht2b'
+p22
+I1459
+I1467
+tp23
+a(S'5ht2c'
+p24
+I56
+I62
+tp25
+a(S'5ht2c'
+p26
+I1459
+I1465
+tp27
+a(S'5ht2b'
+p28
+I206
+I212
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
+p32
+g3
+((lp33
+S"(16, u'\\\\bdiazepam')"
+p34
+aS"(36, u'\\\\bbenzodiazepine')"
+p35
+aS"(12, u'\\\\bantagonist')"
+p36
+atp37
+Rp38
+sS'regions'
+p39
+g3
+((lp40
+tp41
+Rp42
+sS'year'
+p43
+V1995
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
+sb.

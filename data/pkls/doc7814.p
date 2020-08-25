@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,56 +10,101 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(22, u'\\\\bschizophreni')"
 p9
-atp10
-Rp11
-sS'topics'
+aS"(7, u'\\\\bdepressi')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
-p14
-aS"(16, u'\\\\bfeed')"
-p15
-atp16
-Rp17
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2a'
 p18
-g3
-((lp19
-S'5ht1a'
+I281
+I287
+tp19
+a(S'5ht2'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
+I928
+I933
+tp21
+a(S'5ht2'
+p22
+I1824
+I1829
+tp23
+a(S'5ht2'
+p24
+I1352
+I1357
 tp25
-Rp26
-sS'year'
-p27
-V1996
+a(S'5ht2'
+p26
+I603
+I608
+tp27
+a(S'5ht2a'
 p28
-sS'agonists'
-p29
-g3
-((lp30
-S"(20, u'\\\\bbuspirone')"
-p31
-atp32
-Rp33
-sS'species'
+I44
+I50
+tp29
+a(S'5ht2'
+p30
+I1868
+I1873
+tp31
+a(S'5ht2'
+p32
+I1642
+I1647
+tp33
+a(S'5ht2'
 p34
+I289
+I294
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
+p38
 g3
-((lp35
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
-p36
-atp37
-Rp38
+((lp39
+S"(53, u'\\\\bketanserin')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p45
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p46
+atp47
+Rp48
+sS'year'
+p49
+V2014
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p53
+atp54
+Rp55
 sb.

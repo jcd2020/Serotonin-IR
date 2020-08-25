@@ -2,68 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(8, u'\\\\banxi')"
+p11
+aS"(20, u'\\\\bmood')"
+p12
+aS"(4, u'\\\\btreatment')"
 p13
-g3
-((lp14
-S"(26, u'\\\\bcardiovascular')"
-p15
-aS"(35, u'\\\\bstress')"
-p16
-atp17
-Rp18
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1a'
 p19
-g3
-((lp20
-S'5ht1a'
+I1521
+I1527
+tp20
+a(S'5ht1a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p26
-aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
+I147
+I153
+tp22
+a(S'5ht1a'
+p23
+I211
+I217
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-atp28
-Rp29
-sS'year'
+g3
+((lp28
+S"(37, u'\\\\bpiperazine')"
+p29
+aS"(17, u'\\\\bpet')"
 p30
-V2013
+aS"(18, u'\\\\bimaging')"
 p31
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p32
+atp33
+Rp34
+sS'regions'
+p35
 g3
-((lp33
-S"(21, u'\\\\bcannabidiol')"
-p34
-atp35
-Rp36
-sS'species'
+((lp36
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p37
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p38
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p39
+atp40
+Rp41
+sS'year'
+p42
+V2016
+p43
+sS'species'
+p44
 g3
-((lp38
-tp39
-Rp40
+((lp45
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

@@ -2,68 +2,120 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(8, u'\\\\banxi')"
+p11
+aS"(5, u'\\\\btherap')"
+p12
+aS"(7, u'\\\\bdepressi')"
 p13
-g3
-((lp14
-tp15
-Rp16
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(2, u'\\\\bdisorder')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-S'5ht3'
-p19
-atp20
-Rp21
-sS'regions'
+((lp19
+(S'5ht1b'
+p20
+I1313
+I1319
+tp21
+a(S'5ht1b'
 p22
-g3
-((lp23
-S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+I801
+I807
+tp23
+a(S'5ht1b'
 p24
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
+I354
+I365
+tp25
+a(S'5ht1'
+p26
+I1785
+I1790
+tp27
+a(S'5ht1b'
 p28
-V1989
-p29
-sS'agonists'
+I1989
+I1995
+tp29
+a(S'5ht1b'
 p30
-g3
-((lp31
-S"(43, u'\\\\bhaloperidol')"
+I2289
+I2295
+tp31
+a(S'5ht1b'
 p32
-atp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p37
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+I516
+I522
+tp33
+a(S'5ht1b'
+p34
+I72
+I78
+tp35
+a(S'5ht1b'
+p36
+I377
+I383
+tp37
+a(S'5ht1b'
 p38
-atp39
-Rp40
+I980
+I986
+tp39
+atp40
+Rp41
+sS'raw_text_methods'
+p42
+g3
+((lp43
+S"(19, u'\\\\bpositron emission tomography')"
+p44
+aS"(12, u'\\\\bantagonist')"
+p45
+atp46
+Rp47
+sS'regions'
+p48
+g3
+((lp49
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p50
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p51
+atp52
+Rp53
+sS'year'
+p54
+V2009
+p55
+sS'species'
+p56
+g3
+((lp57
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p58
+atp59
+Rp60
 sb.

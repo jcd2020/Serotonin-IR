@@ -2,70 +2,107 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(6, u'\\\\baggressi')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(21, u'\\\\bpain')"
-p15
-aS"(9, u'\\\\bdepress')"
-p16
-atp17
-Rp18
+aS"(14, u'\\\\bcogniti')"
+p11
+aS"(25, u'\\\\bsocial')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht4'
+p17
+I609
+I614
+tp18
+a(S'5ht4'
 p19
-g3
-((lp20
-S'5ht1a'
+I404
+I409
+tp20
+a(S'5ht4'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p26
-aS"(70, u'(?i)\\\\b(fourths|fourth)(-|\\\\s+)?(ventricles|ventricle)\\\\b')"
+I420
+I425
+tp22
+a(S'5ht4'
+p23
+I1060
+I1065
+tp24
+a(S'5ht4'
+p25
+I1445
+I1450
+tp26
+a(S'5ht4'
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2000
+I1174
+I1179
+tp28
+a(S'5ht4'
+p29
+I824
+I829
+tp30
+a(S'5ht4'
 p31
-sS'agonists'
-p32
-g3
-((lp33
+I1340
+I1345
+tp32
+a(S'5ht4'
+p33
+I114
+I119
 tp34
-Rp35
-sS'species'
-p36
+atp35
+Rp36
+sS'raw_text_methods'
+p37
 g3
-((lp37
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p38
-aS"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+((lp38
+S"(19, u'\\\\bpositron emission tomography')"
 p39
 atp40
 Rp41
+sS'regions'
+p42
+g3
+((lp43
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p44
+atp45
+Rp46
+sS'year'
+p47
+V2016
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p51
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p52
+atp53
+Rp54
 sb.

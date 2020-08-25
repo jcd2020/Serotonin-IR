@@ -1,0 +1,90 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(3, u'\\\\bclinical')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
+p18
+I268
+I273
+tp19
+a(S'5ht1a'
+p20
+I650
+I656
+tp21
+a(S'5ht1'
+p22
+I1631
+I1636
+tp23
+a(S'5ht1'
+p24
+I1457
+I1462
+tp25
+a(S'5ht1a'
+p26
+I70
+I76
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
+g3
+((lp31
+S"(17, u'\\\\bpet')"
+p32
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p33
+atp34
+Rp35
+sS'regions'
+p36
+g3
+((lp37
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
+p41
+V2007
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p45
+atp46
+Rp47
+sb.

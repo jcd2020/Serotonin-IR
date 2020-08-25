@@ -2,25 +2,27 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
+S'Method.STAINING'
+p5
+aS'Method.AGONIST'
+p6
+aS'Method.ANTAGONIST'
 p7
-g3
-((lp8
-tp9
-Rp10
+atp8
+Rp9
 sS'topics'
-p11
+p10
 g3
-((lp12
-S"(13, u'\\\\bpsychedel')"
+((lp11
+S"(9, u'\\\\bstress')"
+p12
+aS"(4, u'\\\\btreatment')"
 p13
 atp14
 Rp15
@@ -28,34 +30,65 @@ sS'receptors'
 p16
 g3
 ((lp17
-S'5ht2a'
+(S'5ht1a'
 p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
+I1229
+I1235
+tp19
+a(S'5ht1a'
+p20
+I1056
+I1062
+tp21
+a(S'5ht1a'
+p22
+I43
+I49
 tp23
-Rp24
-sS'year'
-p25
-V2017
+a(S'5ht1a'
+p24
+I1502
+I1508
+tp25
+a(S'5ht1a'
 p26
-sS'agonists'
-p27
-g3
-((lp28
-S"(158, u'\\\\blsd')"
-p29
-aS"(49, u'\\\\blysergic acid diethylamide')"
+I294
+I300
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
-atp31
-Rp32
-sS'species'
-p33
 g3
-((lp34
-tp35
-Rp36
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(15, u'\\\\b8ohdpat')"
+p33
+aS"(46, u'\\\\bspiperone')"
+p34
+aS"(5, u'\\\\bmk801')"
+p35
+aS"(12, u'\\\\bantagonist')"
+p36
+atp37
+Rp38
+sS'regions'
+p39
+g3
+((lp40
+tp41
+Rp42
+sS'year'
+p43
+V2005
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

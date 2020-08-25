@@ -2,80 +2,114 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
 p13
 g3
 ((lp14
-tp15
-Rp16
-sS'receptors'
+(S'5ht1b'
+p15
+I1480
+I1486
+tp16
+a(S'5ht1b'
 p17
-g3
-((lp18
-S'5ht1b'
+I1251
+I1257
+tp18
+a(S'5ht1b'
 p19
-aS'5ht1d'
-p20
-atp21
-Rp22
-sS'regions'
+I32
+I38
+tp20
+a(S'5ht1b'
+p21
+I389
+I395
+tp22
+a(S'5ht1b'
 p23
-g3
-((lp24
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+I549
+I555
+tp24
+a(S'5ht1b'
 p25
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p26
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+I1657
+I1663
+tp26
+a(S'5ht1b'
 p27
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p28
-aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I298
+I304
+tp28
+a(S'5ht1b'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V1997
+I1557
+I1563
+tp30
+a(S'5ht1b'
+p31
+I664
+I670
+tp32
+a(S'5ht1b'
 p33
-sS'agonists'
-p34
+I284
+I295
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
+p37
 g3
-((lp35
-S"(96, u'\\\\bsumatriptan')"
-p36
-atp37
-Rp38
-sS'species'
+((lp38
+S"(13, u'\\\\bagonist')"
 p39
-g3
-((lp40
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p41
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p42
-aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
 p43
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p44
-atp45
-Rp46
+g3
+((lp44
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p45
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p46
+atp47
+Rp48
+sS'year'
+p49
+V2005
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p53
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p54
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p55
+atp56
+Rp57
 sb.

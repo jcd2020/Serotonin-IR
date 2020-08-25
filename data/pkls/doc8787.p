@@ -2,72 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-tp14
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(15, u'\\\\bmemory')"
+p13
+atp14
 Rp15
 sS'receptors'
 p16
 g3
 ((lp17
-S'5ht1a'
+(S'5ht2a'
 p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p23
-aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
-p24
-aS"(202, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(temporals|temporal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
-p25
-aS"(277, u'(?i)\\\\b(temporals|temporal)(-|\\\\s+)?(lobes|lobe)\\\\b')"
+I648
+I654
+tp19
+a(S'5ht2c'
+p20
+I648
+I656
+tp21
+a(S'5ht2a'
+p22
+I161
+I167
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2009
-p30
-sS'agonists'
-p31
 g3
-((lp32
-tp33
+((lp27
+S"(13, u'\\\\bagonist')"
+p28
+aS"(16, u'\\\\bdiazepam')"
+p29
+aS"(17, u'\\\\bpet')"
+p30
+aS"(36, u'\\\\bbenzodiazepine')"
+p31
+aS"(49, u'\\\\bdoi')"
+p32
+atp33
 Rp34
-sS'species'
+sS'regions'
 p35
 g3
 ((lp36
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p37
-aS"(5863, u'(?i)\\\\b(entires|entire)\\\\b')"
-p38
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+atp38
+Rp39
+sS'year'
 p40
-atp41
-Rp42
+V2009
+p41
+sS'species'
+p42
+g3
+((lp43
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p44
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p45
+atp46
+Rp47
 sb.

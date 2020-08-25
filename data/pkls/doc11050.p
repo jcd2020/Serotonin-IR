@@ -2,74 +2,95 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(203, u'\\\\btfmpp')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(14, u'\\\\bcogniti')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(7, u'\\\\bdepressi')"
 p13
-g3
-((lp14
-tp15
-Rp16
-sS'receptors'
+aS"(5, u'\\\\btherap')"
+p14
+aS"(1, u'\\\\bpatient')"
+p15
+aS"(4, u'\\\\btreatment')"
+p16
+aS"(3, u'\\\\bclinical')"
 p17
-g3
-((lp18
-S'5ht1c'
-p19
-aS'5ht2'
+atp18
+Rp19
+sS'receptors'
 p20
-aS'5ht1'
-p21
-atp22
-Rp23
-sS'regions'
-p24
 g3
-((lp25
-S"(171, u'(?i)\\\\b(arcuates|arcuate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp21
+(S'5ht1b'
+p22
+I671
+I677
+tp23
+a(S'5ht1b'
+p24
+I618
+I624
+tp25
+a(S'5ht1b'
 p26
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1455
+I1461
+tp27
+a(S'5ht1b'
 p28
-aS"(218, u'(?i)\\\\b(claustrums|claustrum)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
-p32
-V1993
-p33
-sS'agonists'
+I35
+I41
+tp29
+a(S'5ht1b'
+p30
+I885
+I891
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
 g3
 ((lp35
-S"(178, u'\\\\btfmpp')"
+S"(17, u'\\\\bpet')"
 p36
-atp37
-Rp38
-sS'species'
-p39
-g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
+p37
+aS"(18, u'\\\\bimaging')"
+p38
+atp39
+Rp40
+sS'regions'
 p41
-atp42
-Rp43
+g3
+((lp42
+tp43
+Rp44
+sS'year'
+p45
+V2014
+p46
+sS'species'
+p47
+g3
+((lp48
+tp49
+Rp50
 sb.

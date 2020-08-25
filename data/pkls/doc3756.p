@@ -2,86 +2,134 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(99, u'\\\\bsb ?242084')"
+S'Method.ANTAGONIST'
 p5
-aS"(117, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.PET'
-p11
-aS'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+S"(29, u'\\\\bhyperactiv')"
+p10
+aS"(33, u'\\\\blocomot')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2b'
+p16
+I1582
+I1590
+tp17
+a(S'5ht3'
+p18
+I1599
+I1604
+tp19
+a(S'5ht1a'
 p20
-g3
-((lp21
-S'5ht2c'
+I659
+I665
+tp21
+a(S'5ht2a'
 p22
-aS'5ht2'
-p23
-aS'5ht2a'
+I1582
+I1588
+tp23
+a(S'5ht2c'
 p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
+I781
+I787
+tp25
+a(S'5ht1a'
+p26
+I1461
+I1467
+tp27
+a(S'5ht2b'
+p28
+I858
+I866
+tp29
+a(S'5ht2a'
+p30
+I858
+I864
+tp31
+a(S'5ht1b'
 p32
-V2014
-p33
-sS'agonists'
+I718
+I724
+tp33
+a(S'5ht1b'
 p34
-g3
-((lp35
-S"(130, u'\\\\bcimbi ?36')"
+I1469
+I1475
+tp35
+a(S'5ht2c'
 p36
-atp37
-Rp38
-sS'species'
-p39
-g3
-((lp40
-S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
-p41
-aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
+I1486
+I1492
+tp37
+a(S'5ht1d'
+p38
+I1469
+I1477
+tp39
+a(S'5ht3'
+p40
+I920
+I925
+tp41
+a(S'5ht1d'
 p42
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p43
-aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p44
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p45
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+I718
+I726
+tp43
+atp44
+Rp45
+sS'raw_text_methods'
 p46
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p47
-atp48
-Rp49
+g3
+((lp47
+S"(20, u'\\\\bondansetron')"
+p48
+aS"(12, u'\\\\bantagonist')"
+p49
+aS"(10, u'\\\\bmethamphetamine')"
+p50
+atp51
+Rp52
+sS'regions'
+p53
+g3
+((lp54
+tp55
+Rp56
+sS'year'
+p57
+V2004
+p58
+sS'species'
+p59
+g3
+((lp60
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p61
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p62
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p63
+atp64
+Rp65
 sb.

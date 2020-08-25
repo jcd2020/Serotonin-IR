@@ -2,76 +2,78 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
+S'Method.AGONIST'
 p5
-aS"(119, u'\\\\britanserin')"
-p6
-aS"(58, u'\\\\bhaloperidol')"
-p7
-aS"(22, u'\\\\bpropranolol')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
+p16
+I1380
+I1386
+tp17
+a(S'5ht1'
+p18
+I1047
+I1052
+tp19
+a(S'5ht2c'
 p20
-g3
-((lp21
-S'5ht5'
+I1380
+I1388
+tp21
+a(S'5ht1a'
 p22
-aS'5ht3'
-p23
-aS'5ht1'
-p24
-aS'5ht2a'
-p25
-atp26
-Rp27
-sS'regions'
-p28
+I1571
+I1577
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp29
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+((lp27
+S"(13, u'\\\\bagonist')"
+p28
+aS"(15, u'\\\\b8ohdpat')"
+p29
+aS"(49, u'\\\\bdoi')"
 p30
 atp31
 Rp32
-sS'year'
+sS'regions'
 p33
-V1991
-p34
-sS'agonists'
-p35
 g3
-((lp36
-S"(23, u'\\\\bclozapine')"
+((lp34
+tp35
+Rp36
+sS'year'
 p37
-aS"(43, u'\\\\bhaloperidol')"
+V1997
 p38
-atp39
-Rp40
 sS'species'
-p41
+p39
 g3
-((lp42
-tp43
-Rp44
+((lp40
+tp41
+Rp42
 sb.

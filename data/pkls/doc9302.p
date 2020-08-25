@@ -2,84 +2,107 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
+S'Method.STAINING'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
 p13
 g3
 ((lp14
-S"(30, u'\\\\bparkinsons')"
+(S'5ht1a'
 p15
-aS"(14, u'\\\\bpsychosis')"
-p16
-atp17
-Rp18
-sS'receptors'
+I2209
+I2215
+tp16
+a(S'5ht1a'
+p17
+I2565
+I2571
+tp18
+a(S'5ht1'
 p19
-g3
-((lp20
-S'5ht3'
+I104
+I109
+tp20
+a(S'5ht1a'
 p21
-aS'5ht1a'
-p22
-aS'5ht2c'
+I265
+I271
+tp22
+a(S'5ht1a'
 p23
-aS'5ht2'
-p24
-aS'5ht2a'
+I2389
+I2395
+tp24
+a(S'5ht1a'
 p25
-atp26
-Rp27
-sS'regions'
-p28
-g3
-((lp29
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p30
-aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
+I1224
+I1230
+tp26
+a(S'5ht1a'
+p27
+I955
+I961
+tp28
+a(S'5ht1a'
+p29
+I2273
+I2279
+tp30
+a(S'5ht1a'
 p31
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p32
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p33
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p34
-atp35
-Rp36
-sS'year'
+I598
+I604
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
+p35
+g3
+((lp36
+S"(2, u'\\\\blabeling')"
 p37
-V2006
+aS"(3, u'\\\\bimmunoreactiv')"
 p38
-sS'agonists'
+aS"(54, u'\\\\bautoradiography')"
 p39
+atp40
+Rp41
+sS'regions'
+p42
 g3
-((lp40
-S"(23, u'\\\\bclozapine')"
-p41
-atp42
-Rp43
-sS'species'
+((lp43
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p44
+aS"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V1993
+p49
+sS'species'
+p50
 g3
-((lp45
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p46
-atp47
-Rp48
+((lp51
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

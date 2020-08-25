@@ -1,0 +1,85 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.STIMULATION'
+p5
+aS'Method.PET'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(3, u'\\\\bclinical')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2a'
+p18
+I138
+I143
+tp19
+a(S'5ht2a'
+p20
+I1819
+I1824
+tp21
+a(S'5ht2a'
+p22
+I475
+I480
+tp23
+a(S'5ht2a'
+p24
+I1681
+I1686
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
+g3
+((lp29
+S"(19, u'\\\\bpositron emission tomography')"
+p30
+atp31
+Rp32
+sS'regions'
+p33
+g3
+((lp34
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
+p38
+V2019
+p39
+sS'species'
+p40
+g3
+((lp41
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p42
+aS"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p43
+atp44
+Rp45
+sb.

@@ -1,0 +1,76 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(23, u'\\\\bantipsychotic')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(3, u'\\\\bclinical')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1'
+p18
+I815
+I821
+tp19
+a(S'5ht1a'
+p20
+I807
+I813
+tp21
+a(S'5ht1c'
+p22
+I815
+I821
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+tp28
+Rp29
+sS'regions'
+p30
+g3
+((lp31
+tp32
+Rp33
+sS'year'
+p34
+V1991
+p35
+sS'species'
+p36
+g3
+((lp37
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p38
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p39
+atp40
+Rp41
+sb.

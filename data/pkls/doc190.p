@@ -2,76 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-tp15
-Rp16
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(35, u'\\\\bnocicept')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht3'
 p17
-g3
-((lp18
-S'5ht3'
+I1385
+I1390
+tp18
+a(S'5ht3'
 p19
-aS'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
+I40
+I45
+tp20
+a(S'5ht3'
+p21
+I1125
+I1130
+tp22
+a(S'5ht3'
 p23
-g3
-((lp24
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I470
+I475
+tp24
+a(S'5ht3'
 p25
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
-p29
-V1991
-p30
-sS'agonists'
+I1248
+I1253
+tp26
+a(S'5ht3'
+p27
+I648
+I653
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
 p31
 g3
 ((lp32
-S"(189, u'\\\\bethanol')"
+S"(13, u'\\\\bagonist')"
 p33
-aS"(175, u'\\\\bdoi')"
+aS"(30, u'\\\\b2methyl')"
 p34
-atp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+aS"(28, u'\\\\bzacopride')"
+p35
+aS"(12, u'\\\\bantagonist')"
+p36
+atp37
+Rp38
+sS'regions'
 p39
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp40
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
+atp42
+Rp43
+sS'year'
+p44
+V1991
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p48
+atp49
+Rp50
 sb.

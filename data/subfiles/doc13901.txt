@@ -1,4 +1,0 @@
-Youssefyeh, R. D., et al. (1992). "Development of high-affinity 5-HT3 receptor antagonists. 1. Initial structure-activity relationship of novel benzamides." J Med Chem 35(5): 895-903.
-
-	This report describes the development of novel benzamides which are orally active, highly potent, specific antagonists of 5-HT3 receptors. Described in this first report are the structure-activity relationships that led to novel structures with improved potency and selectivity. From this series of compounds, (S)-28 was identified and selected for further evaluation as a 5-HT3 receptor antagonist. Compared with 5-HT3 antagonists such as GR 38032F, BRL 43694, and metoclopramide, (S)-28 was most active in (a) inhibiting binding to 5-HT3 receptor binding sites in rat entorhinal cortex with an Ki value of 0.19 nM and (b) blocking cisplatin-induced emesis in the ferret with an ED50 value determined to be 9 micrograms/kg po.
-

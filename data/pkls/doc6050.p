@@ -2,86 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(21, u'\\\\bpain')"
-p14
-aS"(10, u'\\\\banxiety')"
-p15
-atp16
-Rp17
+((lp10
+tp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht1b'
-p20
-aS'5ht1a'
-p21
-aS'5ht2'
-p22
-aS'5ht1'
+((lp14
+(S'5ht7'
+p15
+I172
+I177
+tp16
+a(S'5ht7'
+p17
+I388
+I393
+tp18
+a(S'5ht1a'
+p19
+I625
+I631
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-aS'5ht2a'
-p24
-aS'5ht1d'
+g3
+((lp24
+S"(17, u'\\\\bpet')"
 p25
-aS'5ht2c'
+aS"(2, u'\\\\blabeling')"
 p26
-atp27
-Rp28
-sS'regions'
+aS"(13, u'\\\\bagonist')"
+p27
+aS"(37, u'\\\\bpiperazine')"
+p28
+aS"(19, u'\\\\bpositron emission tomography')"
 p29
+aS"(18, u'\\\\bimaging')"
+p30
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp30
-S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
-p31
-atp32
-Rp33
+((lp34
+tp35
+Rp36
 sS'year'
-p34
-V2013
-p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(125, u'\\\\btcb ?2')"
+p37
+V2014
 p38
-aS"(96, u'\\\\bsumatriptan')"
-p39
-aS"(149, u'\\\\bmem')"
-p40
-aS"(175, u'\\\\bdoi')"
-p41
-atp42
-Rp43
 sS'species'
-p44
+p39
 g3
-((lp45
-S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
-p46
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p47
-atp48
-Rp49
+((lp40
+tp41
+Rp42
 sb.

@@ -2,72 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.STAINING'
+S"(1, u'\\\\bpatient')"
 p10
-aS'Method.AGONIST'
+aS"(34, u'\\\\bparkinson')"
 p11
-aS'Method.ANTAGONIST'
+aS"(4, u'\\\\btreatment')"
 p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-tp17
-Rp18
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(364, u'(?i)\\\\b(middles|middle)(-|\\\\s+)?(cerebrals|cerebral)(-|\\\\s+)?(arteries|artery)\\\\b')"
+((lp17
+(S'5ht1'
+p18
+I1485
+I1490
+tp19
+a(S'5ht1'
+p20
+I320
+I325
+tp21
+a(S'5ht1'
+p22
+I37
+I42
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V1998
-p31
-sS'agonists'
+g3
+((lp27
+S"(13, u'\\\\bagonist')"
+p28
+aS"(47, u'\\\\bsumatriptan')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
 g3
 ((lp33
 tp34
 Rp35
-sS'species'
+sS'year'
 p36
-g3
-((lp37
-S"(5510, u'(?i)\\\\b(bays|bay)\\\\b')"
+V1997
+p37
+sS'species'
 p38
-aS"(4749, u'(?i)\\\\b(blues|blue)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+g3
+((lp39
+tp40
+Rp41
 sb.

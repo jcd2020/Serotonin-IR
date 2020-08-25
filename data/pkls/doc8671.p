@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,60 +10,53 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.STAINING'
-p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-tp14
-Rp15
+tp9
+Rp10
 sS'receptors'
-p16
+p11
 g3
-((lp17
-S'5ht3'
-p18
-aS'5ht3a'
+((lp12
+(S'5ht1b'
+p13
+I772
+I778
+tp14
+atp15
+Rp16
+sS'raw_text_methods'
+p17
+g3
+((lp18
+S"(2, u'\\\\blabeling')"
 p19
-aS'5ht3b'
+aS"(54, u'\\\\bautoradiography')"
 p20
-atp21
-Rp22
+aS"(29, u'\\\\bdiethylamide')"
+p21
+aS"(8, u'\\\\bru24969')"
+p22
+atp23
+Rp24
 sS'regions'
-p23
-g3
-((lp24
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p25
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p26
-aS"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
-p27
-atp28
-Rp29
+g3
+((lp26
+tp27
+Rp28
 sS'year'
+p29
+V1985
 p30
-V2002
-p31
-sS'agonists'
-p32
-g3
-((lp33
-tp34
-Rp35
 sS'species'
-p36
+p31
 g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+((lp32
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p33
+atp34
+Rp35
 sb.

@@ -2,62 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(3, u'\\\\bclinical')"
 p12
-g3
-((lp13
-S"(4, u'\\\\blocomot')"
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(4, u'\\\\btreatment')"
 p14
-atp15
-Rp16
+aS"(2, u'\\\\bdisorder')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-S'5ht3'
-p19
-atp20
-Rp21
-sS'regions'
+((lp19
+(S'5ht2a'
+p20
+I497
+I508
+tp21
+a(S'5ht1a'
 p22
-g3
-((lp23
-S"(315, u'(?i)\\\\b(mesolimbics|mesolimbic)(-|\\\\s+)?(pathways|pathway)\\\\b')"
+I450
+I461
+tp23
+a(S'5ht2a'
 p24
-atp25
-Rp26
-sS'year'
-p27
-V2001
-p28
-sS'agonists'
-p29
+I511
+I517
+tp25
+a(S'5ht1a'
+p26
+I464
+I470
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
 g3
-((lp30
-tp31
-Rp32
-sS'species'
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(12, u'\\\\bantagonist')"
 p33
+atp34
+Rp35
+sS'regions'
+p36
 g3
-((lp34
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p35
-atp36
-Rp37
+((lp37
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p38
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p39
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
+p43
+V2010
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p47
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

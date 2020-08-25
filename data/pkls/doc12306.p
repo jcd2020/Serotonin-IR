@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,68 +10,101 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.STAINING'
+S"(26, u'\\\\bbehav')"
 p9
-aS'Method.IMMUNOHISTOCHEMISTRY'
+aS"(2, u'\\\\bdisorder')"
 p10
-aS'Method.ANTAGONIST'
+aS"(7, u'\\\\bdepressi')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(9, u'\\\\bstress')"
+p12
+aS"(34, u'\\\\bparkinson')"
+p13
+aS"(4, u'\\\\btreatment')"
 p14
-g3
-((lp15
-tp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht4a'
-p20
-aS'5ht4'
+((lp18
+(S'5ht2b'
+p19
+I1484
+I1490
+tp20
+a(S'5ht2b'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(95, u'(?i)\\\\b(reds|red)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+I1727
+I1733
+tp22
+a(S'5ht2b'
+p23
+I772
+I778
+tp24
+a(S'5ht2b'
+p25
+I1615
+I1621
+tp26
+a(S'5ht2b'
 p27
-aS"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p28
-aS"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
+I1190
+I1196
+tp28
+a(S'5ht2b'
 p29
-aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p30
-aS"(121, u'(?i)\\\\b(habenulars|habenular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1378
+I1384
+tp30
+a(S'5ht2b'
 p31
-atp32
-Rp33
-sS'year'
-p34
-V2014
+I488
+I494
+tp32
+a(S'5ht2b'
+p33
+I341
+I347
+tp34
+a(S'5ht2b'
 p35
-sS'agonists'
-p36
+I72
+I78
+tp36
+atp37
+Rp38
+sS'raw_text_methods'
+p39
 g3
-((lp37
-tp38
-Rp39
+((lp40
+S"(11, u'\\\\bfluoxetine')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+tp46
+Rp47
+sS'year'
+p48
+V2015
+p49
 sS'species'
-p40
+p50
 g3
-((lp41
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+((lp51
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p52
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p53
+atp54
+Rp55
 sb.

@@ -2,72 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(5, u'\\\\btherap')"
+p11
+aS"(4, u'\\\\btreatment')"
 p12
-g3
-((lp13
-S"(8, u'\\\\blearning')"
-p14
-aS"(15, u'\\\\bschizophreni')"
-p15
-aS"(6, u'\\\\bcognit')"
-p16
-aS"(33, u'\\\\balzheimers')"
-p17
-aS"(7, u'\\\\bmemory')"
-p18
-atp19
-Rp20
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
-p21
+p16
 g3
-((lp22
-S'5ht6'
-p23
-atp24
-Rp25
-sS'regions'
+((lp17
+(S'5ht1a'
+p18
+I81
+I92
+tp19
+a(S'5ht1a'
+p20
+I1428
+I1434
+tp21
+a(S'5ht1a'
+p22
+I1682
+I1688
+tp23
+a(S'5ht1a'
+p24
+I1784
+I1790
+tp25
+a(S'5ht1a'
 p26
-g3
-((lp27
-tp28
+I470
+I476
+tp27
+atp28
 Rp29
-sS'year'
+sS'raw_text_methods'
 p30
-V2017
-p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(149, u'\\\\bmem')"
+((lp31
+S"(51, u'\\\\bway100635')"
+p32
+aS"(17, u'\\\\bpet')"
+p33
+aS"(19, u'\\\\bpositron emission tomography')"
 p34
 atp35
 Rp36
-sS'species'
+sS'regions'
 p37
 g3
 ((lp38
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-atp41
-Rp42
+atp40
+Rp41
+sS'year'
+p42
+V2014
+p43
+sS'species'
+p44
+g3
+((lp45
+tp46
+Rp47
 sb.

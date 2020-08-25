@@ -2,43 +2,46 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.KNOCKDOWN'
-p10
-aS'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-S"(35, u'\\\\bstress')"
-p16
-atp17
-Rp18
+((lp8
+tp9
+Rp10
 sS'receptors'
-p19
+p11
 g3
-((lp20
-S'5ht7'
+((lp12
+(S'5ht1d'
+p13
+I1022
+I1028
+tp14
+a(S'5ht1d'
+p15
+I463
+I469
+tp16
+a(S'5ht1d'
+p17
+I101
+I107
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-aS'5ht1b'
-p22
-aS'5ht1a'
+g3
+((lp22
+S"(34, u'\\\\b5ct')"
 p23
 atp24
 Rp25
@@ -46,30 +49,20 @@ sS'regions'
 p26
 g3
 ((lp27
-tp28
-Rp29
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p30
-V2012
 p31
-sS'agonists'
+V1993
 p32
-g3
-((lp33
-tp34
-Rp35
 sS'species'
-p36
+p33
 g3
-((lp37
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
-p38
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p39
-aS"(3671, u'(?i)\\\\b(drosophilas|drosophila)\\\\b')"
-p40
-aS"(3381, u'(?i)\\\\b(flies|fly)\\\\b')"
-p41
-atp42
-Rp43
+((lp34
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p35
+atp36
+Rp37
 sb.

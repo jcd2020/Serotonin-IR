@@ -2,84 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(5, u'\\\\bcyanopindolol')"
-p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(125, u'\\\\btropisetron')"
+tp5
+Rp6
+sS'topics'
 p7
-aS"(117, u'\\\\bketanserin')"
-p8
-aS"(203, u'\\\\btfmpp')"
+g3
+((lp8
+S"(26, u'\\\\bbehav')"
 p9
-aS"(26, u'\\\\bspiperone')"
+aS"(4, u'\\\\btreatment')"
 p10
 atp11
 Rp12
-sS'methods'
+sS'receptors'
 p13
 g3
 ((lp14
-S'Method.STIMULATION'
+(S'5ht1a'
 p15
-atp16
-Rp17
-sS'topics'
-p18
+I1117
+I1123
+tp16
+a(S'5ht1a'
+p17
+I35
+I41
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
 g3
-((lp19
-tp20
-Rp21
-sS'receptors'
-p22
-g3
-((lp23
-S'5ht1b'
+((lp22
+S"(15, u'\\\\b8ohdpat')"
+p23
+aS"(4, u'\\\\bpcpa')"
 p24
-aS'5ht5'
+aS"(38, u'\\\\bssri')"
 p25
-atp26
-Rp27
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p26
+atp27
+Rp28
 sS'regions'
-p28
+p29
 g3
-((lp29
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p30
-atp31
+((lp30
+tp31
 Rp32
 sS'year'
 p33
-V1998
+V2002
 p34
-sS'agonists'
+sS'species'
 p35
 g3
 ((lp36
-S"(178, u'\\\\btfmpp')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p38
-aS"(175, u'\\\\bdoi')"
-p39
-atp40
-Rp41
-sS'species'
-p42
-g3
-((lp43
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p44
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p45
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p46
-atp47
-Rp48
+atp38
+Rp39
 sb.

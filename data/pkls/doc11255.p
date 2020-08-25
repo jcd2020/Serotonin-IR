@@ -2,66 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(12, u'\\\\bsleep')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(16, u'\\\\blearning')"
 p12
-g3
-((lp13
-S"(3, u'\\\\bsleep')"
-p14
-atp15
-Rp16
+aS"(15, u'\\\\bmemory')"
+p13
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht1a'
-p19
-aS'5ht1'
+((lp17
+(S'5ht2a'
+p18
+I1112
+I1118
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p25
+I1101
+I1107
+tp21
+a(S'5ht1a'
+p22
+I1468
+I1474
+tp23
+a(S'5ht2c'
+p24
+I1112
+I1119
+tp25
 atp26
 Rp27
-sS'year'
+sS'raw_text_methods'
 p28
-V1994
-p29
-sS'agonists'
+g3
+((lp29
+S"(13, u'\\\\bagonist')"
 p30
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp31
-S"(155, u'\\\\bmcpp')"
-p32
-atp33
-Rp34
-sS'species'
+((lp34
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p35
+atp36
+Rp37
+sS'year'
+p38
+V2016
+p39
+sS'species'
+p40
 g3
-((lp36
-S"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
-p37
-atp38
-Rp39
+((lp41
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p42
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p43
+atp44
+Rp45
 sb.

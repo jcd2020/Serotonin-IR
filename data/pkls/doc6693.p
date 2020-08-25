@@ -2,66 +2,98 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(13, u'\\\\bantidepress')"
 p11
-g3
-((lp12
-tp13
-Rp14
+atp12
+Rp13
 sS'receptors'
-p15
+p14
 g3
-((lp16
-S'5ht1a'
-p17
-atp18
-Rp19
-sS'regions'
+((lp15
+(S'5ht2c'
+p16
+I991
+I999
+tp17
+a(S'5ht2a'
+p18
+I426
+I432
+tp19
+a(S'5ht2a'
 p20
-g3
-((lp21
-S"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
+I1706
+I1712
+tp21
+a(S'5ht2a'
 p22
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p23
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I2410
+I2416
+tp23
+a(S'5ht2'
 p24
-aS"(243, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(olfactories|olfactory)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
-p28
-V1999
-p29
-sS'agonists'
+I275
+I285
+tp25
+a(S'5ht2a'
+p26
+I991
+I997
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
 g3
 ((lp31
-tp32
-Rp33
-sS'species'
+S"(13, u'\\\\bagonist')"
+p32
+aS"(49, u'\\\\bdoi')"
+p33
+aS"(38, u'\\\\bssri')"
 p34
+aS"(12, u'\\\\bantagonist')"
+p35
+atp36
+Rp37
+sS'regions'
+p38
 g3
-((lp35
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-atp38
-Rp39
+((lp39
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p40
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V2004
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p48
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

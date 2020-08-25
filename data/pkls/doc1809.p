@@ -2,80 +2,143 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(19, u'\\\\bpsychosis')"
+p11
+aS"(33, u'\\\\blocomot')"
+p12
+aS"(23, u'\\\\bantipsychotic')"
 p13
-g3
-((lp14
-S"(6, u'\\\\bcognit')"
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(3, u'\\\\bclinical')"
 p15
-aS"(30, u'\\\\bparkinsons')"
-p16
-aS"(1, u'\\\\bmood')"
-p17
-atp18
-Rp19
+atp16
+Rp17
 sS'receptors'
+p18
+g3
+((lp19
+(S'5ht2a'
 p20
-g3
-((lp21
-S'5ht1a'
+I1877
+I1883
+tp21
+a(S'5ht2a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(316, u'(?i)\\\\b(nigrostriatals|nigrostriatal)(-|\\\\s+)?(pathways|pathway)\\\\b')"
-p27
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1461
+I1467
+tp23
+a(S'5ht2a'
+p24
+I845
+I851
+tp25
+a(S'5ht2'
+p26
+I778
+I783
+tp27
+a(S'5ht2a'
 p28
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p29
-aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
+I1766
+I1772
+tp29
+a(S'5ht2'
 p30
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p31
-atp32
-Rp33
-sS'year'
+I1536
+I1541
+tp31
+a(S'5ht2'
+p32
+I523
+I528
+tp33
+a(S'5ht2a'
 p34
-V2007
-p35
-sS'agonists'
+I1372
+I1378
+tp35
+a(S'5ht2'
 p36
-g3
-((lp37
-tp38
-Rp39
-sS'species'
+I1760
+I1765
+tp37
+a(S'5ht2a'
+p38
+I2002
+I2008
+tp39
+a(S'5ht2'
 p40
-g3
-((lp41
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+I29
+I34
+tp41
+a(S'5ht2a'
 p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
+I1558
+I1564
+tp43
+a(S'5ht2'
 p44
-atp45
-Rp46
+I390
+I395
+tp45
+atp46
+Rp47
+sS'raw_text_methods'
+p48
+g3
+((lp49
+S"(41, u'\\\\bhaloperidol')"
+p50
+aS"(9, u'\\\\britanserin')"
+p51
+aS"(23, u'\\\\bmdl')"
+p52
+aS"(12, u'\\\\bantagonist')"
+p53
+atp54
+Rp55
+sS'regions'
+p56
+g3
+((lp57
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p58
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p59
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p60
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p61
+atp62
+Rp63
+sS'year'
+p64
+V2015
+p65
+sS'species'
+p66
+g3
+((lp67
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p68
+atp69
+Rp70
 sb.

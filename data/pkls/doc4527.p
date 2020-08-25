@@ -2,68 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(22, u'\\\\bschizophreni')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(14, u'\\\\bcogniti')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(13, u'\\\\bantidepress')"
 p13
-g3
-((lp14
-tp15
-Rp16
-sS'receptors'
+aS"(23, u'\\\\bantipsychotic')"
+p14
+aS"(15, u'\\\\bmemory')"
+p15
+aS"(4, u'\\\\btreatment')"
+p16
+aS"(3, u'\\\\bclinical')"
 p17
+atp18
+Rp19
+sS'receptors'
+p20
 g3
-((lp18
-S'5ht1b'
-p19
-atp20
-Rp21
-sS'regions'
+((lp21
+(S'5ht1a'
 p22
-g3
-((lp23
-tp24
+I1130
+I1136
+tp23
+atp24
 Rp25
-sS'year'
+sS'raw_text_methods'
 p26
-V1999
-p27
-sS'agonists'
+g3
+((lp27
+S"(5, u'\\\\bmk801')"
 p28
+aS"(12, u'\\\\bantagonist')"
+p29
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp29
-S"(96, u'\\\\bsumatriptan')"
-p30
-atp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
-p35
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p36
-aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+((lp33
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p34
+atp35
+Rp36
+sS'year'
 p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+V2020
 p38
-atp39
-Rp40
+sS'species'
+p39
+g3
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

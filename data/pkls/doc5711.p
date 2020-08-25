@@ -2,70 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(43, u'\\\\bgr ?127935')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(18, u'\\\\bavoidan')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+aS"(26, u'\\\\bbehav')"
 p13
-g3
-((lp14
-tp15
-Rp16
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht1d'
-p19
-atp20
-Rp21
-sS'regions'
+((lp17
+(S'5ht1b'
+p18
+I1409
+I1415
+tp19
+a(S'5ht1b'
+p20
+I1450
+I1456
+tp21
+a(S'5ht1b'
 p22
-g3
-((lp23
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1327
+I1333
+tp23
+a(S'5ht1b'
 p24
-atp25
-Rp26
-sS'year'
-p27
-V1995
-p28
-sS'agonists'
-p29
+I1040
+I1046
+tp25
+a(S'5ht1b'
+p26
+I44
+I50
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
 g3
-((lp30
-tp31
-Rp32
-sS'species'
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(12, u'\\\\bantagonist')"
 p33
-g3
-((lp34
-S"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p35
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+atp34
+Rp35
+sS'regions'
 p36
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p37
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p38
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p39
-atp40
-Rp41
+g3
+((lp37
+tp38
+Rp39
+sS'year'
+p40
+V2019
+p41
+sS'species'
+p42
+g3
+((lp43
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p44
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

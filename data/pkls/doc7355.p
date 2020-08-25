@@ -2,68 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(1, u'\\\\bpatient')"
 p11
-g3
-((lp12
-S"(6, u'\\\\bcognit')"
-p13
-aS"(10, u'\\\\banxiety')"
-p14
-atp15
-Rp16
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
 p17
-g3
-((lp18
-S'5ht1a'
+I499
+I505
+tp18
+a(S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p24
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I232
+I238
+tp20
+a(S'5ht1a'
+p21
+I1522
+I1528
+tp22
+a(S'5ht1a'
+p23
+I443
+I449
+tp24
+a(S'5ht1a'
 p25
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p26
+I62
+I68
+tp26
 atp27
 Rp28
-sS'year'
+sS'raw_text_methods'
 p29
-V2013
-p30
-sS'agonists'
+g3
+((lp30
+S"(1, u'\\\\bneuroimag')"
 p31
+aS"(17, u'\\\\bpet')"
+p32
+aS"(12, u'\\\\bantagonist')"
+p33
+atp34
+Rp35
+sS'regions'
+p36
 g3
-((lp32
-tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp37
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
 p38
 atp39
 Rp40
+sS'year'
+p41
+V2004
+p42
+sS'species'
+p43
+g3
+((lp44
+tp45
+Rp46
 sb.

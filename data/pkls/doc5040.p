@@ -2,76 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(131, u'\\\\bm1')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-tp15
-Rp16
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(23, u'\\\\bantipsychotic')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2'
 p17
-g3
-((lp18
-S'5ht2a'
+I225
+I230
+tp18
+a(S'5ht2'
 p19
-atp20
-Rp21
-sS'regions'
-p22
+I63
+I68
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp23
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p24
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp24
+S"(41, u'\\\\bhaloperidol')"
 p25
-aS"(243, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(olfactories|olfactory)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(3, u'\\\\bimmunoreactiv')"
 p26
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+aS"(40, u'\\\\bclozapine')"
 p27
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p28
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
-p32
-V2012
-p33
-sS'agonists'
-p34
+atp29
+Rp30
+sS'regions'
+p31
 g3
-((lp35
-tp36
-Rp37
+((lp32
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
+p36
+V1999
+p37
 sS'species'
 p38
 g3
 ((lp39
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(5863, u'(?i)\\\\b(entires|entire)\\\\b')"
-p41
-aS"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
-p42
-atp43
-Rp44
+atp41
+Rp42
 sb.

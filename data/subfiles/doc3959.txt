@@ -1,0 +1,4 @@
+Grasby, P. M., et al. (1992). "Effects of the 5-HT1A partial agonists gepirone, ipsapirone and buspirone on local cerebral glucose utilization in the conscious rat." Psychopharmacology (Berl) 106(1): 97-101.
+
+	The azospirones gepirone (10 mg/kg), ipsapirone (10 mg/kg) and buspirone (10 mg/kg) were examined for their effect on regional cerebral glucose utilization in conscious rats using quantitative 2-deoxy-glucose autoradiography. All three 5-HT1A partial agonists reduced glucose utilization in the hippocampus and dentate gyrus by 20-25% and increased glucose utilization by 38-65% in the lateral habenular nucleus; an important relay between striatal/limbic areas and the mid-brain raphe nuclei. The findings emphasize the potential importance of the hippocampus as a site of action for 5-HT1A receptor active drugs in vivo and also suggest that functional activity in the striatal/limbic-habenular-raphe pathway may be influenced by gepirone, ipsapirone and buspirone.
+

@@ -1,0 +1,4 @@
+Walsh, A. E., et al. (1991). "LITHIUM AND 5-HT1A RECEPTOR SENSITIVITY - A NEUROENDOCRINE STUDY IN HEALTHY-VOLUNTEERS." Psychopharmacology 105(4): 568-572.
+
+	The effect of lithium administration (800 mg daily for 7 days) on the neuroendocrine and temperature responses to the 5-HT1A receptor agonist, gepirone, was studied in eight healthy male volunteers. Gepirone (20 mg orally) significantly increased plasma levels of prolactin, growth hormone, corticotropin and cortisol, and lowered oral temperature. None of these responses was significantly altered by lithium treatment. The results suggest that the ability of short-term lithium treatment to increase 5-HT-mediated neuroendocrine responses in humans is unlikely to be related to changes in the sensitivity of pre- or post-synaptic 5-HT1A receptors.
+

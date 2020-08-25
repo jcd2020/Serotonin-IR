@@ -2,80 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(131, u'\\\\bm1')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(14, u'\\\\bpsychosis')"
+(S'5ht1a'
 p15
-aS"(4, u'\\\\blocomot')"
-p16
-atp17
-Rp18
-sS'receptors'
+I141
+I147
+tp16
+a(S'5ht1a'
+p17
+I607
+I613
+tp18
+a(S'5ht1a'
 p19
+I927
+I933
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp20
-S'5ht2a'
-p21
-atp22
-Rp23
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+atp26
+Rp27
 sS'regions'
-p24
-g3
-((lp25
-S"(236, u'(?i)\\\\b(septals|septal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p27
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
 p28
-aS"(290, u'(?i)\\\\b(insulars|insular)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p29
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p30
-aS"(244, u'(?i)\\\\b(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p31
-atp32
-Rp33
+g3
+((lp29
+tp30
+Rp31
 sS'year'
-p34
-V2001
-p35
-sS'agonists'
-p36
-g3
-((lp37
-tp38
-Rp39
+p32
+V1991
+p33
 sS'species'
-p40
+p34
 g3
-((lp41
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p42
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+((lp35
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

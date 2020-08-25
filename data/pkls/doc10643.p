@@ -2,66 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(105, u'\\\\bnortriptyline')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(26, u'\\\\bbehav')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(9, u'\\\\bdepress')"
+(S'5ht2a'
 p15
-atp16
-Rp17
-sS'receptors'
-p18
+I406
+I412
+tp16
+a(S'5ht1a'
+p17
+I318
+I324
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp22
+S"(12, u'\\\\bantagonist')"
 p23
+atp24
+Rp25
+sS'regions'
+p26
 g3
-((lp24
-tp25
-Rp26
-sS'year'
-p27
-V2006
+((lp27
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p28
-sS'agonists'
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p29
-g3
-((lp30
-S"(45, u'\\\\bipsapirone')"
-p31
-atp32
-Rp33
+atp30
+Rp31
+sS'year'
+p32
+V2014
+p33
 sS'species'
 p34
 g3
 ((lp35
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p36
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p37
-atp38
-Rp39
+atp37
+Rp38
 sb.

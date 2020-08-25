@@ -1,0 +1,4 @@
+Ishiwata, K., et al. (1995). "SYNTHESIS OF 5-HT3 RECEPTOR ANTAGONISTS, C-11 Y-25130 AND C-11 YMO6O." Applied Radiation and Isotopes 46(9): 907-910.
+
+	Two high-affinity 5-HT3 receptor ligands, Y-25130 and YM 060, have been labeled with C-11 for use in PET studies to measure 5-HT3 receptors. The [C-11]Y-25130 was prepared by N-methylation of nor-Y-25130-BH3 complex with [C-11]CH3I in the presence of K2CO3 followed by HCl hydrolysis. Likewise, N-methylation of nor-YM060 gave [C-11]YM060. After HPLC separation, the decay-corrected radiochemical yield of the two C-11-labeled ligands was 34 similar to 40% based on [C-11]CH3I, the specific activity was 10 similar to 12 GBq/mu mol at 35 similar to 40 min from EOB, and the radiochemical and chemical purities were > 99%. In mice, the brain uptake of the two compounds was the lowest among the tissues investigated, but the level of the brain radioactivity increased with time.
+

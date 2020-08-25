@@ -1,0 +1,67 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(4, u'\\\\btreatment')"
+p9
+atp10
+Rp11
+sS'receptors'
+p12
+g3
+((lp13
+(S'5ht2'
+p14
+I336
+I341
+tp15
+a(S'5ht1a'
+p16
+I324
+I330
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(54, u'\\\\bautoradiography')"
+p22
+atp23
+Rp24
+sS'regions'
+p25
+g3
+((lp26
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p27
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p28
+atp29
+Rp30
+sS'year'
+p31
+V1999
+p32
+sS'species'
+p33
+g3
+((lp34
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p35
+atp36
+Rp37
+sb.

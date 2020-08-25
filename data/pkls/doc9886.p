@@ -2,98 +2,111 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(174, u'\\\\bsb ?258585')"
+S'Method.KNOCKOUT'
 p5
-aS"(14, u'\\\\bmethiothepin')"
-p6
-aS"(144, u'\\\\bgr ?113808')"
-p7
-aS"(31, u'\\\\bway ?100635')"
-p8
-aS"(198, u'\\\\bsb ?269970')"
-p9
-aS"(43, u'\\\\bgr ?127935')"
-p10
-aS"(91, u'\\\\bfluoxetine')"
-p11
-aS"(119, u'\\\\britanserin')"
-p12
-atp13
-Rp14
-sS'methods'
-p15
-g3
-((lp16
-S'Method.ANTAGONIST'
-p17
 aS'Method.AGONIST'
-p18
-atp19
-Rp20
+p6
+atp7
+Rp8
 sS'topics'
-p21
+p9
 g3
-((lp22
-tp23
-Rp24
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p25
+p14
 g3
-((lp26
-S'5ht7'
-p27
-aS'5ht6'
+((lp15
+(S'5ht1a'
+p16
+I1281
+I1287
+tp17
+a(S'5ht1'
+p18
+I538
+I543
+tp19
+a(S'5ht1'
+p20
+I1608
+I1613
+tp21
+a(S'5ht1'
+p22
+I273
+I278
+tp23
+a(S'5ht1a'
+p24
+I1409
+I1415
+tp25
+a(S'5ht1'
+p26
+I469
+I474
+tp27
+a(S'5ht1a'
 p28
-aS'5ht5'
-p29
-aS'5ht4'
+I254
+I260
+tp29
+a(S'5ht1a'
 p30
-aS'5ht3'
-p31
-aS'5ht2'
+I88
+I94
+tp31
+a(S'5ht1'
 p32
-aS'5ht1'
-p33
-aS'5ht1b'
-p34
-aS'5ht1d'
-p35
-aS'5ht1a'
+I1773
+I1778
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
 p36
-aS'5ht4a'
-p37
-aS'5ht2a'
+g3
+((lp37
+S"(13, u'\\\\bagonist')"
 p38
-atp39
-Rp40
+aS"(15, u'\\\\b8ohdpat')"
+p39
+atp40
+Rp41
 sS'regions'
-p41
+p42
 g3
-((lp42
-tp43
-Rp44
-sS'year'
+((lp43
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p44
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p45
-V2007
-p46
-sS'agonists'
-p47
-g3
-((lp48
-tp49
-Rp50
+atp46
+Rp47
+sS'year'
+p48
+V2016
+p49
 sS'species'
-p51
+p50
 g3
-((lp52
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp51
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p52
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p53
-atp54
-Rp55
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p54
+atp55
+Rp56
 sb.

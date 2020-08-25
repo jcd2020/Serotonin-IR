@@ -2,29 +2,31 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bmirtazapine')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-tp10
-Rp11
-sS'topics'
+S"(26, u'\\\\bbehav')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(6, u'\\\\baggressi')"
 p12
-g3
-((lp13
-S"(32, u'\\\\bnausea')"
+aS"(29, u'\\\\bhyperactiv')"
+p13
+aS"(4, u'\\\\btreatment')"
 p14
-aS"(29, u'\\\\bsex')"
+aS"(3, u'\\\\bclinical')"
 p15
 atp16
 Rp17
@@ -32,32 +34,57 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht3'
+(S'5ht3'
 p20
-aS'5ht2a'
-p21
-atp22
-Rp23
-sS'regions'
+I458
+I463
+tp21
+a(S'5ht1a'
+p22
+I263
+I269
+tp23
+a(S'5ht2'
 p24
-g3
-((lp25
-tp26
+I448
+I453
+tp25
+atp26
 Rp27
-sS'year'
+sS'raw_text_methods'
 p28
-V1997
-p29
-sS'agonists'
+g3
+((lp29
+S"(13, u'\\\\bagonist')"
 p30
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp31
-tp32
-Rp33
+((lp34
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p35
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
+p39
+V2002
+p40
 sS'species'
-p34
+p41
 g3
-((lp35
-tp36
-Rp37
+((lp42
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p43
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p44
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p45
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

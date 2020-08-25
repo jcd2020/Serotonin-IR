@@ -2,70 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(69, u'\\\\bpimavanserin')"
+S'Method.IMMUNOHISTOCHEMISTRY'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(22, u'\\\\bschizophreni')"
 p10
-aS'Method.AGONIST'
+aS"(14, u'\\\\bcogniti')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(25, u'\\\\bsocial')"
+p13
+aS"(33, u'\\\\blocomot')"
 p14
-g3
-((lp15
-S"(33, u'\\\\balzheimers')"
-p16
-aS"(6, u'\\\\bcognit')"
-p17
-aS"(30, u'\\\\bparkinsons')"
-p18
-aS"(34, u'\\\\bdementia')"
-p19
-aS"(14, u'\\\\bpsychosis')"
-p20
-atp21
-Rp22
+aS"(18, u'\\\\bavoidan')"
+p15
+atp16
+Rp17
 sS'receptors'
-p23
+p18
 g3
-((lp24
-S'5ht2a'
-p25
-atp26
-Rp27
-sS'regions'
+((lp19
+(S'5ht2a'
+p20
+I790
+I795
+tp21
+a(S'5ht2'
+p22
+I790
+I795
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+S"(3, u'\\\\bimmunoreactiv')"
 p28
+atp29
+Rp30
+sS'regions'
+p31
 g3
-((lp29
-tp30
-Rp31
-sS'year'
-p32
-V2018
+((lp32
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p33
-sS'agonists'
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p34
-g3
-((lp35
-tp36
+aS"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
+p35
+atp36
 Rp37
-sS'species'
+sS'year'
 p38
+V2016
+p39
+sS'species'
+p40
 g3
-((lp39
-tp40
-Rp41
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

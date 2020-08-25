@@ -2,74 +2,88 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
+S'Method.AGONIST'
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+aS'Method.ANTAGONIST'
 p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+atp8
+Rp9
 sS'topics'
+p10
+g3
+((lp11
+S"(26, u'\\\\bbehav')"
+p12
+aS"(25, u'\\\\bsocial')"
 p13
-g3
-((lp14
-S"(15, u'\\\\bschizophreni')"
-p15
-aS"(34, u'\\\\bdementia')"
-p16
-atp17
-Rp18
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht2a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp17
+(S'5ht1a'
+p18
+I57
+I63
+tp19
+a(S'5ht1a'
+p20
+I1558
+I1564
+tp21
+a(S'5ht1a'
+p22
+I907
+I913
+tp23
+a(S'5ht1a'
 p24
-g3
-((lp25
-tp26
+I1265
+I1271
+tp25
+atp26
 Rp27
-sS'year'
+sS'raw_text_methods'
 p28
-V2002
-p29
-sS'agonists'
+g3
+((lp29
+S"(13, u'\\\\bagonist')"
 p30
-g3
-((lp31
-S"(49, u'\\\\blysergic acid diethylamide')"
+aS"(15, u'\\\\b8ohdpat')"
+p31
+aS"(48, u'\\\\bmdma')"
 p32
-atp33
-Rp34
-sS'species'
-p35
+aS"(12, u'\\\\bantagonist')"
+p33
+atp34
+Rp35
+sS'regions'
+p36
 g3
-((lp36
-S"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p37
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p38
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p39
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+((lp37
+tp38
+Rp39
+sS'year'
 p40
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+V2007
 p41
-atp42
-Rp43
+sS'species'
+p42
+g3
+((lp43
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p44
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

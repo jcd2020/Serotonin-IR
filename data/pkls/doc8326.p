@@ -2,82 +2,83 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(131, u'\\\\bm1')"
+S'Method.AGONIST'
 p5
-aS"(69, u'\\\\bpimavanserin')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(14, u'\\\\bpsychosis')"
-p17
-aS"(30, u'\\\\bparkinsons')"
-p18
-aS"(4, u'\\\\blocomot')"
-p19
-atp20
-Rp21
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
 sS'receptors'
-p22
+p14
 g3
-((lp23
-S'5ht2c'
+((lp15
+(S'5ht2a'
+p16
+I964
+I970
+tp17
+a(S'5ht2a'
+p18
+I1824
+I1830
+tp19
+a(S'5ht2a'
+p20
+I1238
+I1244
+tp21
+a(S'5ht2a'
+p22
+I1989
+I1995
+tp23
+a(S'5ht2a'
 p24
-aS'5ht2a'
-p25
+I71
+I77
+tp25
 atp26
 Rp27
-sS'regions'
+sS'raw_text_methods'
 p28
 g3
 ((lp29
-S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p30
-atp31
-Rp32
-sS'year'
-p33
-V2011
+aS"(53, u'\\\\bketanserin')"
+p31
+atp32
+Rp33
+sS'regions'
 p34
-sS'agonists'
-p35
 g3
-((lp36
-S"(11, u'\\\\bamphetamine')"
-p37
-atp38
-Rp39
-sS'species'
+((lp35
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
+p39
+V2017
 p40
+sS'species'
+p41
 g3
-((lp41
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p42
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p43
-aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
-p44
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p45
-atp46
-Rp47
+((lp42
+tp43
+Rp44
 sb.

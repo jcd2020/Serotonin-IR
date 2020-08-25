@@ -2,76 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(99, u'\\\\bsb ?242084')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(24, u'\\\\banxiolytic')"
 p10
-aS'Method.IMMUNOHISTOCHEMISTRY'
+aS"(8, u'\\\\banxi')"
 p11
-aS'Method.ANTAGONIST'
+aS"(26, u'\\\\bbehav')"
 p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(10, u'\\\\banxiety')"
-p17
-atp18
-Rp19
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
 sS'receptors'
-p20
+p16
 g3
-((lp21
-S'5ht2b'
+((lp17
+(S'5ht1a'
+p18
+I881
+I887
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-aS'5ht2c'
-p23
-atp24
-Rp25
-sS'regions'
+g3
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+aS"(2, u'\\\\blabeling')"
+p25
+aS"(3, u'\\\\bimmunoreactiv')"
 p26
+aS"(49, u'\\\\bdoi')"
+p27
+atp28
+Rp29
+sS'regions'
+p30
 g3
-((lp27
-S"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p28
-aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p29
-atp30
-Rp31
+((lp31
+tp32
+Rp33
 sS'year'
-p32
-V2015
-p33
-sS'agonists'
 p34
-g3
-((lp35
-S"(155, u'\\\\bmcpp')"
-p36
-aS"(189, u'\\\\bethanol')"
-p37
-atp38
-Rp39
+V2011
+p35
 sS'species'
-p40
+p36
 g3
-((lp41
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p42
-atp43
-Rp44
+((lp37
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p38
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p39
+atp40
+Rp41
 sb.

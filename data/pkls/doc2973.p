@@ -2,66 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(11, u'\\\\banxiolyt')"
-p14
-aS"(10, u'\\\\banxiety')"
-p15
-atp16
-Rp17
+((lp10
+S"(7, u'\\\\bdepressi')"
+p11
+atp12
+Rp13
 sS'receptors'
-p18
+p14
 g3
-((lp19
-S'5ht1a'
+((lp15
+(S'5ht1a'
+p16
+I1239
+I1245
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-atp21
-Rp22
-sS'regions'
+g3
+((lp21
+S"(2, u'\\\\blabeling')"
+p22
+aS"(3, u'\\\\bimmunoreactiv')"
 p23
-g3
-((lp24
-tp25
+aS"(12, u'\\\\bantagonist')"
+p24
+atp25
 Rp26
-sS'year'
+sS'regions'
 p27
-V2002
-p28
-sS'agonists'
+g3
+((lp28
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p29
-g3
-((lp30
-S"(149, u'\\\\bmem')"
-p31
-atp32
-Rp33
-sS'species'
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p30
+atp31
+Rp32
+sS'year'
+p33
+V1997
 p34
+sS'species'
+p35
 g3
-((lp35
-S"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
-p36
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p37
-atp38
-Rp39
+((lp36
+tp37
+Rp38
 sb.

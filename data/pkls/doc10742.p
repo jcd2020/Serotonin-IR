@@ -2,74 +2,119 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.IMMUNOHISTOCHEMISTRY'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-S"(30, u'\\\\bparkinsons')"
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(9, u'\\\\bstress')"
 p14
-atp15
-Rp16
+aS"(20, u'\\\\bmood')"
+p15
+aS"(4, u'\\\\btreatment')"
+p16
+atp17
+Rp18
 sS'receptors'
-p17
-g3
-((lp18
-S'5ht1b'
 p19
-aS'5ht1a'
-p20
-aS'5ht2c'
+g3
+((lp20
+(S'5ht1a'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
+I103
+I109
+tp22
+a(S'5ht2a'
+p23
+I1449
+I1455
+tp24
+a(S'5ht1a'
 p25
-g3
-((lp26
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1402
+I1408
+tp26
+a(S'5ht1a'
 p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-aS"(189, u'(?i)\\\\b(subthalamics|subthalamic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I2088
+I2094
+tp28
+a(S'5ht2a'
 p29
-aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
+I2188
+I2194
+tp30
+a(S'5ht1a'
+p31
+I1519
+I1525
+tp32
+a(S'5ht2'
 p33
-V2016
-p34
-sS'agonists'
+I2188
+I2194
+tp34
+a(S'5ht2a'
 p35
-g3
-((lp36
-tp37
-Rp38
-sS'species'
-p39
-g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I121
+I127
+tp36
+a(S'5ht2a'
+p37
+I1871
+I1877
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
 p41
-atp42
-Rp43
+g3
+((lp42
+S"(13, u'\\\\bagonist')"
+p43
+aS"(54, u'\\\\bautoradiography')"
+p44
+aS"(12, u'\\\\bantagonist')"
+p45
+atp46
+Rp47
+sS'regions'
+p48
+g3
+((lp49
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p50
+atp51
+Rp52
+sS'year'
+p53
+V2008
+p54
+sS'species'
+p55
+g3
+((lp56
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p57
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p58
+atp59
+Rp60
 sb.

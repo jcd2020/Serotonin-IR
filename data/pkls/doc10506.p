@@ -1,0 +1,62 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(1, u'\\\\bpatient')"
+p9
+aS"(5, u'\\\\btherap')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1'
+p16
+I1385
+I1389
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(32, u'\\\\blesions')"
+p22
+atp23
+Rp24
+sS'regions'
+p25
+g3
+((lp26
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p27
+atp28
+Rp29
+sS'year'
+p30
+V1995
+p31
+sS'species'
+p32
+g3
+((lp33
+tp34
+Rp35
+sb.

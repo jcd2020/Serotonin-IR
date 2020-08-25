@@ -2,43 +2,44 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(131, u'\\\\bm1')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(7, u'\\\\bdepressi')"
 p10
-aS'Method.AGONIST'
+aS"(33, u'\\\\blocomot')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
-p18
-g3
-((lp19
-S'5ht1a'
+(S'5ht1a'
+p16
+I406
+I412
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-aS'5ht2b'
-p21
-aS'5ht2c'
+g3
+((lp21
+S"(13, u'\\\\bagonist')"
 p22
-aS'5ht2a'
+aS"(32, u'\\\\blesions')"
 p23
 atp24
 Rp25
@@ -46,32 +47,26 @@ sS'regions'
 p26
 g3
 ((lp27
-tp28
-Rp29
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p28
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p30
-V1998
-p31
-sS'agonists'
 p32
-g3
-((lp33
-S"(158, u'\\\\blsd')"
-p34
-aS"(174, u'\\\\bphenethylamines')"
-p35
-atp36
-Rp37
+V1996
+p33
 sS'species'
-p38
+p34
 g3
-((lp39
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
+((lp35
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p36
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p37
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

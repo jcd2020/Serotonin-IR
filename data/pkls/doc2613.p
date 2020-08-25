@@ -2,78 +2,131 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(23, u'\\\\bantipsychotic')"
 p11
-g3
-((lp12
-tp13
-Rp14
+atp12
+Rp13
 sS'receptors'
-p15
+p14
 g3
-((lp16
-S'5ht1b'
-p17
-aS'5ht1d'
+((lp15
+(S'5ht1a'
+p16
+I769
+I775
+tp17
+a(S'5ht1c'
 p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p23
-aS"(374, u'(?i)\\\\b(duras|dura)(-|\\\\s+)?(maters|mater)\\\\b')"
+I1338
+I1346
+tp19
+a(S'5ht1c'
+p20
+I874
+I882
+tp21
+a(S'5ht2a'
+p22
+I874
+I880
+tp23
+a(S'5ht1a'
 p24
-aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
-p25
-aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
+I1330
+I1336
+tp25
+a(S'5ht1b'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V1995
+I823
+I829
+tp27
+a(S'5ht5'
+p28
+I951
+I961
+tp29
+a(S'5ht3'
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(25, u'\\\\bdihydroergotamine')"
-p33
-aS"(96, u'\\\\bsumatriptan')"
+I1351
+I1356
+tp31
+a(S'5ht1c'
+p32
+I823
+I831
+tp33
+a(S'5ht2a'
 p34
-aS"(100, u'\\\\bcp ?93129')"
-p35
-aS"(102, u'\\\\bcp ?122288')"
+I1338
+I1344
+tp35
+a(S'5ht3'
 p36
-atp37
-Rp38
-sS'species'
-p39
+I928
+I933
+tp37
+atp38
+Rp39
+sS'raw_text_methods'
+p40
 g3
-((lp40
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p41
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+((lp41
+S"(15, u'\\\\b8ohdpat')"
 p42
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+aS"(20, u'\\\\bondansetron')"
 p43
-atp44
-Rp45
+aS"(13, u'\\\\bagonist')"
+p44
+aS"(11, u'\\\\bfluoxetine')"
+p45
+aS"(49, u'\\\\bdoi')"
+p46
+aS"(35, u'\\\\badenosine')"
+p47
+aS"(9, u'\\\\britanserin')"
+p48
+aS"(30, u'\\\\b2methyl')"
+p49
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p50
+aS"(12, u'\\\\bantagonist')"
+p51
+atp52
+Rp53
+sS'regions'
+p54
+g3
+((lp55
+tp56
+Rp57
+sS'year'
+p58
+V2001
+p59
+sS'species'
+p60
+g3
+((lp61
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p62
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p63
+atp64
+Rp65
 sb.

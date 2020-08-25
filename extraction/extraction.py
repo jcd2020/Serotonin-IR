@@ -2,11 +2,11 @@
 # -*- coding: utf-8 -*-
 import re
 from file_types import Receptor,ReceptorFamily,ReceptorSubtype,ReceptorPrefix,Method
-import regex_data.animals as animals
+import regex_data.Species as animals
 import regex_data.Brain_Regions as br
-import regex_data.Agonists as ag
-import regex_data.Antagonists as antag
+import regex_data.Methods as methods
 import regex_data.Serotonin_Topics as topics
+
 def match(s, compiled):
     matches = []
     i = 0
@@ -15,6 +15,8 @@ def match(s, compiled):
         if(comp.search(s)):
             matches.append((i, comp.pattern))
     return matches
+
+
 def get_family(suff):
     fam_map = {
         ReceptorFamily._1 : r"(?i)1",
@@ -30,6 +32,8 @@ def get_family(suff):
         if(re.search(v,suff)):
             return k, re.search(v,suff).end()
     return ReceptorFamily.NONE,0
+
+
 def get_sub(suff):
     sub_map = {
         ReceptorSubtype.a : r"(?i)a",
@@ -44,6 +48,8 @@ def get_sub(suff):
         if(re.search(v,suff)):
             return k
     return ReceptorSubtype.NONE
+
+
 def extract_receptor(doc, indices=True):
     recepts = set()
     pre = re.compile(ReceptorPrefix._5HT.value)
@@ -77,8 +83,10 @@ def extract_receptor(doc, indices=True):
                 if indices:
                     recepts.add((str(recept), x.start(), x_end))
     return recepts
-def extract_agonists(doc):
-    compiled = list(map(lambda x : re.compile(x), ag.strs))
+
+
+def extract_raw_text_methods(doc):
+    compiled = list(map(lambda x : re.compile(x), methods.strs))
     found = set()
     p1 = re.compile(u'α')
     pattern = re.compile('[^a-zA-Z0-9\s]+')
@@ -90,18 +98,7 @@ def extract_agonists(doc):
         for st in ls:
             found.add(st)
     return found
-def extract_antagonists(doc):
-    compiled = list(map(lambda x : re.compile(x), antag.strs))
-    found = set()
-    p1 = re.compile(u'α')
-    pattern = re.compile('[^a-zA-Z0-9\s]+')
-    doc = pattern.sub('', p1.sub('a', doc)).lower()
-    res = match(doc,compiled) 
-    if len(res) > 0:
-        ls = list(map(lambda x : str(x), res))
-        for st in ls:
-            found.add(st)
-    return found
+
 
 def extract_regions(doc):
     compiled = list(map(lambda x : re.compile(x), br.pats))
@@ -113,6 +110,8 @@ def extract_regions(doc):
         for st in ls:
             found.add(st)
     return found
+
+
 def extract_species(doc):
     compiled = list(map(lambda x : re.compile(x), animals.pats))
     count = 0
@@ -123,6 +122,8 @@ def extract_species(doc):
         for st in ls:
             found.add(st)
     return found
+
+
 def extract_topics(doc):
     compiled = list(map(lambda x : re.compile(x), topics.strs))
     found = set()
@@ -135,6 +136,8 @@ def extract_topics(doc):
         for st in ls:
             found.add(st)
     return found
+
+
 def extract_methods(doc):
     method_map = {
         Method.KNOCKOUT : r"(?i)(knockout)|(([^\w]|$|^(\s+))ko([^\w]|$|^(\s+)))",
@@ -151,6 +154,9 @@ def extract_methods(doc):
         if(re.search(v,doc)):
             val.add(str(k))
     return val
+
+
+
 def extract_year(doc):
     pat = re.compile(r"\(?\b(19|20)\d{2}\b\)?")
     return pat.search(doc).group(0).replace("(", "").replace(")", "")

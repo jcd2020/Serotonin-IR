@@ -2,74 +2,86 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(125, u'\\\\btropisetron')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
-aS'Method.AGONIST'
+aS"(2, u'\\\\bdisorder')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(1, u'\\\\bpatient')"
+p12
+aS"(10, u'\\\\bocd')"
+p13
+aS"(4, u'\\\\btreatment')"
 p14
-g3
-((lp15
-tp16
+aS"(3, u'\\\\bclinical')"
+p15
+atp16
 Rp17
 sS'receptors'
 p18
 g3
 ((lp19
-S'5ht3a'
+(S'5ht2c'
 p20
-aS'5ht3'
-p21
-atp22
-Rp23
-sS'regions'
-p24
+I708
+I714
+tp21
+a(S'5ht2c'
+p22
+I1828
+I1834
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp25
-tp26
-Rp27
-sS'year'
+((lp27
+S"(13, u'\\\\bagonist')"
 p28
-V2013
+aS"(33, u'\\\\bmcpp')"
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+atp30
+Rp31
+sS'regions'
 p32
-aS"(192, u'\\\\bquipazine')"
-p33
-aS"(194, u'\\\\bsr ?57227')"
-p34
-atp35
-Rp36
-sS'species'
-p37
 g3
-((lp38
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp33
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p34
+aS"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
+p38
+V2018
 p39
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+sS'species'
 p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p41
-atp42
-Rp43
+g3
+((lp41
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p42
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p43
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p44
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

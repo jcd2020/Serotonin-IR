@@ -2,76 +2,108 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.ANTAGONIST'
 p5
-aS"(21, u'\\\\bpindolol')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(22, u'\\\\bschizophreni')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(14, u'\\\\bcogniti')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(17, u'\\\\balzheimer')"
 p14
-g3
-((lp15
-S"(31, u'\\\\bobesity')"
+aS"(34, u'\\\\bparkinson')"
+p15
+aS"(15, u'\\\\bmemory')"
 p16
-aS"(9, u'\\\\bdepress')"
+aS"(1, u'\\\\bpatient')"
 p17
-aS"(2, u'\\\\bappetite')"
-p18
-aS"(16, u'\\\\bfeed')"
-p19
-atp20
-Rp21
+atp18
+Rp19
 sS'receptors'
+p20
+g3
+((lp21
+(S'5ht6'
 p22
-g3
-((lp23
-S'5ht1b'
+I1061
+I1066
+tp23
+a(S'5ht6'
 p24
-aS'5ht1a'
-p25
-atp26
-Rp27
-sS'regions'
+I29
+I34
+tp25
+a(S'5ht6'
+p26
+I723
+I728
+tp27
+a(S'5ht6'
 p28
-g3
-((lp29
-tp30
-Rp31
-sS'year'
+I832
+I837
+tp29
+a(S'5ht6'
+p30
+I1301
+I1306
+tp31
+a(S'5ht6'
 p32
-V1998
-p33
-sS'agonists'
+I950
+I955
+tp33
+a(S'5ht6'
 p34
-g3
-((lp35
-tp36
-Rp37
-sS'species'
-p38
-g3
-((lp39
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+I459
+I464
+tp35
+a(S'5ht6'
+p36
+I247
+I252
+tp37
+atp38
+Rp39
+sS'raw_text_methods'
 p40
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+g3
+((lp41
+S"(13, u'\\\\bagonist')"
 p42
-atp43
-Rp44
+aS"(12, u'\\\\bantagonist')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+tp48
+Rp49
+sS'year'
+p50
+V2011
+p51
+sS'species'
+p52
+g3
+((lp53
+tp54
+Rp55
 sb.

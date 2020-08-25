@@ -2,29 +2,31 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(14, u'\\\\bcogniti')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(17, u'\\\\balzheimer')"
+p12
+aS"(16, u'\\\\blearning')"
 p13
-g3
-((lp14
-S"(9, u'\\\\bdepress')"
+aS"(15, u'\\\\bmemory')"
+p14
+aS"(4, u'\\\\btreatment')"
 p15
 atp16
 Rp17
@@ -32,32 +34,47 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht1a'
+(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
+I560
+I566
+tp21
+a(S'5ht1d'
+p22
+I560
+I568
+tp23
+a(S'5ht1d'
+p24
+I550
+I561
 tp25
-Rp26
-sS'year'
-p27
-V2010
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-sS'agonists'
-p29
 g3
-((lp30
-S"(20, u'\\\\bbuspirone')"
-p31
-atp32
-Rp33
+((lp29
+S"(13, u'\\\\bagonist')"
+p30
+atp31
+Rp32
+sS'regions'
+p33
+g3
+((lp34
+tp35
+Rp36
+sS'year'
+p37
+V2013
+p38
 sS'species'
-p34
+p39
 g3
-((lp35
-tp36
-Rp37
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

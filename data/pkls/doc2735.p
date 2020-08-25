@@ -2,45 +2,46 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(30, u'\\\\bway ?100135')"
+S'Method.ANTAGONIST'
 p5
-aS"(43, u'\\\\bgr ?127935')"
-p6
-aS"(14, u'\\\\bmethiothepin')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.STIMULATION'
-p12
-aS'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(20, u'\\\\bmood')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
-p20
+p15
 g3
-((lp21
-S'5ht1b'
-p22
-aS'5ht1a'
+((lp16
+(S'5ht1a'
+p17
+I1112
+I1118
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(51, u'\\\\bway100635')"
 p23
-aS'5ht1d'
+aS"(12, u'\\\\bantagonist')"
 p24
 atp25
 Rp26
@@ -48,28 +49,18 @@ sS'regions'
 p27
 g3
 ((lp28
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-atp31
-Rp32
+tp29
+Rp30
 sS'year'
-p33
-V1995
-p34
-sS'agonists'
-p35
-g3
-((lp36
-tp37
-Rp38
+p31
+V2012
+p32
 sS'species'
-p39
+p33
 g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+((lp34
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

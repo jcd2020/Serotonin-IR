@@ -1,0 +1,109 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(5, u'\\\\btherap')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
+p18
+I97
+I103
+tp19
+a(S'5ht1a'
+p20
+I341
+I347
+tp21
+a(S'5ht1a'
+p22
+I402
+I408
+tp23
+a(S'5ht1a'
+p24
+I1198
+I1204
+tp25
+a(S'5ht1a'
+p26
+I1823
+I1829
+tp27
+a(S'5ht1a'
+p28
+I484
+I490
+tp29
+a(S'5ht1a'
+p30
+I1896
+I1902
+tp31
+a(S'5ht1a'
+p32
+I2031
+I2037
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
+g3
+((lp37
+S"(13, u'\\\\bagonist')"
+p38
+aS"(15, u'\\\\b8ohdpat')"
+p39
+aS"(21, u'\\\\bipsapirone')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p45
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p46
+atp47
+Rp48
+sS'year'
+p49
+V1997
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p53
+atp54
+Rp55
+sb.

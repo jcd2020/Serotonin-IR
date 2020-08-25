@@ -2,74 +2,91 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(48, u'\\\\btrazodone')"
+S'Method.ANTAGONIST'
 p5
-aS"(91, u'\\\\bfluoxetine')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(22, u'\\\\bschizophreni')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(5, u'\\\\btherap')"
+p12
+aS"(16, u'\\\\blearning')"
+p13
+aS"(23, u'\\\\bantipsychotic')"
 p14
-g3
-((lp15
-S"(9, u'\\\\bdepress')"
-p16
-aS"(35, u'\\\\bstress')"
-p17
-atp18
-Rp19
+atp15
+Rp16
 sS'receptors'
-p20
+p17
 g3
-((lp21
-S'5ht1a'
-p22
-aS'5ht2c'
+((lp18
+(S'5ht2a'
+p19
+I2640
+I2646
+tp20
+a(S'5ht2a'
+p21
+I2130
+I2136
+tp22
+a(S'5ht2a'
 p23
-aS'5ht2a'
-p24
-atp25
-Rp26
-sS'regions'
+I2744
+I2750
+tp24
+a(S'5ht2a'
+p25
+I1978
+I1984
+tp26
+a(S'5ht2c'
 p27
-g3
-((lp28
-tp29
+I2640
+I2647
+tp28
+atp29
 Rp30
-sS'year'
+sS'raw_text_methods'
 p31
-V2015
-p32
-sS'agonists'
+g3
+((lp32
+S"(13, u'\\\\bagonist')"
 p33
-g3
-((lp34
-S"(75, u'\\\\btrazodone')"
+aS"(53, u'\\\\bketanserin')"
+p34
+aS"(49, u'\\\\bdoi')"
 p35
-atp36
-Rp37
-sS'species'
-p38
+aS"(12, u'\\\\bantagonist')"
+p36
+atp37
+Rp38
+sS'regions'
+p39
 g3
-((lp39
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p41
-atp42
-Rp43
+((lp40
+tp41
+Rp42
+sS'year'
+p43
+V2019
+p44
+sS'species'
+p45
+g3
+((lp46
+tp47
+Rp48
 sb.

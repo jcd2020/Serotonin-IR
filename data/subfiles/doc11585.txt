@@ -1,0 +1,4 @@
+Wada, Y., et al. (1992). "ROLE OF SEROTONIN RECEPTOR SUBTYPE IN SEIZURES KINDLED FROM THE FELINE HIPPOCAMPUS." Neuroscience Letters 141(1): 21-24.
+
+	This study assessed the effects of a serotonin (5-HT)1A agonist 8-hydroxy-2-(di-n-propylamino)tetralin (8-OH-DPAT), a 5-HT2 agonist 1-(2,5-dimethoxy-4-iodophenyl)-2-aminopropane (DOI) and a 5-HT2 antagonist ketanserin on fully kindled seizures from the hippocampus. 8-OH-DPAT produced a marked suppression in hippocampal kindled seizures, while producing behavioral signs similar to those seen in the 5-HT syndrome. Although DOI and ketanserin did not affect kindled focal epileptic activity, DOI shortened and ketanserin prolonged the latency to onset of generalized convulsions. Our data suggest that 5-HT1A receptors play an inhibitory role in the generation of hippocampal seizures, whereas 5-HT2 receptors may participate in kindled seizure generalization from this region.
+

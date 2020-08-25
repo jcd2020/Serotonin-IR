@@ -2,27 +2,29 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(37, u'\\\\baddict')"
+((lp9
+S"(18, u'\\\\bavoidan')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(24, u'\\\\banxiolytic')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(2, u'\\\\bdisorder')"
 p14
 atp15
 Rp16
@@ -30,32 +32,46 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht1f'
+(S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
+I1258
+I1264
+tp20
+a(S'5ht1a'
+p21
+I1028
+I1034
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp23
-tp24
-Rp25
-sS'year'
-p26
-V2018
+((lp26
+S"(1, u'\\\\bneuroimag')"
 p27
-sS'agonists'
-p28
+atp28
+Rp29
+sS'regions'
+p30
 g3
-((lp29
-tp30
-Rp31
-sS'species'
+((lp31
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p32
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
+p36
+V2019
+p37
+sS'species'
+p38
 g3
-((lp33
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p34
-atp35
-Rp36
+((lp39
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p40
+atp41
+Rp42
 sb.

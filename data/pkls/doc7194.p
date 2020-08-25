@@ -2,84 +2,61 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(31, u'\\\\bobesity')"
-p14
-aS"(2, u'\\\\bappetite')"
+((lp10
+tp11
+Rp12
+sS'receptors'
+p13
+g3
+((lp14
+(S'5ht3'
 p15
-aS"(16, u'\\\\bfeed')"
-p16
+I1053
+I1058
+tp16
 atp17
 Rp18
-sS'receptors'
+sS'raw_text_methods'
 p19
 g3
 ((lp20
-S'5ht1b'
+S"(13, u'\\\\bagonist')"
 p21
-aS'5ht2c'
+aS"(12, u'\\\\bantagonist')"
 p22
-aS'5ht6'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p28
-aS"(55, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(parabrachials|parabrachial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
-p31
-atp32
-Rp33
+((lp26
+tp27
+Rp28
 sS'year'
-p34
-V2010
-p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(163, u'\\\\bfenfluramine')"
-p38
-atp39
-Rp40
+p29
+V2012
+p30
 sS'species'
-p41
+p31
 g3
-((lp42
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p43
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p44
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p45
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p46
-atp47
-Rp48
+((lp32
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p33
+atp34
+Rp35
 sb.

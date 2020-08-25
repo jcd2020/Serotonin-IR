@@ -1,4 +1,0 @@
-Zhao, S. H., et al. (2007). "3,4-Dihydro-2H-benzo 1,4 oxazine derivatives as 5-HT6 receptor antagonists." Bioorg Med Chem Lett 17(12): 3504-3507.
-
-	A series of novel 3,4-dihydro-2H-benzo[1,4]oxazine derivatives has been designed and synthesized as 5-HT6 receptor antagonists. Many of the compounds displayed subnanomolar affinities for the 5-HT6 receptor and good brain penetration in rats. The relationship of structure and lipophilicity to hERG inhibition of this series of compounds is discussed. (c) 2007 Elsevier Ltd. All rights reserved.
-

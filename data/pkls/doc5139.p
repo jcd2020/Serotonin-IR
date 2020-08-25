@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,68 +10,81 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.KNOCKOUT'
-p9
-aS'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(8, u'\\\\blearning')"
-p16
-aS"(7, u'\\\\bmemory')"
-p17
-aS"(3, u'\\\\bsleep')"
-p18
-aS"(9, u'\\\\bdepress')"
-p19
-aS"(1, u'\\\\bmood')"
-p20
-atp21
-Rp22
+tp9
+Rp10
 sS'receptors'
+p11
+g3
+((lp12
+(S'5ht4'
+p13
+I1215
+I1220
+tp14
+a(S'5ht4'
+p15
+I923
+I928
+tp16
+a(S'5ht4'
+p17
+I548
+I553
+tp18
+a(S'5ht4'
+p19
+I1372
+I1377
+tp20
+a(S'5ht4'
+p21
+I291
+I296
+tp22
+a(S'5ht4'
 p23
-g3
-((lp24
-S'5ht7'
+I64
+I69
+tp24
+a(S'5ht4'
 p25
-atp26
-Rp27
+I700
+I705
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
+g3
+((lp30
+S"(54, u'\\\\bautoradiography')"
+p31
+atp32
+Rp33
 sS'regions'
-p28
-g3
-((lp29
-S"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
-p33
-V2004
 p34
-sS'agonists'
-p35
 g3
-((lp36
-S"(149, u'\\\\bmem')"
-p37
-atp38
-Rp39
-sS'species'
+((lp35
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
+p39
+V1994
 p40
+sS'species'
+p41
 g3
-((lp41
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p42
-atp43
-Rp44
+((lp42
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p43
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

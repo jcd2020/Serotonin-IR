@@ -2,29 +2,31 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
-atp11
-Rp12
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(15, u'\\\\bschizophreni')"
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(2, u'\\\\bdisorder')"
 p15
 atp16
 Rp17
@@ -32,42 +34,66 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht1a'
+(S'5ht1a'
 p20
-aS'5ht5'
-p21
-atp22
-Rp23
-sS'regions'
+I881
+I887
+tp21
+a(S'5ht1a'
+p22
+I1268
+I1274
+tp23
+a(S'5ht1a'
 p24
-g3
-((lp25
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I823
+I829
+tp25
+a(S'5ht1a'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2003
+I62
+I68
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(23, u'\\\\bclozapine')"
+((lp31
+S"(11, u'\\\\bfluoxetine')"
+p32
+aS"(15, u'\\\\b8ohdpat')"
 p33
-atp34
-Rp35
-sS'species'
+aS"(13, u'\\\\bagonist')"
+p34
+aS"(4, u'\\\\bpcpa')"
+p35
+aS"(51, u'\\\\bway100635')"
 p36
-g3
-((lp37
-S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p37
+aS"(12, u'\\\\bantagonist')"
 p38
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p39
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p40
-atp41
-Rp42
+atp39
+Rp40
+sS'regions'
+p41
+g3
+((lp42
+tp43
+Rp44
+sS'year'
+p45
+V2013
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p49
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p50
+atp51
+Rp52
 sb.

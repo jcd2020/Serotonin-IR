@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,66 +10,125 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.ANTAGONIST'
+S"(13, u'\\\\bantidepress')"
 p9
-aS'Method.AGONIST'
+aS"(2, u'\\\\bdisorder')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(5, u'\\\\btherap')"
+p12
+aS"(1, u'\\\\bpatient')"
 p13
-g3
-((lp14
-tp15
-Rp16
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(3, u'\\\\bclinical')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp19
+(S'5ht2a'
+p20
+I256
+I267
+tp21
+a(S'5ht2'
 p22
-g3
-((lp23
-tp24
-Rp25
-sS'year'
+I1730
+I1736
+tp23
+a(S'5ht2a'
+p24
+I1441
+I1447
+tp25
+a(S'5ht2a'
 p26
-V1994
-p27
-sS'agonists'
+I2018
+I2024
+tp27
+a(S'5ht2a'
 p28
-g3
-((lp29
-S"(20, u'\\\\bbuspirone')"
+I270
+I276
+tp29
+a(S'5ht2a'
 p30
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p31
-aS"(42, u'\\\\bgepirone')"
+I1770
+I1776
+tp31
+a(S'5ht2a'
 p32
-atp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
-p37
-aS"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
+I1162
+I1168
+tp33
+a(S'5ht2a'
+p34
+I1187
+I1193
+tp35
+a(S'5ht2a'
+p36
+I54
+I65
+tp37
+a(S'5ht2'
 p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
+I1770
+I1776
+tp39
+a(S'5ht2'
 p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p41
-atp42
-Rp43
+I1187
+I1193
+tp41
+a(S'5ht2a'
+p42
+I1730
+I1736
+tp43
+a(S'5ht2a'
+p44
+I955
+I961
+tp45
+atp46
+Rp47
+sS'raw_text_methods'
+p48
+g3
+((lp49
+S"(11, u'\\\\bfluoxetine')"
+p50
+aS"(38, u'\\\\bssri')"
+p51
+atp52
+Rp53
+sS'regions'
+p54
+g3
+((lp55
+tp56
+Rp57
+sS'year'
+p58
+V2016
+p59
+sS'species'
+p60
+g3
+((lp61
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p62
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p63
+atp64
+Rp65
 sb.

@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,54 +10,53 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(7, u'\\\\bdepressi')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-tp14
-Rp15
+aS"(13, u'\\\\bantidepress')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
 p16
+I1347
+I1353
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
+((lp21
+tp22
+Rp23
 sS'regions'
-p21
+p24
 g3
-((lp22
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p23
-atp24
-Rp25
-sS'year'
+((lp25
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p26
-V1997
-p27
-sS'agonists'
-p28
-g3
-((lp29
-S"(39, u'\\\\bflesinoxan')"
+atp27
+Rp28
+sS'year'
+p29
+V2009
 p30
-atp31
-Rp32
 sS'species'
-p33
+p31
 g3
-((lp34
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p35
-atp36
-Rp37
+((lp32
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p33
+atp34
+Rp35
 sb.

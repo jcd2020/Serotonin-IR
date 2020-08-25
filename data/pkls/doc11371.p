@@ -2,74 +2,130 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(33, u'\\\\blocomot')"
 p11
-g3
-((lp12
-S"(3, u'\\\\bsleep')"
+aS"(8, u'\\\\banxi')"
+p12
+aS"(26, u'\\\\bbehav')"
 p13
-atp14
-Rp15
+aS"(9, u'\\\\bstress')"
+p14
+aS"(4, u'\\\\btreatment')"
+p15
+atp16
+Rp17
 sS'receptors'
-p16
-g3
-((lp17
-S'5ht1a'
 p18
-aS'5ht2'
-p19
-aS'5ht2a'
+g3
+((lp19
+(S'5ht2a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p25
-aS"(5, u'(?i)\\\\b(inferiors|inferior)(-|\\\\s+)?(olivaries|olivary)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I436
+I442
+tp21
+a(S'5ht2a'
+p22
+I57
+I63
+tp23
+a(S'5ht2a'
+p24
+I401
+I407
+tp25
+a(S'5ht2a'
 p26
-aS"(32, u'(?i)\\\\b(hypoglossals|hypoglossal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-aS"(313, u'(?i)\\\\b(solitaries|solitary)(-|\\\\s+)?(tracts|tract)\\\\b')"
+I2322
+I2328
+tp27
+a(S'5ht2a'
 p28
-atp29
-Rp30
-sS'year'
-p31
-V2007
+I739
+I745
+tp29
+a(S'5ht2c'
+p30
+I2415
+I2421
+tp31
+a(S'5ht2a'
 p32
-sS'agonists'
-p33
-g3
-((lp34
+I2657
+I2663
+tp33
+a(S'5ht2a'
+p34
+I467
+I473
 tp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p39
-aS"(3072, u'(?i)\\\\b(piglets|piglet)\\\\b')"
+a(S'5ht2c'
+p36
+I2371
+I2377
+tp37
+a(S'5ht2a'
+p38
+I2002
+I2008
+tp39
+a(S'5ht2a'
 p40
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p41
-atp42
-Rp43
+I635
+I641
+tp41
+a(S'5ht2'
+p42
+I1558
+I1563
+tp43
+atp44
+Rp45
+sS'raw_text_methods'
+p46
+g3
+((lp47
+S"(13, u'\\\\bagonist')"
+p48
+aS"(9, u'\\\\britanserin')"
+p49
+aS"(54, u'\\\\bautoradiography')"
+p50
+aS"(12, u'\\\\bantagonist')"
+p51
+atp52
+Rp53
+sS'regions'
+p54
+g3
+((lp55
+tp56
+Rp57
+sS'year'
+p58
+V2003
+p59
+sS'species'
+p60
+g3
+((lp61
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p62
+atp63
+Rp64
 sb.

@@ -2,82 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(30, u'\\\\bway ?100135')"
+S'Method.ANTAGONIST'
 p5
-aS"(22, u'\\\\bpropranolol')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(7, u'\\\\bdepressi')"
 p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(11, u'\\\\banxiolyt')"
-p17
-atp18
-Rp19
+atp12
+Rp13
 sS'receptors'
-p20
+p14
 g3
-((lp21
-S'5ht1a'
+((lp15
+(S'5ht1a'
+p16
+I1117
+I1123
+tp17
+a(S'5ht1a'
+p18
+I1217
+I1223
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-atp23
-Rp24
-sS'regions'
+g3
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+aS"(35, u'\\\\badenosine')"
 p25
-g3
-((lp26
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+aS"(22, u'\\\\bbuspirone')"
+p26
+aS"(12, u'\\\\bantagonist')"
 p27
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
+atp28
+Rp29
+sS'regions'
+p30
+g3
+((lp31
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p32
-V1994
-p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(89, u'\\\\blesopitron')"
+atp33
+Rp34
+sS'year'
+p35
+V1999
 p36
-aS"(149, u'\\\\bmem')"
-p37
-atp38
-Rp39
 sS'species'
-p40
+p37
 g3
-((lp41
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p42
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p43
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-atp46
-Rp47
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

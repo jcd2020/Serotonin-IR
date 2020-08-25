@@ -2,80 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-tp15
-Rp16
+tp10
+Rp11
 sS'receptors'
-p17
+p12
 g3
-((lp18
-S'5ht1b'
-p19
-aS'5ht1d'
+((lp13
+(S'5ht1a'
+p14
+I462
+I468
+tp15
+atp16
+Rp17
+sS'raw_text_methods'
+p18
+g3
+((lp19
+S"(13, u'\\\\bagonist')"
 p20
-atp21
-Rp22
-sS'regions'
+aS"(15, u'\\\\b8ohdpat')"
+p21
+aS"(11, u'\\\\bfluoxetine')"
+p22
+aS"(22, u'\\\\bbuspirone')"
 p23
-g3
-((lp24
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p25
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+atp24
+Rp25
+sS'regions'
 p26
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p27
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p28
-aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
-p32
-V1997
-p33
-sS'agonists'
-p34
 g3
-((lp35
-S"(96, u'\\\\bsumatriptan')"
+((lp27
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p28
+atp29
+Rp30
+sS'year'
+p31
+V1999
+p32
+sS'species'
+p33
+g3
+((lp34
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p35
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
 atp37
 Rp38
-sS'species'
-p39
-g3
-((lp40
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p41
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p42
-aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
-p43
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p44
-atp45
-Rp46
 sb.

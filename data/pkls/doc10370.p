@@ -2,70 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(7, u'\\\\bdepressi')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
 p12
-g3
-((lp13
-S"(21, u'\\\\bpain')"
-p14
-atp15
-Rp16
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1b'
 p17
-g3
-((lp18
-S'5ht1a'
+I1759
+I1765
+tp18
+a(S'5ht1b'
 p19
-aS'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
+I53
+I59
+tp20
+a(S'5ht1b'
+p21
+I1528
+I1534
+tp22
+a(S'5ht1b'
 p23
-g3
-((lp24
-S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
-p25
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-aS"(259, u'(?i)\\\\b(middles|middle)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+I584
+I590
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-atp28
-Rp29
-sS'year'
+g3
+((lp28
+S"(13, u'\\\\bagonist')"
+p29
+aS"(54, u'\\\\bautoradiography')"
 p30
-V2016
-p31
-sS'agonists'
-p32
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp33
-S"(63, u'\\\\bpsilocybin')"
-p34
-atp35
+((lp34
+tp35
 Rp36
-sS'species'
+sS'year'
 p37
-g3
-((lp38
-S"(81, u'(?i)\\\\b(asps|asp)\\\\b')"
+V2012
+p38
+sS'species'
 p39
-atp40
-Rp41
+g3
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

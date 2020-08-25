@@ -2,72 +2,63 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(128, u'\\\\bmetoclopramide')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(14, u'\\\\bcogniti')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(28, u'\\\\bemesis')"
-p15
-atp16
-Rp17
+aS"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p18
+p14
 g3
-((lp19
-S'5ht3'
+((lp15
+(S'5ht3'
+p16
+I325
+I330
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-atp21
-Rp22
-sS'regions'
+g3
+((lp21
+S"(20, u'\\\\bondansetron')"
+p22
+aS"(12, u'\\\\bantagonist')"
 p23
+atp24
+Rp25
+sS'regions'
+p26
 g3
-((lp24
-tp25
-Rp26
+((lp27
+tp28
+Rp29
 sS'year'
-p27
-V1992
-p28
-sS'agonists'
-p29
-g3
-((lp30
-S"(209, u'\\\\bmetoclopramide')"
+p30
+V2019
 p31
-aS"(149, u'\\\\bmem')"
-p32
-atp33
-Rp34
 sS'species'
-p35
+p32
 g3
-((lp36
-S"(5949, u'(?i)\\\\b(dogs|dog)\\\\b')"
-p37
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-atp41
-Rp42
+((lp33
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
 sb.

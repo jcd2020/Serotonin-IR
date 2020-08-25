@@ -2,69 +2,72 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
+S'Method.AGONIST'
 p5
-aS"(52, u'\\\\bmdl ?100907')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-S"(18, u'\\\\bpsychostim')"
-p16
-atp17
-Rp18
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+atp13
+Rp14
 sS'receptors'
-p19
+p15
 g3
-((lp20
-S'5ht2'
+((lp16
+(S'5ht1a'
+p17
+I747
+I753
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+aS"(16, u'\\\\bdiazepam')"
+p24
+aS"(36, u'\\\\bbenzodiazepine')"
 p25
-g3
-((lp26
-tp27
-Rp28
-sS'year'
-p29
-V1997
+aS"(31, u'\\\\bbenzodiazepines')"
+p26
+aS"(22, u'\\\\bbuspirone')"
+p27
+atp28
+Rp29
+sS'regions'
 p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(11, u'\\\\bamphetamine')"
-p33
-aS"(43, u'\\\\bhaloperidol')"
+((lp31
+tp32
+Rp33
+sS'year'
 p34
-atp35
-Rp36
+V1998
+p35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp37
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p38
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p39
 atp40
 Rp41

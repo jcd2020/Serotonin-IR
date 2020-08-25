@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,53 +10,57 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-tp9
-Rp10
-sS'topics'
-p11
-g3
-((lp12
-S"(3, u'\\\\bsleep')"
-p13
-atp14
-Rp15
+S"(5, u'\\\\btherap')"
+p9
+atp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht1d'
+p14
+I479
+I486
+tp15
+a(S'5ht1b'
 p16
+I479
+I485
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
 g3
-((lp17
-S'5ht1a'
-p18
-aS'5ht2'
-p19
-atp20
-Rp21
-sS'regions'
+((lp21
+S"(38, u'\\\\bssri')"
 p22
-g3
-((lp23
-tp24
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p23
+atp24
 Rp25
-sS'year'
+sS'regions'
 p26
-V1993
-p27
-sS'agonists'
-p28
 g3
-((lp29
-tp30
-Rp31
+((lp27
+tp28
+Rp29
+sS'year'
+p30
+V2017
+p31
 sS'species'
 p32
 g3
 ((lp33
-S"(3245, u'(?i)\\\\b(deer|deer)(-|\\\\s+)?(mice|mouse)\\\\b')"
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p34
-aS"(3246, u'(?i)\\\\b(peromyscuses|peromyscus)(-|\\\\s+)?(maniculatuses|maniculatus)\\\\b')"
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p35
 atp36
 Rp37

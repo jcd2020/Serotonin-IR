@@ -2,70 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(24, u'\\\\banxiolytic')"
 p10
-aS'Method.AGONIST'
+aS"(26, u'\\\\bbehav')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(9, u'\\\\bstress')"
 p14
-g3
-((lp15
-tp16
-Rp17
-sS'receptors'
+aS"(20, u'\\\\bmood')"
+p15
+aS"(5, u'\\\\btherap')"
+p16
+aS"(8, u'\\\\banxi')"
+p17
+aS"(3, u'\\\\bclinical')"
 p18
-g3
-((lp19
-S'5ht3a'
-p20
-aS'5ht3'
+atp19
+Rp20
+sS'receptors'
 p21
-aS'5ht1'
-p22
-atp23
-Rp24
-sS'regions'
-p25
 g3
-((lp26
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+((lp22
+(S'5ht1a'
+p23
+I996
+I1002
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
-p31
-V1997
-p32
-sS'agonists'
+g3
+((lp28
+S"(16, u'\\\\bdiazepam')"
+p29
+aS"(36, u'\\\\bbenzodiazepine')"
+p30
+atp31
+Rp32
+sS'regions'
 p33
 g3
 ((lp34
-tp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
+p38
+V2004
 p39
-atp40
-Rp41
+sS'species'
+p40
+g3
+((lp41
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p42
+atp43
+Rp44
 sb.

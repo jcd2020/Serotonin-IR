@@ -2,82 +2,102 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
+S'Method.PET'
 p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(31, u'\\\\bway ?100635')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p6
+atp7
+Rp8
 sS'topics'
-p16
+p9
 g3
-((lp17
-tp18
-Rp19
+((lp10
+S"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
-p20
+p15
 g3
-((lp21
-S'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
+((lp16
+(S'5ht1'
+p17
+I974
+I979
+tp18
+a(S'5ht1a'
+p19
+I252
+I258
+tp20
+a(S'5ht1'
+p21
+I535
+I540
+tp22
+a(S'5ht1a'
+p23
+I848
+I854
+tp24
+a(S'5ht1'
 p25
-g3
-((lp26
-tp27
-Rp28
-sS'year'
-p29
-V2009
-p30
-sS'agonists'
+I274
+I279
+tp26
+a(S'5ht1a'
+p27
+I112
+I118
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
 p31
 g3
 ((lp32
-S"(20, u'\\\\bbuspirone')"
+S"(17, u'\\\\bpet')"
 p33
-aS"(37, u'\\\\bf ?13714')"
+aS"(15, u'\\\\b8ohdpat')"
 p34
-aS"(39, u'\\\\bflesinoxan')"
+aS"(13, u'\\\\bagonist')"
 p35
-aS"(114, u'\\\\bl ?694247')"
+aS"(3, u'\\\\bimmunoreactiv')"
 p36
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(11, u'\\\\bfluoxetine')"
 p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(19, u'\\\\bpositron emission tomography')"
 p38
-atp39
-Rp40
-sS'species'
-p41
-g3
-((lp42
-S"(5685, u'(?i)\\\\b(xenopuses|xenopus)(-|\\\\s+)?(laevi|laevis)\\\\b')"
+aS"(18, u'\\\\bimaging')"
+p39
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p40
+atp41
+Rp42
+sS'regions'
 p43
-aS"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
-p44
-aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
-p45
-atp46
-Rp47
+g3
+((lp44
+tp45
+Rp46
+sS'year'
+p47
+V2012
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
 sb.

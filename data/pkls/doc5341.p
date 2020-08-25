@@ -2,70 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(2, u'\\\\bdisorder')"
 p13
-g3
-((lp14
-tp15
-Rp16
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht1a'
-p19
-aS'5ht2'
+((lp17
+(S'5ht1a'
+p18
+I413
+I424
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
-p28
-V1995
-p29
-sS'agonists'
+I1525
+I1531
+tp21
+a(S'5ht1a'
+p22
+I1266
+I1272
+tp23
+a(S'5ht1a'
+p24
+I54
+I65
+tp25
+a(S'5ht1a'
+p26
+I428
+I434
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
 g3
 ((lp31
-tp32
-Rp33
-sS'species'
+S"(1, u'\\\\bneuroimag')"
+p32
+aS"(17, u'\\\\bpet')"
+p33
+aS"(19, u'\\\\bpositron emission tomography')"
 p34
-g3
-((lp35
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p36
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p37
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p35
+atp36
+Rp37
+sS'regions'
 p38
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p39
-atp40
+g3
+((lp39
+tp40
 Rp41
+sS'year'
+p42
+V2008
+p43
+sS'species'
+p44
+g3
+((lp45
+tp46
+Rp47
 sb.

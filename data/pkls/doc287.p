@@ -2,72 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bmirtazapine')"
+S'Method.PET'
 p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp10
-S'Method.ANTAGONIST'
+((lp9
+S"(4, u'\\\\btreatment')"
+p10
+aS"(2, u'\\\\bdisorder')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(11, u'\\\\banxiolyt')"
+(S'5ht1a'
 p16
-aS"(10, u'\\\\banxiety')"
-p17
-aS"(7, u'\\\\bmemory')"
+I273
+I279
+tp17
+a(S'5ht1a'
 p18
-atp19
-Rp20
-sS'receptors'
-p21
-g3
-((lp22
-S'5ht1a'
-p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I2500
+I2506
+tp19
+a(S'5ht1a'
+p20
+I600
+I606
+tp21
+a(S'5ht1a'
+p22
+I258
+I269
+tp23
+a(S'5ht1a'
+p24
+I94
+I100
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-atp29
-Rp30
-sS'year'
+g3
+((lp29
+S"(51, u'\\\\bway100635')"
+p30
+aS"(17, u'\\\\bpet')"
 p31
-V2016
+aS"(18, u'\\\\bimaging')"
 p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(149, u'\\\\bmem')"
+atp33
+Rp34
+sS'regions'
 p35
-atp36
-Rp37
-sS'species'
-p38
 g3
-((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+((lp36
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
+p37
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
+p41
+V2002
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p45
+atp46
+Rp47
 sb.

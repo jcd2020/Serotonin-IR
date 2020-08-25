@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,56 +10,62 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.PET'
+S"(8, u'\\\\banxi')"
 p9
-atp10
-Rp11
-sS'topics'
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(9, u'\\\\bstress')"
 p12
-g3
-((lp13
-tp14
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
 Rp15
 sS'receptors'
 p16
 g3
 ((lp17
-S'5ht2a'
+(S'5ht1a'
 p18
-atp19
-Rp20
-sS'regions'
-p21
+I1744
+I1749
+tp19
+a(S'5ht1a'
+p20
+I1111
+I1116
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp22
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p23
-atp24
-Rp25
-sS'year'
-p26
-V2014
-p27
-sS'agonists'
+((lp25
+tp26
+Rp27
+sS'regions'
 p28
 g3
 ((lp29
 tp30
 Rp31
-sS'species'
+sS'year'
 p32
-g3
-((lp33
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+V2010
+p33
+sS'species'
 p34
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p35
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+g3
+((lp35
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p36
-atp37
-Rp38
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

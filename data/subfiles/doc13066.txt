@@ -1,4 +1,0 @@
-Varnas, K., et al. (2004). "Distribution of 5-HT7 receptors in the human brain: a preliminary autoradiographic study using [3H]SB-269970." Neurosci Lett 367(3): 313-316.
-
-	The distribution of the 5-HT7 receptor was analyzed using the selective 5-HT7 receptor antagonist radioligand [3H]SB-269970 and human brain whole hemisphere autoradiography. The results indicated that 5-HT7 receptors are most abundantly localized in the anterior thalamus and in the dentate gyrus. Other regions containing intermediate levels of 5-HT7 receptors included the hypothalamus, anterior cingulate gyrus, hippocampus, amygdala and certain brainstem nuclei. The distribution pattern obtained in this study supports the involvement of this receptor subtype in affective behavior and cognition.
-

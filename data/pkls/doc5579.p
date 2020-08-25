@@ -2,98 +2,61 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(6, u'\\\\bcyproheptadine')"
+S'Method.AGONIST'
 p5
-aS"(53, u'\\\\bcyproheptadine')"
+aS'Method.IMMUNOHISTOCHEMISTRY'
 p6
-aS"(125, u'\\\\btropisetron')"
-p7
-aS"(117, u'\\\\bketanserin')"
-p8
-aS"(91, u'\\\\bfluoxetine')"
+atp7
+Rp8
+sS'topics'
 p9
-aS"(103, u'\\\\bclomipramine')"
-p10
-atp11
+g3
+((lp10
+tp11
 Rp12
-sS'methods'
+sS'receptors'
 p13
 g3
 ((lp14
-S'Method.ANTAGONIST'
+(S'5ht1a'
 p15
-aS'Method.AGONIST'
-p16
+I774
+I780
+tp16
 atp17
 Rp18
-sS'topics'
+sS'raw_text_methods'
 p19
 g3
 ((lp20
-tp21
-Rp22
-sS'receptors'
-p23
-g3
-((lp24
-S'5ht7a'
-p25
-aS'5ht6a'
-p26
-aS'5ht2b'
-p27
-aS'5ht2'
-p28
-aS'5ht2a'
-p29
-atp30
-Rp31
+S"(13, u'\\\\bagonist')"
+p21
+atp22
+Rp23
 sS'regions'
-p32
+p24
 g3
-((lp33
-tp34
-Rp35
+((lp25
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p26
+atp27
+Rp28
 sS'year'
-p36
-V2002
-p37
-sS'agonists'
-p38
-g3
-((lp39
-S"(220, u'\\\\b5 ?methoxytryptamine')"
-p40
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p41
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
-p42
-aS"(222, u'\\\\b5 ?meot')"
-p43
-atp44
-Rp45
+p29
+V1993
+p30
 sS'species'
-p46
+p31
 g3
-((lp47
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
-p48
-aS"(3671, u'(?i)\\\\b(drosophilas|drosophila)\\\\b')"
-p49
-aS"(6490, u'(?i)\\\\b(lepidopterans|lepidopteran)\\\\b')"
-p50
-aS"(1253, u'(?i)\\\\b(insects|insect)\\\\b')"
-p51
-aS"(2081, u'(?i)\\\\b(spodopteras|spodoptera)(-|\\\\s+)?(frugiperdas|frugiperda)\\\\b')"
-p52
-aS"(6845, u'(?i)\\\\b(caterpillars|caterpillar)\\\\b')"
-p53
-atp54
-Rp55
+((lp32
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p33
+atp34
+Rp35
 sb.

@@ -2,80 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
-aS'Method.AGONIST'
+aS"(4, u'\\\\btreatment')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(35, u'\\\\bstress')"
+(S'5ht2a'
 p16
-atp17
-Rp18
-sS'receptors'
-p19
-g3
-((lp20
-S'5ht1a'
-p21
-aS'5ht3a'
+I224
+I230
+tp17
+a(S'5ht2a'
+p18
+I626
+I632
+tp19
+a(S'5ht2c'
+p20
+I224
+I232
+tp21
+a(S'5ht2c'
 p22
-aS'5ht2c'
-p23
-aS'5ht2a'
-p24
-atp25
-Rp26
+I626
+I634
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+S"(53, u'\\\\bketanserin')"
+p28
+aS"(12, u'\\\\bantagonist')"
+p29
+atp30
+Rp31
 sS'regions'
-p27
-g3
-((lp28
-tp29
-Rp30
-sS'year'
-p31
-V1995
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(45, u'\\\\bipsapirone')"
-p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+((lp33
+tp34
+Rp35
+sS'year'
 p36
-atp37
-Rp38
+V1996
+p37
 sS'species'
-p39
+p38
 g3
-((lp40
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp39
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p40
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(3726, u'(?i)\\\\b(mates|mate)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p44
-atp45
-Rp46
+atp42
+Rp43
 sb.

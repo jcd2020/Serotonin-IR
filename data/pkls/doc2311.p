@@ -2,29 +2,31 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(15, u'\\\\bschizophreni')"
+((lp10
+S"(18, u'\\\\bavoidan')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+aS"(24, u'\\\\banxiolytic')"
+p13
+aS"(26, u'\\\\bbehav')"
+p14
+aS"(33, u'\\\\blocomot')"
 p15
 atp16
 Rp17
@@ -32,60 +34,109 @@ sS'receptors'
 p18
 g3
 ((lp19
-S'5ht1a'
+(S'5ht2c'
 p20
-aS'5ht1'
-p21
-atp22
-Rp23
-sS'regions'
+I1478
+I1486
+tp21
+a(S'5ht2a'
+p22
+I49
+I55
+tp23
+a(S'5ht2a'
 p24
-g3
-((lp25
-S"(157, u'(?i)\\\\b(limbics|limbic)(-|\\\\s+)?(systems|system)\\\\b')"
+I1478
+I1484
+tp25
+a(S'5ht2c'
 p26
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p27
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I995
+I1003
+tp27
+a(S'5ht2'
 p28
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p29
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I49
+I56
+tp29
+a(S'5ht2a'
 p30
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I995
+I1001
+tp31
+a(S'5ht1a'
 p32
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p33
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+I960
+I966
+tp33
+a(S'5ht2a'
 p34
-atp35
-Rp36
-sS'year'
-p37
-V2003
+I1072
+I1078
+tp35
+a(S'5ht2c'
+p36
+I806
+I814
+tp37
+a(S'5ht1a'
 p38
-sS'agonists'
-p39
-g3
-((lp40
-S"(71, u'\\\\bssr ?181507')"
-p41
-atp42
-Rp43
-sS'species'
+I795
+I801
+tp39
+a(S'5ht2c'
+p40
+I1027
+I1033
+tp41
+a(S'5ht2c'
+p42
+I1072
+I1080
+tp43
+a(S'5ht2a'
 p44
-g3
-((lp45
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p46
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p47
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I806
+I812
+tp45
+atp46
+Rp47
+sS'raw_text_methods'
 p48
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p49
-atp50
-Rp51
+g3
+((lp49
+S"(53, u'\\\\bketanserin')"
+p50
+aS"(52, u'\\\\bmk212')"
+p51
+aS"(15, u'\\\\b8ohdpat')"
+p52
+aS"(13, u'\\\\bagonist')"
+p53
+aS"(49, u'\\\\bdoi')"
+p54
+aS"(12, u'\\\\bantagonist')"
+p55
+atp56
+Rp57
+sS'regions'
+p58
+g3
+((lp59
+tp60
+Rp61
+sS'year'
+p62
+V2011
+p63
+sS'species'
+p64
+g3
+((lp65
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p66
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p67
+atp68
+Rp69
 sb.

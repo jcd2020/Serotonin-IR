@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,31 +10,32 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(3, u'\\\\bsleep')"
-p15
-atp16
-Rp17
+tp9
+Rp10
 sS'receptors'
-p18
+p11
 g3
-((lp19
-S'5ht1a'
+((lp12
+(S'5ht2c'
+p13
+I1331
+I1337
+tp14
+atp15
+Rp16
+sS'raw_text_methods'
+p17
+g3
+((lp18
+S"(15, u'\\\\b8ohdpat')"
+p19
+aS"(4, u'\\\\bpcpa')"
 p20
-aS'5ht2'
+aS"(11, u'\\\\bfluoxetine')"
 p21
 atp22
 Rp23
@@ -46,24 +47,12 @@ tp26
 Rp27
 sS'year'
 p28
-V1992
+V2013
 p29
-sS'agonists'
+sS'species'
 p30
 g3
 ((lp31
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p32
-aS"(175, u'\\\\bdoi')"
-p33
-atp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+tp32
+Rp33
 sb.

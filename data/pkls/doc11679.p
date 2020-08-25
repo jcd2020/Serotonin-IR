@@ -2,27 +2,29 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(9, u'\\\\bdepress')"
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(3, u'\\\\bclinical')"
 p14
 atp15
 Rp16
@@ -30,44 +32,39 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht2a'
+(S'5ht2c'
 p19
-atp20
-Rp21
-sS'regions'
-p22
+I867
+I873
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp23
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p24
-aS"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+((lp24
+S"(12, u'\\\\bantagonist')"
 p25
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
-p27
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+atp26
+Rp27
+sS'regions'
 p28
-atp29
-Rp30
+g3
+((lp29
+tp30
+Rp31
 sS'year'
-p31
-V2002
 p32
-sS'agonists'
+V2003
 p33
-g3
-((lp34
-tp35
-Rp36
 sS'species'
-p37
+p34
 g3
-((lp38
-S"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
-p39
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p40
-atp41
-Rp42
+((lp35
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p36
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p37
+atp38
+Rp39
 sb.

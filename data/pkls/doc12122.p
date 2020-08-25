@@ -2,78 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(176, u'\\\\bsb ?357134')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(13, u'\\\\bantidepress')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(8, u'\\\\blearning')"
+(S'5ht4'
 p15
-aS"(7, u'\\\\bmemory')"
-p16
-atp17
-Rp18
-sS'receptors'
-p19
-g3
-((lp20
-S'5ht6'
+I1121
+I1126
+tp16
+a(S'5ht2'
+p17
+I1545
+I1550
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-atp22
-Rp23
-sS'regions'
+g3
+((lp22
+S"(53, u'\\\\bketanserin')"
+p23
+aS"(20, u'\\\\bondansetron')"
 p24
-g3
-((lp25
-S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p25
+aS"(12, u'\\\\bantagonist')"
 p26
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p27
-atp28
-Rp29
+atp27
+Rp28
+sS'regions'
+p29
+g3
+((lp30
+tp31
+Rp32
 sS'year'
-p30
+p33
 V2002
-p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(149, u'\\\\bmem')"
 p34
-atp35
-Rp36
 sS'species'
-p37
+p35
 g3
-((lp38
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p39
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p40
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p43
-atp44
-Rp45
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

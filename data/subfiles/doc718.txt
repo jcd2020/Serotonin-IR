@@ -1,0 +1,4 @@
+Batsche, K., et al. (1992). "5-HT3 receptor antagonists fail to block the suppressant effect of cocaine on the firing rate of A10 dopamine neurons in the rat." Brain Res 592(1-2): 273-277.
+
+	In the present study, we have shown that cocaine is significantly more potent in suppressing the firing rate of dopamine cells in the ventral tegmental area (VTA or A10) than in the substantia nigra pars compacta (SNC or A9). We have also determined the ability of several 5-HT3 receptor antagonists to alter the electrophysiological response of A10 dopamine neurons in the rat to cocaine, as these compounds have been implicated in modulating the effects of drugs of abuse on the dopamine system. It was found that the 5-HT3 receptor antagonists ICS205-930, zacopride and ondansetron do not alter either the firing rate or cocaine-induced suppression of the basal firing rate of A10 dopamine cells.
+

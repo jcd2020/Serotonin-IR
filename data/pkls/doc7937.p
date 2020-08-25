@@ -2,66 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(128, u'\\\\bmetoclopramide')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(1, u'\\\\bpatient')"
+p12
+aS"(23, u'\\\\bantipsychotic')"
 p13
-g3
-((lp14
-S"(32, u'\\\\bnausea')"
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(3, u'\\\\bclinical')"
 p15
-aS"(28, u'\\\\bemesis')"
-p16
-atp17
-Rp18
+atp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
-S'5ht3a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp19
+(S'5ht1a'
+p20
+I532
+I538
+tp21
+a(S'5ht2a'
+p22
+I337
+I343
+tp23
+a(S'5ht2a'
 p24
-g3
-((lp25
-tp26
+I323
+I334
+tp25
+atp26
 Rp27
-sS'year'
+sS'raw_text_methods'
 p28
-V1999
-p29
-sS'agonists'
+g3
+((lp29
+S"(13, u'\\\\bagonist')"
 p30
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp31
-S"(209, u'\\\\bmetoclopramide')"
-p32
-atp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+((lp34
+tp35
+Rp36
+sS'year'
 p37
-atp38
-Rp39
+V2019
+p38
+sS'species'
+p39
+g3
+((lp40
+tp41
+Rp42
 sb.

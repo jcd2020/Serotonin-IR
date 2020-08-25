@@ -2,53 +2,56 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(203, u'\\\\btfmpp')"
+S'Method.KNOCKOUT'
 p5
-aS"(91, u'\\\\bfluoxetine')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(194, u'\\\\bmethysergide')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p6
+atp7
+Rp8
 sS'topics'
-p17
+p9
 g3
-((lp18
-tp19
-Rp20
+((lp10
+S"(13, u'\\\\bantidepress')"
+p11
+atp12
+Rp13
 sS'receptors'
-p21
+p14
 g3
-((lp22
-S'5ht1c'
-p23
-aS'5ht1b'
+((lp15
+(S'5ht1a'
+p16
+I1353
+I1359
+tp17
+a(S'5ht1a'
+p18
+I95
+I101
+tp19
+a(S'5ht1a'
+p20
+I1871
+I1877
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-aS'5ht1a'
-p25
-aS'5ht3a'
+g3
+((lp25
+S"(13, u'\\\\bagonist')"
 p26
-aS'5ht2a'
+aS"(38, u'\\\\bssri')"
 p27
-aS'5ht3'
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p28
 atp29
 Rp30
@@ -56,36 +59,24 @@ sS'regions'
 p31
 g3
 ((lp32
-tp33
-Rp34
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p33
+aS"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p34
+atp35
+Rp36
 sS'year'
-p35
-V1995
-p36
-sS'agonists'
 p37
-g3
-((lp38
-S"(20, u'\\\\bbuspirone')"
-p39
-aS"(178, u'\\\\btfmpp')"
-p40
-aS"(53, u'\\\\bmethysergide')"
-p41
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p42
-aS"(175, u'\\\\bdoi')"
-p43
-atp44
-Rp45
+V2019
+p38
 sS'species'
-p46
+p39
 g3
-((lp47
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p48
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p49
-atp50
-Rp51
+((lp40
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p41
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p42
+atp43
+Rp44
 sb.

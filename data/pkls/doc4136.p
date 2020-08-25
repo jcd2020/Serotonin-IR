@@ -2,78 +2,103 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.OPTOGENETICS'
-p10
-atp11
-Rp12
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-S"(12, u'\\\\banxiogen')"
-p15
-aS"(11, u'\\\\banxiolyt')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-atp18
-Rp19
+((lp9
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht4'
+p14
+I1546
+I1551
+tp15
+a(S'5ht4'
+p16
+I579
+I584
+tp17
+a(S'5ht4'
+p18
+I822
+I827
+tp19
+a(S'5ht4'
 p20
-g3
-((lp21
-S'5ht1a'
+I38
+I43
+tp21
+a(S'5ht4'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p27
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I1043
+I1048
+tp23
+a(S'5ht4'
+p24
+I1248
+I1253
+tp25
+a(S'5ht4'
+p26
+I1401
+I1406
+tp27
+a(S'5ht4'
 p28
-aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1320
+I1325
+tp29
+a(S'5ht4'
 p30
-atp31
-Rp32
-sS'year'
-p33
-V2018
+I546
+I551
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
-sS'agonists'
-p35
 g3
-((lp36
-tp37
-Rp38
-sS'species'
+((lp35
+S"(17, u'\\\\bpet')"
+p36
+aS"(11, u'\\\\bfluoxetine')"
+p37
+aS"(18, u'\\\\bimaging')"
+p38
+aS"(19, u'\\\\bpositron emission tomography')"
 p39
-g3
-((lp40
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p41
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p42
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p40
+atp41
+Rp42
+sS'regions'
 p43
-atp44
-Rp45
+g3
+((lp44
+tp45
+Rp46
+sS'year'
+p47
+V2014
+p48
+sS'species'
+p49
+g3
+((lp50
+tp51
+Rp52
 sb.

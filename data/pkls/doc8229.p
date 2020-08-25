@@ -1,0 +1,109 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(6, u'\\\\baggressi')"
+p10
+aS"(3, u'\\\\bclinical')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
+sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2a'
+p18
+I693
+I699
+tp19
+a(S'5ht2a'
+p20
+I741
+I747
+tp21
+a(S'5ht2a'
+p22
+I1343
+I1349
+tp23
+a(S'5ht2a'
+p24
+I1867
+I1873
+tp25
+a(S'5ht2a'
+p26
+I1187
+I1193
+tp27
+a(S'5ht2a'
+p28
+I147
+I153
+tp29
+a(S'5ht2a'
+p30
+I2116
+I2121
+tp31
+a(S'5ht2a'
+p32
+I1503
+I1509
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
+g3
+((lp37
+S"(1, u'\\\\bneuroimag')"
+p38
+aS"(17, u'\\\\bpet')"
+p39
+aS"(19, u'\\\\bpositron emission tomography')"
+p40
+aS"(18, u'\\\\bimaging')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p46
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V2006
+p51
+sS'species'
+p52
+g3
+((lp53
+tp54
+Rp55
+sb.

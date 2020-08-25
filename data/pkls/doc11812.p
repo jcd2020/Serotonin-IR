@@ -2,74 +2,98 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-tp14
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
 Rp15
 sS'receptors'
 p16
 g3
 ((lp17
-S'5ht1a'
+(S'5ht1a'
 p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(55, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(parabrachials|parabrachial)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p23
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I2295
+I2301
+tp19
+a(S'5ht2'
+p20
+I2306
+I2311
+tp21
+a(S'5ht1a'
+p22
+I1131
+I1137
+tp23
+a(S'5ht1a'
 p24
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p25
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+I1851
+I1857
+tp25
+a(S'5ht2'
 p26
-aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p27
-aS"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+I1311
+I1316
+tp27
+a(S'5ht2'
 p28
-aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
-p29
+I2070
+I2075
+tp29
 atp30
 Rp31
-sS'year'
+sS'raw_text_methods'
 p32
-V2000
-p33
-sS'agonists'
+g3
+((lp33
+S"(13, u'\\\\bagonist')"
 p34
-g3
-((lp35
-tp36
-Rp37
-sS'species'
-p38
-g3
-((lp39
-S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+aS"(2, u'\\\\blabeling')"
+p35
+aS"(3, u'\\\\bimmunoreactiv')"
+p36
+aS"(15, u'\\\\b8ohdpat')"
+p37
+atp38
+Rp39
+sS'regions'
 p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+g3
+((lp41
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p42
+atp43
+Rp44
+sS'year'
+p45
+V1990
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

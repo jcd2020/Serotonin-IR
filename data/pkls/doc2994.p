@@ -2,78 +2,99 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(5, u'\\\\btherap')"
 p12
-g3
-((lp13
-S"(20, u'\\\\baggressi')"
-p14
-aS"(7, u'\\\\bmemory')"
-p15
-atp16
-Rp17
+aS"(15, u'\\\\bmemory')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht6'
 p18
-g3
-((lp19
-S'5ht1b'
+I1785
+I1790
+tp19
+a(S'5ht6'
 p20
-aS'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+I369
+I374
+tp21
+a(S'5ht6'
+p22
+I98
+I103
+tp23
+a(S'5ht6'
 p24
-g3
-((lp25
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I440
+I445
+tp25
+a(S'5ht6'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2013
+I1057
+I1062
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(221, u'\\\\b5 ?mt')"
+((lp31
+S"(17, u'\\\\bpet')"
+p32
+aS"(18, u'\\\\bimaging')"
 p33
-aS"(149, u'\\\\bmem')"
+aS"(54, u'\\\\bautoradiography')"
 p34
-atp35
-Rp36
-sS'species'
-p37
+aS"(12, u'\\\\bantagonist')"
+p35
+atp36
+Rp37
+sS'regions'
+p38
 g3
-((lp38
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p39
-aS"(4749, u'(?i)\\\\b(blues|blue)\\\\b')"
+((lp39
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p40
-aS"(709, u'(?i)\\\\b(chicks|chick)\\\\b')"
+aS"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p41
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p42
-aS"(6517, u'(?i)\\\\b(birds|bird)\\\\b')"
-p43
-atp44
-Rp45
+atp43
+Rp44
+sS'year'
+p45
+V2020
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p49
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

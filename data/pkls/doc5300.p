@@ -2,82 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p5
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-S"(15, u'\\\\bschizophreni')"
-p15
-atp16
-Rp17
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht1c'
-p20
-aS'5ht1b'
+((lp16
+(S'5ht3'
+p17
+I874
+I879
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-aS'5ht1a'
-p22
-aS'5ht4'
+g3
+((lp22
+S"(20, u'\\\\bondansetron')"
 p23
-aS'5ht3a'
+aS"(12, u'\\\\bantagonist')"
 p24
-aS'5ht2'
-p25
-aS'5ht1d'
-p26
-aS'5ht4b'
-p27
-aS'5ht3'
-p28
-atp29
-Rp30
+atp25
+Rp26
 sS'regions'
-p31
+p27
 g3
-((lp32
-tp33
-Rp34
+((lp28
+tp29
+Rp30
 sS'year'
-p35
-V1993
-p36
-sS'agonists'
-p37
-g3
-((lp38
-S"(63, u'\\\\bpsilocybin')"
-p39
-aS"(235, u'\\\\bnn ?dimethyltryptamine')"
-p40
-aS"(158, u'\\\\blsd')"
-p41
-atp42
-Rp43
+p31
+V2004
+p32
 sS'species'
-p44
+p33
 g3
-((lp45
-tp46
-Rp47
+((lp34
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p35
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

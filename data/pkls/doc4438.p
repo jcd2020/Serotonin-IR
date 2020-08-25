@@ -2,78 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
+tp5
+Rp6
+sS'topics'
+p7
 g3
-((lp9
-S'Method.ANTAGONIST'
+((lp8
+S"(7, u'\\\\bdepressi')"
+p9
+aS"(4, u'\\\\btreatment')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(11, u'\\\\banxiolyt')"
+(S'5ht2'
 p15
-aS"(10, u'\\\\banxiety')"
-p16
-atp17
-Rp18
-sS'receptors'
+I1870
+I1875
+tp16
+a(S'5ht2'
+p17
+I2856
+I2861
+tp18
+a(S'5ht2'
 p19
-g3
-((lp20
-S'5ht1a'
+I984
+I989
+tp20
+a(S'5ht2a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p26
-aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
+I342
+I348
+tp22
+a(S'5ht2'
+p23
+I360
+I365
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2011
-p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(21, u'\\\\bcannabidiol')"
-p34
-atp35
-Rp36
+((lp28
+tp29
+Rp30
+sS'regions'
+p31
+g3
+((lp32
+tp33
+Rp34
+sS'year'
+p35
+V2016
+p36
 sS'species'
 p37
 g3
 ((lp38
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p40
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p43
-atp44
-Rp45
+atp40
+Rp41
 sb.

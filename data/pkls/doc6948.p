@@ -2,96 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(112, u'\\\\bquetiapine')"
+S'Method.AGONIST'
 p5
-aS"(110, u'\\\\bclozapine')"
-p6
-aS"(114, u'\\\\bziprasidone')"
-p7
-aS"(59, u'\\\\bchlorpromazine')"
-p8
-aS"(113, u'\\\\brisperidone')"
-p9
-aS"(50, u'\\\\bquetiapine')"
-p10
-aS"(111, u'\\\\bolanzapine')"
-p11
-aS"(35, u'\\\\baripiprazole')"
-p12
-aS"(58, u'\\\\bhaloperidol')"
-p13
-atp14
-Rp15
-sS'methods'
-p16
-g3
-((lp17
-S'Method.ANTAGONIST'
-p18
-aS'Method.AGONIST'
-p19
-atp20
-Rp21
+atp6
+Rp7
 sS'topics'
-p22
+p8
 g3
-((lp23
-S"(15, u'\\\\bschizophreni')"
+((lp9
+S"(6, u'\\\\baggressi')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I271
+I277
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+aS"(22, u'\\\\bbuspirone')"
 p24
 atp25
 Rp26
-sS'receptors'
+sS'regions'
 p27
 g3
 ((lp28
-S'5ht1a'
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
 p29
-aS'5ht2a'
-p30
-atp31
-Rp32
-sS'regions'
-p33
-g3
-((lp34
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p35
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p36
-atp37
-Rp38
+atp30
+Rp31
 sS'year'
-p39
-V2008
-p40
-sS'agonists'
-p41
-g3
-((lp42
-S"(64, u'\\\\bquetiapine')"
-p43
-aS"(223, u'\\\\baripiprazole')"
-p44
-aS"(57, u'\\\\bolanzapine')"
-p45
-aS"(84, u'\\\\bziprasidone')"
-p46
-aS"(43, u'\\\\bhaloperidol')"
-p47
-aS"(23, u'\\\\bclozapine')"
-p48
-atp49
-Rp50
+p32
+V2006
+p33
 sS'species'
-p51
+p34
 g3
-((lp52
-tp53
-Rp54
+((lp35
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p36
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p37
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+atp39
+Rp40
 sb.

@@ -2,76 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.PET'
+S"(16, u'\\\\blearning')"
 p10
-aS'Method.ANTAGONIST'
+aS"(17, u'\\\\balzheimer')"
 p11
-aS'Method.AGONIST'
+aS"(4, u'\\\\btreatment')"
 p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-tp17
-Rp18
+aS"(15, u'\\\\bmemory')"
+p13
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
-p24
+((lp17
+(S'5ht4'
+p18
+I807
+I812
+tp19
+a(S'5ht4'
+p20
+I100
+I105
+tp21
+a(S'5ht4'
+p22
+I610
+I615
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp25
-tp26
-Rp27
-sS'year'
+((lp27
+S"(13, u'\\\\bagonist')"
 p28
-V2007
+aS"(32, u'\\\\blesions')"
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(149, u'\\\\bmem')"
+atp30
+Rp31
+sS'regions'
 p32
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p33
-atp34
-Rp35
-sS'species'
-p36
 g3
-((lp37
-S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
+((lp33
+tp34
+Rp35
+sS'year'
+p36
+V2008
+p37
+sS'species'
 p38
-aS"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
-p39
-aS"(4635, u'(?i)\\\\b(baboons|baboon)\\\\b')"
+g3
+((lp39
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p40
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(3527, u'(?i)\\\\b(permits|permit)\\\\b')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sb.

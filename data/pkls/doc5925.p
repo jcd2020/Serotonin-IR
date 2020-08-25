@@ -2,78 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.STIMULATION'
+S"(31, u'\\\\brespiratory')"
 p10
-aS'Method.AGONIST'
+aS"(1, u'\\\\bpatient')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+aS"(12, u'\\\\bsleep')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht2'
 p18
-g3
-((lp19
-S'5ht1a'
-p20
-aS'5ht2c'
-p21
-aS'5ht2'
+I827
+I832
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-aS'5ht2a'
-p23
-atp24
-Rp25
-sS'regions'
-p26
 g3
-((lp27
-S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
-p28
-atp29
+((lp23
+S"(12, u'\\\\bantagonist')"
+p24
+atp25
+Rp26
+sS'regions'
+p27
+g3
+((lp28
+tp29
 Rp30
 sS'year'
 p31
-V2002
+V2018
 p32
-sS'agonists'
+sS'species'
 p33
 g3
 ((lp34
-S"(85, u'\\\\b8 ?oh ?dpat')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(175, u'\\\\bdoi')"
-p36
-atp37
-Rp38
-sS'species'
-p39
-g3
-((lp40
-S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
-p41
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+atp36
+Rp37
 sb.

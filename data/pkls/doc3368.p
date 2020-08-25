@@ -2,86 +2,139 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(112, u'\\\\bquetiapine')"
-p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(50, u'\\\\bquetiapine')"
-p8
-aS"(111, u'\\\\bolanzapine')"
-p9
-aS"(35, u'\\\\baripiprazole')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
 S'Method.ANTAGONIST'
-p15
+p5
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p6
+atp7
+Rp8
 sS'topics'
-p19
+p9
 g3
-((lp20
-S"(4, u'\\\\blocomot')"
-p21
-atp22
-Rp23
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1c'
+p16
+I2641
+I2647
+tp17
+a(S'5ht1a'
+p18
+I1651
+I1657
+tp19
+a(S'5ht2'
+p20
+I1593
+I1598
+tp21
+a(S'5ht3'
+p22
+I2814
+I2819
+tp23
+a(S'5ht2'
 p24
-g3
-((lp25
-S'5ht7'
+I2911
+I2916
+tp25
+a(S'5ht2'
 p26
-aS'5ht1a'
-p27
-aS'5ht5'
+I2303
+I2308
+tp27
+a(S'5ht5'
 p28
-aS'5ht2a'
-p29
-atp30
-Rp31
-sS'regions'
+I1115
+I1120
+tp29
+a(S'5ht2'
+p30
+I3147
+I3152
+tp31
+a(S'5ht3'
 p32
-g3
-((lp33
-tp34
-Rp35
-sS'year'
+I1687
+I1692
+tp33
+a(S'5ht2'
+p34
+I1767
+I1772
+tp35
+a(S'5ht5'
 p36
-V2008
-p37
-sS'agonists'
+I2681
+I2686
+tp37
+a(S'5ht2'
 p38
-g3
-((lp39
-S"(57, u'\\\\bolanzapine')"
+I2019
+I2024
+tp39
+a(S'5ht2'
 p40
-aS"(64, u'\\\\bquetiapine')"
-p41
-aS"(223, u'\\\\baripiprazole')"
-p42
-atp43
-Rp44
-sS'species'
-p45
+I1012
+I1017
+tp41
+atp42
+Rp43
+sS'raw_text_methods'
+p44
 g3
-((lp46
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+((lp45
+S"(53, u'\\\\bketanserin')"
+p46
+aS"(33, u'\\\\bmcpp')"
 p47
-atp48
-Rp49
+aS"(11, u'\\\\bfluoxetine')"
+p48
+aS"(15, u'\\\\b8ohdpat')"
+p49
+aS"(34, u'\\\\b5ct')"
+p50
+aS"(13, u'\\\\bagonist')"
+p51
+aS"(30, u'\\\\b2methyl')"
+p52
+aS"(49, u'\\\\bdoi')"
+p53
+aS"(9, u'\\\\britanserin')"
+p54
+aS"(12, u'\\\\bantagonist')"
+p55
+atp56
+Rp57
+sS'regions'
+p58
+g3
+((lp59
+tp60
+Rp61
+sS'year'
+p62
+V1991
+p63
+sS'species'
+p64
+g3
+((lp65
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p66
+atp67
+Rp68
 sb.

@@ -2,72 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(28, u'\\\\bgastrointestin')"
 p11
-g3
-((lp12
-S"(8, u'\\\\blearning')"
-p13
-aS"(15, u'\\\\bschizophreni')"
-p14
-aS"(6, u'\\\\bcognit')"
-p15
-aS"(7, u'\\\\bmemory')"
-p16
-atp17
-Rp18
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht2a'
-p21
+((lp15
+(S'5ht3'
+p16
+I373
+I378
+tp17
+a(S'5ht4'
+p18
+I55
+I60
+tp19
+a(S'5ht4'
+p20
+I355
+I360
+tp21
 atp22
 Rp23
-sS'regions'
+sS'raw_text_methods'
 p24
 g3
 ((lp25
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p26
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p27
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p28
-atp29
-Rp30
+atp28
+Rp29
+sS'regions'
+p30
+g3
+((lp31
+tp32
+Rp33
 sS'year'
-p31
-V2016
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(149, u'\\\\bmem')"
+p34
+V2004
 p35
-atp36
-Rp37
 sS'species'
-p38
+p36
 g3
-((lp39
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p40
-atp41
-Rp42
+((lp37
+tp38
+Rp39
 sb.

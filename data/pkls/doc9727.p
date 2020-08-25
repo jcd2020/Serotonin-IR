@@ -2,78 +2,86 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(51, u'\\\\basenapine')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-S"(15, u'\\\\bschizophreni')"
-p16
-aS"(1, u'\\\\bmood')"
-p17
-atp18
-Rp19
+((lp10
+tp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht1b'
-p22
-aS'5ht1a'
-p23
-aS'5ht2a'
-p24
-atp25
-Rp26
-sS'regions'
+((lp14
+(S'5ht2a'
+p15
+I456
+I462
+tp16
+a(S'5ht2c'
+p17
+I456
+I464
+tp18
+a(S'5ht2c'
+p19
+I925
+I933
+tp20
+a(S'5ht2a'
+p21
+I925
+I931
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(53, u'\\\\bketanserin')"
 p27
-g3
-((lp28
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(33, u'\\\\bmcpp')"
+p28
+aS"(13, u'\\\\bagonist')"
 p29
-aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
+aS"(49, u'\\\\bdoi')"
 p30
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+aS"(48, u'\\\\bmdma')"
 p31
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(10, u'\\\\bmethamphetamine')"
 p32
-atp33
-Rp34
-sS'year'
-p35
-V2015
+aS"(12, u'\\\\bantagonist')"
+p33
+atp34
+Rp35
+sS'regions'
 p36
-sS'agonists'
-p37
 g3
-((lp38
-S"(13, u'\\\\basenapine')"
-p39
-atp40
-Rp41
+((lp37
+tp38
+Rp39
+sS'year'
+p40
+V2019
+p41
 sS'species'
 p42
 g3
 ((lp43
-tp44
-Rp45
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

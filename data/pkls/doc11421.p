@@ -2,39 +2,40 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(125, u'\\\\btropisetron')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht1a'
+p14
+I769
+I775
+tp15
+atp16
+Rp17
+sS'raw_text_methods'
 p18
 g3
 ((lp19
-S'5ht3'
+S"(9, u'\\\\britanserin')"
 p20
-aS'5ht1'
+aS"(12, u'\\\\bantagonist')"
 p21
 atp22
 Rp23
@@ -46,30 +47,12 @@ tp26
 Rp27
 sS'year'
 p28
-V1994
+V2002
 p29
-sS'agonists'
+sS'species'
 p30
 g3
 ((lp31
-S"(65, u'\\\\brauwolscine')"
-p32
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p33
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
-p34
-aS"(219, u'\\\\b5 ?ct')"
-p35
-atp36
-Rp37
-sS'species'
-p38
-g3
-((lp39
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p40
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p41
-atp42
-Rp43
+tp32
+Rp33
 sb.

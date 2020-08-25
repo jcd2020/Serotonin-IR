@@ -2,66 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(133, u'\\\\bmianserin')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.STIMULATION'
+S"(11, u'\\\\bobsessive compulsive disorder')"
 p10
-aS'Method.ANTAGONIST'
+aS"(2, u'\\\\bdisorder')"
 p11
-aS'Method.AGONIST'
+aS"(20, u'\\\\bmood')"
 p12
-atp13
-Rp14
-sS'topics'
+aS"(8, u'\\\\banxi')"
+p13
+aS"(1, u'\\\\bpatient')"
+p14
+aS"(10, u'\\\\bocd')"
 p15
-g3
-((lp16
-tp17
-Rp18
+atp16
+Rp17
 sS'receptors'
-p19
+p18
 g3
-((lp20
-S'5ht1b'
-p21
-aS'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
+((lp19
+(S'5ht1d'
+p20
+I45
+I51
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp26
-tp27
-Rp28
-sS'year'
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+aS"(33, u'\\\\bmcpp')"
+p27
+aS"(52, u'\\\\bmk212')"
+p28
+aS"(47, u'\\\\bsumatriptan')"
 p29
-V1994
-p30
-sS'agonists'
-p31
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp32
-tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp33
+tp34
+Rp35
+sS'year'
+p36
+V1998
 p37
-atp38
-Rp39
+sS'species'
+p38
+g3
+((lp39
+tp40
+Rp41
 sb.

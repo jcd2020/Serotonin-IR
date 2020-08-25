@@ -2,72 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
+S'Method.ANTAGONIST'
 p5
-aS"(31, u'\\\\bway ?100635')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(24, u'\\\\banxiolytic')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(8, u'\\\\banxi')"
 p14
-g3
-((lp15
-tp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p15
+aS"(3, u'\\\\bclinical')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
-S'5ht1b'
-p20
-aS'5ht1a'
+((lp20
+(S'5ht3'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I546
+I551
+tp22
+a(S'5ht1a'
+p23
+I459
+I465
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+g3
+((lp28
+S"(13, u'\\\\bagonist')"
+p29
+aS"(11, u'\\\\bfluoxetine')"
+p30
+aS"(22, u'\\\\bbuspirone')"
 p31
-V1999
+aS"(12, u'\\\\bantagonist')"
 p32
-sS'agonists'
-p33
+atp33
+Rp34
+sS'regions'
+p35
 g3
-((lp34
-tp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+((lp36
+tp37
+Rp38
+sS'year'
 p39
-aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
+V1990
 p40
-atp41
-Rp42
+sS'species'
+p41
+g3
+((lp42
+tp43
+Rp44
 sb.

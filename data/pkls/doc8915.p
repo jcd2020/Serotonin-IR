@@ -2,68 +2,115 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(18, u'\\\\bavoidan')"
 p11
-g3
-((lp12
-tp13
-Rp14
+aS"(8, u'\\\\banxi')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
 sS'receptors'
-p15
-g3
-((lp16
-S'5ht1d'
 p17
-atp18
-Rp19
-sS'regions'
-p20
 g3
-((lp21
-S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p22
-atp23
-Rp24
-sS'year'
+((lp18
+(S'5ht2a'
+p19
+I1412
+I1418
+tp20
+a(S'5ht2a'
+p21
+I57
+I63
+tp22
+a(S'5ht2a'
+p23
+I873
+I879
+tp24
+a(S'5ht1a'
 p25
-V1993
-p26
-sS'agonists'
+I860
+I866
+tp26
+a(S'5ht1a'
 p27
-g3
-((lp28
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+I1957
+I1963
+tp28
+a(S'5ht1a'
 p29
-aS"(219, u'\\\\b5 ?ct')"
-p30
-atp31
-Rp32
-sS'species'
+I44
+I50
+tp30
+a(S'5ht1a'
+p31
+I1600
+I1606
+tp32
+a(S'5ht1a'
 p33
-g3
-((lp34
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+I610
+I616
+tp34
+a(S'5ht2a'
 p35
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p36
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p37
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p38
-atp39
-Rp40
+I1872
+I1878
+tp36
+atp37
+Rp38
+sS'raw_text_methods'
+p39
+g3
+((lp40
+S"(13, u'\\\\bagonist')"
+p41
+aS"(51, u'\\\\bway100635')"
+p42
+aS"(53, u'\\\\bketanserin')"
+p43
+aS"(12, u'\\\\bantagonist')"
+p44
+atp45
+Rp46
+sS'regions'
+p47
+g3
+((lp48
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p49
+atp50
+Rp51
+sS'year'
+p52
+V2005
+p53
+sS'species'
+p54
+g3
+((lp55
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p56
+atp57
+Rp58
 sb.

@@ -2,74 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(103, u'\\\\bclomipramine')"
+S'Method.IMMUNOHISTOCHEMISTRY'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(13, u'\\\\bantidepress')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(9, u'\\\\bstress')"
 p13
-g3
-((lp14
-tp15
+aS"(29, u'\\\\bhyperactiv')"
+p14
+atp15
 Rp16
 sS'receptors'
 p17
 g3
 ((lp18
-S'5ht1b'
+(S'5ht1a'
 p19
-aS'5ht1a'
-p20
-aS'5ht3'
+I1843
+I1849
+tp20
+a(S'5ht1a'
 p21
-aS'5ht2'
-p22
-atp23
-Rp24
-sS'regions'
+I1625
+I1631
+tp22
+a(S'5ht1a'
+p23
+I1208
+I1214
+tp24
+a(S'5ht1a'
 p25
-g3
-((lp26
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I603
+I609
+tp26
+a(S'5ht1a'
 p27
-atp28
-Rp29
-sS'year'
-p30
-V1993
+I558
+I564
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
 p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(192, u'\\\\bquipazine')"
-p34
-aS"(175, u'\\\\bdoi')"
+((lp32
+tp33
+Rp34
+sS'regions'
 p35
-atp36
-Rp37
-sS'species'
-p38
 g3
-((lp39
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+((lp36
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p37
+atp38
+Rp39
+sS'year'
 p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2003
 p41
-atp42
-Rp43
+sS'species'
+p42
+g3
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

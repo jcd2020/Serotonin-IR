@@ -2,76 +2,95 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(17, u'\\\\bnan ?190')"
+S'Method.AGONIST'
 p5
-aS"(117, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(9, u'\\\\bdepress')"
-p17
-atp18
-Rp19
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(5, u'\\\\btherap')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(33, u'\\\\blocomot')"
+p13
+aS"(23, u'\\\\bantipsychotic')"
+p14
+atp15
+Rp16
 sS'receptors'
-p20
+p17
 g3
-((lp21
-S'5ht1a'
-p22
-aS'5ht2c'
+((lp18
+(S'5ht1a'
+p19
+I37
+I48
+tp20
+a(S'5ht1a'
+p21
+I557
+I563
+tp22
+a(S'5ht5'
 p23
-aS'5ht2a'
-p24
-atp25
-Rp26
-sS'regions'
+I220
+I230
+tp24
+a(S'5ht1a'
+p25
+I2002
+I2008
+tp26
+a(S'5ht1a'
 p27
+I676
+I682
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
 g3
-((lp28
-S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
-p32
-V2007
+((lp32
+S"(15, u'\\\\b8ohdpat')"
 p33
-sS'agonists'
+aS"(42, u'\\\\bneuroleptics')"
 p34
-g3
-((lp35
-tp36
+aS"(41, u'\\\\bhaloperidol')"
+p35
+atp36
 Rp37
-sS'species'
+sS'regions'
 p38
 g3
 ((lp39
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p41
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p42
-atp43
-Rp44
+atp42
+Rp43
+sS'year'
+p44
+V2008
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

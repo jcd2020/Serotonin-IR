@@ -2,82 +2,95 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(1, u'\\\\balprenolol')"
-p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(30, u'\\\\bway ?100135')"
-p7
-aS"(17, u'\\\\bnan ?190')"
-p8
-aS"(25, u'\\\\bsdz ?216525')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
-S'Method.ANTAGONIST'
-p14
-aS'Method.AGONIST'
-p15
-atp16
-Rp17
+tp5
+Rp6
 sS'topics'
-p18
+p7
 g3
-((lp19
-tp20
-Rp21
+((lp8
+S"(22, u'\\\\bschizophreni')"
+p9
+aS"(14, u'\\\\bcogniti')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(8, u'\\\\banxi')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
+Rp16
 sS'receptors'
-p22
+p17
 g3
-((lp23
-S'5ht1a'
-p24
-atp25
-Rp26
-sS'regions'
+((lp18
+(S'5ht2a'
+p19
+I705
+I711
+tp20
+a(S'5ht2a'
+p21
+I57
+I63
+tp22
+a(S'5ht2a'
+p23
+I367
+I373
+tp24
+a(S'5ht2a'
+p25
+I510
+I516
+tp26
+a(S'5ht2a'
 p27
-g3
-((lp28
-tp29
-Rp30
-sS'year'
+I635
+I641
+tp28
+a(S'5ht2a'
+p29
+I1488
+I1494
+tp30
+a(S'5ht2a'
 p31
-V1995
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(39, u'\\\\bflesinoxan')"
+I879
+I885
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
 p35
-aS"(83, u'\\\\bzalospirone')"
-p36
-aS"(68, u'\\\\bs ?15535')"
-p37
-aS"(60, u'\\\\bpyrimidinylpiperazine')"
-p38
-aS"(45, u'\\\\bipsapirone')"
-p39
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p40
-atp41
-Rp42
-sS'species'
-p43
 g3
-((lp44
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp36
+tp37
+Rp38
+sS'regions'
+p39
+g3
+((lp40
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V2009
 p45
-atp46
-Rp47
+sS'species'
+p46
+g3
+((lp47
+tp48
+Rp49
 sb.

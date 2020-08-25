@@ -2,72 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(7, u'\\\\bdepressi')"
+p10
+aS"(30, u'\\\\bpain')"
+p11
+aS"(3, u'\\\\bclinical')"
 p12
-g3
-((lp13
-S"(3, u'\\\\bsleep')"
+aS"(35, u'\\\\bnocicept')"
+p13
+aS"(2, u'\\\\bdisorder')"
 p14
-aS"(9, u'\\\\bdepress')"
-p15
-aS"(1, u'\\\\bmood')"
-p16
-aS"(14, u'\\\\bpsychosis')"
-p17
-aS"(6, u'\\\\bcognit')"
-p18
-aS"(19, u'\\\\bimpulsiv')"
-p19
-aS"(10, u'\\\\banxiety')"
-p20
-atp21
-Rp22
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1b'
+p19
+I2186
+I2192
+tp20
+a(S'5ht1d'
+p21
+I1967
+I1973
+tp22
+a(S'5ht1b'
 p23
+I1836
+I1842
+tp24
+a(S'5ht1d'
+p25
+I2186
+I2194
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
 g3
-((lp24
-tp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
-tp29
-Rp30
-sS'year'
+((lp30
+S"(13, u'\\\\bagonist')"
 p31
-V2003
+aS"(47, u'\\\\bsumatriptan')"
 p32
-sS'agonists'
-p33
+atp33
+Rp34
+sS'regions'
+p35
 g3
-((lp34
-tp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+((lp36
+tp37
+Rp38
+sS'year'
 p39
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+V1999
 p40
-atp41
-Rp42
+sS'species'
+p41
+g3
+((lp42
+tp43
+Rp44
 sb.

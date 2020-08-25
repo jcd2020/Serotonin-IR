@@ -2,74 +2,66 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(7, u'\\\\bmemory')"
-p14
-atp15
-Rp16
+((lp9
+S"(15, u'\\\\bmemory')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I30
+I41
+tp16
+a(S'5ht1a'
 p17
+I328
+I334
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+aS"(15, u'\\\\b8ohdpat')"
 p24
-aS"(234, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(basali|basalis)\\\\b')"
-p25
-atp26
-Rp27
+atp25
+Rp26
+sS'regions'
+p27
+g3
+((lp28
+tp29
+Rp30
 sS'year'
-p28
-V2001
-p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(92, u'\\\\brepinotan')"
+p31
+V2004
 p32
-aS"(149, u'\\\\bmem')"
-p33
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p34
-atp35
-Rp36
 sS'species'
-p37
+p33
 g3
-((lp38
-S"(5510, u'(?i)\\\\b(bays|bay)\\\\b')"
-p39
-aS"(6127, u'(?i)\\\\b(chats|chat)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+((lp34
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

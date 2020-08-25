@@ -2,37 +2,39 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(6, u'\\\\bcognit')"
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(14, u'\\\\bcogniti')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(19, u'\\\\bpsychosis')"
 p14
-aS"(1, u'\\\\bmood')"
+aS"(16, u'\\\\blearning')"
 p15
-aS"(9, u'\\\\bdepress')"
+aS"(23, u'\\\\bantipsychotic')"
 p16
-aS"(7, u'\\\\bmemory')"
+aS"(15, u'\\\\bmemory')"
 p17
-aS"(35, u'\\\\bstress')"
+aS"(29, u'\\\\bhyperactiv')"
 p18
-aS"(8, u'\\\\blearning')"
+aS"(4, u'\\\\btreatment')"
 p19
 atp20
 Rp21
@@ -40,46 +42,98 @@ sS'receptors'
 p22
 g3
 ((lp23
-S'5ht2c'
+(S'5ht1a'
 p24
-aS'5ht2a'
-p25
-atp26
-Rp27
-sS'regions'
+I481
+I487
+tp25
+a(S'5ht1'
+p26
+I1387
+I1392
+tp27
+a(S'5ht7'
 p28
-g3
-((lp29
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1186
+I1191
+tp29
+a(S'5ht2b'
 p30
-aS"(102, u'(?i)\\\\b(interfasciculars|interfascicular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I604
+I610
+tp31
+a(S'5ht2a'
 p32
-atp33
-Rp34
-sS'year'
-p35
-V2017
+I661
+I667
+tp33
+a(S'5ht2'
+p34
+I1233
+I1238
+tp35
+a(S'5ht1'
 p36
-sS'agonists'
-p37
-g3
-((lp38
-S"(149, u'\\\\bmem')"
-p39
-atp40
-Rp41
-sS'species'
+I481
+I487
+tp37
+a(S'5ht7'
+p38
+I627
+I632
+tp39
+a(S'5ht6'
+p40
+I614
+I619
+tp41
+a(S'5ht1a'
 p42
-g3
-((lp43
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+I1387
+I1393
+tp43
+a(S'5ht1'
 p44
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p45
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I1209
+I1214
+tp45
+a(S'5ht2a'
 p46
-atp47
-Rp48
+I496
+I502
+tp47
+atp48
+Rp49
+sS'raw_text_methods'
+p50
+g3
+((lp51
+S"(13, u'\\\\bagonist')"
+p52
+aS"(4, u'\\\\bpcpa')"
+p53
+aS"(12, u'\\\\bantagonist')"
+p54
+atp55
+Rp56
+sS'regions'
+p57
+g3
+((lp58
+tp59
+Rp60
+sS'year'
+p61
+V2017
+p62
+sS'species'
+p63
+g3
+((lp64
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p65
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p66
+atp67
+Rp68
 sb.

@@ -2,78 +2,61 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(165, u'\\\\blu ae58054')"
+S'Method.AGONIST'
 p5
-aS"(164, u'\\\\bidalopirdine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-S"(33, u'\\\\balzheimers')"
-p16
-aS"(6, u'\\\\bcognit')"
-p17
-atp18
-Rp19
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(5, u'\\\\btherap')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(10, u'\\\\bocd')"
+p13
+atp14
+Rp15
 sS'receptors'
-p20
+p16
 g3
-((lp21
-S'5ht6'
+((lp17
+(S'5ht2a'
+p18
+I2745
+I2751
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-atp23
-Rp24
+g3
+((lp23
+tp24
+Rp25
 sS'regions'
-p25
+p26
 g3
-((lp26
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p27
-aS"(235, u'(?i)\\\\b(diagonals|diagonal)(-|\\\\s+)?(bands|band)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(brocas|broca)\\\\b')"
-p28
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-aS"(230, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(pallidums|pallidum)\\\\b')"
-p31
-aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
-p32
-atp33
-Rp34
+((lp27
+tp28
+Rp29
 sS'year'
-p35
-V2017
-p36
-sS'agonists'
-p37
-g3
-((lp38
-tp39
-Rp40
+p30
+V2020
+p31
 sS'species'
-p41
+p32
 g3
-((lp42
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+((lp33
+tp34
+Rp35
 sb.

@@ -2,84 +2,63 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(30, u'\\\\bpain')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-S"(4, u'\\\\blocomot')"
-p14
-aS"(9, u'\\\\bdepress')"
-p15
-aS"(29, u'\\\\bsex')"
-p16
-aS"(20, u'\\\\baggressi')"
-p17
-aS"(17, u'\\\\bgroom')"
-p18
-aS"(6, u'\\\\bcognit')"
-p19
-atp20
-Rp21
+atp13
+Rp14
 sS'receptors'
-p22
+p15
 g3
-((lp23
-S'5ht1a'
-p24
-atp25
-Rp26
+((lp16
+(S'5ht3'
+p17
+I897
+I902
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
-p29
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p30
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p31
-atp32
-Rp33
+((lp27
+tp28
+Rp29
 sS'year'
-p34
-V2006
-p35
-sS'agonists'
-p36
-g3
-((lp37
-tp38
-Rp39
+p30
+V2001
+p31
 sS'species'
-p40
+p32
 g3
-((lp41
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p42
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p43
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p44
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p45
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p46
-atp47
-Rp48
+((lp33
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p34
+atp35
+Rp36
 sb.

@@ -2,76 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.STIMULATION'
 p5
-aS"(52, u'\\\\bmdl ?100907')"
+aS'Method.ANTAGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.PET'
-p11
-aS'Method.ANTAGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-tp17
-Rp18
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1'
+p15
+I391
+I396
+tp16
+a(S'5ht1a'
+p17
+I1343
+I1349
+tp18
+a(S'5ht1'
 p19
+I64
+I69
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp20
-S'5ht2c'
-p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
+((lp24
+S"(51, u'\\\\bway100635')"
 p25
+aS"(12, u'\\\\bantagonist')"
+p26
+atp27
+Rp28
+sS'regions'
+p29
 g3
-((lp26
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V2003
+((lp30
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(163, u'\\\\bfenfluramine')"
+atp32
+Rp33
+sS'year'
 p34
-atp35
-Rp36
+V2001
+p35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+((lp37
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p38
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p42
-atp43
-Rp44
+atp40
+Rp41
 sb.

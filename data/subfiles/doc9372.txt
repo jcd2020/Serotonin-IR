@@ -1,0 +1,4 @@
+Rex, A., et al. (1997). "Cortical 5-HT-CCK interactions and anxiety-related behaviour of guinea-pigs: A microdialysis study." Neuroscience Letters 228(2): 79-82.
+
+	Serotonin (5-HT) and cholecystokinin (CCK) are involved in the development of anxiety. There are only few data suggesting interactions between CCK and 5-HT under aversive conditions. In our study the cholecystokinin tetrapeptide (CCK-4) (10 mu g/kg) induced 'anxious' behaviour and potentiated the increase of 5-HT release on the elevated plus maze (X-maze). The 'anxiolytic' 5-HT1A, agonist 8-hydroxy-2(di-n-propyl amino) tetralin (8-OH-DPAT; 0.3 mg/kg) reduced basal 5-HT and the increase in 5-HT release on the X-maze. 8-OH-DPAT given simultaneously with CCK-4, blocked the effects of CCK-4. The results demonstrate an interaction between CCK and 5-HT1A mechanisms via the influence on cortical 5-HT release. (C) 1997 Elsevier Science Ireland Ltd.
+

@@ -2,78 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STAINING'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(18, u'\\\\bavoidan')"
+p10
+aS"(14, u'\\\\bcogniti')"
+p11
+aS"(16, u'\\\\blearning')"
 p12
-g3
-((lp13
-S"(6, u'\\\\bcognit')"
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(15, u'\\\\bmemory')"
 p14
-aS"(30, u'\\\\bparkinsons')"
-p15
-atp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp18
+(S'5ht4'
+p19
+I271
+I276
+tp20
+a(S'5ht4'
+p21
+I1176
+I1181
+tp22
+a(S'5ht4'
 p23
-g3
-((lp24
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I72
+I77
+tp24
+a(S'5ht4'
 p25
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-aS"(290, u'(?i)\\\\b(insulars|insular)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p28
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+I374
+I379
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-aS"(310, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)\\\\b')"
-p30
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+g3
+((lp30
+S"(13, u'\\\\bagonist')"
 p31
-atp32
-Rp33
-sS'year'
-p34
-V2010
+aS"(32, u'\\\\blesions')"
+p32
+atp33
+Rp34
+sS'regions'
 p35
-sS'agonists'
-p36
 g3
-((lp37
-tp38
-Rp39
-sS'species'
+((lp36
+tp37
+Rp38
+sS'year'
+p39
+V2006
 p40
+sS'species'
+p41
 g3
-((lp41
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp42
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p43
-atp44
-Rp45
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p44
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p45
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

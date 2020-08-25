@@ -2,76 +2,115 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(23, u'\\\\bantipsychotic')"
 p13
-g3
-((lp14
-S"(5, u'\\\\bgastrointestin')"
-p15
-aS"(32, u'\\\\bnausea')"
-p16
-aS"(29, u'\\\\bsex')"
-p17
-aS"(21, u'\\\\bpain')"
-p18
-atp19
-Rp20
+atp14
+Rp15
 sS'receptors'
-p21
+p16
 g3
-((lp22
-S'5ht3'
-p23
-atp24
-Rp25
-sS'regions'
+((lp17
+(S'5ht7'
+p18
+I1244
+I1249
+tp19
+a(S'5ht7a'
+p20
+I124
+I130
+tp21
+a(S'5ht7a'
+p22
+I1040
+I1046
+tp23
+a(S'5ht7a'
+p24
+I1583
+I1589
+tp25
+a(S'5ht7'
 p26
-g3
-((lp27
-S"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
+I291
+I296
+tp27
+a(S'5ht7a'
 p28
-aS"(43, u'(?i)\\\\b(vestibulars|vestibular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
+I1810
+I1816
+tp29
+a(S'5ht1a'
+p30
+I683
+I689
+tp31
+a(S'5ht7'
 p32
-V1992
-p33
-sS'agonists'
+I2064
+I2069
+tp33
+a(S'5ht7a'
 p34
-g3
-((lp35
-tp36
+I789
+I795
+tp35
+atp36
 Rp37
-sS'species'
+sS'raw_text_methods'
 p38
 g3
 ((lp39
-S"(1874, u'(?i)\\\\b(rudds|rudd)\\\\b')"
+S"(41, u'\\\\bhaloperidol')"
 p40
-aS"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
 p41
-aS"(5783, u'(?i)\\\\b(hinds|hind)\\\\b')"
+aS"(40, u'\\\\bclozapine')"
 p42
-atp43
-Rp44
+aS"(34, u'\\\\b5ct')"
+p43
+aS"(13, u'\\\\bagonist')"
+p44
+aS"(35, u'\\\\badenosine')"
+p45
+aS"(12, u'\\\\bantagonist')"
+p46
+atp47
+Rp48
+sS'regions'
+p49
+g3
+((lp50
+tp51
+Rp52
+sS'year'
+p53
+V2007
+p54
+sS'species'
+p55
+g3
+((lp56
+tp57
+Rp58
 sb.

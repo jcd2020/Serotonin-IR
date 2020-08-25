@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,64 +10,57 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(13, u'\\\\bantidepress')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(12, u'\\\\banxiogen')"
-p14
-aS"(10, u'\\\\banxiety')"
-p15
-atp16
-Rp17
+aS"(20, u'\\\\bmood')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
 sS'receptors'
-p18
+p14
 g3
-((lp19
-S'5ht1a'
+((lp15
+(S'5ht1a'
+p16
+I1426
+I1432
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-atp21
-Rp22
-sS'regions'
+g3
+((lp21
+S"(54, u'\\\\bautoradiography')"
+p22
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p23
-g3
-((lp24
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p25
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+atp24
+Rp25
+sS'regions'
 p26
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-atp29
-Rp30
+g3
+((lp27
+tp28
+Rp29
 sS'year'
+p30
+V2008
 p31
-V2013
-p32
-sS'agonists'
-p33
-g3
-((lp34
-tp35
-Rp36
 sS'species'
-p37
+p32
 g3
-((lp38
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p39
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p40
-atp41
-Rp42
+((lp33
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p34
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p35
+atp36
+Rp37
 sb.

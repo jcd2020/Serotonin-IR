@@ -2,76 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(5, u'\\\\btherap')"
+p12
+aS"(17, u'\\\\balzheimer')"
+p13
+aS"(4, u'\\\\btreatment')"
 p14
-g3
-((lp15
-S"(9, u'\\\\bdepress')"
-p16
-aS"(30, u'\\\\bparkinsons')"
-p17
-atp18
-Rp19
+aS"(2, u'\\\\bdisorder')"
+p15
+atp16
+Rp17
 sS'receptors'
+p18
+g3
+((lp19
+(S'5ht4'
 p20
-g3
-((lp21
-S'5ht1a'
+I161
+I166
+tp21
+a(S'5ht4'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
-p27
-aS"(189, u'(?i)\\\\b(subthalamics|subthalamic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1201
+I1206
+tp23
+a(S'5ht4'
+p24
+I526
+I531
+tp25
+a(S'5ht4'
+p26
+I1305
+I1310
+tp27
+a(S'5ht4'
 p28
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
-p32
-V2006
-p33
-sS'agonists'
+I960
+I965
+tp29
+a(S'5ht4'
+p30
+I510
+I515
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
 g3
 ((lp35
-S"(85, u'\\\\b8 ?oh ?dpat')"
+S"(13, u'\\\\bagonist')"
 p36
-aS"(73, u'\\\\btandospirone')"
+aS"(12, u'\\\\bantagonist')"
 p37
 atp38
 Rp39
-sS'species'
+sS'regions'
 p40
 g3
 ((lp41
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+tp42
+Rp43
+sS'year'
+p44
+V2018
+p45
+sS'species'
+p46
+g3
+((lp47
+tp48
+Rp49
 sb.

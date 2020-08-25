@@ -1,0 +1,85 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2c'
+p15
+I1749
+I1755
+tp16
+a(S'5ht2c'
+p17
+I2015
+I2021
+tp18
+a(S'5ht2c'
+p19
+I1614
+I1620
+tp20
+a(S'5ht2c'
+p21
+I298
+I304
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+aS"(4, u'\\\\bpcpa')"
+p28
+aS"(45, u'\\\\bmetergoline')"
+p29
+aS"(12, u'\\\\bantagonist')"
+p30
+aS"(11, u'\\\\bfluoxetine')"
+p31
+atp32
+Rp33
+sS'regions'
+p34
+g3
+((lp35
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
+p39
+V1996
+p40
+sS'species'
+p41
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
+sb.

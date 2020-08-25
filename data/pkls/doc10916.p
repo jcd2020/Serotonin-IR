@@ -2,74 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.IMMUNOHISTOCHEMISTRY'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(3, u'\\\\bsleep')"
-p14
-atp15
-Rp16
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+atp11
+Rp12
 sS'receptors'
-p17
+p13
 g3
-((lp18
-S'5ht1a'
+((lp14
+(S'5ht3'
+p15
+I613
+I618
+tp16
+a(S'5ht3'
+p17
+I33
+I37
+tp18
+a(S'5ht3'
 p19
-aS'5ht2a'
-p20
+I892
+I897
+tp20
 atp21
 Rp22
-sS'regions'
+sS'raw_text_methods'
 p23
 g3
 ((lp24
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+S"(11, u'\\\\bfluoxetine')"
 p25
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p26
-aS"(231, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(forebrains|forebrain)\\\\b')"
-p27
-aS"(198, u'(?i)\\\\b(internals|internal)(-|\\\\s+)?(capsules|capsule)\\\\b')"
-p28
-aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+atp27
+Rp28
+sS'regions'
 p29
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-atp31
-Rp32
+g3
+((lp30
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p31
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p32
+atp33
+Rp34
 sS'year'
-p33
-V2011
-p34
-sS'agonists'
 p35
-g3
-((lp36
-tp37
-Rp38
+V1995
+p36
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

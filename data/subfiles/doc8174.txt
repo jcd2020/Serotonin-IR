@@ -1,4 +1,4 @@
-Matsuda, T., et al. (1990). "p-chlorophenylalanine attenuates the pituitary-adrenocortical response to 5-HT1A receptor agonists in mice." Eur J Pharmacol 181(3): 295-297.
+Nirogi, R. V., et al. (2012). "N,N-Dimethyl-[9-(arylsulfonyl)-2,3,4,9-tetrahydro-1H-carbazol-3-yl]amines as novel, potent and selective 5-HT₆ receptor antagonists." Bioorg Med Chem Lett 22(22): 6980-6985.
 
-	The i.p. injection of 8-hydroxy-2-(di-n-propylamino)tetralin (8-OH-DPAT) caused hypothermia and increased the concentrations of serum corticosterone and plasma ACTH in mice. The effects of 8-OH-DPAT at a dose of 2 mg/kg but not of 0.2 mg/kg on the hormone levels were attenuated by pretreatment with p-chlorophenylalanine (pCPA) which depleted brain 5-HT by about 70%; the hypothermic effect of 8-OH-DPAT was, however, not prevented. Similar results were obtained with another 5-HT1A agonist, 1-[3-(3,4-methylenedioxyphenoxy)propyl]-4-phenyl piperazine (BP-554).
+	The design, synthesis and SAR of novel tetrahydrocarbazole derivatives having 5-HT(6) receptor antagonist activity is presented. The racemic compound 15e was found to possess desirable pharmacokinetic properties, adequate brain penetration and activity in animal models of cognition.
 

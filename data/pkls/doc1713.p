@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,64 +10,104 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.PET'
+S"(7, u'\\\\bdepressi')"
 p9
-atp10
-Rp11
-sS'topics'
+aS"(3, u'\\\\bclinical')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht4'
-p18
-atp19
-Rp20
-sS'regions'
+((lp16
+(S'5ht1a'
+p17
+I1647
+I1653
+tp18
+a(S'5ht1a'
+p19
+I1753
+I1759
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-tp23
-Rp24
-sS'year'
+I1251
+I1257
+tp22
+a(S'5ht1'
+p23
+I411
+I417
+tp24
+a(S'5ht1a'
 p25
-V2013
-p26
-sS'agonists'
+I820
+I826
+tp26
+a(S'5ht1a'
 p27
-g3
-((lp28
-tp29
-Rp30
-sS'species'
+I720
+I726
+tp28
+a(S'5ht1a'
+p29
+I607
+I613
+tp30
+a(S'5ht1a'
 p31
-g3
-((lp32
-S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
+I411
+I417
+tp32
+a(S'5ht1a'
 p33
-aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
-p34
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+I130
+I136
+tp34
+a(S'5ht1a'
 p35
-aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p36
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+I331
+I337
+tp36
+atp37
+Rp38
+sS'raw_text_methods'
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+g3
+((lp40
+S"(54, u'\\\\bautoradiography')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p46
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V2000
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p54
+atp55
+Rp56
 sb.

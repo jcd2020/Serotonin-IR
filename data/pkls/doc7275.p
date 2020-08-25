@@ -2,86 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
+S'Method.AGONIST'
 p5
-aS"(131, u'\\\\bm1')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.PET'
-p11
-aS'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(15, u'\\\\bschizophreni')"
-p17
-aS"(6, u'\\\\bcognit')"
-p18
-aS"(30, u'\\\\bparkinsons')"
-p19
-aS"(33, u'\\\\balzheimers')"
-p20
-atp21
-Rp22
+((lp9
+tp10
+Rp11
 sS'receptors'
-p23
+p12
 g3
-((lp24
-S'5ht1b'
-p25
-aS'5ht1a'
-p26
-aS'5ht2'
-p27
-aS'5ht2a'
-p28
-atp29
-Rp30
+((lp13
+(S'5ht1a'
+p14
+I196
+I202
+tp15
+a(S'5ht1a'
+p16
+I326
+I332
+tp17
+a(S'5ht1a'
+p18
+I20
+I26
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
+g3
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+atp25
+Rp26
 sS'regions'
-p31
+p27
 g3
-((lp32
-S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p33
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p34
-atp35
-Rp36
+((lp28
+tp29
+Rp30
 sS'year'
-p37
-V2004
-p38
-sS'agonists'
-p39
-g3
-((lp40
-S"(23, u'\\\\bclozapine')"
-p41
-atp42
-Rp43
+p31
+V2007
+p32
 sS'species'
-p44
+p33
 g3
-((lp45
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p46
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p47
-atp48
-Rp49
+((lp34
+tp35
+Rp36
 sb.

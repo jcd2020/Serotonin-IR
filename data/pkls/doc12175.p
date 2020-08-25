@@ -2,70 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(17, u'\\\\bnan ?190')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(3, u'\\\\bsleep')"
-p16
-atp17
-Rp18
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I361
+I367
+tp16
+a(S'5ht1a'
+p17
+I1239
+I1245
+tp18
+a(S'5ht1a'
 p19
+I276
+I282
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(15, u'\\\\b8ohdpat')"
 p26
 atp27
 Rp28
-sS'year'
+sS'regions'
 p29
-V2008
-p30
-sS'agonists'
+g3
+((lp30
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p31
-g3
-((lp32
-tp33
-Rp34
-sS'species'
+atp32
+Rp33
+sS'year'
+p34
+V1997
 p35
+sS'species'
+p36
 g3
-((lp36
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
-p37
-aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
-p39
-atp40
-Rp41
+atp39
+Rp40
 sb.

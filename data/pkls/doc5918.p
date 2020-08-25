@@ -2,86 +2,66 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(59, u'\\\\bchlorpromazine')"
+S'Method.AGONIST'
 p5
-aS"(119, u'\\\\britanserin')"
-p6
-aS"(201, u'\\\\bsertindole')"
-p7
-aS"(180, u'\\\\bsertindole')"
-p8
-aS"(58, u'\\\\bhaloperidol')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
-S'Method.ANTAGONIST'
-p14
-aS'Method.AGONIST'
-p15
-atp16
-Rp17
+atp6
+Rp7
 sS'topics'
-p18
+p8
 g3
-((lp19
-S"(9, u'\\\\bdepress')"
-p20
-aS"(4, u'\\\\blocomot')"
-p21
-atp22
-Rp23
+((lp9
+S"(30, u'\\\\bpain')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1b'
+p16
+I144
+I150
+tp17
+a(S'5ht1d'
+p18
+I144
+I151
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
+g3
+((lp23
+S"(13, u'\\\\bagonist')"
 p24
-g3
-((lp25
-S'5ht1a'
-p26
-aS'5ht2'
-p27
-atp28
-Rp29
+aS"(47, u'\\\\bsumatriptan')"
+p25
+atp26
+Rp27
 sS'regions'
-p30
+p28
 g3
-((lp31
-tp32
-Rp33
+((lp29
+tp30
+Rp31
 sS'year'
-p34
-V1994
-p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(20, u'\\\\bbuspirone')"
-p38
-aS"(11, u'\\\\bamphetamine')"
-p39
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p40
-aS"(43, u'\\\\bhaloperidol')"
-p41
-atp42
-Rp43
+p32
+V2015
+p33
 sS'species'
-p44
+p34
 g3
-((lp45
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p46
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p47
-atp48
-Rp49
+((lp35
+tp36
+Rp37
 sb.

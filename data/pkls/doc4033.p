@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,58 +10,65 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(8, u'\\\\banxi')"
 p9
-atp10
-Rp11
-sS'topics'
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(9, u'\\\\bstress')"
+p11
+aS"(20, u'\\\\bmood')"
 p12
-g3
-((lp13
-S"(25, u'\\\\bvasoconstrict')"
-p14
-atp15
-Rp16
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht1b'
-p19
-aS'5ht1d'
+((lp17
+(S'5ht3'
+p18
+I841
+I846
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
+I617
+I623
+tp21
+a(S'5ht3'
+p22
+I892
+I897
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp24
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
-p28
-V2002
-p29
-sS'agonists'
+((lp27
+tp28
+Rp29
+sS'regions'
 p30
 g3
 ((lp31
-S"(96, u'\\\\bsumatriptan')"
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p32
 atp33
 Rp34
-sS'species'
+sS'year'
 p35
-g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2015
+p36
+sS'species'
 p37
-atp38
-Rp39
+g3
+((lp38
+tp39
+Rp40
 sb.

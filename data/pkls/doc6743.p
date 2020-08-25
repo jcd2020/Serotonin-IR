@@ -2,76 +2,97 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p11
+p8
 g3
-((lp12
-tp13
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(28, u'\\\\bgastrointestin')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
 Rp14
 sS'receptors'
 p15
 g3
 ((lp16
-S'5ht1b'
+(S'5ht4'
 p17
-aS'5ht1a'
-p18
-aS'5ht3'
+I241
+I246
+tp18
+a(S'5ht4'
 p19
-aS'5ht2'
-p20
-aS'5ht1'
+I1323
+I1328
+tp20
+a(S'5ht4'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
+I1805
+I1810
+tp22
+a(S'5ht4'
+p23
+I1044
+I1049
+tp24
+a(S'5ht4'
 p25
-g3
-((lp26
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I1652
+I1657
+tp26
+a(S'5ht4'
 p27
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p28
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+I466
+I471
+tp28
+a(S'5ht4'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V1992
+I796
+I801
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
 p33
-sS'agonists'
-p34
 g3
-((lp35
-S"(149, u'\\\\bmem')"
-p36
-aS"(189, u'\\\\bethanol')"
-p37
-atp38
-Rp39
-sS'species'
-p40
+((lp34
+S"(13, u'\\\\bagonist')"
+p35
+atp36
+Rp37
+sS'regions'
+p38
 g3
-((lp41
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp39
+tp40
+Rp41
+sS'year'
 p42
-atp43
-Rp44
+V2006
+p43
+sS'species'
+p44
+g3
+((lp45
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p46
+aS"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p47
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p48
+atp49
+Rp50
 sb.

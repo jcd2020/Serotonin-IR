@@ -2,100 +2,91 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(12, u'\\\\bsleep')"
+p11
+aS"(26, u'\\\\bbehav')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht1f'
-p18
-atp19
-Rp20
-sS'regions'
+((lp16
+(S'5ht6'
+p17
+I643
+I648
+tp18
+a(S'5ht6'
+p19
+I708
+I713
+tp20
+a(S'5ht6'
 p21
-g3
-((lp22
-S"(187, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I138
+I143
+tp22
+a(S'5ht6'
 p23
-aS"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
-p24
-aS"(140, u'(?i)\\\\b(parafasciculars|parafascicular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I291
+I296
+tp24
+a(S'5ht6'
 p25
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p26
-aS"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p27
-aS"(175, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)\\\\b')"
-p28
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
+I1267
+I1272
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p30
-aS"(218, u'(?i)\\\\b(claustrums|claustrum)\\\\b')"
-p31
-atp32
-Rp33
-sS'year'
-p34
-V2005
-p35
-sS'agonists'
-p36
 g3
-((lp37
-S"(119, u'\\\\bly334370')"
+((lp30
+S"(13, u'\\\\bagonist')"
+p31
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
+p35
+g3
+((lp36
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p37
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p38
-aS"(96, u'\\\\bsumatriptan')"
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
 p39
 atp40
 Rp41
-sS'species'
+sS'year'
 p42
-g3
-((lp43
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+V2013
+p43
+sS'species'
 p44
-aS"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
-p45
-aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
+g3
+((lp45
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p46
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p47
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p48
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p49
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p50
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p51
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p52
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p53
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p54
-atp55
-Rp56
+atp47
+Rp48
 sb.

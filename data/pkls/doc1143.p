@@ -2,78 +2,55 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(97, u'\\\\bsb ?200646')"
-p5
-aS"(110, u'\\\\bclozapine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
-p14
+p7
 g3
-((lp15
-tp16
-Rp17
+((lp8
+tp9
+Rp10
 sS'receptors'
-p18
+p11
 g3
-((lp19
-S'5ht2b'
-p20
-aS'5ht2c'
-p21
-atp22
-Rp23
+((lp12
+(S'5ht2b'
+p13
+I1521
+I1527
+tp14
+atp15
+Rp16
+sS'raw_text_methods'
+p17
+g3
+((lp18
+tp19
+Rp20
 sS'regions'
-p24
+p21
 g3
-((lp25
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p26
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p27
-aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
-p28
-atp29
-Rp30
+((lp22
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p23
+atp24
+Rp25
 sS'year'
-p31
-V2006
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(23, u'\\\\bclozapine')"
-p35
-atp36
-Rp37
+p26
+V2002
+p27
 sS'species'
-p38
+p28
 g3
-((lp39
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p40
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p41
-aS"(523, u'(?i)\\\\b(blackburns|blackburn)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+((lp29
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p30
+atp31
+Rp32
 sb.

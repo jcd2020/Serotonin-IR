@@ -2,74 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(128, u'\\\\bmetoclopramide')"
+S'Method.AGONIST'
 p5
-aS"(123, u'\\\\bgranisetron')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+atp11
+Rp12
 sS'receptors'
-p19
+p13
 g3
-((lp20
-S'5ht3'
+((lp14
+(S'5ht1a'
+p15
+I443
+I449
+tp16
+a(S'5ht2'
+p17
+I584
+I589
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-atp22
-Rp23
-sS'regions'
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+aS"(15, u'\\\\b8ohdpat')"
 p24
+aS"(49, u'\\\\bdoi')"
+p25
+atp26
+Rp27
+sS'regions'
+p28
 g3
-((lp25
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p26
-aS"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-atp28
-Rp29
+((lp29
+tp30
+Rp31
 sS'year'
-p30
-V1995
-p31
-sS'agonists'
 p32
-g3
-((lp33
-S"(209, u'\\\\bmetoclopramide')"
-p34
-aS"(149, u'\\\\bmem')"
-p35
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
-p36
-atp37
-Rp38
+V2007
+p33
 sS'species'
-p39
+p34
 g3
-((lp40
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p41
-atp42
-Rp43
+((lp35
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p36
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

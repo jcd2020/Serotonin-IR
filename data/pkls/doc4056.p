@@ -2,64 +2,88 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(32, u'\\\\bnausea')"
-p15
-aS"(28, u'\\\\bemesis')"
-p16
-atp17
-Rp18
+((lp10
+S"(34, u'\\\\bparkinson')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht3a'
-p21
-atp22
-Rp23
-sS'regions'
-p24
+((lp15
+(S'5ht3'
+p16
+I153
+I158
+tp17
+a(S'5ht3'
+p18
+I474
+I479
+tp19
+a(S'5ht3'
+p20
+I1633
+I1638
+tp21
+a(S'5ht3'
+p22
+I1880
+I1885
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp25
-tp26
-Rp27
-sS'year'
+((lp27
+S"(13, u'\\\\bagonist')"
 p28
-V1996
+aS"(32, u'\\\\blesions')"
 p29
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p30
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp31
-tp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(5863, u'(?i)\\\\b(entires|entire)\\\\b')"
+((lp34
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p35
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p36
-atp37
-Rp38
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p37
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p38
+atp39
+Rp40
+sS'year'
+p41
+V2010
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

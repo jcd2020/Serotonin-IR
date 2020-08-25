@@ -2,92 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
+S'Method.AGONIST'
 p5
-aS"(114, u'\\\\bziprasidone')"
-p6
-aS"(113, u'\\\\brisperidone')"
-p7
-aS"(111, u'\\\\bolanzapine')"
-p8
-aS"(35, u'\\\\baripiprazole')"
-p9
-aS"(58, u'\\\\bhaloperidol')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
-S'Method.ANTAGONIST'
-p15
-aS'Method.AGONIST'
-p16
-atp17
-Rp18
+atp6
+Rp7
 sS'topics'
-p19
+p8
 g3
-((lp20
-tp21
-Rp22
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(25, u'\\\\bsocial')"
+p11
+aS"(9, u'\\\\bstress')"
+p12
+aS"(6, u'\\\\baggressi')"
+p13
+aS"(18, u'\\\\bavoidan')"
+p14
+aS"(8, u'\\\\banxi')"
+p15
+atp16
+Rp17
 sS'receptors'
-p23
+p18
 g3
-((lp24
-S'5ht1a'
-p25
-atp26
-Rp27
-sS'regions'
+((lp19
+(S'5ht1a'
+p20
+I1726
+I1732
+tp21
+a(S'5ht1a'
+p22
+I1588
+I1594
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+S"(13, u'\\\\bagonist')"
 p28
-g3
-((lp29
-S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
-p30
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+atp29
+Rp30
+sS'regions'
 p31
-atp32
-Rp33
+g3
+((lp32
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p33
+atp34
+Rp35
 sS'year'
-p34
-V2006
-p35
-sS'agonists'
 p36
-g3
-((lp37
-S"(71, u'\\\\bssr ?181507')"
-p38
-aS"(57, u'\\\\bolanzapine')"
-p39
-aS"(84, u'\\\\bziprasidone')"
-p40
-aS"(69, u'\\\\bsarizotan')"
-p41
-aS"(43, u'\\\\bhaloperidol')"
-p42
-aS"(223, u'\\\\baripiprazole')"
-p43
-aS"(23, u'\\\\bclozapine')"
-p44
-atp45
-Rp46
+V1998
+p37
 sS'species'
-p47
+p38
 g3
-((lp48
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p49
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p50
-atp51
-Rp52
+((lp39
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p40
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p41
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p42
+atp43
+Rp44
 sb.

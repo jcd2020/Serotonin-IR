@@ -2,70 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(194, u'\\\\bmethysergide')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
+tp5
+Rp6
+sS'topics'
+p7
 g3
-((lp9
-S'Method.ANTAGONIST'
+((lp8
+S"(26, u'\\\\bbehav')"
+p9
+aS"(33, u'\\\\blocomot')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-tp15
-Rp16
-sS'receptors'
-p17
-g3
-((lp18
-S'5ht2'
+(S'5ht2a'
+p15
+I390
+I396
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
 p19
-atp20
-Rp21
+g3
+((lp20
+S"(49, u'\\\\bdoi')"
+p21
+atp22
+Rp23
 sS'regions'
-p22
+p24
 g3
-((lp23
-tp24
-Rp25
+((lp25
+tp26
+Rp27
 sS'year'
-p26
-V1995
-p27
-sS'agonists'
 p28
-g3
-((lp29
-S"(53, u'\\\\bmethysergide')"
-p30
-atp31
-Rp32
+V1996
+p29
 sS'species'
-p33
+p30
 g3
-((lp34
-S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
+((lp31
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p32
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p33
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p34
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p35
-aS"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
-p36
-aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
-p37
-aS"(4598, u'(?i)\\\\b(macacas|macaca)(-|\\\\s+)?(mulattas|mulatta)\\\\b')"
-p38
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p39
-atp40
-Rp41
+atp36
+Rp37
 sb.

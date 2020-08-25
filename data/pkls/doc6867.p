@@ -2,68 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(3, u'\\\\bclinical')"
 p11
-g3
-((lp12
-S"(10, u'\\\\banxiety')"
-p13
-atp14
-Rp15
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1b'
 p16
-g3
-((lp17
-S'5ht1a'
+I1670
+I1676
+tp17
+a(S'5ht1b'
 p18
-aS'5ht2b'
-p19
-aS'5ht2c'
-p20
-aS'5ht2a'
-p21
-atp22
-Rp23
-sS'regions'
+I1483
+I1489
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
+g3
+((lp23
+S"(12, u'\\\\bantagonist')"
 p24
+atp25
+Rp26
+sS'regions'
+p27
 g3
-((lp25
-tp26
-Rp27
-sS'year'
-p28
-V1997
+((lp28
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(192, u'\\\\bquipazine')"
+atp30
+Rp31
+sS'year'
 p32
-atp33
-Rp34
+V2006
+p33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+((lp35
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p36
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+atp38
+Rp39
 sb.

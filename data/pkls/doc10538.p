@@ -2,84 +2,118 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
+S'Method.KNOCKOUT'
+p5
+aS'Method.ANTAGONIST'
+p6
+aS'Method.AGONIST'
 p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+atp8
+Rp9
 sS'topics'
-p12
+p10
 g3
-((lp13
-S"(6, u'\\\\bcognit')"
-p14
-aS"(9, u'\\\\bdepress')"
-p15
-aS"(10, u'\\\\banxiety')"
-p16
-atp17
-Rp18
+((lp11
+tp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht6'
-p21
-aS'5ht6a'
+((lp15
+(S'5ht7'
+p16
+I59
+I64
+tp17
+a(S'5ht7'
+p18
+I652
+I657
+tp19
+a(S'5ht7'
+p20
+I723
+I730
+tp21
+a(S'5ht1a'
 p22
-aS'5ht2a'
-p23
-atp24
-Rp25
-sS'regions'
+I723
+I729
+tp23
+a(S'5ht2a'
+p24
+I2037
+I2043
+tp25
+a(S'5ht7'
 p26
-g3
-((lp27
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+I1972
+I1979
+tp27
+a(S'5ht7'
 p28
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p29
-aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
+I548
+I553
+tp29
+a(S'5ht2c'
 p30
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p31
-atp32
-Rp33
-sS'year'
+I2037
+I2045
+tp31
+a(S'5ht5a'
+p32
+I1972
+I1978
+tp33
+a(S'5ht1a'
 p34
-V2018
-p35
-sS'agonists'
-p36
+I1391
+I1397
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
+p38
 g3
-((lp37
-tp38
-Rp39
-sS'species'
+((lp39
+S"(13, u'\\\\bagonist')"
 p40
-g3
-((lp41
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
+p41
+aS"(9, u'\\\\britanserin')"
 p42
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+aS"(51, u'\\\\bway100635')"
 p43
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p44
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p45
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p46
-atp47
-Rp48
+atp45
+Rp46
+sS'regions'
+p47
+g3
+((lp48
+tp49
+Rp50
+sS'year'
+p51
+V2005
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p55
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p56
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p57
+atp58
+Rp59
 sb.

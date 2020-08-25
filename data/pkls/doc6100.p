@@ -2,68 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
-p11
+p8
 g3
-((lp12
-tp13
-Rp14
+((lp9
+S"(9, u'\\\\bstress')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2a'
 p15
-g3
-((lp16
-S'5ht1a'
+I91
+I96
+tp16
+a(S'5ht2a'
 p17
-atp18
-Rp19
-sS'regions'
-p20
+I523
+I528
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
 g3
-((lp21
-S"(34, u'(?i)\\\\b(pon|pons)\\\\b')"
-p22
-aS"(118, u'(?i)\\\\b(diencephalons|diencephalon)\\\\b')"
+((lp22
+S"(1, u'\\\\bneuroimag')"
 p23
-atp24
-Rp25
-sS'year'
+aS"(17, u'\\\\bpet')"
+p24
+aS"(19, u'\\\\bpositron emission tomography')"
+p25
+aS"(18, u'\\\\bimaging')"
 p26
-V2002
-p27
-sS'agonists'
-p28
+atp27
+Rp28
+sS'regions'
+p29
 g3
-((lp29
-tp30
-Rp31
-sS'species'
-p32
-g3
-((lp33
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+((lp30
+tp31
+Rp32
+sS'year'
+p33
+V2020
 p34
-aS"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
+sS'species'
 p35
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p36
-aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
-p37
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p38
-atp39
-Rp40
+g3
+((lp36
+tp37
+Rp38
 sb.

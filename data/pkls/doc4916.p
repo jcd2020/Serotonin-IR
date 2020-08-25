@@ -2,70 +2,108 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(14, u'\\\\bcogniti')"
+p11
+aS"(1, u'\\\\bpatient')"
 p12
-g3
-((lp13
-tp14
-Rp15
+aS"(5, u'\\\\btherap')"
+p13
+aS"(23, u'\\\\bantipsychotic')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
-S'5ht1b'
-p18
-aS'5ht5'
+((lp18
+(S'5ht2'
 p19
-aS'5ht1d'
-p20
-atp21
-Rp22
-sS'regions'
+I920
+I925
+tp20
+a(S'5ht2'
+p21
+I74
+I79
+tp22
+a(S'5ht2'
 p23
-g3
-((lp24
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I161
+I166
+tp24
+a(S'5ht2'
 p25
-atp26
-Rp27
-sS'year'
-p28
-V1993
+I346
+I351
+tp26
+a(S'5ht2'
+p27
+I365
+I370
+tp28
+a(S'5ht2a'
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(96, u'\\\\bsumatriptan')"
-p32
-atp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
+I137
+I148
+tp30
+a(S'5ht2'
+p31
+I591
+I596
+tp32
+a(S'5ht2'
+p33
+I435
+I440
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
 p37
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p38
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+g3
+((lp38
+S"(17, u'\\\\bpet')"
 p39
-atp40
-Rp41
+aS"(19, u'\\\\bpositron emission tomography')"
+p40
+aS"(40, u'\\\\bclozapine')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p46
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V2006
+p51
+sS'species'
+p52
+g3
+((lp53
+tp54
+Rp55
 sb.

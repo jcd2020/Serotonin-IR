@@ -2,84 +2,99 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
 p12
 g3
 ((lp13
-tp14
-Rp15
-sS'receptors'
+(S'5ht2a'
+p14
+I676
+I682
+tp15
+a(S'5ht2a'
 p16
-g3
-((lp17
-S'5ht3'
+I393
+I399
+tp17
+a(S'5ht2a'
 p18
-aS'5ht2'
-p19
-aS'5ht2a'
+I521
+I527
+tp19
+a(S'5ht2'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
-p25
-aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
+I72
+I82
+tp21
+a(S'5ht2c'
+p22
+I521
+I529
+tp23
+a(S'5ht2c'
+p24
+I676
+I684
+tp25
+a(S'5ht2c'
 p26
-aS"(190, u'(?i)\\\\b(zonas|zona)(-|\\\\s+)?(incertas|incerta)\\\\b')"
-p27
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I393
+I401
+tp27
+a(S'5ht2c'
 p28
-aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
-p29
-aS"(189, u'(?i)\\\\b(subthalamics|subthalamic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1286
+I1294
+tp29
+a(S'5ht2a'
 p30
-aS"(105, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(reticulatas|reticulata)\\\\b')"
-p31
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p32
-atp33
-Rp34
-sS'year'
-p35
-V1993
+I1286
+I1292
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
+p34
+g3
+((lp35
+S"(13, u'\\\\bagonist')"
 p36
-sS'agonists'
+aS"(49, u'\\\\bdoi')"
 p37
+atp38
+Rp39
+sS'regions'
+p40
 g3
-((lp38
-S"(192, u'\\\\bquipazine')"
-p39
-atp40
-Rp41
-sS'species'
-p42
-g3
-((lp43
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+((lp41
+tp42
+Rp43
+sS'year'
 p44
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+V1999
 p45
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p46
-atp47
-Rp48
+g3
+((lp47
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p48
+atp49
+Rp50
 sb.

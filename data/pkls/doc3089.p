@@ -2,60 +2,97 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(33, u'\\\\blocomot')"
 p13
-g3
-((lp14
-tp15
-Rp16
-sS'receptors'
+aS"(15, u'\\\\bmemory')"
+p14
+aS"(12, u'\\\\bsleep')"
+p15
+aS"(18, u'\\\\bavoidan')"
+p16
+aS"(30, u'\\\\bpain')"
 p17
+atp18
+Rp19
+sS'receptors'
+p20
 g3
-((lp18
-S'5ht3'
-p19
-atp20
-Rp21
-sS'regions'
+((lp21
+(S'5ht3'
 p22
-g3
-((lp23
-tp24
-Rp25
-sS'year'
+I237
+I242
+tp23
+a(S'5ht3'
+p24
+I359
+I363
+tp25
+a(S'5ht3'
 p26
-V2002
-p27
-sS'agonists'
+I52
+I56
+tp27
+a(S'5ht3'
 p28
-g3
-((lp29
-tp30
-Rp31
-sS'species'
-p32
-g3
-((lp33
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I1964
+I1968
+tp29
+a(S'5ht3'
+p30
+I965
+I970
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
-atp35
-Rp36
+g3
+((lp35
+S"(13, u'\\\\bagonist')"
+p36
+aS"(12, u'\\\\bantagonist')"
+p37
+atp38
+Rp39
+sS'regions'
+p40
+g3
+((lp41
+tp42
+Rp43
+sS'year'
+p44
+V2017
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p48
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

@@ -2,74 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.PET'
+S"(22, u'\\\\bschizophreni')"
 p10
-aS'Method.ANTAGONIST'
+aS"(26, u'\\\\bbehav')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(22, u'\\\\bsuicide')"
-p16
-aS"(9, u'\\\\bdepress')"
-p17
-atp18
-Rp19
+aS"(23, u'\\\\bantipsychotic')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht3'
+p18
+I1331
+I1336
+tp19
+a(S'5ht1'
 p20
-g3
-((lp21
-S'5ht1a'
+I225
+I230
+tp21
+a(S'5ht2'
 p22
-atp23
-Rp24
-sS'regions'
-p25
+I1159
+I1164
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp26
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p27
-aS"(389, u'(?i)\\\\b(cerebrospinals|cerebrospinal)(-|\\\\s+)?(fluids|fluid)\\\\b')"
+((lp27
+S"(20, u'\\\\bondansetron')"
 p28
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(40, u'\\\\bclozapine')"
 p29
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(23, u'\\\\bmdl')"
 p30
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p31
 atp32
 Rp33
-sS'year'
+sS'regions'
 p34
-V2015
-p35
-sS'agonists'
-p36
 g3
-((lp37
-tp38
-Rp39
+((lp35
+tp36
+Rp37
+sS'year'
+p38
+V1997
+p39
 sS'species'
 p40
 g3
 ((lp41
-tp42
-Rp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

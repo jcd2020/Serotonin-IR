@@ -1,4 +1,0 @@
-Uneyama, H., et al. (1992). "5-HT response of rat hippocampal pyramidal cell bodies." Neuroreport 3(7): 633-636.
-
-	Serotonin (5-HT) responses of pyramidal neurones freshly dissociated from rat ventral hippocampal CA1 region were investigated by using nystatin-perforated whole-cell recording. These dissociated neurones lack most of the dendrites and axons. Application of nanomolar concentrations of 5-HT induced outward current with an increase of membrane conductance at a holding potential (VH) of -40 mV. The current was mimicked by alpha-methyl-5-HT (5-HT2 receptor family agonist), but not by 8-OH-DPAT (5-HT1 receptor family agonist). Ketanserin (5-HT2 receptor family antagonist) and spiperone (5-HT1A and 5-HT2 receptor family antagonist) blocked the current in a concentration dependent manner. These results suggests that 5-HT-induced outward current is mediated by the activation of 5-HT2 receptor family in the cell bodies of hippocampal pyramidal neurones.
-

@@ -2,68 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-tp14
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(33, u'\\\\blocomot')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+atp14
 Rp15
 sS'receptors'
 p16
 g3
 ((lp17
-S'5ht7a'
+(S'5ht2a'
 p18
-aS'5ht7'
-p19
-aS'5ht1d'
+I818
+I824
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
+I803
+I809
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp24
-tp25
-Rp26
-sS'year'
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+aS"(32, u'\\\\blesions')"
 p27
-V2001
+aS"(12, u'\\\\bantagonist')"
 p28
-sS'agonists'
-p29
+atp29
+Rp30
+sS'regions'
+p31
 g3
-((lp30
-tp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
+((lp32
+tp33
+Rp34
+sS'year'
 p35
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+V1996
 p36
-aS"(6967, u'(?i)\\\\b(scavengers|scavenger)\\\\b')"
+sS'species'
 p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-atp39
-Rp40
+g3
+((lp38
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p39
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

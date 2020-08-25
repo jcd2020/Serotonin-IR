@@ -2,74 +2,100 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(58, u'\\\\bhaloperidol')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-tp10
-Rp11
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(15, u'\\\\bschizophreni')"
-p14
-atp15
-Rp16
+((lp10
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I647
+I653
+tp16
+a(S'5ht1a'
 p17
-g3
-((lp18
-S'5ht1a'
+I1644
+I1650
+tp18
+a(S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p24
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I194
+I200
+tp20
+a(S'5ht1a'
+p21
+I1448
+I1454
+tp22
+a(S'5ht1a'
+p23
+I356
+I362
+tp24
+a(S'5ht1a'
 p25
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p26
-aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V2008
+I88
+I94
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
+g3
+((lp30
+S"(13, u'\\\\bagonist')"
 p31
-sS'agonists'
+aS"(2, u'\\\\blabeling')"
 p32
+aS"(19, u'\\\\bpositron emission tomography')"
+p33
+atp34
+Rp35
+sS'regions'
+p36
 g3
-((lp33
-S"(43, u'\\\\bhaloperidol')"
-p34
-atp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+((lp37
+S"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
+p38
+aS"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p40
-aS"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p41
 atp42
 Rp43
+sS'year'
+p44
+V1997
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p48
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p49
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

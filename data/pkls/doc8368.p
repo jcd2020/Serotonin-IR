@@ -2,70 +2,66 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(35, u'\\\\bstress')"
-p14
-atp15
-Rp16
+((lp9
+S"(23, u'\\\\bantipsychotic')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2a'
+p15
+I696
+I702
+tp16
+a(S'5ht2a'
 p17
+I1743
+I1749
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
+((lp22
+tp23
+Rp24
 sS'regions'
-p22
+p25
 g3
-((lp23
-tp24
-Rp25
-sS'year'
-p26
-V2014
+((lp26
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p27
-sS'agonists'
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p28
-g3
-((lp29
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p30
-atp31
-Rp32
+atp29
+Rp30
+sS'year'
+p31
+V2011
+p32
 sS'species'
 p33
 g3
 ((lp34
-S"(3883, u'(?i)\\\\b(teleosts|teleost)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(5747, u'(?i)\\\\b(toadfish|toadfish)\\\\b')"
-p36
-aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
-p37
-aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
-p38
-aS"(3882, u'(?i)\\\\b(teleosts|teleost)(-|\\\\s+)?(fish|fish)\\\\b')"
-p39
-atp40
-Rp41
+atp36
+Rp37
 sb.

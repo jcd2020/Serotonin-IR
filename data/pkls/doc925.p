@@ -1,0 +1,83 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(35, u'\\\\bnocicept')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2'
+p16
+I1130
+I1134
+tp17
+a(S'5ht3'
+p18
+I1097
+I1101
+tp19
+a(S'5ht2'
+p20
+I617
+I621
+tp21
+a(S'5ht3'
+p22
+I552
+I556
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
+g3
+((lp27
+S"(20, u'\\\\bondansetron')"
+p28
+aS"(4, u'\\\\bpcpa')"
+p29
+aS"(12, u'\\\\bantagonist')"
+p30
+atp31
+Rp32
+sS'regions'
+p33
+g3
+((lp34
+tp35
+Rp36
+sS'year'
+p37
+V2001
+p38
+sS'species'
+p39
+g3
+((lp40
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p41
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
+sb.

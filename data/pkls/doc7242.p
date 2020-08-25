@@ -2,70 +2,97 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(27, u'\\\\bdyskinesia')"
 p13
-g3
-((lp14
-tp15
-Rp16
-sS'receptors'
+aS"(34, u'\\\\bparkinson')"
+p14
+aS"(5, u'\\\\btherap')"
+p15
+aS"(1, u'\\\\bpatient')"
+p16
+aS"(3, u'\\\\bclinical')"
 p17
-g3
-((lp18
-S'5ht7'
-p19
-aS'5ht5'
+atp18
+Rp19
+sS'receptors'
 p20
-aS'5ht1a'
-p21
-aS'5ht2a'
+g3
+((lp21
+(S'5ht1a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
+I1969
+I1975
+tp23
+a(S'5ht1a'
+p24
+I2106
+I2112
+tp25
+a(S'5ht1a'
+p26
+I670
+I676
 tp27
-Rp28
-sS'year'
-p29
-V2004
+a(S'5ht1a'
+p28
+I1390
+I1396
+tp29
+a(S'5ht1a'
 p30
-sS'agonists'
-p31
+I370
+I376
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
+p34
 g3
-((lp32
-tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+((lp35
+S"(13, u'\\\\bagonist')"
+p36
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p37
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p38
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p39
-atp40
-Rp41
+atp38
+Rp39
+sS'regions'
+p40
+g3
+((lp41
+tp42
+Rp43
+sS'year'
+p44
+V2018
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p48
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

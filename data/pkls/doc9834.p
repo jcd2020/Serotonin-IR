@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,19 +10,21 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-tp9
-Rp10
-sS'topics'
+S"(26, u'\\\\bbehav')"
+p9
+aS"(2, u'\\\\bdisorder')"
+p10
+aS"(7, u'\\\\bdepressi')"
 p11
-g3
-((lp12
-S"(9, u'\\\\bdepress')"
+aS"(9, u'\\\\bstress')"
+p12
+aS"(8, u'\\\\banxi')"
 p13
-aS"(4, u'\\\\blocomot')"
+aS"(3, u'\\\\bclinical')"
 p14
 atp15
 Rp16
@@ -30,37 +32,38 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht1b'
+(S'5ht1a'
 p19
-aS'5ht1a'
-p20
-aS'5ht2b'
-p21
-aS'5ht2a'
-p22
-atp23
-Rp24
+I1448
+I1454
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
+g3
+((lp24
+tp25
+Rp26
 sS'regions'
-p25
+p27
 g3
-((lp26
-tp27
-Rp28
-sS'year'
+((lp28
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p29
-V1986
-p30
-sS'agonists'
-p31
-g3
-((lp32
-tp33
-Rp34
+atp30
+Rp31
+sS'year'
+p32
+V2002
+p33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp35
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p36
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p37
 atp38
 Rp39

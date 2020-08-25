@@ -1,0 +1,4 @@
+Johnson, K. W., et al. (1997). "5-HT1F receptor agonists inhibit neurogenic dural inflammation in guinea pigs." Neuroreport 8(9-10): 2237-2240.
+
+	THE serotonin (5-HT) receptor subtype mediating inhibition of neurogenic dural inflammation in guinea pigs was investigated using a series of serotonin agonists differing affinities for the 5-HT1B, 5-HT1D and 5-HT1F receptors. When agonist potencies for inhibiting neurogenic inflammation were compared with affinities for these receptor subtypes, a significant positive correlation was seen only with the 5-HT1F receptor. The potency of agonists in inhibiting adenylate cyclase in cells transfected with human 5-HT1F receptor was also highly correlated with their potency in the animal model of migraine. In situ hybridization demonstrated 5-HT1F receptor mRNA in guinea pig trigeminal ganglion neurons. These data suggest that the 5-HT1F receptor is a rational target for migraine therapeutics.
+

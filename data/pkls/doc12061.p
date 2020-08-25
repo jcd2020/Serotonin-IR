@@ -2,70 +2,92 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
+S'Method.STIMULATION'
 p5
-aS"(91, u'\\\\bfluoxetine')"
+aS'Method.ANTAGONIST'
 p6
-aS"(111, u'\\\\bolanzapine')"
+aS'Method.AGONIST'
 p7
 atp8
 Rp9
-sS'methods'
+sS'topics'
 p10
 g3
 ((lp11
 tp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(9, u'\\\\bdepress')"
+(S'5ht4'
 p16
-atp17
-Rp18
-sS'receptors'
-p19
-g3
-((lp20
-S'5ht2a'
-p21
-atp22
-Rp23
-sS'regions'
+I611
+I616
+tp17
+a(S'5ht4'
+p18
+I1508
+I1513
+tp19
+a(S'5ht4'
+p20
+I121
+I126
+tp21
+a(S'5ht4'
+p22
+I2192
+I2197
+tp23
+a(S'5ht4'
 p24
-g3
-((lp25
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I339
+I344
+tp25
+a(S'5ht4'
 p26
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
+I990
+I995
+tp27
 atp28
 Rp29
-sS'year'
+sS'raw_text_methods'
 p30
-V2019
-p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(57, u'\\\\bolanzapine')"
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(28, u'\\\\bzacopride')"
+p33
+aS"(12, u'\\\\bantagonist')"
 p34
 atp35
 Rp36
-sS'species'
+sS'regions'
 p37
 g3
 ((lp38
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p39
-atp40
-Rp41
+tp39
+Rp40
+sS'year'
+p41
+V1997
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p45
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

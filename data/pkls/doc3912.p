@@ -2,78 +2,91 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(51, u'\\\\basenapine')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-tp10
-Rp11
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(9, u'\\\\bstress')"
 p12
-g3
-((lp13
-S"(15, u'\\\\bschizophreni')"
-p14
-atp15
-Rp16
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2'
 p17
-g3
-((lp18
-S'5ht7a'
+I1534
+I1538
+tp18
+a(S'5ht3'
 p19
-aS'5ht6'
-p20
-aS'5ht2c'
+I1427
+I1431
+tp20
+a(S'5ht2'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
+I33
+I37
+tp22
+a(S'5ht2'
+p23
+I1205
+I1209
+tp24
+a(S'5ht1a'
 p25
-g3
-((lp26
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
-p28
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+I1111
+I1116
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p30
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+g3
+((lp30
+S"(13, u'\\\\bagonist')"
 p31
-atp32
-Rp33
-sS'year'
+aS"(20, u'\\\\bondansetron')"
+p32
+aS"(23, u'\\\\bmdl')"
+p33
+aS"(12, u'\\\\bantagonist')"
 p34
-V2009
-p35
-sS'agonists'
-p36
+atp35
+Rp36
+sS'regions'
+p37
 g3
-((lp37
-S"(13, u'\\\\basenapine')"
-p38
-atp39
+((lp38
+tp39
 Rp40
-sS'species'
+sS'year'
 p41
-g3
-((lp42
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V1993
+p42
+sS'species'
 p43
-atp44
-Rp45
+g3
+((lp44
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p45
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

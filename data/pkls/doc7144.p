@@ -2,88 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(28, u'\\\\bgastrointestin')"
+p11
+aS"(1, u'\\\\bpatient')"
+p12
+aS"(5, u'\\\\btherap')"
 p13
-g3
-((lp14
-S"(4, u'\\\\blocomot')"
-p15
-atp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht1c'
-p20
-aS'5ht1b'
-p21
-aS'5ht1a'
-p22
-aS'5ht3a'
+((lp18
+(S'5ht3'
+p19
+I48
+I53
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-aS'5ht2a'
-p24
-atp25
-Rp26
-sS'regions'
+g3
+((lp24
+S"(19, u'\\\\bpositron emission tomography')"
+p25
+aS"(18, u'\\\\bimaging')"
+p26
+aS"(12, u'\\\\bantagonist')"
 p27
-g3
-((lp28
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+atp28
+Rp29
+sS'regions'
 p30
-atp31
-Rp32
-sS'year'
+g3
+((lp31
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p32
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p33
-V1992
-p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(192, u'\\\\bquipazine')"
+atp34
+Rp35
+sS'year'
+p36
+V2002
 p37
-aS"(11, u'\\\\bamphetamine')"
-p38
-aS"(155, u'\\\\bmcpp')"
-p39
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p40
-aS"(175, u'\\\\bdoi')"
-p41
-atp42
-Rp43
 sS'species'
-p44
+p38
 g3
-((lp45
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p46
-aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
-p47
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p48
-atp49
-Rp50
+((lp39
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p40
+atp41
+Rp42
 sb.

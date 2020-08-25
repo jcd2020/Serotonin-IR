@@ -2,62 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(4, u'\\\\btreatment')"
 p11
-g3
-((lp12
-tp13
-Rp14
+atp12
+Rp13
 sS'receptors'
-p15
+p14
 g3
-((lp16
-S'5ht1a'
-p17
-atp18
-Rp19
-sS'regions'
-p20
+((lp15
+(S'5ht3'
+p16
+I621
+I626
+tp17
+a(S'5ht3'
+p18
+I2497
+I2502
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
 g3
-((lp21
-tp22
-Rp23
-sS'year'
+((lp23
+S"(13, u'\\\\bagonist')"
 p24
-V2011
+aS"(30, u'\\\\b2methyl')"
 p25
-sS'agonists'
-p26
-g3
-((lp27
-S"(163, u'\\\\bfenfluramine')"
+atp26
+Rp27
+sS'regions'
 p28
-atp29
-Rp30
-sS'species'
-p31
 g3
-((lp32
-S"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
+((lp29
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p30
+atp31
+Rp32
+sS'year'
 p33
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+V1994
 p34
-aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
+sS'species'
 p35
-atp36
-Rp37
+g3
+((lp36
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p37
+atp38
+Rp39
 sb.

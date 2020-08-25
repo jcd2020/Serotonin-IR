@@ -2,41 +2,42 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(69, u'\\\\bpimavanserin')"
+S'Method.STAINING'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(31, u'\\\\brespiratory')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(30, u'\\\\bparkinsons')"
+(S'5ht2a'
 p16
-aS"(14, u'\\\\bpsychosis')"
-p17
+I1289
+I1295
+tp17
 atp18
 Rp19
-sS'receptors'
+sS'raw_text_methods'
 p20
 g3
 ((lp21
-S'5ht2a'
+S"(13, u'\\\\bagonist')"
 p22
 atp23
 Rp24
@@ -48,22 +49,12 @@ tp27
 Rp28
 sS'year'
 p29
-V2017
+V2008
 p30
-sS'agonists'
+sS'species'
 p31
 g3
 ((lp32
 tp33
 Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-atp39
-Rp40
 sb.

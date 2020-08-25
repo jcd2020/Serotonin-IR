@@ -2,76 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(131, u'\\\\bm1')"
+S'Method.AGONIST'
 p5
-aS"(26, u'\\\\bspiperone')"
-p6
-aS"(17, u'\\\\bnan ?190')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+atp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht1b'
-p22
-aS'5ht1a'
+((lp14
+(S'5ht1b'
+p15
+I1141
+I1146
+tp16
+a(S'5ht1a'
+p17
+I650
+I655
+tp18
+a(S'5ht1a'
+p19
+I86
+I91
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-atp24
-Rp25
-sS'regions'
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(15, u'\\\\b8ohdpat')"
 p26
-g3
-((lp27
-tp28
+aS"(32, u'\\\\blesions')"
+p27
+atp28
 Rp29
-sS'year'
+sS'regions'
 p30
-V1996
-p31
-sS'agonists'
+g3
+((lp31
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p32
-g3
-((lp33
-S"(20, u'\\\\bbuspirone')"
-p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+atp33
+Rp34
+sS'year'
 p35
-atp36
-Rp37
+V1988
+p36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
-p40
-aS"(233, u'(?i)\\\\b(rainbows|rainbow)(-|\\\\s+)?(trout|trout)\\\\b')"
-p41
-aS"(4392, u'(?i)\\\\b(trout|trout)\\\\b')"
-p42
-atp43
-Rp44
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

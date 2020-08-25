@@ -1,0 +1,4 @@
+Siniscalchi, A., et al. (1999). "5-HT4 receptor modulation of acetylcholine outflow in guinea pig brain slices." Neuroreport 10(3): 547-551.
+
+	THE effect of the 5-HT4 agonist, BIMU-8 was studied on [(3)]choline outflow in guinea pig brain slices and synaptosomes. BIMU-8 did not modify [(3)]choline efflux in slices kept at rest, but increased [H-3]choline outflow in electrically stimulated slices of cerebral cortex (CC), hippocampus (hip) and nucleus basalis magnocellularis (nbm). This effect was prevented by the selective 5-HT4 antagonist, GR 125487. Conversely, BIMU-8 did not affect [H-3]choline efflux in hippocampal synaptosomes depolarized with KCI 20mM. These results provide evidence that BIMU-8 increases the electrically triggered [H-3]choline efflux in CC, hip and nbm slices. A possible role of 5-HT4 agonists in memory and learning diseases is suggested. (C) 1999 Lippincott Williams & Wilkins.
+

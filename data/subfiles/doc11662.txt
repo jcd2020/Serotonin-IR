@@ -1,0 +1,4 @@
+Wang, R. Y., et al. (1994). "THE ROLE OF 5-HT(3)-LIKE RECEPTORS IN THE ACTION OF CLOZAPINE." Journal of Clinical Psychiatry 55(9): 23-26.
+
+	The serotonin3 (5-HT3)-like receptors play an important role in modulating the inhibitory action of dopamine in the mesocorticolimbic regions. The atypical antipsychotic drugs clozapine and RMI 81,582, but not other antipsychotic drugs, blocked the suppressant action produced by the 5-HT3 receptor agonist 2-methyl-5-HT on the firing rate of medial prefrontal cortical cells. Since the localization of 5-HT3 receptors overlaps with the mesocorticolimbic but not the nigrostriatal dopamine system, it is hypothesized that the preferential action of clozapine on the mesocorticolimbic dopamine system is the result of the drug's interaction with the 5-HT3-like receptors. Furthermore, the antagonizing effect of clozapine to 5-HT3-like receptors may contribute to its increased antipsychotic efficacy.
+

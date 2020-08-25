@@ -2,68 +2,101 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
+S'Method.PET'
 p5
-aS"(124, u'\\\\bondansetron')"
-p6
-aS"(58, u'\\\\bhaloperidol')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-tp12
-Rp13
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(20, u'\\\\bmood')"
+p12
+aS"(17, u'\\\\balzheimer')"
+p13
+aS"(2, u'\\\\bdisorder')"
 p14
-g3
-((lp15
-tp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht3'
-p20
-atp21
-Rp22
-sS'regions'
+((lp18
+(S'5ht2a'
+p19
+I137
+I143
+tp20
+a(S'5ht2a'
+p21
+I249
+I255
+tp22
+a(S'5ht2a'
 p23
-g3
-((lp24
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+I1017
+I1023
+tp24
+a(S'5ht2a'
 p25
-atp26
-Rp27
-sS'year'
-p28
-V1993
+I58
+I64
+tp26
+a(S'5ht2a'
+p27
+I686
+I692
+tp28
+a(S'5ht2a'
 p29
-sS'agonists'
-p30
+I1095
+I1101
+tp30
+a(S'5ht2a'
+p31
+I1217
+I1223
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
+p35
 g3
-((lp31
-S"(23, u'\\\\bclozapine')"
-p32
-aS"(43, u'\\\\bhaloperidol')"
-p33
-atp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp36
+S"(17, u'\\\\bpet')"
+p37
+aS"(19, u'\\\\bpositron emission tomography')"
 p38
-atp39
-Rp40
+aS"(18, u'\\\\bimaging')"
+p39
+atp40
+Rp41
+sS'regions'
+p42
+g3
+((lp43
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p44
+atp45
+Rp46
+sS'year'
+p47
+V2018
+p48
+sS'species'
+p49
+g3
+((lp50
+tp51
+Rp52
 sb.

@@ -2,70 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.STAINING'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(6, u'\\\\baggressi')"
 p11
-g3
-((lp12
-S"(1, u'\\\\bmood')"
-p13
-aS"(7, u'\\\\bmemory')"
-p14
-aS"(35, u'\\\\bstress')"
-p15
-aS"(34, u'\\\\bdementia')"
-p16
-aS"(33, u'\\\\balzheimers')"
-p17
-aS"(6, u'\\\\bcognit')"
-p18
-atp19
-Rp20
+aS"(26, u'\\\\bbehav')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I30
+I41
+tp18
+a(S'5ht1a'
+p19
+I1739
+I1744
+tp20
+a(S'5ht1a'
 p21
+I710
+I715
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp22
-S'5ht6'
-p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
-tp28
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+atp28
 Rp29
-sS'year'
+sS'regions'
 p30
-V2017
-p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(149, u'\\\\bmem')"
+((lp31
+tp32
+Rp33
+sS'year'
 p34
-atp35
-Rp36
+V2006
+p35
 sS'species'
-p37
+p36
 g3
-((lp38
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p39
-atp40
-Rp41
+((lp37
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+atp39
+Rp40
 sb.

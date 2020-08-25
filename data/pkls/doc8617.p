@@ -2,96 +2,103 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
-p5
-aS"(9, u'\\\\bgr ?46611')"
-p6
-aS"(31, u'\\\\bway ?100635')"
+tp5
+Rp6
+sS'topics'
 p7
-aS"(33, u'\\\\byohimbine')"
-p8
-atp9
+g3
+((lp8
+tp9
 Rp10
-sS'methods'
+sS'receptors'
 p11
 g3
 ((lp12
-S'Method.ANTAGONIST'
+(S'5ht5a'
 p13
-aS'Method.AGONIST'
-p14
-atp15
-Rp16
-sS'topics'
+I512
+I518
+tp14
+a(S'5ht5a'
+p15
+I53
+I59
+tp16
+a(S'5ht5a'
 p17
-g3
-((lp18
-S"(9, u'\\\\bdepress')"
+I1596
+I1602
+tp18
+a(S'5ht5a'
 p19
-atp20
-Rp21
-sS'receptors'
-p22
-g3
-((lp23
-S'5ht1b'
-p24
-aS'5ht1a'
+I1235
+I1241
+tp20
+a(S'5ht5a'
+p21
+I946
+I952
+tp22
+a(S'5ht5a'
+p23
+I150
+I156
+tp24
+a(S'5ht5a'
 p25
-aS'5ht5'
-p26
-aS'5ht1'
+I1124
+I1130
+tp26
+a(S'5ht5a'
 p27
-aS'5ht1d'
-p28
-atp29
-Rp30
-sS'regions'
-p31
-g3
-((lp32
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1329
+I1335
+tp28
+a(S'5ht5a'
+p29
+I837
+I843
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
 p33
-atp34
-Rp35
-sS'year'
-p36
-V2000
+g3
+((lp34
+tp35
+Rp36
+sS'regions'
 p37
-sS'agonists'
-p38
 g3
-((lp39
-S"(112, u'\\\\bgr ?46611')"
+((lp38
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p39
+aS"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
 p40
-aS"(82, u'\\\\byohimbine')"
+aS"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p41
-atp42
-Rp43
-sS'species'
-p44
-g3
-((lp45
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p42
+aS"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p43
+atp44
+Rp45
+sS'year'
 p46
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+V1998
 p47
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+sS'species'
 p48
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p49
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp49
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p50
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p51
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p52
-atp53
-Rp54
+atp51
+Rp52
 sb.

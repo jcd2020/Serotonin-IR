@@ -2,71 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.AGONIST'
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-tp15
-Rp16
+((lp10
+S"(7, u'\\\\bdepressi')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2'
 p17
-g3
-((lp18
-S'5ht2c'
+I1033
+I1037
+tp18
+a(S'5ht1a'
 p19
-aS'5ht2'
-p20
-aS'5ht2a'
-p21
-atp22
-Rp23
+I910
+I916
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(15, u'\\\\b8ohdpat')"
+p26
+atp27
+Rp28
 sS'regions'
-p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
-p28
-V2001
 p29
-sS'agonists'
-p30
 g3
-((lp31
-S"(158, u'\\\\blsd')"
+((lp30
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p31
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
 p32
-aS"(175, u'\\\\bdoi')"
-p33
-atp34
-Rp35
-sS'species'
+atp33
+Rp34
+sS'year'
+p35
+V2016
 p36
+sS'species'
+p37
 g3
-((lp37
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p38
-aS"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+((lp38
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p39
-aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p40
 atp41
 Rp42

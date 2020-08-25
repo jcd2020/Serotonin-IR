@@ -2,76 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
 p12
 g3
 ((lp13
-S"(29, u'\\\\bsex')"
+(S'5ht6'
 p14
-aS"(24, u'\\\\banalgesi')"
-p15
-atp16
-Rp17
-sS'receptors'
+I252
+I257
+tp15
+a(S'5ht6'
+p16
+I71
+I76
+tp17
+a(S'5ht6'
 p18
+I568
+I573
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-tp25
+((lp23
+S"(12, u'\\\\bantagonist')"
+p24
+atp25
 Rp26
-sS'year'
+sS'regions'
 p27
-V1993
-p28
-sS'agonists'
-p29
 g3
-((lp30
-tp31
-Rp32
+((lp28
+tp29
+Rp30
+sS'year'
+p31
+V2000
+p32
 sS'species'
 p33
 g3
 ((lp34
-S"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
-p35
-aS"(3441, u'(?i)\\\\b(meadows|meadow)(-|\\\\s+)?(voles|vole)\\\\b')"
-p36
-aS"(7134, u'(?i)\\\\b(voles|vole)\\\\b')"
-p37
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p38
-aS"(5453, u'(?i)\\\\b(garters|garter)(-|\\\\s+)?(snakes|snake)\\\\b')"
-p39
-aS"(6115, u'(?i)\\\\b(predators|predator)\\\\b')"
-p40
-aS"(4965, u'(?i)\\\\b(snakes|snake)\\\\b')"
-p41
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p42
-atp43
-Rp44
+tp35
+Rp36
 sb.

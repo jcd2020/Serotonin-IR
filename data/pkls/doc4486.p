@@ -2,86 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
 p13
 g3
 ((lp14
-S"(16, u'\\\\bfeed')"
+(S'5ht1a'
 p15
-atp16
-Rp17
-sS'receptors'
-p18
-g3
-((lp19
-S'5ht1b'
-p20
-aS'5ht3c'
+I205
+I216
+tp16
+a(S'5ht1a'
+p17
+I53
+I59
+tp18
+a(S'5ht1a'
+p19
+I1104
+I1110
+tp20
+a(S'5ht1a'
 p21
-aS'5ht1'
-p22
-aS'5ht1d'
+I219
+I225
+tp22
+a(S'5ht1a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
+I554
+I560
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp27
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p28
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+((lp28
+S"(13, u'\\\\bagonist')"
 p29
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
 p30
-atp31
-Rp32
-sS'year'
-p33
-V1990
-p34
-sS'agonists'
+aS"(46, u'\\\\bspiperone')"
+p31
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
 p35
 g3
 ((lp36
 tp37
 Rp38
-sS'species'
+sS'year'
 p39
-g3
-((lp40
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+V1993
+p40
+sS'species'
 p41
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p42
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(1055, u'(?i)\\\\b(men|man)\\\\b')"
-p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p46
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p47
-atp48
-Rp49
+atp44
+Rp45
 sb.

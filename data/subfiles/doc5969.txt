@@ -1,0 +1,4 @@
+Kung, H. F., et al. (1996). "New 5-HT1A receptor antagonist: [3H]p-MPPF." Synapse 23(4): 344-346.
+
+	A new 5-HT1A receptor antagonist ligand, [3H]p-MPPF, 4-(2'-methoxy-)-phenyl-1-[2'-(N-2"-pyridyl)-p-fluorobenzamido] ethyl-piperazine, was prepared and characterized. It demonstrated high affinity and selectivity toward 5-HT1A receptors (Kd = 0.34 +/- 0.12 nM and Bmax = 145 +/- 35 fmol/mg protein in rat hippocampal membrane homogenates). The binding is not sensitive to 100 microM Gpp(NH)p. Initial autoradiography studies of rat brain sections exhibit regional localization consistent with the known 5-HT1A receptor distribution. This potential 5-HT1A antagonist ligand may provide a powerful tool for 5-HT1A receptor pharmacology studies in the central nervous system.
+

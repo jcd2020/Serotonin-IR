@@ -2,88 +2,126 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(128, u'\\\\bmetoclopramide')"
-p5
-aS"(194, u'\\\\bmethysergide')"
-p6
-aS"(130, u'\\\\bzacopride')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
+p5
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p6
+atp7
+Rp8
 sS'topics'
-p16
+p9
 g3
-((lp17
-S"(28, u'\\\\bemesis')"
-p18
-atp19
-Rp20
+((lp10
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I1600
+I1606
+tp16
+a(S'5ht2a'
+p17
+I1468
+I1474
+tp18
+a(S'5ht2c'
+p19
+I1468
+I1476
+tp20
+a(S'5ht2c'
 p21
-g3
-((lp22
-S'5ht3'
+I1363
+I1371
+tp22
+a(S'5ht1b'
 p23
-aS'5ht2'
-p24
-aS'5ht1'
+I1166
+I1172
+tp24
+a(S'5ht2a'
 p25
-atp26
-Rp27
-sS'regions'
-p28
-g3
-((lp29
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p30
-aS"(27, u'(?i)\\\\b(areas|area)(-|\\\\s+)?(postremas|postrema)\\\\b')"
+I1363
+I1369
+tp26
+a(S'5ht1a'
+p27
+I1240
+I1246
+tp28
+a(S'5ht1'
+p29
+I982
+I987
+tp30
+a(S'5ht1'
 p31
-aS"(32, u'(?i)\\\\b(hypoglossals|hypoglossal)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p32
-atp33
-Rp34
-sS'year'
+I642
+I647
+tp32
+a(S'5ht1a'
+p33
+I2532
+I2538
+tp34
+a(S'5ht5'
 p35
-V1990
-p36
-sS'agonists'
+I219
+I229
+tp36
+a(S'5ht1a'
 p37
-g3
-((lp38
-S"(209, u'\\\\bmetoclopramide')"
-p39
-aS"(208, u'\\\\bzacopride')"
-p40
-aS"(53, u'\\\\bmethysergide')"
+I1086
+I1092
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
 p41
-atp42
-Rp43
-sS'species'
-p44
 g3
-((lp45
-S"(81, u'(?i)\\\\b(asps|asp)\\\\b')"
+((lp42
+S"(53, u'\\\\bketanserin')"
+p43
+aS"(15, u'\\\\b8ohdpat')"
+p44
+aS"(34, u'\\\\b5ct')"
+p45
+aS"(13, u'\\\\bagonist')"
 p46
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+aS"(49, u'\\\\bdoi')"
 p47
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(37, u'\\\\bpiperazine')"
 p48
-atp49
-Rp50
+aS"(12, u'\\\\bantagonist')"
+p49
+atp50
+Rp51
+sS'regions'
+p52
+g3
+((lp53
+tp54
+Rp55
+sS'year'
+p56
+V1995
+p57
+sS'species'
+p58
+g3
+((lp59
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p60
+atp61
+Rp62
 sb.

@@ -2,74 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(147, u'\\\\brs ?39604')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.KNOCKOUT'
-p10
-aS'Method.ANTAGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(35, u'\\\\bstress')"
-p16
-aS"(16, u'\\\\bfeed')"
-p17
-atp18
-Rp19
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht6'
+p14
+I264
+I269
+tp15
+a(S'5ht6'
+p16
+I54
+I59
+tp17
+a(S'5ht6'
+p18
+I579
+I584
+tp19
+a(S'5ht6'
 p20
+I460
+I465
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp21
-S'5ht4'
-p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+((lp25
+S"(44, u'\\\\btetrodotoxin')"
+p26
+aS"(12, u'\\\\bantagonist')"
 p27
 atp28
 Rp29
-sS'year'
+sS'regions'
 p30
-V2004
-p31
-sS'agonists'
+g3
+((lp31
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p32
-g3
-((lp33
-tp34
-Rp35
-sS'species'
+atp33
+Rp34
+sS'year'
+p35
+V2000
 p36
+sS'species'
+p37
 g3
-((lp37
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
-p38
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p39
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p40
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p41
-atp42
-Rp43
+atp40
+Rp41
 sb.

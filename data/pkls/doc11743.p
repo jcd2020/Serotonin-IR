@@ -2,72 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(133, u'\\\\bmianserin')"
+S'Method.ANTAGONIST'
 p5
-aS"(26, u'\\\\bspiperone')"
-p6
-aS"(21, u'\\\\bpindolol')"
-p7
-aS"(117, u'\\\\bketanserin')"
+atp6
+Rp7
+sS'topics'
 p8
-aS"(22, u'\\\\bpropranolol')"
-p9
-atp10
+g3
+((lp9
+tp10
 Rp11
-sS'methods'
+sS'receptors'
 p12
 g3
 ((lp13
-S'Method.AGONIST'
+(S'5ht1a'
 p14
-atp15
-Rp16
-sS'topics'
-p17
-g3
-((lp18
+I1586
+I1592
+tp15
+a(S'5ht1a'
+p16
+I357
+I363
+tp17
+a(S'5ht3'
+p18
+I1457
+I1467
 tp19
-Rp20
-sS'receptors'
-p21
+a(S'5ht1a'
+p20
+I1705
+I1711
+tp21
+a(S'5ht1a'
+p22
+I124
+I130
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp22
-S'5ht1b'
-p23
-aS'5ht1a'
-p24
-aS'5ht2a'
-p25
-atp26
-Rp27
-sS'regions'
+((lp27
+S"(5, u'\\\\bmk801')"
 p28
-g3
-((lp29
-tp30
+aS"(12, u'\\\\bantagonist')"
+p29
+atp30
 Rp31
-sS'year'
+sS'regions'
 p32
-V1994
-p33
-sS'agonists'
-p34
 g3
-((lp35
-S"(192, u'\\\\bquipazine')"
+((lp33
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p34
+aS"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p35
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p36
 atp37
 Rp38
-sS'species'
+sS'year'
 p39
+V1997
+p40
+sS'species'
+p41
 g3
-((lp40
-tp41
-Rp42
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

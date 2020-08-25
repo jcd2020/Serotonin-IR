@@ -2,74 +2,98 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(38, u'\\\\bsb ?224289')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(14, u'\\\\bcogniti')"
 p10
-aS'Method.AGONIST'
+aS"(20, u'\\\\bmood')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht2a'
+p16
+I1190
+I1196
+tp17
+a(S'5ht2a'
 p18
-g3
-((lp19
-S'5ht1b'
+I814
+I820
+tp19
+a(S'5ht2a'
 p20
-aS'5ht1d'
-p21
-atp22
-Rp23
-sS'regions'
+I910
+I916
+tp21
+a(S'5ht2a'
+p22
+I1416
+I1422
+tp23
+a(S'5ht2a'
 p24
-g3
-((lp25
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I1542
+I1548
+tp25
+a(S'5ht2a'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V1999
+I587
+I593
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(96, u'\\\\bsumatriptan')"
+((lp31
+S"(17, u'\\\\bpet')"
+p32
+aS"(19, u'\\\\bpositron emission tomography')"
 p33
-aS"(100, u'\\\\bcp ?93129')"
+aS"(49, u'\\\\bdoi')"
 p34
-atp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+aS"(23, u'\\\\bmdl')"
+p35
+aS"(48, u'\\\\bmdma')"
+p36
+atp37
+Rp38
+sS'regions'
 p39
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp40
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p41
-atp42
-Rp43
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p42
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p43
+atp44
+Rp45
+sS'year'
+p46
+V2012
+p47
+sS'species'
+p48
+g3
+((lp49
+tp50
+Rp51
 sb.

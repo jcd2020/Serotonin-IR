@@ -2,76 +2,146 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(203, u'\\\\btfmpp')"
+S'Method.STIMULATION'
 p5
-atp6
-Rp7
-sS'methods'
+aS'Method.AGONIST'
+p6
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p7
+aS'Method.STAINING'
 p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+atp9
+Rp10
 sS'topics'
+p11
+g3
+((lp12
+S"(15, u'\\\\bmemory')"
 p13
-g3
-((lp14
-S"(16, u'\\\\bfeed')"
+aS"(3, u'\\\\bclinical')"
+p14
+aS"(17, u'\\\\balzheimer')"
 p15
-aS"(4, u'\\\\blocomot')"
+aS"(4, u'\\\\btreatment')"
 p16
-atp17
-Rp18
+aS"(2, u'\\\\bdisorder')"
+p17
+atp18
+Rp19
 sS'receptors'
-p19
+p20
 g3
-((lp20
-S'5ht1c'
-p21
-aS'5ht1b'
+((lp21
+(S'5ht1e'
 p22
-aS'5ht1a'
-p23
-atp24
-Rp25
-sS'regions'
+I934
+I940
+tp23
+a(S'5ht1e'
+p24
+I573
+I579
+tp25
+a(S'5ht1f'
 p26
-g3
-((lp27
-S"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I941
+I947
+tp27
+a(S'5ht1e'
 p28
-atp29
-Rp30
-sS'year'
-p31
-V1988
+I251
+I257
+tp29
+a(S'5ht1e'
+p30
+I1229
+I1235
+tp31
+a(S'5ht1e'
 p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(178, u'\\\\btfmpp')"
-p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+I721
+I727
+tp33
+a(S'5ht1e'
+p34
+I980
+I986
+tp35
+a(S'5ht1e'
 p36
-aS"(67, u'\\\\bru ?24969')"
-p37
-atp38
-Rp39
-sS'species'
+I789
+I795
+tp37
+a(S'5ht1e'
+p38
+I395
+I401
+tp39
+a(S'5ht1e'
 p40
-g3
-((lp41
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I1095
+I1101
+tp41
+a(S'5ht1e'
 p42
-atp43
-Rp44
+I1525
+I1531
+tp43
+a(S'5ht1e'
+p44
+I1622
+I1628
+tp45
+a(S'5ht1'
+p46
+I1469
+I1474
+tp47
+a(S'5ht1e'
+p48
+I53
+I59
+tp49
+atp50
+Rp51
+sS'raw_text_methods'
+p52
+g3
+((lp53
+S"(13, u'\\\\bagonist')"
+p54
+atp55
+Rp56
+sS'regions'
+p57
+g3
+((lp58
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p59
+atp60
+Rp61
+sS'year'
+p62
+V2012
+p63
+sS'species'
+p64
+g3
+((lp65
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p66
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p67
+aS"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p68
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p69
+atp70
+Rp71
 sb.

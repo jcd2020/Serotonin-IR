@@ -2,78 +2,105 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p10
-atp11
-Rp12
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(7, u'\\\\bdepressi')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+aS"(2, u'\\\\bdisorder')"
 p13
-g3
-((lp14
-S"(25, u'\\\\bvasoconstrict')"
-p15
-aS"(21, u'\\\\bpain')"
-p16
-atp17
-Rp18
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht1b'
-p21
-aS'5ht1d'
+((lp17
+(S'5ht1a'
+p18
+I353
+I359
+tp19
+a(S'5ht1a'
+p20
+I28
+I34
+tp21
+a(S'5ht1a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
+I709
+I715
+tp23
+a(S'5ht1a'
+p24
+I622
+I628
+tp25
+a(S'5ht1a'
+p26
+I1627
+I1633
 tp27
-Rp28
-sS'year'
-p29
-V1999
+a(S'5ht1a'
+p28
+I1494
+I1500
+tp29
+a(S'5ht1a'
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(96, u'\\\\bsumatriptan')"
-p33
-aS"(102, u'\\\\bcp ?122288')"
+I1890
+I1896
+tp31
+a(S'5ht1a'
+p32
+I493
+I499
+tp33
+a(S'5ht1a'
 p34
-atp35
-Rp36
-sS'species'
-p37
+I1368
+I1374
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
+p38
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
+((lp39
+S"(51, u'\\\\bway100635')"
 p40
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
 p41
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p42
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p43
-atp44
-Rp45
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+tp46
+Rp47
+sS'year'
+p48
+V2007
+p49
+sS'species'
+p50
+g3
+((lp51
+tp52
+Rp53
 sb.

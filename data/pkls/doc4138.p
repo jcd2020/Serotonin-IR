@@ -2,74 +2,91 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-aS"(10, u'\\\\banxiety')"
-p16
-atp17
-Rp18
+tp10
+Rp11
 sS'receptors'
-p19
+p12
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp13
+(S'5ht4'
+p14
+I62
+I72
+tp15
+a(S'5ht4'
+p16
+I996
+I1001
+tp17
+a(S'5ht4'
+p18
+I793
+I798
+tp19
+a(S'5ht4'
+p20
+I418
+I423
+tp21
+a(S'5ht4'
+p22
+I1148
+I1153
+tp23
+a(S'5ht4'
 p24
-g3
-((lp25
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I434
+I439
+tp25
+a(S'5ht4'
 p26
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
+I682
+I687
+tp27
 atp28
 Rp29
-sS'year'
+sS'raw_text_methods'
 p30
-V2016
-p31
-sS'agonists'
-p32
 g3
-((lp33
-tp34
+((lp31
+S"(1, u'\\\\bneuroimag')"
+p32
+aS"(19, u'\\\\bpositron emission tomography')"
+p33
+atp34
 Rp35
-sS'species'
+sS'regions'
 p36
 g3
 ((lp37
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p38
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p39
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p40
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p41
-atp42
-Rp43
+atp40
+Rp41
+sS'year'
+p42
+V2012
+p43
+sS'species'
+p44
+g3
+((lp45
+tp46
+Rp47
 sb.

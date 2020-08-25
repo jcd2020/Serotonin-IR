@@ -2,76 +2,107 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKDOWN'
-p9
-aS'Method.KNOCKOUT'
-p10
-atp11
-Rp12
+S'Method.KNOCKOUT'
+p5
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-aS"(35, u'\\\\bstress')"
-p16
-atp17
-Rp18
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1a'
-p21
-aS'5ht4'
+((lp15
+(S'5ht1a'
+p16
+I1057
+I1063
+tp17
+a(S'5ht1a'
+p18
+I743
+I749
+tp19
+a(S'5ht1a'
+p20
+I556
+I562
+tp21
+a(S'5ht1a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I98
+I109
+tp23
+a(S'5ht1a'
+p24
+I326
+I332
+tp25
+a(S'5ht1a'
+p26
+I1247
+I1253
+tp27
+a(S'5ht1a'
 p28
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I311
+I322
+tp29
+a(S'5ht1a'
 p30
-atp31
-Rp32
-sS'year'
-p33
-V2017
-p34
-sS'agonists'
-p35
+I1822
+I1828
+tp31
+a(S'5ht1a'
+p32
+I1711
+I1717
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
 g3
-((lp36
-tp37
-Rp38
-sS'species'
-p39
-g3
-((lp40
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+((lp37
+S"(54, u'\\\\bautoradiography')"
+p38
+atp39
+Rp40
+sS'regions'
 p41
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p42
-atp43
+g3
+((lp42
+tp43
 Rp44
+sS'year'
+p45
+V2004
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p49
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p50
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p51
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p52
+atp53
+Rp54
 sb.

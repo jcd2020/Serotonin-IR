@@ -2,76 +2,78 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(198, u'\\\\bsb ?269970')"
-p5
-aS"(110, u'\\\\bclozapine')"
-p6
-aS"(193, u'\\\\bmesulergine')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+tp5
+Rp6
 sS'topics'
-p16
+p7
 g3
-((lp17
-tp18
-Rp19
+((lp8
+S"(24, u'\\\\banxiolytic')"
+p9
+aS"(8, u'\\\\banxi')"
+p10
+aS"(9, u'\\\\bstress')"
+p11
+atp12
+Rp13
 sS'receptors'
-p20
+p14
 g3
-((lp21
-S'5ht7'
+((lp15
+(S'5ht1a'
+p16
+I1598
+I1609
+tp17
+a(S'5ht1a'
+p18
+I1611
+I1616
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-aS'5ht1a'
-p23
-atp24
-Rp25
-sS'regions'
+g3
+((lp23
+S"(32, u'\\\\blesions')"
+p24
+aS"(36, u'\\\\bbenzodiazepine')"
+p25
+aS"(21, u'\\\\bipsapirone')"
 p26
-g3
-((lp27
-tp28
+aS"(22, u'\\\\bbuspirone')"
+p27
+atp28
 Rp29
-sS'year'
+sS'regions'
 p30
-V2018
-p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(165, u'\\\\bmesulergine')"
+((lp31
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p32
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p33
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
 p34
-aS"(23, u'\\\\bclozapine')"
-p35
-aS"(219, u'\\\\b5 ?ct')"
-p36
-atp37
-Rp38
+atp35
+Rp36
+sS'year'
+p37
+V1996
+p38
 sS'species'
 p39
 g3
 ((lp40
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
+atp42
+Rp43
 sb.

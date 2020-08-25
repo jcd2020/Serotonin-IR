@@ -2,70 +2,119 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(193, u'\\\\bmesulergine')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(2, u'\\\\bdisorder')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(23, u'\\\\bantipsychotic')"
+p12
+aS"(5, u'\\\\btherap')"
 p13
-g3
-((lp14
-tp15
-Rp16
+aS"(12, u'\\\\bsleep')"
+p14
+aS"(8, u'\\\\banxi')"
+p15
+aS"(4, u'\\\\btreatment')"
+p16
+atp17
+Rp18
 sS'receptors'
-p17
-g3
-((lp18
-S'5ht1c'
 p19
-aS'5ht1b'
-p20
-aS'5ht1a'
+g3
+((lp20
+(S'5ht2c'
 p21
-aS'5ht2'
-p22
-atp23
-Rp24
-sS'regions'
+I1113
+I1119
+tp22
+a(S'5ht2c'
+p23
+I2066
+I2072
+tp24
+a(S'5ht2c'
 p25
-g3
-((lp26
-tp27
-Rp28
-sS'year'
+I795
+I801
+tp26
+a(S'5ht2c'
+p27
+I107
+I113
+tp28
+a(S'5ht2c'
 p29
-V1992
-p30
-sS'agonists'
+I491
+I497
+tp30
+a(S'5ht2c'
 p31
-g3
-((lp32
-S"(165, u'\\\\bmesulergine')"
+I1754
+I1760
+tp32
+a(S'5ht2c'
 p33
-atp34
-Rp35
-sS'species'
-p36
+I547
+I553
+tp34
+a(S'5ht2c'
+p35
+I2013
+I2019
+tp36
+a(S'5ht2c'
+p37
+I1283
+I1289
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
+p41
 g3
-((lp37
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p38
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p39
-atp40
-Rp41
+((lp42
+S"(43, u'\\\\bagomelatine')"
+p43
+aS"(11, u'\\\\bfluoxetine')"
+p44
+aS"(38, u'\\\\bssri')"
+p45
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p46
+aS"(12, u'\\\\bantagonist')"
+p47
+atp48
+Rp49
+sS'regions'
+p50
+g3
+((lp51
+tp52
+Rp53
+sS'year'
+p54
+V2014
+p55
+sS'species'
+p56
+g3
+((lp57
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p58
+atp59
+Rp60
 sb.

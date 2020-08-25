@@ -2,84 +2,119 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(129, u'\\\\brenzapride')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(13, u'\\\\bantidepress')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht2c'
+p16
+I369
+I375
+tp17
+a(S'5ht2a'
 p18
-g3
-((lp19
-S'5ht4'
+I652
+I658
+tp19
+a(S'5ht2c'
 p20
-aS'5ht3a'
-p21
-aS'5ht2c'
+I641
+I647
+tp21
+a(S'5ht2c'
 p22
-aS'5ht2a'
-p23
-aS'5ht2b'
+I109
+I115
+tp23
+a(S'5ht2a'
 p24
-aS'5ht3'
-p25
-atp26
-Rp27
-sS'regions'
+I1191
+I1197
+tp25
+a(S'5ht2c'
+p26
+I775
+I781
+tp27
+a(S'5ht2c'
 p28
-g3
-((lp29
-tp30
-Rp31
-sS'year'
+I1631
+I1637
+tp29
+a(S'5ht2c'
+p30
+I1319
+I1325
+tp31
+a(S'5ht2c'
 p32
-V2008
-p33
-sS'agonists'
+I1457
+I1463
+tp33
+a(S'5ht2c'
 p34
-g3
-((lp35
-S"(203, u'\\\\brenzapride')"
+I1114
+I1120
+tp35
+a(S'5ht2a'
 p36
-aS"(149, u'\\\\bmem')"
-p37
+I1446
+I1452
+tp37
 atp38
 Rp39
-sS'species'
+sS'raw_text_methods'
 p40
 g3
 ((lp41
-S"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p42
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+aS"(11, u'\\\\bfluoxetine')"
 p43
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+aS"(38, u'\\\\bssri')"
 p44
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p45
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p46
 atp47
 Rp48
+sS'regions'
+p49
+g3
+((lp50
+tp51
+Rp52
+sS'year'
+p53
+V1996
+p54
+sS'species'
+p55
+g3
+((lp56
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p57
+atp58
+Rp59
 sb.

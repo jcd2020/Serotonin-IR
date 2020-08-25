@@ -2,74 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(4, u'\\\\btreatment')"
 p10
 atp11
 Rp12
-sS'topics'
+sS'receptors'
 p13
 g3
 ((lp14
-S"(7, u'\\\\bmemory')"
+(S'5ht1a'
 p15
-aS"(11, u'\\\\banxiolyt')"
-p16
-aS"(10, u'\\\\banxiety')"
+I1209
+I1215
+tp16
+a(S'5ht1a'
 p17
-aS"(1, u'\\\\bmood')"
-p18
-atp19
-Rp20
-sS'receptors'
+I853
+I859
+tp18
+a(S'5ht1a'
+p19
+I640
+I646
+tp20
+a(S'5ht5'
 p21
-g3
-((lp22
-S'5ht3'
+I401
+I411
+tp22
+a(S'5ht1a'
 p23
-aS'5ht3a'
-p24
+I160
+I166
+tp24
 atp25
 Rp26
-sS'regions'
+sS'raw_text_methods'
 p27
 g3
 ((lp28
-tp29
-Rp30
-sS'year'
-p31
-V2006
+S"(13, u'\\\\bagonist')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(149, u'\\\\bmem')"
+((lp33
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p34
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p35
 atp36
 Rp37
-sS'species'
+sS'year'
 p38
-g3
-((lp39
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+V1994
+p39
+sS'species'
 p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p41
-atp42
+g3
+((lp41
+tp42
 Rp43
 sb.

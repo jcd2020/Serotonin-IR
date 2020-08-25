@@ -2,74 +2,108 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(131, u'\\\\bm1')"
+S'Method.ANTAGONIST'
 p5
-aS"(124, u'\\\\bondansetron')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht1a'
+p16
+I1681
+I1687
+tp17
+a(S'5ht1'
 p18
-g3
-((lp19
-S'5ht4a'
+I382
+I387
+tp19
+a(S'5ht1a'
 p20
-aS'5ht4'
-p21
-aS'5ht3'
+I1516
+I1522
+tp21
+a(S'5ht2'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
+I1130
+I1135
+tp23
+a(S'5ht2'
+p24
+I1297
+I1302
+tp25
+a(S'5ht1'
+p26
+I71
+I76
+tp27
+a(S'5ht1a'
+p28
+I360
+I366
+tp29
+a(S'5ht1'
 p30
-V1994
-p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(220, u'\\\\b5 ?methoxytryptamine')"
+I1506
+I1511
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
-atp35
-Rp36
-sS'species'
-p37
 g3
-((lp38
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+((lp35
+S"(53, u'\\\\bketanserin')"
+p36
+aS"(41, u'\\\\bhaloperidol')"
+p37
+aS"(15, u'\\\\b8ohdpat')"
+p38
+aS"(13, u'\\\\bagonist')"
 p39
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+aS"(46, u'\\\\bspiperone')"
 p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p41
 atp42
 Rp43
+sS'regions'
+p44
+g3
+((lp45
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p46
+atp47
+Rp48
+sS'year'
+p49
+V1984
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p53
+atp54
+Rp55
 sb.

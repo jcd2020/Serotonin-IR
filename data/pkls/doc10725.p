@@ -2,82 +2,155 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-aS'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-S"(35, u'\\\\bstress')"
-p16
-aS"(11, u'\\\\banxiolyt')"
-p17
-atp18
-Rp19
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
+p18
+I1480
+I1486
+tp19
+a(S'5ht1a'
 p20
-g3
-((lp21
-S'5ht1a'
+I1763
+I1769
+tp21
+a(S'5ht1a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
+I298
+I304
+tp23
+a(S'5ht1a'
+p24
+I853
+I859
+tp25
+a(S'5ht1a'
+p26
+I1582
+I1588
+tp27
+a(S'5ht1a'
 p28
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p29
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I522
+I528
+tp29
+a(S'5ht1a'
 p30
-atp31
-Rp32
-sS'year'
-p33
-V2011
+I80
+I91
+tp31
+a(S'5ht1a'
+p32
+I252
+I258
+tp33
+a(S'5ht1a'
 p34
-sS'agonists'
-p35
-g3
-((lp36
+I1266
+I1272
+tp35
+a(S'5ht1a'
+p36
+I1287
+I1298
 tp37
-Rp38
-sS'species'
-p39
-g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+a(S'5ht1'
+p38
+I1838
+I1844
+tp39
+a(S'5ht1a'
+p40
+I619
+I625
+tp41
+a(S'5ht1a'
 p42
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p43
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
+I1125
+I1131
+tp43
+a(S'5ht1a'
 p44
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p45
-atp46
-Rp47
+I229
+I240
+tp45
+a(S'5ht1a'
+p46
+I1838
+I1844
+tp47
+a(S'5ht1a'
+p48
+I950
+I956
+tp49
+a(S'5ht1a'
+p50
+I1071
+I1077
+tp51
+atp52
+Rp53
+sS'raw_text_methods'
+p54
+g3
+((lp55
+S"(17, u'\\\\bpet')"
+p56
+aS"(19, u'\\\\bpositron emission tomography')"
+p57
+atp58
+Rp59
+sS'regions'
+p60
+g3
+((lp61
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p62
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p63
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p64
+atp65
+Rp66
+sS'year'
+p67
+V2009
+p68
+sS'species'
+p69
+g3
+((lp70
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p71
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p72
+atp73
+Rp74
 sb.

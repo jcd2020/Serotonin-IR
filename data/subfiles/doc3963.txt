@@ -1,4 +1,0 @@
-Frassetto, A., et al. (2008). "Reduced sensitivity to diet-induced obesity in mice carrying a mutant 5-HT(6) receptor." Brain Res 1236: 140-144.
-
-	We investigated the feeding behavior of mice carrying a non-functional 5-hydroxytryptamine-6 receptor (5-HT(6)). Homozygous mutant mice on C57BL/6 background were grossly normal and showed normal growth when fed a low-fat chow diet. When fed a high-fat diet, the mutant mice consumed approximately 8% less food while gaining approximately 35% less weight over an 11-week study period than did the wild-type controls. Body composition analysis of mice on high-fat feeding showed that the reduced weight gain in the mutant mice was mostly due to reduced fat accumulation. Given the documented role of the serotonin systems in human feeding, our results provide an interesting piece of evidence supporting the development of 5-HT6 receptor antagonists for treating obesity. (C) 2008 Elsevier B.V. All rights reserved.
-

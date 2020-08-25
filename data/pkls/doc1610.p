@@ -2,74 +2,72 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-aS'Method.STAINING'
-p10
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p11
-atp12
-Rp13
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-tp16
-Rp17
+((lp9
+S"(30, u'\\\\bpain')"
+p10
+atp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht2c'
-p20
-aS'5ht2'
+((lp14
+(S'5ht1a'
+p15
+I1661
+I1667
+tp16
+a(S'5ht1'
+p17
+I1661
+I1667
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
+g3
+((lp22
+S"(41, u'\\\\bhaloperidol')"
+p23
+aS"(51, u'\\\\bway100635')"
+p24
+aS"(12, u'\\\\bantagonist')"
 p25
+atp26
+Rp27
+sS'regions'
+p28
 g3
-((lp26
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
+((lp29
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p30
-V2005
+aS"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p31
-sS'agonists'
-p32
-g3
-((lp33
-tp34
-Rp35
+atp32
+Rp33
+sS'year'
+p34
+V2016
+p35
 sS'species'
 p36
 g3
 ((lp37
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p39
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+atp39
+Rp40
 sb.

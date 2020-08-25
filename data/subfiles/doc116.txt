@@ -1,0 +1,4 @@
+Ahmed, M., et al. (2005). "Bicyclic heteroarylpiperazines as selective brain penetrant 5-HT6 receptor antagonists." Bioorg Med Chem Lett 15(21): 4867-4871.
+
+	Starting from the potent and selective but poorly brain penetrant 5-HT6 receptor antagonist SB-271046, a successful strategy for improving brain penetration was adopted involving conformational constraint with concomitant reduction in hydrogen bond count. This provided a series of bicyclic heteroarylpiperazines with high 5-HT6 receptor affinity. 5-Chloroindole 699929 combined high 5-HT6 receptor affinity with excellent brain penetration and also had good oral bioavailability in both rat and dog.
+

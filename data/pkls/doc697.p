@@ -2,78 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(17, u'\\\\bnan ?190')"
-p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-aS"(33, u'\\\\byohimbine')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+tp5
+Rp6
 sS'topics'
-p16
+p7
 g3
-((lp17
-S"(16, u'\\\\bfeed')"
-p18
-aS"(4, u'\\\\blocomot')"
-p19
-atp20
-Rp21
+((lp8
+tp9
+Rp10
 sS'receptors'
-p22
+p11
 g3
-((lp23
-S'5ht5'
+((lp12
+(S'5ht2a'
+p13
+I916
+I922
+tp14
+a(S'5ht2a'
+p15
+I213
+I219
+tp16
+a(S'5ht2a'
+p17
+I43
+I49
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(46, u'\\\\bspiperone')"
+p23
+aS"(53, u'\\\\bketanserin')"
 p24
-aS'5ht1a'
-p25
-atp26
-Rp27
+atp25
+Rp26
 sS'regions'
-p28
+p27
 g3
-((lp29
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p30
-aS"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
-p31
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p32
-atp33
-Rp34
+((lp28
+tp29
+Rp30
 sS'year'
-p35
-V2004
-p36
-sS'agonists'
-p37
-g3
-((lp38
-S"(82, u'\\\\byohimbine')"
-p39
-atp40
-Rp41
+p31
+V1994
+p32
 sS'species'
-p42
+p33
 g3
-((lp43
-tp44
-Rp45
+((lp34
+tp35
+Rp36
 sb.

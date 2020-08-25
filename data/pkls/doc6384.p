@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,23 +10,25 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.PET'
+S"(13, u'\\\\bantidepress')"
 p9
-atp10
-Rp11
-sS'topics'
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+aS"(7, u'\\\\bdepressi')"
 p12
-g3
-((lp13
-S"(16, u'\\\\bfeed')"
+aS"(20, u'\\\\bmood')"
+p13
+aS"(5, u'\\\\btherap')"
 p14
-aS"(10, u'\\\\banxiety')"
+aS"(12, u'\\\\bsleep')"
 p15
-aS"(1, u'\\\\bmood')"
+aS"(4, u'\\\\btreatment')"
 p16
 atp17
 Rp18
@@ -34,34 +36,45 @@ sS'receptors'
 p19
 g3
 ((lp20
-S'5ht1a'
+(S'5ht2b'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
+I1679
+I1685
+tp22
+a(S'5ht2b'
+p23
+I1119
+I1125
+tp24
+a(S'5ht2b'
 p25
-g3
-((lp26
-tp27
+I55
+I61
+tp26
+atp27
 Rp28
-sS'year'
+sS'raw_text_methods'
 p29
-V2005
-p30
-sS'agonists'
+g3
+((lp30
+S"(11, u'\\\\bfluoxetine')"
 p31
+atp32
+Rp33
+sS'regions'
+p34
 g3
-((lp32
-tp33
-Rp34
+((lp35
+tp36
+Rp37
+sS'year'
+p38
+V2018
+p39
 sS'species'
-p35
+p40
 g3
-((lp36
-S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p37
-atp38
-Rp39
+((lp41
+tp42
+Rp43
 sb.

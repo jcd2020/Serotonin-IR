@@ -1,0 +1,130 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(2, u'\\\\bdisorder')"
+p15
+atp16
+Rp17
+sS'receptors'
+p18
+g3
+((lp19
+(S'5ht1b'
+p20
+I610
+I616
+tp21
+a(S'5ht1b'
+p22
+I1091
+I1097
+tp23
+a(S'5ht1b'
+p24
+I1763
+I1769
+tp25
+a(S'5ht1b'
+p26
+I1833
+I1839
+tp27
+a(S'5ht1b'
+p28
+I1221
+I1227
+tp29
+a(S'5ht1b'
+p30
+I1942
+I1948
+tp31
+a(S'5ht1b'
+p32
+I764
+I770
+tp33
+a(S'5ht1b'
+p34
+I95
+I106
+tp35
+a(S'5ht1b'
+p36
+I634
+I640
+tp37
+a(S'5ht1b'
+p38
+I1452
+I1458
+tp39
+a(S'5ht1b'
+p40
+I1345
+I1351
+tp41
+atp42
+Rp43
+sS'raw_text_methods'
+p44
+g3
+((lp45
+S"(17, u'\\\\bpet')"
+p46
+aS"(19, u'\\\\bpositron emission tomography')"
+p47
+aS"(38, u'\\\\bssri')"
+p48
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p49
+aS"(12, u'\\\\bantagonist')"
+p50
+atp51
+Rp52
+sS'regions'
+p53
+g3
+((lp54
+tp55
+Rp56
+sS'year'
+p57
+V2020
+p58
+sS'species'
+p59
+g3
+((lp60
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p61
+aS"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p62
+atp63
+Rp64
+sb.

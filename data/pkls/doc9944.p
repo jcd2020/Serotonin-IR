@@ -2,70 +2,103 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
-atp11
-Rp12
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(13, u'\\\\bantidepress')"
 p13
-g3
-((lp14
-tp15
-Rp16
+aS"(9, u'\\\\bstress')"
+p14
+aS"(7, u'\\\\bdepressi')"
+p15
+aS"(4, u'\\\\btreatment')"
+p16
+atp17
+Rp18
 sS'receptors'
-p17
-g3
-((lp18
-S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
 g3
-((lp23
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p24
-aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
+((lp20
+(S'5ht6'
+p21
+I383
+I388
+tp22
+a(S'5ht6'
+p23
+I1119
+I1124
+tp24
+a(S'5ht6'
 p25
-atp26
-Rp27
-sS'year'
-p28
-V2000
+I1680
+I1685
+tp26
+a(S'5ht6'
+p27
+I177
+I182
+tp28
+a(S'5ht6'
 p29
-sS'agonists'
-p30
-g3
-((lp31
+I1070
+I1075
+tp30
+a(S'5ht6'
+p31
+I44
+I49
 tp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
-p36
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+a(S'5ht6'
+p33
+I1779
+I1784
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
 p37
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p38
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+g3
+((lp38
+S"(13, u'\\\\bagonist')"
 p39
-atp40
-Rp41
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+tp45
+Rp46
+sS'year'
+p47
+V2011
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
 sb.

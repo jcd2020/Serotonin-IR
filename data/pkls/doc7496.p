@@ -2,68 +2,90 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STIMULATION'
-p9
-aS'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(28, u'\\\\bgastrointestin')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+aS"(5, u'\\\\btherap')"
+p12
+aS"(35, u'\\\\bnocicept')"
+p13
+aS"(30, u'\\\\bpain')"
 p14
-g3
-((lp15
-tp16
-Rp17
+aS"(1, u'\\\\bpatient')"
+p15
+aS"(4, u'\\\\btreatment')"
+p16
+aS"(3, u'\\\\bclinical')"
+p17
+atp18
+Rp19
 sS'receptors'
-p18
-g3
-((lp19
-S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
 g3
-((lp24
-S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
+((lp21
+(S'5ht3'
+p22
+I613
+I618
+tp23
+a(S'5ht3'
+p24
+I1011
+I1016
+tp25
+a(S'5ht3'
+p26
+I1841
+I1846
+tp27
+a(S'5ht3'
 p28
-V1996
-p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(85, u'\\\\b8 ?oh ?dpat')"
+I431
+I436
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
 p32
-atp33
-Rp34
-sS'species'
-p35
 g3
-((lp36
-S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+((lp33
+S"(12, u'\\\\bantagonist')"
+p34
+atp35
+Rp36
+sS'regions'
 p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
+g3
+((lp38
+tp39
 Rp40
+sS'year'
+p41
+V2015
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p45
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p46
+atp47
+Rp48
 sb.

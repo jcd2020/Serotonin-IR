@@ -2,70 +2,111 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
-atp11
-Rp12
+tp5
+Rp6
 sS'topics'
-p13
+p7
 g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-atp16
-Rp17
+((lp8
+S"(7, u'\\\\bdepressi')"
+p9
+aS"(13, u'\\\\bantidepress')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp16
+(S'5ht1b'
+p17
+I1191
+I1197
+tp18
+a(S'5ht1b'
+p19
+I1401
+I1407
+tp20
+a(S'5ht1b'
+p21
+I1272
+I1278
+tp22
+a(S'5ht1b'
 p23
-g3
-((lp24
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I69
+I75
+tp24
+a(S'5ht1b'
 p25
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+I279
+I285
+tp26
+a(S'5ht1b'
+p27
+I1063
+I1069
+tp28
+a(S'5ht1b'
 p29
-V1999
-p30
-sS'agonists'
+I1512
+I1518
+tp30
+a(S'5ht1b'
 p31
-g3
-((lp32
-tp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+I480
+I486
+tp32
+a(S'5ht1b'
+p33
+I733
+I739
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
 p37
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p38
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+g3
+((lp38
+S"(11, u'\\\\bfluoxetine')"
 p39
-atp40
-Rp41
+aS"(38, u'\\\\bssri')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p45
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p46
+aS"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V2000
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p54
+atp55
+Rp56
 sb.

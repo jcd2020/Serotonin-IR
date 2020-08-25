@@ -1,4 +1,0 @@
-Whitaker-Azmitia, P. M., et al. (1990). "Stimulation of astroglial 5-HT1A receptors releases the serotonergic growth factor, protein S-100, and alters astroglial morphology." Brain Res 528(1): 155-158.
-
-	Stimulation of astroglial 5-HT1A receptors causes astroglial cells to acquire a more mature morphology and to release a factor (or factors) which promotes growth of serotonergic neurons. By using an antibody-blocking approach, we have shown that at least one of the growth-promoting factors thus released is the astroglial-specific protein S-100. This may be a particularly important observation, in view of studies implicating S-100 in both Down's syndrome and Alzheimer's disease.
-

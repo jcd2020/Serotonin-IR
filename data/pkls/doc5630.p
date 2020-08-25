@@ -2,92 +2,116 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(112, u'\\\\bquetiapine')"
+S'Method.PET'
 p5
-aS"(113, u'\\\\brisperidone')"
-p6
-aS"(50, u'\\\\bquetiapine')"
-p7
-aS"(111, u'\\\\bolanzapine')"
-p8
-aS"(35, u'\\\\baripiprazole')"
-p9
-aS"(58, u'\\\\bhaloperidol')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
-S'Method.ANTAGONIST'
-p15
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p6
+atp7
+Rp8
 sS'topics'
-p19
+p9
 g3
-((lp20
-S"(15, u'\\\\bschizophreni')"
-p21
-aS"(6, u'\\\\bcognit')"
-p22
-atp23
-Rp24
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(8, u'\\\\banxi')"
+p12
+aS"(7, u'\\\\bdepressi')"
+p13
+atp14
+Rp15
 sS'receptors'
-p25
+p16
 g3
-((lp26
-S'5ht3'
-p27
-aS'5ht3a'
+((lp17
+(S'5ht2c'
+p18
+I1045
+I1051
+tp19
+a(S'5ht2c'
+p20
+I518
+I524
+tp21
+a(S'5ht2c'
+p22
+I662
+I668
+tp23
+a(S'5ht2c'
+p24
+I1469
+I1475
+tp25
+a(S'5ht2c'
+p26
+I61
+I67
+tp27
+a(S'5ht2c'
 p28
-atp29
-Rp30
-sS'regions'
-p31
-g3
-((lp32
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p33
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1556
+I1562
+tp29
+a(S'5ht2c'
+p30
+I235
+I241
+tp31
+a(S'5ht2c'
+p32
+I854
+I860
+tp33
+a(S'5ht2c'
 p34
-atp35
-Rp36
-sS'year'
-p37
-V2014
-p38
-sS'agonists'
-p39
+I339
+I345
+tp35
+a(S'5ht2c'
+p36
+I204
+I215
+tp37
+atp38
+Rp39
+sS'raw_text_methods'
+p40
 g3
-((lp40
-S"(57, u'\\\\bolanzapine')"
-p41
-aS"(64, u'\\\\bquetiapine')"
+((lp41
+S"(13, u'\\\\bagonist')"
 p42
-aS"(223, u'\\\\baripiprazole')"
+aS"(17, u'\\\\bpet')"
 p43
-aS"(43, u'\\\\bhaloperidol')"
+aS"(18, u'\\\\bimaging')"
 p44
 atp45
 Rp46
-sS'species'
+sS'regions'
 p47
 g3
 ((lp48
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p49
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p50
-atp51
-Rp52
+atp50
+Rp51
+sS'year'
+p52
+V2017
+p53
+sS'species'
+p54
+g3
+((lp55
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p56
+atp57
+Rp58
 sb.

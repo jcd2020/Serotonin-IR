@@ -2,64 +2,120 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(8, u'\\\\banxi')"
+p11
+aS"(5, u'\\\\btherap')"
+p12
+aS"(7, u'\\\\bdepressi')"
 p13
-g3
-((lp14
-tp15
-Rp16
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(2, u'\\\\bdisorder')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-tp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p23
-atp24
-Rp25
-sS'year'
+((lp19
+(S'5ht1b'
+p20
+I770
+I776
+tp21
+a(S'5ht1b'
+p22
+I342
+I348
+tp23
+a(S'5ht1b'
+p24
+I483
+I489
+tp25
+a(S'5ht1b'
 p26
-V1990
-p27
-sS'agonists'
+I1975
+I1981
+tp27
+a(S'5ht1b'
 p28
-g3
-((lp29
-S"(11, u'\\\\bamphetamine')"
+I70
+I76
+tp29
+a(S'5ht1b'
 p30
-atp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p35
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+I319
+I330
+tp31
+a(S'5ht1b'
+p32
+I954
+I960
+tp33
+a(S'5ht1b'
+p34
+I2280
+I2286
+tp35
+a(S'5ht1b'
 p36
-atp37
-Rp38
+I1291
+I1297
+tp37
+a(S'5ht1'
+p38
+I1767
+I1772
+tp39
+atp40
+Rp41
+sS'raw_text_methods'
+p42
+g3
+((lp43
+S"(19, u'\\\\bpositron emission tomography')"
+p44
+aS"(12, u'\\\\bantagonist')"
+p45
+atp46
+Rp47
+sS'regions'
+p48
+g3
+((lp49
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p50
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p51
+atp52
+Rp53
+sS'year'
+p54
+V2009
+p55
+sS'species'
+p56
+g3
+((lp57
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p58
+atp59
+Rp60
 sb.

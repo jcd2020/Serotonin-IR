@@ -1,4 +1,0 @@
-ElAhmad, Y., et al. (1997). "New benzocycloalkylpiperazines, potent and selective 5-HT1A receptor ligands." J Med Chem 40(6): 952-960.
-
-	A series of 1-(benzocycloalkyl)-4-(benzamidoalkyl)piperazine derivatives was prepared in order to obtain compounds with a high affinity and selectivity for 5-HT1A receptors. The modifications of aromatic substituents, the length of the alkyl chain, and the size of the ring were explored. Most of N-(1,2,3,4-tetrahydronaphthyl)-N'-(benzamidoethyl)piperazines (32-37) were bound to 5-HT1A receptors in a nanomolar range and presented a high degree of selectivity. After resolution, levorotatory enantiomers showed affinity and selectivity higher than those of dextrorotatory ones for 5-HT1A sites. The agonist type activity of selected derivatives was also confirmed in vitro on the inhibition of the activation of adenylate cyclase induced by forskolin and, in vivo, on the induction of the lower lip retraction in rats.
-

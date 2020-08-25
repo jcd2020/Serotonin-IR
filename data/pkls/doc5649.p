@@ -2,70 +2,78 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p11
+p8
 g3
-((lp12
-S"(9, u'\\\\bdepress')"
-p13
-aS"(7, u'\\\\bmemory')"
-p14
-atp15
-Rp16
+((lp9
+S"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht4'
+p15
+I1365
+I1370
+tp16
+a(S'5ht1a'
 p17
-g3
-((lp18
-S'5ht5'
+I1195
+I1201
+tp18
+a(S'5ht1'
 p19
-aS'5ht4'
-p20
-aS'5ht1a'
+I980
+I985
+tp20
+a(S'5ht4'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I1628
+I1633
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp25
-S"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
-p26
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+((lp26
+S"(13, u'\\\\bagonist')"
 p27
-atp28
-Rp29
-sS'year'
-p30
-V2007
-p31
-sS'agonists'
+aS"(15, u'\\\\b8ohdpat')"
+p28
+aS"(10, u'\\\\bmethamphetamine')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
 g3
 ((lp33
-S"(149, u'\\\\bmem')"
-p34
-atp35
-Rp36
-sS'species'
+tp34
+Rp35
+sS'year'
+p36
+V2004
 p37
+sS'species'
+p38
 g3
-((lp38
-S"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
-p39
-atp40
-Rp41
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

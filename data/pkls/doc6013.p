@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,58 +10,71 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-tp9
-Rp10
-sS'topics'
-p11
-g3
-((lp12
-S"(6, u'\\\\bcognit')"
-p13
-atp14
-Rp15
+S"(23, u'\\\\bantipsychotic')"
+p9
+aS"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
 sS'receptors'
-p16
+p13
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
+((lp14
+(S'5ht2a'
+p15
+I432
+I438
+tp16
+a(S'5ht2a'
+p17
+I1181
+I1187
+tp18
+a(S'5ht2a'
+p19
+I138
+I144
+tp20
+a(S'5ht2a'
 p21
-g3
-((lp22
-tp23
-Rp24
-sS'year'
-p25
-V2010
-p26
-sS'agonists'
+I1069
+I1075
+tp22
+a(S'5ht2a'
+p23
+I917
+I923
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
 g3
 ((lp28
 tp29
 Rp30
-sS'species'
+sS'regions'
 p31
 g3
 ((lp32
-S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p33
-aS"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
-p34
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p35
-aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
+atp34
+Rp35
+sS'year'
 p36
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+V2000
 p37
-atp38
-Rp39
+sS'species'
+p38
+g3
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

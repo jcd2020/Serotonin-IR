@@ -2,92 +2,118 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(198, u'\\\\bsb ?269970')"
-p5
-aS"(190, u'\\\\blurasidone')"
-p6
-aS"(58, u'\\\\bhaloperidol')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
+p5
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p6
+atp7
+Rp8
 sS'topics'
-p16
+p9
 g3
-((lp17
-S"(15, u'\\\\bschizophreni')"
-p18
-aS"(6, u'\\\\bcognit')"
-p19
-aS"(7, u'\\\\bmemory')"
-p20
-atp21
-Rp22
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(5, u'\\\\btherap')"
+p12
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(3, u'\\\\bclinical')"
+p15
+atp16
+Rp17
 sS'receptors'
-p23
+p18
 g3
-((lp24
-S'5ht7a'
-p25
-aS'5ht1a'
+((lp19
+(S'5ht2a'
+p20
+I1140
+I1146
+tp21
+a(S'5ht1b'
+p22
+I1865
+I1871
+tp23
+a(S'5ht1a'
+p24
+I954
+I960
+tp25
+a(S'5ht1a'
 p26
-aS'5ht2a'
-p27
-atp28
-Rp29
-sS'regions'
+I1734
+I1740
+tp27
+a(S'5ht1a'
+p28
+I552
+I558
+tp29
+a(S'5ht2a'
 p30
-g3
-((lp31
-tp32
-Rp33
-sS'year'
+I572
+I578
+tp31
+a(S'5ht1b'
+p32
+I560
+I566
+tp33
+a(S'5ht1a'
 p34
-V2013
-p35
-sS'agonists'
+I690
+I696
+tp35
+a(S'5ht2a'
 p36
-g3
-((lp37
-S"(47, u'\\\\blurasidone')"
+I1272
+I1278
+tp37
+a(S'5ht1'
 p38
-aS"(176, u'\\\\bdom')"
-p39
-aS"(149, u'\\\\bmem')"
-p40
-aS"(73, u'\\\\btandospirone')"
-p41
-aS"(43, u'\\\\bhaloperidol')"
+I560
+I566
+tp39
+atp40
+Rp41
+sS'raw_text_methods'
 p42
-atp43
-Rp44
-sS'species'
-p45
 g3
-((lp46
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p47
-aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p48
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp43
+S"(13, u'\\\\bagonist')"
+p44
+aS"(49, u'\\\\bdoi')"
+p45
+aS"(12, u'\\\\bantagonist')"
+p46
+atp47
+Rp48
+sS'regions'
 p49
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p50
-atp51
-Rp52
+g3
+((lp50
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p51
+atp52
+Rp53
+sS'year'
+p54
+V2014
+p55
+sS'species'
+p56
+g3
+((lp57
+tp58
+Rp59
 sb.

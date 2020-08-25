@@ -2,71 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-S"(20, u'\\\\baggressi')"
-p16
-atp17
-Rp18
+((lp10
+tp11
+Rp12
 sS'receptors'
-p19
+p13
 g3
-((lp20
-S'5ht1a'
+((lp14
+(S'5ht5'
+p15
+I1820
+I1830
+tp16
+a(S'5ht2a'
+p17
+I2001
+I2007
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-aS'5ht5'
-p22
-atp23
-Rp24
-sS'regions'
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+aS"(41, u'\\\\bhaloperidol')"
+p24
+aS"(12, u'\\\\bantagonist')"
 p25
+atp26
+Rp27
+sS'regions'
+p28
 g3
-((lp26
-tp27
-Rp28
-sS'year'
-p29
-V1994
+((lp29
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p30
-sS'agonists'
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p31
-g3
-((lp32
-S"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p32
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p33
-aS"(163, u'\\\\bfenfluramine')"
-p34
-atp35
-Rp36
-sS'species'
+atp34
+Rp35
+sS'year'
+p36
+V2015
 p37
+sS'species'
+p38
 g3
-((lp38
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p39
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
 atp41
 Rp42

@@ -2,82 +2,112 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.KNOCKOUT'
 p5
-aS"(31, u'\\\\bway ?100635')"
+aS'Method.IMMUNOHISTOCHEMISTRY'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.STIMULATION'
+S"(8, u'\\\\banxi')"
 p11
-aS'Method.AGONIST'
+aS"(7, u'\\\\bdepressi')"
 p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(11, u'\\\\banxiolyt')"
-p17
-aS"(10, u'\\\\banxiety')"
-p18
-atp19
-Rp20
+aS"(9, u'\\\\bstress')"
+p13
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1b'
+p19
+I1432
+I1440
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-S'5ht1a'
+I1001
+I1007
+tp22
+a(S'5ht1b'
 p23
-aS'5ht2'
-p24
-aS'5ht1'
+I483
+I491
+tp24
+a(S'5ht1a'
 p25
-atp26
-Rp27
-sS'regions'
-p28
-g3
-((lp29
-S"(214, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
-p30
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I483
+I489
+tp26
+a(S'5ht1a'
+p27
+I1432
+I1438
+tp28
+a(S'5ht1b'
+p29
+I1001
+I1009
+tp30
+a(S'5ht1a'
 p31
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p32
-atp33
-Rp34
-sS'year'
+I811
+I817
+tp32
+a(S'5ht1b'
+p33
+I811
+I819
+tp34
+a(S'5ht1a'
 p35
-V2005
-p36
-sS'agonists'
+I450
+I456
+tp36
+a(S'5ht1b'
 p37
+I463
+I469
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
+p41
 g3
-((lp38
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p39
-aS"(175, u'\\\\bdoi')"
-p40
-atp41
-Rp42
-sS'species'
-p43
-g3
-((lp44
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp42
+tp43
+Rp44
+sS'regions'
 p45
-atp46
-Rp47
+g3
+((lp46
+tp47
+Rp48
+sS'year'
+p49
+V2012
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p53
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p54
+atp55
+Rp56
 sb.

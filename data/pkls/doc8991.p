@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,56 +10,83 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
 tp9
 Rp10
-sS'topics'
+sS'receptors'
 p11
 g3
 ((lp12
-S"(21, u'\\\\bpain')"
+(S'5ht1'
 p13
-atp14
-Rp15
-sS'receptors'
-p16
-g3
-((lp17
-S'5ht1d'
-p18
-atp19
-Rp20
-sS'regions'
+I750
+I755
+tp14
+a(S'5ht1b'
+p15
+I433
+I444
+tp16
+a(S'5ht1'
+p17
+I457
+I462
+tp18
+a(S'5ht1b'
+p19
+I32
+I43
+tp20
+a(S'5ht1'
 p21
-g3
-((lp22
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I910
+I915
+tp22
+a(S'5ht1'
 p23
-aS"(374, u'(?i)\\\\b(duras|dura)(-|\\\\s+)?(maters|mater)\\\\b')"
-p24
-aS"(376, u'(?i)\\\\b(pias|pia)(-|\\\\s+)?(maters|mater)\\\\b')"
+I1172
+I1177
+tp24
+a(S'5ht1'
 p25
-atp26
-Rp27
-sS'year'
-p28
-V1993
+I1491
+I1496
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-sS'agonists'
-p30
 g3
-((lp31
-S"(96, u'\\\\bsumatriptan')"
+((lp30
+S"(1, u'\\\\bneuroimag')"
+p31
+aS"(18, u'\\\\bimaging')"
 p32
 atp33
 Rp34
-sS'species'
+sS'regions'
 p35
 g3
 ((lp36
-tp37
-Rp38
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p37
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p38
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p39
+atp40
+Rp41
+sS'year'
+p42
+V2013
+p43
+sS'species'
+p44
+g3
+((lp45
+tp46
+Rp47
 sb.

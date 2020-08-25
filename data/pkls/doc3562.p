@@ -2,72 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.PET'
 p5
-aS"(124, u'\\\\bondansetron')"
+aS'Method.ANTAGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(1, u'\\\\bpatient')"
 p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-tp17
-Rp18
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht3a'
-p21
-aS'5ht5'
+((lp15
+(S'5ht1a'
+p16
+I108
+I119
+tp17
+a(S'5ht1a'
+p18
+I1536
+I1542
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-aS'5ht3'
-p23
-atp24
-Rp25
-sS'regions'
-p26
 g3
-((lp27
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+((lp23
+S"(32, u'\\\\blesions')"
+p24
+aS"(17, u'\\\\bpet')"
+p25
+aS"(19, u'\\\\bpositron emission tomography')"
+p26
+aS"(18, u'\\\\bimaging')"
+p27
+aS"(12, u'\\\\bantagonist')"
 p28
 atp29
 Rp30
-sS'year'
+sS'regions'
 p31
-V2016
-p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(194, u'\\\\bsr ?57227')"
-p35
-atp36
-Rp37
+((lp32
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
+p36
+V2008
+p37
 sS'species'
 p38
 g3
 ((lp39
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p40
-atp41
-Rp42
+tp40
+Rp41
 sb.

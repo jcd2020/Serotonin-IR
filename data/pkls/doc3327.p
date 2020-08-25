@@ -2,74 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-aS'Method.IMMUNOHISTOCHEMISTRY'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(21, u'\\\\bpain')"
+(S'5ht1a'
 p16
-aS"(9, u'\\\\bdepress')"
-p17
-aS"(24, u'\\\\banalgesi')"
+I992
+I998
+tp17
+a(S'5ht1a'
 p18
-atp19
-Rp20
-sS'receptors'
-p21
-g3
-((lp22
-S'5ht3a'
-p23
-aS'5ht3'
+I503
+I509
+tp19
+a(S'5ht1a'
+p20
+I578
+I584
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-aS'5ht2a'
-p25
-atp26
-Rp27
-sS'regions'
-p28
 g3
-((lp29
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+((lp25
+S"(7, u'\\\\bpropranolol')"
+p26
+aS"(41, u'\\\\bhaloperidol')"
+p27
+aS"(15, u'\\\\b8ohdpat')"
+p28
+aS"(13, u'\\\\bagonist')"
+p29
+aS"(46, u'\\\\bspiperone')"
 p30
-atp31
-Rp32
-sS'year'
-p33
-V1995
-p34
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
+p31
+aS"(45, u'\\\\bmetergoline')"
+p32
+atp33
+Rp34
+sS'regions'
 p35
 g3
 ((lp36
-tp37
-Rp38
-sS'species'
-p39
-g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p37
+atp38
+Rp39
+sS'year'
+p40
+V1990
 p41
-atp42
-Rp43
+sS'species'
+p42
+g3
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

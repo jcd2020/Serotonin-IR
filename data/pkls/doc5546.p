@@ -2,70 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.AGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+aS'Method.ANTAGONIST'
+p7
+atp8
+Rp9
 sS'topics'
+p10
+g3
+((lp11
+tp12
+Rp13
+sS'receptors'
 p14
 g3
 ((lp15
-S"(26, u'\\\\bcardiovascular')"
+(S'5ht2c'
 p16
-aS"(35, u'\\\\bstress')"
-p17
-atp18
-Rp19
-sS'receptors'
+I1341
+I1347
+tp17
+a(S'5ht2c'
+p18
+I87
+I95
+tp19
+a(S'5ht2a'
 p20
+I87
+I93
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp21
-S'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+aS"(49, u'\\\\bdoi')"
 p27
-aS"(6, u'(?i)\\\\b(rostrals|rostral)(-|\\\\s+)?(ventrolaterals|ventrolateral)(-|\\\\s+)?(medullas|medulla)\\\\b')"
+aS"(5, u'\\\\bmk801')"
 p28
-atp29
-Rp30
-sS'year'
-p31
-V2008
+aS"(12, u'\\\\bantagonist')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
+((lp33
+tp34
+Rp35
+sS'year'
+p36
+V1999
+p37
 sS'species'
 p38
 g3
 ((lp39
-tp40
-Rp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

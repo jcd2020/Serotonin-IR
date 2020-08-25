@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,68 +10,65 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.PET'
+S"(26, u'\\\\bbehav')"
 p9
 atp10
 Rp11
-sS'topics'
+sS'receptors'
 p12
 g3
 ((lp13
-tp14
-Rp15
-sS'receptors'
+(S'5ht1a'
+p14
+I1053
+I1059
+tp15
+a(S'5ht1b'
 p16
-g3
-((lp17
-S'5ht1b'
+I814
+I820
+tp17
+a(S'5ht1a'
 p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
+I803
+I809
+tp19
+a(S'5ht1b'
+p20
+I938
+I944
+tp21
+a(S'5ht1a'
+p22
+I927
+I933
 tp23
-Rp24
-sS'year'
-p25
-V2011
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-sS'agonists'
-p27
 g3
-((lp28
-S"(163, u'\\\\bfenfluramine')"
-p29
-atp30
-Rp31
-sS'species'
-p32
+((lp27
+tp28
+Rp29
+sS'regions'
+p30
 g3
-((lp33
-S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
+((lp31
+tp32
+Rp33
+sS'year'
 p34
-aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
+V2018
 p35
-aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
+sS'species'
 p36
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p37
-aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p38
-aS"(4635, u'(?i)\\\\b(baboons|baboon)\\\\b')"
-p39
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p41
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p42
-atp43
-Rp44
+g3
+((lp37
+tp38
+Rp39
 sb.

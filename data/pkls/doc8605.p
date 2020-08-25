@@ -2,88 +2,113 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(17, u'\\\\bnan ?190')"
+S'Method.PET'
 p5
-aS"(1, u'\\\\balprenolol')"
+aS'Method.ANTAGONIST'
 p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(192, u'\\\\bmaprotiline')"
-p8
-aS"(4, u'\\\\bbmy ?7378')"
-p9
-aS"(26, u'\\\\bspiperone')"
-p10
-aS"(187, u'\\\\bici 169369')"
-p11
-aS"(119, u'\\\\britanserin')"
-p12
-atp13
-Rp14
-sS'methods'
-p15
-g3
-((lp16
-S'Method.ANTAGONIST'
-p17
-atp18
-Rp19
+atp7
+Rp8
 sS'topics'
-p20
+p9
 g3
-((lp21
-tp22
-Rp23
+((lp10
+S"(6, u'\\\\baggressi')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+atp14
+Rp15
 sS'receptors'
-p24
+p16
 g3
-((lp25
-S'5ht1c'
+((lp17
+(S'5ht1a'
+p18
+I449
+I455
+tp19
+a(S'5ht1a'
+p20
+I220
+I226
+tp21
+a(S'5ht1a'
+p22
+I100
+I106
+tp23
+a(S'5ht1a'
+p24
+I486
+I492
+tp25
+a(S'5ht1a'
 p26
-aS'5ht1b'
-p27
-aS'5ht1a'
+I548
+I554
+tp27
+a(S'5ht1a'
 p28
-aS'5ht3'
-p29
-aS'5ht2'
+I786
+I792
+tp29
+a(S'5ht1a'
 p30
-aS'5ht1'
-p31
+I685
+I691
+tp31
 atp32
 Rp33
-sS'regions'
+sS'raw_text_methods'
 p34
 g3
 ((lp35
-tp36
-Rp37
-sS'year'
+S"(51, u'\\\\bway100635')"
+p36
+aS"(17, u'\\\\bpet')"
+p37
+aS"(19, u'\\\\bpositron emission tomography')"
 p38
-V1991
+aS"(18, u'\\\\bimaging')"
 p39
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p40
-g3
-((lp41
-S"(147, u'\\\\bmdma')"
-p42
-aS"(11, u'\\\\bamphetamine')"
+atp41
+Rp42
+sS'regions'
 p43
-atp44
-Rp45
-sS'species'
-p46
 g3
-((lp47
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp44
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p45
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p46
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p47
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p48
 atp49
 Rp50
+sS'year'
+p51
+V2002
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p55
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p56
+atp57
+Rp58
 sb.

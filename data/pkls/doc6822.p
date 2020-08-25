@@ -2,77 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(22, u'\\\\bschizophreni')"
 p10
-aS'Method.AGONIST'
+aS"(24, u'\\\\banxiolytic')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+aS"(13, u'\\\\bantidepress')"
 p14
-g3
-((lp15
-S"(4, u'\\\\blocomot')"
+aS"(9, u'\\\\bstress')"
+p15
+aS"(8, u'\\\\banxi')"
 p16
-atp17
-Rp18
+aS"(4, u'\\\\btreatment')"
+p17
+aS"(3, u'\\\\bclinical')"
+p18
+atp19
+Rp20
 sS'receptors'
-p19
-g3
-((lp20
-S'5ht1a'
 p21
-aS'5ht2'
-p22
-aS'5ht2a'
+g3
+((lp22
+(S'5ht1a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
+I230
+I236
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp27
-tp28
-Rp29
-sS'year'
+((lp28
+S"(13, u'\\\\bagonist')"
+p29
+aS"(22, u'\\\\bbuspirone')"
 p30
-V1996
-p31
-sS'agonists'
-p32
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp33
-S"(158, u'\\\\blsd')"
-p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-aS"(175, u'\\\\bdoi')"
-p36
-atp37
-Rp38
+((lp34
+tp35
+Rp36
+sS'year'
+p37
+V2020
+p38
 sS'species'
 p39
 g3
 ((lp40
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p41
-aS"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
 p43
 atp44
 Rp45

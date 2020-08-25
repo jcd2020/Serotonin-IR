@@ -2,90 +2,107 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
-p5
-aS"(91, u'\\\\bfluoxetine')"
-p6
-aS"(58, u'\\\\bhaloperidol')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
+p5
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(32, u'\\\\bvomit')"
+p12
+aS"(3, u'\\\\bclinical')"
 p13
 atp14
 Rp15
-sS'topics'
+sS'receptors'
 p16
 g3
 ((lp17
-S"(21, u'\\\\bpain')"
+(S'5ht3'
 p18
-aS"(35, u'\\\\bstress')"
-p19
-aS"(11, u'\\\\banxiolyt')"
+I290
+I295
+tp19
+a(S'5ht3'
 p20
-aS"(10, u'\\\\banxiety')"
-p21
-atp22
-Rp23
-sS'receptors'
+I697
+I702
+tp21
+a(S'5ht3'
+p22
+I415
+I420
+tp23
+a(S'5ht3'
 p24
-g3
-((lp25
-S'5ht1a'
+I452
+I457
+tp25
+a(S'5ht3'
 p26
-aS'5ht2'
-p27
-atp28
-Rp29
-sS'regions'
+I818
+I823
+tp27
+a(S'5ht3'
+p28
+I71
+I76
+tp29
+a(S'5ht3'
 p30
-g3
-((lp31
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I22
+I27
+tp31
+a(S'5ht3'
 p32
-aS"(310, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)\\\\b')"
-p33
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I991
+I996
+tp33
+a(S'5ht3'
 p34
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p35
+I128
+I133
+tp35
 atp36
 Rp37
-sS'year'
+sS'raw_text_methods'
 p38
-V2003
-p39
-sS'agonists'
-p40
 g3
-((lp41
-S"(43, u'\\\\bhaloperidol')"
+((lp39
+S"(13, u'\\\\bagonist')"
+p40
+aS"(20, u'\\\\bondansetron')"
+p41
+aS"(12, u'\\\\bantagonist')"
 p42
 atp43
 Rp44
-sS'species'
+sS'regions'
 p45
 g3
 ((lp46
-S"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
-p47
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p48
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+tp47
+Rp48
+sS'year'
 p49
-atp50
-Rp51
+V1991
+p50
+sS'species'
+p51
+g3
+((lp52
+tp53
+Rp54
 sb.

@@ -2,63 +2,66 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STAINING'
-p9
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p10
-atp11
-Rp12
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-tp15
-Rp16
+((lp9
+S"(12, u'\\\\bsleep')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht5a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp15
+(S'5ht1a'
+p16
+I764
+I770
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(13, u'\\\\bagonist')"
 p22
+aS"(15, u'\\\\b8ohdpat')"
+p23
+atp24
+Rp25
+sS'regions'
+p26
 g3
-((lp23
-S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
-p27
-V2010
+((lp27
+S"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
 p28
-sS'agonists'
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
 p29
-g3
-((lp30
-tp31
-Rp32
-sS'species'
+atp30
+Rp31
+sS'year'
+p32
+V2000
 p33
+sS'species'
+p34
 g3
-((lp34
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p35
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp35
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p36
 atp37
 Rp38

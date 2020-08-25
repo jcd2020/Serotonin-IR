@@ -2,27 +2,29 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(29, u'\\\\bsex')"
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+aS"(5, u'\\\\btherap')"
+p13
+aS"(2, u'\\\\bdisorder')"
 p14
 atp15
 Rp16
@@ -30,46 +32,41 @@ sS'receptors'
 p17
 g3
 ((lp18
-S'5ht1a'
+(S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
+I3072
+I3078
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp23
-S"(217, u'(?i)\\\\b(beds|bed)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(ofs|of)(-|\\\\s+)?(thes|the)(-|\\\\s+)?(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
-p24
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+((lp24
+S"(17, u'\\\\bpet')"
 p25
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
 p26
-aS"(216, u'(?i)\\\\b(strias|stria)(-|\\\\s+)?(terminali|terminalis)\\\\b')"
+aS"(18, u'\\\\bimaging')"
 p27
-aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
-p31
-V1999
-p32
-sS'agonists'
-p33
+atp28
+Rp29
+sS'regions'
+p30
 g3
-((lp34
-tp35
-Rp36
+((lp31
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p32
+atp33
+Rp34
+sS'year'
+p35
+V2008
+p36
 sS'species'
 p37
 g3
 ((lp38
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p41
-atp42
-Rp43
+tp39
+Rp40
 sb.

@@ -1,0 +1,4 @@
+Mantegani, S., et al. (1998). "Serotonergic ergoline derivatives." Bioorg Med Chem Lett 8(9): 1117-1122.
+
+	Novel classes of 13- and 14-tertbutyl-ergoline derivatives were prepared, and characterised in vitro for their affinity for adrenergic, dopaminergic and serotonergic binding sites. This study particularly examines the importance of the presence and the position of the tert-butyl group in conferring either significant 5-HT1A or 5-HT2 affinity and selectivity respectively.
+

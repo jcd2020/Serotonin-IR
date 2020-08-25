@@ -2,74 +2,92 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(131, u'\\\\bm1')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-tp15
-Rp16
+((lp10
+S"(29, u'\\\\bhyperactiv')"
+p11
+aS"(33, u'\\\\blocomot')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1b'
 p17
-g3
-((lp18
-S'5ht2a'
+I274
+I280
+tp18
+a(S'5ht1b'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p24
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+I667
+I673
+tp20
+a(S'5ht1b'
+p21
+I620
+I626
+tp22
+a(S'5ht1b'
+p23
+I1726
+I1732
+tp24
+a(S'5ht1b'
 p25
-atp26
-Rp27
-sS'year'
-p28
-V2013
-p29
-sS'agonists'
-p30
+I2003
+I2009
+tp26
+a(S'5ht1b'
+p27
+I45
+I51
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
 g3
-((lp31
-tp32
-Rp33
-sS'species'
+((lp32
+S"(13, u'\\\\bagonist')"
+p33
+aS"(12, u'\\\\bantagonist')"
 p34
-g3
-((lp35
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p36
-aS"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
+atp35
+Rp36
+sS'regions'
 p37
-aS"(4598, u'(?i)\\\\b(macacas|macaca)(-|\\\\s+)?(mulattas|mulatta)\\\\b')"
-p38
-aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p39
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p40
-aS"(6521, u'(?i)\\\\b(macaques|macaque)\\\\b')"
+g3
+((lp38
+tp39
+Rp40
+sS'year'
 p41
-atp42
-Rp43
+V2004
+p42
+sS'species'
+p43
+g3
+((lp44
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p45
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

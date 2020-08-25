@@ -1,0 +1,71 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
+sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I757
+I763
+tp16
+a(S'5ht2c'
+p17
+I898
+I904
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(53, u'\\\\bketanserin')"
+p23
+aS"(41, u'\\\\bhaloperidol')"
+p24
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p25
+aS"(12, u'\\\\bantagonist')"
+p26
+atp27
+Rp28
+sS'regions'
+p29
+g3
+((lp30
+tp31
+Rp32
+sS'year'
+p33
+V2000
+p34
+sS'species'
+p35
+g3
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
+sb.

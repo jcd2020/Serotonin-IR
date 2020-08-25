@@ -2,84 +2,107 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.PET'
 p5
-aS"(17, u'\\\\bnan ?190')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(194, u'\\\\bmethysergide')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-aS'Method.AGONIST'
-p14
-atp15
-Rp16
+atp6
+Rp7
 sS'topics'
-p17
+p8
 g3
-((lp18
-tp19
-Rp20
+((lp9
+S"(3, u'\\\\bclinical')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
 sS'receptors'
-p21
+p14
 g3
-((lp22
-S'5ht1a'
-p23
-aS'5ht1'
+((lp15
+(S'5ht7'
+p16
+I124
+I129
+tp17
+a(S'5ht7'
+p18
+I460
+I465
+tp19
+a(S'5ht7'
+p20
+I1889
+I1894
+tp21
+a(S'5ht7'
+p22
+I1444
+I1449
+tp23
+a(S'5ht7'
 p24
-aS'5ht2a'
-p25
-atp26
-Rp27
-sS'regions'
+I1015
+I1020
+tp25
+a(S'5ht7'
+p26
+I1231
+I1236
+tp27
+a(S'5ht7'
 p28
-g3
-((lp29
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I1515
+I1520
+tp29
+a(S'5ht7'
 p30
-atp31
-Rp32
-sS'year'
-p33
-V1994
-p34
-sS'agonists'
-p35
+I205
+I210
+tp31
+a(S'5ht7'
+p32
+I192
+I202
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
+p36
 g3
-((lp36
-S"(20, u'\\\\bbuspirone')"
-p37
-aS"(53, u'\\\\bmethysergide')"
+((lp37
+S"(17, u'\\\\bpet')"
 p38
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(19, u'\\\\bpositron emission tomography')"
 p39
-aS"(175, u'\\\\bdoi')"
+aS"(18, u'\\\\bimaging')"
 p40
 atp41
 Rp42
-sS'species'
+sS'regions'
 p43
 g3
 ((lp44
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p45
-aS"(5864, u'(?i)\\\\b(fetuses|fetus)\\\\b')"
-p46
-atp47
-Rp48
+atp46
+Rp47
+sS'year'
+p48
+V2020
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

@@ -2,60 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(42, u'\\\\bvortioxetine')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(22, u'\\\\bschizophreni')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-tp15
-Rp16
+aS"(23, u'\\\\bantipsychotic')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht3'
-p19
+((lp15
+(S'5ht1a'
+p16
+I2104
+I2110
+tp17
+a(S'5ht1a'
+p18
+I1490
+I1496
+tp19
 atp20
 Rp21
-sS'regions'
+sS'raw_text_methods'
 p22
 g3
 ((lp23
-tp24
-Rp25
-sS'year'
+S"(41, u'\\\\bhaloperidol')"
+p24
+aS"(51, u'\\\\bway100635')"
+p25
+aS"(12, u'\\\\bantagonist')"
 p26
-V2015
-p27
-sS'agonists'
-p28
+atp27
+Rp28
+sS'regions'
+p29
 g3
-((lp29
-S"(94, u'\\\\bvortioxetine')"
-p30
-atp31
-Rp32
-sS'species'
+((lp30
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p31
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p32
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p33
+atp34
+Rp35
+sS'year'
+p36
+V2008
+p37
+sS'species'
+p38
 g3
-((lp34
-tp35
-Rp36
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

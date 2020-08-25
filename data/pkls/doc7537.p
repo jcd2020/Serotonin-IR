@@ -1,0 +1,109 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1b'
+p17
+I1957
+I1963
+tp18
+a(S'5ht1d'
+p19
+I570
+I576
+tp20
+a(S'5ht1b'
+p21
+I266
+I272
+tp22
+a(S'5ht1d'
+p23
+I266
+I274
+tp24
+a(S'5ht1b'
+p25
+I88
+I94
+tp26
+a(S'5ht1d'
+p27
+I1957
+I1965
+tp28
+a(S'5ht1b'
+p29
+I557
+I563
+tp30
+a(S'5ht1d'
+p31
+I88
+I96
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
+p35
+g3
+((lp36
+S"(11, u'\\\\bfluoxetine')"
+p37
+aS"(44, u'\\\\btetrodotoxin')"
+p38
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p39
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V2001
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p52
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p53
+atp54
+Rp55
+sb.

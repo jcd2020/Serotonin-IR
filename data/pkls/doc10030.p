@@ -2,76 +2,91 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\bzacopride')"
+S'Method.AGONIST'
 p5
-aS"(124, u'\\\\bondansetron')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.STIMULATION'
-p11
-aS'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(9, u'\\\\bstress')"
+p13
+aS"(8, u'\\\\banxi')"
+p14
+aS"(1, u'\\\\bpatient')"
+p15
+atp16
+Rp17
 sS'receptors'
+p18
+g3
+((lp19
+(S'5ht2c'
 p20
-g3
-((lp21
-S'5ht3a'
+I2009
+I2015
+tp21
+a(S'5ht1a'
 p22
-aS'5ht3'
-p23
-atp24
-Rp25
-sS'regions'
+I121
+I127
+tp23
+a(S'5ht1a'
+p24
+I1869
+I1875
+tp25
+a(S'5ht7'
 p26
-g3
-((lp27
-S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
+I2019
+I2024
+tp27
+a(S'5ht1a'
 p28
-atp29
-Rp30
-sS'year'
-p31
-V1996
+I770
+I776
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(208, u'\\\\bzacopride')"
+((lp33
+S"(13, u'\\\\bagonist')"
+p34
+aS"(33, u'\\\\bmcpp')"
 p35
-aS"(191, u'\\\\bphenylbiguanide')"
+aS"(21, u'\\\\bipsapirone')"
 p36
 atp37
 Rp38
-sS'species'
+sS'regions'
 p39
 g3
 ((lp40
-S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+tp41
+Rp42
+sS'year'
+p43
+V1999
+p44
+sS'species'
+p45
+g3
+((lp46
+tp47
+Rp48
 sb.

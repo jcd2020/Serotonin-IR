@@ -1,4 +1,4 @@
-Jorand-Lebrun, C., et al. (1997). "Arylpiperazide derivatives of phenylpiperazines as a new class of potent and selective 5-HT1B receptor antagonists." Bioorg Med Chem Lett 7(24): 3183-3188.
+Larsson, K. and S. Ahlenius (1999). Brain and sexual behavior. Advancing from the Ventral Striatum to the Extended Amygdala: Implications for Neuropsychiatry and Drug Abuse: In Honor of Lennart Heimer. J. F. McGinty. 877: 292-308.
 
-	A new series of arylpiperazide derivatives of phenylpiperazines of general formula 4 has been prepared and evaluated as 5-HT1B receptor antagonists. In vitro experiments at human cloned 5-HT1B receptors show that these derivatives are potent and selective 5-HT1B receptor, antagonists. Among them, compound 4f was found to be orally active, to gain access to the CNS and more importantly to induce an increase in extracellular brain 5-HT upon systemic administration. (C) 1997 Elsevier Science Ltd.
+	This chapter mill give personal accounts of the neural basis of male rat sexual behavior from two somewhat different perspectives, one tilted towards neuroanatomy (K.L.), and one tilted towards monoaminergic pharmacology (S.A.). Both perspectives were strongly influenced by the Zeitgeist, the former imperceptibly merging into the latter as relations between the neural substrate for monoaminergic neurotransmission was elucidated.(1)
 

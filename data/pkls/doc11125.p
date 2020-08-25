@@ -2,64 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+tp10
+Rp11
 sS'receptors'
-p18
+p12
 g3
-((lp19
-S'5ht1a'
+((lp13
+(S'5ht1b'
+p14
+I249
+I260
+tp15
+a(S'5ht1b'
+p16
+I72
+I78
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-atp21
-Rp22
-sS'regions'
+g3
+((lp21
+S"(17, u'\\\\bpet')"
+p22
+aS"(19, u'\\\\bpositron emission tomography')"
 p23
-g3
-((lp24
-tp25
+aS"(35, u'\\\\badenosine')"
+p24
+atp25
 Rp26
-sS'year'
+sS'regions'
 p27
-V2007
-p28
-sS'agonists'
-p29
 g3
-((lp30
-S"(147, u'\\\\bmdma')"
+((lp28
+tp29
+Rp30
+sS'year'
 p31
-atp32
-Rp33
+V2014
+p32
 sS'species'
-p34
+p33
 g3
-((lp35
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp34
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p35
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
 p36
-atp37
-Rp38
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p37
+aS"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p38
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

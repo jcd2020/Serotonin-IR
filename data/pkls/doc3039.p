@@ -2,68 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.PET'
-p9
-atp10
-Rp11
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(7, u'\\\\bdepressi')"
+p11
+aS"(34, u'\\\\bparkinson')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
-p14
-atp15
-Rp16
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht1a'
-p19
-aS'5ht2a'
-p20
-atp21
-Rp22
+((lp17
+(S'5ht2a'
+p18
+I522
+I528
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
+g3
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+aS"(17, u'\\\\bpet')"
+p25
+aS"(19, u'\\\\bpositron emission tomography')"
+p26
+atp27
+Rp28
 sS'regions'
-p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
-p27
-V2001
-p28
-sS'agonists'
 p29
 g3
 ((lp30
-tp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p31
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p32
+atp33
+Rp34
+sS'year'
 p35
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+V2020
 p36
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+sS'species'
 p37
-aS"(3527, u'(?i)\\\\b(permits|permit)\\\\b')"
-p38
-atp39
-Rp40
+g3
+((lp38
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p39
+atp40
+Rp41
 sb.

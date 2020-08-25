@@ -2,90 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(198, u'\\\\bsb ?269970')"
+S'Method.AGONIST'
 p5
-aS"(190, u'\\\\blurasidone')"
-p6
-aS"(110, u'\\\\bclozapine')"
-p7
-aS"(113, u'\\\\brisperidone')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-aS'Method.AGONIST'
-p14
-atp15
-Rp16
+atp6
+Rp7
 sS'topics'
-p17
+p8
 g3
-((lp18
-S"(15, u'\\\\bschizophreni')"
-p19
-aS"(6, u'\\\\bcognit')"
-p20
-aS"(9, u'\\\\bdepress')"
-p21
-aS"(10, u'\\\\banxiety')"
-p22
-atp23
-Rp24
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I610
+I616
+tp16
+a(S'5ht1a'
+p17
+I1427
+I1433
+tp18
+a(S'5ht1a'
+p19
+I456
+I462
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
 p25
-g3
-((lp26
-S'5ht7'
+aS"(51, u'\\\\bway100635')"
+p26
+aS"(18, u'\\\\bimaging')"
 p27
-aS'5ht7a'
+aS"(54, u'\\\\bautoradiography')"
 p28
-aS'5ht1a'
-p29
-atp30
-Rp31
+atp29
+Rp30
 sS'regions'
-p32
+p31
 g3
-((lp33
-tp34
-Rp35
+((lp32
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p33
+aS"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p34
+atp35
+Rp36
 sS'year'
-p36
-V2012
 p37
-sS'agonists'
+V2002
 p38
-g3
-((lp39
-S"(224, u'\\\\bas ?19')"
-p40
-aS"(23, u'\\\\bclozapine')"
-p41
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p42
-aS"(47, u'\\\\blurasidone')"
-p43
-atp44
-Rp45
 sS'species'
-p46
+p39
 g3
-((lp47
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
-p48
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p49
-atp50
-Rp51
+((lp40
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p41
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

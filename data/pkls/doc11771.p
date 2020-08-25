@@ -2,78 +2,88 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.PET'
+S"(1, u'\\\\bpatient')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(35, u'\\\\bstress')"
-p15
-atp16
-Rp17
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(34, u'\\\\bparkinson')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp16
+(S'5ht2c'
+p17
+I1233
+I1239
+tp18
+a(S'5ht2c'
+p19
+I60
+I67
+tp20
+a(S'5ht2c'
+p21
+I214
+I220
+tp22
+a(S'5ht2a'
 p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
+I60
+I66
+tp24
+a(S'5ht2c'
+p25
+I1312
+I1318
+tp26
+a(S'5ht2a'
 p27
-V2014
-p28
-sS'agonists'
-p29
+I214
+I219
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
 g3
-((lp30
-tp31
-Rp32
-sS'species'
+((lp32
+S"(42, u'\\\\bneuroleptics')"
 p33
-g3
-((lp34
-S"(4596, u'(?i)\\\\b(rhesuses|rhesus)\\\\b')"
-p35
-aS"(4597, u'(?i)\\\\b(rhesuses|rhesus)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
-p36
-aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
+p34
+atp35
+Rp36
+sS'regions'
 p37
-aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p38
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+g3
+((lp38
+tp39
+Rp40
+sS'year'
 p41
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+V2009
 p42
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+sS'species'
 p43
-atp44
-Rp45
+g3
+((lp44
+tp45
+Rp46
 sb.

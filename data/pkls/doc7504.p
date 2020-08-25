@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,60 +10,86 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(22, u'\\\\bschizophreni')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(30, u'\\\\bparkinsons')"
-p14
-atp15
-Rp16
+aS"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2a'
+p15
+I1488
+I1499
+tp16
+a(S'5ht2a'
 p17
-g3
-((lp18
-S'5ht1b'
+I867
+I878
+tp18
+a(S'5ht2a'
 p19
-aS'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+I767
+I778
+tp20
+a(S'5ht2a'
+p21
+I188
+I199
+tp22
+a(S'5ht2a'
 p23
-g3
-((lp24
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I363
+I374
+tp24
+a(S'5ht2a'
 p25
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p26
+I62
+I73
+tp26
 atp27
 Rp28
-sS'year'
+sS'raw_text_methods'
 p29
-V2010
-p30
-sS'agonists'
-p31
 g3
-((lp32
-tp33
+((lp30
+S"(2, u'\\\\blabeling')"
+p31
+aS"(3, u'\\\\bimmunoreactiv')"
+p32
+atp33
 Rp34
-sS'species'
+sS'regions'
 p35
 g3
 ((lp36
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p38
-atp39
-Rp40
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p39
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
+p43
+V2003
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

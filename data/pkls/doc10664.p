@@ -2,74 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(203, u'\\\\btfmpp')"
+S'Method.STIMULATION'
 p5
-aS"(14, u'\\\\bmethiothepin')"
+aS'Method.ANTAGONIST'
 p6
-aS"(31, u'\\\\bway ?100635')"
+aS'Method.AGONIST'
 p7
 atp8
 Rp9
-sS'methods'
+sS'topics'
 p10
 g3
 ((lp11
-S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
-sS'topics'
-p16
-g3
-((lp17
-tp18
-Rp19
+tp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
+p16
+I800
+I806
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
 g3
 ((lp21
-S'5ht1b'
+S"(13, u'\\\\bagonist')"
 p22
-aS'5ht1a'
+aS"(9, u'\\\\britanserin')"
 p23
-aS'5ht1'
+aS"(32, u'\\\\blesions')"
 p24
-atp25
-Rp26
+aS"(12, u'\\\\bantagonist')"
+p25
+atp26
+Rp27
 sS'regions'
-p27
+p28
 g3
-((lp28
-S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p29
-atp30
-Rp31
+((lp29
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p32
-V2000
 p33
-sS'agonists'
+V1995
 p34
-g3
-((lp35
-S"(178, u'\\\\btfmpp')"
-p36
-atp37
-Rp38
 sS'species'
-p39
+p35
 g3
-((lp40
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
-p41
-atp42
-Rp43
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

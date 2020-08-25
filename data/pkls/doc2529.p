@@ -2,80 +2,96 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(43, u'\\\\bgr ?127935')"
+S'Method.ANTAGONIST'
 p5
-aS"(31, u'\\\\bway ?100635')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(6, u'\\\\baggressi')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(25, u'\\\\bsocial')"
+p12
+aS"(26, u'\\\\bbehav')"
+p13
+aS"(9, u'\\\\bstress')"
 p14
-g3
-((lp15
-tp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht1a'
-p20
-aS'5ht5c'
+((lp18
+(S'5ht1'
+p19
+I1577
+I1582
+tp20
+a(S'5ht2'
 p21
-aS'5ht1d'
-p22
-atp23
-Rp24
-sS'regions'
+I2785
+I2790
+tp22
+a(S'5ht2'
+p23
+I1518
+I1523
+tp24
+a(S'5ht1'
 p25
-g3
-((lp26
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I2711
+I2716
+tp26
+a(S'5ht3'
 p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
-p31
-V1994
-p32
-sS'agonists'
+I2791
+I2796
+tp28
+a(S'5ht3'
+p29
+I1624
+I1629
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
 p33
 g3
 ((lp34
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
+S"(13, u'\\\\bagonist')"
 p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(15, u'\\\\b8ohdpat')"
 p36
-aS"(219, u'\\\\b5 ?ct')"
+aS"(12, u'\\\\bantagonist')"
 p37
 atp38
 Rp39
-sS'species'
+sS'regions'
 p40
 g3
 ((lp41
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p42
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p43
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+tp42
+Rp43
+sS'year'
 p44
-atp45
-Rp46
+V1998
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p48
+atp49
+Rp50
 sb.

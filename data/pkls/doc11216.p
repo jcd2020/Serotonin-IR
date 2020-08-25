@@ -2,62 +2,71 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(23, u'\\\\bantipsychotic')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht7'
-p18
+((lp16
+(S'5ht2a'
+p17
+I2068
+I2074
+tp18
 atp19
 Rp20
-sS'regions'
+sS'raw_text_methods'
 p21
 g3
 ((lp22
-tp23
-Rp24
-sS'year'
-p25
-V2014
-p26
-sS'agonists'
+S"(40, u'\\\\bclozapine')"
+p23
+aS"(12, u'\\\\bantagonist')"
+p24
+atp25
+Rp26
+sS'regions'
 p27
 g3
 ((lp28
-S"(227, u'\\\\blp ?12')"
-p29
-aS"(176, u'\\\\bdom')"
-p30
-aS"(148, u'\\\\bmda')"
+tp29
+Rp30
+sS'year'
 p31
-atp32
-Rp33
+V2007
+p32
 sS'species'
-p34
+p33
 g3
-((lp35
-tp36
-Rp37
+((lp34
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p35
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p36
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p37
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
 sb.

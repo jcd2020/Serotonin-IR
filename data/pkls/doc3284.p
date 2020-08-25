@@ -2,70 +2,113 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
+S'Method.PET'
+p5
+aS'Method.ANTAGONIST'
+p6
+aS'Method.AGONIST'
 p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+atp8
+Rp9
 sS'topics'
-p12
+p10
 g3
-((lp13
-S"(30, u'\\\\bparkinsons')"
-p14
-atp15
-Rp16
+((lp11
+tp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp15
+(S'5ht2c'
+p16
+I977
+I983
+tp17
+a(S'5ht2a'
+p18
+I226
+I237
+tp19
+a(S'5ht2c'
+p20
+I2719
+I2725
+tp21
+a(S'5ht2c'
 p22
-g3
-((lp23
-tp24
-Rp25
-sS'year'
+I115
+I121
+tp23
+a(S'5ht2'
+p24
+I1519
+I1524
+tp25
+a(S'5ht2a'
 p26
-V2007
-p27
-sS'agonists'
+I104
+I110
+tp27
+a(S'5ht2a'
 p28
-g3
-((lp29
-S"(85, u'\\\\b8 ?oh ?dpat')"
+I240
+I246
+tp29
+a(S'5ht2c'
 p30
-atp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p35
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+I924
+I930
+tp31
+a(S'5ht2a'
+p32
+I2671
+I2677
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
 p36
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp37
+S"(1, u'\\\\bneuroimag')"
 p38
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(13, u'\\\\bagonist')"
 p39
-atp40
-Rp41
+aS"(17, u'\\\\bpet')"
+p40
+aS"(53, u'\\\\bketanserin')"
+p41
+aS"(12, u'\\\\bantagonist')"
+p42
+atp43
+Rp44
+sS'regions'
+p45
+g3
+((lp46
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V2014
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p54
+aS"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p55
+atp56
+Rp57
 sb.

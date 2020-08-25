@@ -1,0 +1,4 @@
+Linnanen, T., et al. (2001). "Serotonergic and dopaminergic activities of rigidified (R)-aporphine derivatives." Bioorg Med Chem Lett 11(3): 367-370.
+
+	Novel rigidified (R)-aporphine derivatives were synthesized from (R)-1,11-carbonylaporphine by ring expansion reactions. The structures of the novel analogues were assigned by NMR spectroscopy and X-ray crystallography. The compounds showed moderate affinities and selectivities at serotonin S-HT1A and 5-HT7 and dopamine D2A receptors.
+

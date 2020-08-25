@@ -2,70 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-tp14
-Rp15
-sS'receptors'
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(9, u'\\\\bstress')"
+p14
+aS"(15, u'\\\\bmemory')"
+p15
+aS"(12, u'\\\\bsleep')"
 p16
-g3
-((lp17
-S'5ht1a'
+aS"(8, u'\\\\banxi')"
+p17
+aS"(1, u'\\\\bpatient')"
 p18
-atp19
-Rp20
-sS'regions'
-p21
+aS"(4, u'\\\\btreatment')"
+p19
+atp20
+Rp21
+sS'receptors'
+p22
 g3
-((lp22
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p23
-aS"(106, u'(?i)\\\\b(interpedunculars|interpeduncular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp23
+(S'5ht1a'
 p24
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p25
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
-p29
-V2006
+I1043
+I1049
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
+g3
+((lp29
+S"(22, u'\\\\bbuspirone')"
 p30
-sS'agonists'
+aS"(16, u'\\\\bdiazepam')"
 p31
-g3
-((lp32
-tp33
-Rp34
-sS'species'
+aS"(36, u'\\\\bbenzodiazepine')"
+p32
+aS"(31, u'\\\\bbenzodiazepines')"
+p33
+aS"(13, u'\\\\bagonist')"
+p34
+aS"(38, u'\\\\bssri')"
 p35
-g3
-((lp36
-S"(4952, u'(?i)\\\\b(felines|feline)\\\\b')"
-p37
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p38
-aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p36
+atp37
+Rp38
+sS'regions'
 p39
-atp40
-Rp41
+g3
+((lp40
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V2006
+p45
+sS'species'
+p46
+g3
+((lp47
+tp48
+Rp49
 sb.

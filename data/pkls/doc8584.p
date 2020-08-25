@@ -2,62 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(19, u'\\\\bpsychosis')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+aS"(23, u'\\\\bantipsychotic')"
 p12
-g3
-((lp13
-tp14
-Rp15
+aS"(5, u'\\\\btherap')"
+p13
+aS"(17, u'\\\\balzheimer')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
-S'5ht3'
-p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(361, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(lemniscuses|lemniscus)\\\\b')"
+((lp18
+(S'5ht1a'
+p19
+I378
+I384
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-atp24
-Rp25
-sS'year'
-p26
-V2009
-p27
-sS'agonists'
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+atp26
+Rp27
+sS'regions'
 p28
 g3
 ((lp29
-S"(149, u'\\\\bmem')"
-p30
-atp31
-Rp32
-sS'species'
+tp30
+Rp31
+sS'year'
+p32
+V2017
 p33
+sS'species'
+p34
 g3
-((lp34
-S"(5150, u'(?i)\\\\b(gerbils|gerbil)\\\\b')"
-p35
-atp36
+((lp35
+tp36
 Rp37
 sb.

@@ -2,68 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(36, u'\\\\bar ?a000002')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.PET'
+S"(4, u'\\\\btreatment')"
 p10
-aS'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-tp17
-Rp18
+atp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht3'
+p15
+I290
+I295
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
 p19
 g3
 ((lp20
-S'5ht1b'
+S"(41, u'\\\\bhaloperidol')"
 p21
-atp22
-Rp23
-sS'regions'
+aS"(40, u'\\\\bclozapine')"
+p22
+aS"(42, u'\\\\bneuroleptics')"
+p23
+aS"(12, u'\\\\bantagonist')"
 p24
+atp25
+Rp26
+sS'regions'
+p27
 g3
-((lp25
-tp26
-Rp27
-sS'year'
-p28
-V2017
+((lp28
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(163, u'\\\\bfenfluramine')"
+atp30
+Rp31
+sS'year'
 p32
-atp33
-Rp34
+V1992
+p33
 sS'species'
-p35
+p34
 g3
-((lp36
-S"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p37
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p38
-atp39
-Rp40
+((lp35
+tp36
+Rp37
 sb.

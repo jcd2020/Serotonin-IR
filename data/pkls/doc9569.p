@@ -2,74 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.STIMULATION'
+S"(23, u'\\\\bantipsychotic')"
 p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+atp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht1b'
-p20
-aS'5ht1a'
+((lp14
+(S'5ht1a'
+p15
+I429
+I435
+tp16
+a(S'5ht1a'
+p17
+I387
+I393
+tp18
+a(S'5ht1a'
+p19
+I574
+I580
+tp20
+a(S'5ht1a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I327
+I333
+tp22
+a(S'5ht1a'
+p23
+I90
+I96
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
-p31
-V1994
-p32
-sS'agonists'
+g3
+((lp28
+S"(13, u'\\\\bagonist')"
+p29
+aS"(40, u'\\\\bclozapine')"
+p30
+atp31
+Rp32
+sS'regions'
 p33
 g3
 ((lp34
-S"(85, u'\\\\b8 ?oh ?dpat')"
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p35
-aS"(67, u'\\\\bru ?24969')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p36
 atp37
 Rp38
-sS'species'
+sS'year'
 p39
-g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V1997
+p40
+sS'species'
 p41
-atp42
-Rp43
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

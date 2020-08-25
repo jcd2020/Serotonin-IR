@@ -2,70 +2,130 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
+p10
+aS"(13, u'\\\\bantidepress')"
 p11
-g3
-((lp12
-S"(8, u'\\\\blearning')"
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(5, u'\\\\btherap')"
 p13
-atp14
-Rp15
-sS'receptors'
+aS"(26, u'\\\\bbehav')"
+p14
+aS"(8, u'\\\\banxi')"
+p15
+aS"(3, u'\\\\bclinical')"
 p16
+atp17
+Rp18
+sS'receptors'
+p19
 g3
-((lp17
-S'5ht2a'
-p18
-atp19
-Rp20
-sS'regions'
+((lp20
+(S'5ht1a'
 p21
-g3
-((lp22
-S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
+I113
+I119
+tp22
+a(S'5ht1a'
 p23
-aS"(243, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(olfactories|olfactory)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
+I1455
+I1461
+tp24
+a(S'5ht1'
+p25
+I861
+I867
+tp26
+a(S'5ht1a'
 p27
-V1995
-p28
-sS'agonists'
+I1219
+I1225
+tp28
+a(S'5ht1a'
 p29
-g3
-((lp30
-tp31
-Rp32
-sS'species'
+I837
+I843
+tp30
+a(S'5ht1a'
+p31
+I1515
+I1521
+tp32
+a(S'5ht1a'
 p33
-g3
-((lp34
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+I1638
+I1644
+tp34
+a(S'5ht1a'
 p35
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p36
-aS"(3503, u'(?i)\\\\b(fishers|fisher)\\\\b')"
+I651
+I657
+tp36
+a(S'5ht1a'
 p37
-aS"(3722, u'(?i)\\\\b(pups|pup)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I861
+I867
+tp38
+a(S'5ht1a'
 p39
-atp40
-Rp41
+I973
+I979
+tp40
+a(S'5ht1a'
+p41
+I1735
+I1741
+tp42
+a(S'5ht1a'
+p43
+I1147
+I1153
+tp44
+atp45
+Rp46
+sS'raw_text_methods'
+p47
+g3
+((lp48
+S"(13, u'\\\\bagonist')"
+p49
+aS"(33, u'\\\\bmcpp')"
+p50
+aS"(22, u'\\\\bbuspirone')"
+p51
+atp52
+Rp53
+sS'regions'
+p54
+g3
+((lp55
+tp56
+Rp57
+sS'year'
+p58
+V2005
+p59
+sS'species'
+p60
+g3
+((lp61
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p62
+atp63
+Rp64
 sb.

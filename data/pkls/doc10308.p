@@ -2,88 +2,136 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
-p5
-aS"(114, u'\\\\bziprasidone')"
-p6
-aS"(113, u'\\\\brisperidone')"
-p7
-aS"(111, u'\\\\bolanzapine')"
-p8
-aS"(58, u'\\\\bhaloperidol')"
-p9
-aS"(119, u'\\\\britanserin')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
-S'Method.ANTAGONIST'
-p15
-aS'Method.AGONIST'
-p16
-atp17
-Rp18
+tp5
+Rp6
 sS'topics'
-p19
+p7
 g3
-((lp20
-S"(15, u'\\\\bschizophreni')"
-p21
-atp22
-Rp23
+((lp8
+S"(6, u'\\\\baggressi')"
+p9
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(25, u'\\\\bsocial')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
-p24
+p15
 g3
-((lp25
-S'5ht2b'
-p26
-aS'5ht2c'
+((lp16
+(S'5ht1a'
+p17
+I1585
+I1591
+tp18
+a(S'5ht1'
+p19
+I43
+I48
+tp20
+a(S'5ht1b'
+p21
+I1593
+I1599
+tp22
+a(S'5ht1'
+p23
+I2088
+I2093
+tp24
+a(S'5ht1'
+p25
+I345
+I350
+tp26
+a(S'5ht1a'
 p27
-aS'5ht2a'
-p28
-atp29
-Rp30
-sS'regions'
+I565
+I571
+tp28
+a(S'5ht1b'
+p29
+I2199
+I2205
+tp30
+a(S'5ht1'
 p31
-g3
-((lp32
-tp33
-Rp34
-sS'year'
+I2356
+I2361
+tp32
+a(S'5ht1c'
+p33
+I2210
+I2216
+tp34
+a(S'5ht1a'
 p35
-V2008
-p36
-sS'agonists'
+I1707
+I1713
+tp36
+a(S'5ht1c'
 p37
-g3
-((lp38
-S"(57, u'\\\\bolanzapine')"
+I1604
+I1610
+tp38
+a(S'5ht1c'
 p39
-aS"(23, u'\\\\bclozapine')"
-p40
-aS"(11, u'\\\\bamphetamine')"
+I584
+I590
+tp40
+a(S'5ht1b'
 p41
-aS"(84, u'\\\\bziprasidone')"
-p42
-aS"(43, u'\\\\bhaloperidol')"
+I573
+I579
+tp42
+a(S'5ht1a'
 p43
-atp44
-Rp45
-sS'species'
-p46
+I2191
+I2197
+tp44
+atp45
+Rp46
+sS'raw_text_methods'
+p47
 g3
-((lp47
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p48
-atp49
-Rp50
+((lp48
+S"(32, u'\\\\blesions')"
+p49
+atp50
+Rp51
+sS'regions'
+p52
+g3
+((lp53
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p54
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p55
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p56
+atp57
+Rp58
+sS'year'
+p59
+V1991
+p60
+sS'species'
+p61
+g3
+((lp62
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p63
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p64
+atp65
+Rp66
 sb.

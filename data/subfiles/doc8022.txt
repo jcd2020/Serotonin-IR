@@ -1,0 +1,4 @@
+Navarra, R., et al. (2008). "The 5-HT(2C) receptor agonist WAY-163909 decreases impulsivity in the 5-choice serial reaction time test." Behav Brain Res 188(2): 412-415.
+
+	Increased impulsivity is observed across a number of neuropsychiatric and neurodegenerative diseases. Preclinical evidence has demonstrated that antagonism of the serotonin 5-HT(2C) receptor may act to increase impulsivity, leading to the hypothesis that an agonist may exert reciprocal effects and attenuate impulsive behavior. The 5-HT(2C) agonist, WAY-163909, was evaluated in the present paper using a variable stimulus duration and inter-trial interval manipulation in the 5-choice serial reaction time test designed to increase impulsivity and decrease attention. WAY-163909 treatment selectively and dose-dependently decreased impulsivity suggesting that agonism of the 5-HT(2C) receptor may be useful for modulating impulsivity in disease states where impulsivity is a pathological feature.
+

@@ -2,84 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
+S'Method.ANTAGONIST'
 p5
-aS"(117, u'\\\\bketanserin')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(37, u'\\\\baddict')"
-p16
-aS"(15, u'\\\\bschizophreni')"
-p17
-aS"(14, u'\\\\bpsychosis')"
-p18
-aS"(18, u'\\\\bpsychostim')"
-p19
-aS"(4, u'\\\\blocomot')"
-p20
-atp21
-Rp22
+tp11
+Rp12
 sS'receptors'
-p23
+p13
 g3
-((lp24
-S'5ht2d'
+((lp14
+(S'5ht1c'
+p15
+I1098
+I1104
+tp16
+a(S'5ht1d'
+p17
+I1098
+I1105
+tp18
+a(S'5ht1d'
+p19
+I1497
+I1503
+tp20
+a(S'5ht1d'
+p21
+I959
+I965
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-aS'5ht2c'
-p26
-aS'5ht2'
+g3
+((lp26
+S"(13, u'\\\\bagonist')"
 p27
-aS'5ht2a'
+aS"(45, u'\\\\bmetergoline')"
 p28
-atp29
-Rp30
+aS"(47, u'\\\\bsumatriptan')"
+p29
+aS"(12, u'\\\\bantagonist')"
+p30
+atp31
+Rp32
 sS'regions'
-p31
-g3
-((lp32
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
 p33
-atp34
-Rp35
+g3
+((lp34
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p35
+atp36
+Rp37
 sS'year'
-p36
-V2004
-p37
-sS'agonists'
 p38
-g3
-((lp39
-S"(23, u'\\\\bclozapine')"
-p40
-atp41
-Rp42
+V1994
+p39
 sS'species'
-p43
+p40
 g3
-((lp44
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p45
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p46
-atp47
-Rp48
+((lp41
+tp42
+Rp43
 sb.

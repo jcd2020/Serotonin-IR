@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,52 +10,53 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.PET'
+S"(16, u'\\\\blearning')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-tp14
-Rp15
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(15, u'\\\\bmemory')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
 p16
+I976
+I982
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
 g3
-((lp17
-S'5ht2a'
-p18
-atp19
-Rp20
+((lp21
+tp22
+Rp23
 sS'regions'
-p21
+p24
 g3
-((lp22
-tp23
-Rp24
+((lp25
+tp26
+Rp27
 sS'year'
-p25
-V2014
-p26
-sS'agonists'
-p27
-g3
-((lp28
-tp29
-Rp30
+p28
+V2015
+p29
 sS'species'
-p31
+p30
 g3
-((lp32
-S"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
+((lp31
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p32
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p33
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p34
-atp35
-Rp36
+atp34
+Rp35
 sb.

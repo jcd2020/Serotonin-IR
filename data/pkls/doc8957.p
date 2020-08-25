@@ -2,62 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(13, u'\\\\bantidepress')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-S"(3, u'\\\\bsleep')"
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(9, u'\\\\bstress')"
 p14
-atp15
-Rp16
-sS'receptors'
+aS"(20, u'\\\\bmood')"
+p15
+aS"(12, u'\\\\bsleep')"
+p16
+aS"(1, u'\\\\bpatient')"
 p17
+aS"(3, u'\\\\bclinical')"
+p18
+atp19
+Rp20
+sS'receptors'
+p21
 g3
-((lp18
-S'5ht5'
-p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
+((lp22
+(S'5ht2c'
+p23
+I1186
+I1192
 tp24
-Rp25
-sS'year'
-p26
-V2008
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-sS'agonists'
-p28
 g3
-((lp29
-tp30
-Rp31
-sS'species'
+((lp28
+S"(13, u'\\\\bagonist')"
+p29
+aS"(43, u'\\\\bagomelatine')"
+p30
+aS"(38, u'\\\\bssri')"
+p31
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p32
+aS"(12, u'\\\\bantagonist')"
+p33
+atp34
+Rp35
+sS'regions'
+p36
 g3
-((lp33
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p34
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p35
-atp36
-Rp37
+((lp37
+tp38
+Rp39
+sS'year'
+p40
+V2009
+p41
+sS'species'
+p42
+g3
+((lp43
+tp44
+Rp45
 sb.

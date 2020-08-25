@@ -2,72 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(7, u'\\\\bdepressi')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(3, u'\\\\bclinical')"
 p14
-g3
-((lp15
-S"(11, u'\\\\banxiolyt')"
-p16
-atp17
-Rp18
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht2c'
 p19
+I637
+I643
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+aS"(43, u'\\\\bagomelatine')"
+p26
+aS"(12, u'\\\\bantagonist')"
+p27
+atp28
+Rp29
 sS'regions'
-p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
-p28
-V1991
-p29
-sS'agonists'
 p30
 g3
 ((lp31
-S"(20, u'\\\\bbuspirone')"
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p32
-aS"(149, u'\\\\bmem')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p33
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p34
-aS"(189, u'\\\\bethanol')"
-p35
-atp36
-Rp37
+atp34
+Rp35
+sS'year'
+p36
+V2011
+p37
 sS'species'
 p38
 g3
 ((lp39
-S"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
-p40
-atp41
-Rp42
+tp40
+Rp41
 sb.

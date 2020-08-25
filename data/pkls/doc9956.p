@@ -2,66 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(23, u'\\\\bantipsychotic')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht4'
-p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(310, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)\\\\b')"
+((lp16
+(S'5ht2a'
+p17
+I1068
+I1073
+tp18
+a(S'5ht2a'
+p19
+I949
+I954
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p24
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+g3
+((lp24
+S"(41, u'\\\\bhaloperidol')"
 p25
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+aS"(40, u'\\\\bclozapine')"
 p26
-atp27
-Rp28
-sS'year'
+aS"(32, u'\\\\blesions')"
+p27
+aS"(50, u'\\\\bm100907')"
+p28
+aS"(12, u'\\\\bantagonist')"
 p29
-V1995
-p30
-sS'agonists'
-p31
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp32
-tp33
-Rp34
-sS'species'
+((lp33
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p34
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p35
+atp36
+Rp37
+sS'year'
+p38
+V2006
+p39
+sS'species'
+p40
 g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-atp38
-Rp39
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

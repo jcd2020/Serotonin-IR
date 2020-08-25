@@ -2,80 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.STIMULATION'
+S"(14, u'\\\\bcogniti')"
 p10
-aS'Method.ANTAGONIST'
+aS"(26, u'\\\\bbehav')"
 p11
-aS'Method.AGONIST'
+aS"(17, u'\\\\balzheimer')"
 p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(9, u'\\\\bdepress')"
-p17
-atp18
-Rp19
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(15, u'\\\\bmemory')"
+p14
+atp15
+Rp16
 sS'receptors'
-p20
+p17
 g3
-((lp21
-S'5ht7'
-p22
-aS'5ht1a'
+((lp18
+(S'5ht4'
+p19
+I213
+I218
+tp20
+a(S'5ht4'
+p21
+I1520
+I1525
+tp22
+a(S'5ht4'
 p23
-aS'5ht2'
-p24
-aS'5ht2a'
-p25
-atp26
-Rp27
+I707
+I712
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
+g3
+((lp28
+S"(13, u'\\\\bagonist')"
+p29
+atp30
+Rp31
 sS'regions'
-p28
+p32
 g3
-((lp29
-S"(85, u'(?i)\\\\b(tectums|tectum)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
-p33
-V1991
+((lp33
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(20, u'\\\\bbuspirone')"
+atp35
+Rp36
+sS'year'
 p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+V2008
 p38
-aS"(42, u'\\\\bgepirone')"
-p39
-atp40
-Rp41
 sS'species'
-p42
+p39
 g3
-((lp43
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+((lp40
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p41
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p42
+atp43
+Rp44
 sb.

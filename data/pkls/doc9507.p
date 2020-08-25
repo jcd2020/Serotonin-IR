@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,64 +10,85 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.PET'
+S"(24, u'\\\\banxiolytic')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-tp14
-Rp15
+aS"(8, u'\\\\banxi')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1c'
 p16
-g3
-((lp17
-S'5ht1b'
+I365
+I371
+tp17
+a(S'5ht1'
 p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p23
-aS"(225, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(striatums|striatum)\\\\b')"
+I365
+I371
+tp19
+a(S'5ht2c'
+p20
+I909
+I915
+tp21
+a(S'5ht2c'
+p22
+I132
+I138
+tp23
+a(S'5ht2c'
 p24
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p25
-aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1179
+I1185
+tp25
+a(S'5ht2c'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2014
-p30
-sS'agonists'
-p31
+I1339
+I1345
+tp27
+a(S'5ht2c'
+p28
+I346
+I352
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
+p32
 g3
-((lp32
-tp33
-Rp34
-sS'species'
-p35
+((lp33
+tp34
+Rp35
+sS'regions'
+p36
 g3
-((lp36
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p37
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp37
+S"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
 p38
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-atp41
-Rp42
+atp40
+Rp41
+sS'year'
+p42
+V1994
+p43
+sS'species'
+p44
+g3
+((lp45
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

@@ -2,82 +2,112 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(99, u'\\\\bsb ?242084')"
+S'Method.ANTAGONIST'
 p5
-aS"(117, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp10
-S'Method.STIMULATION'
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(1, u'\\\\bpatient')"
 p11
-aS'Method.ANTAGONIST'
+aS"(23, u'\\\\bantipsychotic')"
 p12
-aS'Method.AGONIST'
+aS"(4, u'\\\\btreatment')"
 p13
 atp14
 Rp15
-sS'topics'
+sS'receptors'
 p16
 g3
 ((lp17
-tp18
-Rp19
-sS'receptors'
+(S'5ht6'
+p18
+I861
+I866
+tp19
+a(S'5ht6'
 p20
-g3
-((lp21
-S'5ht1a'
+I230
+I240
+tp21
+a(S'5ht6'
 p22
-aS'5ht2c'
-p23
-aS'5ht2a'
+I400
+I405
+tp23
+a(S'5ht6'
 p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
-S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
+I253
+I258
+tp25
+a(S'5ht6d'
+p26
+I861
+I867
+tp27
+a(S'5ht6'
+p28
+I1744
+I1749
+tp29
+a(S'5ht6'
+p30
+I29
+I34
+tp31
+a(S'5ht6'
 p32
-V2011
-p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(155, u'\\\\bmcpp')"
+I1452
+I1457
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
 p36
-aS"(149, u'\\\\bmem')"
-p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p38
-aS"(175, u'\\\\bdoi')"
-p39
-atp40
-Rp41
-sS'species'
-p42
 g3
-((lp43
-S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+((lp37
+S"(41, u'\\\\bhaloperidol')"
+p38
+aS"(40, u'\\\\bclozapine')"
+p39
+aS"(54, u'\\\\bautoradiography')"
+p40
+aS"(12, u'\\\\bantagonist')"
+p41
+atp42
+Rp43
+sS'regions'
 p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-atp46
-Rp47
+g3
+((lp45
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p46
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V2002
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p54
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p55
+atp56
+Rp57
 sb.

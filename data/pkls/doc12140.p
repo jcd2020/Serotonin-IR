@@ -2,72 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.PET'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(29, u'\\\\bsex')"
-p15
-aS"(9, u'\\\\bdepress')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-atp18
-Rp19
+tp10
+Rp11
 sS'receptors'
-p20
+p12
 g3
-((lp21
-S'5ht1a'
+((lp13
+(S'5ht3'
+p14
+I1249
+I1254
+tp15
+a(S'5ht3'
+p16
+I1524
+I1529
+tp17
+a(S'5ht2'
+p18
+I1124
+I1129
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-atp23
-Rp24
+g3
+((lp23
+S"(12, u'\\\\bantagonist')"
+p24
+atp25
+Rp26
 sS'regions'
-p25
+p27
 g3
-((lp26
-tp27
-Rp28
+((lp28
+tp29
+Rp30
 sS'year'
-p29
-V2008
-p30
-sS'agonists'
 p31
-g3
-((lp32
-tp33
-Rp34
+V1992
+p32
 sS'species'
-p35
+p33
 g3
-((lp36
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
-p37
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p38
-aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
-p39
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p40
-atp41
-Rp42
+((lp34
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

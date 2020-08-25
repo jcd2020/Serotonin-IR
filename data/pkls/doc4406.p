@@ -2,70 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(4, u'\\\\bbmy ?7378')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-S"(9, u'\\\\bdepress')"
-p16
-atp17
-Rp18
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
+p17
+I1485
+I1491
+tp18
+a(S'5ht2a'
 p19
-g3
-((lp20
-S'5ht1a'
+I38
+I44
+tp20
+a(S'5ht2a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I1171
+I1177
+tp22
+a(S'5ht2a'
+p23
+I395
+I401
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp25
-tp26
-Rp27
-sS'year'
-p28
-V1991
+((lp28
+S"(17, u'\\\\bpet')"
 p29
-sS'agonists'
+aS"(18, u'\\\\bimaging')"
 p30
+aS"(12, u'\\\\bantagonist')"
+p31
+atp32
+Rp33
+sS'regions'
+p34
 g3
-((lp31
-S"(158, u'\\\\blsd')"
-p32
-aS"(73, u'\\\\btandospirone')"
-p33
-atp34
-Rp35
-sS'species'
+((lp35
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p36
-g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-aS"(3527, u'(?i)\\\\b(permits|permit)\\\\b')"
+atp37
+Rp38
+sS'year'
 p39
-atp40
-Rp41
+V2007
+p40
+sS'species'
+p41
+g3
+((lp42
+tp43
+Rp44
 sb.

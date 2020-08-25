@@ -2,66 +2,144 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(178, u'\\\\bro 04 ?6790')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p10
-aS'Method.AGONIST'
+aS"(19, u'\\\\bpsychosis')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(34, u'\\\\bparkinson')"
+p12
+aS"(23, u'\\\\bantipsychotic')"
+p13
+aS"(15, u'\\\\bmemory')"
 p14
-g3
-((lp15
-tp16
-Rp17
-sS'receptors'
+aS"(30, u'\\\\bpain')"
+p15
+aS"(8, u'\\\\banxi')"
+p16
+aS"(1, u'\\\\bpatient')"
+p17
+aS"(4, u'\\\\btreatment')"
 p18
+aS"(3, u'\\\\bclinical')"
+p19
+atp20
+Rp21
+sS'receptors'
+p22
 g3
-((lp19
-S'5ht6'
-p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
+((lp23
+(S'5ht3'
+p24
+I634
+I639
 tp25
-Rp26
-sS'year'
-p27
-V1998
+a(S'5ht3'
+p26
+I1512
+I1517
+tp27
+a(S'5ht3'
 p28
-sS'agonists'
-p29
-g3
-((lp30
+I2330
+I2335
+tp29
+a(S'5ht3'
+p30
+I63
+I68
 tp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p35
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+a(S'5ht3'
+p32
+I2602
+I2607
+tp33
+a(S'5ht3'
+p34
+I894
+I899
+tp35
+a(S'5ht3'
 p36
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p37
-atp38
-Rp39
+I1264
+I1269
+tp37
+a(S'5ht3'
+p38
+I2224
+I2229
+tp39
+a(S'5ht3'
+p40
+I412
+I417
+tp41
+a(S'5ht3'
+p42
+I1981
+I1986
+tp43
+a(S'5ht3'
+p44
+I147
+I152
+tp45
+a(S'5ht3'
+p46
+I501
+I506
+tp47
+a(S'5ht3'
+p48
+I264
+I269
+tp49
+a(S'5ht3'
+p50
+I2077
+I2082
+tp51
+atp52
+Rp53
+sS'raw_text_methods'
+p54
+g3
+((lp55
+S"(20, u'\\\\bondansetron')"
+p56
+aS"(12, u'\\\\bantagonist')"
+p57
+atp58
+Rp59
+sS'regions'
+p60
+g3
+((lp61
+S"(10, u'(?i)\\\\b(peripherals|peripheral)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p62
+atp63
+Rp64
+sS'year'
+p65
+V2000
+p66
+sS'species'
+p67
+g3
+((lp68
+tp69
+Rp70
 sb.

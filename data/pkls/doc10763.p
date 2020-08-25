@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,64 +10,63 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(30, u'\\\\bparkinsons')"
-p15
-atp16
-Rp17
+atp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht1a'
+p14
+I225
+I231
+tp15
+a(S'5ht1a'
+p16
+I1586
+I1592
+tp17
+a(S'5ht1a'
 p18
+I1485
+I1491
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
 g3
-((lp19
-S'5ht2a'
-p20
-atp21
-Rp22
+((lp23
+S"(15, u'\\\\b8ohdpat')"
+p24
+atp25
+Rp26
 sS'regions'
-p23
-g3
-((lp24
-S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
-p25
-aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
-p26
-aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
 p27
-atp28
-Rp29
+g3
+((lp28
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p29
+atp30
+Rp31
 sS'year'
-p30
-V2011
-p31
-sS'agonists'
 p32
-g3
-((lp33
-S"(151, u'\\\\bcabergoline')"
-p34
-atp35
-Rp36
+V2001
+p33
 sS'species'
-p37
+p34
 g3
-((lp38
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p39
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p40
-atp41
-Rp42
+((lp35
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p36
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

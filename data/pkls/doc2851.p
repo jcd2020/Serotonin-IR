@@ -1,0 +1,95 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.AGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(27, u'\\\\bdyskinesia')"
+p10
+aS"(34, u'\\\\bparkinson')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I241
+I247
+tp18
+a(S'5ht1a'
+p19
+I39
+I45
+tp20
+a(S'5ht1'
+p21
+I1433
+I1438
+tp22
+a(S'5ht1'
+p23
+I819
+I824
+tp24
+a(S'5ht1'
+p25
+I258
+I263
+tp26
+a(S'5ht1'
+p27
+I444
+I449
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
+g3
+((lp32
+S"(13, u'\\\\bagonist')"
+p33
+aS"(15, u'\\\\b8ohdpat')"
+p34
+aS"(32, u'\\\\blesions')"
+p35
+atp36
+Rp37
+sS'regions'
+p38
+g3
+((lp39
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
+p43
+V2008
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
+sb.

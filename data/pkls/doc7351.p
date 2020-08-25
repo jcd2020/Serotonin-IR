@@ -2,73 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(71, u'\\\\bvolinanserin')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+tp5
+Rp6
 sS'topics'
-p13
+p7
 g3
-((lp14
-S"(30, u'\\\\bparkinsons')"
-p15
-atp16
-Rp17
+((lp8
+S"(22, u'\\\\bschizophreni')"
+p9
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(33, u'\\\\blocomot')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht5'
-p20
-aS'5ht2'
+((lp16
+(S'5ht2a'
+p17
+I812
+I817
+tp18
+a(S'5ht5'
+p19
+I394
+I404
+tp20
+a(S'5ht2a'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
+I1661
+I1672
+tp22
+a(S'5ht1a'
+p23
+I824
+I830
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p28
-atp29
+g3
+((lp28
+tp29
 Rp30
-sS'year'
+sS'regions'
 p31
-V2013
-p32
-sS'agonists'
+g3
+((lp32
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p33
-g3
-((lp34
-tp35
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p34
+atp35
 Rp36
-sS'species'
+sS'year'
 p37
-g3
-((lp38
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
+V2017
+p38
+sS'species'
 p39
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p40
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+g3
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
 atp42
 Rp43

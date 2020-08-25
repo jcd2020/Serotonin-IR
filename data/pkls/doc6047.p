@@ -2,92 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(30, u'\\\\bway ?100135')"
+S'Method.PET'
 p5
-aS"(41, u'\\\\bbrl ?15572')"
-p6
-aS"(91, u'\\\\bfluoxetine')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-S"(21, u'\\\\bpain')"
-p18
-aS"(24, u'\\\\banalgesi')"
-p19
-atp20
-Rp21
+((lp9
+tp10
+Rp11
 sS'receptors'
-p22
+p12
 g3
-((lp23
-S'5ht1b'
+((lp13
+(S'5ht2'
+p14
+I1005
+I1011
+tp15
+a(S'5ht1a'
+p16
+I997
+I1003
+tp17
+a(S'5ht2c'
+p18
+I1017
+I1023
+tp19
+a(S'5ht2a'
+p20
+I1005
+I1011
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-aS'5ht5'
-p25
-aS'5ht1f'
-p26
-aS'5ht1'
-p27
-aS'5ht1d'
-p28
-aS'5ht1a'
-p29
-atp30
-Rp31
-sS'regions'
-p32
 g3
-((lp33
-tp34
+((lp25
+S"(2, u'\\\\blabeling')"
+p26
+aS"(17, u'\\\\bpet')"
+p27
+aS"(19, u'\\\\bpositron emission tomography')"
+p28
+atp29
+Rp30
+sS'regions'
+p31
+g3
+((lp32
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p33
+atp34
 Rp35
 sS'year'
 p36
-V2008
+V2010
 p37
-sS'agonists'
+sS'species'
 p38
 g3
 ((lp39
-S"(120, u'\\\\bly344864')"
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p40
-aS"(96, u'\\\\bsumatriptan')"
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p41
-aS"(100, u'\\\\bcp ?93129')"
+aS"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
 p42
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p43
-aS"(114, u'\\\\bl ?694247')"
-p44
-atp45
-Rp46
-sS'species'
-p47
-g3
-((lp48
-S"(4176, u'(?i)\\\\b(greys|grey)\\\\b')"
-p49
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p50
-atp51
-Rp52
+atp43
+Rp44
 sb.

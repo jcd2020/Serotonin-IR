@@ -2,76 +2,107 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(49, u'\\\\bnefazodone')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(24, u'\\\\banxiolytic')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(25, u'\\\\bsocial')"
 p13
-g3
-((lp14
-tp15
-Rp16
-sS'receptors'
+aS"(13, u'\\\\bantidepress')"
+p14
+aS"(9, u'\\\\bstress')"
+p15
+aS"(23, u'\\\\bantipsychotic')"
+p16
+aS"(30, u'\\\\bpain')"
 p17
-g3
-((lp18
-S'5ht1a'
+aS"(8, u'\\\\banxi')"
+p18
+aS"(4, u'\\\\btreatment')"
 p19
-aS'5ht2'
-p20
-aS'5ht2a'
-p21
-atp22
-Rp23
-sS'regions'
+atp20
+Rp21
+sS'receptors'
+p22
+g3
+((lp23
+(S'5ht1a'
 p24
-g3
-((lp25
-tp26
-Rp27
-sS'year'
+I1922
+I1928
+tp25
+a(S'5ht2'
+p26
+I1933
+I1938
+tp27
+a(S'5ht2'
 p28
-V1997
-p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(56, u'\\\\bnefazodone')"
+I1337
+I1342
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
 p32
-atp33
-Rp34
-sS'species'
-p35
 g3
-((lp36
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+((lp33
+S"(41, u'\\\\bhaloperidol')"
+p34
+aS"(16, u'\\\\bdiazepam')"
+p35
+aS"(36, u'\\\\bbenzodiazepine')"
+p36
+aS"(31, u'\\\\bbenzodiazepines')"
 p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(13, u'\\\\bagonist')"
 p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+aS"(11, u'\\\\bfluoxetine')"
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p40
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p41
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p42
-atp43
-Rp44
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p46
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p47
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
+p51
+V2003
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p55
+atp56
+Rp57
 sb.

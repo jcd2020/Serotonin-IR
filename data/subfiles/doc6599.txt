@@ -1,0 +1,4 @@
+Lopez-Rodriguez, M. L., et al. (2003). "Design and synthesis of S-(-)-2- 4-(napht-1-yl)piperazin-1-yl -methyl -1,4-dioxoperhydropyrrolo 1,2-a pyrazine (CSP-2503) using computational simulation. A 5-HT1A receptor agonist." Bioorganic & Medicinal Chemistry Letters 13(8): 1429-1432.
+
+	Based on a computational model for 5-HT1AR-ligand interaction and QSAR studies, we have designed and synthesized a new series of arylpiperazines 2-8 which exhibit high 5-HT1AR affinity and selectivity over alpha(1)-adrenergic receptors. Among them, compound CSP-2503 (4) has been pharmacologically characterized as a 5-HT1AR agonist at somatodendritic and postsynaptic sites, endowed with anxiolytic properties. (C) 2003 Elsevier Science Ltd. All rights reserved.
+

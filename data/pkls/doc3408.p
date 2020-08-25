@@ -2,78 +2,108 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(2, u'\\\\bdisorder')"
+p11
+aS"(7, u'\\\\bdepressi')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
+aS"(34, u'\\\\bparkinson')"
+p13
+aS"(5, u'\\\\btherap')"
 p14
-atp15
-Rp16
+aS"(8, u'\\\\banxi')"
+p15
+aS"(4, u'\\\\btreatment')"
+p16
+atp17
+Rp18
 sS'receptors'
-p17
-g3
-((lp18
-S'5ht1b'
 p19
-aS'5ht5'
-p20
-aS'5ht2'
+g3
+((lp20
+(S'5ht2c'
 p21
-aS'5ht1'
-p22
-aS'5ht2a'
+I1033
+I1039
+tp22
+a(S'5ht2c'
 p23
-aS'5ht2c'
-p24
-atp25
-Rp26
-sS'regions'
+I1542
+I1548
+tp24
+a(S'5ht2c'
+p25
+I50
+I56
+tp26
+a(S'5ht2c'
 p27
-g3
-((lp28
-S"(222, u'(?i)\\\\b(neostriatums|neostriatum)\\\\b')"
+I239
+I245
+tp28
+a(S'5ht2c'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V1994
+I1176
+I1182
+tp30
+a(S'5ht2c'
+p31
+I1290
+I1296
+tp32
+a(S'5ht2c'
 p33
-sS'agonists'
-p34
+I1493
+I1499
+tp34
+a(S'5ht2c'
+p35
+I1660
+I1666
+tp36
+atp37
+Rp38
+sS'raw_text_methods'
+p39
 g3
-((lp35
-S"(155, u'\\\\bmcpp')"
-p36
-aS"(175, u'\\\\bdoi')"
-p37
-atp38
-Rp39
-sS'species'
-p40
-g3
-((lp41
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+((lp40
+S"(13, u'\\\\bagonist')"
+p41
+aS"(12, u'\\\\bantagonist')"
 p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+atp43
+Rp44
+sS'regions'
+p45
+g3
+((lp46
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V1999
+p51
+sS'species'
+p52
+g3
+((lp53
+tp54
+Rp55
 sb.

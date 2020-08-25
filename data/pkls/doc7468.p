@@ -2,91 +2,99 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(33, u'\\\\byohimbine')"
-p5
-aS"(22, u'\\\\bpropranolol')"
-p6
-aS"(34, u'\\\\bmetergoline')"
-p7
-aS"(11, u'\\\\bisamoltane')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
 S'Method.ANTAGONIST'
-p13
+p5
 aS'Method.AGONIST'
-p14
-atp15
-Rp16
+p6
+atp7
+Rp8
 sS'topics'
-p17
+p9
 g3
-((lp18
-tp19
-Rp20
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p21
+p14
 g3
-((lp22
-S'5ht1b'
-p23
-aS'5ht1d'
+((lp15
+(S'5ht1a'
+p16
+I375
+I381
+tp17
+a(S'5ht1a'
+p18
+I1356
+I1362
+tp19
+a(S'5ht1a'
+p20
+I698
+I704
+tp21
+a(S'5ht1a'
+p22
+I1322
+I1328
+tp23
+a(S'5ht1a'
 p24
-atp25
-Rp26
-sS'regions'
-p27
+I2270
+I2276
+tp25
+a(S'5ht1a'
+p26
+I159
+I165
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
 g3
-((lp28
-tp29
-Rp30
-sS'year'
-p31
-V1991
+((lp31
+S"(13, u'\\\\bagonist')"
 p32
-sS'agonists'
+aS"(15, u'\\\\b8ohdpat')"
 p33
-g3
-((lp34
-S"(45, u'\\\\bipsapirone')"
+aS"(41, u'\\\\bhaloperidol')"
+p34
+aS"(12, u'\\\\bantagonist')"
 p35
-aS"(67, u'\\\\bru ?24969')"
-p36
-aS"(82, u'\\\\byohimbine')"
-p37
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
+atp36
+Rp37
+sS'regions'
 p38
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p39
-aS"(219, u'\\\\b5 ?ct')"
-p40
-atp41
-Rp42
-sS'species'
-p43
 g3
-((lp44
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+((lp39
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p40
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V1995
 p45
-aS"(3527, u'(?i)\\\\b(permits|permit)\\\\b')"
+sS'species'
 p46
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p47
-aS"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
+g3
+((lp47
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p48
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p49
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p50
 atp51
 Rp52

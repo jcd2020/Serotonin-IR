@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,60 +10,72 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(30, u'\\\\bpain')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(16, u'\\\\bfeed')"
-p14
-aS"(11, u'\\\\banxiolyt')"
-p15
-atp16
-Rp17
+aS"(3, u'\\\\bclinical')"
+p10
+atp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht1a'
-p20
-aS'5ht2'
+((lp14
+(S'5ht1b'
+p15
+I822
+I829
+tp16
+a(S'5ht2'
+p17
+I822
+I832
+tp18
+a(S'5ht2a'
+p19
+I822
+I831
+tp20
+a(S'5ht1a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
+I822
+I827
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp25
-tp26
-Rp27
-sS'year'
+((lp26
+S"(16, u'\\\\bdiazepam')"
+p27
+aS"(35, u'\\\\badenosine')"
 p28
-V1995
-p29
-sS'agonists'
-p30
+atp29
+Rp30
+sS'regions'
+p31
 g3
-((lp31
-S"(45, u'\\\\bipsapirone')"
-p32
-aS"(60, u'\\\\bpyrimidinylpiperazine')"
+((lp32
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p33
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p34
-atp35
-Rp36
-sS'species'
+atp34
+Rp35
+sS'year'
+p36
+V2006
 p37
+sS'species'
+p38
 g3
-((lp38
-tp39
-Rp40
+((lp39
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p40
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p41
+atp42
+Rp43
 sb.

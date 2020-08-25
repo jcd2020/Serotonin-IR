@@ -1,0 +1,112 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(6, u'\\\\baggressi')"
+p9
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(19, u'\\\\bpsychosis')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2'
+p17
+I138
+I142
+tp18
+a(S'5ht2'
+p19
+I1136
+I1140
+tp20
+a(S'5ht1b'
+p21
+I541
+I546
+tp22
+a(S'5ht1b'
+p23
+I1401
+I1406
+tp24
+a(S'5ht1b'
+p25
+I128
+I133
+tp26
+a(S'5ht2'
+p27
+I921
+I925
+tp28
+a(S'5ht1b'
+p29
+I1013
+I1018
+tp30
+a(S'5ht2'
+p31
+I1412
+I1416
+tp32
+a(S'5ht2'
+p33
+I557
+I561
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
+p37
+g3
+((lp38
+S"(49, u'\\\\bdoi')"
+p39
+aS"(54, u'\\\\bautoradiography')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p45
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p46
+atp47
+Rp48
+sS'year'
+p49
+V2003
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p53
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p54
+atp55
+Rp56
+sb.

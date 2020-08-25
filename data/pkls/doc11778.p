@@ -2,74 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(38, u'\\\\bsb ?224289')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(24, u'\\\\banxiolytic')"
 p10
-aS'Method.AGONIST'
+aS"(8, u'\\\\banxi')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht6'
+p16
+I68
+I73
+tp17
+a(S'5ht6'
 p18
-g3
-((lp19
-S'5ht1b'
+I1331
+I1336
+tp19
+a(S'5ht6'
 p20
-aS'5ht5'
-p21
-aS'5ht2'
-p22
-aS'5ht1d'
-p23
-atp24
-Rp25
-sS'regions'
+I532
+I537
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+S"(16, u'\\\\bdiazepam')"
 p26
-g3
-((lp27
-tp28
-Rp29
-sS'year'
-p30
-V2001
+aS"(36, u'\\\\bbenzodiazepine')"
+p27
+aS"(12, u'\\\\bantagonist')"
+p28
+atp29
+Rp30
+sS'regions'
 p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(221, u'\\\\b5 ?mt')"
-p34
-aS"(114, u'\\\\bl ?694247')"
+((lp32
+tp33
+Rp34
+sS'year'
 p35
-atp36
-Rp37
+V2008
+p36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p41
-atp42
-Rp43
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

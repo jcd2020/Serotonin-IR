@@ -2,66 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.PET'
 p5
-aS"(21, u'\\\\bpindolol')"
+aS'Method.ANTAGONIST'
 p6
-aS"(31, u'\\\\bway ?100635')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+atp7
+Rp8
 sS'topics'
-p15
+p9
 g3
-((lp16
-tp17
-Rp18
+((lp10
+S"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1b'
-p21
-aS'5ht1a'
+((lp15
+(S'5ht1a'
+p16
+I645
+I650
+tp17
+a(S'5ht1d'
+p18
+I657
+I662
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-atp23
-Rp24
-sS'regions'
+g3
+((lp23
+S"(7, u'\\\\bpropranolol')"
+p24
+aS"(17, u'\\\\bpet')"
 p25
-g3
-((lp26
-tp27
-Rp28
-sS'year'
-p29
-V2002
+aS"(18, u'\\\\bimaging')"
+p26
+aS"(54, u'\\\\bautoradiography')"
+p27
+atp28
+Rp29
+sS'regions'
 p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(85, u'\\\\b8 ?oh ?dpat')"
+((lp31
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p32
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
 p33
 atp34
 Rp35
-sS'species'
+sS'year'
 p36
+V2002
+p37
+sS'species'
+p38
 g3
-((lp37
-tp38
-Rp39
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

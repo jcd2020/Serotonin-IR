@@ -2,80 +2,102 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
-p5
-aS"(119, u'\\\\britanserin')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.AGONIST'
-p11
-atp12
-Rp13
+tp5
+Rp6
 sS'topics'
+p7
+g3
+((lp8
+S"(22, u'\\\\bschizophreni')"
+p9
+aS"(14, u'\\\\bcogniti')"
+p10
+aS"(17, u'\\\\balzheimer')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(20, u'\\\\bmood')"
+p13
+aS"(15, u'\\\\bmemory')"
 p14
-g3
-((lp15
-tp16
-Rp17
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht7a'
-p20
-aS'5ht7'
+((lp18
+(S'5ht2a'
+p19
+I2005
+I2011
+tp20
+a(S'5ht2a'
 p21
-aS'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
+I897
+I903
+tp22
+a(S'5ht2a'
+p23
+I1097
+I1103
+tp24
+a(S'5ht2a'
 p25
-g3
-((lp26
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I604
+I610
+tp26
+a(S'5ht2a'
 p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1360
+I1366
+tp28
+a(S'5ht2a'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V1999
+I504
+I510
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
 p33
-sS'agonists'
-p34
 g3
-((lp35
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p36
-atp37
-Rp38
-sS'species'
+((lp34
+tp35
+Rp36
+sS'regions'
+p37
+g3
+((lp38
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p39
-g3
-((lp40
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p40
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
 p41
-aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
-p42
-aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
-p43
-aS"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
+atp42
+Rp43
+sS'year'
 p44
-atp45
-Rp46
+V1998
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p48
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p49
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p50
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
 sb.

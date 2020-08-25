@@ -2,82 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.STIMULATION'
 p5
-aS"(31, u'\\\\bway ?100635')"
+aS'Method.ANTAGONIST'
 p6
-aS"(33, u'\\\\byohimbine')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
+atp7
+Rp8
+sS'topics'
+p9
 g3
-((lp11
-S'Method.ANTAGONIST'
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(33, u'\\\\blocomot')"
 p12
 atp13
 Rp14
-sS'topics'
+sS'receptors'
 p15
 g3
 ((lp16
-S"(15, u'\\\\bschizophreni')"
+(S'5ht3'
 p17
-aS"(21, u'\\\\bpain')"
-p18
-atp19
-Rp20
-sS'receptors'
+I210
+I215
+tp18
+a(S'5ht3'
+p19
+I425
+I430
+tp20
+a(S'5ht3'
 p21
-g3
-((lp22
-S'5ht1a'
+I197
+I207
+tp22
+a(S'5ht3'
 p23
-aS'5ht2'
-p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
-S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+I43
+I48
+tp24
+a(S'5ht3'
+p25
+I1399
+I1404
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-aS"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
-p30
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+g3
+((lp30
+S"(12, u'\\\\bantagonist')"
 p31
 atp32
 Rp33
-sS'year'
+sS'regions'
 p34
-V2013
-p35
-sS'agonists'
-p36
 g3
-((lp37
-S"(82, u'\\\\byohimbine')"
-p38
-atp39
-Rp40
+((lp35
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
+p39
+V2003
+p40
 sS'species'
 p41
 g3
 ((lp42
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p44
-aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
-p45
-atp46
-Rp47
+atp44
+Rp45
 sb.

@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,72 +10,111 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
-p9
-aS'Method.IMMUNOHISTOCHEMISTRY'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(35, u'\\\\bstress')"
-p15
-aS"(12, u'\\\\banxiogen')"
-p16
-aS"(10, u'\\\\banxiety')"
-p17
-atp18
-Rp19
+tp9
+Rp10
 sS'receptors'
-p20
+p11
 g3
-((lp21
-S'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
+((lp12
+(S'5ht2a'
+p13
+I293
+I299
+tp14
+a(S'5ht2a'
+p15
+I1922
+I1928
+tp16
+a(S'5ht2a'
+p17
+I2038
+I2044
+tp18
+a(S'5ht2a'
+p19
+I622
+I628
+tp20
+a(S'5ht2a'
+p21
+I947
+I953
+tp22
+a(S'5ht2a'
+p23
+I1292
+I1298
+tp24
+a(S'5ht2a'
 p25
-g3
-((lp26
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1648
+I1654
+tp26
+a(S'5ht2a'
 p27
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p28
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I1623
+I1629
+tp28
+a(S'5ht2a'
 p29
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p30
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I263
+I269
+tp30
+a(S'5ht2a'
 p31
-atp32
-Rp33
-sS'year'
-p34
-V2005
+I376
+I382
+tp32
+a(S'5ht2a'
+p33
+I2184
+I2190
+tp34
+a(S'5ht2a'
 p35
-sS'agonists'
-p36
+I70
+I76
+tp36
+a(S'5ht2a'
+p37
+I1035
+I1041
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
+p41
 g3
-((lp37
-S"(149, u'\\\\bmem')"
-p38
-aS"(219, u'\\\\b5 ?ct')"
-p39
-atp40
-Rp41
+((lp42
+tp43
+Rp44
+sS'regions'
+p45
+g3
+((lp46
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p47
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+p48
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p49
+atp50
+Rp51
+sS'year'
+p52
+V1996
+p53
 sS'species'
-p42
+p54
 g3
-((lp43
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p44
-atp45
-Rp46
+((lp55
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p56
+atp57
+Rp58
 sb.

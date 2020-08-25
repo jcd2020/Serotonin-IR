@@ -2,82 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(1, u'\\\\bmood')"
-p14
-aS"(4, u'\\\\blocomot')"
-p15
-aS"(9, u'\\\\bdepress')"
-p16
-aS"(7, u'\\\\bmemory')"
-p17
-aS"(20, u'\\\\baggressi')"
-p18
-aS"(34, u'\\\\bdementia')"
-p19
-aS"(14, u'\\\\bpsychosis')"
-p20
-aS"(6, u'\\\\bcognit')"
-p21
-aS"(10, u'\\\\banxiety')"
-p22
-atp23
-Rp24
+((lp10
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I651
+I657
+tp16
+a(S'5ht1'
+p17
+I39
+I49
+tp18
+a(S'5ht1a'
+p19
+I278
+I284
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
 p25
-g3
-((lp26
-S'5ht7'
-p27
-aS'5ht6'
-p28
-aS'5ht2d'
-p29
-aS'5ht2a'
-p30
-atp31
-Rp32
+aS"(15, u'\\\\b8ohdpat')"
+p26
+atp27
+Rp28
 sS'regions'
-p33
+p29
 g3
-((lp34
-tp35
-Rp36
+((lp30
+tp31
+Rp32
 sS'year'
-p37
-V2014
-p38
-sS'agonists'
-p39
-g3
-((lp40
-S"(149, u'\\\\bmem')"
-p41
-atp42
-Rp43
+p33
+V2009
+p34
 sS'species'
-p44
+p35
 g3
-((lp45
-tp46
-Rp47
+((lp36
+tp37
+Rp38
 sb.

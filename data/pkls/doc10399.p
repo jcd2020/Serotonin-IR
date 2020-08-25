@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,56 +10,68 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(26, u'\\\\bbehav')"
 p9
 atp10
 Rp11
-sS'topics'
+sS'receptors'
 p12
 g3
 ((lp13
-tp14
-Rp15
-sS'receptors'
+(S'5ht2'
+p14
+I822
+I826
+tp15
+a(S'5ht2'
 p16
-g3
-((lp17
-S'5ht1a'
+I1270
+I1274
+tp17
+a(S'5ht1a'
 p18
-atp19
-Rp20
-sS'regions'
-p21
+I1049
+I1054
+tp19
+a(S'5ht1a'
+p20
+I810
+I815
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp22
-S"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p23
-atp24
-Rp25
-sS'year'
-p26
-V1994
-p27
-sS'agonists'
+((lp25
+tp26
+Rp27
+sS'regions'
 p28
 g3
 ((lp29
-S"(192, u'\\\\bquipazine')"
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p30
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p31
-atp32
-Rp33
-sS'species'
+atp31
+Rp32
+sS'year'
+p33
+V2009
 p34
+sS'species'
+p35
 g3
-((lp35
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
-p36
-atp37
-Rp38
+((lp36
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p37
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

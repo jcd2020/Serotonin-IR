@@ -1,0 +1,4 @@
+Haydar, S. N., et al. (2010). "5-Cyclic Amine-3-arylsulfonylindazoles as Novel 5-HT6 Receptor Antagonists." Journal of Medicinal Chemistry 53(6): 2521-2527.
+
+	Novel 5-cyclic amine-3-arylsulfonylindazoles were prepared, and several analogues within this class have been identified as high-affinity 5-HT6 receptor ligands with improved pharmacokinetic and pharmacological properties. One selected example, 18b, showed good brain penetrability and a generally favorable pharmacokinetic profile with procognitive efficacy in the rat novel object recognition assay. The synthesis and structure activity relationship of this potent class are discussed.
+

@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,37 +10,38 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(13, u'\\\\bantidepress')"
 p9
 atp10
 Rp11
-sS'topics'
+sS'receptors'
 p12
 g3
 ((lp13
-S"(3, u'\\\\bsleep')"
+(S'5ht1b'
 p14
-atp15
-Rp16
-sS'receptors'
-p17
+I1069
+I1075
+tp15
+atp16
+Rp17
+sS'raw_text_methods'
+p18
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
+((lp19
+tp20
 Rp21
 sS'regions'
 p22
 g3
 ((lp23
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p24
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p25
 atp26
 Rp27
@@ -48,22 +49,12 @@ sS'year'
 p28
 V1999
 p29
-sS'agonists'
+sS'species'
 p30
 g3
 ((lp31
-S"(85, u'\\\\b8 ?oh ?dpat')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p32
 atp33
 Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
-p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
 sb.

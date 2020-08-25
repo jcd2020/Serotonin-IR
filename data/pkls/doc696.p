@@ -2,77 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(27, u'\\\\bdyskinesia')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(34, u'\\\\bparkinson')"
 p13
-g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-atp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
+Rp16
 sS'receptors'
-p18
+p17
 g3
-((lp19
-S'5ht1b'
-p20
-aS'5ht1a'
+((lp18
+(S'5ht1a'
+p19
+I57
+I63
+tp20
+a(S'5ht1a'
 p21
-aS'5ht2c'
-p22
-aS'5ht2'
+I243
+I249
+tp22
+a(S'5ht1a'
 p23
-aS'5ht2a'
-p24
+I320
+I326
+tp24
 atp25
 Rp26
-sS'regions'
+sS'raw_text_methods'
 p27
 g3
 ((lp28
-S"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p29
-aS"(396, u'(?i)\\\\b(subventriculars|subventricular)(-|\\\\s+)?(zones|zone)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p30
-aS"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p31
-atp32
-Rp33
-sS'year'
-p34
-V2004
-p35
-sS'agonists'
-p36
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp37
-tp38
-Rp39
+((lp34
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
+p38
+V2004
+p39
 sS'species'
 p40
 g3
 ((lp41
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p42
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p43
 atp44
 Rp45

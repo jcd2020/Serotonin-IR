@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,52 +10,72 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(1, u'\\\\bpatient')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-tp14
-Rp15
+aS"(34, u'\\\\bparkinson')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1b'
 p16
-g3
-((lp17
-S'5ht1a'
+I185
+I191
+tp17
+a(S'5ht1b'
 p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
+I31
+I37
+tp19
+a(S'5ht1b'
+p20
+I1072
+I1078
+tp21
+a(S'5ht1b'
+p22
+I1165
+I1171
 tp23
-Rp24
-sS'year'
-p25
-V2003
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-sS'agonists'
-p27
 g3
-((lp28
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p29
-atp30
-Rp31
-sS'species'
+((lp27
+tp28
+Rp29
+sS'regions'
+p30
+g3
+((lp31
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p32
-g3
-((lp33
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p33
+aS"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p34
-atp35
-Rp36
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
+p38
+V1998
+p39
+sS'species'
+p40
+g3
+((lp41
+tp42
+Rp43
 sb.

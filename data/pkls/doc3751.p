@@ -2,76 +2,83 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(29, u'\\\\bsex')"
-p14
-atp15
-Rp16
+((lp10
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1a'
+p15
+I997
+I1003
+tp16
+a(S'5ht1c'
 p17
-g3
-((lp18
-S'5ht1a'
+I1051
+I1057
+tp18
+a(S'5ht1b'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(283, u'(?i)\\\\b(middles|middle)(-|\\\\s+)?(temporals|temporal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p24
-aS"(260, u'(?i)\\\\b(inferiors|inferior)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p25
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p26
-aS"(282, u'(?i)\\\\b(superiors|superior)(-|\\\\s+)?(temporals|temporal)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
+I1365
+I1371
+tp20
+a(S'5ht1b'
+p21
+I1136
+I1142
+tp22
+a(S'5ht2'
+p23
+I1041
+I1046
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
 p27
-atp28
-Rp29
-sS'year'
+g3
+((lp28
+S"(13, u'\\\\bagonist')"
+p29
+aS"(15, u'\\\\b8ohdpat')"
 p30
-V2009
+aS"(11, u'\\\\bfluoxetine')"
 p31
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p32
+atp33
+Rp34
+sS'regions'
+p35
 g3
-((lp33
-tp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp36
+tp37
+Rp38
+sS'year'
 p39
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+V1989
 p40
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+sS'species'
 p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
+g3
+((lp42
+tp43
 Rp44
 sb.

@@ -2,92 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(5, u'\\\\bcyanopindolol')"
+S'Method.PET'
 p5
-aS"(43, u'\\\\bgr ?127935')"
-p6
-aS"(14, u'\\\\bmethiothepin')"
-p7
-aS"(31, u'\\\\bway ?100635')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.STIMULATION'
-p13
-aS'Method.ANTAGONIST'
-p14
-aS'Method.AGONIST'
-p15
-atp16
-Rp17
+atp6
+Rp7
 sS'topics'
-p18
+p8
 g3
-((lp19
-tp20
-Rp21
+((lp9
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht3'
+p14
+I142
+I147
+tp15
+a(S'5ht3'
+p16
+I530
+I535
+tp17
+a(S'5ht3'
+p18
+I1531
+I1536
+tp19
+a(S'5ht3'
+p20
+I232
+I237
+tp21
+a(S'5ht3'
 p22
-g3
-((lp23
-S'5ht1b'
-p24
-aS'5ht1a'
-p25
-aS'5ht2c'
+I1245
+I1250
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-aS'5ht1'
-p27
-aS'5ht1d'
+g3
+((lp27
+S"(17, u'\\\\bpet')"
 p28
-atp29
-Rp30
+aS"(18, u'\\\\bimaging')"
+p29
+atp30
+Rp31
 sS'regions'
-p31
+p32
 g3
-((lp32
-tp33
-Rp34
+((lp33
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p34
+atp35
+Rp36
 sS'year'
-p35
-V1998
-p36
-sS'agonists'
 p37
-g3
-((lp38
-S"(96, u'\\\\bsumatriptan')"
-p39
-aS"(100, u'\\\\bcp ?93129')"
-p40
-aS"(155, u'\\\\bmcpp')"
-p41
-aS"(114, u'\\\\bl ?694247')"
-p42
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p43
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p44
-aS"(219, u'\\\\b5 ?ct')"
-p45
-atp46
-Rp47
+V2016
+p38
 sS'species'
-p48
+p39
 g3
-((lp49
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p50
-atp51
-Rp52
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

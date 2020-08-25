@@ -2,72 +2,110 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.KNOCKDOWN'
+p5
+aS'Method.KNOCKOUT'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(13, u'\\\\bantidepress')"
 p11
-g3
-((lp12
-tp13
-Rp14
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(7, u'\\\\bdepressi')"
+p13
+aS"(9, u'\\\\bstress')"
+p14
+atp15
+Rp16
 sS'receptors'
-p15
-g3
-((lp16
-S'5ht2c'
 p17
-aS'5ht2b'
-p18
-aS'5ht2'
+g3
+((lp18
+(S'5ht1a'
 p19
-aS'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
+I977
+I983
+tp20
+a(S'5ht4'
+p21
+I1132
+I1137
+tp22
+a(S'5ht4'
 p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
+I1076
+I1080
+tp24
+a(S'5ht4'
+p25
+I1039
+I1044
+tp26
+a(S'5ht4'
 p27
-V1994
-p28
-sS'agonists'
+I806
+I816
+tp28
+a(S'5ht4'
 p29
-g3
-((lp30
-tp31
-Rp32
-sS'species'
+I828
+I833
+tp30
+a(S'5ht1'
+p31
+I1167
+I1171
+tp32
+a(S'5ht4'
 p33
-g3
-((lp34
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p35
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p36
-aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
+I62
+I67
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
 p37
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+g3
+((lp38
+S"(14, u'\\\\bknockdown')"
 p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-atp41
-Rp42
+atp40
+Rp41
+sS'regions'
+p42
+g3
+((lp43
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p44
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p45
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p46
+atp47
+Rp48
+sS'year'
+p49
+V2017
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p53
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p54
+atp55
+Rp56
 sb.

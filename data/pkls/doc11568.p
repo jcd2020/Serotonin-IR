@@ -2,68 +2,86 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.PET'
-p9
-atp10
-Rp11
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(20, u'\\\\bmood')"
 p12
-g3
-((lp13
-S"(10, u'\\\\banxiety')"
-p14
-atp15
-Rp16
+aS"(19, u'\\\\bpsychosis')"
+p13
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp17
+(S'5ht1a'
+p18
+I653
+I659
+tp19
+a(S'5ht2a'
+p20
+I642
+I648
+tp21
+a(S'5ht2a'
 p22
-g3
-((lp23
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I1299
+I1305
+tp23
+a(S'5ht1a'
 p24
-atp25
-Rp26
-sS'year'
-p27
-V2018
+I1310
+I1316
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
-sS'agonists'
-p29
 g3
-((lp30
-tp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+((lp29
+S"(13, u'\\\\bagonist')"
+p30
+aS"(17, u'\\\\bpet')"
+p31
+aS"(19, u'\\\\bpositron emission tomography')"
+p32
+atp33
+Rp34
+sS'regions'
 p35
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p36
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+g3
+((lp36
+S"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(18, u'(?i)\\\\b(putamens|putamen)\\\\b')"
 p38
 atp39
 Rp40
+sS'year'
+p41
+V1999
+p42
+sS'species'
+p43
+g3
+((lp44
+tp45
+Rp46
 sb.

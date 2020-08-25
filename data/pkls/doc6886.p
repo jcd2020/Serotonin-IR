@@ -2,80 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(147, u'\\\\brs ?39604')"
+S'Method.IMMUNOHISTOCHEMISTRY'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(8, u'\\\\blearning')"
-p16
-aS"(6, u'\\\\bcognit')"
-p17
-aS"(7, u'\\\\bmemory')"
-p18
-atp19
-Rp20
+tp10
+Rp11
 sS'receptors'
-p21
+p12
 g3
-((lp22
-S'5ht4a'
-p23
-aS'5ht4'
+((lp13
+(S'5ht6'
+p14
+I652
+I657
+tp15
+a(S'5ht6'
+p16
+I1393
+I1398
+tp17
+a(S'5ht6'
+p18
+I1735
+I1740
+tp19
+a(S'5ht6'
+p20
+I313
+I318
+tp21
+a(S'5ht6'
+p22
+I61
+I66
+tp23
+a(S'5ht6'
 p24
-atp25
-Rp26
-sS'regions'
-p27
+I1216
+I1221
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
 g3
-((lp28
-S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p29
-atp30
+((lp29
+tp30
 Rp31
-sS'year'
+sS'regions'
 p32
-V2002
-p33
-sS'agonists'
-p34
 g3
-((lp35
-S"(205, u'\\\\brs ?67333')"
-p36
-aS"(149, u'\\\\bmem')"
-p37
-atp38
-Rp39
+((lp33
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p34
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
+p38
+V2013
+p39
 sS'species'
 p40
 g3
 ((lp41
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p44
-atp45
-Rp46
+tp42
+Rp43
 sb.

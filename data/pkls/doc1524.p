@@ -2,78 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(194, u'\\\\bmethysergide')"
+S'Method.IMMUNOHISTOCHEMISTRY'
 p5
-aS"(123, u'\\\\bgranisetron')"
-p6
-aS"(28, u'\\\\bspiroxatrine')"
-p7
-aS"(119, u'\\\\britanserin')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(20, u'\\\\bmood')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
 sS'receptors'
-p20
+p17
 g3
-((lp21
-S'5ht1a'
-p22
-aS'5ht3'
-p23
-aS'5ht2'
-p24
-aS'5ht1'
+((lp18
+(S'5ht1b'
+p19
+I773
+I779
+tp20
+a(S'5ht1a'
+p21
+I762
+I768
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-aS'5ht2a'
-p26
-aS'5ht3a'
-p27
-atp28
-Rp29
-sS'regions'
-p30
 g3
-((lp31
-tp32
+((lp26
+tp27
+Rp28
+sS'regions'
+p29
+g3
+((lp30
+S"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p31
+atp32
 Rp33
 sS'year'
 p34
-V1993
+V2011
 p35
-sS'agonists'
+sS'species'
 p36
 g3
 ((lp37
-S"(53, u'\\\\bmethysergide')"
-p38
-atp39
-Rp40
-sS'species'
-p41
-g3
-((lp42
-S"(4876, u'(?i)\\\\b(sheep|sheep)\\\\b')"
-p43
-atp44
-Rp45
+tp38
+Rp39
 sb.

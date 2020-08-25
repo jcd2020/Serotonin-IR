@@ -2,66 +2,81 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(3, u'\\\\bclinical')"
 p13
-g3
-((lp14
-S"(35, u'\\\\bstress')"
-p15
-atp16
-Rp17
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht1a'
+I491
+I496
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
+I206
+I211
+tp21
+a(S'5ht1a'
+p22
+I118
+I123
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp24
-tp25
-Rp26
-sS'year'
-p27
-V2017
+((lp27
+S"(1, u'\\\\bneuroimag')"
 p28
-sS'agonists'
+aS"(13, u'\\\\bagonist')"
 p29
-g3
-((lp30
-S"(21, u'\\\\bcannabidiol')"
+aS"(5, u'\\\\bmk801')"
+p30
+aS"(12, u'\\\\bantagonist')"
 p31
 atp32
 Rp33
-sS'species'
+sS'regions'
 p34
 g3
 ((lp35
-S"(3072, u'(?i)\\\\b(piglets|piglet)\\\\b')"
-p36
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p37
-atp38
-Rp39
+tp36
+Rp37
+sS'year'
+p38
+V2009
+p39
+sS'species'
+p40
+g3
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

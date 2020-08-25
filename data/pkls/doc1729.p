@@ -2,82 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(167, u'\\\\bsb ?742457')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(6, u'\\\\bcognit')"
-p15
-aS"(9, u'\\\\bdepress')"
+((lp10
+S"(33, u'\\\\blocomot')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1'
 p16
-aS"(7, u'\\\\bmemory')"
-p17
-aS"(20, u'\\\\baggressi')"
+I818
+I823
+tp17
+a(S'5ht3'
 p18
-aS"(34, u'\\\\bdementia')"
-p19
-aS"(14, u'\\\\bpsychosis')"
+I915
+I920
+tp19
+a(S'5ht2'
 p20
-aS"(8, u'\\\\blearning')"
-p21
+I856
+I861
+tp21
 atp22
 Rp23
-sS'receptors'
+sS'raw_text_methods'
 p24
 g3
 ((lp25
-S'5ht6'
+S"(13, u'\\\\bagonist')"
 p26
-atp27
-Rp28
-sS'regions'
+aS"(7, u'\\\\bpropranolol')"
+p27
+aS"(53, u'\\\\bketanserin')"
+p28
+aS"(12, u'\\\\bantagonist')"
 p29
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp30
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p31
-atp32
-Rp33
+((lp33
+tp34
+Rp35
 sS'year'
-p34
-V2012
-p35
-sS'agonists'
 p36
-g3
-((lp37
-S"(149, u'\\\\bmem')"
-p38
-atp39
-Rp40
+V1992
+p37
 sS'species'
-p41
+p38
 g3
-((lp42
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
-p45
-atp46
-Rp47
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

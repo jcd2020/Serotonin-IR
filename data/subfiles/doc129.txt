@@ -1,0 +1,4 @@
+Aït Amara, D., et al. (2001). "Region-specific decrease in 5-HT1A and 5-HT1B binding sites after intra-hippocampal ibotenic acid injections in the rat." Neurosci Lett 310(1): 25-28.
+
+	The cellular location of 5-HT1A and 5-HT1B binding sites in the hippocampus was investigated using a stereotaxic unilateral lesion of the CA1 field by ibotenic acid, followed by autoradiography on brain sections with the specific ligands [3H]8-OH-DPAT and S-CM-G[125I]TNH2, respectively. As compared to the contralateral side of the lesion, the ipsilateral side exhibited a decrease in the density of 5-HT1A binding sites in the strata oriens and radiatum of CA1, and of 5-HT1B binding sites in the dorsal subiculum and stratum oriens of CA1. The results demonstrate that 5-HT1A binding sites are located on dendrites whereas 5-HT1B binding sites are located on axon terminals of CA1 pyramidal cells.
+

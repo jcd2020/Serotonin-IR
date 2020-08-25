@@ -1,0 +1,4 @@
+Struga, M., et al. (2009). "Synthesis and Pharmacological Activity of Thiourea Derivatives of 1,7,8,9-Tetramethyl-4-azatricyclo 5.2.1.0(2,6) dec-8-ene-3,5-dione." Letters in Drug Design & Discovery 6(6): 445-450.
+
+	A series of new thiourea derivatives of 1,7,8,9-tetramethyl-4-azatricyclo[5.2.1.0(2,6)]dec-8-ene-3,5-dione have been prepared. The compound 6 was tested for pharmacological activity on animal central nervous system (CNS). The data suggest that compound 6 significantly interacts with 5-HT2 receptors in the brain. The activities of synthesized compounds were evaluated for their cytotoxicity and anti-HIV-1 activity in MT-4 cells. Elementary analysis, MS, H-1 NMR spectra confirmed the identity of the products. The molecular structure of 12 was determined by an X-ray analysis.
+

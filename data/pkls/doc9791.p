@@ -2,70 +2,108 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(121, u'\\\\bsb ?243213')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-S"(10, u'\\\\banxiety')"
-p16
-atp17
-Rp18
+((lp10
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2a'
+p15
+I69
+I75
+tp16
+a(S'5ht2'
+p17
+I138
+I143
+tp18
+a(S'5ht2a'
 p19
-g3
-((lp20
-S'5ht1a'
+I1850
+I1856
+tp20
+a(S'5ht2a'
 p21
-aS'5ht2c'
-p22
-atp23
-Rp24
-sS'regions'
+I467
+I473
+tp22
+a(S'5ht2'
+p23
+I2093
+I2098
+tp24
+a(S'5ht2a'
 p25
-g3
-((lp26
-tp27
-Rp28
-sS'year'
+I748
+I754
+tp26
+a(S'5ht2a'
+p27
+I952
+I958
+tp28
+a(S'5ht2'
 p29
-V2005
-p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(20, u'\\\\bbuspirone')"
+I2316
+I2321
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
 p33
-aS"(189, u'\\\\bethanol')"
-p34
-atp35
-Rp36
-sS'species'
-p37
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp34
+S"(17, u'\\\\bpet')"
+p35
+aS"(9, u'\\\\britanserin')"
+p36
+aS"(18, u'\\\\bimaging')"
+p37
+aS"(19, u'\\\\bpositron emission tomography')"
+p38
+aS"(12, u'\\\\bantagonist')"
 p39
 atp40
 Rp41
+sS'regions'
+p42
+g3
+((lp43
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p44
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V1998
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p52
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p53
+atp54
+Rp55
 sb.

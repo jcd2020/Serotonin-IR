@@ -2,80 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.ANTAGONIST'
+p5
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(6, u'\\\\bcognit')"
-p15
-aS"(7, u'\\\\bmemory')"
-p16
-atp17
-Rp18
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2c'
+p17
+I81
+I87
+tp18
+a(S'5ht2'
 p19
-g3
-((lp20
-S'5ht1a'
+I1218
+I1222
+tp20
+a(S'5ht2c'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(257, u'(?i)\\\\b(dorsolaterals|dorsolateral)(-|\\\\s+)?(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
-p28
-aS"(293, u'(?i)\\\\b(posteriors|posterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+I736
+I742
+tp22
+a(S'5ht2'
+p23
+I2018
+I2023
+tp24
+a(S'5ht2'
+p25
+I784
+I789
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
-p33
-V1992
+g3
+((lp30
+S"(12, u'\\\\bantagonist')"
+p31
+atp32
+Rp33
+sS'regions'
 p34
-sS'agonists'
-p35
 g3
-((lp36
-S"(20, u'\\\\bbuspirone')"
-p37
-aS"(149, u'\\\\bmem')"
+((lp35
+tp36
+Rp37
+sS'year'
 p38
-atp39
-Rp40
+V2018
+p39
 sS'species'
-p41
+p40
 g3
-((lp42
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+((lp41
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p42
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p43
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p44
-atp45
-Rp46
+atp44
+Rp45
 sb.

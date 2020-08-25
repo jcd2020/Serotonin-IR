@@ -2,82 +2,99 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(43, u'\\\\bgr ?127935')"
-p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
 S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p5
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(21, u'\\\\bpain')"
-p17
-aS"(24, u'\\\\banalgesi')"
-p18
-atp19
-Rp20
+((lp9
+tp10
+Rp11
 sS'receptors'
-p21
+p12
 g3
-((lp22
-S'5ht1b'
-p23
-aS'5ht1a'
+((lp13
+(S'5ht1a'
+p14
+I1395
+I1401
+tp15
+a(S'5ht1a'
+p16
+I572
+I578
+tp17
+a(S'5ht1a'
+p18
+I66
+I77
+tp19
+a(S'5ht1a'
+p20
+I2176
+I2182
+tp21
+a(S'5ht1a'
+p22
+I331
+I337
+tp23
+a(S'5ht1a'
 p24
-aS'5ht1d'
-p25
-atp26
-Rp27
-sS'regions'
-p28
+I2468
+I2474
+tp25
+a(S'5ht1a'
+p26
+I316
+I327
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
 g3
-((lp29
-tp30
-Rp31
-sS'year'
+((lp31
+S"(51, u'\\\\bway100635')"
 p32
-V2002
+aS"(11, u'\\\\bfluoxetine')"
 p33
-sS'agonists'
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p34
-g3
-((lp35
-S"(25, u'\\\\bdihydroergotamine')"
-p36
-aS"(96, u'\\\\bsumatriptan')"
-p37
-aS"(97, u'\\\\bzolmitriptan')"
+aS"(12, u'\\\\bantagonist')"
+p35
+atp36
+Rp37
+sS'regions'
 p38
-atp39
-Rp40
-sS'species'
-p41
 g3
-((lp42
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+((lp39
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p40
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p41
+aS"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p42
+atp43
+Rp44
+sS'year'
 p45
-atp46
-Rp47
+V1999
+p46
+sS'species'
+p47
+g3
+((lp48
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

@@ -2,72 +2,93 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.AGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+aS'Method.ANTAGONIST'
+p7
+atp8
+Rp9
 sS'topics'
-p14
+p10
 g3
-((lp15
-S"(37, u'\\\\baddict')"
-p16
-atp17
-Rp18
+((lp11
+S"(30, u'\\\\bpain')"
+p12
+aS"(35, u'\\\\bnocicept')"
+p13
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht2a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp17
+(S'5ht3'
+p18
+I833
+I838
+tp19
+a(S'5ht3'
+p20
+I1021
+I1026
+tp21
+a(S'5ht1'
+p22
+I1096
+I1100
+tp23
+a(S'5ht1'
 p24
-g3
-((lp25
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I872
+I877
+tp25
+a(S'5ht3a'
 p26
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
-p31
-V2009
+I1392
+I1398
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
+g3
+((lp31
+S"(23, u'\\\\bmdl')"
 p32
-sS'agonists'
+aS"(26, u'\\\\bmdl72222')"
 p33
-g3
-((lp34
-tp35
-Rp36
-sS'species'
+aS"(13, u'\\\\bagonist')"
+p34
+aS"(6, u'\\\\bgr127935')"
+p35
+aS"(47, u'\\\\bsumatriptan')"
+p36
+aS"(12, u'\\\\bantagonist')"
 p37
-g3
-((lp38
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+atp38
+Rp39
+sS'regions'
 p40
-atp41
-Rp42
+g3
+((lp41
+tp42
+Rp43
+sS'year'
+p44
+V2017
+p45
+sS'species'
+p46
+g3
+((lp47
+tp48
+Rp49
 sb.

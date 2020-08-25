@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,76 +10,128 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-tp9
-Rp10
-sS'topics'
+S"(22, u'\\\\bschizophreni')"
+p9
+aS"(1, u'\\\\bpatient')"
+p10
+aS"(23, u'\\\\bantipsychotic')"
 p11
-g3
-((lp12
-S"(35, u'\\\\bstress')"
-p13
-aS"(10, u'\\\\banxiety')"
-p14
-atp15
-Rp16
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht1a'
-p19
-aS'5ht2'
+((lp15
+(S'5ht2'
+p16
+I1441
+I1446
+tp17
+a(S'5ht2a'
+p18
+I57
+I63
+tp19
+a(S'5ht2a'
 p20
-aS'5ht2a'
-p21
-atp22
-Rp23
-sS'regions'
+I205
+I211
+tp21
+a(S'5ht2'
+p22
+I793
+I798
+tp23
+a(S'5ht2'
 p24
-g3
-((lp25
-S"(195, u'(?i)\\\\b(telencephalons|telencephalon)\\\\b')"
+I987
+I992
+tp25
+a(S'5ht2'
 p26
-aS"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p27
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I344
+I349
+tp27
+a(S'5ht2'
 p28
-aS"(118, u'(?i)\\\\b(diencephalons|diencephalon)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
+I701
+I706
+tp29
+a(S'5ht2'
+p30
+I1513
+I1518
+tp31
+a(S'5ht2'
 p32
-V2016
-p33
-sS'agonists'
+I1116
+I1121
+tp33
+a(S'5ht2'
 p34
-g3
-((lp35
-tp36
-Rp37
-sS'species'
+I223
+I228
+tp35
+a(S'5ht2'
+p36
+I937
+I942
+tp37
+a(S'5ht2'
 p38
-g3
-((lp39
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+I1165
+I1170
+tp39
+a(S'5ht2'
 p40
-aS"(5156, u'(?i)\\\\b(invertebrates|invertebrate)\\\\b')"
-p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+I1309
+I1314
+tp41
+a(S'5ht2'
 p42
-aS"(2621, u'(?i)\\\\b(vertebrates|vertebrate)\\\\b')"
-p43
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p44
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p45
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+I1574
+I1579
+tp43
+atp44
+Rp45
+sS'raw_text_methods'
 p46
-atp47
-Rp48
+g3
+((lp47
+S"(3, u'\\\\bimmunoreactiv')"
+p48
+aS"(18, u'\\\\bimaging')"
+p49
+aS"(54, u'\\\\bautoradiography')"
+p50
+atp51
+Rp52
+sS'regions'
+p53
+g3
+((lp54
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p55
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p56
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p57
+atp58
+Rp59
+sS'year'
+p60
+V2001
+p61
+sS'species'
+p62
+g3
+((lp63
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p64
+atp65
+Rp66
 sb.

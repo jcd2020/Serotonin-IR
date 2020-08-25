@@ -2,78 +2,64 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(35, u'\\\\baripiprazole')"
+S'Method.STAINING'
 p5
-aS"(111, u'\\\\bolanzapine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+S"(2, u'\\\\bdisorder')"
+p10
+atp11
+Rp12
 sS'receptors'
-p19
+p13
 g3
-((lp20
-S'5ht1a'
+((lp14
+(S'5ht1b'
+p15
+I1265
+I1271
+tp16
+a(S'5ht1a'
+p17
+I1252
+I1258
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-aS'5ht2a'
-p22
-atp23
+g3
+((lp22
+tp23
 Rp24
 sS'regions'
 p25
 g3
 ((lp26
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p27
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p28
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p29
-atp30
-Rp31
+atp28
+Rp29
 sS'year'
-p32
-V2004
-p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(57, u'\\\\bolanzapine')"
-p36
-aS"(223, u'\\\\baripiprazole')"
-p37
-atp38
-Rp39
+p30
+V2010
+p31
 sS'species'
-p40
+p32
 g3
-((lp41
-S"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+((lp33
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p34
+atp35
+Rp36
 sb.

@@ -2,80 +2,74 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(43, u'\\\\bgr ?127935')"
+S'Method.AGONIST'
 p5
-aS"(91, u'\\\\bfluoxetine')"
-p6
-aS"(31, u'\\\\bway ?100635')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.KNOCKOUT'
-p12
-aS'Method.ANTAGONIST'
-p13
-aS'Method.AGONIST'
-p14
-atp15
-Rp16
+atp6
+Rp7
 sS'topics'
-p17
+p8
 g3
-((lp18
-tp19
-Rp20
+((lp9
+tp10
+Rp11
 sS'receptors'
-p21
+p12
 g3
-((lp22
-S'5ht1b'
-p23
-aS'5ht1a'
+((lp13
+(S'5ht5'
+p14
+I248
+I253
+tp15
+a(S'5ht2'
+p16
+I647
+I652
+tp17
+a(S'5ht1'
+p18
+I674
+I679
+tp19
+a(S'5ht1a'
+p20
+I502
+I508
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-aS'5ht1d'
-p25
-atp26
-Rp27
-sS'regions'
-p28
 g3
-((lp29
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+aS"(15, u'\\\\b8ohdpat')"
+p27
+atp28
+Rp29
+sS'regions'
 p30
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p31
-atp32
+g3
+((lp31
+tp32
 Rp33
 sS'year'
 p34
-V2001
+V1993
 p35
-sS'agonists'
+sS'species'
 p36
 g3
 ((lp37
-S"(101, u'\\\\bcp ?94253')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p38
 atp39
 Rp40
-sS'species'
-p41
-g3
-((lp42
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
-p43
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p44
-atp45
-Rp46
 sb.

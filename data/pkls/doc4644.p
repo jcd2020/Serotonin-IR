@@ -2,66 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(13, u'\\\\bantidepress')"
 p10
-aS'Method.AGONIST'
+aS"(3, u'\\\\bclinical')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht2a'
+p16
+I784
+I790
+tp17
+a(S'5ht2a'
 p18
-g3
-((lp19
-S'5ht1a'
+I320
+I331
+tp19
+a(S'5ht2a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
+I334
+I340
+tp21
+a(S'5ht2a'
+p22
+I89
+I95
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp24
-S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
+((lp27
+S"(17, u'\\\\bpet')"
 p28
-V2010
+aS"(19, u'\\\\bpositron emission tomography')"
 p29
-sS'agonists'
+aS"(23, u'\\\\bmdl')"
 p30
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp31
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p32
-atp33
-Rp34
-sS'species'
+((lp34
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p35
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
+p39
+V2007
+p40
+sS'species'
+p41
 g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-atp38
-Rp39
+((lp42
+tp43
+Rp44
 sb.

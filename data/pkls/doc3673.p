@@ -2,84 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(203, u'\\\\btfmpp')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(29, u'\\\\bsex')"
-p15
-atp16
-Rp17
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht3'
+p14
+I137
+I142
+tp15
+a(S'5ht3'
+p16
+I458
+I463
+tp17
+a(S'5ht3'
 p18
-g3
-((lp19
-S'5ht1c'
+I504
+I509
+tp19
+a(S'5ht3'
 p20
-aS'5ht1b'
-p21
-aS'5ht1a'
+I48
+I53
+tp21
+a(S'5ht3'
 p22
-aS'5ht4'
-p23
-aS'5ht1d'
-p24
-atp25
-Rp26
-sS'regions'
-p27
+I1017
+I1022
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp28
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+((lp27
+S"(54, u'\\\\bautoradiography')"
+p28
+aS"(12, u'\\\\bantagonist')"
 p29
-aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
-p33
-V1992
+atp30
+Rp31
+sS'regions'
+p32
+g3
+((lp33
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p34
-sS'agonists'
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p35
-g3
-((lp36
-S"(76, u'\\\\btrifluoromethylphenylpiperazine')"
-p37
-aS"(178, u'\\\\btfmpp')"
-p38
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
 p39
-atp40
-Rp41
+V1991
+p40
 sS'species'
-p42
+p41
 g3
-((lp43
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p44
-aS"(1795, u'(?i)\\\\b(mounts|mount)\\\\b')"
-p45
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p46
-atp47
-Rp48
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

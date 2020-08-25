@@ -2,76 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(6, u'\\\\bcyproheptadine')"
+S'Method.AGONIST'
 p5
-aS"(53, u'\\\\bcyproheptadine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(4, u'\\\\blocomot')"
-p17
+((lp9
+S"(7, u'\\\\bdepressi')"
+p10
+aS"(16, u'\\\\blearning')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1b'
+p16
+I871
+I877
+tp17
 atp18
 Rp19
-sS'receptors'
+sS'raw_text_methods'
 p20
 g3
 ((lp21
-S'5ht2'
+S"(13, u'\\\\bagonist')"
 p22
-aS'5ht2a'
-p23
-atp24
-Rp25
+atp23
+Rp24
 sS'regions'
-p26
+p25
 g3
-((lp27
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp26
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p27
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p28
 atp29
 Rp30
 sS'year'
 p31
-V2005
+V2011
 p32
-sS'agonists'
+sS'species'
 p33
 g3
 ((lp34
-S"(192, u'\\\\bquipazine')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
 atp36
 Rp37
-sS'species'
-p38
-g3
-((lp39
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p40
-aS"(5783, u'(?i)\\\\b(hinds|hind)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
 sb.

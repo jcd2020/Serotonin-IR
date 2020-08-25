@@ -1,0 +1,121 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(14, u'\\\\bcogniti')"
+p11
+aS"(16, u'\\\\blearning')"
+p12
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(23, u'\\\\bantipsychotic')"
+p14
+aS"(15, u'\\\\bmemory')"
+p15
+aS"(5, u'\\\\btherap')"
+p16
+aS"(26, u'\\\\bbehav')"
+p17
+aS"(8, u'\\\\banxi')"
+p18
+aS"(3, u'\\\\bclinical')"
+p19
+atp20
+Rp21
+sS'receptors'
+p22
+g3
+((lp23
+(S'5ht6'
+p24
+I224
+I234
+tp25
+a(S'5ht6'
+p26
+I237
+I242
+tp27
+a(S'5ht6'
+p28
+I1051
+I1056
+tp29
+a(S'5ht6'
+p30
+I321
+I326
+tp31
+a(S'5ht6'
+p32
+I865
+I870
+tp33
+a(S'5ht6'
+p34
+I44
+I49
+tp35
+a(S'5ht6'
+p36
+I766
+I771
+tp37
+a(S'5ht6'
+p38
+I671
+I676
+tp39
+a(S'5ht6'
+p40
+I445
+I450
+tp41
+a(S'5ht6'
+p42
+I1100
+I1105
+tp43
+atp44
+Rp45
+sS'raw_text_methods'
+p46
+g3
+((lp47
+S"(12, u'\\\\bantagonist')"
+p48
+atp49
+Rp50
+sS'regions'
+p51
+g3
+((lp52
+tp53
+Rp54
+sS'year'
+p55
+V2005
+p56
+sS'species'
+p57
+g3
+((lp58
+tp59
+Rp60
+sb.

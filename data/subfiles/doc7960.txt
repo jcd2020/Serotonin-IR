@@ -1,4 +1,0 @@
-Marchetti, E., et al. (2011). "Enhancement of reference memory in aged rats by specific activation of 5-HT(4) receptors using an olfactory associative discrimination task." Brain Res 1405: 49-56.
-
-	In normal aging, or pathological brain diseases in humans, implicit memory (or procedural memory in rats) is spared while explicit memory (or reference memory in rats) is deeply impaired. Selective activation of 5-HT(4) receptors by a partial 5-HT(4) receptor agonist (SL65.0155) improved memory performance in an olfactory associative discrimination task in aged rats. Detailed analysis of subcategories of long-term memory using a hippocampal-dependent olfactory associative discrimination task revealed a substantial benefit on reference memory. This agent could be used to treat early mnesic deficits observed in normal aging or in neurodegenerative disorders like Alzheimer disease.
-

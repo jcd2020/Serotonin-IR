@@ -1,0 +1,4 @@
+Wong, D. T., et al. (1991). "Affinities of fluoxetine, its enantiomers, and other inhibitors of serotonin uptake for subtypes of serotonin receptors." Neuropsychopharmacology 5(1): 43-47.
+
+	The new antidepressant drugs, fluoxetine (and its enantiomers), citalopram, indalpine, paroxetine, and femoxetine show relatively weak affinities for 5-HT receptors as measured by radioligand binding to 5-HT-1(A,B,C and D), 5-HT-2, and 5-HT-3 subtypes. Fluoxetine and R(-)-fluoxetine, at near micromolar concentrations, inhibit 3H-mesulergine binding to 5-HT-1C receptors in bovine choroid plexus, and the R(-) enantiomer is 23 times more potent than the S(+) enantiomer. However, the near nanomolar potencies of these drugs as inhibitors of 5-HT uptake most likely account for their pharmacologic effects in animals.
+

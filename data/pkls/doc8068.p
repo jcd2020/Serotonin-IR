@@ -2,80 +2,142 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.STAINING'
 p5
-aS"(123, u'\\\\bgranisetron')"
+aS'Method.AGONIST'
 p6
-aS"(130, u'\\\\bzacopride')"
+aS'Method.ANTAGONIST'
 p7
 atp8
 Rp9
-sS'methods'
+sS'topics'
 p10
 g3
 ((lp11
-S'Method.ANTAGONIST'
+S"(13, u'\\\\bantidepress')"
 p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
-sS'topics'
-p16
-g3
-((lp17
-S"(28, u'\\\\bemesis')"
-p18
-atp19
-Rp20
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht7'
+p17
+I216
+I221
+tp18
+a(S'5ht7'
+p19
+I672
+I677
+tp20
+a(S'5ht7'
 p21
-g3
-((lp22
-S'5ht3'
+I530
+I535
+tp22
+a(S'5ht1a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
-g3
-((lp27
-S"(285, u'(?i)\\\\b(entorhinals|entorhinal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+I1377
+I1383
+tp24
+a(S'5ht7'
+p25
+I730
+I735
+tp26
+a(S'5ht7'
+p27
+I918
+I923
+tp28
+a(S'5ht7'
+p29
+I1186
+I1191
+tp30
+a(S'5ht7'
 p31
-V1993
-p32
-sS'agonists'
+I611
+I616
+tp32
+a(S'5ht7'
 p33
-g3
-((lp34
-S"(208, u'\\\\bzacopride')"
+I1465
+I1470
+tp34
+a(S'5ht7'
 p35
-atp36
-Rp37
-sS'species'
-p38
-g3
-((lp39
-S"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I1743
+I1748
+tp36
+a(S'5ht7'
+p37
+I49
+I54
+tp38
+a(S'5ht7'
+p39
+I1659
+I1664
+tp40
+a(S'5ht7'
 p41
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p42
-aS"(3636, u'(?i)\\\\b(martins|martin)\\\\b')"
+I1528
+I1533
+tp42
+a(S'5ht7'
 p43
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p44
+I1249
+I1254
+tp44
 atp45
 Rp46
+sS'raw_text_methods'
+p47
+g3
+((lp48
+S"(13, u'\\\\bagonist')"
+p49
+aS"(15, u'\\\\b8ohdpat')"
+p50
+aS"(3, u'\\\\bimmunoreactiv')"
+p51
+aS"(42, u'\\\\bneuroleptics')"
+p52
+aS"(12, u'\\\\bantagonist')"
+p53
+atp54
+Rp55
+sS'regions'
+p56
+g3
+((lp57
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p58
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p59
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p60
+atp61
+Rp62
+sS'year'
+p63
+V2001
+p64
+sS'species'
+p65
+g3
+((lp66
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p67
+atp68
+Rp69
 sb.

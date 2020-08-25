@@ -2,80 +2,102 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
+S'Method.ANTAGONIST'
 p5
-aS"(21, u'\\\\bpindolol')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(37, u'\\\\baddict')"
-p17
-aS"(4, u'\\\\blocomot')"
-p18
-atp19
-Rp20
+tp11
+Rp12
 sS'receptors'
+p13
+g3
+((lp14
+(S'5ht1'
+p15
+I646
+I652
+tp16
+a(S'5ht1c'
+p17
+I646
+I652
+tp18
+a(S'5ht1a'
+p19
+I630
+I636
+tp20
+a(S'5ht1b'
 p21
-g3
-((lp22
-S'5ht1b'
+I638
+I644
+tp22
+a(S'5ht1d'
 p23
-aS'5ht1a'
-p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
-S"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
+I658
+I664
+tp24
+a(S'5ht1d'
+p25
+I143
+I149
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
-p33
-V2017
-p34
-sS'agonists'
-p35
 g3
-((lp36
-S"(189, u'\\\\bethanol')"
+((lp30
+S"(7, u'\\\\bpropranolol')"
+p31
+aS"(21, u'\\\\bipsapirone')"
+p32
+aS"(15, u'\\\\b8ohdpat')"
+p33
+aS"(13, u'\\\\bagonist')"
+p34
+aS"(46, u'\\\\bspiperone')"
+p35
+aS"(12, u'\\\\bantagonist')"
+p36
+aS"(45, u'\\\\bmetergoline')"
 p37
 atp38
 Rp39
-sS'species'
+sS'regions'
 p40
 g3
 ((lp41
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
 p42
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p43
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p44
 atp45
 Rp46
+sS'year'
+p47
+V1989
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p51
+atp52
+Rp53
 sb.

@@ -2,66 +2,111 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
+S'Method.KNOCKOUT'
 p5
-aS"(102, u'\\\\bamitriptyline')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-tp11
-Rp12
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(25, u'\\\\bsocial')"
+p12
+aS"(35, u'\\\\bnocicept')"
 p13
-g3
-((lp14
-S"(16, u'\\\\bfeed')"
-p15
-atp16
-Rp17
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht3'
 p18
-g3
-((lp19
-S'5ht1a'
+I402
+I407
+tp19
+a(S'5ht3a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
+I1343
+I1349
+tp21
+a(S'5ht3'
+p22
+I143
+I148
+tp23
+a(S'5ht3a'
+p24
+I860
+I866
 tp25
-Rp26
-sS'year'
-p27
-V1990
+a(S'5ht3a'
+p26
+I969
+I975
+tp27
+a(S'5ht3a'
 p28
-sS'agonists'
-p29
-g3
-((lp30
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p31
-atp32
-Rp33
-sS'species'
+I1153
+I1159
+tp29
+a(S'5ht3a'
+p30
+I64
+I70
+tp31
+a(S'5ht3a'
+p32
+I1511
+I1517
+tp33
+a(S'5ht3a'
 p34
+I260
+I266
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
+p38
 g3
-((lp35
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p36
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p37
-atp38
-Rp39
+((lp39
+tp40
+Rp41
+sS'regions'
+p42
+g3
+((lp43
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p44
+atp45
+Rp46
+sS'year'
+p47
+V2010
+p48
+sS'species'
+p49
+g3
+((lp50
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p51
+aS"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p52
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p53
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p54
+atp55
+Rp56
 sb.

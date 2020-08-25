@@ -2,82 +2,98 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
-p13
+p8
 g3
-((lp14
-S"(17, u'\\\\bgroom')"
-p15
-aS"(29, u'\\\\bsex')"
-p16
-aS"(20, u'\\\\baggressi')"
-p17
-atp18
-Rp19
+((lp9
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht1a'
+p14
+I50
+I56
+tp15
+a(S'5ht1a'
+p16
+I1542
+I1548
+tp17
+a(S'5ht5'
+p18
+I351
+I361
+tp19
+a(S'5ht1a'
 p20
-g3
-((lp21
-S'5ht1a'
+I386
+I392
+tp21
+a(S'5ht1a'
 p22
-aS'5ht2a'
-p23
-atp24
-Rp25
-sS'regions'
-p26
+I1629
+I1635
+tp23
+a(S'5ht1a'
+p24
+I470
+I476
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
+p28
 g3
-((lp27
-tp28
-Rp29
-sS'year'
+((lp29
+S"(17, u'\\\\bpet')"
 p30
-V2012
+aS"(19, u'\\\\bpositron emission tomography')"
 p31
-sS'agonists'
+aS"(18, u'\\\\bimaging')"
 p32
-g3
-((lp33
-S"(40, u'\\\\bflibanserin')"
-p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+atp33
+Rp34
+sS'regions'
 p35
-atp36
-Rp37
-sS'species'
-p38
 g3
-((lp39
-S"(675, u'(?i)\\\\b(marmosets|marmoset)\\\\b')"
+((lp36
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p37
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p38
+aS"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
+p39
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
 p40
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+aS"(7, u'(?i)\\\\b(entorhinals|entorhinal)\\\\b')"
 p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p43
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
+atp42
+Rp43
+sS'year'
 p44
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+V2009
 p45
-atp46
-Rp47
+sS'species'
+p46
+g3
+((lp47
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p48
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

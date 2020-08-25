@@ -2,70 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-tp14
-Rp15
+((lp9
+S"(12, u'\\\\bsleep')"
+p10
+aS"(17, u'\\\\balzheimer')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
 p16
-g3
-((lp17
-S'5ht7'
+I1933
+I1939
+tp17
+a(S'5ht1a'
 p18
-aS'5ht7b'
-p19
-aS'5ht7e'
+I1300
+I1306
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
+I1216
+I1222
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp24
-tp25
-Rp26
-sS'year'
-p27
-V2013
-p28
-sS'agonists'
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+atp27
+Rp28
+sS'regions'
 p29
 g3
 ((lp30
-S"(231, u'\\\\blp ?211')"
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p31
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p32
-aS"(219, u'\\\\b5 ?ct')"
+aS"(14, u'(?i)\\\\b(caudals|caudal)\\\\b')"
 p33
 atp34
 Rp35
-sS'species'
+sS'year'
 p36
-g3
-((lp37
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+V1991
+p37
+sS'species'
 p38
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p39
-atp40
+g3
+((lp39
+tp40
 Rp41
 sb.

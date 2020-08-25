@@ -2,78 +2,109 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(118, u'\\\\bly ?53857')"
+S'Method.AGONIST'
 p5
-aS"(117, u'\\\\bketanserin')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+S"(7, u'\\\\bdepressi')"
+p10
+aS"(8, u'\\\\banxi')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1a'
 p19
-g3
-((lp20
-S'5ht1a'
+I62
+I68
+tp20
+a(S'5ht1a'
 p21
-aS'5ht3'
-p22
-aS'5ht2'
+I1414
+I1420
+tp22
+a(S'5ht1a'
 p23
-aS'5ht2a'
-p24
-atp25
-Rp26
-sS'regions'
+I428
+I434
+tp24
+a(S'5ht1a'
+p25
+I382
+I388
+tp26
+a(S'5ht1a'
 p27
-g3
-((lp28
-tp29
-Rp30
-sS'year'
+I830
+I836
+tp28
+a(S'5ht1a'
+p29
+I493
+I499
+tp30
+a(S'5ht1a'
 p31
-V1995
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(85, u'\\\\b8 ?oh ?dpat')"
+I222
+I228
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
 p35
-aS"(175, u'\\\\bdoi')"
-p36
-atp37
-Rp38
-sS'species'
-p39
 g3
-((lp40
-S"(2418, u'(?i)\\\\b(squirrels|squirrel)(-|\\\\s+)?(monkeys|monkey)\\\\b')"
-p41
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p42
-aS"(6771, u'(?i)\\\\b(squirrels|squirrel)\\\\b')"
+((lp36
+S"(13, u'\\\\bagonist')"
+p37
+aS"(15, u'\\\\b8ohdpat')"
+p38
+aS"(54, u'\\\\bautoradiography')"
+p39
+aS"(22, u'\\\\bbuspirone')"
+p40
+atp41
+Rp42
+sS'regions'
 p43
-atp44
-Rp45
+g3
+((lp44
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p45
+aS"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
+p46
+aS"(7, u'(?i)\\\\b(entorhinals|entorhinal)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V2000
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p54
+atp55
+Rp56
 sb.

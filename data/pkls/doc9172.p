@@ -2,74 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
-aS'Method.AGONIST'
-p10
-atp11
-Rp12
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+aS"(2, u'\\\\bdisorder')"
 p13
-g3
-((lp14
-S"(26, u'\\\\bcardiovascular')"
-p15
-atp16
-Rp17
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht1a'
+I51
+I57
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
-p25
-aS"(169, u'(?i)\\\\b(dorsomedials|dorsomedial)(-|\\\\s+)?(hypothalamics|hypothalamic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I277
+I283
+tp21
+a(S'5ht1a'
+p22
+I1312
+I1318
+tp23
+a(S'5ht1a'
+p24
+I352
+I358
+tp25
+a(S'5ht1a'
 p26
-aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V2007
-p31
-sS'agonists'
+I262
+I273
+tp27
+a(S'5ht1a'
+p28
+I1271
+I1277
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
 p32
 g3
 ((lp33
-S"(85, u'\\\\b8 ?oh ?dpat')"
+S"(13, u'\\\\bagonist')"
 p34
-atp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(7552, u'(?i)\\\\b(bats|bat)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
+p35
+aS"(38, u'\\\\bssri')"
+p36
+atp37
+Rp38
+sS'regions'
 p39
-aS"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+g3
+((lp40
+tp41
+Rp42
+sS'year'
+p43
+V2000
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

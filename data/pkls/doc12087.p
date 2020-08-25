@@ -2,72 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.IMMUNOHISTOCHEMISTRY'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(31, u'\\\\brespiratory')"
+p11
+aS"(32, u'\\\\bvomit')"
 p12
-g3
-((lp13
-S"(29, u'\\\\bsex')"
-p14
-aS"(9, u'\\\\bdepress')"
-p15
-aS"(35, u'\\\\bstress')"
-p16
-atp17
-Rp18
+atp13
+Rp14
 sS'receptors'
-p19
+p15
 g3
-((lp20
-S'5ht1a'
+((lp16
+(S'5ht1a'
+p17
+I1345
+I1351
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
 p21
-atp22
-Rp23
-sS'regions'
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+aS"(12, u'\\\\bantagonist')"
 p24
+atp25
+Rp26
+sS'regions'
+p27
 g3
-((lp25
-S"(203, u'(?i)\\\\b(dentates|dentate)(-|\\\\s+)?(gyruses|gyrus)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+((lp28
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p29
-V2006
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p30
-sS'agonists'
-p31
-g3
-((lp32
-tp33
-Rp34
+atp31
+Rp32
+sS'year'
+p33
+V1998
+p34
 sS'species'
 p35
 g3
 ((lp36
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p37
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p40
-atp41
-Rp42
+tp37
+Rp38
 sb.

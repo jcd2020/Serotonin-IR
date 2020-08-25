@@ -2,73 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
 p12
 g3
 ((lp13
-S"(37, u'\\\\baddict')"
+(S'5ht1d'
 p14
-aS"(24, u'\\\\banalgesi')"
-p15
-atp16
-Rp17
-sS'receptors'
+I846
+I853
+tp15
+a(S'5ht1b'
+p16
+I106
+I112
+tp17
+a(S'5ht1d'
 p18
-g3
-((lp19
-S'5ht5'
+I106
+I113
+tp19
+a(S'5ht1b'
 p20
-aS'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I846
+I852
+tp21
+a(S'5ht1b'
+p22
+I792
+I798
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
-p31
-V2018
-p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(20, u'\\\\bbuspirone')"
-p35
-atp36
-Rp37
+((lp27
+S"(13, u'\\\\bagonist')"
+p28
+aS"(47, u'\\\\bsumatriptan')"
+p29
+atp30
+Rp31
+sS'regions'
+p32
+g3
+((lp33
+tp34
+Rp35
+sS'year'
+p36
+V1993
+p37
 sS'species'
 p38
 g3
 ((lp39
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
 p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p41
 atp42
 Rp43

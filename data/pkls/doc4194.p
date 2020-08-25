@@ -2,80 +2,111 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(198, u'\\\\bsb ?269970')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(14, u'\\\\bcogniti')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(16, u'\\\\blearning')"
+p13
+aS"(15, u'\\\\bmemory')"
 p14
-g3
-((lp15
-S"(33, u'\\\\balzheimers')"
+aS"(5, u'\\\\btherap')"
+p15
+aS"(4, u'\\\\btreatment')"
 p16
-aS"(8, u'\\\\blearning')"
-p17
-aS"(7, u'\\\\bmemory')"
-p18
-atp19
-Rp20
+atp17
+Rp18
 sS'receptors'
+p19
+g3
+((lp20
+(S'5ht1a'
 p21
-g3
-((lp22
-S'5ht7a'
+I819
+I825
+tp22
+a(S'5ht1a'
 p23
-aS'5ht7'
-p24
-aS'5ht1'
+I1708
+I1714
+tp24
+a(S'5ht1a'
 p25
-atp26
-Rp27
-sS'regions'
-p28
-g3
-((lp29
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p30
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I69
+I75
+tp26
+a(S'5ht1a'
+p27
+I1122
+I1128
+tp28
+a(S'5ht1a'
+p29
+I1478
+I1484
+tp30
+a(S'5ht1a'
 p31
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p32
-atp33
-Rp34
-sS'year'
-p35
-V2008
-p36
-sS'agonists'
+I1828
+I1834
+tp32
+a(S'5ht1a'
+p33
+I1942
+I1948
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
 p37
 g3
 ((lp38
-S"(149, u'\\\\bmem')"
+S"(13, u'\\\\bagonist')"
 p39
-atp40
-Rp41
-sS'species'
+aS"(15, u'\\\\b8ohdpat')"
+p40
+aS"(46, u'\\\\bspiperone')"
+p41
+aS"(12, u'\\\\bantagonist')"
 p42
+atp43
+Rp44
+sS'regions'
+p45
 g3
-((lp43
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+((lp46
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p47
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p48
+atp49
+Rp50
+sS'year'
+p51
+V2012
+p52
+sS'species'
+p53
+g3
+((lp54
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p55
+atp56
+Rp57
 sb.

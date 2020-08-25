@@ -2,90 +2,121 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(128, u'\\\\bmetoclopramide')"
-p5
-aS"(131, u'\\\\bm1')"
-p6
-aS"(125, u'\\\\btropisetron')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
+p5
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p6
+atp7
+Rp8
 sS'topics'
-p16
+p9
 g3
-((lp17
-tp18
-Rp19
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1'
+p16
+I895
+I900
+tp17
+a(S'5ht1a'
+p18
+I519
+I525
+tp19
+a(S'5ht1'
 p20
-g3
-((lp21
-S'5ht3a'
+I1153
+I1158
+tp21
+a(S'5ht1'
 p22
-aS'5ht3'
-p23
-aS'5ht3c'
+I1329
+I1334
+tp23
+a(S'5ht1a'
 p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
+I990
+I996
+tp25
+a(S'5ht1a'
+p26
+I1567
+I1573
+tp27
+a(S'5ht1a'
+p28
+I1796
+I1802
 tp29
-Rp30
-sS'year'
-p31
-V1998
+a(S'5ht1a'
+p30
+I213
+I224
+tp31
+a(S'5ht1a'
 p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(209, u'\\\\bmetoclopramide')"
-p35
-aS"(176, u'\\\\bdom')"
+I1480
+I1486
+tp33
+a(S'5ht1a'
+p34
+I506
+I517
+tp35
+a(S'5ht1'
 p36
-aS"(149, u'\\\\bmem')"
-p37
+I797
+I802
+tp37
 atp38
 Rp39
-sS'species'
+sS'raw_text_methods'
 p40
 g3
 ((lp41
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p42
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
 p43
-aS"(7003, u'(?i)\\\\b(murines|murine)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p44
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p45
-aS"(1054, u'(?i)\\\\b(homoes|homo)\\\\b')"
-p46
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+atp45
+Rp46
+sS'regions'
 p47
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p48
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+g3
+((lp48
+S"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
 p49
-atp50
-Rp51
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p50
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p51
+atp52
+Rp53
+sS'year'
+p54
+V1995
+p55
+sS'species'
+p56
+g3
+((lp57
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p58
+atp59
+Rp60
 sb.

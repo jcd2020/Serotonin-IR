@@ -2,88 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(198, u'\\\\bsb ?269970')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht3'
+p14
+I314
+I319
+tp15
+a(S'5ht3'
+p16
+I730
+I735
+tp17
+a(S'5ht3'
 p18
-g3
-((lp19
-S'5ht7'
+I223
+I228
+tp19
+a(S'5ht3'
 p20
-aS'5ht1b'
-p21
-aS'5ht1a'
+I62
+I67
+tp21
+a(S'5ht3'
 p22
-aS'5ht2'
-p23
-atp24
-Rp25
-sS'regions'
+I364
+I369
+tp23
+a(S'5ht3'
+p24
+I815
+I820
+tp25
+a(S'5ht3'
 p26
+I888
+I893
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
 g3
-((lp27
-S"(118, u'(?i)\\\\b(diencephalons|diencephalon)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
-p31
-V2010
+((lp31
+S"(12, u'\\\\bantagonist')"
 p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(85, u'\\\\b8 ?oh ?dpat')"
+atp33
+Rp34
+sS'regions'
 p35
-aS"(105, u'\\\\b5 ?nonyloxytryptamine')"
-p36
-atp37
-Rp38
-sS'species'
-p39
 g3
-((lp40
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+((lp36
+S"(14, u'(?i)\\\\b(caudals|caudal)\\\\b')"
+p37
+atp38
+Rp39
+sS'year'
+p40
+V1994
 p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+sS'species'
 p42
-aS"(3883, u'(?i)\\\\b(teleosts|teleost)\\\\b')"
-p43
-aS"(2621, u'(?i)\\\\b(vertebrates|vertebrate)\\\\b')"
-p44
-aS"(4657, u'(?i)\\\\b(fish|fish)\\\\b')"
-p45
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p46
-aS"(5747, u'(?i)\\\\b(toadfish|toadfish)\\\\b')"
-p47
-aS"(3882, u'(?i)\\\\b(teleosts|teleost)(-|\\\\s+)?(fish|fish)\\\\b')"
-p48
-atp49
-Rp50
+g3
+((lp43
+tp44
+Rp45
 sb.

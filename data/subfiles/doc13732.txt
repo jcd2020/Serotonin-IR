@@ -1,4 +1,0 @@
-Yamato, H., et al. (2001). "Fluoxetine reduces L-DOPA-derived extracellular DA in the 6-OHDA-lesioned rat striatum." Neuroreport 12(6): 1123-1126.
-
-	We investigated the effect of fluoxetine, a selective serotonin reuptake inhibitor (SSRI), on L-DOPA-derived extracellular dopamine (DA) levels in the striatum of rats with nigrostriatal dopaminergic denervation using in vivo microdialysis. Treatment with fluoxetine (10 mg/kg, i.p.) induced a 41% reduction in the cumulative amount of extracellular DA during 300 min following L-DOPA administration (50 mg/kg, i.p.; p < 0.01). This effect was antagonized by pretreatment with WAY-100635, a potent 5-HT1A antagonist, indicating that this effect of fluoxetine is due to its indirect 5-HT1A agonistic property. These results suggest that SSRIs may impair motor functions in patients with Parkinson's disease by reducing efflux of exogenous L-DOPA-derived DA.
-

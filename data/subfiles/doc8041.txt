@@ -1,0 +1,4 @@
+Neeb, L., et al. (2010). "5-HT1F Receptor Agonists: A New Treatment Option for Migraine Attacks?" Neurotherapeutics 7(2): 176-182.
+
+	Migraine is a debilitating disorder of the CNS. Although therapeutic options for migraine attacks have tremendously advanced with the development of triptans more than a decade ago, several conditions (such as vascular disease) restrict their use. Moreover, some patients do not respond to triptans and other currently available medications. Therefore, treatment alternatives are needed. Study data show that 5-HT1F receptor agonists successfully abort migraine attacks. These data also suggest a favorable vascular side-effect profile of these substances, which could be beneficial for migraine treatment in subjects with cardiac or vascular disease. We discuss the current knowledge of 5-HT1F receptor-mediated effects, in part by comparing them to triptans, and we also summarize data from basic research and clinical trials.
+

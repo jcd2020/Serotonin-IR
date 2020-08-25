@@ -2,100 +2,57 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(193, u'\\\\bmesulergine')"
+S'Method.AGONIST'
 p5
-aS"(14, u'\\\\bmethiothepin')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(119, u'\\\\britanserin')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-aS'Method.AGONIST'
-p14
-atp15
-Rp16
+atp6
+Rp7
 sS'topics'
-p17
+p8
 g3
-((lp18
-tp19
-Rp20
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p21
+p14
 g3
-((lp22
-S'5ht1a'
-p23
-aS'5ht2c'
-p24
-aS'5ht1'
-p25
-aS'5ht1d'
-p26
-atp27
-Rp28
+((lp15
+(S'5ht2a'
+p16
+I532
+I538
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+tp22
+Rp23
 sS'regions'
-p29
+p24
 g3
-((lp30
-tp31
-Rp32
+((lp25
+tp26
+Rp27
 sS'year'
-p33
-V1996
-p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(220, u'\\\\b5 ?methoxytryptamine')"
-p37
-aS"(96, u'\\\\bsumatriptan')"
-p38
-aS"(149, u'\\\\bmem')"
-p39
-aS"(95, u'\\\\boxymetazoline')"
-p40
-aS"(165, u'\\\\bmesulergine')"
-p41
-aS"(114, u'\\\\bl ?694247')"
-p42
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p43
-aS"(67, u'\\\\bru ?24969')"
-p44
-aS"(219, u'\\\\b5 ?ct')"
-p45
-atp46
-Rp47
+p28
+V2018
+p29
 sS'species'
-p48
+p30
 g3
-((lp49
-S"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p50
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p51
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p52
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p53
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p54
-atp55
-Rp56
+((lp31
+tp32
+Rp33
 sb.

@@ -2,37 +2,38 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(113, u'\\\\brisperidone')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.KNOCKOUT'
-p10
-aS'Method.ANTAGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht7'
+p14
+I1951
+I1956
+tp15
+atp16
+Rp17
+sS'raw_text_methods'
 p18
 g3
 ((lp19
-S'5ht2a'
+S"(13, u'\\\\bagonist')"
 p20
 atp21
 Rp22
@@ -44,26 +45,14 @@ tp25
 Rp26
 sS'year'
 p27
-V2012
+V2014
 p28
-sS'agonists'
+sS'species'
 p29
 g3
 ((lp30
-tp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p35
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p36
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-atp39
-Rp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p31
+atp32
+Rp33
 sb.

@@ -2,88 +2,142 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(35, u'\\\\baripiprazole')"
+S'Method.ANTAGONIST'
 p5
-aS"(111, u'\\\\bolanzapine')"
+aS'Method.AGONIST'
 p6
-aS"(113, u'\\\\brisperidone')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-tp12
-Rp13
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(33, u'\\\\blocomot')"
+p11
+aS"(23, u'\\\\bantipsychotic')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(34, u'\\\\bparkinson')"
 p14
-g3
-((lp15
-S"(15, u'\\\\bschizophreni')"
-p16
-atp17
-Rp18
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1a'
 p19
-g3
-((lp20
-S'5ht2c'
+I345
+I351
+tp20
+a(S'5ht1a'
 p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
+I1385
+I1391
+tp22
+a(S'5ht1a'
+p23
+I1097
+I1103
+tp24
+a(S'5ht1a'
 p25
-g3
-((lp26
-S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+I1903
+I1909
+tp26
+a(S'5ht5'
 p27
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p28
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I307
+I317
+tp28
+a(S'5ht1a'
 p29
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p30
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+I1202
+I1208
+tp30
+a(S'5ht1'
 p31
-atp32
-Rp33
-sS'year'
-p34
-V2016
+I2046
+I2051
+tp32
+a(S'5ht1a'
+p33
+I48
+I54
+tp34
+a(S'5ht1a'
 p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(57, u'\\\\bolanzapine')"
-p38
-aS"(223, u'\\\\baripiprazole')"
+I2177
+I2183
+tp36
+a(S'5ht1a'
+p37
+I1948
+I1953
+tp38
+a(S'5ht1a'
 p39
-atp40
-Rp41
-sS'species'
-p42
-g3
-((lp43
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p44
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
+I511
+I517
+tp40
+a(S'5ht1a'
+p41
+I756
+I762
+tp42
+a(S'5ht1a'
+p43
+I589
+I595
+tp44
+a(S'5ht1a'
 p45
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p46
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p47
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p48
-atp49
-Rp50
+I655
+I661
+tp46
+atp47
+Rp48
+sS'raw_text_methods'
+p49
+g3
+((lp50
+S"(13, u'\\\\bagonist')"
+p51
+aS"(41, u'\\\\bhaloperidol')"
+p52
+aS"(4, u'\\\\bpcpa')"
+p53
+aS"(22, u'\\\\bbuspirone')"
+p54
+aS"(12, u'\\\\bantagonist')"
+p55
+atp56
+Rp57
+sS'regions'
+p58
+g3
+((lp59
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p60
+atp61
+Rp62
+sS'year'
+p63
+V2002
+p64
+sS'species'
+p65
+g3
+((lp66
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p67
+atp68
+Rp69
 sb.

@@ -2,68 +2,68 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(4, u'\\\\blocomot')"
-p16
-atp17
-Rp18
+tp10
+Rp11
 sS'receptors'
-p19
+p12
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
+((lp13
+(S'5ht1a'
+p14
+I275
+I281
+tp15
+a(S'5ht1a'
+p16
+I58
+I64
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
+g3
+((lp21
+S"(19, u'\\\\bpositron emission tomography')"
+p22
+aS"(18, u'\\\\bimaging')"
+p23
+atp24
+Rp25
 sS'regions'
-p24
-g3
-((lp25
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
 p26
-atp27
-Rp28
+g3
+((lp27
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p28
+atp29
+Rp30
 sS'year'
-p29
-V2000
-p30
-sS'agonists'
 p31
-g3
-((lp32
-S"(39, u'\\\\bflesinoxan')"
-p33
-atp34
-Rp35
+V2007
+p32
 sS'species'
-p36
+p33
 g3
-((lp37
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p38
-atp39
-Rp40
+((lp34
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p35
+aS"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p36
+atp37
+Rp38
 sb.

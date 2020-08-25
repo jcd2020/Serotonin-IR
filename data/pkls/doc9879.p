@@ -2,76 +2,100 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-S"(18, u'\\\\bpsychostim')"
-p15
-aS"(4, u'\\\\blocomot')"
-p16
-atp17
-Rp18
+((lp10
+S"(35, u'\\\\bnocicept')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1b'
-p21
-atp22
-Rp23
-sS'regions'
+((lp15
+(S'5ht3'
+p16
+I49
+I54
+tp17
+a(S'5ht1'
+p18
+I831
+I836
+tp19
+a(S'5ht1a'
+p20
+I403
+I409
+tp21
+a(S'5ht3'
+p22
+I1124
+I1129
+tp23
+a(S'5ht1b'
 p24
-g3
-((lp25
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+I506
+I512
+tp25
+a(S'5ht2'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2002
+I39
+I44
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(11, u'\\\\bamphetamine')"
+((lp31
+S"(53, u'\\\\bketanserin')"
+p32
+aS"(23, u'\\\\bmdl')"
 p33
-aS"(100, u'\\\\bcp ?93129')"
+aS"(26, u'\\\\bmdl72222')"
 p34
-atp35
-Rp36
-sS'species'
+aS"(15, u'\\\\b8ohdpat')"
+p35
+aS"(13, u'\\\\bagonist')"
+p36
+aS"(30, u'\\\\b2methyl')"
 p37
-g3
-((lp38
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+aS"(49, u'\\\\bdoi')"
+p38
+aS"(12, u'\\\\bantagonist')"
 p39
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p40
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+atp40
+Rp41
+sS'regions'
 p42
-atp43
-Rp44
+g3
+((lp43
+tp44
+Rp45
+sS'year'
+p46
+V2001
+p47
+sS'species'
+p48
+g3
+((lp49
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

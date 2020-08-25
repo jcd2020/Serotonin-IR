@@ -2,62 +2,88 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(28, u'\\\\bgastrointestin')"
+p11
+aS"(2, u'\\\\bdisorder')"
 p12
-g3
-((lp13
-tp14
-Rp15
-sS'receptors'
+aS"(13, u'\\\\bantidepress')"
+p13
+aS"(5, u'\\\\btherap')"
+p14
+aS"(30, u'\\\\bpain')"
+p15
+aS"(1, u'\\\\bpatient')"
 p16
+aS"(4, u'\\\\btreatment')"
+p17
+atp18
+Rp19
+sS'receptors'
+p20
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
+((lp21
+(S'5ht4'
+p22
+I977
+I982
 tp23
-Rp24
-sS'year'
-p25
-V1995
+a(S'5ht3'
+p24
+I1572
+I1577
+tp25
+a(S'5ht3'
 p26
-sS'agonists'
-p27
-g3
-((lp28
-S"(149, u'\\\\bmem')"
-p29
+I967
+I972
+tp27
+a(S'5ht4'
+p28
+I1686
+I1691
+tp29
 atp30
 Rp31
-sS'species'
+sS'raw_text_methods'
 p32
 g3
 ((lp33
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p34
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p35
 atp36
 Rp37
+sS'regions'
+p38
+g3
+((lp39
+tp40
+Rp41
+sS'year'
+p42
+V2004
+p43
+sS'species'
+p44
+g3
+((lp45
+tp46
+Rp47
 sb.

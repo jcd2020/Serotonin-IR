@@ -2,74 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(134, u'\\\\bmirtazapine')"
+S'Method.AGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p6
+atp7
+Rp8
+sS'topics'
+p9
 g3
-((lp9
-S'Method.PET'
-p10
-aS'Method.ANTAGONIST'
+((lp10
+S"(26, u'\\\\bbehav')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(33, u'\\\\balzheimers')"
+(S'5ht1a'
 p16
-aS"(9, u'\\\\bdepress')"
-p17
-atp18
-Rp19
-sS'receptors'
+I505
+I511
+tp17
+a(S'5ht1a'
+p18
+I111
+I117
+tp19
+a(S'5ht5'
 p20
+I397
+I407
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp21
-S'5ht3'
-p22
-aS'5ht2a'
-p23
-atp24
-Rp25
-sS'regions'
+((lp25
+S"(13, u'\\\\bagonist')"
 p26
-g3
-((lp27
-S"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p28
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p29
-aS"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
+p27
+atp28
+Rp29
+sS'regions'
 p30
-atp31
-Rp32
+g3
+((lp31
+tp32
+Rp33
 sS'year'
-p33
-V2004
 p34
-sS'agonists'
+V2000
 p35
-g3
-((lp36
-tp37
-Rp38
 sS'species'
-p39
+p36
 g3
-((lp40
-S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p41
-atp42
-Rp43
+((lp37
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p38
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

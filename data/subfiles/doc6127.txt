@@ -1,0 +1,4 @@
+Langlois, M. and F. Gaudy (1992). "A NEW SYNTHESIS OF 8-HYDROXY-2-DI-NORMAL-PROPYLAMINO-TETRALIN (8-OH-DPAT)." Synthetic Communications 22(12): 1723-1734.
+
+	A new synthesis method for 8-OH-DPAT, a specific agonist at the 5-HT1A serotonin receptor, is described. It employs the Curtius degradation of a tetralin carboxylic acid easily prepared from (2-methoxy benzyl) succinic acid by Friedel-Crafts cyclisation.
+

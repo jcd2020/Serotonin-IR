@@ -1,0 +1,4 @@
+Gur, E., et al. (1997). "Chronic electroconvulsive shock and 5-HT autoreceptor activity in rat brain: an in vivo microdialysis study." Journal of Neural Transmission 104(8-9): 795-804.
+
+	In vivo microdialysis was used to determine the effects of chronic electroconvulsive shock (ECS), given daily for 10 days, on basal 5-HT levels in rat frontal cortex and hippocampus and on the effect of systemic administration of the 5-HT-1a receptor agonist, 8-OH-DPAT (0.2 mg/kg), to reduce 5-HT levels in these areas by activation of somatodendritic autoreceptors. Neither basal 5-HT levels nor the effects of 8-OH-DPAT on 5-HT levels were altered after chronic ECS. The effect of systemic administration of the 5-HT,, and 5-HT1B antagonist, (+/-)-pindolol (10 mg/kg), to increase 5-HT levels in hippocampus, was also not affected by chronic ECS.
+

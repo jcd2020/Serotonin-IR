@@ -2,76 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
-p5
-aS"(123, u'\\\\bgranisetron')"
-p6
-aS"(125, u'\\\\btropisetron')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p5
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+atp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht3'
-p22
-aS'5ht3a'
-p23
-atp24
-Rp25
-sS'regions'
-p26
+((lp14
+(S'5ht2a'
+p15
+I1408
+I1414
+tp16
+a(S'5ht2a'
+p17
+I32
+I43
+tp18
+a(S'5ht2a'
+p19
+I1207
+I1213
+tp20
+a(S'5ht2a'
+p21
+I707
+I713
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp27
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+((lp26
+S"(50, u'\\\\bm100907')"
+p27
+aS"(12, u'\\\\bantagonist')"
 p28
 atp29
 Rp30
-sS'year'
+sS'regions'
 p31
-V1996
-p32
-sS'agonists'
+g3
+((lp32
+S"(17, u'(?i)\\\\b(caudates|caudate)\\\\b')"
 p33
-g3
-((lp34
-S"(149, u'\\\\bmem')"
-p35
-aS"(194, u'\\\\bsr ?57227')"
+atp34
+Rp35
+sS'year'
 p36
-aS"(191, u'\\\\bphenylbiguanide')"
+V2013
 p37
-atp38
-Rp39
 sS'species'
-p40
+p38
 g3
-((lp41
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+((lp39
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p40
+aS"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p41
+atp42
+Rp43
 sb.

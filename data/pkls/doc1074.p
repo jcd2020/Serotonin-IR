@@ -2,82 +2,131 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(33, u'\\\\byohimbine')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p6
+atp7
+Rp8
 sS'topics'
-p14
+p9
 g3
-((lp15
-S"(37, u'\\\\baddict')"
-p16
-aS"(12, u'\\\\banxiogen')"
-p17
-aS"(11, u'\\\\banxiolyt')"
-p18
-aS"(10, u'\\\\banxiety')"
-p19
-aS"(16, u'\\\\bfeed')"
-p20
-atp21
-Rp22
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(15, u'\\\\bmemory')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
-p23
+p16
 g3
-((lp24
-S'5ht1a'
-p25
-atp26
-Rp27
-sS'regions'
+((lp17
+(S'5ht4'
+p18
+I1118
+I1123
+tp19
+a(S'5ht4'
+p20
+I721
+I726
+tp21
+a(S'5ht1'
+p22
+I351
+I356
+tp23
+a(S'5ht4'
+p24
+I540
+I545
+tp25
+a(S'5ht3'
+p26
+I367
+I372
+tp27
+a(S'5ht4'
 p28
-g3
-((lp29
-tp30
-Rp31
-sS'year'
+I844
+I849
+tp29
+a(S'5ht4'
+p30
+I148
+I153
+tp31
+a(S'5ht4'
 p32
-V1998
-p33
-sS'agonists'
+I30
+I35
+tp33
+a(S'5ht4'
 p34
-g3
-((lp35
-S"(20, u'\\\\bbuspirone')"
+I1283
+I1288
+tp35
+a(S'5ht4'
 p36
-aS"(147, u'\\\\bmdma')"
-p37
-aS"(82, u'\\\\byohimbine')"
+I1040
+I1045
+tp37
+a(S'5ht4'
 p38
-atp39
-Rp40
-sS'species'
-p41
+I642
+I647
+tp39
+a(S'5ht4'
+p40
+I414
+I419
+tp41
+a(S'5ht2'
+p42
+I358
+I363
+tp43
+atp44
+Rp45
+sS'raw_text_methods'
+p46
 g3
-((lp42
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p43
-aS"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-atp46
-Rp47
+((lp47
+S"(13, u'\\\\bagonist')"
+p48
+aS"(12, u'\\\\bantagonist')"
+p49
+atp50
+Rp51
+sS'regions'
+p52
+g3
+((lp53
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p54
+aS"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p55
+atp56
+Rp57
+sS'year'
+p58
+V1994
+p59
+sS'species'
+p60
+g3
+((lp61
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p62
+atp63
+Rp64
 sb.

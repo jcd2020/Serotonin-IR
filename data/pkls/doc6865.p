@@ -2,66 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(1, u'\\\\balprenolol')"
-p5
-aS"(22, u'\\\\bpropranolol')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-tp11
-Rp12
+tp5
+Rp6
 sS'topics'
-p13
+p7
 g3
-((lp14
-tp15
-Rp16
+((lp8
+S"(1, u'\\\\bpatient')"
+p9
+aS"(7, u'\\\\bdepressi')"
+p10
+aS"(13, u'\\\\bantidepress')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
 p17
+I642
+I648
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
 g3
-((lp18
-S'5ht1a'
-p19
-atp20
-Rp21
+((lp22
+tp23
+Rp24
 sS'regions'
-p22
+p25
 g3
-((lp23
-tp24
-Rp25
-sS'year'
-p26
-V1997
+((lp26
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p27
-sS'agonists'
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p28
-g3
-((lp29
-tp30
-Rp31
-sS'species'
+atp29
+Rp30
+sS'year'
+p31
+V2013
 p32
+sS'species'
+p33
 g3
-((lp33
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
-p34
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp34
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p35
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p36
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p37
-atp38
-Rp39
+atp36
+Rp37
 sb.

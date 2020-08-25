@@ -2,82 +2,119 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
+S'Method.IMMUNOHISTOCHEMISTRY'
 p5
-aS"(17, u'\\\\bnan ?190')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(194, u'\\\\bmethysergide')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-S"(24, u'\\\\banalgesi')"
-p18
-atp19
-Rp20
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(9, u'\\\\bstress')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht1'
+p19
+I1148
+I1152
+tp20
+a(S'5ht1'
 p21
-g3
-((lp22
-S'5ht1a'
+I922
+I926
+tp22
+a(S'5ht1a'
 p23
-aS'5ht2e'
-p24
-aS'5ht3'
+I91
+I96
+tp24
+a(S'5ht1'
 p25
-aS'5ht1'
-p26
-aS'5ht1e'
+I1693
+I1697
+tp26
+a(S'5ht1'
 p27
-aS'5ht2a'
-p28
-aS'5ht2'
+I1012
+I1016
+tp28
+a(S'5ht1'
 p29
-atp30
-Rp31
-sS'regions'
-p32
-g3
-((lp33
+I1438
+I1442
+tp30
+a(S'5ht1'
+p31
+I675
+I679
+tp32
+a(S'5ht1a'
+p33
+I643
+I648
 tp34
-Rp35
+a(S'5ht1'
+p35
+I1228
+I1232
+tp36
+atp37
+Rp38
+sS'raw_text_methods'
+p39
+g3
+((lp40
+S"(38, u'\\\\bssri')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
+g3
+((lp45
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p46
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p47
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p48
+aS"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p49
+atp50
+Rp51
 sS'year'
-p36
-V1998
-p37
-sS'agonists'
-p38
-g3
-((lp39
-S"(53, u'\\\\bmethysergide')"
-p40
-atp41
-Rp42
+p52
+V2015
+p53
 sS'species'
-p43
+p54
 g3
-((lp44
-S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
-p45
-atp46
-Rp47
+((lp55
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p56
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p57
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p58
+atp59
+Rp60
 sb.

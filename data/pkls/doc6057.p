@@ -2,74 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(14, u'\\\\bcogniti')"
 p10
-aS'Method.AGONIST'
+aS"(4, u'\\\\btreatment')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(9, u'\\\\bdepress')"
+(S'5ht6'
 p16
-atp17
-Rp18
-sS'receptors'
-p19
+I721
+I726
+tp17
+a(S'5ht6'
+p18
+I251
+I256
+tp19
+a(S'5ht6'
+p20
+I32
+I37
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp20
-S'5ht2c'
-p21
-aS'5ht2a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-tp27
+((lp25
+S"(12, u'\\\\bantagonist')"
+p26
+atp27
 Rp28
-sS'year'
+sS'regions'
 p29
-V2008
-p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(158, u'\\\\blsd')"
+((lp30
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p31
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p32
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p33
-aS"(49, u'\\\\blysergic acid diethylamide')"
-p34
-aS"(175, u'\\\\bdoi')"
-p35
-atp36
-Rp37
+atp34
+Rp35
+sS'year'
+p36
+V2004
+p37
 sS'species'
 p38
 g3
 ((lp39
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+atp41
+Rp42
 sb.

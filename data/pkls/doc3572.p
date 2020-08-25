@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,64 +10,49 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.ANTAGONIST'
+S"(16, u'\\\\blearning')"
 p9
-aS'Method.AGONIST'
+aS"(26, u'\\\\bbehav')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(30, u'\\\\bparkinsons')"
-p15
-atp16
-Rp17
+aS"(15, u'\\\\bmemory')"
+p11
+atp12
+Rp13
 sS'receptors'
-p18
+p14
 g3
-((lp19
-S'5ht7'
+((lp15
+(S'5ht1a'
+p16
+I1158
+I1164
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-atp21
-Rp22
+g3
+((lp21
+tp22
+Rp23
 sS'regions'
-p23
+p24
 g3
-((lp24
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p25
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-aS"(316, u'(?i)\\\\b(nigrostriatals|nigrostriatal)(-|\\\\s+)?(pathways|pathway)\\\\b')"
-p27
-atp28
-Rp29
+((lp25
+tp26
+Rp27
 sS'year'
-p30
-V2016
-p31
-sS'agonists'
-p32
-g3
-((lp33
-S"(224, u'\\\\bas ?19')"
-p34
-atp35
-Rp36
+p28
+V2010
+p29
 sS'species'
-p37
+p30
 g3
-((lp38
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+((lp31
+tp32
+Rp33
 sb.

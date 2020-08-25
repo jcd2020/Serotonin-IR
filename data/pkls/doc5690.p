@@ -2,76 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(50, u'\\\\bquetiapine')"
+S'Method.ANTAGONIST'
 p5
-aS"(112, u'\\\\bquetiapine')"
-p6
-aS"(110, u'\\\\bclozapine')"
-p7
-aS"(17, u'\\\\bnan ?190')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
-tp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(30, u'\\\\bparkinsons')"
-p17
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
+p16
+I709
+I715
+tp17
 atp18
 Rp19
-sS'receptors'
+sS'raw_text_methods'
 p20
 g3
 ((lp21
-S'5ht1a'
+S"(32, u'\\\\blesions')"
 p22
-aS'5ht2a'
+aS"(9, u'\\\\britanserin')"
 p23
-atp24
-Rp25
+aS"(12, u'\\\\bantagonist')"
+p24
+atp25
+Rp26
 sS'regions'
-p26
+p27
 g3
-((lp27
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p28
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p29
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p30
-atp31
-Rp32
+((lp28
+tp29
+Rp30
 sS'year'
-p33
-V2012
-p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(64, u'\\\\bquetiapine')"
-p37
-aS"(23, u'\\\\bclozapine')"
-p38
-atp39
-Rp40
+p31
+V1999
+p32
 sS'species'
-p41
+p33
 g3
-((lp42
-tp43
-Rp44
+((lp34
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p35
+atp36
+Rp37
 sb.

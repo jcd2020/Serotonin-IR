@@ -2,72 +2,73 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\bmetergoline')"
+S'Method.AGONIST'
 p5
-aS"(17, u'\\\\bnan ?190')"
-p6
-aS"(33, u'\\\\byohimbine')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(2, u'\\\\bdisorder')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(11, u'\\\\bobsessive compulsive disorder')"
+p12
+aS"(27, u'\\\\bdyskinesia')"
+p13
+aS"(34, u'\\\\bparkinson')"
+p14
+aS"(23, u'\\\\bantipsychotic')"
 p15
-g3
-((lp16
-S"(7, u'\\\\bmemory')"
-p17
-aS"(4, u'\\\\blocomot')"
-p18
-atp19
-Rp20
+aS"(1, u'\\\\bpatient')"
+p16
+atp17
+Rp18
 sS'receptors'
+p19
+g3
+((lp20
+(S'5ht2c'
 p21
+I1238
+I1244
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp22
-S'5ht1a'
-p23
-atp24
-Rp25
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+aS"(33, u'\\\\bmcpp')"
+p28
+atp29
+Rp30
 sS'regions'
-p26
-g3
-((lp27
-tp28
-Rp29
-sS'year'
-p30
-V2009
 p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(149, u'\\\\bmem')"
-p34
-aS"(82, u'\\\\byohimbine')"
+((lp32
+tp33
+Rp34
+sS'year'
 p35
-atp36
-Rp37
+V2017
+p36
 sS'species'
-p38
+p37
 g3
-((lp39
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p40
-atp41
-Rp42
+((lp38
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p39
+atp40
+Rp41
 sb.

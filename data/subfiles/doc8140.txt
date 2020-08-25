@@ -1,0 +1,4 @@
+Nicholson, S. L. and J. M. Brotchie (2002). "5-hydroxytryptamine (5-HT, serotonin) and Parkinson's disease - opportunities for novel therapeutics to reduce the problems of levodopa therapy." European Journal of Neurology 9: 1-6.
+
+	While Parkinson's disease is undoubtedly a disorder with a primary pathology of dopamine neuronal loss, that loss of dopamine and subsequent dopamine replacement therapy leads to imbalances in many non-dopaminergic transmitter systems, including 5-hydroxytryptamine (5-HT). Recent advances in understanding the role of 5-HT in parkinsonism and the generation of side-effects of dopamine replacement therapy (e.g. wearing-off and levodopa-induced dyskinesia) have identified 5-HT1A, 5-Ht(1B) and 5-HT2C receptors as potential therapeutic targets in Parkinson's disease.
+

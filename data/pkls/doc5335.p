@@ -2,106 +2,89 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(119, u'\\\\britanserin')"
+S'Method.KNOCKOUT'
 p5
-aS"(14, u'\\\\bmethiothepin')"
-p6
-aS"(124, u'\\\\bondansetron')"
-p7
-aS"(34, u'\\\\bmetergoline')"
-p8
-aS"(58, u'\\\\bhaloperidol')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
-S'Method.ANTAGONIST'
-p14
-aS'Method.AGONIST'
-p15
-atp16
-Rp17
+atp6
+Rp7
 sS'topics'
-p18
+p8
 g3
-((lp19
-tp20
-Rp21
+((lp9
+S"(5, u'\\\\btherap')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(23, u'\\\\bantipsychotic')"
+p12
+atp13
+Rp14
 sS'receptors'
-p22
+p15
 g3
-((lp23
-S'5ht1c'
-p24
-aS'5ht1a'
+((lp16
+(S'5ht2a'
+p17
+I140
+I146
+tp18
+a(S'5ht2a'
+p19
+I984
+I990
+tp20
+a(S'5ht2a'
+p21
+I1096
+I1102
+tp22
+a(S'5ht2a'
+p23
+I1433
+I1439
+tp24
+a(S'5ht2a'
 p25
-aS'5ht3'
-p26
-aS'5ht2'
-p27
-aS'5ht1'
-p28
-aS'5ht1d'
+I1237
+I1243
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-aS'5ht2a'
-p30
-aS'5ht3a'
+g3
+((lp30
+S"(41, u'\\\\bhaloperidol')"
 p31
-atp32
-Rp33
+aS"(40, u'\\\\bclozapine')"
+p32
+atp33
+Rp34
 sS'regions'
-p34
+p35
 g3
-((lp35
-S"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p36
-atp37
-Rp38
+((lp36
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p37
+atp38
+Rp39
 sS'year'
-p39
-V1991
 p40
-sS'agonists'
+V2018
 p41
-g3
-((lp42
-S"(96, u'\\\\bsumatriptan')"
-p43
-aS"(186, u'\\\\b2 ?methyl ?5 ?ht')"
-p44
-aS"(175, u'\\\\bdoi')"
-p45
-aS"(67, u'\\\\bru ?24969')"
-p46
-aS"(43, u'\\\\bhaloperidol')"
-p47
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p48
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p49
-aS"(219, u'\\\\b5 ?ct')"
-p50
-atp51
-Rp52
 sS'species'
-p53
+p42
 g3
-((lp54
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p55
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p56
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p57
-atp58
-Rp59
+((lp43
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p44
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p45
+atp46
+Rp47
 sb.

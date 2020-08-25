@@ -2,64 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(19, u'\\\\bpsychosis')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
+aS"(2, u'\\\\bdisorder')"
+p13
+aS"(20, u'\\\\bmood')"
 p14
-atp15
-Rp16
-sS'receptors'
+aS"(23, u'\\\\bantipsychotic')"
+p15
+aS"(4, u'\\\\btreatment')"
+p16
+aS"(3, u'\\\\bclinical')"
 p17
-g3
-((lp18
-S'5ht1a'
-p19
-aS'5ht2d'
+atp18
+Rp19
+sS'receptors'
 p20
-aS'5ht2a'
-p21
-atp22
-Rp23
-sS'regions'
+g3
+((lp21
+(S'5ht2a'
+p22
+I2729
+I2735
+tp23
+a(S'5ht2a'
 p24
-g3
-((lp25
-tp26
+I1327
+I1333
+tp25
+atp26
 Rp27
-sS'year'
+sS'raw_text_methods'
 p28
-V2017
-p29
-sS'agonists'
+g3
+((lp29
+S"(32, u'\\\\blesions')"
 p30
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p31
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
+p35
 g3
-((lp31
-tp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p36
-atp37
+((lp36
+tp37
 Rp38
+sS'year'
+p39
+V2008
+p40
+sS'species'
+p41
+g3
+((lp42
+tp43
+Rp44
 sb.

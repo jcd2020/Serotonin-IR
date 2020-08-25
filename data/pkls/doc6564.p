@@ -2,82 +2,65 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(4, u'\\\\blocomot')"
-p14
-aS"(7, u'\\\\bmemory')"
-p15
-aS"(29, u'\\\\bsex')"
-p16
-aS"(35, u'\\\\bstress')"
-p17
-aS"(20, u'\\\\baggressi')"
-p18
-aS"(10, u'\\\\banxiety')"
-p19
-atp20
-Rp21
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+atp11
+Rp12
 sS'receptors'
-p22
+p13
 g3
-((lp23
-S'5ht1a'
-p24
-atp25
-Rp26
+((lp14
+(S'5ht5'
+p15
+I1697
+I1702
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+S"(12, u'\\\\bantagonist')"
+p21
+atp22
+Rp23
 sS'regions'
+p24
+g3
+((lp25
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p26
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p27
-g3
-((lp28
-tp29
-Rp30
+atp28
+Rp29
 sS'year'
-p31
+p30
 V2018
+p31
+sS'species'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(149, u'\\\\bmem')"
+((lp33
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p34
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p35
 atp36
 Rp37
-sS'species'
-p38
-g3
-((lp39
-S"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
-p40
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p41
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p42
-aS"(6580, u'(?i)\\\\b(dams|dam)\\\\b')"
-p43
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p44
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p45
-atp46
-Rp47
 sb.

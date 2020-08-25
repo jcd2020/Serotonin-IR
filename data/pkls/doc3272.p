@@ -2,82 +2,100 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
 p11
-g3
-((lp12
-S"(8, u'\\\\blearning')"
-p13
-aS"(9, u'\\\\bdepress')"
-p14
-aS"(7, u'\\\\bmemory')"
-p15
-atp16
-Rp17
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1b'
+p16
+I38
+I44
+tp17
+a(S'5ht5'
 p18
-g3
-((lp19
-S'5ht7'
+I259
+I269
+tp19
+a(S'5ht1b'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p25
-aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I950
+I956
+tp21
+a(S'5ht1b'
+p22
+I476
+I482
+tp23
+a(S'5ht1b'
+p24
+I1930
+I1936
+tp25
+a(S'5ht1b'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2007
+I1436
+I1442
+tp27
+a(S'5ht1b'
+p28
+I1023
+I1029
+tp29
+a(S'5ht1b'
 p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(149, u'\\\\bmem')"
-p33
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+I1220
+I1226
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
-atp35
-Rp36
-sS'species'
-p37
 g3
-((lp38
-S"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
-p39
-aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
+((lp35
+S"(13, u'\\\\bagonist')"
+p36
+aS"(12, u'\\\\bantagonist')"
+p37
+atp38
+Rp39
+sS'regions'
 p40
-aS"(2665, u'(?i)\\\\b(rays|ray)\\\\b')"
-p41
-aS"(5217, u'(?i)\\\\b(syrians|syrian)(-|\\\\s+)?(hamsters|hamster)\\\\b')"
-p42
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p43
-aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+g3
+((lp41
+tp42
+Rp43
+sS'year'
 p44
-aS"(1949, u'(?i)\\\\b(pacemakers|pacemaker)\\\\b')"
+V2003
 p45
-atp46
-Rp47
+sS'species'
+p46
+g3
+((lp47
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p48
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
 sb.

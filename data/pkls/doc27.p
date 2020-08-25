@@ -2,72 +2,100 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-tp15
-Rp16
+tp10
+Rp11
 sS'receptors'
-p17
+p12
 g3
-((lp18
-S'5ht2a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp13
+(S'5ht2a'
+p14
+I1671
+I1677
+tp15
+a(S'5ht2a'
+p16
+I1777
+I1783
+tp17
+a(S'5ht2a'
+p18
+I475
+I481
+tp19
+a(S'5ht2a'
+p20
+I107
+I113
+tp21
+a(S'5ht2a'
 p22
-g3
-((lp23
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+I1031
+I1037
+tp23
+a(S'5ht2a'
 p24
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p25
-atp26
-Rp27
-sS'year'
+I220
+I226
+tp25
+a(S'5ht2a'
+p26
+I759
+I765
+tp27
+a(S'5ht2a'
 p28
-V1997
-p29
-sS'agonists'
-p30
+I1099
+I1105
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
+p32
 g3
-((lp31
-tp32
-Rp33
-sS'species'
+((lp33
+S"(53, u'\\\\bketanserin')"
 p34
-g3
-((lp35
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+aS"(18, u'\\\\bimaging')"
+p35
+aS"(12, u'\\\\bantagonist')"
 p36
-aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
-p37
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p38
-aS"(4635, u'(?i)\\\\b(baboons|baboon)\\\\b')"
+atp37
+Rp38
+sS'regions'
 p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-atp41
-Rp42
+g3
+((lp40
+S"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V1997
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p48
+aS"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p49
+atp50
+Rp51
 sb.

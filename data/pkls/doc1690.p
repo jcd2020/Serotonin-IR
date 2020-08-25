@@ -2,102 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(54, u'\\\\bpizotifen')"
+S'Method.AGONIST'
 p5
-aS"(34, u'\\\\bmetergoline')"
-p6
-aS"(14, u'\\\\bmethiothepin')"
-p7
-aS"(117, u'\\\\bketanserin')"
-p8
-aS"(194, u'\\\\bmethysergide')"
-p9
-aS"(40, u'\\\\bergotamine')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
-S'Method.STIMULATION'
-p15
-aS'Method.ANTAGONIST'
-p16
-aS'Method.AGONIST'
-p17
-atp18
-Rp19
+atp6
+Rp7
 sS'topics'
-p20
+p8
 g3
-((lp21
-tp22
-Rp23
+((lp9
+S"(30, u'\\\\bpain')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
-p24
+p15
 g3
-((lp25
-S'5ht1b'
-p26
-aS'5ht3'
+((lp16
+(S'5ht1a'
+p17
+I205
+I210
+tp18
+a(S'5ht1a'
+p19
+I512
+I517
+tp20
+a(S'5ht1a'
+p21
+I423
+I428
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
+g3
+((lp26
+S"(13, u'\\\\bagonist')"
 p27
-aS'5ht1f'
+aS"(22, u'\\\\bbuspirone')"
 p28
-aS'5ht1'
-p29
-aS'5ht1d'
-p30
-aS'5ht2'
-p31
-atp32
-Rp33
+atp29
+Rp30
 sS'regions'
-p34
+p31
 g3
-((lp35
-S"(374, u'(?i)\\\\b(duras|dura)(-|\\\\s+)?(maters|mater)\\\\b')"
-p36
-atp37
-Rp38
+((lp32
+tp33
+Rp34
 sS'year'
-p39
-V1991
-p40
-sS'agonists'
-p41
-g3
-((lp42
-S"(96, u'\\\\bsumatriptan')"
-p43
-aS"(25, u'\\\\bdihydroergotamine')"
-p44
-aS"(33, u'\\\\bergotamine')"
-p45
-aS"(53, u'\\\\bmethysergide')"
-p46
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p47
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p48
-aS"(219, u'\\\\b5 ?ct')"
-p49
-atp50
-Rp51
+p35
+V2003
+p36
 sS'species'
-p52
+p37
 g3
-((lp53
-S"(2327, u'(?i)\\\\b(bovines|bovine)\\\\b')"
-p54
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p55
-atp56
-Rp57
+((lp38
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p39
+atp40
+Rp41
 sb.

@@ -2,74 +2,64 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+tp10
+Rp11
+sS'receptors'
 p12
 g3
 ((lp13
-S"(13, u'\\\\bpsychedel')"
+(S'5ht1b'
 p14
-atp15
-Rp16
-sS'receptors'
-p17
+I218
+I224
+tp15
+a(S'5ht1b'
+p16
+I1186
+I1192
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
+p20
 g3
-((lp18
-S'5ht2a'
-p19
-atp20
-Rp21
-sS'regions'
+((lp21
+S"(13, u'\\\\bagonist')"
 p22
-g3
-((lp23
-S"(293, u'(?i)\\\\b(posteriors|posterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
-p24
-aS"(174, u'(?i)\\\\b(posteriors|posterior)\\\\b')"
-p25
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(8, u'\\\\bru24969')"
+p23
+atp24
+Rp25
+sS'regions'
 p26
-atp27
-Rp28
-sS'year'
-p29
-V2013
-p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(62, u'\\\\bpsilocin')"
-p33
-aS"(63, u'\\\\bpsilocybin')"
+((lp27
+tp28
+Rp29
+sS'year'
+p30
+V1993
+p31
+sS'species'
+p32
+g3
+((lp33
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p34
 atp35
 Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
-p39
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p41
-atp42
-Rp43
 sb.

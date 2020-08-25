@@ -2,68 +2,114 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(203, u'\\\\btfmpp')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.AGONIST'
-p10
-atp11
-Rp12
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p13
+p9
 g3
-((lp14
-tp15
-Rp16
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht6'
 p17
-g3
-((lp18
-S'5ht1b'
+I196
+I206
+tp18
+a(S'5ht6'
 p19
-atp20
-Rp21
-sS'regions'
-p22
-g3
-((lp23
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p24
-aS"(158, u'(?i)\\\\b(suprachiasmatics|suprachiasmatic)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I143
+I148
+tp20
+a(S'5ht6'
+p21
+I1187
+I1192
+tp22
+a(S'5ht6'
+p23
+I1066
+I1071
+tp24
+a(S'5ht6'
 p25
-atp26
-Rp27
-sS'year'
-p28
-V1997
+I218
+I223
+tp26
+a(S'5ht6'
+p27
+I612
+I617
+tp28
+a(S'5ht6'
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(178, u'\\\\btfmpp')"
-p32
+I1804
+I1809
+tp30
+a(S'5ht6'
+p31
+I1579
+I1584
+tp32
 atp33
 Rp34
-sS'species'
+sS'raw_text_methods'
 p35
 g3
 ((lp36
-S"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
+S"(1, u'\\\\bneuroimag')"
 p37
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+aS"(17, u'\\\\bpet')"
 p38
-atp39
-Rp40
+aS"(54, u'\\\\bautoradiography')"
+p39
+aS"(19, u'\\\\bpositron emission tomography')"
+p40
+aS"(18, u'\\\\bimaging')"
+p41
+aS"(12, u'\\\\bantagonist')"
+p42
+atp43
+Rp44
+sS'regions'
+p45
+g3
+((lp46
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p47
+aS"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p48
+aS"(9, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+p49
+atp50
+Rp51
+sS'year'
+p52
+V2017
+p53
+sS'species'
+p54
+g3
+((lp55
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p56
+atp57
+Rp58
 sb.

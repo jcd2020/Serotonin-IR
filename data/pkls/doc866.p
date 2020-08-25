@@ -2,70 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.AGONIST'
-p9
-atp10
-Rp11
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-tp14
-Rp15
+((lp9
+S"(2, u'\\\\bdisorder')"
+p10
+atp11
+Rp12
 sS'receptors'
-p16
+p13
 g3
-((lp17
-S'5ht1a'
-p18
-aS'5ht1'
+((lp14
+(S'5ht1a'
+p15
+I577
+I583
+tp16
+a(S'5ht1a'
+p17
+I72
+I83
+tp18
+a(S'5ht1a'
 p19
-atp20
-Rp21
-sS'regions'
-p22
+I1583
+I1589
+tp20
+a(S'5ht1a'
+p21
+I388
+I394
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp23
-S"(91, u'(?i)\\\\b(periaqueductals|periaqueductal)(-|\\\\s+)?(grays|gray)\\\\b')"
-p24
-atp25
-Rp26
-sS'year'
+((lp26
+S"(1, u'\\\\bneuroimag')"
 p27
-V1992
+aS"(13, u'\\\\bagonist')"
 p28
-sS'agonists'
+aS"(22, u'\\\\bbuspirone')"
 p29
-g3
-((lp30
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p31
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+atp30
+Rp31
+sS'regions'
 p32
-aS"(219, u'\\\\b5 ?ct')"
-p33
-atp34
-Rp35
-sS'species'
-p36
 g3
-((lp37
-S"(4177, u'(?i)\\\\b(grays|gray)\\\\b')"
+((lp33
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p34
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
 p38
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+V2015
 p39
-atp40
-Rp41
+sS'species'
+p40
+g3
+((lp41
+tp42
+Rp43
 sb.

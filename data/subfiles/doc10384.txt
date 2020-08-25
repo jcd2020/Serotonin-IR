@@ -1,4 +1,0 @@
-Price, T. L., et al. (1998). "Serotonin plays a permissive role in conditioned olfactory learning induced by norepinephrine in the neonate rat." Behav Neurosci 112(6): 1430-1437.
-
-	This study examined the role of serotonin (5-hydroxytryptamine; 5-HT) in conditioned olfactory learning in the rat pup. By injecting various combinations of the 5-HT2A/2C receptor agonist, 1-(2,5-dimethoxy-4-iodophenyl)-2-aminopropane (DOI), and the beta adrenoceptor agonist, isoproterenol, we observed that isoproterenol alone acted as an unconditioned stimulus (US) to induce learning, as reported previously, whereas DOI alone did not induce learning. DOI combined with isoproterenol produced a leftward shift in the effective US dose such that suboptimal isoproterenol was effective, and previously optimal levels of isoproterenol were ineffective. Thus, 5-HT plays a facilitative but not an obligatory role in conditioned olfactory learning in the neonate rat.
-

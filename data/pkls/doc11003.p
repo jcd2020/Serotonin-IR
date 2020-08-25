@@ -2,66 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.IMMUNOHISTOCHEMISTRY'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(15, u'\\\\bmemory')"
 p12
-g3
-((lp13
-S"(35, u'\\\\bstress')"
-p14
-aS"(10, u'\\\\banxiety')"
-p15
-atp16
-Rp17
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp16
+(S'5ht1a'
+p17
+I33
+I44
+tp18
+a(S'5ht1'
+p19
+I322
+I326
+tp20
+a(S'5ht1a'
+p21
+I1184
+I1189
+tp22
+a(S'5ht1'
 p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
-p27
-V2014
-p28
-sS'agonists'
+I443
+I447
+tp24
+a(S'5ht1a'
+p25
+I2454
+I2459
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
 g3
 ((lp30
-S"(149, u'\\\\bmem')"
+S"(17, u'\\\\bpet')"
 p31
-atp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
+p32
+aS"(18, u'\\\\bimaging')"
+p33
+atp34
+Rp35
+sS'regions'
 p36
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p37
-atp38
+g3
+((lp37
+tp38
 Rp39
+sS'year'
+p40
+V2012
+p41
+sS'species'
+p42
+g3
+((lp43
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p44
+atp45
+Rp46
 sb.

@@ -2,94 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\bmetergoline')"
+S'Method.AGONIST'
 p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-aS"(22, u'\\\\bpropranolol')"
+atp6
+Rp7
+sS'topics'
 p8
-aS"(124, u'\\\\bondansetron')"
-p9
-aS"(28, u'\\\\bspiroxatrine')"
+g3
+((lp9
+S"(24, u'\\\\banxiolytic')"
 p10
-aS"(30, u'\\\\bway ?100135')"
+aS"(8, u'\\\\banxi')"
 p11
-aS"(194, u'\\\\bmethysergide')"
+aS"(26, u'\\\\bbehav')"
 p12
-aS"(119, u'\\\\britanserin')"
+aS"(4, u'\\\\btreatment')"
 p13
 atp14
 Rp15
-sS'methods'
+sS'receptors'
 p16
 g3
 ((lp17
-S'Method.ANTAGONIST'
+(S'5ht1a'
 p18
-aS'Method.AGONIST'
-p19
-atp20
-Rp21
-sS'topics'
-p22
-g3
-((lp23
-S"(4, u'\\\\blocomot')"
+I189
+I195
+tp19
+a(S'5ht1a'
+p20
+I50
+I56
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-atp25
-Rp26
-sS'receptors'
+g3
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+aS"(3, u'\\\\bimmunoreactiv')"
 p27
-g3
-((lp28
-S'5ht1b'
-p29
-aS'5ht1a'
-p30
-aS'5ht3'
-p31
-aS'5ht2c'
-p32
-aS'5ht2a'
-p33
-atp34
-Rp35
+atp28
+Rp29
 sS'regions'
-p36
+p30
 g3
-((lp37
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p38
-atp39
-Rp40
+((lp31
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p32
+atp33
+Rp34
 sS'year'
-p41
-V1993
-p42
-sS'agonists'
-p43
-g3
-((lp44
-S"(53, u'\\\\bmethysergide')"
-p45
-aS"(67, u'\\\\bru ?24969')"
-p46
-atp47
-Rp48
+p35
+V1997
+p36
 sS'species'
-p49
+p37
 g3
-((lp50
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p51
-atp52
-Rp53
+((lp38
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p39
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

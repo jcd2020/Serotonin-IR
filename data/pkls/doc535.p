@@ -2,84 +2,76 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(9, u'\\\\bgr ?46611')"
-p5
-aS"(117, u'\\\\bketanserin')"
-p6
-aS"(119, u'\\\\britanserin')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
-atp13
-Rp14
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p15
+p9
 g3
-((lp16
-tp17
-Rp18
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1b'
-p21
-aS'5ht1d'
+((lp15
+(S'5ht2c'
+p16
+I1440
+I1445
+tp17
+a(S'5ht2c'
+p18
+I1241
+I1246
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
 p22
-atp23
-Rp24
-sS'regions'
+g3
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+aS"(11, u'\\\\bfluoxetine')"
 p25
-g3
-((lp26
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
+aS"(33, u'\\\\bmcpp')"
+p26
+aS"(12, u'\\\\bantagonist')"
 p27
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
-p31
-V1997
+atp28
+Rp29
+sS'regions'
+p30
+g3
+((lp31
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p32
-sS'agonists'
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
 p33
-g3
-((lp34
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p35
-aS"(96, u'\\\\bsumatriptan')"
+atp34
+Rp35
+sS'year'
 p36
-aS"(149, u'\\\\bmem')"
+V2003
 p37
-aS"(112, u'\\\\bgr ?46611')"
-p38
-aS"(114, u'\\\\bl ?694247')"
-p39
-atp40
-Rp41
 sS'species'
-p42
+p38
 g3
-((lp43
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p44
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p45
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p46
-atp47
-Rp48
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

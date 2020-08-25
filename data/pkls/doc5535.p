@@ -2,41 +2,42 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.ANTAGONIST'
-p9
+S'Method.STIMULATION'
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+tp11
+Rp12
+sS'receptors'
 p13
 g3
 ((lp14
-S"(15, u'\\\\bschizophreni')"
+(S'5ht1a'
 p15
-aS"(6, u'\\\\bcognit')"
-p16
-aS"(7, u'\\\\bmemory')"
-p17
-atp18
-Rp19
-sS'receptors'
-p20
+I760
+I766
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
 g3
-((lp21
-S'5ht1a'
+((lp20
+S"(13, u'\\\\bagonist')"
+p21
+aS"(4, u'\\\\bpcpa')"
 p22
 atp23
 Rp24
@@ -48,30 +49,14 @@ tp27
 Rp28
 sS'year'
 p29
-V2013
+V1993
 p30
-sS'agonists'
+sS'species'
 p31
 g3
 ((lp32
-S"(149, u'\\\\bmem')"
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p33
-aS"(73, u'\\\\btandospirone')"
-p34
-atp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
-p39
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p40
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p42
-atp43
-Rp44
+atp34
+Rp35
 sb.

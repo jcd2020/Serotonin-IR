@@ -2,100 +2,97 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.STAINING'
+p5
+atp6
+Rp7
 sS'topics'
-p11
+p8
 g3
-((lp12
-tp13
-Rp14
+((lp9
+tp10
+Rp11
 sS'receptors'
-p15
+p12
 g3
-((lp16
-S'5ht1b'
-p17
-aS'5ht1a'
+((lp13
+(S'5ht1b'
+p14
+I441
+I447
+tp15
+a(S'5ht1b'
+p16
+I1559
+I1565
+tp17
+a(S'5ht1b'
 p18
-aS'5ht1e'
-p19
-aS'5ht1f'
+I300
+I306
+tp19
+a(S'5ht1b'
 p20
-aS'5ht1'
-p21
-aS'5ht1d'
+I1660
+I1666
+tp21
+a(S'5ht1b'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p27
-aS"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+I1332
+I1338
+tp23
+a(S'5ht1b'
+p24
+I1256
+I1262
+tp25
+a(S'5ht1b'
+p26
+I1043
+I1049
+tp27
+a(S'5ht1b'
 p28
-aS"(218, u'(?i)\\\\b(claustrums|claustrum)\\\\b')"
-p29
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I733
+I739
+tp29
+a(S'5ht1b'
 p30
-atp31
-Rp32
-sS'year'
-p33
-V1994
+I100
+I106
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
-sS'agonists'
-p35
 g3
-((lp36
-S"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p37
-aS"(219, u'\\\\b5 ?ct')"
+((lp35
+tp36
+Rp37
+sS'regions'
 p38
-atp39
-Rp40
-sS'species'
-p41
 g3
-((lp42
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+((lp39
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
 p43
-aS"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
+V2013
 p44
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+sS'species'
 p45
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p46
-aS"(2401, u'(?i)\\\\b(primates|primate)\\\\b')"
+g3
+((lp46
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p47
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p48
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
-p49
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p50
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p51
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p52
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p53
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p54
-atp55
-Rp56
+atp48
+Rp49
 sb.

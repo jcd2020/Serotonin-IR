@@ -2,74 +2,86 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.PET'
-p9
-atp10
-Rp11
+p5
+aS'Method.ANTAGONIST'
+p6
+aS'Method.AGONIST'
+p7
+atp8
+Rp9
 sS'topics'
-p12
+p10
 g3
-((lp13
-S"(35, u'\\\\bstress')"
-p14
-atp15
-Rp16
+((lp11
+tp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht4'
-p19
-atp20
-Rp21
-sS'regions'
+((lp15
+(S'5ht1'
+p16
+I917
+I922
+tp17
+a(S'5ht1'
+p18
+I94
+I99
+tp19
+a(S'5ht1'
+p20
+I486
+I491
+tp21
+a(S'5ht1'
 p22
-g3
-((lp23
-S"(292, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
-p24
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p25
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I220
+I225
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
 p26
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V2016
-p31
-sS'agonists'
-p32
 g3
-((lp33
-tp34
+((lp27
+S"(17, u'\\\\bpet')"
+p28
+aS"(13, u'\\\\bagonist')"
+p29
+aS"(54, u'\\\\bautoradiography')"
+p30
+aS"(51, u'\\\\bway100635')"
+p31
+aS"(19, u'\\\\bpositron emission tomography')"
+p32
+aS"(12, u'\\\\bantagonist')"
+p33
+atp34
 Rp35
-sS'species'
+sS'regions'
 p36
 g3
 ((lp37
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+tp38
+Rp39
+sS'year'
 p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+V2013
 p41
-atp42
-Rp43
+sS'species'
+p42
+g3
+((lp43
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
+p44
+atp45
+Rp46
 sb.

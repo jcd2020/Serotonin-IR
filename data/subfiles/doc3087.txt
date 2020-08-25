@@ -1,0 +1,4 @@
+Evrard, D. A., et al. (2005). "Studies towards the next generation of antidepressants. Part 4: Derivatives of 4-(5-fluoro-1H-indol-3-yl)cyclohexylamine with affinity for the serotonin transporter and the 5-HT1A receptor." Bioorganic & Medicinal Chemistry Letters 15(4): 911-914.
+
+	Derivatives of the serotonin reuptake inhibitor 4-(5-fluoro-1H-indol-3-yl)cyclohexylamine, in which serotonin 1A (5-HT1A) receptor pharmacophoric elements are incorporated, are reported. Analogs exhibiting affinity for both the serotonin transporter and the 5-HT1A receptor are described. Compounds containing 1-(4-indolyl)piperazine and 2-(1H-indol-4-yloxy)ethylamine are promising leads for further SAR studies. (C) 2005 Elsevier Ltd. All rights reserved.
+

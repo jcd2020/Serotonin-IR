@@ -1,0 +1,74 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+tp9
+Rp10
+sS'receptors'
+p11
+g3
+((lp12
+(S'5ht3'
+p13
+I1755
+I1760
+tp14
+a(S'5ht1'
+p15
+I736
+I741
+tp16
+a(S'5ht2'
+p17
+I1663
+I1668
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(53, u'\\\\bketanserin')"
+p23
+aS"(20, u'\\\\bondansetron')"
+p24
+aS"(30, u'\\\\b2methyl')"
+p25
+atp26
+Rp27
+sS'regions'
+p28
+g3
+((lp29
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p30
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p31
+atp32
+Rp33
+sS'year'
+p34
+V2011
+p35
+sS'species'
+p36
+g3
+((lp37
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p38
+atp39
+Rp40
+sb.

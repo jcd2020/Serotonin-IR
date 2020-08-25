@@ -2,64 +2,101 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(203, u'\\\\btfmpp')"
+S'Method.PET'
 p5
-aS"(91, u'\\\\bfluoxetine')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.AGONIST'
-p11
-atp12
-Rp13
+atp6
+Rp7
 sS'topics'
-p14
+p8
 g3
-((lp15
-tp16
-Rp17
+((lp9
+S"(12, u'\\\\bsleep')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht2c'
-p20
-atp21
-Rp22
-sS'regions'
+((lp16
+(S'5ht7'
+p17
+I392
+I397
+tp18
+a(S'5ht7'
+p19
+I719
+I724
+tp20
+a(S'5ht7'
+p21
+I1833
+I1838
+tp22
+a(S'5ht7'
 p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
+I197
+I202
+tp24
+a(S'5ht7'
+p25
+I437
+I442
+tp26
+a(S'5ht7'
 p27
-V2000
-p28
-sS'agonists'
+I821
+I826
+tp28
+a(S'5ht7'
 p29
+I1952
+I1957
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
+p33
 g3
-((lp30
-S"(178, u'\\\\btfmpp')"
-p31
-atp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp34
+S"(17, u'\\\\bpet')"
+p35
+aS"(19, u'\\\\bpositron emission tomography')"
 p36
-atp37
-Rp38
+aS"(18, u'\\\\bimaging')"
+p37
+atp38
+Rp39
+sS'regions'
+p40
+g3
+((lp41
+tp42
+Rp43
+sS'year'
+p44
+V2015
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p48
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p49
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p50
+atp51
+Rp52
 sb.

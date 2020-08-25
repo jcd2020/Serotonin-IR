@@ -2,72 +2,95 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(175, u'\\\\bsb ?271046')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(15, u'\\\\bschizophreni')"
-p15
-atp16
-Rp17
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht1a'
+p14
+I1479
+I1485
+tp15
+a(S'5ht1a'
+p16
+I1386
+I1392
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht6'
+I90
+I96
+tp19
+a(S'5ht1a'
 p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p25
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+I888
+I894
+tp21
+a(S'5ht1a'
+p22
+I324
+I330
+tp23
+a(S'5ht1a'
+p24
+I1735
+I1741
+tp25
+a(S'5ht1a'
 p26
-aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
-p27
+I775
+I781
+tp27
 atp28
 Rp29
-sS'year'
+sS'raw_text_methods'
 p30
-V2004
-p31
-sS'agonists'
+g3
+((lp31
+S"(13, u'\\\\bagonist')"
 p32
+aS"(15, u'\\\\b8ohdpat')"
+p33
+aS"(54, u'\\\\bautoradiography')"
+p34
+atp35
+Rp36
+sS'regions'
+p37
 g3
-((lp33
-tp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p38
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+((lp38
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
 p40
 atp41
 Rp42
+sS'year'
+p43
+V1998
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p47
+atp48
+Rp49
 sb.

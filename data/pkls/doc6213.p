@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,60 +10,63 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p9
-aS'Method.AGONIST'
+aS"(20, u'\\\\bmood')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(33, u'\\\\balzheimers')"
-p15
-aS"(6, u'\\\\bcognit')"
-p16
-aS"(7, u'\\\\bmemory')"
-p17
-atp18
-Rp19
+aS"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
+p16
+I704
+I710
+tp17
+a(S'5ht1a'
+p18
+I681
+I687
+tp19
+a(S'5ht2a'
 p20
+I1080
+I1086
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp21
-S'5ht1a'
-p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-tp27
+((lp25
+S"(18, u'\\\\bimaging')"
+p26
+atp27
 Rp28
-sS'year'
+sS'regions'
 p29
-V2014
-p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(149, u'\\\\bmem')"
-p33
-atp34
-Rp35
+((lp30
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p31
+atp32
+Rp33
+sS'year'
+p34
+V2008
+p35
 sS'species'
 p36
 g3
 ((lp37
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p38
-atp39
-Rp40
+tp38
+Rp39
 sb.

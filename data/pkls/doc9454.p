@@ -1,0 +1,99 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.STAINING'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(9, u'\\\\bstress')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I1721
+I1727
+tp18
+a(S'5ht1a'
+p19
+I259
+I265
+tp20
+a(S'5ht1a'
+p21
+I384
+I390
+tp22
+a(S'5ht1a'
+p23
+I27
+I33
+tp24
+a(S'5ht1a'
+p25
+I1398
+I1404
+tp26
+a(S'5ht1a'
+p27
+I1542
+I1548
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
+g3
+((lp32
+S"(13, u'\\\\bagonist')"
+p33
+aS"(15, u'\\\\b8ohdpat')"
+p34
+aS"(3, u'\\\\bimmunoreactiv')"
+p35
+aS"(51, u'\\\\bway100635')"
+p36
+atp37
+Rp38
+sS'regions'
+p39
+g3
+((lp40
+S"(14, u'(?i)\\\\b(caudals|caudal)\\\\b')"
+p41
+atp42
+Rp43
+sS'year'
+p44
+V2006
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p48
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p49
+atp50
+Rp51
+sb.

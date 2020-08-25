@@ -1,0 +1,4 @@
+Caldirola, P., et al. (1999). "Novel derivatives of 3-(dipropylamino)chroman. Interactions with 5-HT1A and D2A receptors." Bioorg Med Chem Lett 9(11): 1583-1586.
+
+	Novel 8-aryl and 8-aroyl substituted derivatives of 3-(dipropylamino)chroman are described. The compounds have been prepared by a palladium catalyzed reaction of iodoarenes and a stannylated derivative of [eta6-3-(dipropylamino)chroman]Cr(CO)3. Several of the compounds have high affinity for 5-HT1A receptors whereas the affinity for D2A receptors is lower, the 8-arylated derivatives being slightly more potent than the 8-aroylated analogues.
+

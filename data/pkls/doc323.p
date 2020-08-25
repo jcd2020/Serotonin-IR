@@ -1,0 +1,86 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(24, u'\\\\banxiolytic')"
+p9
+aS"(26, u'\\\\bbehav')"
+p10
+aS"(9, u'\\\\bstress')"
+p11
+aS"(30, u'\\\\bpain')"
+p12
+aS"(8, u'\\\\banxi')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+atp15
+Rp16
+sS'receptors'
+p17
+g3
+((lp18
+(S'5ht2a'
+p19
+I1878
+I1884
+tp20
+a(S'5ht4'
+p21
+I1897
+I1902
+tp22
+a(S'5ht1d'
+p23
+I1870
+I1876
+tp24
+a(S'5ht2c'
+p25
+I1886
+I1892
+tp26
+a(S'5ht1a'
+p27
+I1862
+I1868
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
+g3
+((lp32
+tp33
+Rp34
+sS'regions'
+p35
+g3
+((lp36
+tp37
+Rp38
+sS'year'
+p39
+V2005
+p40
+sS'species'
+p41
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
+sb.

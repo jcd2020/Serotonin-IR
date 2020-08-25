@@ -2,80 +2,57 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(6, u'\\\\bcyproheptadine')"
+S'Method.PET'
 p5
-aS"(33, u'\\\\byohimbine')"
-p6
-aS"(53, u'\\\\bcyproheptadine')"
-p7
-aS"(31, u'\\\\bway ?100635')"
+atp6
+Rp7
+sS'topics'
 p8
-aS"(22, u'\\\\bpropranolol')"
-p9
-atp10
+g3
+((lp9
+tp10
 Rp11
-sS'methods'
+sS'receptors'
 p12
 g3
 ((lp13
-S'Method.ANTAGONIST'
+(S'5ht2a'
 p14
-atp15
-Rp16
-sS'topics'
-p17
+I959
+I965
+tp15
+atp16
+Rp17
+sS'raw_text_methods'
+p18
 g3
-((lp18
-S"(4, u'\\\\blocomot')"
-p19
-atp20
-Rp21
-sS'receptors'
-p22
-g3
-((lp23
-S'5ht1a'
-p24
-aS'5ht2'
-p25
-atp26
-Rp27
+((lp19
+S"(17, u'\\\\bpet')"
+p20
+aS"(19, u'\\\\bpositron emission tomography')"
+p21
+atp22
+Rp23
 sS'regions'
-p28
+p24
 g3
-((lp29
-tp30
-Rp31
+((lp25
+tp26
+Rp27
 sS'year'
-p32
-V2012
-p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(210, u'\\\\bsulpiride')"
-p36
-aS"(189, u'\\\\bethanol')"
-p37
-aS"(82, u'\\\\byohimbine')"
-p38
-atp39
-Rp40
+p28
+V2004
+p29
 sS'species'
-p41
+p30
 g3
-((lp42
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p43
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p44
-atp45
-Rp46
+((lp31
+tp32
+Rp33
 sb.

@@ -2,84 +2,99 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(6, u'\\\\baggressi')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(25, u'\\\\bsocial')"
 p13
-g3
-((lp14
-tp15
-Rp16
+aS"(23, u'\\\\bantipsychotic')"
+p14
+aS"(3, u'\\\\bclinical')"
+p15
+atp16
+Rp17
 sS'receptors'
-p17
+p18
 g3
-((lp18
-S'5ht1c'
-p19
-aS'5ht1b'
+((lp19
+(S'5ht7'
 p20
-aS'5ht1a'
-p21
-aS'5ht2b'
+I511
+I516
+tp21
+a(S'5ht7'
 p22
-aS'5ht2'
-p23
-aS'5ht2c'
+I241
+I246
+tp23
+a(S'5ht7'
 p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
+I77
+I82
+tp25
+a(S'5ht7'
+p26
+I1216
+I1221
+tp27
+a(S'5ht7'
+p28
+I838
+I843
 tp29
-Rp30
-sS'year'
-p31
-V1986
+atp30
+Rp31
+sS'raw_text_methods'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(220, u'\\\\b5 ?methoxytryptamine')"
+((lp33
+S"(13, u'\\\\bagonist')"
+p34
+aS"(40, u'\\\\bclozapine')"
 p35
-aS"(149, u'\\\\bmem')"
+aS"(54, u'\\\\bautoradiography')"
 p36
-aS"(67, u'\\\\bru ?24969')"
+aS"(12, u'\\\\bantagonist')"
 p37
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p38
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p39
-aS"(219, u'\\\\b5 ?ct')"
+atp38
+Rp39
+sS'regions'
 p40
-atp41
-Rp42
-sS'species'
-p43
 g3
-((lp44
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+((lp41
+tp42
+Rp43
+sS'year'
+p44
+V2004
 p45
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+sS'species'
 p46
-atp47
-Rp48
+g3
+((lp47
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p48
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p49
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p50
+atp51
+Rp52
 sb.

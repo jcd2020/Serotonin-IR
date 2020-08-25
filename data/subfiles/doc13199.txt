@@ -1,4 +1,0 @@
-Voigt, J. P., et al. (1995). "EVIDENCE FOR THE INVOLVEMENT OF THE 5-HT1A RECEPTOR IN CCK INDUCED SATIETY IN RATS." Naunyn-Schmiedebergs Archives of Pharmacology 351(3): 217-220.
-
-	The present study was designed to examine possible interactions between exogenous CCK and the 5-HT1A receptor subtype mediated serotonergic effects on feeding in rats. The somatodendritic 5-HT receptor agonist 8-OH-DPAT (0.32 mg/kg sc) evoked feeding in freely feeding rats. This effect was attenuated by treatment with CCK-8 (1, 5 and 25 mu g/kg ip). In food deprived rats, CCK-8 (40 mu g/kg ip) significantly reduced the size of a test meal. Treatment with the 5-HT1A receptor antagonist WAY-100135 (10 mg/kg ip) antagonized this anorectic effect of CCK-8. WAY-100135 on its own did not affect food intake. These results suggest the involvement of the 5-HT1A receptor subtype in mediating 5-HT-CCK interactions in the control of food intake in rats.
-

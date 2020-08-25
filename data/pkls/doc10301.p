@@ -2,82 +2,109 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(150, u'\\\\bsb ?204070')"
+S'Method.ANTAGONIST'
 p5
-aS"(146, u'\\\\bgr ?125487')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p11
-aS'Method.AGONIST'
+aS"(4, u'\\\\btreatment')"
 p12
 atp13
 Rp14
-sS'topics'
+sS'receptors'
 p15
 g3
 ((lp16
-tp17
-Rp18
-sS'receptors'
+(S'5ht7'
+p17
+I491
+I496
+tp18
+a(S'5ht1a'
 p19
-g3
-((lp20
-S'5ht4a'
+I705
+I711
+tp20
+a(S'5ht1a'
 p21
-aS'5ht4'
-p22
-atp23
-Rp24
-sS'regions'
+I327
+I333
+tp22
+a(S'5ht1a'
+p23
+I464
+I470
+tp24
+a(S'5ht7'
 p25
-g3
-((lp26
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I259
+I264
+tp26
+a(S'5ht1a'
 p27
-aS"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
-p28
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+I1076
+I1082
+tp28
+a(S'5ht1a'
 p29
-aS"(104, u'(?i)\\\\b(par|pars)(-|\\\\s+)?(compactas|compacta)\\\\b')"
-p30
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+I1392
+I1398
+tp30
+a(S'5ht7'
 p31
-atp32
-Rp33
-sS'year'
-p34
-V2002
-p35
-sS'agonists'
-p36
+I1006
+I1011
+tp32
+a(S'5ht7'
+p33
+I1272
+I1277
+tp34
+atp35
+Rp36
+sS'raw_text_methods'
+p37
 g3
-((lp37
-S"(11, u'\\\\bamphetamine')"
-p38
-aS"(202, u'\\\\bprucalopride')"
+((lp38
+S"(13, u'\\\\bagonist')"
 p39
-atp40
-Rp41
-sS'species'
-p42
-g3
-((lp43
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+aS"(34, u'\\\\b5ct')"
+p40
+aS"(12, u'\\\\bantagonist')"
+p41
+atp42
+Rp43
+sS'regions'
 p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-atp46
+g3
+((lp45
+tp46
 Rp47
+sS'year'
+p48
+V2007
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p52
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p53
+atp54
+Rp55
 sb.

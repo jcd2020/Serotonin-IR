@@ -1,4 +1,0 @@
-Trani, G., et al. (2008). "Tricyclic azepine derivatives as selective brain penetrant 5-HT6 receptor antagonists." Bioorg Med Chem Lett 18(20): 5698-5700.
-
-	Starting from a benzazepine sulfonamide 5-HT(6) receptor antagonist lead with limited brain penetration, application of a strategy of conformational constraint and reduction of hydrogen bond donor count led to a novel series of tricyclic derivatives with high 5-HT(6) receptor affinity and excellent brain:blood ratios.
-

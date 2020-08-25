@@ -2,80 +2,70 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(144, u'\\\\bgr ?113808')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-tp10
-Rp11
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-S"(7, u'\\\\bmemory')"
-p14
-atp15
-Rp16
+((lp10
+S"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p17
+p14
 g3
-((lp18
-S'5ht4'
-p19
+((lp15
+(S'5ht2a'
+p16
+I353
+I364
+tp17
+a(S'5ht2a'
+p18
+I2118
+I2129
+tp19
 atp20
 Rp21
-sS'regions'
+sS'raw_text_methods'
 p22
 g3
 ((lp23
-S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
+S"(13, u'\\\\bagonist')"
 p24
-aS"(187, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p25
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
-p26
-aS"(175, u'(?i)\\\\b(mammillaries|mammillary)(-|\\\\s+)?(nuclei|nucleus)(-|\\\\s+)?(|)\\\\b')"
-p27
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+atp26
+Rp27
+sS'regions'
 p28
-atp29
-Rp30
+g3
+((lp29
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p30
+atp31
+Rp32
 sS'year'
-p31
-V2005
-p32
-sS'agonists'
 p33
-g3
-((lp34
-S"(176, u'\\\\bdom')"
-p35
-aS"(149, u'\\\\bmem')"
-p36
-atp37
-Rp38
+V2006
+p34
 sS'species'
-p39
+p35
 g3
-((lp40
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p41
-aS"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p42
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p43
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

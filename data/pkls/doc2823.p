@@ -2,88 +2,107 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\bzacopride')"
-p5
-aS"(14, u'\\\\bmethiothepin')"
-p6
-aS"(146, u'\\\\bgr ?125487')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
+p5
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p6
+atp7
+Rp8
 sS'topics'
-p16
+p9
 g3
-((lp17
-tp18
-Rp19
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht3'
+p16
+I31
+I36
+tp17
+a(S'5ht3'
+p18
+I614
+I619
+tp19
+a(S'5ht3'
 p20
-g3
-((lp21
-S'5ht4'
+I1963
+I1968
+tp21
+a(S'5ht3'
 p22
-aS'5ht3'
-p23
-aS'5ht2'
+I469
+I474
+tp23
+a(S'5ht3'
 p24
-aS'5ht1'
-p25
-aS'5ht6a'
+I1491
+I1496
+tp25
+a(S'5ht3'
 p26
-aS'5ht4a'
-p27
-atp28
-Rp29
-sS'regions'
+I1125
+I1130
+tp27
+a(S'5ht3'
+p28
+I405
+I410
+tp29
+a(S'5ht3'
 p30
-g3
-((lp31
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I955
+I960
+tp31
+a(S'5ht3'
 p32
-atp33
-Rp34
-sS'year'
-p35
-V1997
+I288
+I293
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
 p36
-sS'agonists'
-p37
 g3
-((lp38
-S"(220, u'\\\\b5 ?methoxytryptamine')"
+((lp37
+S"(13, u'\\\\bagonist')"
+p38
+aS"(30, u'\\\\b2methyl')"
 p39
-aS"(197, u'\\\\bbimu ?8')"
+aS"(28, u'\\\\bzacopride')"
 p40
-aS"(208, u'\\\\bzacopride')"
+aS"(12, u'\\\\bantagonist')"
 p41
-aS"(222, u'\\\\b5 ?meot')"
-p42
-atp43
-Rp44
-sS'species'
-p45
+atp42
+Rp43
+sS'regions'
+p44
 g3
-((lp46
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p47
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp45
+tp46
+Rp47
+sS'year'
 p48
-atp49
-Rp50
+V2000
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

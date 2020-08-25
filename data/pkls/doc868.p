@@ -2,82 +2,63 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p11
+p9
 g3
-((lp12
-S"(3, u'\\\\bsleep')"
-p13
-aS"(1, u'\\\\bmood')"
-p14
-atp15
-Rp16
+((lp10
+tp11
+Rp12
 sS'receptors'
-p17
+p13
 g3
-((lp18
-S'5ht7'
+((lp14
+(S'5ht1a'
+p15
+I998
+I1004
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
 p19
-aS'5ht1a'
-p20
-aS'5ht7d'
+g3
+((lp20
+S"(13, u'\\\\bagonist')"
 p21
-aS'5ht2'
+aS"(15, u'\\\\b8ohdpat')"
 p22
-atp23
-Rp24
+aS"(12, u'\\\\bantagonist')"
+p23
+atp24
+Rp25
 sS'regions'
-p25
+p26
 g3
-((lp26
-tp27
-Rp28
+((lp27
+tp28
+Rp29
 sS'year'
-p29
-V2011
 p30
-sS'agonists'
+V1999
 p31
-g3
-((lp32
-tp33
-Rp34
 sS'species'
-p35
+p32
 g3
-((lp36
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
-p37
-aS"(3381, u'(?i)\\\\b(flies|fly)\\\\b')"
-p38
-aS"(3672, u'(?i)\\\\b(drosophilas|drosophila)(-|\\\\s+)?(melanogasters|melanogaster)\\\\b')"
-p39
-aS"(3671, u'(?i)\\\\b(drosophilas|drosophila)\\\\b')"
-p40
-aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
-p41
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
-p42
-aS"(4533, u'(?i)\\\\b(fruits|fruit)(-|\\\\s+)?(flies|fly)\\\\b')"
-p43
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p44
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p45
-atp46
-Rp47
+((lp33
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
 sb.

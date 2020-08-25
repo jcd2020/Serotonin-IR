@@ -2,68 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.KNOCKOUT'
-p9
-aS'Method.STAINING'
-p10
-atp11
-Rp12
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(13, u'\\\\bantidepress')"
+p12
+aS"(4, u'\\\\btreatment')"
 p13
-g3
-((lp14
-tp15
-Rp16
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht3'
-p19
-atp20
-Rp21
-sS'regions'
+((lp17
+(S'5ht1'
+p18
+I1642
+I1647
+tp19
+a(S'5ht1a'
+p20
+I532
+I538
+tp21
+a(S'5ht1a'
 p22
-g3
-((lp23
-tp24
+I234
+I240
+tp23
+atp24
 Rp25
-sS'year'
+sS'raw_text_methods'
 p26
-V1999
-p27
-sS'agonists'
+g3
+((lp27
+S"(13, u'\\\\bagonist')"
 p28
+aS"(15, u'\\\\b8ohdpat')"
+p29
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp29
-S"(176, u'\\\\bdom')"
-p30
-aS"(149, u'\\\\bmem')"
-p31
-atp32
-Rp33
-sS'species'
+((lp33
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p34
-g3
-((lp35
-S"(5150, u'(?i)\\\\b(gerbils|gerbil)\\\\b')"
-p36
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+atp35
+Rp36
+sS'year'
 p37
-aS"(7127, u'(?i)\\\\b(monitors|monitor)\\\\b')"
+V1992
 p38
-atp39
-Rp40
+sS'species'
+p39
+g3
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

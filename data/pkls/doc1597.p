@@ -1,0 +1,62 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(5, u'\\\\btherap')"
+p9
+aS"(4, u'\\\\btreatment')"
+p10
+atp11
+Rp12
+sS'receptors'
+p13
+g3
+((lp14
+(S'5ht2b'
+p15
+I1767
+I1773
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+tp21
+Rp22
+sS'regions'
+p23
+g3
+((lp24
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p25
+atp26
+Rp27
+sS'year'
+p28
+V2007
+p29
+sS'species'
+p30
+g3
+((lp31
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p32
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p33
+atp34
+Rp35
+sb.

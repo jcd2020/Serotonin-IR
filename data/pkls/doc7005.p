@@ -2,72 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(22, u'\\\\bschizophreni')"
+p10
+aS"(33, u'\\\\blocomot')"
+p11
+aS"(3, u'\\\\bclinical')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
-p14
-atp15
-Rp16
+atp13
+Rp14
 sS'receptors'
-p17
+p15
 g3
-((lp18
-S'5ht5'
+((lp16
+(S'5ht2a'
+p17
+I1836
+I1842
+tp18
+a(S'5ht2a'
 p19
-aS'5ht1a'
-p20
-aS'5ht3'
+I542
+I548
+tp20
+a(S'5ht2a'
 p21
-aS'5ht2'
-p22
+I2187
+I2193
+tp22
 atp23
 Rp24
-sS'regions'
+sS'raw_text_methods'
 p25
 g3
 ((lp26
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+S"(50, u'\\\\bm100907')"
 p27
-atp28
-Rp29
-sS'year'
+aS"(23, u'\\\\bmdl')"
+p28
+aS"(5, u'\\\\bmk801')"
+p29
+aS"(12, u'\\\\bantagonist')"
 p30
-V2004
-p31
-sS'agonists'
-p32
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp33
-S"(149, u'\\\\bmem')"
-p34
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
-sS'species'
+((lp34
+tp35
+Rp36
+sS'year'
+p37
+V1997
 p38
+sS'species'
+p39
 g3
-((lp39
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p40
-atp41
+((lp40
+tp41
 Rp42
 sb.

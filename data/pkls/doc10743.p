@@ -1,0 +1,81 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+tp5
+Rp6
+sS'topics'
+p7
+g3
+((lp8
+S"(20, u'\\\\bmood')"
+p9
+atp10
+Rp11
+sS'receptors'
+p12
+g3
+((lp13
+(S'5ht2a'
+p14
+I702
+I708
+tp15
+a(S'5ht2a'
+p16
+I406
+I412
+tp17
+a(S'5ht2a'
+p18
+I1085
+I1091
+tp19
+a(S'5ht2a'
+p20
+I913
+I919
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
+g3
+((lp25
+S"(54, u'\\\\bautoradiography')"
+p26
+atp27
+Rp28
+sS'regions'
+p29
+g3
+((lp30
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p31
+aS"(23, u'(?i)\\\\b(forebrains|forebrain)\\\\b')"
+p32
+atp33
+Rp34
+sS'year'
+p35
+V1997
+p36
+sS'species'
+p37
+g3
+((lp38
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p39
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p40
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
+sb.

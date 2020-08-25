@@ -2,96 +2,142 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(110, u'\\\\bclozapine')"
+S'Method.ANTAGONIST'
 p5
-aS"(114, u'\\\\bziprasidone')"
+aS'Method.AGONIST'
 p6
-aS"(113, u'\\\\brisperidone')"
-p7
-aS"(111, u'\\\\bolanzapine')"
-p8
-aS"(201, u'\\\\bsertindole')"
+atp7
+Rp8
+sS'topics'
 p9
-aS"(205, u'\\\\bzotepine')"
-p10
-aS"(58, u'\\\\bhaloperidol')"
+g3
+((lp10
+S"(1, u'\\\\bpatient')"
 p11
-aS"(180, u'\\\\bsertindole')"
+aS"(4, u'\\\\btreatment')"
 p12
 atp13
 Rp14
-sS'methods'
+sS'receptors'
 p15
 g3
 ((lp16
-S'Method.ANTAGONIST'
+(S'5ht2a'
 p17
-atp18
-Rp19
-sS'topics'
-p20
-g3
-((lp21
-S"(15, u'\\\\bschizophreni')"
-p22
-atp23
-Rp24
-sS'receptors'
+I644
+I650
+tp18
+a(S'5ht1'
+p19
+I1615
+I1620
+tp20
+a(S'5ht2a'
+p21
+I1957
+I1963
+tp22
+a(S'5ht1'
+p23
+I48
+I53
+tp24
+a(S'5ht1d'
 p25
-g3
-((lp26
-S'5ht2a'
+I2534
+I2540
+tp26
+a(S'5ht1'
 p27
-atp28
-Rp29
-sS'regions'
-p30
-g3
-((lp31
+I2383
+I2388
+tp28
+a(S'5ht1'
+p29
+I629
+I634
+tp30
+a(S'5ht2'
+p31
+I715
+I720
 tp32
-Rp33
-sS'year'
-p34
-V1996
+a(S'5ht2a'
+p33
+I2341
+I2347
+tp34
+a(S'5ht2a'
 p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(57, u'\\\\bolanzapine')"
-p38
-aS"(23, u'\\\\bclozapine')"
+I2688
+I2694
+tp36
+a(S'5ht1'
+p37
+I403
+I408
+tp38
+a(S'5ht1'
 p39
-aS"(149, u'\\\\bmem')"
-p40
-aS"(84, u'\\\\bziprasidone')"
+I1676
+I1681
+tp40
+a(S'5ht1'
 p41
-aS"(43, u'\\\\bhaloperidol')"
-p42
-atp43
-Rp44
-sS'species'
+I2465
+I2470
+tp42
+a(S'5ht1d'
+p43
+I2507
+I2513
+tp44
+a(S'5ht2a'
 p45
-g3
-((lp46
-S"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
+I418
+I424
+tp46
+a(S'5ht2a'
 p47
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p48
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p49
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p50
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+I63
+I69
+tp48
+atp49
+Rp50
+sS'raw_text_methods'
 p51
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p52
-atp53
-Rp54
+g3
+((lp52
+S"(13, u'\\\\bagonist')"
+p53
+aS"(53, u'\\\\bketanserin')"
+p54
+aS"(47, u'\\\\bsumatriptan')"
+p55
+aS"(12, u'\\\\bantagonist')"
+p56
+atp57
+Rp58
+sS'regions'
+p59
+g3
+((lp60
+tp61
+Rp62
+sS'year'
+p63
+V1996
+p64
+sS'species'
+p65
+g3
+((lp66
+tp67
+Rp68
 sb.

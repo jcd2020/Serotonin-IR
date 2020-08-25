@@ -2,58 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(1, u'\\\\bpatient')"
 p11
-g3
-((lp12
-tp13
-Rp14
-sS'receptors'
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(33, u'\\\\blocomot')"
+p13
+aS"(32, u'\\\\bvomit')"
+p14
+aS"(3, u'\\\\bclinical')"
 p15
+atp16
+Rp17
+sS'receptors'
+p18
 g3
-((lp16
-S'5ht1b'
-p17
-atp18
-Rp19
-sS'regions'
+((lp19
+(S'5ht3'
 p20
+I449
+I454
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp21
-S"(227, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(tubercles|tubercle)\\\\b')"
-p22
-atp23
-Rp24
-sS'year'
-p25
-V1996
+((lp25
+S"(13, u'\\\\bagonist')"
 p26
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p27
+atp28
+Rp29
+sS'regions'
+p30
 g3
-((lp28
-tp29
-Rp30
+((lp31
+tp32
+Rp33
+sS'year'
+p34
+V2007
+p35
 sS'species'
-p31
+p36
 g3
-((lp32
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p33
-atp34
-Rp35
+((lp37
+tp38
+Rp39
 sb.

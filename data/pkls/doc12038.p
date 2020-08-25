@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,64 +10,73 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(24, u'\\\\banxiolytic')"
 p9
-atp10
-Rp11
-sS'topics'
+aS"(25, u'\\\\bsocial')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+aS"(5, u'\\\\btherap')"
 p12
-g3
-((lp13
-tp14
-Rp15
+aS"(8, u'\\\\banxi')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(3, u'\\\\bclinical')"
+p15
+atp16
+Rp17
 sS'receptors'
-p16
-g3
-((lp17
-S'5ht1a'
 p18
-aS'5ht3'
-p19
-aS'5ht2'
+g3
+((lp19
+(S'5ht2c'
 p20
-aS'5ht1'
-p21
-atp22
-Rp23
-sS'regions'
+I588
+I594
+tp21
+a(S'5ht2a'
+p22
+I1010
+I1016
+tp23
+a(S'5ht2c'
 p24
-g3
-((lp25
-tp26
+I748
+I754
+tp25
+atp26
 Rp27
-sS'year'
+sS'raw_text_methods'
 p28
-V1991
-p29
-sS'agonists'
+g3
+((lp29
+S"(38, u'\\\\bssri')"
 p30
-g3
-((lp31
-S"(39, u'\\\\bflesinoxan')"
-p32
-aS"(191, u'\\\\bphenylbiguanide')"
-p33
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p31
+atp32
+Rp33
+sS'regions'
 p34
-aS"(175, u'\\\\bdoi')"
-p35
-atp36
-Rp37
-sS'species'
-p38
 g3
-((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp35
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
+p39
+V2006
 p40
-atp41
-Rp42
+sS'species'
+p41
+g3
+((lp42
+tp43
+Rp44
 sb.

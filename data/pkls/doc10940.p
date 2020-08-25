@@ -2,72 +2,110 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(104, u'\\\\bimipramine')"
+S'Method.PET'
 p5
-aS"(134, u'\\\\bmirtazapine')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.AGONIST'
+S"(8, u'\\\\banxi')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(9, u'\\\\bdepress')"
-p16
-atp17
-Rp18
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I812
+I818
+tp18
+a(S'5ht1a'
 p19
-g3
-((lp20
-S'5ht2a'
+I69
+I75
+tp20
+a(S'5ht1a'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
-S"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
+I1147
+I1153
+tp22
+a(S'5ht1a'
+p23
+I1016
+I1022
+tp24
+a(S'5ht1a'
+p25
+I687
+I693
+tp26
+a(S'5ht1a'
+p27
+I1250
+I1256
+tp28
+a(S'5ht1a'
 p29
-V2005
-p30
-sS'agonists'
+I494
+I500
+tp30
+a(S'5ht1a'
 p31
+I367
+I373
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
+p35
 g3
-((lp32
-S"(175, u'\\\\bdoi')"
-p33
-atp34
-Rp35
-sS'species'
-p36
-g3
-((lp37
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+((lp36
+S"(13, u'\\\\bagonist')"
+p37
+aS"(17, u'\\\\bpet')"
 p38
-aS"(2054, u'(?i)\\\\b(heads|head)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+atp40
+Rp41
+sS'regions'
+p42
+g3
+((lp43
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p44
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p45
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p46
+atp47
+Rp48
+sS'year'
+p49
+V2001
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p53
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p54
+atp55
+Rp56
 sb.

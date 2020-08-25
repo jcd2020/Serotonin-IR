@@ -2,72 +2,111 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(124, u'\\\\bondansetron')"
+S'Method.PET'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.ANTAGONIST'
-p10
+aS'Method.ANTAGONIST'
+p6
 aS'Method.AGONIST'
-p11
-atp12
-Rp13
+p7
+atp8
+Rp9
 sS'topics'
+p10
+g3
+((lp11
+S"(22, u'\\\\bschizophreni')"
+p12
+aS"(14, u'\\\\bcogniti')"
+p13
+aS"(26, u'\\\\bbehav')"
 p14
-g3
-((lp15
-tp16
-Rp17
-sS'receptors'
+aS"(17, u'\\\\balzheimer')"
+p15
+aS"(2, u'\\\\bdisorder')"
+p16
+aS"(7, u'\\\\bdepressi')"
+p17
+aS"(15, u'\\\\bmemory')"
 p18
-g3
-((lp19
-S'5ht3a'
+aS"(1, u'\\\\bpatient')"
+p19
+aS"(4, u'\\\\btreatment')"
 p20
-aS'5ht3'
-p21
-aS'5ht1'
-p22
-atp23
-Rp24
-sS'regions'
+atp21
+Rp22
+sS'receptors'
+p23
+g3
+((lp24
+(S'5ht1a'
 p25
-g3
-((lp26
-tp27
-Rp28
-sS'year'
+I787
+I793
+tp26
+a(S'5ht1a'
+p27
+I572
+I578
+tp28
+a(S'5ht1a'
 p29
-V1993
-p30
-sS'agonists'
+I462
+I468
+tp30
+a(S'5ht1a'
 p31
-g3
-((lp32
-S"(186, u'\\\\b2 ?methyl ?5 ?ht')"
+I879
+I885
+tp32
+a(S'5ht1a'
 p33
-atp34
-Rp35
-sS'species'
-p36
+I1024
+I1030
+tp34
+a(S'5ht1a'
+p35
+I223
+I229
+tp36
+a(S'5ht1a'
+p37
+I43
+I49
+tp38
+atp39
+Rp40
+sS'raw_text_methods'
+p41
 g3
-((lp37
-S"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p38
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p39
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p40
-atp41
-Rp42
+((lp42
+S"(17, u'\\\\bpet')"
+p43
+aS"(19, u'\\\\bpositron emission tomography')"
+p44
+aS"(18, u'\\\\bimaging')"
+p45
+atp46
+Rp47
+sS'regions'
+p48
+g3
+((lp49
+tp50
+Rp51
+sS'year'
+p52
+V2008
+p53
+sS'species'
+p54
+g3
+((lp55
+tp56
+Rp57
 sb.

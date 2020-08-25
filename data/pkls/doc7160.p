@@ -2,72 +2,137 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(91, u'\\\\bfluoxetine')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(9, u'\\\\bdepress')"
-p16
-atp17
-Rp18
+tp10
+Rp11
 sS'receptors'
-p19
+p12
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp13
+(S'5ht2c'
+p14
+I729
+I735
+tp15
+a(S'5ht3'
+p16
+I770
+I775
+tp17
+a(S'5ht2a'
+p18
+I1364
+I1370
+tp19
+a(S'5ht2a'
+p20
+I969
+I975
+tp21
+a(S'5ht2c'
+p22
+I962
+I968
+tp23
+a(S'5ht2a'
 p24
-g3
-((lp25
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
+I161
+I167
+tp25
+a(S'5ht2'
 p26
-aS"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1019
+I1025
+tp27
+a(S'5ht1a'
 p28
-atp29
-Rp30
-sS'year'
-p31
-V1995
+I710
+I716
+tp29
+a(S'5ht1b'
+p30
+I718
+I724
+tp31
+a(S'5ht2a'
 p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p35
-atp36
-Rp37
-sS'species'
+I1019
+I1025
+tp33
+a(S'5ht1a'
+p34
+I1012
+I1018
+tp35
+a(S'5ht1'
+p36
+I877
+I882
+tp37
+a(S'5ht2'
 p38
+I883
+I888
+tp39
+atp40
+Rp41
+sS'raw_text_methods'
+p42
 g3
-((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+((lp43
+S"(53, u'\\\\bketanserin')"
+p44
+aS"(7, u'\\\\bpropranolol')"
+p45
+aS"(33, u'\\\\bmcpp')"
+p46
+aS"(23, u'\\\\bmdl')"
+p47
+aS"(26, u'\\\\bmdl72222')"
+p48
+aS"(20, u'\\\\bondansetron')"
+p49
+aS"(49, u'\\\\bdoi')"
+p50
+aS"(45, u'\\\\bmetergoline')"
+p51
+aS"(46, u'\\\\bspiperone')"
+p52
+aS"(9, u'\\\\britanserin')"
+p53
+aS"(12, u'\\\\bantagonist')"
+p54
+atp55
+Rp56
+sS'regions'
+p57
+g3
+((lp58
+tp59
+Rp60
+sS'year'
+p61
+V1995
+p62
+sS'species'
+p63
+g3
+((lp64
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p65
+atp66
+Rp67
 sb.

@@ -2,80 +2,79 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(26, u'\\\\bspiperone')"
-p5
-aS"(14, u'\\\\bmethiothepin')"
-p6
-aS"(203, u'\\\\btfmpp')"
-p7
-aS"(117, u'\\\\bketanserin')"
-p8
-aS"(193, u'\\\\bmesulergine')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
-S'Method.ANTAGONIST'
-p14
-aS'Method.AGONIST'
-p15
-atp16
-Rp17
+tp5
+Rp6
 sS'topics'
-p18
+p7
 g3
-((lp19
-tp20
-Rp21
+((lp8
+S"(26, u'\\\\bbehav')"
+p9
+aS"(33, u'\\\\blocomot')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(35, u'\\\\bnocicept')"
+p12
+atp13
+Rp14
 sS'receptors'
-p22
+p15
 g3
-((lp23
-S'5ht1b'
-p24
-aS'5ht1a'
+((lp16
+(S'5ht6'
+p17
+I1346
+I1351
+tp18
+a(S'5ht6'
+p19
+I62
+I67
+tp20
+a(S'5ht6'
+p21
+I269
+I274
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-aS'5ht3a'
-p26
-atp27
-Rp28
-sS'regions'
+g3
+((lp26
+S"(46, u'\\\\bspiperone')"
+p27
+aS"(41, u'\\\\bhaloperidol')"
+p28
+aS"(29, u'\\\\bdiethylamide')"
 p29
+atp30
+Rp31
+sS'regions'
+p32
 g3
-((lp30
-tp31
-Rp32
+((lp33
+tp34
+Rp35
 sS'year'
-p33
-V1989
-p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(165, u'\\\\bmesulergine')"
+p36
+V1995
 p37
-aS"(76, u'\\\\btrifluoromethylphenylpiperazine')"
-p38
-aS"(178, u'\\\\btfmpp')"
-p39
-atp40
-Rp41
 sS'species'
-p42
+p38
 g3
-((lp43
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+((lp39
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p40
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

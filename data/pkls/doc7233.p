@@ -2,78 +2,107 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
-aS'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+tp5
+Rp6
 sS'topics'
-p15
+p7
 g3
-((lp16
-tp17
-Rp18
+((lp8
+S"(6, u'\\\\baggressi')"
+p9
+aS"(8, u'\\\\banxi')"
+p10
+aS"(5, u'\\\\btherap')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(24, u'\\\\banxiolytic')"
+p13
+atp14
+Rp15
 sS'receptors'
-p19
+p16
 g3
-((lp20
-S'5ht1a'
-p21
-atp22
-Rp23
-sS'regions'
+((lp17
+(S'5ht1a'
+p18
+I437
+I442
+tp19
+a(S'5ht1b'
+p20
+I1228
+I1233
+tp21
+a(S'5ht1b'
+p22
+I1619
+I1624
+tp23
+a(S'5ht1a'
 p24
-g3
-((lp25
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1145
+I1150
+tp25
+a(S'5ht1'
 p26
-aS"(291, u'(?i)\\\\b(cingulates|cingulate)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1529
+I1533
+tp27
+a(S'5ht1a'
 p28
-atp29
-Rp30
-sS'year'
-p31
-V2010
-p32
-sS'agonists'
-p33
+I1464
+I1469
+tp29
+a(S'5ht2'
+p30
+I1031
+I1035
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
+p34
 g3
-((lp34
-S"(88, u'\\\\bf ?15599')"
-p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+((lp35
+S"(24, u'\\\\bgepirone')"
 p36
-atp37
-Rp38
-sS'species'
-p39
+aS"(22, u'\\\\bbuspirone')"
+p37
+atp38
+Rp39
+sS'regions'
+p40
 g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+((lp41
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p42
-aS"(4979, u'(?i)\\\\b(cats|cat)\\\\b')"
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p43
-atp44
-Rp45
+aS"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
+p44
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V1988
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p52
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p53
+atp54
+Rp55
 sb.

@@ -1,15 +1,18 @@
 from enum import Enum
 import re
+
+
 class ParseObject:
     def __init__(self):
         self.year = 0
         self.methods = set() #closed set - see ENUM
         self.species = set() #latently discovered set - wordnet
-        self.antagonists = set() #latently discovered set - dep-parse based
-        self.agonists = set() #latently discovered set - dep-parse based
-        self.receptors = set() #closed set 
+        self.raw_text_methods = set() #latently discovered set - dep-parse based
+        self.receptors = set() #closed set
         self.regions = set() #
         self.topics = None #discover via clustering
+
+
 class Method(Enum):
     KNOCKOUT = r"(?i)(knockout)|(([^\w]|$|^(\s+))ko([^\w]|$|^(\s+)))"
     AGONIST = r"(?i)(([^\w]|$|^)agonis[tm])"
@@ -21,9 +24,12 @@ class Method(Enum):
     KNOCKDOWN = r"(?i)knockdown"
     IMMUNOHISTOCHEMISTRY = r"(?i)(immuno)(-|\s+)?(histo)(-|\s+)?(chem)"
 
+
 class ReceptorPrefix(Enum):
     _5HT = r"(?i)5(-)?ht|(serotonin)"
     NONE = ""
+
+
 class ReceptorFamily(Enum):
     _1 = r"(?i)1"
     _2 = r"(?i)2"
@@ -33,6 +39,8 @@ class ReceptorFamily(Enum):
     _6 = r"(?i)6"
     _7 = r"(?i)7"
     NONE = ""
+
+
 class ReceptorSubtype(Enum):
     a = r"(?i)a"
     b = r"(?i)b"
@@ -41,6 +49,8 @@ class ReceptorSubtype(Enum):
     e = r"(?i)e"
     f = r"(?i)f"
     NONE = ""
+
+
 class Receptor:
     #Prefix and family are required, subtype optional. Sometimes occur in form
     #PrefixFamily(Sub1/Sub2) -> two different receptors

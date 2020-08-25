@@ -2,69 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.STIMULATION'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(16, u'\\\\bfeed')"
-p14
-aS"(4, u'\\\\blocomot')"
-p15
-atp16
-Rp17
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+atp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp14
+(S'5ht2c'
+p15
+I669
+I675
+tp16
+a(S'5ht2c'
+p17
+I45
+I56
+tp18
+a(S'5ht2c'
+p19
+I1536
+I1542
+tp20
+a(S'5ht2c'
+p21
+I450
+I456
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p26
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V1990
-p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p34
-atp35
-Rp36
+((lp26
+S"(13, u'\\\\bagonist')"
+p27
+aS"(10, u'\\\\bmethamphetamine')"
+p28
+atp29
+Rp30
+sS'regions'
+p31
+g3
+((lp32
+tp33
+Rp34
+sS'year'
+p35
+V2017
+p36
 sS'species'
 p37
 g3
 ((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+S"(8, u'(?i)\\\\b(primates|primate)\\\\b')"
 p39
 atp40
 Rp41

@@ -2,90 +2,130 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(5, u'\\\\bcyanopindolol')"
-p5
-aS"(203, u'\\\\btfmpp')"
-p6
-aS"(22, u'\\\\bpropranolol')"
-p7
-aS"(34, u'\\\\bmetergoline')"
-p8
-aS"(11, u'\\\\bisamoltane')"
-p9
-atp10
-Rp11
-sS'methods'
-p12
-g3
-((lp13
 S'Method.ANTAGONIST'
-p14
+p5
 aS'Method.AGONIST'
-p15
-atp16
-Rp17
+p6
+atp7
+Rp8
 sS'topics'
-p18
+p9
 g3
-((lp19
-tp20
-Rp21
+((lp10
+S"(5, u'\\\\btherap')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(10, u'\\\\bocd')"
+p13
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
 sS'receptors'
-p22
+p17
 g3
-((lp23
-S'5ht1b'
-p24
-aS'5ht1d'
+((lp18
+(S'5ht2c'
+p19
+I1417
+I1423
+tp20
+a(S'5ht2c'
+p21
+I471
+I477
+tp22
+a(S'5ht2c'
+p23
+I1721
+I1727
+tp24
+a(S'5ht2a'
 p25
-atp26
-Rp27
-sS'regions'
-p28
-g3
-((lp29
-S"(219, u'(?i)\\\\b(basals|basal)(-|\\\\s+)?(ganglias|ganglia)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
+I1597
+I1603
+tp26
+a(S'5ht2c'
+p27
+I34
+I40
+tp28
+a(S'5ht2c'
+p29
+I1280
+I1286
+tp30
+a(S'5ht2a'
+p31
+I851
+I857
+tp32
+a(S'5ht2a'
 p33
-V1990
-p34
-sS'agonists'
+I460
+I466
+tp34
+a(S'5ht2c'
 p35
-g3
-((lp36
-S"(178, u'\\\\btfmpp')"
+I912
+I918
+tp36
+a(S'5ht2c'
 p37
-aS"(155, u'\\\\bmcpp')"
-p38
-aS"(67, u'\\\\bru ?24969')"
+I1582
+I1588
+tp38
+a(S'5ht2a'
 p39
-aS"(219, u'\\\\b5 ?ct')"
-p40
-atp41
-Rp42
-sS'species'
-p43
-g3
-((lp44
-S"(1055, u'(?i)\\\\b(men|man)\\\\b')"
+I1432
+I1438
+tp40
+a(S'5ht2a'
+p41
+I1270
+I1276
+tp42
+atp43
+Rp44
+sS'raw_text_methods'
 p45
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p46
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+g3
+((lp46
+S"(13, u'\\\\bagonist')"
 p47
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(33, u'\\\\bmcpp')"
 p48
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+aS"(50, u'\\\\bm100907')"
 p49
-atp50
-Rp51
+aS"(12, u'\\\\bantagonist')"
+p50
+atp51
+Rp52
+sS'regions'
+p53
+g3
+((lp54
+tp55
+Rp56
+sS'year'
+p57
+V2013
+p58
+sS'species'
+p59
+g3
+((lp60
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p61
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p62
+atp63
+Rp64
 sb.

@@ -2,72 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(17, u'\\\\bnan ?190')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(22, u'\\\\bschizophreni')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(26, u'\\\\bbehav')"
+p11
+aS"(25, u'\\\\bsocial')"
+p12
+aS"(19, u'\\\\bpsychosis')"
 p13
-g3
-((lp14
-S"(4, u'\\\\blocomot')"
+aS"(33, u'\\\\blocomot')"
+p14
+aS"(29, u'\\\\bhyperactiv')"
 p15
-atp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+((lp20
+(S'5ht2a'
+p21
+I511
+I517
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
 p25
-atp26
-Rp27
-sS'year'
+g3
+((lp26
+S"(27, u'\\\\blsd')"
+p27
+aS"(41, u'\\\\bhaloperidol')"
 p28
-V2004
+aS"(23, u'\\\\bmdl')"
 p29
-sS'agonists'
+aS"(12, u'\\\\bantagonist')"
 p30
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp31
-S"(210, u'\\\\bsulpiride')"
-p32
-atp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
+((lp34
+tp35
+Rp36
+sS'year'
 p37
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+V2011
 p38
-aS"(3248, u'(?i)\\\\b(offspring|offspring)\\\\b')"
+sS'species'
 p39
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+g3
+((lp40
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p41
+atp42
+Rp43
 sb.

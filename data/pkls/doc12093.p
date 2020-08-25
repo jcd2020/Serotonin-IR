@@ -2,78 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(190, u'\\\\blurasidone')"
+S'Method.ANTAGONIST'
 p5
-aS"(91, u'\\\\bfluoxetine')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(16, u'\\\\bfeed')"
-p17
-atp18
-Rp19
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht1a'
+p16
+I88
+I94
+tp17
+a(S'5ht1a'
+p18
+I1496
+I1502
+tp19
+a(S'5ht1'
 p20
-g3
-((lp21
-S'5ht7'
+I422
+I427
+tp21
+a(S'5ht1a'
 p22
-aS'5ht1a'
-p23
-aS'5ht7d'
+I1355
+I1361
+tp23
+a(S'5ht1a'
 p24
-aS'5ht2a'
-p25
-atp26
-Rp27
-sS'regions'
-p28
-g3
-((lp29
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I742
+I748
+tp25
+a(S'5ht1a'
+p26
+I363
+I369
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p31
-atp32
-Rp33
-sS'year'
+g3
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(4, u'\\\\bpcpa')"
+p33
+aS"(21, u'\\\\bipsapirone')"
 p34
-V2015
+aS"(12, u'\\\\bantagonist')"
 p35
-sS'agonists'
-p36
-g3
-((lp37
-S"(47, u'\\\\blurasidone')"
+atp36
+Rp37
+sS'regions'
 p38
-atp39
-Rp40
-sS'species'
-p41
 g3
-((lp42
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+((lp39
+S"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p40
+atp41
+Rp42
+sS'year'
 p43
-atp44
-Rp45
+V1994
+p44
+sS'species'
+p45
+g3
+((lp46
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

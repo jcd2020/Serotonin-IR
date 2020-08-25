@@ -2,74 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(198, u'\\\\bsb ?269970')"
+S'Method.IMMUNOHISTOCHEMISTRY'
 p5
-aS"(31, u'\\\\bway ?100635')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-S"(21, u'\\\\bpain')"
-p17
-atp18
-Rp19
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(7, u'\\\\bdepressi')"
+p11
+aS"(20, u'\\\\bmood')"
+p12
+aS"(2, u'\\\\bdisorder')"
+p13
+atp14
+Rp15
 sS'receptors'
-p20
+p16
 g3
-((lp21
-S'5ht7'
+((lp17
+(S'5ht1'
+p18
+I702
+I707
+tp19
+a(S'5ht1'
+p20
+I1152
+I1156
+tp21
+a(S'5ht1a'
 p22
-aS'5ht1a'
-p23
+I702
+I707
+tp23
 atp24
 Rp25
-sS'regions'
+sS'raw_text_methods'
 p26
 g3
 ((lp27
-S"(140, u'(?i)\\\\b(parafasciculars|parafascicular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-aS"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p29
-atp30
-Rp31
-sS'year'
+tp28
+Rp29
+sS'regions'
+p30
+g3
+((lp31
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p32
-V2005
-p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(85, u'\\\\b8 ?oh ?dpat')"
+atp33
+Rp34
+sS'year'
+p35
+V2006
 p36
-atp37
-Rp38
 sS'species'
-p39
+p37
 g3
-((lp40
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p41
-atp42
-Rp43
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

@@ -2,86 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(112, u'\\\\bquetiapine')"
-p5
-aS"(110, u'\\\\bclozapine')"
-p6
-aS"(31, u'\\\\bway ?100635')"
-p7
-aS"(114, u'\\\\bziprasidone')"
-p8
-aS"(50, u'\\\\bquetiapine')"
-p9
-aS"(35, u'\\\\baripiprazole')"
-p10
-atp11
-Rp12
-sS'methods'
-p13
-g3
-((lp14
 S'Method.ANTAGONIST'
-p15
+p5
 aS'Method.AGONIST'
-p16
-atp17
-Rp18
+p6
+atp7
+Rp8
 sS'topics'
-p19
+p9
 g3
-((lp20
-S"(15, u'\\\\bschizophreni')"
-p21
-atp22
-Rp23
+((lp10
+S"(22, u'\\\\bschizophreni')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2a'
+p17
+I1213
+I1219
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(13, u'\\\\bagonist')"
+p23
+aS"(29, u'\\\\bdiethylamide')"
 p24
-g3
-((lp25
-S'5ht1a'
-p26
-atp27
-Rp28
+aS"(12, u'\\\\bantagonist')"
+p25
+atp26
+Rp27
 sS'regions'
-p29
+p28
 g3
-((lp30
-tp31
-Rp32
+((lp29
+tp30
+Rp31
 sS'year'
+p32
+V2002
 p33
-V2007
-p34
-sS'agonists'
-p35
-g3
-((lp36
-S"(59, u'\\\\bperospirone')"
-p37
-aS"(64, u'\\\\bquetiapine')"
-p38
-aS"(223, u'\\\\baripiprazole')"
-p39
-aS"(149, u'\\\\bmem')"
-p40
-aS"(84, u'\\\\bziprasidone')"
-p41
-aS"(23, u'\\\\bclozapine')"
-p42
-atp43
-Rp44
 sS'species'
-p45
+p34
 g3
-((lp46
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p47
-atp48
-Rp49
+((lp35
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p36
+atp37
+Rp38
 sb.

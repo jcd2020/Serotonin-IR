@@ -2,86 +2,106 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(120, u'\\\\bs ?32212')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(4, u'\\\\btreatment')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(3, u'\\\\bsleep')"
+(S'5ht1d'
 p16
-aS"(1, u'\\\\bmood')"
-p17
-aS"(29, u'\\\\bsex')"
+I481
+I487
+tp17
+a(S'5ht1a'
 p18
-aS"(35, u'\\\\bstress')"
-p19
-aS"(11, u'\\\\banxiolyt')"
+I108
+I114
+tp19
+a(S'5ht1a'
 p20
-aS"(20, u'\\\\baggressi')"
-p21
-aS"(6, u'\\\\bcognit')"
+I668
+I674
+tp21
+a(S'5ht1a'
 p22
-atp23
-Rp24
-sS'receptors'
-p25
-g3
-((lp26
-S'5ht2c'
-p27
-aS'5ht2a'
+I376
+I382
+tp23
+a(S'5ht1a'
+p24
+I603
+I609
+tp25
+a(S'5ht1d'
+p26
+I344
+I350
+tp27
+a(S'5ht1a'
 p28
-atp29
-Rp30
-sS'regions'
-p31
-g3
-((lp32
-S"(49, u'(?i)\\\\b(loci|locus)(-|\\\\s+)?(coeruleuses|coeruleus)\\\\b')"
-p33
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+I333
+I339
+tp29
+a(S'5ht1a'
+p30
+I1067
+I1073
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
 p34
-atp35
-Rp36
-sS'year'
+g3
+((lp35
+S"(23, u'\\\\bmdl')"
+p36
+aS"(34, u'\\\\b5ct')"
 p37
-V2012
+aS"(13, u'\\\\bagonist')"
 p38
-sS'agonists'
+aS"(4, u'\\\\bpcpa')"
 p39
+aS"(47, u'\\\\bsumatriptan')"
+p40
+aS"(12, u'\\\\bantagonist')"
+p41
+atp42
+Rp43
+sS'regions'
+p44
 g3
-((lp40
-tp41
-Rp42
+((lp45
+tp46
+Rp47
+sS'year'
+p48
+V1992
+p49
 sS'species'
-p43
+p50
 g3
-((lp44
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p45
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p46
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p47
-atp48
-Rp49
+((lp51
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

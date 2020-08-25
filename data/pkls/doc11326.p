@@ -2,78 +2,92 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(99, u'\\\\bsb ?242084')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(22, u'\\\\bsuicide')"
+(S'5ht6'
 p16
-aS"(19, u'\\\\bimpulsiv')"
-p17
-atp18
-Rp19
-sS'receptors'
+I1302
+I1307
+tp17
+a(S'5ht6'
+p18
+I682
+I687
+tp19
+a(S'5ht6'
 p20
-g3
-((lp21
-S'5ht2c'
+I65
+I70
+tp21
+a(S'5ht6'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
+I999
+I1004
+tp23
+a(S'5ht6'
+p24
+I164
+I169
+tp25
+a(S'5ht6'
+p26
+I356
+I361
 tp27
-Rp28
-sS'year'
-p29
-V2018
+atp28
+Rp29
+sS'raw_text_methods'
 p30
-sS'agonists'
-p31
 g3
-((lp32
-S"(141, u'\\\\bro60 ?0175')"
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(12, u'\\\\bantagonist')"
 p33
 atp34
 Rp35
-sS'species'
+sS'regions'
 p36
 g3
 ((lp37
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
 p38
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p39
-aS"(3247, u'(?i)\\\\b(youngs|young)\\\\b')"
-p40
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p41
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+atp40
+Rp41
+sS'year'
 p42
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+V2013
 p43
-atp44
-Rp45
+sS'species'
+p44
+g3
+((lp45
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

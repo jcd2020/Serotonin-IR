@@ -1,4 +1,0 @@
-Willins, D. L., et al. (1997). "Serotonin 5-HT2A receptors are expressed on pyramidal cells and interneurons in the rat cortex." Synapse 27(1): 79-82.
-
-	The distribution of 5-HT2A receptors in rat cortex was evaluated using newly developed antibodies. Each of three antibodies tested identified an identical pattern of 5-HT2A-like immunoreactivity (5-HT2A-li) in rat cortex with 5-HT2A-li showing a widespread distribution. The majority of 5-HT2A-li cells displayed a pyramidal morphology. While a minority, some cortical neurons with a bipolar morphology displayed 5-HT2A-li as well. Dual-label fluorescence confocal microscopic studies with a 5-HT2A antibody and a mouse monoclonal antibody to parvalbumin, a marker of a subset of gamma aminobutyric acid (GABA)ergic interneurons in the cortex, demonstrated that although some cells expressing 5-HT2A-li were interneurons, most were not.
-

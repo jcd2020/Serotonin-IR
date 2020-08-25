@@ -2,64 +2,75 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(103, u'\\\\bclomipramine')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-tp10
-Rp11
-sS'topics'
+S"(29, u'\\\\bhyperactiv')"
+p10
+aS"(9, u'\\\\bstress')"
+p11
+aS"(4, u'\\\\btreatment')"
 p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
-p14
-aS"(35, u'\\\\bstress')"
-p15
-atp16
-Rp17
+atp13
+Rp14
 sS'receptors'
-p18
+p15
 g3
-((lp19
-S'5ht1a'
-p20
-atp21
-Rp22
-sS'regions'
-p23
+((lp16
+(S'5ht2'
+p17
+I1155
+I1160
+tp18
+a(S'5ht2'
+p19
+I1621
+I1626
+tp20
+a(S'5ht2'
+p21
+I693
+I698
+tp22
+atp23
+Rp24
+sS'raw_text_methods'
+p25
 g3
-((lp24
-tp25
-Rp26
-sS'year'
+((lp26
+S"(9, u'\\\\britanserin')"
 p27
-V2013
+aS"(12, u'\\\\bantagonist')"
 p28
-sS'agonists'
-p29
+atp29
+Rp30
+sS'regions'
+p31
 g3
-((lp30
-tp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+((lp32
+tp33
+Rp34
+sS'year'
 p35
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+V2019
 p36
-atp37
-Rp38
+sS'species'
+p37
+g3
+((lp38
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p39
+atp40
+Rp41
 sb.

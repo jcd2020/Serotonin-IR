@@ -1,0 +1,4 @@
+Matheson, G. K., et al. (1997). "Modification of hypothalamic-pituitary-adrenocortical activity by serotonergic agents in the rat." Pharmacology 55(2): 59-65.
+
+	The effects of tandospirone, enciprazine, gepirone, buspirone (5-HT1A agents) and carvotroline (5-HT2) on hypothalamic-pituitary-adrenocortical activity (HPA) activity were studied. These drugs increased the plasma corticosterone levels in a dose-dependent manner. Their ED50 values were 3.8, 31.8, 3.1, 3.4 and 7.0 mg/kg, respectively. Drug effects peaked between 30 min and 1 h, and plasma corticosterone levels returned to control levels after 2 h. When the drugs were given in conjunction with a rotatory stress, gepirone and enciprazine increased and carvotroline decreased plasma corticosterone levels. Dexamethasone (0.1 mg/kg) pretreatment reduced drug-activated HPA axis activity.
+

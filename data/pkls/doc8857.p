@@ -2,78 +2,83 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(21, u'\\\\bpindolol')"
+S'Method.PET'
 p5
-aS"(31, u'\\\\bway ?100635')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(3, u'\\\\bsleep')"
-p17
-atp18
-Rp19
+tp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht1b'
-p22
-aS'5ht1a'
+((lp14
+(S'5ht1'
+p15
+I869
+I874
+tp16
+a(S'5ht2a'
+p17
+I1594
+I1600
+tp18
+a(S'5ht2a'
+p19
+I65
+I70
+tp20
+a(S'5ht2a'
+p21
+I375
+I381
+tp22
+a(S'5ht1a'
 p23
-atp24
-Rp25
-sS'regions'
-p26
+I986
+I992
+tp24
+atp25
+Rp26
+sS'raw_text_methods'
+p27
 g3
-((lp27
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p28
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+((lp28
+S"(13, u'\\\\bagonist')"
 p29
-atp30
-Rp31
-sS'year'
-p32
-V2000
-p33
-sS'agonists'
+aS"(19, u'\\\\bpositron emission tomography')"
+p30
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p31
+atp32
+Rp33
+sS'regions'
 p34
 g3
 ((lp35
-S"(39, u'\\\\bflesinoxan')"
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p36
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p37
-atp38
-Rp39
-sS'species'
+atp37
+Rp38
+sS'year'
+p39
+V2004
 p40
+sS'species'
+p41
 g3
-((lp41
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p42
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p43
-atp44
-Rp45
+((lp42
+tp43
+Rp44
 sb.

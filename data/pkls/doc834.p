@@ -2,76 +2,87 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(30, u'\\\\bway ?100135')"
+S'Method.ANTAGONIST'
 p5
-aS"(17, u'\\\\bnan ?190')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.STAINING'
-p12
-aS'Method.AGONIST'
-p13
-aS'Method.ANTAGONIST'
-p14
-atp15
-Rp16
+atp6
+Rp7
 sS'topics'
-p17
+p8
 g3
-((lp18
-tp19
-Rp20
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(33, u'\\\\blocomot')"
+p11
+aS"(4, u'\\\\btreatment')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht6'
+p17
+I1900
+I1905
+tp18
+a(S'5ht6'
+p19
+I95
+I100
+tp20
+a(S'5ht6'
 p21
-g3
-((lp22
-S'5ht1a'
+I1830
+I1835
+tp22
+a(S'5ht6'
 p23
-aS'5ht2c'
-p24
-aS'5ht2a'
+I256
+I261
+tp24
+a(S'5ht6'
 p25
-atp26
-Rp27
-sS'regions'
-p28
+I2102
+I2107
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
+p29
 g3
-((lp29
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
-p30
-atp31
-Rp32
-sS'year'
-p33
-V1997
-p34
-sS'agonists'
+((lp30
+S"(41, u'\\\\bhaloperidol')"
+p31
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
 p35
 g3
 ((lp36
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p37
-atp38
-Rp39
-sS'species'
+tp37
+Rp38
+sS'year'
+p39
+V1999
 p40
+sS'species'
+p41
 g3
-((lp41
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+((lp42
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p43
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

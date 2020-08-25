@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,68 +10,53 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.KNOCKOUT'
+S"(23, u'\\\\bantipsychotic')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(23, u'\\\\bsocial dominance')"
-p14
-aS"(20, u'\\\\baggressi')"
-p15
-atp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p10
+aS"(3, u'\\\\bclinical')"
+p11
+atp12
+Rp13
 sS'receptors'
-p18
+p14
 g3
-((lp19
-S'5ht1b'
+((lp15
+(S'5ht1a'
+p16
+I998
+I1004
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-aS'5ht1d'
-p21
-atp22
-Rp23
+g3
+((lp21
+S"(41, u'\\\\bhaloperidol')"
+p22
+atp23
+Rp24
 sS'regions'
-p24
+p25
 g3
-((lp25
-tp26
-Rp27
+((lp26
+tp27
+Rp28
 sS'year'
-p28
-V2001
 p29
-sS'agonists'
+V2013
 p30
-g3
-((lp31
-S"(176, u'\\\\bdom')"
-p32
-atp33
-Rp34
 sS'species'
-p35
+p31
 g3
-((lp36
-S"(7540, u'(?i)\\\\b(mammalians|mammalian)\\\\b')"
-p37
-aS"(3952, u'(?i)\\\\b(anoles|anole)\\\\b')"
-p38
-aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
-p39
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p40
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
-p41
-aS"(5333, u'(?i)\\\\b(reptiles|reptile)\\\\b')"
-p42
-atp43
-Rp44
+((lp32
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p33
+atp34
+Rp35
 sb.

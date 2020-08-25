@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,58 +10,63 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
 tp9
 Rp10
-sS'topics'
+sS'receptors'
 p11
 g3
 ((lp12
-S"(22, u'\\\\bsuicide')"
+(S'5ht2a'
 p13
-aS"(15, u'\\\\bschizophreni')"
-p14
-aS"(9, u'\\\\bdepress')"
+I1326
+I1332
+tp14
+a(S'5ht1a'
 p15
-atp16
-Rp17
-sS'receptors'
-p18
+I1315
+I1321
+tp16
+a(S'5ht1a'
+p17
+I1400
+I1406
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
 g3
-((lp19
-S'5ht2c'
-p20
-atp21
-Rp22
-sS'regions'
+((lp22
+S"(46, u'\\\\bspiperone')"
 p23
-g3
-((lp24
-S"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+aS"(15, u'\\\\b8ohdpat')"
+p24
+aS"(53, u'\\\\bketanserin')"
 p25
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p26
-atp27
-Rp28
-sS'year'
-p29
-V2013
+atp26
+Rp27
+sS'regions'
+p28
+g3
+((lp29
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p30
-sS'agonists'
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p31
-g3
-((lp32
-tp33
-Rp34
-sS'species'
+atp32
+Rp33
+sS'year'
+p34
+V1998
 p35
+sS'species'
+p36
 g3
-((lp36
-S"(3191, u'(?i)\\\\b(worlds|world)\\\\b')"
-p37
-atp38
+((lp37
+tp38
 Rp39
 sb.

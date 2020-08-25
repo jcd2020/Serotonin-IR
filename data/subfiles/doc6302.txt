@@ -1,0 +1,4 @@
+Lever, J. R. and S. M. Johnson (1998). "Synthesis of a radioiodinated analogue of the serotonin 5-HT2A receptor ligand RP 62203." Journal of Labelled Compounds & Radiopharmaceuticals 41(2): 143-150.
+
+	An analogue of RP 62203 having radioiodine in the 4-position of the 1,8-naphthosultam ring system has been prepared for evaluation as a ligand for the serotonin 5-HT2A receptor. Non-radioactive 4-iodo-RP 62203 was synthesized in three steps (20% overall yield) by iodination of 1,8-naphthosultam with iodine monochloride followed by N-alkylation with 1-bromo-3-chloropropane and coupling with fluorophenyl)piperazine. The precursor for radiolabeling was prepared in 83% yield from 4-iodo-RP 62203 and hexamethylditin by palladium-mediated trimethylstannylation. Electrophilic radioiododestannylation gave 4-[I-125]-Rp 62203 in good isolated yield (80 - 86%), with high purity (greater than or equal to 99.6%) and specific radioactivity (1200 - 2066 mCi/mu mol).
+

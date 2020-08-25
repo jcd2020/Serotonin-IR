@@ -2,76 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-S"(29, u'\\\\bsex')"
-p14
-aS"(21, u'\\\\bpain')"
-p15
-aS"(35, u'\\\\bstress')"
-p16
-aS"(1, u'\\\\bmood')"
-p17
-atp18
-Rp19
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+atp11
+Rp12
 sS'receptors'
-p20
+p13
 g3
-((lp21
-S'5ht2c'
-p22
-atp23
-Rp24
-sS'regions'
+((lp14
+(S'5ht4'
+p15
+I33
+I38
+tp16
+a(S'5ht4'
+p17
+I236
+I241
+tp18
+a(S'5ht4'
+p19
+I1169
+I1174
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
+p23
+g3
+((lp24
+S"(12, u'\\\\bantagonist')"
 p25
-g3
-((lp26
-S"(223, u'(?i)\\\\b(putamens|putamen)\\\\b')"
-p27
-aS"(224, u'(?i)\\\\b(caudates|caudate)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+atp26
+Rp27
+sS'regions'
 p28
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
-p29
-atp30
+g3
+((lp29
+tp30
 Rp31
 sS'year'
 p32
-V2012
+V1995
 p33
-sS'agonists'
+sS'species'
 p34
 g3
 ((lp35
-tp36
-Rp37
-sS'species'
-p38
-g3
-((lp39
-S"(6325, u'(?i)\\\\b(caudates|caudate)\\\\b')"
-p40
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p36
+atp37
+Rp38
 sb.

@@ -2,68 +2,82 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(132, u'\\\\bmosapride')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(24, u'\\\\banxiolytic')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(8, u'\\\\banxi')"
+p11
+aS"(33, u'\\\\blocomot')"
+p12
+aS"(4, u'\\\\btreatment')"
 p13
-g3
-((lp14
-tp15
-Rp16
+atp14
+Rp15
 sS'receptors'
-p17
+p16
 g3
-((lp18
-S'5ht4'
-p19
-atp20
-Rp21
-sS'regions'
+((lp17
+(S'5ht1a'
+p18
+I1050
+I1061
+tp19
+a(S'5ht1a'
+p20
+I39
+I45
+tp21
+a(S'5ht1a'
 p22
-g3
-((lp23
-tp24
-Rp25
-sS'year'
-p26
-V2008
-p27
-sS'agonists'
+I1531
+I1537
+tp23
+a(S'5ht1a'
+p24
+I1088
+I1094
+tp25
+atp26
+Rp27
+sS'raw_text_methods'
 p28
 g3
 ((lp29
-S"(201, u'\\\\bmosapride')"
+S"(51, u'\\\\bway100635')"
 p30
-atp31
-Rp32
-sS'species'
-p33
-g3
-((lp34
-S"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+aS"(36, u'\\\\bbenzodiazepine')"
+p31
+aS"(12, u'\\\\bantagonist')"
+p32
+atp33
+Rp34
+sS'regions'
 p35
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p36
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p37
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p38
-atp39
-Rp40
+g3
+((lp36
+tp37
+Rp38
+sS'year'
+p39
+V2016
+p40
+sS'species'
+p41
+g3
+((lp42
+tp43
+Rp44
 sb.

@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,60 +10,52 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(13, u'\\\\bpsychedel')"
-p14
-atp15
-Rp16
+tp9
+Rp10
 sS'receptors'
-p17
+p11
 g3
-((lp18
-S'5ht2a'
+((lp12
+(S'5ht2a'
+p13
+I496
+I502
+tp14
+a(S'5ht1a'
+p15
+I485
+I491
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
 p19
-atp20
-Rp21
+g3
+((lp20
+tp21
+Rp22
 sS'regions'
-p22
+p23
 g3
-((lp23
-S"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p24
-atp25
-Rp26
+((lp24
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p25
+atp26
+Rp27
 sS'year'
-p27
-V2016
 p28
-sS'agonists'
+V2010
 p29
+sS'species'
+p30
 g3
-((lp30
-S"(158, u'\\\\blsd')"
-p31
-aS"(49, u'\\\\blysergic acid diethylamide')"
+((lp31
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
 p32
 atp33
 Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p38
-atp39
-Rp40
 sb.

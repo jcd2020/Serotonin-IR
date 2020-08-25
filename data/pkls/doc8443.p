@@ -2,70 +2,119 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(4, u'\\\\bbmy ?7378')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(5, u'\\\\btherap')"
 p10
-aS'Method.AGONIST'
+aS"(13, u'\\\\bantidepress')"
 p11
-atp12
-Rp13
-sS'topics'
+aS"(9, u'\\\\bstress')"
+p12
+aS"(4, u'\\\\btreatment')"
+p13
+aS"(26, u'\\\\bbehav')"
 p14
-g3
-((lp15
-S"(7, u'\\\\bmemory')"
-p16
-atp17
-Rp18
+atp15
+Rp16
 sS'receptors'
+p17
+g3
+((lp18
+(S'5ht2c'
 p19
-g3
-((lp20
-S'5ht1a'
+I281
+I287
+tp20
+a(S'5ht2c'
 p21
-atp22
-Rp23
-sS'regions'
-p24
-g3
-((lp25
+I1014
+I1020
+tp22
+a(S'5ht2c'
+p23
+I450
+I456
+tp24
+a(S'5ht2c'
+p25
+I29
+I40
 tp26
-Rp27
-sS'year'
-p28
-V1993
+a(S'5ht2c'
+p27
+I1223
+I1229
+tp28
+a(S'5ht2c'
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(85, u'\\\\b8 ?oh ?dpat')"
-p32
-aS"(73, u'\\\\btandospirone')"
+I1749
+I1755
+tp30
+a(S'5ht2c'
+p31
+I1418
+I1424
+tp32
+a(S'5ht2c'
 p33
-aS"(149, u'\\\\bmem')"
-p34
-atp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+I1203
+I1209
+tp34
+a(S'5ht2c'
+p35
+I267
+I278
+tp36
+atp37
+Rp38
+sS'raw_text_methods'
 p39
-atp40
-Rp41
+g3
+((lp40
+S"(38, u'\\\\bssri')"
+p41
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p42
+aS"(12, u'\\\\bantagonist')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p48
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p49
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p50
+atp51
+Rp52
+sS'year'
+p53
+V2014
+p54
+sS'species'
+p55
+g3
+((lp56
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p57
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p58
+atp59
+Rp60
 sb.

@@ -2,74 +2,150 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(31, u'\\\\bway ?100635')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
-atp11
-Rp12
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(18, u'\\\\bavoidan')"
+p11
+aS"(16, u'\\\\blearning')"
+p12
+aS"(26, u'\\\\bbehav')"
 p13
-g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-aS"(3, u'\\\\bsleep')"
-p16
-aS"(1, u'\\\\bmood')"
-p17
-atp18
-Rp19
+atp14
+Rp15
 sS'receptors'
+p16
+g3
+((lp17
+(S'5ht1c'
+p18
+I490
+I498
+tp19
+a(S'5ht1c'
 p20
-g3
-((lp21
-S'5ht1a'
+I1616
+I1622
+tp21
+a(S'5ht2'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I490
+I499
+tp23
+a(S'5ht2'
+p24
+I1077
+I1084
+tp25
+a(S'5ht1a'
+p26
+I1198
+I1204
+tp27
+a(S'5ht1b'
 p28
-atp29
-Rp30
-sS'year'
-p31
-V2006
+I1328
+I1336
+tp29
+a(S'5ht1b'
+p30
+I490
+I496
+tp31
+a(S'5ht1c'
 p32
-sS'agonists'
-p33
-g3
-((lp34
+I1077
+I1083
+tp33
+a(S'5ht2'
+p34
+I1799
+I1806
 tp35
-Rp36
-sS'species'
-p37
-g3
-((lp38
-S"(2395, u'(?i)\\\\b(mutants|mutant)\\\\b')"
-p39
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
+a(S'5ht1c'
+p36
+I1799
+I1805
+tp37
+a(S'5ht1c'
+p38
+I621
+I629
+tp39
+a(S'5ht1c'
 p40
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p41
-atp42
-Rp43
+I126
+I132
+tp41
+a(S'5ht1a'
+p42
+I1328
+I1334
+tp43
+a(S'5ht1b'
+p44
+I621
+I627
+tp45
+a(S'5ht2'
+p46
+I1198
+I1205
+tp47
+a(S'5ht2'
+p48
+I133
+I138
+tp49
+atp50
+Rp51
+sS'raw_text_methods'
+p52
+g3
+((lp53
+S"(53, u'\\\\bketanserin')"
+p54
+aS"(22, u'\\\\bbuspirone')"
+p55
+aS"(13, u'\\\\bagonist')"
+p56
+aS"(46, u'\\\\bspiperone')"
+p57
+aS"(37, u'\\\\bpiperazine')"
+p58
+aS"(12, u'\\\\bantagonist')"
+p59
+atp60
+Rp61
+sS'regions'
+p62
+g3
+((lp63
+tp64
+Rp65
+sS'year'
+p66
+V1993
+p67
+sS'species'
+p68
+g3
+((lp69
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p70
+atp71
+Rp72
 sb.

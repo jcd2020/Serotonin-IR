@@ -1,0 +1,126 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.IMMUNOHISTOCHEMISTRY'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(2, u'\\\\bdisorder')"
+p11
+atp12
+Rp13
+sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2'
+p16
+I696
+I701
+tp17
+a(S'5ht2'
+p18
+I1384
+I1389
+tp19
+a(S'5ht2a'
+p20
+I510
+I516
+tp21
+a(S'5ht2'
+p22
+I539
+I544
+tp23
+a(S'5ht2a'
+p24
+I44
+I50
+tp25
+a(S'5ht2a'
+p26
+I233
+I244
+tp27
+a(S'5ht2a'
+p28
+I1515
+I1521
+tp29
+a(S'5ht2a'
+p30
+I256
+I262
+tp31
+a(S'5ht2'
+p32
+I667
+I672
+tp33
+a(S'5ht2a'
+p34
+I1590
+I1596
+tp35
+a(S'5ht2a'
+p36
+I639
+I645
+tp37
+atp38
+Rp39
+sS'raw_text_methods'
+p40
+g3
+((lp41
+S"(2, u'\\\\blabeling')"
+p42
+aS"(3, u'\\\\bimmunoreactiv')"
+p43
+atp44
+Rp45
+sS'regions'
+p46
+g3
+((lp47
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
+p48
+aS"(8, u'(?i)\\\\b(centrals|central)(-|\\\\s+)?(nervouses|nervous)(-|\\\\s+)?(systems|system)\\\\b')"
+p49
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p50
+aS"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p51
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p52
+atp53
+Rp54
+sS'year'
+p55
+V1998
+p56
+sS'species'
+p57
+g3
+((lp58
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p59
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p60
+atp61
+Rp62
+sb.

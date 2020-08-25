@@ -2,76 +2,61 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(6, u'\\\\bcyproheptadine')"
-p5
-aS"(53, u'\\\\bcyproheptadine')"
-p6
-aS"(117, u'\\\\bketanserin')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p5
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-tp18
-Rp19
+((lp9
+S"(1, u'\\\\bpatient')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(3, u'\\\\bclinical')"
+p12
+atp13
+Rp14
 sS'receptors'
-p20
+p15
 g3
-((lp21
-S'5ht1b'
-p22
-aS'5ht1a'
+((lp16
+(S'5ht4'
+p17
+I428
+I433
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
+g3
+((lp22
+S"(12, u'\\\\bantagonist')"
 p23
-aS'5ht2'
-p24
-atp25
-Rp26
+atp24
+Rp25
 sS'regions'
-p27
+p26
 g3
-((lp28
-tp29
-Rp30
+((lp27
+tp28
+Rp29
 sS'year'
+p30
+V2001
 p31
-V1989
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(155, u'\\\\bmcpp')"
-p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p36
-atp37
-Rp38
 sS'species'
-p39
+p32
 g3
-((lp40
-S"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p42
-atp43
-Rp44
+((lp33
+tp34
+Rp35
 sb.

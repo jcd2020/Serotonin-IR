@@ -1,0 +1,4 @@
+Betti, L., et al. (2003). "Alpha1-adrenoceptor antagonists. 6. Structural optimization of pyridazinone-arylpiperazines. Study of the influence on affinity and selectivity of cyclic substituents at the pyridazinone ring and alkoxy groups at the arylpiperazine moiety." J Med Chem 46(16): 3555-3558.
+
+	In continuing our search for selective alpha(1)-adrenoceptor (AR) antagonists, we have synthesized new alkoxyarylpiperazinylalkylpyridazinone derivatives. The new compounds were tested for their affinity toward alpha(1)- and alpha(2)-AR and toward the 5-HT(1A) receptor. alpha(1)-AR affinity data are in the subnanomolar range, with 3 showing an affinity of 0.052 nM, about 5-fold higher than prazosin. None of the studied compounds was found to be alpha(1)/alpha(2) selective, but 8 showed an interesting 5-HT(1A)/alpha(1) affinity ratio of 119.
+

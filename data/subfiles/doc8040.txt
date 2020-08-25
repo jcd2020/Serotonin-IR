@@ -1,0 +1,4 @@
+Nedergaard, S., et al. (1991). "Excitation of substantia nigra pars compacta neurones by 5-hydroxy-tryptamine in-vitro." Neuroreport 2(6): 329-332.
+
+	Incoming serotonergic fibres are known to make direct synaptic contact with dopamine-containing neurones in the substantia nigra pars compacta (SNc). However, the effects of 5-HT (5-hydroxytryptamine) on these cells have not been thoroughly investigated. In the present study we show that application of 10-50 microM 5-HT increases the firing frequency of SNc neurones in-vitro, and produces inward rectification in a voltage region negative to -50mV. This effect is sensitive to extracellular Cs+, but not to Ba2+, and has similar properties as the intrinsic inward rectifier current, Ih. Antagonists of the 5-HT1A and 5-HT2 receptors were inefficacious. It is concluded that 5-HT excites SNc neurones via an enhancement of the conductance underlying Ih.
+

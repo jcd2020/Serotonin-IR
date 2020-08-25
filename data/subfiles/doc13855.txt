@@ -1,4 +1,0 @@
-Yoshida, H., et al. (2011). "Subtype specific roles of serotonin receptors in the spine formation of cortical neurons in vitro." Neurosci Res 71(3): 311-314.
-
-	Dendritic spines are postsynaptic structures which are formed from filopodia. We examined roles of serotonin (5-HT) receptors in the spine formation. Embryonic rat cortical neurons were cultured for 10 or 14 days and treated by 5-HT receptor agonists for 24 h. At 11 days in vitro, 5-HT(1A) agonist increased filopodia density, whereas 5-HT(2A/2C) agonist increased the density of puncta and spines. At 15 days in vitro, 5-HT(1A) agonist decreased the density of puncta and spines, whereas 5-HT(2A/2C) agonist decreased filopodia density with increase of spines. In conclusion, the present study shows 5-HT receptors have subtype-specific effects on the spine formation.
-

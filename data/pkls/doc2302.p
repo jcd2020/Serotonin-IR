@@ -2,68 +2,108 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(38, u'\\\\bsb ?224289')"
+S'Method.PET'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(6, u'\\\\baggressi')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(35, u'\\\\bstress')"
-p15
-aS"(10, u'\\\\banxiety')"
-p16
-atp17
-Rp18
+aS"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht1b'
-p21
-atp22
-Rp23
-sS'regions'
+((lp15
+(S'5ht1'
+p16
+I570
+I575
+tp17
+a(S'5ht1b'
+p18
+I49
+I60
+tp19
+a(S'5ht1'
+p20
+I1120
+I1125
+tp21
+a(S'5ht1b'
+p22
+I470
+I481
+tp23
+a(S'5ht1'
 p24
-g3
-((lp25
-S"(94, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I979
+I984
+tp25
+a(S'5ht1'
 p26
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p27
-aS"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I1648
+I1653
+tp27
+a(S'5ht1'
 p28
-atp29
-Rp30
-sS'year'
-p31
-V2004
-p32
-sS'agonists'
-p33
+I1802
+I1807
+tp29
+a(S'5ht1'
+p30
+I493
+I498
+tp31
+atp32
+Rp33
+sS'raw_text_methods'
+p34
 g3
-((lp34
-tp35
-Rp36
-sS'species'
+((lp35
+S"(1, u'\\\\bneuroimag')"
+p36
+aS"(17, u'\\\\bpet')"
 p37
+aS"(19, u'\\\\bpositron emission tomography')"
+p38
+aS"(18, u'\\\\bimaging')"
+p39
+atp40
+Rp41
+sS'regions'
+p42
 g3
-((lp38
-tp39
-Rp40
+((lp43
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
+p44
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p45
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p46
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V2018
+p51
+sS'species'
+p52
+g3
+((lp53
+tp54
+Rp55
 sb.

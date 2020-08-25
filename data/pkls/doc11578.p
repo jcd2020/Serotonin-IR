@@ -2,76 +2,101 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(74, u'\\\\bcariprazine')"
+S'Method.ANTAGONIST'
 p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
-S'Method.PET'
-p10
-aS'Method.ANTAGONIST'
-p11
 aS'Method.AGONIST'
-p12
-atp13
-Rp14
+p6
+atp7
+Rp8
 sS'topics'
-p15
+p9
 g3
-((lp16
-S"(15, u'\\\\bschizophreni')"
-p17
-atp18
-Rp19
+((lp10
+S"(1, u'\\\\bpatient')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
+p16
+I1924
+I1930
+tp17
+a(S'5ht2a'
+p18
+I1717
+I1723
+tp19
+a(S'5ht2a'
 p20
-g3
-((lp21
-S'5ht1a'
+I461
+I467
+tp21
+a(S'5ht2a'
 p22
-atp23
-Rp24
-sS'regions'
-p25
-g3
-((lp26
-S"(318, u'(?i)\\\\b(raphes|raphe)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p27
-atp28
-Rp29
-sS'year'
-p30
-V2011
-p31
-sS'agonists'
+I1486
+I1492
+tp23
+a(S'5ht2a'
+p24
+I209
+I215
+tp25
+a(S'5ht2a'
+p26
+I33
+I39
+tp27
+a(S'5ht2a'
+p28
+I690
+I696
+tp29
+atp30
+Rp31
+sS'raw_text_methods'
 p32
 g3
 ((lp33
-S"(22, u'\\\\bcariprazine')"
+S"(13, u'\\\\bagonist')"
 p34
-atp35
-Rp36
-sS'species'
+aS"(53, u'\\\\bketanserin')"
+p35
+aS"(49, u'\\\\bdoi')"
+p36
+aS"(12, u'\\\\bantagonist')"
 p37
-g3
-((lp38
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(2341, u'(?i)\\\\b(monkeys|monkey)\\\\b')"
+atp38
+Rp39
+sS'regions'
 p40
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
+g3
+((lp41
+tp42
+Rp43
+sS'year'
+p44
+V2016
+p45
+sS'species'
+p46
+g3
+((lp47
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p48
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p49
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p50
+atp51
+Rp52
 sb.

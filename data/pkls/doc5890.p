@@ -1,0 +1,107 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+atp6
+Rp7
+sS'topics'
+p8
+g3
+((lp9
+S"(20, u'\\\\bmood')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
+sS'receptors'
+p15
+g3
+((lp16
+(S'5ht1a'
+p17
+I2001
+I2007
+tp18
+a(S'5ht1a'
+p19
+I275
+I281
+tp20
+a(S'5ht1a'
+p21
+I1324
+I1330
+tp22
+a(S'5ht1a'
+p23
+I62
+I73
+tp24
+a(S'5ht1a'
+p25
+I384
+I390
+tp26
+a(S'5ht1a'
+p27
+I879
+I885
+tp28
+a(S'5ht1a'
+p29
+I1474
+I1480
+tp30
+a(S'5ht1a'
+p31
+I559
+I565
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
+p35
+g3
+((lp36
+S"(1, u'\\\\bneuroimag')"
+p37
+aS"(51, u'\\\\bway100635')"
+p38
+aS"(17, u'\\\\bpet')"
+p39
+aS"(18, u'\\\\bimaging')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+S"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p45
+aS"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p46
+atp47
+Rp48
+sS'year'
+p49
+V2018
+p50
+sS'species'
+p51
+g3
+((lp52
+tp53
+Rp54
+sb.

@@ -2,82 +2,118 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(117, u'\\\\bketanserin')"
-p5
-atp6
-Rp7
-sS'methods'
-p8
-g3
-((lp9
 S'Method.ANTAGONIST'
-p10
+p5
 aS'Method.AGONIST'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(2, u'\\\\bdisorder')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-S"(35, u'\\\\bstress')"
+(S'5ht2c'
 p16
-aS"(10, u'\\\\banxiety')"
-p17
-atp18
-Rp19
-sS'receptors'
+I257
+I263
+tp17
+a(S'5ht2c'
+p18
+I777
+I783
+tp19
+a(S'5ht2c'
 p20
-g3
-((lp21
-S'5ht1a'
+I1409
+I1415
+tp21
+a(S'5ht2c'
 p22
-aS'5ht3'
-p23
-aS'5ht2'
+I454
+I460
+tp23
+a(S'5ht2c'
 p24
-aS'5ht2a'
-p25
-atp26
-Rp27
-sS'regions'
+I909
+I915
+tp25
+a(S'5ht2c'
+p26
+I1487
+I1493
+tp27
+a(S'5ht2c'
 p28
-g3
-((lp29
-S"(215, u'(?i)\\\\b(basolaterals|basolateral)(-|\\\\s+)?(amygdalas|amygdala)\\\\b')"
+I1157
+I1163
+tp29
+a(S'5ht2c'
 p30
-aS"(209, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
-p31
-atp32
-Rp33
-sS'year'
+I620
+I626
+tp31
+a(S'5ht3'
+p32
+I985
+I990
+tp33
+a(S'5ht2'
 p34
-V2006
-p35
-sS'agonists'
-p36
+I979
+I984
+tp35
+atp36
+Rp37
+sS'raw_text_methods'
+p38
 g3
-((lp37
-tp38
-Rp39
-sS'species'
+((lp39
+S"(1, u'\\\\bneuroimag')"
 p40
-g3
-((lp41
-S"(4074, u'(?i)\\\\b(bulls|bull)\\\\b')"
+aS"(13, u'\\\\bagonist')"
+p41
+aS"(18, u'\\\\bimaging')"
 p42
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
+aS"(33, u'\\\\bmcpp')"
 p43
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+aS"(12, u'\\\\bantagonist')"
 p44
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p45
-atp46
-Rp47
+atp45
+Rp46
+sS'regions'
+p47
+g3
+((lp48
+S"(15, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
+p49
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p50
+atp51
+Rp52
+sS'year'
+p53
+V2011
+p54
+sS'species'
+p55
+g3
+((lp56
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p57
+atp58
+Rp59
 sb.

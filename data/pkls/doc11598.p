@@ -2,68 +2,112 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.KNOCKOUT'
+p5
+aS'Method.ANTAGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-tp14
-Rp15
+((lp10
+tp11
+Rp12
 sS'receptors'
-p16
+p13
 g3
-((lp17
-S'5ht1b'
-p18
-atp19
-Rp20
-sS'regions'
+((lp14
+(S'5ht5b'
+p15
+I1256
+I1262
+tp16
+a(S'5ht5'
+p17
+I37
+I42
+tp18
+a(S'5ht5'
+p19
+I1815
+I1820
+tp20
+a(S'5ht5a'
 p21
-g3
-((lp22
-S"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I550
+I556
+tp22
+a(S'5ht5a'
 p23
-atp24
-Rp25
-sS'year'
-p26
-V1994
+I1245
+I1251
+tp24
+a(S'5ht5b'
+p25
+I1140
+I1146
+tp26
+a(S'5ht1b'
 p27
-sS'agonists'
-p28
+I1652
+I1658
+tp28
+a(S'5ht5'
+p29
+I195
+I200
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
+p33
 g3
-((lp29
-S"(99, u'\\\\bcgs ?12066a')"
-p30
-aS"(210, u'\\\\bsulpiride')"
-p31
-aS"(190, u'\\\\bibogaine')"
-p32
-atp33
-Rp34
-sS'species'
+((lp34
+S"(2, u'\\\\blabeling')"
 p35
-g3
-((lp36
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
+aS"(40, u'\\\\bclozapine')"
+p36
+aS"(34, u'\\\\b5ct')"
 p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+aS"(6, u'\\\\bgr127935')"
 p38
-atp39
-Rp40
+aS"(15, u'\\\\b8ohdpat')"
+p39
+aS"(46, u'\\\\bspiperone')"
+p40
+aS"(54, u'\\\\bautoradiography')"
+p41
+aS"(12, u'\\\\bantagonist')"
+p42
+atp43
+Rp44
+sS'regions'
+p45
+g3
+((lp46
+S"(1, u'(?i)\\\\b(neocortexes|neocortex)\\\\b')"
+p47
+atp48
+Rp49
+sS'year'
+p50
+V1998
+p51
+sS'species'
+p52
+g3
+((lp53
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p54
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p55
+atp56
+Rp57
 sb.

@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,33 +10,35 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.ANTAGONIST'
+S"(17, u'\\\\balzheimer')"
 p9
 atp10
 Rp11
-sS'topics'
+sS'receptors'
 p12
 g3
 ((lp13
-S"(11, u'\\\\banxiolyt')"
+(S'5ht1a'
 p14
-aS"(10, u'\\\\banxiety')"
-p15
-atp16
-Rp17
-sS'receptors'
-p18
-g3
-((lp19
-S'5ht3'
+I67
+I73
+tp15
+a(S'5ht1a'
+p16
+I231
+I237
+tp17
+atp18
+Rp19
+sS'raw_text_methods'
 p20
-aS'5ht3a'
-p21
-atp22
+g3
+((lp21
+tp22
 Rp23
 sS'regions'
 p24
@@ -46,28 +48,12 @@ tp26
 Rp27
 sS'year'
 p28
-V1994
+V1990
 p29
-sS'agonists'
+sS'species'
 p30
 g3
 ((lp31
-S"(155, u'\\\\bmcpp')"
-p32
-atp33
-Rp34
-sS'species'
-p35
-g3
-((lp36
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p37
-aS"(1055, u'(?i)\\\\b(men|man)\\\\b')"
-p38
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p40
-atp41
-Rp42
+tp32
+Rp33
 sb.

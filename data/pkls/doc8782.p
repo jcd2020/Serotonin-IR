@@ -2,70 +2,92 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(35, u'\\\\baripiprazole')"
-p5
-aS"(205, u'\\\\bzotepine')"
-p6
-aS"(114, u'\\\\bziprasidone')"
-p7
-aS"(73, u'\\\\bamisulpride')"
-p8
-atp9
-Rp10
-sS'methods'
-p11
-g3
-((lp12
 S'Method.ANTAGONIST'
-p13
-atp14
-Rp15
+p5
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-S"(15, u'\\\\bschizophreni')"
-p18
-atp19
-Rp20
+((lp9
+S"(30, u'\\\\bpain')"
+p10
+aS"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p21
+p14
 g3
-((lp22
-S'5ht2a'
-p23
-atp24
-Rp25
-sS'regions'
+((lp15
+(S'5ht3'
+p16
+I636
+I641
+tp17
+a(S'5ht3'
+p18
+I1500
+I1505
+tp19
+a(S'5ht3'
+p20
+I1094
+I1099
+tp21
+a(S'5ht3'
+p22
+I1683
+I1688
+tp23
+a(S'5ht3'
+p24
+I485
+I490
+tp25
+a(S'5ht3'
 p26
-g3
-((lp27
-tp28
+I1878
+I1883
+tp27
+atp28
 Rp29
-sS'year'
+sS'raw_text_methods'
 p30
-V2005
-p31
-sS'agonists'
-p32
 g3
-((lp33
-S"(223, u'\\\\baripiprazole')"
+((lp31
+S"(20, u'\\\\bondansetron')"
+p32
+aS"(3, u'\\\\bimmunoreactiv')"
+p33
+aS"(17, u'\\\\bpet')"
 p34
-aS"(84, u'\\\\bziprasidone')"
+aS"(12, u'\\\\bantagonist')"
 p35
 atp36
 Rp37
-sS'species'
+sS'regions'
 p38
 g3
 ((lp39
 tp40
 Rp41
+sS'year'
+p42
+V2010
+p43
+sS'species'
+p44
+g3
+((lp45
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p46
+atp47
+Rp48
 sb.

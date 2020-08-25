@@ -2,66 +2,139 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-tp9
-Rp10
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(9, u'\\\\bstress')"
 p11
-g3
-((lp12
-S"(37, u'\\\\baddict')"
+aS"(23, u'\\\\bantipsychotic')"
+p12
+aS"(4, u'\\\\btreatment')"
 p13
-atp14
-Rp15
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
 sS'receptors'
-p16
+p17
 g3
-((lp17
-S'5ht1b'
-p18
-atp19
-Rp20
-sS'regions'
+((lp18
+(S'5ht2a'
+p19
+I1556
+I1562
+tp20
+a(S'5ht2c'
 p21
-g3
-((lp22
-S"(96, u'(?i)\\\\b(ventrals|ventral)(-|\\\\s+)?(tegmentals|tegmental)(-|\\\\s+)?(areas|area)\\\\b')"
+I1410
+I1417
+tp22
+a(S'5ht2a'
 p23
-aS"(103, u'(?i)\\\\b(substantias|substantia)(-|\\\\s+)?(nigras|nigra)\\\\b')"
-p24
-aS"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+I1805
+I1811
+tp24
+a(S'5ht2'
 p25
-atp26
-Rp27
-sS'year'
-p28
-V2019
+I881
+I886
+tp26
+a(S'5ht2a'
+p27
+I530
+I536
+tp28
+a(S'5ht2c'
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(11, u'\\\\bamphetamine')"
-p32
-atp33
-Rp34
-sS'species'
+I788
+I794
+tp30
+a(S'5ht2'
+p31
+I1122
+I1127
+tp32
+a(S'5ht2b'
+p33
+I1410
+I1416
+tp34
+a(S'5ht2'
 p35
-g3
-((lp36
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+I380
+I385
+tp36
+a(S'5ht2a'
 p37
-atp38
-Rp39
+I75
+I81
+tp38
+a(S'5ht2a'
+p39
+I920
+I926
+tp40
+a(S'5ht2a'
+p41
+I774
+I780
+tp42
+a(S'5ht2a'
+p43
+I463
+I469
+tp44
+atp45
+Rp46
+sS'raw_text_methods'
+p47
+g3
+((lp48
+S"(13, u'\\\\bagonist')"
+p49
+aS"(49, u'\\\\bdoi')"
+p50
+aS"(23, u'\\\\bmdl')"
+p51
+aS"(50, u'\\\\bm100907')"
+p52
+aS"(12, u'\\\\bantagonist')"
+p53
+atp54
+Rp55
+sS'regions'
+p56
+g3
+((lp57
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p58
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p59
+atp60
+Rp61
+sS'year'
+p62
+V2006
+p63
+sS'species'
+p64
+g3
+((lp65
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p66
+atp67
+Rp68
 sb.

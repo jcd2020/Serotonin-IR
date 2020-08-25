@@ -2,82 +2,85 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(203, u'\\\\btfmpp')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(13, u'\\\\bantidepress')"
 p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(29, u'\\\\bsex')"
-p15
-atp16
-Rp17
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht3'
+p16
+I1298
+I1303
+tp17
+a(S'5ht2'
 p18
-g3
-((lp19
-S'5ht1c'
+I1238
+I1243
+tp19
+a(S'5ht1a'
 p20
-aS'5ht1b'
-p21
-aS'5ht1a'
-p22
-aS'5ht4'
-p23
-atp24
-Rp25
-sS'regions'
-p26
+I1180
+I1186
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
+p24
 g3
-((lp27
-S"(226, u'(?i)\\\\b(nuclei|nucleus)(-|\\\\s+)?(accumben|accumbens)\\\\b')"
+((lp25
+S"(20, u'\\\\bondansetron')"
+p26
+aS"(4, u'\\\\bpcpa')"
+p27
+aS"(9, u'\\\\britanserin')"
 p28
-aS"(165, u'(?i)\\\\b(preoptics|preoptic)(-|\\\\s+)?(areas|area)\\\\b')"
+aS"(38, u'\\\\bssri')"
 p29
-atp30
-Rp31
-sS'year'
-p32
-V1992
-p33
-sS'agonists'
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p30
+aS"(12, u'\\\\bantagonist')"
+p31
+atp32
+Rp33
+sS'regions'
 p34
 g3
 ((lp35
-S"(76, u'\\\\btrifluoromethylphenylpiperazine')"
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
 p36
-aS"(178, u'\\\\btfmpp')"
-p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p38
-atp39
-Rp40
+atp37
+Rp38
+sS'year'
+p39
+V2010
+p40
 sS'species'
 p41
 g3
 ((lp42
-S"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
 p43
-aS"(1795, u'(?i)\\\\b(mounts|mount)\\\\b')"
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
 p44
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p45
-atp46
-Rp47
+atp45
+Rp46
 sb.

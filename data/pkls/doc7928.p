@@ -2,7 +2,7 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
@@ -10,62 +10,55 @@ p3
 ((lp4
 tp5
 Rp6
-sS'methods'
+sS'topics'
 p7
 g3
 ((lp8
-S'Method.AGONIST'
+S"(18, u'\\\\bavoidan')"
 p9
-atp10
-Rp11
-sS'topics'
-p12
-g3
-((lp13
-S"(9, u'\\\\bdepress')"
-p14
-aS"(24, u'\\\\banalgesi')"
-p15
-atp16
-Rp17
+aS"(16, u'\\\\blearning')"
+p10
+atp11
+Rp12
 sS'receptors'
-p18
+p13
 g3
-((lp19
-S'5ht4a'
-p20
-aS'5ht4'
+((lp14
+(S'5ht3'
+p15
+I300
+I305
+tp16
+atp17
+Rp18
+sS'raw_text_methods'
+p19
+g3
+((lp20
+S"(16, u'\\\\bdiazepam')"
 p21
-atp22
-Rp23
+aS"(25, u'\\\\bics205930')"
+p22
+aS"(5, u'\\\\bmk801')"
+p23
+atp24
+Rp25
 sS'regions'
-p24
-g3
-((lp25
-S"(362, u'(?i)\\\\b(brains|brain)(-|\\\\s+)?(stems|stem)\\\\b')"
 p26
-aS"(13, u'(?i)\\\\b(b(\\xf6|oe|[a-z])tzingers|b(\\xf6|oe|[a-z])tzinger)(-|\\\\s+)?(complexes|complex)\\\\b')"
-p27
-aS"(12, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(b(\\xf6|oe|[a-z])tzingers|b(\\xf6|oe|[a-z])tzinger)(-|\\\\s+)?(complexes|complex)\\\\b')"
-p28
-atp29
-Rp30
+g3
+((lp27
+tp28
+Rp29
 sS'year'
+p30
+V1996
 p31
-V2003
-p32
-sS'agonists'
-p33
-g3
-((lp34
-tp35
-Rp36
 sS'species'
-p37
+p32
 g3
-((lp38
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p39
-atp40
-Rp41
+((lp33
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p34
+atp35
+Rp36
 sb.

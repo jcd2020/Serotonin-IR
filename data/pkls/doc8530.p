@@ -2,68 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(49, u'\\\\bnefazodone')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.PET'
-p10
-atp11
-Rp12
-sS'topics'
-p13
-g3
-((lp14
-S"(9, u'\\\\bdepress')"
-p15
-atp16
-Rp17
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht1a'
+p14
+I1329
+I1335
+tp15
+a(S'5ht1a'
+p16
+I54
+I65
+tp17
+a(S'5ht1a'
 p18
+I166
+I172
+tp19
+atp20
+Rp21
+sS'raw_text_methods'
+p22
 g3
-((lp19
-S'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
-p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
+((lp23
+S"(13, u'\\\\bagonist')"
+p24
+aS"(15, u'\\\\b8ohdpat')"
+p25
+aS"(18, u'\\\\bimaging')"
+p26
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
 p27
-V1999
+aS"(51, u'\\\\bway100635')"
 p28
-sS'agonists'
-p29
-g3
-((lp30
-S"(56, u'\\\\bnefazodone')"
+atp29
+Rp30
+sS'regions'
 p31
-atp32
-Rp33
-sS'species'
-p34
 g3
-((lp35
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+((lp32
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p33
+atp34
+Rp35
+sS'year'
 p36
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+V2011
 p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+sS'species'
 p38
-atp39
-Rp40
+g3
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
+Rp42
 sb.

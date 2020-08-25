@@ -2,68 +2,88 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(144, u'\\\\bgr ?113808')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
+S"(6, u'\\\\baggressi')"
 p10
-aS'Method.AGONIST'
+aS"(26, u'\\\\bbehav')"
 p11
 atp12
 Rp13
-sS'topics'
+sS'receptors'
 p14
 g3
 ((lp15
-tp16
-Rp17
-sS'receptors'
+(S'5ht1a'
+p16
+I1268
+I1274
+tp17
+a(S'5ht1a'
 p18
-g3
-((lp19
-S'5ht5'
+I454
+I460
+tp19
+a(S'5ht1a'
 p20
-aS'5ht4'
-p21
-atp22
-Rp23
-sS'regions'
-p24
+I1139
+I1145
+tp21
+a(S'5ht1a'
+p22
+I382
+I388
+tp23
+atp24
+Rp25
+sS'raw_text_methods'
+p26
 g3
-((lp25
-tp26
-Rp27
-sS'year'
+((lp27
+S"(13, u'\\\\bagonist')"
 p28
-V1994
+aS"(15, u'\\\\b8ohdpat')"
 p29
-sS'agonists'
-p30
-g3
-((lp31
-S"(197, u'\\\\bbimu ?8')"
+atp30
+Rp31
+sS'regions'
 p32
-atp33
-Rp34
-sS'species'
-p35
 g3
-((lp36
-S"(1395, u'(?i)\\\\b(frogs|frog)\\\\b')"
-p37
-aS"(7539, u'(?i)\\\\b(mammals|mammal)\\\\b')"
-p38
-atp39
-Rp40
+((lp33
+S"(13, u'(?i)\\\\b(septums|septum)\\\\b')"
+p34
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p35
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p36
+atp37
+Rp38
+sS'year'
+p39
+V1997
+p40
+sS'species'
+p41
+g3
+((lp42
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p43
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p44
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p45
+atp46
+Rp47
 sb.

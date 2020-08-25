@@ -2,66 +2,103 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
+S'Method.ANTAGONIST'
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(13, u'\\\\bantidepress')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+aS"(7, u'\\\\bdepressi')"
 p13
-g3
-((lp14
-S"(29, u'\\\\bsex')"
+aS"(5, u'\\\\btherap')"
+p14
+aS"(4, u'\\\\btreatment')"
 p15
-atp16
-Rp17
+aS"(3, u'\\\\bclinical')"
+p16
+atp17
+Rp18
 sS'receptors'
-p18
+p19
 g3
-((lp19
-S'5ht2a'
-p20
-atp21
-Rp22
-sS'regions'
+((lp20
+(S'5ht1a'
+p21
+I117
+I123
+tp22
+a(S'5ht1a'
 p23
-g3
-((lp24
-tp25
-Rp26
-sS'year'
+I846
+I852
+tp24
+a(S'5ht1a'
+p25
+I1438
+I1444
+tp26
+a(S'5ht1a'
 p27
-V2019
-p28
-sS'agonists'
+I529
+I535
+tp28
+a(S'5ht1a'
 p29
+I241
+I247
+tp30
+atp31
+Rp32
+sS'raw_text_methods'
+p33
 g3
-((lp30
-S"(63, u'\\\\bpsilocybin')"
-p31
-atp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+((lp34
+S"(22, u'\\\\bbuspirone')"
+p35
+aS"(13, u'\\\\bagonist')"
 p36
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+aS"(11, u'\\\\bfluoxetine')"
 p37
-atp38
-Rp39
+aS"(38, u'\\\\bssri')"
+p38
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p39
+aS"(12, u'\\\\bantagonist')"
+p40
+atp41
+Rp42
+sS'regions'
+p43
+g3
+((lp44
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p45
+atp46
+Rp47
+sS'year'
+p48
+V2002
+p49
+sS'species'
+p50
+g3
+((lp51
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p52
+atp53
+Rp54
 sb.

@@ -2,80 +2,108 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.IMMUNOHISTOCHEMISTRY'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
+p9
+g3
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+aS"(35, u'\\\\bnocicept')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht2a'
-p18
-atp19
-Rp20
-sS'regions'
+((lp16
+(S'5ht1a'
+p17
+I1485
+I1491
+tp18
+a(S'5ht1a'
+p19
+I1317
+I1323
+tp20
+a(S'5ht1a'
 p21
-g3
-((lp22
-S"(95, u'(?i)\\\\b(reds|red)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
+I242
+I253
+tp22
+a(S'5ht1a'
 p23
-aS"(248, u'(?i)\\\\b(cerebrals|cerebral)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p24
-aS"(241, u'(?i)\\\\b(olfactories|olfactory)(-|\\\\s+)?(bulbs|bulb)\\\\b')"
+I440
+I446
+tp24
+a(S'5ht1a'
 p25
-aS"(35, u'(?i)\\\\b(pontines|pontine)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p26
-aS"(218, u'(?i)\\\\b(claustrums|claustrum)\\\\b')"
+I946
+I952
+tp26
+a(S'5ht1a'
 p27
-aS"(244, u'(?i)\\\\b(piriforms|piriform)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p28
-atp29
-Rp30
-sS'year'
+I685
+I691
+tp28
+a(S'5ht1a'
+p29
+I256
+I262
+tp30
+a(S'5ht1a'
 p31
-V1998
-p32
-sS'agonists'
-p33
-g3
-((lp34
-S"(149, u'\\\\bmem')"
+I42
+I53
+tp32
+atp33
+Rp34
+sS'raw_text_methods'
 p35
-atp36
-Rp37
-sS'species'
-p38
 g3
-((lp39
-S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
-p40
-aS"(2512, u'(?i)\\\\b(chickens|chicken)\\\\b')"
-p41
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp36
+S"(13, u'\\\\bagonist')"
+p37
+aS"(15, u'\\\\b8ohdpat')"
+p38
+aS"(12, u'\\\\bantagonist')"
+p39
+atp40
+Rp41
+sS'regions'
 p42
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p43
-aS"(3152, u'(?i)\\\\b(layers|layer)\\\\b')"
+g3
+((lp43
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p44
-atp45
-Rp46
+aS"(4, u'(?i)\\\\b(presynaptics|presynaptic)\\\\b')"
+p45
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p46
+atp47
+Rp48
+sS'year'
+p49
+V2010
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p53
+atp54
+Rp55
 sb.

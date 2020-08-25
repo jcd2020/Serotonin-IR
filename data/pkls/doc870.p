@@ -2,72 +2,67 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(194, u'\\\\bmethysergide')"
+S'Method.AGONIST'
 p5
-aS"(117, u'\\\\bketanserin')"
-p6
-aS"(119, u'\\\\britanserin')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
-S'Method.ANTAGONIST'
-p12
-aS'Method.AGONIST'
-p13
-atp14
-Rp15
+atp6
+Rp7
 sS'topics'
-p16
+p8
 g3
-((lp17
-S"(16, u'\\\\bfeed')"
-p18
-atp19
-Rp20
+((lp9
+S"(8, u'\\\\banxi')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+aS"(26, u'\\\\bbehav')"
+p12
+aS"(31, u'\\\\brespiratory')"
+p13
+aS"(2, u'\\\\bdisorder')"
+p14
+atp15
+Rp16
 sS'receptors'
-p21
+p17
 g3
-((lp22
-S'5ht3'
+((lp18
+(S'5ht1a'
+p19
+I195
+I201
+tp20
+atp21
+Rp22
+sS'raw_text_methods'
 p23
-aS'5ht2'
-p24
-atp25
-Rp26
+g3
+((lp24
+S"(13, u'\\\\bagonist')"
+p25
+atp26
+Rp27
 sS'regions'
-p27
+p28
 g3
-((lp28
-tp29
-Rp30
+((lp29
+tp30
+Rp31
 sS'year'
-p31
-V1991
 p32
-sS'agonists'
+V2019
 p33
-g3
-((lp34
-S"(53, u'\\\\bmethysergide')"
-p35
-atp36
-Rp37
 sS'species'
-p38
+p34
 g3
-((lp39
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p40
-atp41
-Rp42
+((lp35
+S"(2, u'(?i)\\\\b(females|female)\\\\b')"
+p36
+atp37
+Rp38
 sb.

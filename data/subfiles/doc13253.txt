@@ -1,4 +1,0 @@
-Wadsak, W., et al. (2007). "Simple and fully automated preparation of carbonyl-C-11 WAY-100635." Radiochimica Acta 95(7): 417-422.
-
-	So far, [carbonyl-C-11]WAY-100635 is the PET-tracer of choice for 5HT(1A)-receptor-imaging. Since the preparation is still a challenge, we aimed at (1) the evaluation of various essential parameters for the successful preparation, (2) the simplification of the radiosynthesis and (3) the establishment of a safe and fully automated system. The preparation is based on a commercial synthesizer and all chemicals are used without further processing. We found a low failure rate (7.7%), high average yield (4.0 +/- 1.0 GBq) and a specific radioactivity of 292 +/- 168 GBq/mu mol (both at the end of synthesis, EOS).
-

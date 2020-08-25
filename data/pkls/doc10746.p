@@ -2,72 +2,80 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
 S'Method.ANTAGONIST'
-p9
+p5
 aS'Method.AGONIST'
-p10
-atp11
-Rp12
+p6
+aS'Method.IMMUNOHISTOCHEMISTRY'
+p7
+aS'Method.STAINING'
+p8
+atp9
+Rp10
 sS'topics'
+p11
+g3
+((lp12
+S"(18, u'\\\\bavoidan')"
 p13
-g3
-((lp14
-tp15
-Rp16
+aS"(28, u'\\\\bgastrointestin')"
+p14
+aS"(9, u'\\\\bstress')"
+p15
+aS"(2, u'\\\\bdisorder')"
+p16
+atp17
+Rp18
 sS'receptors'
-p17
-g3
-((lp18
-S'5ht3'
 p19
-aS'5ht3a'
-p20
-atp21
-Rp22
-sS'regions'
+g3
+((lp20
+(S'5ht1a'
+p21
+I33
+I39
+tp22
+a(S'5ht1a'
 p23
-g3
-((lp24
-tp25
+I183
+I189
+tp24
+atp25
 Rp26
-sS'year'
+sS'raw_text_methods'
 p27
-V2009
-p28
-sS'agonists'
+g3
+((lp28
+S"(13, u'\\\\bagonist')"
 p29
+aS"(12, u'\\\\bantagonist')"
+p30
+atp31
+Rp32
+sS'regions'
+p33
 g3
-((lp30
-S"(149, u'\\\\bmem')"
-p31
-atp32
-Rp33
-sS'species'
-p34
-g3
-((lp35
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p36
-aS"(4091, u'(?i)\\\\b(adults|adult)\\\\b')"
-p37
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
+((lp34
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p35
+atp36
+Rp37
+sS'year'
 p38
-aS"(6125, u'(?i)\\\\b(females|female)\\\\b')"
+V2016
 p39
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+sS'species'
 p40
-atp41
-Rp42
+g3
+((lp41
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p42
+atp43
+Rp44
 sb.

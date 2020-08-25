@@ -2,76 +2,59 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(125, u'\\\\btropisetron')"
+S'Method.AGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.ANTAGONIST'
-p10
-aS'Method.AGONIST'
-p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-tp16
-Rp17
+tp10
+Rp11
 sS'receptors'
+p12
+g3
+((lp13
+(S'5ht2a'
+p14
+I1201
+I1207
+tp15
+atp16
+Rp17
+sS'raw_text_methods'
 p18
 g3
 ((lp19
-S'5ht3'
+S"(13, u'\\\\bagonist')"
 p20
-aS'5ht5c'
+aS"(18, u'\\\\bimaging')"
 p21
-aS'5ht2c'
-p22
-atp23
-Rp24
+atp22
+Rp23
 sS'regions'
-p25
+p24
 g3
-((lp26
-tp27
-Rp28
+((lp25
+tp26
+Rp27
 sS'year'
+p28
+V2015
 p29
-V1995
-p30
-sS'agonists'
-p31
-g3
-((lp32
-S"(65, u'\\\\brauwolscine')"
-p33
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p34
-aS"(219, u'\\\\b5 ?ct')"
-p35
-atp36
-Rp37
 sS'species'
-p38
+p30
 g3
-((lp39
-S"(473, u'(?i)\\\\b(rabbits|rabbit)\\\\b')"
-p40
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p41
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p42
-atp43
-Rp44
+((lp31
+S"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p32
+atp33
+Rp34
 sb.

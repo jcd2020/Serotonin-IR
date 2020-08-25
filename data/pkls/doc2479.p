@@ -2,74 +2,69 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(198, u'\\\\bsb ?269970')"
+S'Method.AGONIST'
 p5
-aS"(17, u'\\\\bnan ?190')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
+atp6
+Rp7
+sS'topics'
+p8
 g3
-((lp10
-S'Method.ANTAGONIST'
+((lp9
+S"(18, u'\\\\bavoidan')"
+p10
+aS"(26, u'\\\\bbehav')"
 p11
-aS'Method.AGONIST'
+aS"(4, u'\\\\btreatment')"
 p12
 atp13
 Rp14
-sS'topics'
+sS'receptors'
 p15
 g3
 ((lp16
-S"(6, u'\\\\bcognit')"
+(S'5ht1a'
 p17
-atp18
-Rp19
-sS'receptors'
-p20
+I770
+I776
+tp18
+atp19
+Rp20
+sS'raw_text_methods'
+p21
 g3
-((lp21
-S'5ht7'
-p22
-aS'5ht7a'
+((lp22
+S"(13, u'\\\\bagonist')"
 p23
-aS'5ht1a'
+aS"(15, u'\\\\b8ohdpat')"
 p24
-atp25
-Rp26
+aS"(38, u'\\\\bssri')"
+p25
+aS"(39, u'\\\\bselective serotonin reuptake inhibitor')"
+p26
+atp27
+Rp28
 sS'regions'
-p27
+p29
 g3
-((lp28
-tp29
-Rp30
+((lp30
+tp31
+Rp32
 sS'year'
-p31
-V2012
-p32
-sS'agonists'
 p33
-g3
-((lp34
-S"(229, u'\\\\blp ?44')"
-p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p36
-atp37
-Rp38
+V2006
+p34
 sS'species'
-p39
+p35
 g3
-((lp40
-S"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p41
-atp42
-Rp43
+((lp36
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p37
+atp38
+Rp39
 sb.

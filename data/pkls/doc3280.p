@@ -2,78 +2,139 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(130, u'\\\\bzacopride')"
+S'Method.ANTAGONIST'
 p5
-aS"(124, u'\\\\bondansetron')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(26, u'\\\\bbehav')"
 p11
-atp12
-Rp13
-sS'topics'
-p14
-g3
-((lp15
-S"(15, u'\\\\bschizophreni')"
-p16
-aS"(11, u'\\\\banxiolyt')"
-p17
-aS"(10, u'\\\\banxiety')"
-p18
-atp19
-Rp20
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
+p15
+g3
+((lp16
+(S'5ht2'
+p17
+I1407
+I1412
+tp18
+a(S'5ht2'
+p19
+I456
+I461
+tp20
+a(S'5ht2'
 p21
-g3
-((lp22
-S'5ht3'
+I1297
+I1302
+tp22
+a(S'5ht2'
 p23
-aS'5ht3a'
-p24
-atp25
-Rp26
-sS'regions'
+I1658
+I1663
+tp24
+a(S'5ht2'
+p25
+I1841
+I1846
+tp26
+a(S'5ht2a'
 p27
-g3
-((lp28
-S"(310, u'(?i)\\\\b(medials|medial)(-|\\\\s+)?(forebrains|forebrain)(-|\\\\s+)?(bundles|bundle)\\\\b')"
+I119
+I125
+tp28
+a(S'5ht2'
 p29
-atp30
-Rp31
-sS'year'
-p32
-V1991
+I477
+I482
+tp30
+a(S'5ht2'
+p31
+I1881
+I1886
+tp32
+a(S'5ht2'
 p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(208, u'\\\\bzacopride')"
-p36
-atp37
-Rp38
-sS'species'
+I1562
+I1567
+tp34
+a(S'5ht2'
+p35
+I847
+I852
+tp36
+a(S'5ht2'
+p37
+I2029
+I2034
+tp38
+a(S'5ht2'
 p39
-g3
-((lp40
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+I1731
+I1736
+tp40
+a(S'5ht2'
 p41
-aS"(1055, u'(?i)\\\\b(men|man)\\\\b')"
-p42
-aS"(163, u'(?i)\\\\b(mice|mouse)\\\\b')"
-p43
-atp44
-Rp45
+I438
+I443
+tp42
+atp43
+Rp44
+sS'raw_text_methods'
+p45
+g3
+((lp46
+S"(13, u'\\\\bagonist')"
+p47
+aS"(49, u'\\\\bdoi')"
+p48
+aS"(50, u'\\\\bm100907')"
+p49
+aS"(12, u'\\\\bantagonist')"
+p50
+atp51
+Rp52
+sS'regions'
+p53
+g3
+((lp54
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p55
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p56
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p57
+aS"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
+p58
+atp59
+Rp60
+sS'year'
+p61
+V2015
+p62
+sS'species'
+p63
+g3
+((lp64
+S"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p65
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p66
+atp67
+Rp68
 sb.

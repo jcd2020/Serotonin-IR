@@ -2,80 +2,111 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(84, u'\\\\bsb ?206553')"
+S'Method.ANTAGONIST'
 p5
 atp6
 Rp7
-sS'methods'
+sS'topics'
 p8
 g3
 ((lp9
-S'Method.AGONIST'
+S"(26, u'\\\\bbehav')"
 p10
-atp11
-Rp12
-sS'topics'
+aS"(2, u'\\\\bdisorder')"
+p11
+aS"(7, u'\\\\bdepressi')"
+p12
+aS"(20, u'\\\\bmood')"
 p13
-g3
-((lp14
-S"(15, u'\\\\bschizophreni')"
+aS"(12, u'\\\\bsleep')"
+p14
+aS"(4, u'\\\\btreatment')"
 p15
-aS"(9, u'\\\\bdepress')"
-p16
-aS"(30, u'\\\\bparkinsons')"
-p17
-aS"(10, u'\\\\banxiety')"
-p18
-atp19
-Rp20
+atp16
+Rp17
 sS'receptors'
-p21
+p18
 g3
-((lp22
-S'5ht2b'
-p23
-aS'5ht2c'
+((lp19
+(S'5ht1a'
+p20
+I1345
+I1351
+tp21
+a(S'5ht1'
+p22
+I1721
+I1726
+tp23
+a(S'5ht1'
 p24
-atp25
-Rp26
-sS'regions'
-p27
-g3
-((lp28
-S"(221, u'(?i)\\\\b(dorsals|dorsal)(-|\\\\s+)?(striatums|striatum)\\\\b')"
-p29
-aS"(220, u'(?i)\\\\b(striatums|striatum)\\\\b')"
+I889
+I894
+tp25
+a(S'5ht1'
+p26
+I1236
+I1241
+tp27
+a(S'5ht1a'
+p28
+I1318
+I1324
+tp29
+a(S'5ht1'
 p30
-aS"(254, u'(?i)\\\\b(prefrontals|prefrontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
-p31
-aS"(255, u'(?i)\\\\b(pres|pre)(-|\\\\s+)?(frontals|frontal)(-|\\\\s+)?(cortexes|cortex)\\\\b')"
+I1426
+I1431
+tp31
+a(S'5ht1a'
 p32
-atp33
-Rp34
-sS'year'
-p35
-V2005
+I870
+I876
+tp33
+a(S'5ht1'
+p34
+I1612
+I1617
+tp35
+a(S'5ht1'
 p36
-sS'agonists'
-p37
+I1904
+I1909
+tp37
+atp38
+Rp39
+sS'raw_text_methods'
+p40
 g3
-((lp38
-S"(155, u'\\\\bmcpp')"
-p39
-atp40
-Rp41
-sS'species'
+((lp41
+S"(12, u'\\\\bantagonist')"
 p42
+atp43
+Rp44
+sS'regions'
+p45
 g3
-((lp43
-S"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p44
-atp45
-Rp46
+((lp46
+tp47
+Rp48
+sS'year'
+p49
+V2006
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p53
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p54
+atp55
+Rp56
 sb.

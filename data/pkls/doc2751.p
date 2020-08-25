@@ -2,72 +2,77 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(115, u'\\\\bcinanserin')"
+S'Method.AGONIST'
 p5
-aS"(119, u'\\\\britanserin')"
-p6
-atp7
-Rp8
-sS'methods'
-p9
-g3
-((lp10
-S'Method.ANTAGONIST'
-p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
+atp6
+Rp7
 sS'topics'
-p15
+p8
 g3
-((lp16
-tp17
-Rp18
+((lp9
+S"(26, u'\\\\bbehav')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
-p19
+p14
 g3
-((lp20
-S'5ht5'
-p21
-aS'5ht1a'
-p22
-aS'5ht2'
-p23
-aS'5ht2a'
+((lp15
+(S'5ht1a'
+p16
+I1205
+I1211
+tp17
+a(S'5ht1a'
+p18
+I131
+I137
+tp19
+a(S'5ht1a'
+p20
+I224
+I230
+tp21
+atp22
+Rp23
+sS'raw_text_methods'
 p24
-atp25
-Rp26
-sS'regions'
+g3
+((lp25
+S"(13, u'\\\\bagonist')"
+p26
+aS"(15, u'\\\\b8ohdpat')"
 p27
-g3
-((lp28
-tp29
-Rp30
-sS'year'
-p31
-V1987
+aS"(4, u'\\\\bpcpa')"
+p28
+aS"(37, u'\\\\bpiperazine')"
+p29
+atp30
+Rp31
+sS'regions'
 p32
-sS'agonists'
-p33
 g3
-((lp34
-S"(149, u'\\\\bmem')"
-p35
-aS"(85, u'\\\\b8 ?oh ?dpat')"
+((lp33
+tp34
+Rp35
+sS'year'
 p36
-atp37
-Rp38
+V1987
+p37
 sS'species'
-p39
+p38
 g3
-((lp40
-tp41
+((lp39
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p40
+atp41
 Rp42
 sb.

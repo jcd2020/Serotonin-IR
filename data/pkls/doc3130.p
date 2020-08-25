@@ -2,68 +2,115 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.ANTAGONIST'
+p5
+aS'Method.AGONIST'
+p6
+atp7
+Rp8
 sS'topics'
-p12
+p9
 g3
-((lp13
-tp14
-Rp15
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
 p16
-g3
-((lp17
-S'5ht3'
+I2020
+I2026
+tp17
+a(S'5ht1a'
 p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(126, u'(?i)\\\\b(thalamuses|thalamus)\\\\b')"
-p23
-atp24
-Rp25
-sS'year'
+I1313
+I1319
+tp19
+a(S'5ht2a'
+p20
+I601
+I607
+tp21
+a(S'5ht2a'
+p22
+I1697
+I1703
+tp23
+a(S'5ht2'
+p24
+I1823
+I1828
+tp25
+a(S'5ht2c'
 p26
-V1999
-p27
-sS'agonists'
+I1335
+I1341
+tp27
+a(S'5ht1a'
 p28
-g3
-((lp29
-tp30
-Rp31
-sS'species'
+I1748
+I1754
+tp29
+a(S'5ht2c'
+p30
+I1708
+I1714
+tp31
+a(S'5ht2a'
 p32
-g3
-((lp33
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
-p34
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p35
-aS"(4635, u'(?i)\\\\b(baboons|baboon)\\\\b')"
+I1295
+I1301
+tp33
+atp34
+Rp35
+sS'raw_text_methods'
 p36
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
-p37
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
+g3
+((lp37
+S"(13, u'\\\\bagonist')"
 p38
-atp39
-Rp40
+aS"(27, u'\\\\blsd')"
+p39
+aS"(50, u'\\\\bm100907')"
+p40
+aS"(29, u'\\\\bdiethylamide')"
+p41
+aS"(12, u'\\\\bantagonist')"
+p42
+atp43
+Rp44
+sS'regions'
+p45
+g3
+((lp46
+tp47
+Rp48
+sS'year'
+p49
+V2005
+p50
+sS'species'
+p51
+g3
+((lp52
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p53
+aS"(6, u'(?i)\\\\b(rodents|rodent)\\\\b')"
+p54
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p55
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p56
+atp57
+Rp58
 sb.

@@ -2,66 +2,84 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.PET'
-p9
-atp10
-Rp11
+S'Method.AGONIST'
+p5
+atp6
+Rp7
 sS'topics'
-p12
+p8
 g3
-((lp13
-tp14
-Rp15
+((lp9
+S"(13, u'\\\\bantidepress')"
+p10
+aS"(4, u'\\\\btreatment')"
+p11
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2a'
 p16
-g3
-((lp17
-S'5ht2a'
+I2496
+I2502
+tp17
+a(S'5ht2c'
 p18
-atp19
-Rp20
-sS'regions'
-p21
-g3
-((lp22
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p23
+I2496
+I2504
+tp19
+a(S'5ht2c'
+p20
+I709
+I717
+tp21
+a(S'5ht2a'
+p22
+I709
+I715
+tp23
 atp24
 Rp25
-sS'year'
+sS'raw_text_methods'
 p26
-V2013
-p27
-sS'agonists'
+g3
+((lp27
+S"(13, u'\\\\bagonist')"
 p28
-g3
-((lp29
-tp30
-Rp31
-sS'species'
-p32
-g3
-((lp33
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+aS"(11, u'\\\\bfluoxetine')"
+p29
+aS"(49, u'\\\\bdoi')"
+p30
+aS"(54, u'\\\\bautoradiography')"
+p31
+atp32
+Rp33
+sS'regions'
 p34
-aS"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p35
-aS"(1070, u'(?i)\\\\b(pets|pet)\\\\b')"
+g3
+((lp35
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p36
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p37
-atp38
-Rp39
+atp37
+Rp38
+sS'year'
+p39
+V1995
+p40
+sS'species'
+p41
+g3
+((lp42
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p43
+atp44
+Rp45
 sb.

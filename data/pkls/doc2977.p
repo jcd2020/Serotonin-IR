@@ -2,66 +2,98 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-tp5
-Rp6
-sS'methods'
-p7
-g3
-((lp8
-S'Method.AGONIST'
-p9
-atp10
-Rp11
+S'Method.PET'
+p5
+atp6
+Rp7
 sS'topics'
+p8
+g3
+((lp9
+S"(14, u'\\\\bcogniti')"
+p10
+aS"(1, u'\\\\bpatient')"
+p11
+aS"(12, u'\\\\bsleep')"
 p12
-g3
-((lp13
-tp14
-Rp15
+atp13
+Rp14
 sS'receptors'
-p16
+p15
 g3
-((lp17
-S'5ht1a'
-p18
-atp19
-Rp20
-sS'regions'
+((lp16
+(S'5ht2a'
+p17
+I349
+I360
+tp18
+a(S'5ht2a'
+p19
+I1255
+I1261
+tp20
+a(S'5ht2a'
 p21
-g3
-((lp22
-tp23
-Rp24
-sS'year'
+I69
+I80
+tp22
+a(S'5ht2'
+p23
+I372
+I377
+tp24
+a(S'5ht2'
 p25
-V2002
-p26
-sS'agonists'
+I694
+I699
+tp26
+a(S'5ht2'
 p27
+I1571
+I1576
+tp28
+atp29
+Rp30
+sS'raw_text_methods'
+p31
 g3
-((lp28
-S"(45, u'\\\\bipsapirone')"
-p29
-atp30
-Rp31
-sS'species'
-p32
-g3
-((lp33
-S"(7058, u'(?i)\\\\b(does|doe)\\\\b')"
+((lp32
+S"(1, u'\\\\bneuroimag')"
+p33
+aS"(17, u'\\\\bpet')"
 p34
-aS"(5967, u'(?i)\\\\b(males|male)\\\\b')"
+aS"(19, u'\\\\bpositron emission tomography')"
 p35
-aS"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
+aS"(18, u'\\\\bimaging')"
 p36
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p37
-atp38
-Rp39
+atp37
+Rp38
+sS'regions'
+p39
+g3
+((lp40
+S"(11, u'(?i)\\\\b(cerebrals|cerebral)\\\\b')"
+p41
+aS"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p42
+aS"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p43
+atp44
+Rp45
+sS'year'
+p46
+V2012
+p47
+sS'species'
+p48
+g3
+((lp49
+tp50
+Rp51
 sb.

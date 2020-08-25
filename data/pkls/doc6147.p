@@ -1,0 +1,147 @@
+(ifile_types
+ParseObject
+p0
+(dp1
+S'methods'
+p2
+c__builtin__
+set
+p3
+((lp4
+S'Method.PET'
+p5
+aS'Method.KNOCKOUT'
+p6
+atp7
+Rp8
+sS'topics'
+p9
+g3
+((lp10
+S"(8, u'\\\\banxi')"
+p11
+aS"(1, u'\\\\bpatient')"
+p12
+aS"(25, u'\\\\bsocial')"
+p13
+aS"(4, u'\\\\btreatment')"
+p14
+aS"(2, u'\\\\bdisorder')"
+p15
+atp16
+Rp17
+sS'receptors'
+p18
+g3
+((lp19
+(S'5ht1a'
+p20
+I841
+I847
+tp21
+a(S'5ht1a'
+p22
+I1351
+I1357
+tp23
+a(S'5ht1a'
+p24
+I961
+I967
+tp25
+a(S'5ht1a'
+p26
+I197
+I203
+tp27
+a(S'5ht1a'
+p28
+I1628
+I1634
+tp29
+a(S'5ht1a'
+p30
+I302
+I308
+tp31
+a(S'5ht1a'
+p32
+I183
+I194
+tp33
+a(S'5ht1'
+p34
+I1566
+I1572
+tp35
+a(S'5ht1a'
+p36
+I431
+I437
+tp37
+a(S'5ht1a'
+p38
+I1458
+I1464
+tp39
+a(S'5ht1a'
+p40
+I45
+I56
+tp41
+a(S'5ht1a'
+p42
+I1069
+I1075
+tp43
+a(S'5ht1a'
+p44
+I1566
+I1572
+tp45
+a(S'5ht1a'
+p46
+I1215
+I1221
+tp47
+atp48
+Rp49
+sS'raw_text_methods'
+p50
+g3
+((lp51
+S"(17, u'\\\\bpet')"
+p52
+aS"(19, u'\\\\bpositron emission tomography')"
+p53
+atp54
+Rp55
+sS'regions'
+p56
+g3
+((lp57
+S"(22, u'(?i)\\\\b(anteriors|anterior)(-|\\\\s+)?(cingulates|cingulate)\\\\b')"
+p58
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p59
+aS"(12, u'(?i)\\\\b(amygdalas|amygdala)\\\\b')"
+p60
+atp61
+Rp62
+sS'year'
+p63
+V2007
+p64
+sS'species'
+p65
+g3
+((lp66
+S"(1, u'(?i)\\\\b(mice|mouse)\\\\b')"
+p67
+aS"(5, u'(?i)\\\\b(mices|mice)\\\\b')"
+p68
+aS"(3, u'(?i)\\\\b(males|male)\\\\b')"
+p69
+atp70
+Rp71
+sb.

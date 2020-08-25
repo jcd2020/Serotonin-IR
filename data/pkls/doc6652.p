@@ -2,80 +2,116 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(14, u'\\\\bmethiothepin')"
-p5
-aS"(124, u'\\\\bondansetron')"
-p6
-aS"(119, u'\\\\britanserin')"
-p7
-atp8
-Rp9
-sS'methods'
-p10
-g3
-((lp11
 S'Method.ANTAGONIST'
-p12
+p5
 aS'Method.AGONIST'
-p13
-atp14
-Rp15
+p6
+atp7
+Rp8
 sS'topics'
-p16
+p9
 g3
-((lp17
-tp18
-Rp19
+((lp10
+S"(4, u'\\\\btreatment')"
+p11
+aS"(2, u'\\\\bdisorder')"
+p12
+atp13
+Rp14
 sS'receptors'
-p20
+p15
 g3
-((lp21
-S'5ht1b'
-p22
-aS'5ht1a'
+((lp16
+(S'5ht4'
+p17
+I303
+I308
+tp18
+a(S'5ht4'
+p19
+I945
+I950
+tp20
+a(S'5ht4'
+p21
+I166
+I171
+tp22
+a(S'5ht4'
 p23
-aS'5ht3a'
-p24
-aS'5ht2a'
+I1676
+I1681
+tp24
+a(S'5ht4'
 p25
-atp26
-Rp27
-sS'regions'
-p28
-g3
-((lp29
+I1751
+I1756
+tp26
+a(S'5ht4'
+p27
+I473
+I478
+tp28
+a(S'5ht4'
+p29
+I1463
+I1468
 tp30
-Rp31
-sS'year'
-p32
-V1995
+a(S'5ht4'
+p31
+I42
+I47
+tp32
+a(S'5ht4'
 p33
-sS'agonists'
-p34
-g3
-((lp35
-S"(152, u'\\\\bnorfenfluramine')"
-p36
-aS"(149, u'\\\\bmem')"
-p37
-aS"(85, u'\\\\b8 ?oh ?dpat')"
-p38
-aS"(42, u'\\\\bgepirone')"
+I750
+I755
+tp34
+a(S'5ht4'
+p35
+I1296
+I1301
+tp36
+atp37
+Rp38
+sS'raw_text_methods'
 p39
-atp40
-Rp41
-sS'species'
-p42
 g3
-((lp43
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p44
-atp45
-Rp46
+((lp40
+S"(13, u'\\\\bagonist')"
+p41
+aS"(12, u'\\\\bantagonist')"
+p42
+atp43
+Rp44
+sS'regions'
+p45
+g3
+((lp46
+S"(20, u'(?i)\\\\b(prefrontals|prefrontal)\\\\b')"
+p47
+aS"(21, u'(?i)\\\\b(mpfcs|mpfc)\\\\b')"
+p48
+aS"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
+p49
+aS"(16, u'(?i)\\\\b(drns|drn)\\\\b')"
+p50
+atp51
+Rp52
+sS'year'
+p53
+V2005
+p54
+sS'species'
+p55
+g3
+((lp56
+tp57
+Rp58
 sb.

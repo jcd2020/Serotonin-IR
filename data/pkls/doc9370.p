@@ -2,98 +2,94 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(112, u'\\\\bquetiapine')"
-p5
-aS"(110, u'\\\\bclozapine')"
-p6
-aS"(114, u'\\\\bziprasidone')"
-p7
-aS"(31, u'\\\\bway ?100635')"
-p8
-aS"(59, u'\\\\bchlorpromazine')"
-p9
-aS"(113, u'\\\\brisperidone')"
-p10
-aS"(50, u'\\\\bquetiapine')"
-p11
-aS"(111, u'\\\\bolanzapine')"
-p12
-aS"(109, u'\\\\bthioridazine')"
-p13
-aS"(58, u'\\\\bhaloperidol')"
-p14
-atp15
-Rp16
-sS'methods'
-p17
-g3
-((lp18
 S'Method.ANTAGONIST'
-p19
+p5
 aS'Method.AGONIST'
-p20
-atp21
-Rp22
+p6
+atp7
+Rp8
 sS'topics'
-p23
+p9
 g3
-((lp24
-S"(15, u'\\\\bschizophreni')"
-p25
-atp26
-Rp27
+((lp10
+S"(26, u'\\\\bbehav')"
+p11
+atp12
+Rp13
 sS'receptors'
-p28
+p14
 g3
-((lp29
-S'5ht1a'
+((lp15
+(S'5ht1d'
+p16
+I1573
+I1579
+tp17
+a(S'5ht1d'
+p18
+I1448
+I1454
+tp19
+a(S'5ht1d'
+p20
+I1164
+I1170
+tp21
+a(S'5ht1d'
+p22
+I536
+I542
+tp23
+a(S'5ht1'
+p24
+I483
+I488
+tp25
+a(S'5ht1d'
+p26
+I40
+I46
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
 p30
-atp31
-Rp32
-sS'regions'
+g3
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(34, u'\\\\b5ct')"
 p33
-g3
-((lp34
-tp35
+aS"(12, u'\\\\bantagonist')"
+p34
+atp35
 Rp36
-sS'year'
+sS'regions'
 p37
-V2001
-p38
-sS'agonists'
+g3
+((lp38
+S"(19, u'(?i)\\\\b(cortexes|cortex)\\\\b')"
 p39
-g3
-((lp40
-S"(64, u'\\\\bquetiapine')"
-p41
-aS"(57, u'\\\\bolanzapine')"
+atp40
+Rp41
+sS'year'
 p42
-aS"(84, u'\\\\bziprasidone')"
+V1996
 p43
-aS"(43, u'\\\\bhaloperidol')"
-p44
-aS"(10, u'\\\\baet')"
-p45
-aS"(23, u'\\\\bclozapine')"
-p46
-atp47
-Rp48
 sS'species'
-p49
+p44
 g3
-((lp50
-S"(1057, u'(?i)\\\\b(humans|human)\\\\b')"
-p51
-aS"(4099, u'(?i)\\\\b(hamsters|hamster)\\\\b')"
-p52
-aS"(3196, u'(?i)\\\\b(human|humans)\\\\b')"
-p53
-atp54
-Rp55
+((lp45
+S"(7, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
+p46
+aS"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p47
+atp48
+Rp49
 sb.

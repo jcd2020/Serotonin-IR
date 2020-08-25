@@ -2,104 +2,88 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\bmetergoline')"
-p5
-aS"(21, u'\\\\bpindolol')"
-p6
-aS"(144, u'\\\\bgr ?113808')"
-p7
-aS"(193, u'\\\\bmesulergine')"
-p8
-aS"(96, u'\\\\brs ?102221')"
-p9
-aS"(113, u'\\\\brisperidone')"
-p10
-aS"(115, u'\\\\bcinanserin')"
-p11
-aS"(124, u'\\\\bondansetron')"
-p12
-aS"(33, u'\\\\byohimbine')"
-p13
-aS"(119, u'\\\\britanserin')"
-p14
-atp15
-Rp16
-sS'methods'
-p17
-g3
-((lp18
 S'Method.ANTAGONIST'
-p19
+p5
 aS'Method.AGONIST'
-p20
-atp21
-Rp22
+p6
+atp7
+Rp8
 sS'topics'
-p23
+p9
 g3
-((lp24
-tp25
-Rp26
+((lp10
+tp11
+Rp12
 sS'receptors'
-p27
+p13
 g3
-((lp28
-S'5ht7'
+((lp14
+(S'5ht3'
+p15
+I50
+I55
+tp16
+a(S'5ht3'
+p17
+I2057
+I2062
+tp18
+a(S'5ht3'
+p19
+I462
+I467
+tp20
+a(S'5ht3'
+p21
+I2012
+I2017
+tp22
+a(S'5ht3'
+p23
+I903
+I908
+tp24
+a(S'5ht3'
+p25
+I1221
+I1226
+tp26
+atp27
+Rp28
+sS'raw_text_methods'
 p29
-atp30
-Rp31
-sS'regions'
+g3
+((lp30
+S"(13, u'\\\\bagonist')"
+p31
+aS"(12, u'\\\\bantagonist')"
 p32
+atp33
+Rp34
+sS'regions'
+p35
 g3
-((lp33
-S"(71, u'(?i)\\\\b(cerebellums|cerebellum)\\\\b')"
-p34
-atp35
-Rp36
-sS'year'
+((lp36
+S"(3, u'(?i)\\\\b(postsynaptics|postsynaptic)\\\\b')"
 p37
-V1999
-p38
-sS'agonists'
-p39
-g3
-((lp40
-S"(220, u'\\\\b5 ?methoxytryptamine')"
+atp38
+Rp39
+sS'year'
+p40
+V2005
 p41
-aS"(96, u'\\\\bsumatriptan')"
-p42
-aS"(165, u'\\\\bmesulergine')"
-p43
-aS"(222, u'\\\\b5 ?meot')"
-p44
-aS"(158, u'\\\\blsd')"
-p45
-aS"(82, u'\\\\byohimbine')"
-p46
-aS"(98, u'\\\\b5 ?carboxamidotryptamine')"
-p47
-aS"(219, u'\\\\b5 ?ct')"
-p48
-atp49
-Rp50
 sS'species'
-p51
+p42
 g3
-((lp52
-S"(5958, u'(?i)\\\\b(rats|rat)\\\\b')"
-p53
-aS"(3051, u'(?i)\\\\b(pigs|pig)\\\\b')"
-p54
-aS"(4480, u'(?i)\\\\b(guineas|guinea)(-|\\\\s+)?(pigs|pig)\\\\b')"
-p55
-aS"(3062, u'(?i)\\\\b(guineas|guinea)\\\\b')"
-p56
-atp57
-Rp58
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.

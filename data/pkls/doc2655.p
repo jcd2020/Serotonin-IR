@@ -2,88 +2,88 @@
 ParseObject
 p0
 (dp1
-S'antagonists'
+S'methods'
 p2
 c__builtin__
 set
 p3
 ((lp4
-S"(34, u'\\\\bmetergoline')"
+S'Method.ANTAGONIST'
 p5
-aS"(9, u'\\\\bgr ?46611')"
+aS'Method.AGONIST'
 p6
 atp7
 Rp8
-sS'methods'
+sS'topics'
 p9
 g3
 ((lp10
-S'Method.ANTAGONIST'
+S"(13, u'\\\\bantidepress')"
 p11
-aS'Method.AGONIST'
-p12
-atp13
-Rp14
-sS'topics'
-p15
-g3
-((lp16
-S"(3, u'\\\\bsleep')"
-p17
-aS"(16, u'\\\\bfeed')"
-p18
-aS"(4, u'\\\\blocomot')"
-p19
-atp20
-Rp21
+atp12
+Rp13
 sS'receptors'
+p14
+g3
+((lp15
+(S'5ht2c'
+p16
+I1302
+I1308
+tp17
+a(S'5ht2c'
+p18
+I397
+I403
+tp19
+a(S'5ht2c'
+p20
+I164
+I175
+tp21
+a(S'5ht2c'
 p22
-g3
-((lp23
-S'5ht1b'
+I1143
+I1149
+tp23
+a(S'5ht2c'
 p24
-aS'5ht1a'
-p25
-aS'5ht2'
+I1456
+I1462
+tp25
+a(S'5ht2c'
 p26
-aS'5ht1'
-p27
-aS'5ht1d'
-p28
-atp29
-Rp30
-sS'regions'
-p31
+I451
+I457
+tp27
+atp28
+Rp29
+sS'raw_text_methods'
+p30
 g3
-((lp32
-S"(390, u'(?i)\\\\b(laterals|lateral)(-|\\\\s+)?(ventricle|ventricles)\\\\b')"
+((lp31
+S"(13, u'\\\\bagonist')"
+p32
+aS"(12, u'\\\\bantagonist')"
 p33
-aS"(159, u'(?i)\\\\b(paraventriculars|paraventricular)(-|\\\\s+)?(nuclei|nucleus)\\\\b')"
-p34
-atp35
-Rp36
+atp34
+Rp35
+sS'regions'
+p36
+g3
+((lp37
+tp38
+Rp39
 sS'year'
-p37
-V2007
-p38
-sS'agonists'
-p39
-g3
-((lp40
-S"(112, u'\\\\bgr ?46611')"
+p40
+V2000
 p41
-atp42
-Rp43
 sS'species'
-p44
+p42
 g3
-((lp45
-S"(5799, u'(?i)\\\\b(rodents|rodent)\\\\b')"
-p46
-aS"(6753, u'(?i)\\\\b(da|das)\\\\b')"
-p47
-aS"(1312, u'(?i)\\\\b(pigeons|pigeon)\\\\b')"
-p48
-atp49
-Rp50
+((lp43
+S"(4, u'(?i)\\\\b(rats|rat)\\\\b')"
+p44
+atp45
+Rp46
 sb.
